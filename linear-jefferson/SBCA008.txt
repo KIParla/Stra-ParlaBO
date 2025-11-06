@@ -1,0 +1,777 @@
+PSB140	allora cosa:
+PSB140	buonasera
+PSB141	siamo in procinto di fare le zucchine ripiene
+PSB140	>cosa devo fare<
+PSB141	mi devi dare un coltello
+PSB141	oka:y
+PSB141	(°quindici°)
+PSB140	ecco qua
+PSB141	allora ascolta
+PSB140	s[ì]
+PSB141	[b]isogna che vieni qua e che {P} tagli
+PSB141	va bene arrivo aspetta un attimo
+PSB140	okay {P} dimmi cosa,
+PSB141	devi tagliare qui
+PSB141	okay
+PSB140	porto un altro da(i)
+PSB141	eh {P} prendi un altro coltello
+PSB140	sentiamo questo {P} questo (il) vostro cibo
+PSB140	e:h vedrai che ti piace
+PSB141	taglia anche quello,
+PSB141	(o)kay
+PSB140	poi
+PSB140	ecco
+PSB140	poi
+PSB141	dobbiare fare il pestato con la carne
+PSB141	mhmh
+PSB141	ma tro~ questo troppo
+PSB140	era [$moment]a
+PSB140	[(ques~)]
+PSB141	sì [sì] {P} sì
+PSB141	[(involtini)]
+PSB140	xx troppo anche le (zucchine) no?
+PSB140	no: non sono troppe
+PSB141	metti qua
+PSB140	basta così o aggiun~
+PSB141	no secondo me è troppo {P} [levane un po']:
+PSB141	[ecco]
+PSB140	ti ho detto chè troppo
+PSB140	sì: ancora levane ancora un po'
+PSB140	ancora un pochino
+PSB140	basta
+PSB140	non ce l'hai la bilancia?
+PSB141	[per pesare]
+PSB140	[ce l'abbiamo sì] sì
+PSB141	pesa quanto è quello
+PSB140	okay
+PSB140	basta che prendi questo. era un chilo,
+PSB141	così [vediamo quanto è quest]o
+PSB141	[ecco un attimo]
+PSB140	okay
+PSB140	no pesa quello lì
+PSB140	quello
+PSB140	così non lo devi lavare
+PSB141	ma va bene quella bilancia
+PSB141	no no forse lui mi hanno dato di più
+PSB141	sì sì conosco lui
+PSB141	sempre fa: il finto hai capito?
+PSB140	tu dici volevo un chilo mentre lui [fa]
+PSB141	[a:h] te ne ha dato [di più]
+PSB140	[sì pu]re duece~ eh ce~ milleduecento hai capito?
+PSB141	sì s[ì]
+PSB140	[allo]ra: fai questo
+PSB140	eh però non sappiamo quant'è allora va bene dai
+PSB141	pesa quello quanto te ne ha dato novecento,
+PSB140	mezzo chilo
+PSB141	no un chilo e mezzo ti ha dato perché è quasi: un chilo quello più que[sto]
+PSB140	[guarda sì] {ride}
+PSB140	ti ha dato un chilo e mezzo
+PSB140	vabbe dai
+PSB140	non va buttato {P} però
+PSB141	se uno ne vuole un chilo
+PSB141	eh guardati
+PSB140	millequattrocento
+PSB140	vabbè dai
+PSB141	io ho chiesto un chilo lui ne ha dati mille [quattro ce lo] teni[amo]
+PSB141	[va bene]
+PSB140	[allo]ra
+PSB141	quest[o]
+PSB140	[ba]sta?
+PSB140	sì
+PSB141	dai cinque[cento gra]mmi
+PSB141	[mezzo chilo]
+PSB140	okay
+PSB140	mezzo chilo
+PSB140	li mettiamo qua
+PSB140	allora ade~ ci vuole
+PSB141	il sale
+PSB140	mhmh
+PSB141	la noce moscata
+PSB141	oka:y
+PSB140	un attimo
+PSB141	sale fino eh
+PSB140	eh fino questo
+PSB141	sì
+PSB141	sì
+PSB141	noce moscata,
+PSB141	ecco
+PSB140	faccio io?
+PSB141	sì
+PSB140	dimmi se [basta]
+PSB141	[ah no {P} sa]i tu quanto ce ne vuole basta
+PSB140	[okay]
+PSB140	[non troppo] salato
+PSB141	poi metti la noce moscata,
+PSB140	basta
+PSB141	basta basta
+PSB140	sì sì
+PSB140	e poi:
+PSB141	mettiamo l'uovo
+PSB140	sì quanto?
+PSB141	e:h adesso ne mettiamo uno
+PSB140	no no preso piccolini
+PSB140	due allora
+PSB140	se sono piccole due
+PSB141	piccoline
+PSB140	°ah lascia questo°
+PSB140	metti tu
+PSB141	due uova
+PSB140	°questo° già aperto?
+PSB141	E:H
+PSB140	non è paura [non c'è niente] vedi
+PSB140	[aprilo lì]
+PSB141	è buono?
+PSB140	sì:
+PSB140	va bene
+PSB141	pr[endi]
+PSB140	[basta] due?
+PSB140	sì pulisci lì che hai s:porcato tutto
+PSB141	e poi ci vuole la forma,
+PSB140	eh ehm,
+PSB140	il pane
+PSB140	e un cucchiaio
+PSB140	da girare
+PSB140	e:cco qui
+PSB141	prendo intanto il coltello che è lì
+PSB141	vediamo il pane dov'è se lo troviamo il casino {ride}
+PSB140	okay
+PSB141	c'è tutto
+PSB140	allora fai il misto? {P} [dei formaggi]
+PSB141	[sì: s]ì sì un misto di formaggi proprio un mi[sto]
+PSB140	[ok]ay
+PSB141	vediamo un po' e un po'
+PSB140	@sara poi esce alle [sei]
+PSB141	[alle di]ciotto [esce]
+PSB140	[diciotto]
+PSB140	allora
+PSB141	vediamo
+PSB141	aspetta che tolgo questo così sei comoda
+PSB141	e:h dimmi cosa vuoi
+PSB140	ancora?
+PSB140	voglio il formaggio
+PSB140	qua dentro ci mettiamo
+PSB141	un po' di {P} grana
+PSB140	mhmh
+PSB141	riesci ad aprirlo?
+???	un attimino cara mia
+???	wa: adam
+???	adam
+???	adam
+PSB141	xxx
+PSB140	non lo puoi aprire aspetta un attimo
+PSB141	non si apre
+PSB140	mhmh,
+PSB141	mettine metà,
+???	l3robiya 3robi
+PSB141	shka diro
+PSB140	ok[ay]
+PSB140	[altra me]tà
+PSB140	di parmigiano:
+PSB141	okay
+PSB140	[basta]
+PSB140	[vai]
+PSB140	e:h
+PSB141	mescola tu
+PSB140	mescola tu {ride}
+PSB141	mescolare
+PSB141	{ride} sentito cosa ha detto?
+PSB141	allora
+PSB140	possiamo aggiungere un'altra:
+PSB141	uova?
+PSB141	sì perché ho visto no perché {P} quelli piccolini
+PSB140	[della @xx]
+PSB140	[sono piccole] eh ho capi~ della @lara sono?
+PSB141	sono quelli [della @lara]?
+PSB140	[sì sì sì de]lla @lara
+PSB141	no no no [bastano] ba[stano]
+PSB141	[basta]?
+PSB140	[perché qundo a]ggiungi il pane viene troppo [no]?
+PSB141	[no]: no no dev'essere un po' duretto
+PSB140	va be[ne]
+PSB140	[an]zi dobbiamo mettere dell'altra forma
+PSB141	quindi metti un po' di grana {P} e un po' di parmigiano
+PSB140	okay
+PSB141	perché se no qui [e:h]
+PSB141	[pepe]?
+PSB140	pepe nero [no]?
+PSB141	[a:h] se vi piace io non lo metto perché a me non pia[ce]
+PSB140	[va] bene non lo mettiamo
+PSB141	i bambini mangiano col pepe?
+PSB140	no no dai [°facciamo così°]
+PSB140	[che pizzica]
+PSB140	ah sei bravissima
+PSB141	a usare la forchetta io uso il cucchiaio
+PSB141	no: così la forchetta {P} viene
+PSB141	mescolato bene
+PSB140	°io sbaglio per parlare°
+PSB140	no va benissimo
+PSB141	va bene [dai]
+PSB140	[ba]s[ta]?
+PSB140	[a]ggiungi: aggiungi aggiungi: for~ la forma
+PSB141	un po' e [un po']
+PSB140	[ancora]?
+PSB140	sì sì ce ne vuole ancora lì
+PSB141	ma quanta ne p~ metti poca di più ne devi mettere
+PSB141	così:?
+PSB141	{ride}
+PSB141	no perché ho visto che:
+PSB140	viene troppo:
+PSB141	come viene troppo è il bello suo è la forma che [è buo]na
+PSB141	[mh]
+PSB140	va be:ne
+PSB140	eh se ci metti poca forma non sa di niente
+PSB141	°mescola così° se poi c'è bisogno aggiungiamo:
+PSB140	uovo
+PSB141	un uovo sì
+PSB141	solo io uso li guanti?
+PSB140	faccio con le mie mani no?
+PSB140	no no fai con le mani che guanti perché?
+PSB140	ti lavi le mani e poi dopo lo impasti con le ma:ni
+PSB140	coi guanti
+PSB140	allora
+PSB140	allora allora
+PSB140	fammi sentire
+PSB141	as[petta che mi] devo dare (l'antibiotico)
+PSB141	[°okay°]
+PSB140	davvero?
+PSB140	domani
+PSB141	a:h
+PSB140	[a posto così]?
+PSB140	[allora]
+PSB141	sì sì sì fammi sentire com'è e ci vuole il pane adesso
+PSB141	°okay°
+PSB141	lavo le mani anch'io xx lavo le mani
+PSB141	così sei pronta
+PSB141	se no ah metto le guanti?
+PSB141	dimmi cara mia
+PSB140	perché tu troppo sensibile
+PSB141	come sono sensibile
+PSB141	eh sì {P} tu sei sensibile
+PSB141	allora metto
+PSB140	i guanti {ride}
+PSB140	ma cosa dici che son sensibile
+PSB140	vai
+PSB141	[metti il pane]
+PSB140	[(la) ce l'ha perfetta]
+PSB141	la perfezione
+PSB140	eh [la perfezio]ne
+PSB141	[piano]
+PSB140	guarda con li mani viene {P} facile vedi
+PSB141	mah sì si fa: bene con le mani a impastare
+PSB141	ecco
+PSB140	al[lora lui lui] porta @sara o tu?
+PSB140	[ecco]
+PSB140	mah adesso va lui a prendere @sara
+PSB141	che noi dobbiamo andare qui se no se faccio in tempo ci vado io
+PSB140	°va bene°
+PSB141	vediamo
+PSB140	ok[ay]
+PSB140	[allo]ra fammi sentire
+PSB140	secondo me dobbiamo un altro po' di pane
+PSB140	vai
+PSB140	forse basta
+PSB141	lo senti abbastanza duro?
+PSB140	sì: basta
+PSB141	basta?
+PSB140	sì
+PSB140	e:cco
+PSB141	come lo senti l'impasto?
+PSB140	sì sì duro dai
+PSB141	è duro l'[impa]sto?
+PSB140	[sì sì]
+PSB140	adesso dobbiamo riempire le zucchine
+PSB141	però bisogna svuotarle prima eh
+PSB141	e::h
+PSB140	ci vuole quello strumento non ce l'ho
+PSB141	come non ce l'hai
+PSB141	{ride}
+PSB141	non ce l'ho
+PSB140	come
+PSB141	ma se te l'avevo portato
+PSB141	come
+PSB140	non mi ricordo
+PSB141	ma come non ti ricordo dove l'hai messo
+PSB140	aspetta {ride} [cerco]
+PSB141	fa vedere [be]ne
+PSB140	no non lo trovi là {P} aspetta aspetta un attimo [lo cerco io]
+PSB141	[ma scher]zi {P} te l'avevo [pur portato]
+PSB140	[sì: sto scherzan]do [cara mia]
+PSB141	[a:h]
+PSB140	no non è scherzo sto parlando vero
+PSB141	davvero non ce l'hai pi[ù:]?
+PSB140	[ah] non mi ricordo com'è questo strumento
+PSB141	come: non ti ricordi come è questo strumento
+PSB140	a:h dio
+PSB141	no qui non c'è
+PSB140	aspetta vedo mo:
+PSB141	da un'altra parte
+PSB141	eh sì
+PSB140	speriamo
+PSB140	ah e speriamo {P} speriamo
+PSB140	{sospira} te l'ha avevo pur portato
+PSB140	te l'ho comprato
+PSB141	son [sicura]
+PSB140	[a:h] non mi ricordo veramente
+PSB140	eh non ti ricordi
+PSB141	cos'è successo?
+PSB141	no non è qui
+PSB140	io non mi ricordo {P} niente
+PSB140	ma: sì che te l'avevo portato
+PSB140	te l'avevo comprato se poi l'hai buttato
+PSB141	non lo so
+PSB140	no no
+PSB140	ma davvero?
+PSB141	non ce l'hai più
+PSB141	ecco
+PSB140	{ride}
+PSB141	madonna
+PSB140	buco
+PSB140	dai
+PSB140	su
+PSB140	allora
+PSB140	adesso tagli
+PSB141	le zucchine così {P} in quattro parti
+PSB140	>va bene<
+PSB141	quattro parti uno due tre [quattro]
+PSB141	[va bene] dammi
+PSB141	allora
+PSB140	[o:]
+PSB140	[NO]
+PSB141	co~ no così (grandi) [xx]
+PSB140	[eh]
+PSB141	e:h
+PSB140	e:h
+PSB141	[e:h]
+PSB140	[allora] fai tu così mi insegni bene
+PSB140	guarda così
+PSB141	così:
+PSB140	ah ho fat[to troppo]
+PSB140	[e:h tro]ppo grande
+PSB141	devi prendere la misura bene così
+PSB140	okay
+PSB140	così
+PSB141	e così
+PSB140	perché tagliato eh le unghie?
+PSB141	perché mi sono tagliata le unghie?
+PSB140	sì
+PSB140	perché ce le ho deboli e: non non: si spezzano e quindi le ho dovute tagliare
+PSB141	adesso [poi le {P} rifacciamo eh lo so] lo so
+PSB141	[che prima veniva così lunghe]
+PSB140	e allo[ra cara] {P} lavo questo
+PSB140	[vedi sta]
+PSB141	lavalo
+PSB140	cosa dobbiamo lavare ancora o?
+PSB141	no dobbiamo dobbiamo svuo[tarle]
+PSB140	[a:h] {ride}
+PSB140	tu ridi
+PSB141	dobbiamo svuotarle
+PSB140	{ride}
+PSB140	adesso ti faccio vedere dopo lo fai tu
+PSB141	prendi un piatto che ci mettiamo dentro questi
+PSB141	va bene
+PSB141	un attimo
+PSB140	un piatto
+PSB141	sì un piatto
+PSB140	sì
+PSB140	allora questa è la ciccia pronta
+PSB141	questo è il piatto così guarda eh
+PSB140	a:h [okay]
+PSB140	[poi lo fai] be:llo largo il buchino
+PSB141	puoi [anche {P} prendere via un] po'
+PSB140	[mentre tocchi]
+PSB141	>adesso< comincia a mettere dentro
+PSB140	con: mio dito o faccio:
+PSB141	beh con che cosa lo vuoi mettere certo col tuo dito
+PSB140	prendo cosa
+PSB141	ma perché non ho capito così
+PSB140	dammi {ride}
+PSB140	sorbole
+PSB140	e nespole
+PSB141	così
+PSB140	oka:y
+PSB141	okay?
+PSB140	va bene {P} forse abbiamo fatto troppo
+PSB141	no ma dopo facciamo le polpette
+PSB140	ah okay
+PSB140	si fanno le polpette e le zucchine si mettono insieme si mangia un po' di zucchine
+PSB141	e un po' di polpette
+PSB140	mhmh
+PSB141	le riemp[i]
+PSB140	[m]:h
+PSB140	vedrai come sono buone
+PSB141	prendono il sapore della carne sono buone
+PSB141	eh fanno anche dentro (i)l: peperone
+PSB140	sì
+PSB141	sì [c'è chi ci me]tte dentro altre cose io ci metto la ciccia che con la ciccia è buona
+PSB141	[sì]
+PSB141	mettono anche la {P} ciccia dentro peperone
+PSB140	con riso
+PSB141	ah beh sì anche dentro i pomodori {P} [riempio]no i pomodori
+PSB141	[sì]
+PSB140	mhmh
+PSB141	mia mamma riempiva i carciofi
+PSB140	car[ciofo e:h carciofo vie]ne buonisismo
+PSB140	[presente cos'è il carciofo]?
+PSB140	con
+PSB141	l'impasto
+PSB140	meglio di zucchine
+PSB140	l'impasto con l'uovo:, la forma:, e con
+PSB140	non ci metteva la carne nei carciofi però ci metteva l'uovo,
+PSB140	il pane,
+PSB141	la forma,
+PSB141	okay
+PSB140	sto
+PSB141	vuoi provare?
+PSB140	sì [sì]
+PSB141	[a]: a fare questi?
+PSB140	dam[mi cara]
+PSB141	[vediamo]
+PSB140	[vedi {P} che sono] brava
+PSB140	[lo riempi]
+PSB140	sì sì quando vuoi
+PSB141	sei brava
+PSB140	xxditi guarda vuoi un po[co]?
+PSB141	[s]ì
+PSB140	ordinato
+PSB140	sì sì
+PSB141	gliel'ho già detto con @sara le ho detto guarda che stasera si mangiano
+PSB140	questo: non: {P} [lasciano più no]
+PSB141	[°n:~° no par]ti da dietro
+PSB140	mh[mh]
+PSB140	[questi qui] si parte da dietro perché se no fai fatica
+PSB141	par[ti da qua]:
+PSB141	[tanta]
+PSB140	okay
+PSB141	e poi dopo si allarga qui
+PSB141	s:ì cara
+PSB140	questo viene bello
+PSB140	dai {P} riempiamo
+PSB140	questi sono già pieni {P} di ciccia
+PSB140	allora gliel'ho detto con @sara ho detto guarda che stasera si mangiano: le zucchine così a:h a:h ha fatto una faccia come dire
+PSB141	che s[chifo]
+PSB140	[e:h perché] lei non piace zucchine
+PSB141	beh non gli piace perché non c'è la ciccia vedrai che con la ciccia gli piace
+PSB140	°okay°
+PSB141	adesso vediamo se le mangia @hassan {P} secondo te lui le mangia?
+PSB140	non lo so {ride}
+PSB141	si è svegliato?
+PSB140	no no
+PSB141	a:h
+PSB141	°ecco°
+PSB140	°guarda come viene°
+PSB141	eh l'hai fatto bene
+PSB140	{ride}
+PSB140	stata brava
+PSB141	questa mattina come è andata a scuola?
+PSB141	bene
+PSB141	abbiamo imparato: tanti programma
+PSB141	e:h per mettere sul telefono
+PSB141	programmi aiutano di scrivere cercare
+PSB140	cercare parole italiane tutto
+PSB140	beh
+PSB141	in quante siete a scuola?
+PSB141	dipende {ride}
+PSB141	ogni giorno vengono tre:
+PSB141	quattro
+PSB140	andata bene
+PSB141	quand'è che ci devi tornare?
+PSB141	venerdì
+PSB140	ogni mercoledì e venerdì
+PSB141	allora adesso fai le polpettine che le mettiamo qui in mezzo
+PSB140	mhmh poi?
+PSB141	poi ci mettiamo l'olio sotto,
+PSB140	mhmh,
+PSB141	e poi ci vogliono le polpette
+PSB141	mhmh
+PSB140	facciamo polpette?
+PSB141	sì fai le polpet[te da lì]
+PSB140	[fai anche tu]
+PSB141	anch'io devo fare le polpette
+PSB140	così piccole o gran[di]?
+PSB141	[no] un po' più gra:ndi
+PSB141	prendi questi
+PSB140	[così]
+PSB141	[così]
+PSB140	m::h
+PSB140	così la polpettina deve essere più o meno {P} sì brava
+PSB141	eh quello lì se ne rimane lo puoi anche [congelare:]
+PSB140	[sì sì metto sì sì] sì sì
+PSB141	e lo metti nel frigo e lo [fai un'altra vo]lta adesso facciamo le polpette per stasera
+PSB140	[sì sì così]
+PSB141	così le mangia:te
+PSB140	°va bene°
+PSB141	°dai° i bambini li mangiano no {P} col sugo
+PSB140	sì
+PSB140	questo è un po' grandino
+PSB141	un po' troppo eh
+PSB141	chi fatto io?
+PSB140	no te
+PSB140	l'ho fatta io
+PSB140	va bene dai
+PSB140	più o meno tutte uguali perché
+PSB140	dopo si devono rosolare
+PSB140	e quindi
+PSB141	devono essere più o meno tutte uguali
+PSB140	fai passata {P} sì
+PSB141	mh?
+PSB140	sopra fai la passa[ta]?
+PSB140	[s]ì dopo ci mettiamo un po' di passata un po' di pomodoro ma prima devono rosolarsi
+PSB140	ne facciamo ancora un'altra?
+PSB140	due:
+PSB141	quattro {P} sei otto due a testa più le zucchine
+PSB140	e tu?
+PSB141	no io io vado a casa devo andare a ballare sta[sera]
+PSB140	[dai cara] mia hai fatto questo cibo allora devi mangiare il tuo ci(bo)
+PSB141	senti
+PSB140	[faccio un'altra]?
+PSB140	[non xxare])
+PSB140	fanne altre due dai
+PSB141	metti una qui una qua
+PSB140	mhmh mh zucchi[ni:]
+PSB140	[dopo ci devi mettere que]sti che sono buoni anche questi eh
+PSB141	questi [fa~]
+PSB140	[dove mettia]mo?
+PSB140	qui dopo fai un sughino eh
+PSB140	non si butta niente
+PSB141	(questo) l'hai fatto un po' [grande]
+PSB140	[grande] {P} sì
+PSB141	non si butta nien[te]
+PSB140	[°no°] con @rosina non si butta niente {ride}
+PSB140	tu ridi mi prendi in giro io non butto niente
+PSB141	c'è gente che fa la fame secondo te: butto [via la roba]
+PSB140	[sì hai ragione] ragione
+PSB141	eh
+PSB140	allora
+PSB140	contiamole,
+PSB141	[cont]a
+PSB141	[°uno°]
+PSB141	due quattro sei otto dieci
+PSB140	allora dieci pol[pette]
+PSB141	[dieci pol]pet[te]
+PSB140	[po]:i:
+PSB141	più tutto [questo]
+PSB140	[zucchi]ne due quattro sei otto dieci {P} dodici {P} quattordici
+PSB140	brava
+PSB141	questo qui lo puoi mettere via dentro a un sacchettino
+PSB140	va bene
+PSB141	che poi fai delle altre polpette queste le puoi fare fritte
+PSB140	sì sì
+PSB141	con le patatine
+PSB141	allora
+PSB141	stato bellissimo
+PSB141	lavoro {P} con te
+PSB141	io faccio una cosa mette dopo faccio una cosa così eh
+PSB140	be[ne così]
+PSB141	[beh le schia]cci
+PSB141	sì
+PSB141	certo
+PSB141	sottili così quando vuoi
+PSB140	subito: capito
+PSB140	sì sì sì
+PSB140	la schiacci e: dopo
+PSB141	si scongela su[bito invece] se la lasci grossa non [si sconge]la lo so
+PSB141	[sì]
+PSB140	[sì]
+PSB141	lo [faccio anch'io] a casa
+PSB141	[a posto]
+PSB140	va bene {P} allora dimmii
+PSB141	allora adesso ci dobbiamo mettere l'olio,
+PSB140	mhmh
+PSB141	e dopo di che le mettiamo a soffriggere
+PSB140	MH? {P} ah sì
+PSB141	soffriggere
+PSB140	sì sì soffriggere significa {ride}
+PSB140	mettere sul fuo:co,
+PSB140	e poi farli:
+PSB141	soffriggere
+PSB140	eh [sì sì]
+PSB141	[noi dicia]mo soffriggere non so voi come dite
+PSB140	[basta]
+???	[basta] sì: sì:
+PSB141	adam
+PSB141	lascialo #_3a khallih hak
+PSB141	eh
+???	xx
+PSB141	xx
+???	khallih drok ma msalish
+PSB141	xx
+PSB141	wa 3a: khallih
+???	khalli dirri i tsareh
+???	#xxx
+PSB141	xxx xxx
+PSB140	wash (bghiti) tfai9u?
+PSB141	e:cco
+PSB141	allora
+PSB140	mhmh,
+PSB141	accendi il fuo:co
+PSB140	okay
+PSB141	ci devi mettere sopra {P} alle zucchine {P} un po' di sale
+PSB140	okay
+PSB141	un po' di sale lì intorno alle zucchine,
+PSB141	va bene
+PSB140	un po' di sale
+PSB140	sì
+PSB140	non tanto eh,
+PSB141	per[ché la ciccia] è già salata {P} solo sulle zucchine
+PSB141	[sì sì]
+PSB141	{ride}
+PSB140	a:h
+???	va bene dai
+PSB140	xx
+???	metti [via quello]
+PSB141	#_[xxx]
+???	e:h okay
+PSB141	xx wa shrito
+PSB141	shuf ila kayn hda namusia
+PSB141	e:h allora
+PSB140	vuoi una forchetta?
+PSB141	sì
+PSB141	mhmh
+PSB140	gi(ù)?
+PSB141	no adesso [non ancora] da girare no però
+PSB140	[eh]
+PSB141	pochino
+PSB140	xx
+PSB140	piano
+PSB140	pianino pianino
+PSB141	più che con una forchetta eh ci vuole: per: quelle ci [vuole:]
+PSB140	[vuole la mia] mano
+PSB141	ma ti bruci
+PSB140	eh non mi bruci la mia mano è troppo forte [è abituata]
+PSB141	[<brucio>] {P} non mi bruci[o]
+PSB141	[no]n mi bruciO {ride}
+PSB140	abitua:ta
+PSB140	allora visto che la tua mano è abituata prendi un cucchiaio per queste e: la forchetta per quello
+PSB140	okay
+PSB141	ecco così vuol dire <rosolarle>
+PSB140	ok[ay]
+PSB141	[xx] eh?
+PSB140	va bene
+PSB141	le rosoliamo
+PSB141	mentre tu riso:~ eh $risolare con lo so cos'è
+PSB140	eh {P} come dico {ride}
+PSB141	no
+PSB140	fac[cio le] pizzette {ride}
+PSB140	[come si di~]
+PSB141	allora tu fai le pizzette io intanto <rosolo>
+PSB140	rosolo {P} faccio rosolo
+PSB141	faccio rosolare le polpettine
+PSB140	così imparo qualche parola parole
+PSB141	ah mica parolac[ce]
+PSB140	[eh] no no {ride}
+PSB141	anche quelle {P} anche quelle
+PSB140	(eh ce l'ho le)
+PSB140	e anche quelle
+PSB141	che ogni tanto dico anche quelle
+PSB140	a:h {ride}
+PSB140	le parolacce
+PSB140	impari anche quelle poi
+PSB141	le parolacce sono le prima che si imparano eh
+PSB141	a:h sì
+PSB141	perché {P} subito
+PSB140	si sente male
+PSB140	ecco metti un po' più basso brava
+PSB141	adesso devo andare a casa anche a fare la doccia {P} lavarmi i capelli
+PSB140	anche a:h oggi vuoi uscire?
+PSB141	esco con la @marisa stasera
+PSB140	a::h
+PSB141	e quindi
+PSB141	allora
+PSB140	mi porti con {P} te
+PSB141	ah se vuoi venire
+PSB140	ballo con voi
+PSB140	m::h adesso quando aprono all'aperto a ca' dei mandorli
+PSB140	andiamo una sera
+PSB141	andiamo a [mangia~]
+PSB140	[però] gia c'è l: la festa di pesce a osteria grande no?
+PSB141	sai che non lo so:
+PSB140	[perché ho visto un]:
+PSB141	[boh {P} può darsi]
+PSB140	e:h [cartello]
+PSB141	[un manifes~ u]: un [cartello un manifes][to]
+PSB141	[sì sì sì pr~]
+PSB141	[sì]
+PSB140	di pesce
+PSB140	può darsi
+PSB140	può darsi che ci sia stasera o domani e dopodomani non lo so e lunedi lo fanno per tre quattro giorni
+PSB140	non lo so può darsi
+PSB141	non ho visto non ho guardato
+PSB140	@rosina per te faccio una pizza con funghi: o:
+PSB141	no per me [non farla] {P} no [no]
+PSB141	[con xx]
+PSB140	[io] già: {P} sto preparando [scusa]
+PSB140	[ho capi]to che tu stai preparando ma io non: mangio o:
+PSB141	c(io)è qui in questa casa si mangia solo
+PSB140	eh
+PSB140	e:h
+PSB140	voglio dire
+PSB140	io c'ho la pancia piena prima mi ha~ mi hai dato un bicchiere enorme di latte
+PSB140	con: quella cosa che ho mangiato volentieri però
+PSB140	per te era dura per me invece era buonissima
+PSB141	no mi è piaciuto tanto non sto scherzando non è che l'ho mangiata malvolentieri mi piace così croccante
+PSB141	ma perché noi
+PSB141	mangiamo (non) è come:
+PSB140	così dura dura
+PSB141	eh ho capito che la mangiate più tenera però: [a me piace così crocca]nte
+PSB141	[sì tenera]
+PSB140	{ride}
+PSB141	a me piace croccante
+PSB140	[mhmh]
+PSB141	°[è buona cro]ccante°
+PSB140	devi fare anche [un]
+PSB141	[no] no non fare per me ma perch[é]
+PSB141	[no] no
+PSB141	no qua faccio per te
+PSB140	qu[e:sta]
+PSB141	[no falle pe]r @sa[ra come gli pia]ce a lei
+PSB140	[come piace]
+PSB141	come [gli piacciono a @sara]?
+PSB140	[loro piacciono con] tonno e basta
+PSB141	e allora metti il tonno
+PSB140	sì
+PSB140	così mangiano i bambini
+PSB141	hanno i miei gusti eh
+PSB140	eh
+PSB140	{ride} mangiano come me
+PSB141	man[giano il to]nno
+PSB141	[eh perché abi~] {ride}
+PSB140	$natano qui {ride}
+PSB141	eh sono [nati qua]
+PSB141	[hanno preso] {ride}
+PSB140	[i suoi gu~ sì sì]
+PSB141	[le abitudini italiane]
+PSB141	m::h
+PSB141	faccio due senza
+PSB140	tonno
+PSB141	mi alzi un po' il forno il: f~ {P} for[nello] qua
+PSB141	[sì sì]
+PSB140	sì
+PSB141	il gas
+PSB141	sì
+PSB140	oh dio
+PSB140	vedi come vengono?
+PSB141	tutte bell[e:]
+PSB141	[sì sì] bellissime
+PSB141	(di pane)
+PSB141	allora
+PSB141	e dov'è la carta
+PSB140	che asciugo
+PSB141	ma questi sono i tegami che ti avevo comprato io no?
+PSB140	no quelle che ho comprato io
+PSB141	a:h
+PSB141	quell(i): ho lasciato per avanti
+PSB141	piace molto
+PSB140	{ride}
+PSB141	ti piacciono? non li vuoi usare per[ché ti pia]cciono?
+PSB141	[sì:]
+PSB141	no è colori bellissimo
+PSB141	ci vuole una cucina:
+PSB140	troppo bella
+PSB141	va bene dai
+PSB140	allora metti forno in basso dopo lascia:
+PSB141	va bene dai lo [mettiamo più] in basso
+PSB141	[okay]
+PSB141	è bellissimo
+PSB141	guarda
+PSB140	xx buoni buoni
+PSB140	okay
