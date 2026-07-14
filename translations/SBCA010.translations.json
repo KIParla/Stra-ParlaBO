@@ -1,0 +1,474 @@
+[
+  {
+    "tu_id": "1",
+    "speaker": "PSB162_trad",
+    "start": "1.080",
+    "end": "1.580",
+    "parent_tu_id": "0",
+    "text": "questa"
+  },
+  {
+    "tu_id": "4",
+    "speaker": "PSB162_trad",
+    "start": "2.200",
+    "end": "4.880",
+    "parent_tu_id": "3",
+    "text": "era la segreteria qualcosa di"
+  },
+  {
+    "tu_id": "9",
+    "speaker": "PSB162_trad",
+    "start": "9.614",
+    "end": "13.020",
+    "parent_tu_id": "8",
+    "text": "guarda non c'ho nessun debito di energia"
+  },
+  {
+    "tu_id": "17",
+    "speaker": "PSB162_trad",
+    "start": "30.990",
+    "end": "33.040",
+    "parent_tu_id": "16",
+    "text": "domani ti preparo xx"
+  },
+  {
+    "tu_id": "21",
+    "speaker": "PSB162_trad",
+    "start": "33.460",
+    "end": "35.580",
+    "parent_tu_id": "20",
+    "text": "te lo aggiusterò"
+  },
+  {
+    "tu_id": "42",
+    "speaker": "PSB161_trad",
+    "start": "61.580",
+    "end": "63.780",
+    "parent_tu_id": "41",
+    "text": "no no ascolta ascolta due secondi"
+  },
+  {
+    "tu_id": "60",
+    "speaker": "PSB161_trad",
+    "start": "90.530",
+    "end": "92.520",
+    "parent_tu_id": "59",
+    "text": "secondo me è andata via la luce"
+  },
+  {
+    "tu_id": "90",
+    "speaker": "PSB161_trad",
+    "start": "144.640",
+    "end": "146.130",
+    "parent_tu_id": "89",
+    "text": "vabbè chi ti vedrà tanto?"
+  },
+  {
+    "tu_id": "98",
+    "speaker": "PSB161_trad",
+    "start": "169.510",
+    "end": "169.890",
+    "parent_tu_id": "97",
+    "text": "no"
+  },
+  {
+    "tu_id": "100",
+    "speaker": "PSB161_trad",
+    "start": "170.930",
+    "end": "171.390",
+    "parent_tu_id": "99",
+    "text": "te lo giuro"
+  },
+  {
+    "tu_id": "108",
+    "speaker": "PSB161_trad",
+    "start": "182.140",
+    "end": "182.790",
+    "parent_tu_id": "106",
+    "text": "le hai messe"
+  },
+  {
+    "tu_id": "122",
+    "speaker": "PSB161_trad",
+    "start": "205.430",
+    "end": "206.730",
+    "parent_tu_id": "121",
+    "text": "vabbè è uguale"
+  },
+  {
+    "tu_id": "132",
+    "speaker": "PSB161_trad",
+    "start": "219.990",
+    "end": "221.040",
+    "parent_tu_id": "131",
+    "text": "vacca boia"
+  },
+  {
+    "tu_id": "166",
+    "speaker": "PSB161_trad",
+    "start": "300.000",
+    "end": "302.740",
+    "parent_tu_id": "165",
+    "text": "che non capisce niente ed è uno scappato di casa il libanese"
+  },
+  {
+    "tu_id": "172",
+    "speaker": "PSB162_trad",
+    "start": "313.639",
+    "end": "314.934",
+    "parent_tu_id": "171",
+    "text": "come raccontami dall'inizio"
+  },
+  {
+    "tu_id": "174",
+    "speaker": "PSB161_trad",
+    "start": "315.344",
+    "end": "316.902",
+    "parent_tu_id": "173",
+    "text": "allora praticamente che ha detto"
+  },
+  {
+    "tu_id": "181",
+    "speaker": "PSB161_trad",
+    "start": "330.779",
+    "end": "331.693",
+    "parent_tu_id": "180",
+    "text": "cosa fai là?"
+  },
+  {
+    "tu_id": "184",
+    "speaker": "PSB161_trad",
+    "start": "334.090",
+    "end": "335.049",
+    "parent_tu_id": "183",
+    "text": "grazie mille"
+  },
+  {
+    "tu_id": "189",
+    "speaker": "PSB161_trad",
+    "start": "337.836",
+    "end": "338.787",
+    "parent_tu_id": "188",
+    "text": "la sera andiamo"
+  },
+  {
+    "tu_id": "191",
+    "speaker": "PSB162_trad",
+    "start": "338.893",
+    "end": "339.664",
+    "parent_tu_id": "190",
+    "text": "iniziamo. via"
+  },
+  {
+    "tu_id": "204",
+    "speaker": "PSB161_trad",
+    "start": "357.541",
+    "end": "362.738",
+    "parent_tu_id": "203",
+    "text": "è lei che ha chiesto da sola ogni tanto gli chiede di me così tanto per farmi avere delle informazioni capito"
+  },
+  {
+    "tu_id": "221",
+    "speaker": "PSB161_trad",
+    "start": "400.525",
+    "end": "403.869",
+    "parent_tu_id": "220",
+    "text": "perché non voglio che magari dopo glielo va a dire le scappa o qualcosa capito"
+  },
+  {
+    "tu_id": "235",
+    "speaker": "PSB161_trad",
+    "start": "431.779",
+    "end": "437.604",
+    "parent_tu_id": "234",
+    "text": "oppure sì le maglie normali quelle le scarpe da ginnastica non con il mocassino il tallieur"
+  },
+  {
+    "tu_id": "248",
+    "speaker": "PSB161_trad",
+    "start": "456.565",
+    "end": "458.058",
+    "parent_tu_id": "247",
+    "text": "sì mi sono ingrassata un po' sì lo so"
+  },
+  {
+    "tu_id": "293",
+    "speaker": "PSB161_trad",
+    "start": "549.084",
+    "end": "551.909",
+    "parent_tu_id": "292",
+    "text": "è vestito con i jeans come un barbone"
+  },
+  {
+    "tu_id": "299",
+    "speaker": "PSB161_trad",
+    "start": "557.838",
+    "end": "559.825",
+    "parent_tu_id": "298",
+    "text": "la prossima volta devo stare un po' zitta"
+  },
+  {
+    "tu_id": "312",
+    "speaker": "PSB161_trad",
+    "start": "582.429",
+    "end": "583.208",
+    "parent_tu_id": "311",
+    "text": "è così"
+  },
+  {
+    "tu_id": "314",
+    "speaker": "PSB162_trad",
+    "start": "584.461",
+    "end": "585.182",
+    "parent_tu_id": "313",
+    "text": "è così"
+  },
+  {
+    "tu_id": "360",
+    "speaker": "PSB161_trad",
+    "start": "689.916",
+    "end": "691.994",
+    "parent_tu_id": "359",
+    "text": "non ho mai visto un bagno così"
+  },
+  {
+    "tu_id": "373",
+    "speaker": "PSB161_trad",
+    "start": "708.500",
+    "end": "710.636",
+    "parent_tu_id": "372",
+    "text": "i diavoli? xxx"
+  },
+  {
+    "tu_id": "382",
+    "speaker": "PSB161_trad",
+    "start": "723.013",
+    "end": "725.299",
+    "parent_tu_id": "381",
+    "text": "ah fai se~ dai cioè sono io"
+  },
+  {
+    "tu_id": "390",
+    "speaker": "PSB161_trad",
+    "start": "731.338",
+    "end": "732.032",
+    "parent_tu_id": "389",
+    "text": "lavaggio"
+  },
+  {
+    "tu_id": "396",
+    "speaker": "PSB161_trad",
+    "start": "742.351",
+    "end": "743.487",
+    "parent_tu_id": "395",
+    "text": "sì dobbiamo coprirlo"
+  },
+  {
+    "tu_id": "398",
+    "speaker": "PSB162_trad",
+    "start": "743.007",
+    "end": "746.338",
+    "parent_tu_id": "397",
+    "text": "sì ma io faccio così perché sotto c'è il sacchetto"
+  },
+  {
+    "tu_id": "406",
+    "speaker": "PSB162_trad",
+    "start": "753.318",
+    "end": "754.013",
+    "parent_tu_id": "405",
+    "text": "serve una busta"
+  },
+  {
+    "tu_id": "410",
+    "speaker": "PSB162_trad",
+    "start": "755.896",
+    "end": "757.877",
+    "parent_tu_id": "409",
+    "text": "giuro su dio se volete sedervi qua fuori d'estate"
+  },
+  {
+    "tu_id": "415",
+    "speaker": "PSB162_trad",
+    "start": "761.494",
+    "end": "764.416",
+    "parent_tu_id": "414",
+    "text": "ci sta ma deve essere ricoperto"
+  },
+  {
+    "tu_id": "422",
+    "speaker": "PSB163_trad",
+    "start": "768.331",
+    "end": "771.571",
+    "parent_tu_id": "421",
+    "text": "ascolta il divano se diventa caldo"
+  },
+  {
+    "tu_id": "426",
+    "speaker": "PSB162_trad",
+    "start": "772.182",
+    "end": "773.740",
+    "parent_tu_id": "425",
+    "text": "beh ora che faccio porto questi in francia?"
+  },
+  {
+    "tu_id": "429",
+    "speaker": "PSB161_trad",
+    "start": "774.117",
+    "end": "775.292",
+    "parent_tu_id": "428",
+    "text": "portali in francia"
+  },
+  {
+    "tu_id": "447",
+    "speaker": "PSB161_trad",
+    "start": "802.909",
+    "end": "803.818",
+    "parent_tu_id": "446",
+    "text": "cosa ne pensi?"
+  },
+  {
+    "tu_id": "450",
+    "speaker": "PSB161_trad",
+    "start": "806.630",
+    "end": "807.721",
+    "parent_tu_id": "449",
+    "text": "lo compro io"
+  },
+  {
+    "tu_id": "459",
+    "speaker": "PSB162_trad",
+    "start": "820.883",
+    "end": "822.377",
+    "parent_tu_id": "458",
+    "text": "ci sta ci sta il divano lì"
+  },
+  {
+    "tu_id": "466",
+    "speaker": "PSB162_trad",
+    "start": "832.415",
+    "end": "832.883",
+    "parent_tu_id": "465",
+    "text": "in cosa?"
+  },
+  {
+    "tu_id": "501",
+    "speaker": "PSB162_trad",
+    "start": "892.994",
+    "end": "896.955",
+    "parent_tu_id": "500",
+    "text": "senti parlo nel dialetto di pa~ tanti dicono mi parli mi di~ mi sembra sempre parmigiano"
+  },
+  {
+    "tu_id": "504",
+    "speaker": "PSB163_trad",
+    "start": "899.500",
+    "end": "900.300",
+    "parent_tu_id": "503",
+    "text": "parma"
+  },
+  {
+    "tu_id": "508",
+    "speaker": "PSB162_trad",
+    "start": "901.987",
+    "end": "905.013",
+    "parent_tu_id": "507",
+    "text": "ha detto parmigian adesso immaginati cosa xx negli anni novana"
+  },
+  {
+    "tu_id": "514",
+    "speaker": "PSB162_trad",
+    "start": "912.110",
+    "end": "916.545",
+    "parent_tu_id": "513",
+    "text": "ma per costruirla ci lavoravo per bene poi dopo ho iniziato a stare zitto"
+  },
+  {
+    "tu_id": "529",
+    "speaker": "PSB162_trad",
+    "start": "946.994",
+    "end": "951.643",
+    "parent_tu_id": "528",
+    "text": "cioè grammaticalmente come te come quello io faccio troppi errori cioè perché non"
+  },
+  {
+    "tu_id": "549",
+    "speaker": "PSB163_trad",
+    "start": "987.390",
+    "end": "988.377",
+    "parent_tu_id": "548",
+    "text": "cosa intendi?"
+  },
+  {
+    "tu_id": "565",
+    "speaker": "PSB162_trad",
+    "start": "1008.987",
+    "end": "1011.682",
+    "parent_tu_id": "564",
+    "text": "come una tipa"
+  },
+  {
+    "tu_id": "568",
+    "speaker": "PSB162_trad",
+    "start": "1012.286",
+    "end": "1013.565",
+    "parent_tu_id": "567",
+    "text": "una che è andata in ospedale"
+  },
+  {
+    "tu_id": "656",
+    "speaker": "PSB161_trad",
+    "start": "1166.403",
+    "end": "1166.857",
+    "parent_tu_id": "655",
+    "text": "ma cosa dici"
+  },
+  {
+    "tu_id": "789",
+    "speaker": "PSB162_trad",
+    "start": "1444.630",
+    "end": "1447.422",
+    "parent_tu_id": "788",
+    "text": "è per quello che il camion si è tutto distrutto da davanti. è per questo."
+  },
+  {
+    "tu_id": "818",
+    "speaker": "PSB163_trad",
+    "start": "1484.007",
+    "end": "1485.546",
+    "parent_tu_id": "817",
+    "text": "spegni quella merda"
+  },
+  {
+    "tu_id": "829",
+    "speaker": "PSB162_trad",
+    "start": "1504.286",
+    "end": "1505.279",
+    "parent_tu_id": "828",
+    "text": "xx semplice no?"
+  },
+  {
+    "tu_id": "833",
+    "speaker": "PSB163_trad",
+    "start": "1507.864",
+    "end": "1509.182",
+    "parent_tu_id": "832",
+    "text": "ti do un pugno finché non voli"
+  },
+  {
+    "tu_id": "835",
+    "speaker": "PSB161_trad",
+    "start": "1509.221",
+    "end": "1512.149",
+    "parent_tu_id": "834",
+    "text": "ma come mi dai un pugno finché volo? questa è roba mia"
+  },
+  {
+    "tu_id": "837",
+    "speaker": "PSB162_trad",
+    "start": "1510.533",
+    "end": "1514.610",
+    "parent_tu_id": "836",
+    "text": "grazie a dio allah tutta la gloria a lui l'esaltato xxx"
+  }
+]

@@ -1,0 +1,730 @@
+[
+  {
+    "tu_id": "94",
+    "speaker": "PSB079_trad",
+    "start": "177.390",
+    "end": "178.013",
+    "parent_tu_id": "93",
+    "text": "volgari"
+  },
+  {
+    "tu_id": "142",
+    "speaker": "PSB067_trad",
+    "start": "242.349",
+    "end": "244.191",
+    "parent_tu_id": "141",
+    "text": "ciao xxx"
+  },
+  {
+    "tu_id": "144",
+    "speaker": "???_trad",
+    "start": "245.233",
+    "end": "247.291",
+    "parent_tu_id": "143",
+    "text": "tutto bene tutto bene"
+  },
+  {
+    "tu_id": "276",
+    "speaker": "PSB080_trad",
+    "start": "432.175",
+    "end": "433.260",
+    "parent_tu_id": "275",
+    "text": "le amiche"
+  },
+  {
+    "tu_id": "280",
+    "speaker": "PSB079_trad",
+    "start": "433.351",
+    "end": "435.818",
+    "parent_tu_id": "279",
+    "text": "ai tuoi figli piace quello come si chiama"
+  },
+  {
+    "tu_id": "664",
+    "speaker": "PSB067_trad",
+    "start": "1039.890",
+    "end": "1041.008",
+    "parent_tu_id": "663",
+    "text": "asfi dove si trova in marocco"
+  },
+  {
+    "tu_id": "706",
+    "speaker": "PSB080_trad",
+    "start": "1087.584",
+    "end": "1088.188",
+    "parent_tu_id": "705",
+    "text": "vicino al mare"
+  },
+  {
+    "tu_id": "713",
+    "speaker": "PSB067_trad",
+    "start": "1094.578",
+    "end": "1102.097",
+    "parent_tu_id": "712",
+    "text": "oddio io l'ho detto xxx ho detto studi studi"
+  },
+  {
+    "tu_id": "777",
+    "speaker": "PSB067_trad",
+    "start": "1195.981",
+    "end": "1196.338",
+    "parent_tu_id": "776",
+    "text": "in arabo"
+  },
+  {
+    "tu_id": "780",
+    "speaker": "PSB079_trad",
+    "start": "1197.260",
+    "end": "1199.383",
+    "parent_tu_id": "779",
+    "text": "abbiamo la stessa parola"
+  },
+  {
+    "tu_id": "782",
+    "speaker": "PSB067_trad",
+    "start": "1199.396",
+    "end": "1200.149",
+    "parent_tu_id": "781",
+    "text": "abbiamo lo stesso livello"
+  },
+  {
+    "tu_id": "784",
+    "speaker": "PSB079_trad",
+    "start": "1200.162",
+    "end": "1201.351",
+    "parent_tu_id": "783",
+    "text": "stessa giustizia"
+  },
+  {
+    "tu_id": "795",
+    "speaker": "PSB080_trad",
+    "start": "1213.295",
+    "end": "1216.516",
+    "parent_tu_id": "794",
+    "text": "però questo non c'era ovviamente xxx"
+  },
+  {
+    "tu_id": "797",
+    "speaker": "PSB067_trad",
+    "start": "1214.705",
+    "end": "1218.508",
+    "parent_tu_id": "796",
+    "text": "abbiamo anche les émission come lo dicono in italiano"
+  },
+  {
+    "tu_id": "800",
+    "speaker": "PSB079_trad",
+    "start": "1219.951",
+    "end": "1224.066",
+    "parent_tu_id": "799",
+    "text": "sì sì les émissions france marche come si dice"
+  },
+  {
+    "tu_id": "812",
+    "speaker": "PSB079_trad",
+    "start": "1236.771",
+    "end": "1240.730",
+    "parent_tu_id": "811",
+    "text": "brava così così quando finiscono come si chiama vanno in francia"
+  },
+  {
+    "tu_id": "862",
+    "speaker": "PSB079_trad",
+    "start": "1336.016",
+    "end": "1336.713",
+    "parent_tu_id": "861",
+    "text": "con l-ḥarsha"
+  },
+  {
+    "tu_id": "865",
+    "speaker": "PSB080_trad",
+    "start": "1337.328",
+    "end": "1338.541",
+    "parent_tu_id": "864",
+    "text": "no è il msemmen"
+  },
+  {
+    "tu_id": "880",
+    "speaker": "PSB080_trad",
+    "start": "1360.336",
+    "end": "1361.639",
+    "parent_tu_id": "879",
+    "text": "come si chiama l-ṭa3rija?"
+  },
+  {
+    "tu_id": "884",
+    "speaker": "PSB079_trad",
+    "start": "1365.311",
+    "end": "1368.967",
+    "parent_tu_id": "883",
+    "text": "e festeggiamo con una cosa non lo so come si chiama xxx c'è su internet"
+  },
+  {
+    "tu_id": "887",
+    "speaker": "PSB067_trad",
+    "start": "1373.844",
+    "end": "1377.910",
+    "parent_tu_id": "886",
+    "text": "non c'è il suo nome ṭa3rija si chiama tampone"
+  },
+  {
+    "tu_id": "890",
+    "speaker": "PSB067_trad",
+    "start": "1378.468",
+    "end": "1379.968",
+    "parent_tu_id": "889",
+    "text": "quella xxxx come si chiama"
+  },
+  {
+    "tu_id": "910",
+    "speaker": "PSB067_trad",
+    "start": "1420.238",
+    "end": "1422.328",
+    "parent_tu_id": "909",
+    "text": "mu3ad"
+  },
+  {
+    "tu_id": "932",
+    "speaker": "PSB079_trad",
+    "start": "1460.975",
+    "end": "1465.402",
+    "parent_tu_id": "931",
+    "text": "dove si trova hijab paradise sta a bologna al centro di bologna sì"
+  },
+  {
+    "tu_id": "992",
+    "speaker": "PSB080_trad",
+    "start": "1575.992",
+    "end": "1578.016",
+    "parent_tu_id": "991",
+    "text": "cous cous trid tajine"
+  },
+  {
+    "tu_id": "1144",
+    "speaker": "PSB080_trad",
+    "start": "1868.623",
+    "end": "1872.377",
+    "parent_tu_id": "1143",
+    "text": "e basket bellissimo e tipo escono molto all'aperto"
+  },
+  {
+    "tu_id": "1188",
+    "speaker": "PSB079_trad",
+    "start": "1952.697",
+    "end": "1954.180",
+    "parent_tu_id": "1187",
+    "text": "va tutti gli anni sì"
+  },
+  {
+    "tu_id": "1196",
+    "speaker": "PSB067_trad",
+    "start": "1964.902",
+    "end": "1968.590",
+    "parent_tu_id": "1195",
+    "text": "non è che sei appena tornata dal marocco, non è che sei appena tornata dal marocco"
+  },
+  {
+    "tu_id": "1218",
+    "speaker": "PSB080_trad",
+    "start": "1993.320",
+    "end": "1995.770",
+    "parent_tu_id": "1217",
+    "text": "voleva rimanere in marocco"
+  },
+  {
+    "tu_id": "1282",
+    "speaker": "PSB079_trad",
+    "start": "2125.475",
+    "end": "2129.795",
+    "parent_tu_id": "1281",
+    "text": "dove festeggiate il 3id sghir per esempio"
+  },
+  {
+    "tu_id": "1306",
+    "speaker": "PSB079_trad",
+    "start": "2172.607",
+    "end": "2174.697",
+    "parent_tu_id": "1305",
+    "text": "che cos'è ruḥ ḥami in italiano"
+  },
+  {
+    "tu_id": "1313",
+    "speaker": "PSB079_trad",
+    "start": "2180.054",
+    "end": "2180.814",
+    "parent_tu_id": "1312",
+    "text": "il mio spirito"
+  },
+  {
+    "tu_id": "1316",
+    "speaker": "PSB079_trad",
+    "start": "2182.743",
+    "end": "2183.796",
+    "parent_tu_id": "1315",
+    "text": "chissà com'è che si dice"
+  },
+  {
+    "tu_id": "1349",
+    "speaker": "PSB079_trad",
+    "start": "2238.230",
+    "end": "2241.271",
+    "parent_tu_id": "1348",
+    "text": "zuppa con la cipolla con il"
+  },
+  {
+    "tu_id": "1351",
+    "speaker": "PSB079_trad",
+    "start": "2241.385",
+    "end": "2242.016",
+    "parent_tu_id": "1350",
+    "text": "con il"
+  },
+  {
+    "tu_id": "1370",
+    "speaker": "PSB079_trad",
+    "start": "2262.180",
+    "end": "2265.771",
+    "parent_tu_id": "1369",
+    "text": "ma dopo vediamo che prendiamo la ricompensa"
+  },
+  {
+    "tu_id": "1373",
+    "speaker": "PSB079_trad",
+    "start": "2265.934",
+    "end": "2268.869",
+    "parent_tu_id": "1372",
+    "text": "non lo so cos'è l-ajer in italiano"
+  },
+  {
+    "tu_id": "1375",
+    "speaker": "PSB080_trad",
+    "start": "2269.172",
+    "end": "2271.836",
+    "parent_tu_id": "1374",
+    "text": "di cos'è che hai voglia"
+  },
+  {
+    "tu_id": "1381",
+    "speaker": "PSB079_trad",
+    "start": "2276.312",
+    "end": "2276.959",
+    "parent_tu_id": "1380",
+    "text": "la ricompensa"
+  },
+  {
+    "tu_id": "1441",
+    "speaker": "PSB080_trad",
+    "start": "2424.844",
+    "end": "2426.861",
+    "parent_tu_id": "1440",
+    "text": "durante 3ayshora gli prendono i regali"
+  },
+  {
+    "tu_id": "1462",
+    "speaker": "PSB080_trad",
+    "start": "2458.164",
+    "end": "2459.016",
+    "parent_tu_id": "1461",
+    "text": "prendiamo anche noi t3arej"
+  },
+  {
+    "tu_id": "1483",
+    "speaker": "PSB079_trad",
+    "start": "2509.507",
+    "end": "2511.242",
+    "parent_tu_id": "1482",
+    "text": "è vero c'è il problema dello spendere i soldi"
+  },
+  {
+    "tu_id": "1605",
+    "speaker": "PSB080_trad",
+    "start": "2771.131",
+    "end": "2772.344",
+    "parent_tu_id": "1604",
+    "text": "studia questo no?"
+  },
+  {
+    "tu_id": "1607",
+    "speaker": "PSB079_trad",
+    "start": "2772.492",
+    "end": "2774.221",
+    "parent_tu_id": "1606",
+    "text": "no cerca su com'è che si chiama e fa"
+  },
+  {
+    "tu_id": "1612",
+    "speaker": "PSB067_trad",
+    "start": "2776.520",
+    "end": "2777.440",
+    "parent_tu_id": "1611",
+    "text": "tieni conto che devi far sposare tua figlia"
+  },
+  {
+    "tu_id": "1719",
+    "speaker": "PSB080_trad",
+    "start": "2992.795",
+    "end": "2994.336",
+    "parent_tu_id": "1718",
+    "text": "ah studiano tutto il giorno"
+  },
+  {
+    "tu_id": "1755",
+    "speaker": "PSB080_trad",
+    "start": "3053.672",
+    "end": "3055.615",
+    "parent_tu_id": "1754",
+    "text": "ma ci sono tanti marocchini a scuola?"
+  },
+  {
+    "tu_id": "1787",
+    "speaker": "PSB079_trad",
+    "start": "3121.402",
+    "end": "3122.164",
+    "parent_tu_id": "1786",
+    "text": "gemellazioni"
+  },
+  {
+    "tu_id": "1789",
+    "speaker": "PSB067_trad",
+    "start": "3122.197",
+    "end": "3124.393",
+    "parent_tu_id": "1788",
+    "text": "no quelli che fanno"
+  },
+  {
+    "tu_id": "1791",
+    "speaker": "PSB067_trad",
+    "start": "3125.615",
+    "end": "3128.902",
+    "parent_tu_id": "1790",
+    "text": "le estrazioni che fanno per venire ad insegnare in francia"
+  },
+  {
+    "tu_id": "1794",
+    "speaker": "PSB079_trad",
+    "start": "3129.844",
+    "end": "3132.320",
+    "parent_tu_id": "1793",
+    "text": "quella come si chiama borsa di studio che dà il marocco"
+  },
+  {
+    "tu_id": "1796",
+    "speaker": "PSB067_trad",
+    "start": "3131.459",
+    "end": "3136.951",
+    "parent_tu_id": "1795",
+    "text": "no c'è ad esempio un professore universitario a oujda"
+  },
+  {
+    "tu_id": "1798",
+    "speaker": "PSB067_trad",
+    "start": "3137.566",
+    "end": "3142.336",
+    "parent_tu_id": "1797",
+    "text": "ha fatto l'estrazione a sorte ed e venuto in belgio, come si chiama in italiano eh in francese si chiama tiro a sorte"
+  },
+  {
+    "tu_id": "1802",
+    "speaker": "PSB067_trad",
+    "start": "3145.787",
+    "end": "3147.287",
+    "parent_tu_id": "1801",
+    "text": "tiro a sorte"
+  },
+  {
+    "tu_id": "1877",
+    "speaker": "PSB080_trad",
+    "start": "3273.254",
+    "end": "3274.852",
+    "parent_tu_id": "1876",
+    "text": "non gli diminuiscono il livello glielo alzano"
+  },
+  {
+    "tu_id": "1939",
+    "speaker": "PSB080_trad",
+    "start": "3374.451",
+    "end": "3375.918",
+    "parent_tu_id": "1938",
+    "text": "la sesta elementare cos'è la sesta elementare"
+  },
+  {
+    "tu_id": "1948",
+    "speaker": "PSB080_trad",
+    "start": "3386.041",
+    "end": "3388.525",
+    "parent_tu_id": "1947",
+    "text": "perché ho visto un insegnante picchiare una bambina e da lì"
+  },
+  {
+    "tu_id": "1952",
+    "speaker": "PSB080_trad",
+    "start": "3392.123",
+    "end": "3393.279",
+    "parent_tu_id": "1951",
+    "text": "stava piangendo poverina"
+  },
+  {
+    "tu_id": "1956",
+    "speaker": "PSB080_trad",
+    "start": "3398.098",
+    "end": "3399.393",
+    "parent_tu_id": "1955",
+    "text": "è morta la bambina poverina"
+  },
+  {
+    "tu_id": "1959",
+    "speaker": "PSB080_trad",
+    "start": "3399.525",
+    "end": "3400.541",
+    "parent_tu_id": "1958",
+    "text": "è morta la bambina"
+  },
+  {
+    "tu_id": "1963",
+    "speaker": "PSB079_trad",
+    "start": "3404.689",
+    "end": "3405.500",
+    "parent_tu_id": "1962",
+    "text": "quando la piacchiata?"
+  },
+  {
+    "tu_id": "1965",
+    "speaker": "PSB080_trad",
+    "start": "3405.623",
+    "end": "3406.615",
+    "parent_tu_id": "1964",
+    "text": "la picchiata alla testa"
+  },
+  {
+    "tu_id": "1974",
+    "speaker": "???_trad",
+    "start": "3415.328",
+    "end": "3416.246",
+    "parent_tu_id": "1973",
+    "text": "questo è un crimine"
+  },
+  {
+    "tu_id": "1976",
+    "speaker": "PSB067_trad",
+    "start": "3416.447",
+    "end": "3417.967",
+    "parent_tu_id": "1975",
+    "text": "si vede oddio è troppo"
+  },
+  {
+    "tu_id": "1978",
+    "speaker": "PSB080_trad",
+    "start": "3418.453",
+    "end": "3421.287",
+    "parent_tu_id": "1977",
+    "text": "da lì basta non mi è più piaciuta la scuola"
+  },
+  {
+    "tu_id": "1980",
+    "speaker": "PSB079_trad",
+    "start": "3421.374",
+    "end": "3422.554",
+    "parent_tu_id": "1979",
+    "text": "ti era venuta una fobia"
+  },
+  {
+    "tu_id": "1982",
+    "speaker": "PSB080_trad",
+    "start": "3421.767",
+    "end": "3422.267",
+    "parent_tu_id": "1981",
+    "text": "non volevo"
+  },
+  {
+    "tu_id": "1993",
+    "speaker": "PSB067_trad",
+    "start": "3437.189",
+    "end": "3438.525",
+    "parent_tu_id": "1992",
+    "text": "no ora no"
+  },
+  {
+    "tu_id": "2014",
+    "speaker": "PSB080_trad",
+    "start": "3464.393",
+    "end": "3467.123",
+    "parent_tu_id": "2013",
+    "text": "ah non non davanti a me continuava a tenerle la testa e a picchiarla"
+  },
+  {
+    "tu_id": "2089",
+    "speaker": "PSB079_trad",
+    "start": "3598.656",
+    "end": "3600.082",
+    "parent_tu_id": "2088",
+    "text": "cos'è dormitorio universitario"
+  },
+  {
+    "tu_id": "2162",
+    "speaker": "PSB067_trad",
+    "start": "3731.397",
+    "end": "3732.466",
+    "parent_tu_id": "2161",
+    "text": "hai indossato una takshita?"
+  },
+  {
+    "tu_id": "2165",
+    "speaker": "PSB067_trad",
+    "start": "3733.693",
+    "end": "3734.673",
+    "parent_tu_id": "2164",
+    "text": "tre o quattro?"
+  },
+  {
+    "tu_id": "2167",
+    "speaker": "PSB080_trad",
+    "start": "3734.906",
+    "end": "3735.960",
+    "parent_tu_id": "2166",
+    "text": "tre"
+  },
+  {
+    "tu_id": "2178",
+    "speaker": "PSB080_trad",
+    "start": "3747.098",
+    "end": "3748.549",
+    "parent_tu_id": "2177",
+    "text": "il verde è del giorno del henné"
+  },
+  {
+    "tu_id": "2187",
+    "speaker": "PSB080_trad",
+    "start": "3765.955",
+    "end": "3767.168",
+    "parent_tu_id": "2186",
+    "text": "che c'è la carrozza coi cavalli"
+  },
+  {
+    "tu_id": "2190",
+    "speaker": "PSB080_trad",
+    "start": "3767.220",
+    "end": "3768.580",
+    "parent_tu_id": "2189",
+    "text": "a marrakech"
+  },
+  {
+    "tu_id": "2192",
+    "speaker": "PSB079_trad",
+    "start": "3768.541",
+    "end": "3772.139",
+    "parent_tu_id": "2191",
+    "text": "la carrozza coi cavalli lo conosci quello? quella carrozza"
+  },
+  {
+    "tu_id": "2211",
+    "speaker": "PSB079_trad",
+    "start": "3794.910",
+    "end": "3796.164",
+    "parent_tu_id": "2210",
+    "text": "in quel momento la metti nell'acqua"
+  },
+  {
+    "tu_id": "2215",
+    "speaker": "PSB080_trad",
+    "start": "3797.385",
+    "end": "3799.854",
+    "parent_tu_id": "2214",
+    "text": "metti lo scotch e lo tieni tutto il giorno"
+  },
+  {
+    "tu_id": "2229",
+    "speaker": "PSB080_trad",
+    "start": "3813.656",
+    "end": "3815.648",
+    "parent_tu_id": "2228",
+    "text": "però ci sono le ragazze che fanno l'henné qua"
+  },
+  {
+    "tu_id": "2285",
+    "speaker": "PSB080_trad",
+    "start": "3902.803",
+    "end": "3903.451",
+    "parent_tu_id": "2284",
+    "text": "ourika"
+  },
+  {
+    "tu_id": "2287",
+    "speaker": "PSB080_trad",
+    "start": "3903.631",
+    "end": "3904.328",
+    "parent_tu_id": "2286",
+    "text": "è tutto bello"
+  },
+  {
+    "tu_id": "2291",
+    "speaker": "???_trad",
+    "start": "3912.836",
+    "end": "3914.057",
+    "parent_tu_id": "2290",
+    "text": "stanno sentendo"
+  },
+  {
+    "tu_id": "2295",
+    "speaker": "???_trad",
+    "start": "3918.648",
+    "end": "3919.852",
+    "parent_tu_id": "2294",
+    "text": "voglio che ascolti? il vestito tipico berbero"
+  },
+  {
+    "tu_id": "2297",
+    "speaker": "PSB079_trad",
+    "start": "3919.721",
+    "end": "3923.705",
+    "parent_tu_id": "2296",
+    "text": "sì ho visto si chiama lebsa shelḥawiya il vestito per i berberi"
+  },
+  {
+    "tu_id": "2306",
+    "speaker": "PSB080_trad",
+    "start": "3937.615",
+    "end": "3938.795",
+    "parent_tu_id": "2305",
+    "text": "ne indossa tre"
+  },
+  {
+    "tu_id": "2321",
+    "speaker": "PSB067_trad",
+    "start": "3958.803",
+    "end": "3960.689",
+    "parent_tu_id": "2320",
+    "text": "non erano quattro i dialetti berberi"
+  },
+  {
+    "tu_id": "2323",
+    "speaker": "PSB067_trad",
+    "start": "3960.820",
+    "end": "3967.598",
+    "parent_tu_id": "2322",
+    "text": "tamazight tarifit e tashelḥit tamazight tarifit"
+  },
+  {
+    "tu_id": "2325",
+    "speaker": "PSB079_trad",
+    "start": "3967.598",
+    "end": "3968.008",
+    "parent_tu_id": "2324",
+    "text": "basta tre"
+  },
+  {
+    "tu_id": "2503",
+    "speaker": "PSB067_trad",
+    "start": "4305.480",
+    "end": "4307.306",
+    "parent_tu_id": "2502",
+    "text": "parli in arabo o in italiano?"
+  },
+  {
+    "tu_id": "2505",
+    "speaker": "PSB067_trad",
+    "start": "4308.094",
+    "end": "4310.495",
+    "parent_tu_id": "2504",
+    "text": "e togli le tue mani che le hai tolte per lavarti la tua bocca"
+  }
+]

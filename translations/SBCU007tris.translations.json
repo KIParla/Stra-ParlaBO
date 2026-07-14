@@ -1,0 +1,58 @@
+[
+  {
+    "tu_id": "132",
+    "speaker": "PSB128_trad",
+    "start": "198.350",
+    "end": "199.630",
+    "parent_tu_id": "131",
+    "text": "ma aspetta"
+  },
+  {
+    "tu_id": "146",
+    "speaker": "PSB091_trad",
+    "start": "218.570",
+    "end": "218.970",
+    "parent_tu_id": "145",
+    "text": "formaggio"
+  },
+  {
+    "tu_id": "148",
+    "speaker": "PSB128_trad",
+    "start": "219.920",
+    "end": "222.207",
+    "parent_tu_id": "147",
+    "text": "che bello"
+  },
+  {
+    "tu_id": "151",
+    "speaker": "PSB091_trad",
+    "start": "223.100",
+    "end": "225.170",
+    "parent_tu_id": "150",
+    "text": "dai dai"
+  },
+  {
+    "tu_id": "221",
+    "speaker": "PSB086_trad",
+    "start": "297.850",
+    "end": "299.029",
+    "parent_tu_id": "220",
+    "text": "assomiglia a un tridente"
+  },
+  {
+    "tu_id": "388",
+    "speaker": "PSB086_trad",
+    "start": "529.890",
+    "end": "530.759",
+    "parent_tu_id": "387",
+    "text": "ti ho spezzato io"
+  },
+  {
+    "tu_id": "725",
+    "speaker": "PSB086_trad",
+    "start": "994.190",
+    "end": "998.139",
+    "parent_tu_id": "724",
+    "text": "mettiamo le patate e il cavolo cappuccio"
+  }
+]

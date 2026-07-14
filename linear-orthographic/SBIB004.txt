@@ -1,179 +1,179 @@
 PSB005	okay
-PSB041	allora mi stavi dicendo che sei qui da undici anni che fai questo lavoro
-PSB005	sì
-???	eh no no ma non no non fa niente no no
-PSB005	se n'è andata
+PSB005	allora mi stavi dicendo che sei qui da undici anni che fai questo lavoro
+PSB041	sì
+PSB005	eh no no ma non no non fa niente no no
+???	se n'è andata
 PSB005	okay
 PSB005	eh
-PSB041	ti piace
-PSB005	sì piace
-PSB041	sei bravo
-PSB005	certo che bravo
-PSB041	ma hai fatto una scuola per imparare
+PSB005	ti piace
+PSB041	sì piace
+PSB005	sei bravo
+PSB041	certo che bravo
+PSB005	ma hai fatto una scuola per imparare
 PSB041	eh i~ già paese io imparato da paese qua arrivato così
-PSB005	preso questo lavoro però non è andato
-PSB041	okay
-PSB005	scuola qui però già
-PSB041	ed è dif~
-PSB005	lavorato sempre qui
-PSB041	mhmh
+PSB041	preso questo lavoro però non è andato
+PSB005	okay
+PSB041	scuola qui però già
+PSB005	ed è dif~
+PSB041	lavorato sempre qui
+PSB005	mhmh
 PSB041	tredici quattordici anni
-PSB005	b~ bologna facendo barbiere
+PSB041	b~ bologna facendo barbiere
 PSB005	okay okay
-PSB041	e prima lavoravi in un altro barbiere
+PSB005	e prima lavoravi in un altro barbiere
 PSB041	sì u~ undici anni
 PSB041	lavoravo via del pratello quattro anni
-PSB005	già quindici anni bologna
-PSB041	mhmh in via del pratello
-PSB005	sì
-PSB041	c'era un negozio
-PSB005	sì barbiere
+PSB041	già quindici anni bologna
+PSB005	mhmh in via del pratello
+PSB041	sì
+PSB005	c'era un negozio
+PSB041	sì barbiere
 PSB005	ah capito
-PSB041	ma adesso non c'è più
-PSB005	c'è
-PSB041	ah c'è ancora
-PSB005	questo non è mio io lì fatto dipendente lavorato altri
+PSB005	ma adesso non c'è più
+PSB041	c'è
+PSB005	ah c'è ancora
+PSB041	questo non è mio io lì fatto dipendente lavorato altri
 PSB005	sì sì sì sì sì
 PSB005	certo certo
 PSB005	io e~ sono di bologna eh però non me lo ricordo adesso il negozio in via del pratello ma
 PSB005	sicuramente c'è
 PSB005	ehm
-PSB041	quindi sei qui da tanti anni
+PSB005	quindi sei qui da tanti anni
 PSB041	sì
-PSB005	già undici anni duemilatredici inizio
+PSB041	già undici anni duemilatredici inizio
 PSB005	mhmh
-PSB041	e come va a bologna
+PSB005	e come va a bologna
 PSB041	bene
-PSB005	molto bene bologna
-PSB041	ma hai vissuto dimmi
-PSB005	è molto bene poi anche questa quartiere eh san vitale no è adesso qui tranquillo
-PSB041	qui x
-PSB005	prima un po' casino però adesso
-PSB041	ah okay
-PSB005	molto tranquillo lavorando non è problema nessuno
-PSB041	quindi è cambiato in tanti anni
-PSB005	sì
-PSB041	il quartiere
+PSB041	molto bene bologna
+PSB005	ma hai vissuto dimmi
+PSB041	è molto bene poi anche questa quartiere eh san vitale no è adesso qui tranquillo
+PSB005	qui x
+PSB041	prima un po' casino però adesso
+PSB005	ah okay
+PSB041	molto tranquillo lavorando non è problema nessuno
+PSB005	quindi è cambiato in tanti anni
+PSB041	sì
+PSB005	il quartiere
 PSB041	sì sì sì
 PSB041	più pulito
 PSB041	poi anche
-PSB005	gente bravi tutti bravi bologna quando trovo
-PSB041	okay
-PSB005	abbastanza tutti bravi
+PSB041	gente bravi tutti bravi bologna quando trovo
+PSB005	okay
+PSB041	abbastanza tutti bravi
 PSB005	mhmh e
-PSB041	vengono tante persone qui
+PSB005	vengono tante persone qui
 PSB041	sì
 PSB041	vengono tutto bangalese pakistano indiano pak~ italiano altri xx inglese
-PSB005	abbiamo filippini tutto
+PSB041	abbiamo filippini tutto
 PSB005	mhmhmh e la comunicazione
-PSB041	la lingua ti capisci con i clienti
+PSB005	la lingua ti capisci con i clienti
 PSB041	e~
 PSB041	sì s~
-PSB005	sì sì
-PSB041	sì
-PSB005	sì capisco
-PSB041	al~ all'inizio quando eri appena arrivato
+PSB041	sì sì
+PSB005	sì
+PSB041	sì capisco
+PSB005	al~ all'inizio quando eri appena arrivato
 PSB041	a~
 PSB041	no
-PSB005	inizio non capisco nulla
-PSB041	certo
+PSB041	inizio non capisco nulla
+PSB005	certo
 PSB041	inizio eh
 PSB041	solo guardava come parlando
-PSB005	non ne capisco niente eh una cosa nuova capito
-PSB041	certo sì sì
+PSB041	non ne capisco niente eh una cosa nuova capito
+PSB005	certo sì sì
 PSB041	piano piano piano piano uno uno
-PSB005	ho poi imparato
-PSB041	mhmh come hai fatto a imparare
+PSB041	ho poi imparato
+PSB005	mhmh come hai fatto a imparare
 PSB041	così
-PSB005	io imparato più chi fatto lavoro
-PSB041	mhmh
-PSB041	io facendo barbiere uno uno
-PSB005	stavo là a sentire eh
+PSB041	io imparato più chi fatto lavoro
 PSB005	mhmh
-PSB041	anche con i colleghi o
+PSB041	io facendo barbiere uno uno
+PSB041	stavo là a sentire eh
+PSB005	mhmh
+PSB005	anche con i colleghi o
 PSB041	preso
-PSB005	sì colleghi mio collega anche parla bene
+PSB041	sì colleghi mio collega anche parla bene
 PSB005	mhmh ho sentito sì
-PSB041	ma con lui che lingua parli
+PSB005	ma con lui che lingua parli
 PSB041	lui parli
 PSB041	urdu
-PSB005	poi qua italiano
-PSB041	mhmh okay
-PSB005	lui lingua urdu io lingua bangla
-PSB041	e vi capite no
+PSB041	poi qua italiano
+PSB005	mhmh okay
+PSB041	lui lingua urdu io lingua bangla
+PSB005	e vi capite no
 PSB041	sì capiamo anche urdu hindi
 PSB041	un po' simile
-PSB005	però capiamo tutto
-PSB041	okay ma tu parli anche hindi
-PSB005	sì
-PSB041	quante lingue parli
+PSB041	però capiamo tutto
+PSB005	okay ma tu parli anche hindi
+PSB041	sì
+PSB005	quante lingue parli
 PSB041	eh parlo bangla un po' italiano un po' hindi un po' urdu
 PSB041	pochino inglese
-PSB005	basta
-PSB041	e perché parli tante lingue
-PSB005	ah perché quanto c'è mio paese seconda lingua è inglese
-PSB041	mhmh
+PSB041	basta
+PSB005	e perché parli tante lingue
+PSB041	ah perché quanto c'è mio paese seconda lingua è inglese
+PSB005	mhmh
 PSB041	poi primo bangla
 PSB041	poi qua c'è vicino india
-PSB005	perché io nato frontiera proprio frontiera india
-PSB041	okay
+PSB041	perché io nato frontiera proprio frontiera india
+PSB005	okay
 PSB041	vedo tivù
-PSB005	vedo cinema
-PSB041	mhmh
+PSB041	vedo cinema
+PSB005	mhmh
 PSB041	imparato il hindi
 PSB041	somiglia hindi
 PSB041	una volta c'è
 PSB041	india e bangladesh
-PSB005	pakistan lo stesso paese
+PSB041	pakistan lo stesso paese
 PSB005	mh mhmh
-PSB041	è vero
+PSB005	è vero
 PSB041	però capiamo già
-PSB005	anche urdu un po'
-PSB041	mhmh
-PSB005	prima lo stesso paese
-PSB041	mhmh
-PSB005	settanta uno già separato da
-PSB041	certo
+PSB041	anche urdu un po'
+PSB005	mhmh
+PSB041	prima lo stesso paese
+PSB005	mhmh
+PSB041	settanta uno già separato da
+PSB005	certo
 PSB041	però
-PSB005	hindi urdu somiglia
-PSB041	okay
+PSB041	hindi urdu somiglia
+PSB005	okay
 PSB041	certe x tanta somiglia quindi
-PSB005	capiamo
-PSB041	certo
-PSB005	abbastanza
-PSB041	mamma siete bravissimi io parlo solo italiano
+PSB041	capiamo
+PSB005	certo
+PSB041	abbastanza
+PSB005	mamma siete bravissimi io parlo solo italiano
 PSB041	sì certo
 PSB041	così
 PSB041	poi qua arriva tanti
 PSB041	inglese anche filippini anche
-PSB005	srilankese tutti
-PSB041	mhmh
+PSB041	srilankese tutti
+PSB005	mhmh
 PSB041	quale c'è tutto il mondo arriva qua italia va
-PSB005	girare inglese anche arriva turisti
-PSB041	mhmh
-PSB005	ogni tanto anche qui entra turisti fare barba capelli
-PSB041	sì sì sì sì sì
-PSB005	così anche parla un po' pochino inglese
-PSB041	sì sì
-PSB005	sai andando
-PSB041	certo certo certo
-PSB005	xxxx
-PSB041	non hai fatto una scuola di italiano
+PSB041	girare inglese anche arriva turisti
+PSB005	mhmh
+PSB041	ogni tanto anche qui entra turisti fare barba capelli
+PSB005	sì sì sì sì sì
+PSB041	così anche parla un po' pochino inglese
+PSB005	sì sì
+PSB041	sai andando
+PSB005	certo certo certo
+PSB041	xxxx
+PSB005	non hai fatto una scuola di italiano
 PSB041	no andato poco
 PSB041	andato poco perché dopo quando entrato c'è tanti problema devo cercare lavoro
 PSB041	perché
-PSB005	qua vivere lo sai
-PSB041	mhmh
-PSB005	tanti soldi bisogno
-PSB041	mhmh mhmh
-PSB005	senza soldi non puoi vivire
+PSB041	qua vivere lo sai
+PSB005	mhmh
+PSB041	tanti soldi bisogno
+PSB005	mhmh mhmh
+PSB041	senza soldi non puoi vivire
 PSB005	no no
-PSB041	certo
+PSB005	certo
 PSB041	così poco scuola però
-PSB005	più che lavorato così imparato bene
-PSB041	mhmh
-PSB005	un po'
-PSB041	è di~ è difficile trovare lavoro qui
+PSB041	più che lavorato così imparato bene
+PSB005	mhmh
+PSB041	un po'
+PSB005	è di~ è difficile trovare lavoro qui
 PSB041	per lavoro
 PSB041	per me no
 PSB041	pe~ perché io inizio
@@ -182,531 +182,531 @@ PSB041	due tre giorni fatto pulizia di scala
 PSB041	c'è mio zio
 PSB041	con~ fatto contratto lui però
 PSB041	non è piaciuto
-PSB005	già lui ce l'ho xxxxx capito
-PSB041	mhmh
-PSB005	lui portato me aiutato
-PSB041	mhmh
+PSB041	già lui ce l'ho xxxxx capito
+PSB005	mhmh
+PSB041	lui portato me aiutato
+PSB005	mhmh
 PSB041	zio
 PSB041	poi
 PSB041	non è piaciuto perché fuori giardini scala
-PSB005	trasloco imbianchini
-PSB041	okay
+PSB041	trasloco imbianchini
+PSB005	okay
 PSB041	un po'
-PSB005	io già prima barbiere
-PSB041	mhmh
+PSB041	io già prima barbiere
+PSB005	mhmh
 PSB041	paese zio det~ io detto zio
-PSB005	io devo cercare mio lavoro io capisco barbieri bene
-PSB041	mhmh
-PSB005	me li ritrovo bene io tranquillo
-PSB041	mh
+PSB041	io devo cercare mio lavoro io capisco barbieri bene
+PSB005	mhmh
+PSB041	me li ritrovo bene io tranquillo
+PSB005	mh
 PSB041	dopo ho detto cerca io s~
 PSB041	primo giorni parlato secondo giorni parlato con una
 PSB041	fatto prova fatto xxxx lavorando
-PSB005	così
-PSB041	subito
-PSB005	s~ subito
-PSB041	certo
+PSB041	così
+PSB005	subito
+PSB041	s~ subito
+PSB005	certo
 PSB041	inizio un po' fatica per
-PSB005	parlare come fai barba come fai i capelli basetta qua là
-PSB041	certo
-PSB005	corta lunga non capisco niente
-PSB041	sì sì sì
+PSB041	parlare come fai barba come fai i capelli basetta qua là
+PSB005	certo
+PSB041	corta lunga non capisco niente
+PSB005	sì sì sì
 PSB041	poi per lavorato un altro con pakistano
-PSB005	capiamo urdu hindi
-PSB041	mhmh
-PSB005	aiutato poco piano piano preso tutto
-PSB041	mhmh okay
-PSB005	così
-PSB041	e
-PSB005	adesso lavorando tranquillo
-PSB041	bene
+PSB041	capiamo urdu hindi
+PSB005	mhmh
+PSB041	aiutato poco piano piano preso tutto
+PSB005	mhmh okay
+PSB041	così
+PSB005	e
+PSB041	adesso lavorando tranquillo
+PSB005	bene
 PSB041	c'è anche qua famiglia
 PSB041	c'è sì sì
 PSB041	figlio
 PSB041	due
-PSB005	figlia figlio
-PSB041	okay grandi o piccoli
+PSB041	figlia figlio
+PSB005	okay grandi o piccoli
 PSB041	una undici anni questa negozio
 PSB041	quando hai
 PSB041	tempo mio figlio
-PSB005	così una che otto anni
-PSB041	mhmh
-PSB005	due figli
-PSB041	mhmh e
-PSB005	una maschio e femmina
-PSB041	maschio e femmina e abitate qui vicino o
+PSB041	così una che otto anni
+PSB005	mhmh
+PSB041	due figli
+PSB005	mhmh e
+PSB041	una maschio e femmina
+PSB005	maschio e femmina e abitate qui vicino o
 PSB041	no abitiamo lontano a via
-PSB005	zona savena
-PSB041	ah io abito abbastanza vicino
+PSB041	zona savena
+PSB005	ah io abito abbastanza vicino
 PSB041	via m~
-PSB005	via nomeluogo
-PSB041	ah sì sì sì e vi piace la zona savena
+PSB041	via
+PSB005	ah sì sì sì e vi piace la zona savena
 PSB041	molto bella
-PSB005	silenzioso
-PSB041	avete cambiato zona o sempre siete sempre lì
+PSB041	silenzioso
+PSB005	avete cambiato zona o sempre siete sempre lì
 PSB041	e~
-PSB005	no no cambiato perché prima abitava san donato
-PSB041	mh
-PSB005	via nomeluogo
-PSB041	mhmh
+PSB041	no no cambiato perché prima abitava san donato
+PSB005	mh
+PSB041	via
+PSB005	mhmh
 PSB041	però a otto anni dopo
-PSB005	contratto finito
-PSB041	hai cambiato sì
+PSB041	contratto finito
+PSB005	hai cambiato sì
 PSB041	presi lì
 PSB041	xx
 PSB041	clienti
 PSB041	xx
 PSB005	se c'è bisogno rispondi
-PSB041	aspetta stoppo un attimo
-PSB005	dai
-PSB041	aspetta mi stavi dicendo che abitavi in via in san in san donato
-PSB005	sì sì
-PSB041	e ti piace di più la zona savena
+PSB005	aspetta stoppo un attimo
+PSB041	dai
+PSB005	aspetta mi stavi dicendo che abitavi in via in san in san donato
 PSB041	sì sì
-PSB005	anche san donato buona però savena più tranquillo
+PSB005	e ti piace di più la zona savena
+PSB041	sì sì
+PSB041	anche san donato buona però savena più tranquillo
 PSB005	mhmh
-PSB041	più tranquillo okay sì
+PSB005	più tranquillo okay sì
 PSB041	sì sì perché
 PSB041	stava
 PSB041	sopra strada casa
 PSB041	quando apri finestra
 PSB041	un po' c'è notte
-PSB005	molto passano macchine anche
+PSB041	molto passano macchine anche
 PSB005	ah sì sì sì
-PSB041	certo certo
+PSB005	certo certo
 PSB041	x lì
-PSB005	zona savena più tranquillo così anche c'è casa vicino giardina
-PSB041	mhmh è vero sì
+PSB041	zona savena più tranquillo così anche c'è casa vicino giardina
+PSB005	mhmh è vero sì
 PSB041	qua la xx casa tutto il parte giardina
 PSB041	anche
-PSB005	pulito
-PSB041	mhmh
-PSB005	una cosa
-PSB041	mhmh
-PSB005	più tranquillo bambini gioca
-PSB041	mhmh
+PSB041	pulito
+PSB005	mhmh
+PSB041	una cosa
+PSB005	mhmh
+PSB041	più tranquillo bambini gioca
+PSB005	mhmh
 PSB041	finisci scuola vai là
-PSB005	fare monopatti fai bici
-PSB041	certo
+PSB041	fare monopatti fai bici
+PSB005	certo
 PSB041	così anche notte
 PSB041	finisco lavoro vado casa fare doccia
 PSB041	mangiare dopo esco
-PSB005	da nove a dieci
-PSB041	mhmh
+PSB041	da nove a dieci
+PSB005	mhmh
 PSB041	mezz'ora quaranta minuti cammina io bambini
-PSB005	gioca monopatti oppure bici bici
+PSB041	gioca monopatti oppure bici bici
 PSB005	mh
-PSB041	mhmh
+PSB005	mhmh
 PSB041	io moglia girare
-PSB005	più tranquillo non
-PSB041	sì sì
-PSB005	non sono problema
-PSB041	ed è collegato bene con l'autobus
-PSB005	sì
-PSB041	vieni con autobus o
+PSB041	più tranquillo non
+PSB005	sì sì
+PSB041	non sono problema
+PSB005	ed è collegato bene con l'autobus
+PSB041	sì
+PSB005	vieni con autobus o
 PSB041	e~
-PSB005	io ora autobus
-PSB041	mhmh
+PSB041	io ora autobus
+PSB005	mhmh
 PSB041	perché
 PSB041	prima
 PSB041	ancora rimasto scuola
-PSB005	via nomeluogo @nomeluogo, san donato
+PSB041	via san donato
 PSB005	mhmh
-PSB041	ah okay
-PSB005	quindi
-PSB041	sì
-PSB005	mattina io alza sei
-PSB041	ah okay okay sì
+PSB005	ah okay
+PSB041	quindi
+PSB005	sì
+PSB041	mattina io alza sei
+PSB005	ah okay okay sì
 PSB041	tutti i giorni tre anni
-PSB005	perché figlio non vuole cambiare scuola perché inizio materna scuola capito
-PSB041	povero
+PSB041	perché figlio non vuole cambiare scuola perché inizio materna scuola capito
+PSB005	povero
 PSB041	amici non vuole lasciare però quest'anno xxxxx
 PSB041	vicino
-PSB005	cambiato s~ scuola via @nomeluogo, figlia
+PSB041	cambiato s~ scuola via figlia
 PSB005	mhmh
-PSB041	meglio
+PSB005	meglio
 PSB041	figlio
-PSB005	trovato nomeluogo
-PSB041	mhmh
+PSB041	trovato
+PSB005	mhmh
 PSB041	quindi
 PSB041	tra due settimana tre settimana
 PSB041	quando finisci scuola adesso nuovo lì
-PSB005	dopo vengo ogni tanto bici meglio
-PSB041	eh sì
-PSB005	risparmiare tempo
-PSB041	io uso sempre la bici sì
+PSB041	dopo vengo ogni tanto bici meglio
+PSB005	eh sì
+PSB041	risparmiare tempo
+PSB005	io uso sempre la bici sì
 PSB041	bici io prima usava bici quanto eh
-PSB005	sempre san donato casa
-PSB041	mhmh
+PSB041	sempre san donato casa
+PSB005	mhmh
 PSB041	però tre anni
-PSB005	non c'è problema
-PSB041	sì sì
+PSB041	non c'è problema
+PSB005	sì sì
 PSB041	per figlio
 PSB041	allora non vuole cambiare
-PSB005	però
-PSB041	povero sì
-PSB005	eh
-PSB041	quindi aveva fatto amicizia
-PSB005	eh
-PSB041	sì
+PSB041	però
+PSB005	povero sì
+PSB041	eh
+PSB005	quindi aveva fatto amicizia
+PSB041	eh
+PSB005	sì
 PSB041	così adesso
-PSB005	maschio già va prima media quindi devo cambiare forza
-PSB041	eh certo sì per forza
-PSB005	eh si è trovato vicino casa questa volta fortunato
+PSB041	maschio già va prima media quindi devo cambiare forza
+PSB005	eh certo sì per forza
+PSB041	eh si è trovato vicino casa questa volta fortunato
 PSB005	sì sì
 PSB005	mhmh
-PSB041	e lui è contento
+PSB005	e lui è contento
 PSB041	xx
-PSB005	sì
-PSB041	ha accettato
-PSB005	no già deve cambiare xx eh eh
-PSB041	eh sì
+PSB041	sì
+PSB005	ha accettato
+PSB041	no già deve cambiare xx eh eh
+PSB005	eh sì
 PSB041	deve cambiare u~ u~ una volta parlando papà
 PSB041	mio questi amici va lì eh vicino fiera
 PSB041	xx papà
 PSB041	lo sai un'ora
 PSB041	un'ora prima
 PSB041	alzare un'ora un'ora e mezzo prima devi partire da casa autobus un giorni sciopero un giorni
-PSB005	casino
-PSB041	mhmh
-PSB005	dopo ho detto ba~ basta
+PSB041	casino
 PSB005	mhmh
-PSB041	può andare a piedi adess~
-PSB005	xx sì cinque minuti sette minuti
-PSB041	certo
-PSB005	grande prima media va lì
-PSB041	mhmh
+PSB041	dopo ho detto ba~ basta
+PSB005	mhmh
+PSB005	può andare a piedi adess~
+PSB041	xx sì cinque minuti sette minuti
+PSB005	certo
+PSB041	grande prima media va lì
+PSB005	mhmh
 PSB041	figlia
-PSB005	tre quattro minuti da casa
+PSB041	tre quattro minuti da casa
 PSB005	mhmh
-PSB041	sì sì sì sì
+PSB005	sì sì sì sì
 PSB041	c'è
 PSB041	questa alle ventitré
-PSB005	xx
-PSB041	mhmh
-PSB005	quindi adesso contento tutti e due
+PSB041	xx
+PSB005	mhmh
+PSB041	quindi adesso contento tutti e due
 PSB005	bene
-PSB041	bene e voi con loro che lingua parlate
-PSB005	loro
-PSB041	ora sai tu
-PSB005	allora parlate più italiano
-PSB041	mhmh
-PSB005	pochino già parlato imparato bangla pochino
-PSB041	mh
+PSB005	bene e voi con loro che lingua parlate
+PSB041	loro
+PSB005	ora sai tu
+PSB041	allora parlate più italiano
+PSB005	mhmh
+PSB041	pochino già parlato imparato bangla pochino
+PSB005	mh
 PSB041	non è parla giusto
-PSB005	come io non parla italiano giusto
+PSB041	come io non parla italiano giusto
 PSB005	okay
-PSB041	okay sì
-PSB005	voi italiano parla perfetto
+PSB005	okay sì
+PSB041	voi italiano parla perfetto
 PSB005	sì sì sì
-PSB041	e un pochino
+PSB005	e un pochino
 PSB041	pochino bangla
-PSB005	metà metà come io parla italiano non parla bene
-PSB041	mhmh
-PSB005	allora italiano bene
-PSB041	mhmh
-PSB005	e st~ e studiare qua no nato qua tutt'e due nato qua
+PSB041	metà metà come io parla italiano non parla bene
+PSB005	mhmh
+PSB041	allora italiano bene
+PSB005	mhmh
+PSB041	e st~ e studiare qua no nato qua tutt'e due nato qua
 PSB005	eh sì certamente
-PSB041	mhmh certo certo eh quindi per esempio quando siete a cena
-PSB005	sì
-PSB041	parlate un po' italiano un po' bangla un po'
+PSB005	mhmh certo certo eh quindi per esempio quando siete a cena
+PSB041	sì
+PSB005	parlate un po' italiano un po' bangla un po'
 PSB041	un po'
 PSB041	un po' sì
-PSB005	no no
-PSB041	voi gli parlate sempre in bangla o anche italiano
+PSB041	no no
+PSB005	voi gli parlate sempre in bangla o anche italiano
 PSB041	no
 PSB041	no no
-PSB005	anche un po' italiano
+PSB041	anche un po' italiano
 PSB005	mhmh
-PSB041	mhmh
+PSB005	mhmh
 PSB041	un po' italiano
 PSB041	così
 PSB041	mantenere anche in italiano
 PSB041	bene anche perché mia figlia figlio dice proprio parlare sbagliare
 PSB041	papà non devi parlar così
-PSB005	capito ha visto
-PSB041	tremendi tremendi
-PSB005	sì devo adesso imparare bene figli dici
-PSB041	mhmh ma e la lingua bengalese è difficile da imparare
+PSB041	capito ha visto
+PSB005	tremendi tremendi
+PSB041	sì devo adesso imparare bene figli dici
+PSB005	mhmh ma e la lingua bengalese è difficile da imparare
 PSB041	uh certo
-PSB005	per qua difficile per me no difficile
-PSB041	eh vabbè sì
-PSB005	eh come io italiano difficile non capisco tutto
-PSB041	mhmh
-PSB005	però
-PSB041	mhmh ho visto che la scrittura è
-PSB005	eh è un po' difficile
-PSB041	è bella però
-PSB005	ma sì
-PSB041	mhmh okay
-PSB005	dai
-PSB041	ho capito
-PSB005	così adesso andando bene dai
-PSB041	mhmh e hanno ami~ loro sono amici con eh bimbi italiani soprattutto
+PSB041	per qua difficile per me no difficile
+PSB005	eh vabbè sì
+PSB041	eh come io italiano difficile non capisco tutto
+PSB005	mhmh
+PSB041	però
+PSB005	mhmh ho visto che la scrittura è
+PSB041	eh è un po' difficile
+PSB005	è bella però
+PSB041	ma sì
+PSB005	mhmh okay
+PSB041	dai
+PSB005	ho capito
+PSB041	così adesso andando bene dai
+PSB005	mhmh e hanno ami~ loro sono amici con eh bimbi italiani soprattutto
 PSB041	siamo
 PSB041	i~ sì sì eh i~ italiani i~ scuola tutti che amici
-PSB005	italiano altri paese quale c'è scuola lo sa tutto il mondo
-PSB041	eh sì
-PSB005	eh
-PSB041	sì sì
+PSB041	italiano altri paese quale c'è scuola lo sa tutto il mondo
+PSB005	eh sì
+PSB041	eh
+PSB005	sì sì
 PSB041	c'è arabi c'è italiani
 PSB041	però amici loro
-PSB005	buoni
-PSB041	mhmh
+PSB041	buoni
+PSB005	mhmh
 PSB041	io vedo ogni tanto loro parla al cellulare
-PSB005	vai giocare eh sì
+PSB041	vai giocare eh sì
 PSB005	xxxx sì sì
 PSB005	ma voi riuscite
 PSB005	per esempio su internet a guardare
-PSB041	non so la televisione del bangladesh o canali xx video
-PSB005	canale non vedo bangladesh
-PSB041	mh
-PSB005	perché io non ho messo parabolo
-PSB041	okay
+PSB005	non so la televisione del bangladesh o canali xx video
+PSB041	canale non vedo bangladesh
+PSB005	mh
+PSB041	perché io non ho messo parabolo
+PSB005	okay
 PSB041	eh mio figlio questa grande
 PSB041	c'è tivù casa però non puoi vedere io
-PSB005	io non c'è tempo
-PSB041	mhmh
-PSB005	io sempre lavoro
-PSB041	mhmh
+PSB041	io non c'è tempo
+PSB005	mhmh
+PSB041	io sempre lavoro
+PSB005	mhmh
 PSB041	quale vede figlio
-PSB005	figlio vede lui quale piace
-PSB041	mhmh
-PSB005	lui piace troppo geografia
+PSB041	figlio vede lui quale piace
+PSB005	mhmh
+PSB041	lui piace troppo geografia
 PSB005	ah sì
-PSB041	e quindi guarda d~
-PSB005	eh lui vede tutto il mondo quale g~ geografia quale paese
+PSB005	e quindi guarda d~
+PSB041	eh lui vede tutto il mondo quale g~ geografia quale paese
 PSB005	bello
 PSB005	ma è
-PSB041	siete riusciti a
-PSB005	lui anche non è gioca xx capito lui solo vedere geografia
+PSB005	siete riusciti a
+PSB041	lui anche non è gioca xx capito lui solo vedere geografia
 PSB005	sì sì
 PSB005	bello
 PSB005	bello
-PSB041	e legge anche qualco~
+PSB005	e legge anche qualco~
 PSB041	eh
 PSB041	sì
 PSB041	geografia legge quale paese quale famoso quale
-PSB005	lui sempre così
+PSB041	lui sempre così
 PSB005	che bello
 PSB005	ma che bravo
-PSB041	non è
-PSB005	eh
-PSB041	non è come al solito diciamo non è frequente ecco
+PSB005	non è
+PSB041	eh
+PSB005	non è come al solito diciamo non è frequente ecco
 PSB041	no no
 PSB041	no
 PSB041	no io prima inizio
-PSB005	mi diver~ cartoni tante cose però lui adesso vede io vedi
-PSB041	mhmh
+PSB041	mi diver~ cartoni tante cose però lui adesso vede io vedi
+PSB005	mhmh
 PSB041	quando vede tivù
-PSB005	lui solo vedere questa geogra~
-PSB041	geografia
-PSB005	xxx
-PSB041	ma che bravo la sua maestra è contenta
-PSB005	sì
-PSB041	eh
+PSB041	lui solo vedere questa geogra~
+PSB005	geografia
+PSB041	xxx
+PSB005	ma che bravo la sua maestra è contenta
+PSB041	sì
+PSB005	eh
 PSB041	no maestra contenta perché studia bene
-PSB005	perché io preso una ragazza aiutare
+PSB041	perché io preso una ragazza aiutare
 PSB005	eh certo
 PSB005	ah okay
-PSB041	sì
-PSB005	una ragazza tre anni aiutare
-PSB041	okay okay
-PSB005	bologne~ bravissima questa ragazza come età tu
+PSB005	sì
+PSB041	una ragazza tre anni aiutare
+PSB005	okay okay
+PSB041	bologne~ bravissima questa ragazza come età tu
 PSB005	bene
-PSB041	ah eh okay
-PSB005	ancora studente
+PSB005	ah eh okay
+PSB041	ancora studente
 PSB005	ah sì sì sì sì
-PSB041	sì
-PSB005	settimana due giorni dai mano
-PSB041	e li aiuta coi compiti
-PSB005	sì aiuta coi compiti e dopo scherzare parlare
-PSB041	sì sì sì sì
-PSB005	adesso
-PSB041	abita vicino a casa vostra
+PSB005	sì
+PSB041	settimana due giorni dai mano
+PSB005	e li aiuta coi compiti
+PSB041	sì aiuta coi compiti e dopo scherzare parlare
+PSB005	sì sì sì sì
+PSB041	adesso
+PSB005	abita vicino a casa vostra
 PSB041	no
-PSB005	san donato però c'è la macchina vai casa
+PSB041	san donato però c'è la macchina vai casa
 PSB005	ah
 PSB005	okay
 PSB005	okay
-PSB041	è una ragazza bolognese forse
-PSB005	sì sì
+PSB005	è una ragazza bolognese forse
 PSB041	sì sì
+PSB005	sì sì
 PSB041	prima
 PSB041	una ragazza aveva
 PSB041	fuori
 PSB041	però
-PSB005	questa cambiato città
-PSB041	mhmh
-PSB005	lei dato questa ragazza però
+PSB041	questa cambiato città
+PSB005	mhmh
+PSB041	lei dato questa ragazza però
 PSB005	sì sì sì sì sì
-PSB041	bene
+PSB005	bene
 PSB041	una ragazza molto brava
 PSB041	vai casa moglia parlare così
-PSB005	una ragazza brava molto brava
+PSB041	una ragazza brava molto brava
 PSB005	bene bene
-PSB041	ma siete mai tornati in bangladesh
-PSB005	sì sì ogni ogni due anni
-PSB041	ah okay
-PSB005	torno un po' ma c'è mamma papà
-PSB041	ah
-PSB005	papà non c'è mamma c'è
-PSB041	mhmh
+PSB005	ma siete mai tornati in bangladesh
+PSB041	sì sì ogni ogni due anni
+PSB005	ah okay
+PSB041	torno un po' ma c'è mamma papà
+PSB005	ah
+PSB041	papà non c'è mamma c'è
+PSB005	mhmh
 PSB041	c'è sorella nipote
-PSB005	c'è parenti
+PSB041	c'è parenti
 PSB005	mh mhmh
 PSB005	certo
-PSB041	co~ ma è un viaggio lungo per andare
-PSB005	sì
-PSB041	che che viaggio bisogna fare
+PSB005	co~ ma è un viaggio lungo per andare
+PSB041	sì
+PSB005	che che viaggio bisogna fare
 PSB041	aereo
 PSB041	eh viaggio fare
-PSB005	eh quale volo prendo io
-PSB041	mh
+PSB041	eh quale volo prendo io
+PSB005	mh
 PSB041	volo
 PSB041	prendo turkish
-PSB005	istanbul dhaka
+PSB041	istanbul dhaka
 PSB005	sì
-PSB041	mhmh
+PSB005	mhmh
 PSB041	volo prendo emirates
-PSB005	bologna
+PSB041	bologna
+PSB005	dubai
 PSB041	dubai
-PSB041	dubai
-PSB005	dhaka
-PSB041	certo sì
-PSB005	però
-PSB041	quante ore sono
+PSB041	dhaka
+PSB005	certo sì
+PSB041	però
+PSB005	quante ore sono
 PSB041	ma
 PSB041	totale fino a bologna uscire da casa di
-PSB005	d~ da casa ventiquattro
-PSB041	tantissimo
-PSB005	ventitré ventiquattro
+PSB041	d~ da casa ventiquattro
+PSB005	tantissimo
+PSB041	ventitré ventiquattro
 PSB005	mh
-PSB041	sì sì
-PSB005	perché c'è cambio passa tempo
+PSB005	sì sì
+PSB041	perché c'è cambio passa tempo
 PSB005	mhmh
 PSB005	ed è molto diverso il
-PSB041	bangladesh dall'i~ da bologna
+PSB005	bangladesh dall'i~ da bologna
 PSB041	sì
 PSB041	molto diverso
 PSB041	bangladesh c'è sacco di genti paese piccolo
 PSB041	qua
 PSB041	meno genti
-PSB005	paese grande
-PSB041	mhmh
+PSB041	paese grande
+PSB005	mhmh
 PSB041	anche
 PSB041	tranquillo senza traffico
-PSB005	non è come io bangladesh come capitale
-PSB041	mh
+PSB041	non è come io bangladesh come capitale
+PSB005	mh
 PSB041	tu vai di qua
 PSB041	due chilometri anche tre ora a fermare per traffico così
 PSB041	pieno genti
-PSB005	pieno macchina c'è piano otto
-PSB041	perché
-PSB005	non puoi muovere così
+PSB041	pieno macchina c'è piano otto
+PSB005	perché
+PSB041	non puoi muovere così
 PSB005	sì sì sì sì
 PSB005	ho capito sì e
-PSB041	il clima è diverso
+PSB005	il clima è diverso
 PSB041	eh sì
 PSB041	qua
 PSB041	un po' freddo quando inverno
 PSB041	caldo non c'è umidità qua meno umidità paese c'è
 PSB041	caldo
-PSB005	molta umidità
-PSB041	mhmh
-PSB005	sudare troppo
-PSB041	anche a bologna sta diventando un po' così
-PSB005	no
-PSB005	però ancora va bene bologna
-PSB041	sì sì
-PSB005	però
-PSB041	sì sì
-PSB041	ora quaranta gradi eh bangladesh quaranta quarantacinque
-PSB005	caldo eh
-PSB005	tra un po' arriva anche qui
-PSB005	già ieri parlando
-PSB041	sì sì
-PSB041	xx
-PSB005	morire anche corrente problema
-PSB041	ah perché
-PSB041	corrente qua qua mai
-PSB005	cade corrente
-PSB041	mh
-PSB005	paese
-PSB041	okay
-PSB041	un'ora c'è tre ora non c'è cinque ora non c'è
-PSB005	genti non puoi respirare
-PSB005	certo
-PSB041	sì perché
-PSB005	così
-PSB041	ho capito sì sì
-PSB005	corrente c'è tu quando c'è corrente c'è aria condizionata c'è ventola
+PSB041	molta umidità
 PSB005	mhmh
-PSB041	mhmh
-PSB005	diverso un po' x
-PSB041	sì sì
-PSB005	però quando non c'è corrente non è non puoi avere s~ mantenere casa
-PSB005	certo
-PSB041	che disastro
-PSB041	però io fortunato c'è
-PSB005	campagna casa non è città
+PSB041	sudare troppo
+PSB005	anche a bologna sta diventando un po' così
+PSB041	no
+PSB041	però ancora va bene bologna
+PSB005	sì sì
+PSB041	però
+PSB005	sì sì
+PSB041	ora quaranta gradi eh bangladesh quaranta quarantacinque
+PSB041	caldo eh
+PSB005	tra un po' arriva anche qui
+PSB041	già ieri parlando
+PSB005	sì sì
+PSB041	xx
+PSB041	morire anche corrente problema
+PSB005	ah perché
+PSB041	corrente qua qua mai
+PSB041	cade corrente
+PSB005	mh
+PSB041	paese
 PSB005	okay
-PSB041	okay
+PSB041	un'ora c'è tre ora non c'è cinque ora non c'è
+PSB041	genti non puoi respirare
+PSB005	certo
+PSB005	sì perché
+PSB041	così
+PSB005	ho capito sì sì
+PSB041	corrente c'è tu quando c'è corrente c'è aria condizionata c'è ventola
+PSB005	mhmh
+PSB005	mhmh
+PSB041	diverso un po' x
+PSB005	sì sì
+PSB041	però quando non c'è corrente non è non puoi avere s~ mantenere casa
+PSB005	certo
+PSB005	che disastro
+PSB041	però io fortunato c'è
+PSB041	campagna casa non è città
+PSB005	okay
+PSB005	okay
 PSB041	c'è alberi lì sotto metti
 PSB041	sedia qualcosa
-PSB005	per riposare bere acqua
+PSB041	per riposare bere acqua
 PSB005	mhmh
-PSB041	mhmh
-PSB005	così passa
-PSB041	i tuoi geni~ cioè la tua mamma abita in una casa fuori città quindi
-PSB005	sì sì io anche io quando vado paese fuori città
 PSB005	mhmh
-PSB041	ed è al confine dicevi con vicino al confine con
-PSB005	india
+PSB041	così passa
+PSB005	i tuoi geni~ cioè la tua mamma abita in una casa fuori città quindi
+PSB041	sì sì io anche io quando vado paese fuori città
+PSB005	mhmh
+PSB005	ed è al confine dicevi con vicino al confine con
+PSB041	india
 PSB005	con l'india okay
-PSB041	sì sì sì
-PSB005	vicino
+PSB005	sì sì sì
+PSB041	vicino
 PSB005	sì sì
-PSB041	ma perché hai scelto di venire a bologna
+PSB005	ma perché hai scelto di venire a bologna
 PSB041	eh bologna scelto
-PSB005	mio ce l'ho con fratello qua zio zia
-PSB041	mh
-PSB005	parenti prima abitava a bologna
-PSB041	okay e adesso non più
-PSB005	c'è
-PSB041	ci sono ancora
-PSB005	sì sì c'è
-PSB041	lavorano qua vicino
-PSB005	lavorava tutta bologna
+PSB041	mio ce l'ho con fratello qua zio zia
+PSB005	mh
+PSB041	parenti prima abitava a bologna
+PSB005	okay e adesso non più
+PSB041	c'è
+PSB005	ci sono ancora
+PSB041	sì sì c'è
+PSB005	lavorano qua vicino
+PSB041	lavorava tutta bologna
 PSB005	okay okay
-PSB041	sì sì
+PSB005	sì sì
 PSB041	mio fratello c'è cuoco
-PSB005	fare lavoro cuoco zio c'è lavoro alberghi
-PSB041	okay
+PSB041	fare lavoro cuoco zio c'è lavoro alberghi
+PSB005	okay
 PSB041	un altri c'è
 PSB041	c'è impresa edile
 PSB041	fare
-PSB005	condomini
-PSB041	mhmh
-PSB005	c'è tutti che lavoro
+PSB041	condomini
+PSB005	mhmh
+PSB041	c'è tutti che lavoro
 PSB005	sì sì sì
-PSB041	e tu sei venuto da solo e poi è venuta la tua moglie o siete venuti insieme
-PSB005	venuto solo
-PSB041	okay
+PSB005	e tu sei venuto da solo e poi è venuta la tua moglie o siete venuti insieme
+PSB041	venuto solo
+PSB005	okay
 PSB041	solo dopo
 PSB041	quando lavoro po'
-PSB005	tutto a posto dopo piano piano
-PSB041	certo
-PSB005	due tre anni dopo
-PSB041	mhmh
-PSB005	portato moglie
-PSB041	e tua moglie lavora o
-PSB005	no casalinga
-PSB041	okay casalinga
-PSB005	perché due bambini
+PSB041	tutto a posto dopo piano piano
 PSB005	certo
-PSB041	sì sì sì
-PSB005	casalinga basta
+PSB041	due tre anni dopo
+PSB005	mhmh
+PSB041	portato moglie
+PSB005	e tua moglie lavora o
+PSB041	no casalinga
+PSB005	okay casalinga
+PSB041	perché due bambini
+PSB005	certo
+PSB005	sì sì sì
+PSB041	casalinga basta
 PSB005	mhmh okay okay
-PSB041	va bene allora
+PSB005	va bene allora
 PSB041	grazie

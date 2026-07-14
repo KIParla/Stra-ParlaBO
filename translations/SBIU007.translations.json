@@ -1,0 +1,306 @@
+[
+  {
+    "tu_id": "38",
+    "speaker": "PSB031_trad",
+    "start": "77.987",
+    "end": "79.000",
+    "parent_tu_id": "37",
+    "text": "non troppo"
+  },
+  {
+    "tu_id": "86",
+    "speaker": "PSB031_trad",
+    "start": "160.213",
+    "end": "162.893",
+    "parent_tu_id": "85",
+    "text": "ci incontriamo in ristorante in ucraina"
+  },
+  {
+    "tu_id": "90",
+    "speaker": "PSB005_trad",
+    "start": "165.767",
+    "end": "166.978",
+    "parent_tu_id": "89",
+    "text": "una casualità"
+  },
+  {
+    "tu_id": "138",
+    "speaker": "PSB030_trad",
+    "start": "271.426",
+    "end": "272.800",
+    "parent_tu_id": "137",
+    "text": "ora mi servirebbe proprio una pausa"
+  },
+  {
+    "tu_id": "225",
+    "speaker": "PSB030_trad",
+    "start": "425.780",
+    "end": "432.200",
+    "parent_tu_id": "224",
+    "text": "inizia mangiare tonno qui"
+  },
+  {
+    "tu_id": "241",
+    "speaker": "PSB031_trad",
+    "start": "458.410",
+    "end": "460.740",
+    "parent_tu_id": "240",
+    "text": "quando inizia la guerra in ucraina"
+  },
+  {
+    "tu_id": "246",
+    "speaker": "PSB031_trad",
+    "start": "470.100",
+    "end": "471.813",
+    "parent_tu_id": "245",
+    "text": "inizio a mangiare tutto"
+  },
+  {
+    "tu_id": "248",
+    "speaker": "PSB031_trad",
+    "start": "472.220",
+    "end": "474.450",
+    "parent_tu_id": "247",
+    "text": "mangio davvero molto e"
+  },
+  {
+    "tu_id": "250",
+    "speaker": "PSB031_trad",
+    "start": "474.750",
+    "end": "476.607",
+    "parent_tu_id": "249",
+    "text": "ho sei chili in più"
+  },
+  {
+    "tu_id": "253",
+    "speaker": "PSB031_trad",
+    "start": "477.550",
+    "end": "478.780",
+    "parent_tu_id": "252",
+    "text": "per due mesi"
+  },
+  {
+    "tu_id": "265",
+    "speaker": "PSB031_trad",
+    "start": "503.850",
+    "end": "506.292",
+    "parent_tu_id": "264",
+    "text": "penso di smettere di nuovo"
+  },
+  {
+    "tu_id": "277",
+    "speaker": "PSB030_trad",
+    "start": "526.014",
+    "end": "528.403",
+    "parent_tu_id": "276",
+    "text": "a che cosa assomigliano?"
+  },
+  {
+    "tu_id": "299",
+    "speaker": "PSB030_trad",
+    "start": "563.478",
+    "end": "565.181",
+    "parent_tu_id": "298",
+    "text": "amarena"
+  },
+  {
+    "tu_id": "315",
+    "speaker": "PSB031_trad",
+    "start": "585.407",
+    "end": "588.020",
+    "parent_tu_id": "314",
+    "text": "si chiamano in qualche modo diverso"
+  },
+  {
+    "tu_id": "317",
+    "speaker": "PSB030_trad",
+    "start": "587.024",
+    "end": "589.160",
+    "parent_tu_id": "316",
+    "text": "no tu cosa vuoi dire?"
+  },
+  {
+    "tu_id": "320",
+    "speaker": "PSB030_trad",
+    "start": "589.780",
+    "end": "592.667",
+    "parent_tu_id": "319",
+    "text": "no uguale ho guardato uguale"
+  },
+  {
+    "tu_id": "331",
+    "speaker": "PSB030_trad",
+    "start": "603.819",
+    "end": "605.592",
+    "parent_tu_id": "330",
+    "text": "si scrive uguale"
+  },
+  {
+    "tu_id": "357",
+    "speaker": "PSB030_trad",
+    "start": "638.800",
+    "end": "640.853",
+    "parent_tu_id": "356",
+    "text": "sottile sottile non lo so"
+  },
+  {
+    "tu_id": "405",
+    "speaker": "PSB031_trad",
+    "start": "760.400",
+    "end": "761.830",
+    "parent_tu_id": "404",
+    "text": "grande"
+  },
+  {
+    "tu_id": "435",
+    "speaker": "PSB030_trad",
+    "start": "822.587",
+    "end": "823.387",
+    "parent_tu_id": "434",
+    "text": "mi sembra uguale"
+  },
+  {
+    "tu_id": "437",
+    "speaker": "PSB031_trad",
+    "start": "824.387",
+    "end": "827.619",
+    "parent_tu_id": "436",
+    "text": "ma ogni giorno guardiamo uno nuovo"
+  },
+  {
+    "tu_id": "519",
+    "speaker": "PSB030_trad",
+    "start": "970.423",
+    "end": "978.181",
+    "parent_tu_id": "518",
+    "text": "ma ora aprire nuovi direzione"
+  },
+  {
+    "tu_id": "596",
+    "speaker": "PSB031_trad",
+    "start": "1115.000",
+    "end": "1117.205",
+    "parent_tu_id": "595",
+    "text": "a che età andare scuola"
+  },
+  {
+    "tu_id": "599",
+    "speaker": "PSB031_trad",
+    "start": "1117.588",
+    "end": "1118.206",
+    "parent_tu_id": "598",
+    "text": "la prima scuola"
+  },
+  {
+    "tu_id": "635",
+    "speaker": "PSB031_trad",
+    "start": "1172.196",
+    "end": "1173.402",
+    "parent_tu_id": "634",
+    "text": "per me anche"
+  },
+  {
+    "tu_id": "648",
+    "speaker": "PSB031_trad",
+    "start": "1194.990",
+    "end": "1201.196",
+    "parent_tu_id": "647",
+    "text": "in grande compagnia loro producono"
+  },
+  {
+    "tu_id": "650",
+    "speaker": "PSB031_trad",
+    "start": "1203.598",
+    "end": "1206.804",
+    "parent_tu_id": "649",
+    "text": "cornici per finestre per"
+  },
+  {
+    "tu_id": "654",
+    "speaker": "PSB031_trad",
+    "start": "1210.010",
+    "end": "1210.783",
+    "parent_tu_id": "653",
+    "text": "si chiama"
+  },
+  {
+    "tu_id": "690",
+    "speaker": "PSB031_trad",
+    "start": "1270.988",
+    "end": "1272.566",
+    "parent_tu_id": "689",
+    "text": "mah anche un milione"
+  },
+  {
+    "tu_id": "695",
+    "speaker": "PSB031_trad",
+    "start": "1284.198",
+    "end": "1288.386",
+    "parent_tu_id": "694",
+    "text": "movimento verso"
+  },
+  {
+    "tu_id": "697",
+    "speaker": "PSB031_trad",
+    "start": "1288.590",
+    "end": "1290.000",
+    "parent_tu_id": "696",
+    "text": "verso un posto sicuro"
+  },
+  {
+    "tu_id": "715",
+    "speaker": "PSB030_trad",
+    "start": "1320.587",
+    "end": "1322.587",
+    "parent_tu_id": "714",
+    "text": "bombardare"
+  },
+  {
+    "tu_id": "891",
+    "speaker": "PSB030_trad",
+    "start": "1654.186",
+    "end": "1655.800",
+    "parent_tu_id": "890",
+    "text": "anche tu"
+  },
+  {
+    "tu_id": "1061",
+    "speaker": "PSB005_trad",
+    "start": "2005.574",
+    "end": "2008.387",
+    "parent_tu_id": "1060",
+    "text": "classe operaia"
+  },
+  {
+    "tu_id": "1072",
+    "speaker": "PSB030_trad",
+    "start": "2039.387",
+    "end": "2042.819",
+    "parent_tu_id": "1071",
+    "text": "uguale lingua spagnola in spagnolo"
+  },
+  {
+    "tu_id": "1100",
+    "speaker": "PSB005_trad",
+    "start": "2091.187",
+    "end": "2094.787",
+    "parent_tu_id": "1099",
+    "text": "è difficile sto cercando di spiegare una cosa difficile"
+  },
+  {
+    "tu_id": "1112",
+    "speaker": "PSB030_trad",
+    "start": "2115.987",
+    "end": "2122.000",
+    "parent_tu_id": "1111",
+    "text": "nostra lingua è è gruppo slavo"
+  },
+  {
+    "tu_id": "1135",
+    "speaker": "PSB031_trad",
+    "start": "2160.774",
+    "end": "2162.374",
+    "parent_tu_id": "1134",
+    "text": "è tutto diverso"
+  }
+]

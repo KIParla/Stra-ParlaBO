@@ -1,0 +1,650 @@
+[
+  {
+    "tu_id": "27",
+    "speaker": "PSB066_trad",
+    "start": "42.913",
+    "end": "44.246",
+    "parent_tu_id": "26",
+    "text": "si chiama l'associazione"
+  },
+  {
+    "tu_id": "31",
+    "speaker": "PSB066_trad",
+    "start": "48.060",
+    "end": "50.620",
+    "parent_tu_id": "30",
+    "text": "associazione"
+  },
+  {
+    "tu_id": "238",
+    "speaker": "PSB065_trad",
+    "start": "298.030",
+    "end": "300.530",
+    "parent_tu_id": "237",
+    "text": "loro studiano il corano ma in curdo"
+  },
+  {
+    "tu_id": "332",
+    "speaker": "PSB066_trad",
+    "start": "410.730",
+    "end": "413.160",
+    "parent_tu_id": "331",
+    "text": "eh arabo l’arabo classico si chiama l’arabo classico"
+  },
+  {
+    "tu_id": "371",
+    "speaker": "PSB065_trad",
+    "start": "454.330",
+    "end": "455.180",
+    "parent_tu_id": "370",
+    "text": "che dio li benedica"
+  },
+  {
+    "tu_id": "373",
+    "speaker": "PSB065_trad",
+    "start": "456.812",
+    "end": "457.890",
+    "parent_tu_id": "372",
+    "text": "che dio li benedica"
+  },
+  {
+    "tu_id": "654",
+    "speaker": "???_trad",
+    "start": "806.559",
+    "end": "807.166",
+    "parent_tu_id": "653",
+    "text": ""
+  },
+  {
+    "tu_id": "659",
+    "speaker": "PSB065_trad",
+    "start": "810.213",
+    "end": "811.671",
+    "parent_tu_id": "658",
+    "text": "per caso i bambini fanno qualcosa?"
+  },
+  {
+    "tu_id": "661",
+    "speaker": "PSB065_trad",
+    "start": "812.273",
+    "end": "813.479",
+    "parent_tu_id": "660",
+    "text": "oggi mi uccideranno"
+  },
+  {
+    "tu_id": "667",
+    "speaker": "PSB066_trad",
+    "start": "817.575",
+    "end": "818.188",
+    "parent_tu_id": "666",
+    "text": "si vai"
+  },
+  {
+    "tu_id": "669",
+    "speaker": "PSB065_trad",
+    "start": "817.840",
+    "end": "820.240",
+    "parent_tu_id": "668",
+    "text": "mannaggia sorella gli fa male il molare devo portarlo dal medico mi vergogno"
+  },
+  {
+    "tu_id": "672",
+    "speaker": "PSB066_trad",
+    "start": "821.216",
+    "end": "822.602",
+    "parent_tu_id": "671",
+    "text": "l’importante è che non gliela dai"
+  },
+  {
+    "tu_id": "676",
+    "speaker": "PSB066_trad",
+    "start": "823.431",
+    "end": "823.861",
+    "parent_tu_id": "675",
+    "text": "vai vai"
+  },
+  {
+    "tu_id": "678",
+    "speaker": "PSB065_trad",
+    "start": "824.026",
+    "end": "825.926",
+    "parent_tu_id": "677",
+    "text": "sì, sorella ecco vai vai"
+  },
+  {
+    "tu_id": "680",
+    "speaker": "PSB066_trad",
+    "start": "824.733",
+    "end": "825.046",
+    "parent_tu_id": "679",
+    "text": "vai"
+  },
+  {
+    "tu_id": "800",
+    "speaker": "PSB065_trad",
+    "start": "988.111",
+    "end": "989.041",
+    "parent_tu_id": "799",
+    "text": "che ci possiamo fare?"
+  },
+  {
+    "tu_id": "918",
+    "speaker": "PSB066_trad",
+    "start": "1111.734",
+    "end": "1113.344",
+    "parent_tu_id": "917",
+    "text": "ben-(ahmed) A::H mozabita?"
+  },
+  {
+    "tu_id": "921",
+    "speaker": "PSB065_trad",
+    "start": "1113.418",
+    "end": "1114.510",
+    "parent_tu_id": "920",
+    "text": "sì mozabita"
+  },
+  {
+    "tu_id": "923",
+    "speaker": "PSB066_trad",
+    "start": "1113.867",
+    "end": "1116.374",
+    "parent_tu_id": "922",
+    "text": "ah sei di ben ahmed sorella brava"
+  },
+  {
+    "tu_id": "925",
+    "speaker": "PSB065_trad",
+    "start": "1116.490",
+    "end": "1116.863",
+    "parent_tu_id": "924",
+    "text": "mozabita"
+  },
+  {
+    "tu_id": "927",
+    "speaker": "PSB066_trad",
+    "start": "1116.711",
+    "end": "1118.059",
+    "parent_tu_id": "926",
+    "text": "a::: anche il marito di mia sorella è mozabita occhei"
+  },
+  {
+    "tu_id": "942",
+    "speaker": "PSB066_trad",
+    "start": "1131.526",
+    "end": "1132.224",
+    "parent_tu_id": "941",
+    "text": ""
+  },
+  {
+    "tu_id": "944",
+    "speaker": "PSB065_trad",
+    "start": "1131.808",
+    "end": "1135.271",
+    "parent_tu_id": "943",
+    "text": "ma mhm eh ci sta mmh eravamo mmh"
+  },
+  {
+    "tu_id": "949",
+    "speaker": "PSB066_trad",
+    "start": "1138.186",
+    "end": "1138.744",
+    "parent_tu_id": "948",
+    "text": "com’è in arabo?"
+  },
+  {
+    "tu_id": "952",
+    "speaker": "PSB065_trad",
+    "start": "1139.298",
+    "end": "1140.111",
+    "parent_tu_id": "951",
+    "text": "per (dire) ad esempio"
+  },
+  {
+    "tu_id": "954",
+    "speaker": "PSB065_trad",
+    "start": "1140.111",
+    "end": "1142.060",
+    "parent_tu_id": "953",
+    "text": ""
+  },
+  {
+    "tu_id": "960",
+    "speaker": "PSB065_trad",
+    "start": "1144.685",
+    "end": "1146.109",
+    "parent_tu_id": "959",
+    "text": "come (dire) ben ahmed (è in provincia di) settat"
+  },
+  {
+    "tu_id": "963",
+    "speaker": "PSB065_trad",
+    "start": "1146.254",
+    "end": "1146.952",
+    "parent_tu_id": "962",
+    "text": "(la cosa) importante"
+  },
+  {
+    "tu_id": "965",
+    "speaker": "PSB066_trad",
+    "start": "1146.843",
+    "end": "1148.745",
+    "parent_tu_id": "964",
+    "text": "noi siamo tutti di Casablanca, dipendiamo da Casablanca"
+  },
+  {
+    "tu_id": "1025",
+    "speaker": "PSB066_trad",
+    "start": "1205.580",
+    "end": "1210.496",
+    "parent_tu_id": "1024",
+    "text": "sto comprando (casa) vicino al mare adesso ho comprato (casa) vicino al mare"
+  },
+  {
+    "tu_id": "1034",
+    "speaker": "PSB066_trad",
+    "start": "1214.920",
+    "end": "1216.736",
+    "parent_tu_id": "1033",
+    "text": "Sidi (Mohammed Ben) Rahal"
+  },
+  {
+    "tu_id": "1045",
+    "speaker": "PSB065_trad",
+    "start": "1222.831",
+    "end": "1227.514",
+    "parent_tu_id": "1044",
+    "text": "eh io adesso vivo a casablanca perché mio marito è di casablanca ma eh dove"
+  },
+  {
+    "tu_id": "1049",
+    "speaker": "PSB065_trad",
+    "start": "1227.553",
+    "end": "1227.843",
+    "parent_tu_id": "1048",
+    "text": "jawhara"
+  },
+  {
+    "tu_id": "1051",
+    "speaker": "PSB066_trad",
+    "start": "1227.960",
+    "end": "1228.533",
+    "parent_tu_id": "1050",
+    "text": "jawhara"
+  },
+  {
+    "tu_id": "1053",
+    "speaker": "PSB065_trad",
+    "start": "1228.040",
+    "end": "1229.133",
+    "parent_tu_id": "1052",
+    "text": "jawhara è nel (distretto di) sidi moumen"
+  },
+  {
+    "tu_id": "1055",
+    "speaker": "PSB066_trad",
+    "start": "1229.233",
+    "end": "1230.507",
+    "parent_tu_id": "1054",
+    "text": "sidi moumen"
+  },
+  {
+    "tu_id": "1223",
+    "speaker": "PSB066_trad",
+    "start": "1448.350",
+    "end": "1454.280",
+    "parent_tu_id": "1222",
+    "text": ""
+  },
+  {
+    "tu_id": "1279",
+    "speaker": "PSB066_trad",
+    "start": "1527.090",
+    "end": "1529.600",
+    "parent_tu_id": "1278",
+    "text": "Chefchaouen A:H bellissimo Chefchaouen"
+  },
+  {
+    "tu_id": "1359",
+    "speaker": "PSB066_trad",
+    "start": "1662.580",
+    "end": "1663.900",
+    "parent_tu_id": "1358",
+    "text": "perché il couscous xx"
+  },
+  {
+    "tu_id": "1366",
+    "speaker": "PSB065_trad",
+    "start": "1672.950",
+    "end": "1674.120",
+    "parent_tu_id": "1365",
+    "text": "ehm prugne sì sì"
+  },
+  {
+    "tu_id": "1368",
+    "speaker": "PSB066_trad",
+    "start": "1673.110",
+    "end": "1678.150",
+    "parent_tu_id": "1367",
+    "text": "prugne con le prugne e mandorle sì buonissimo"
+  },
+  {
+    "tu_id": "1375",
+    "speaker": "PSB066_trad",
+    "start": "1681.010",
+    "end": "1682.510",
+    "parent_tu_id": "1374",
+    "text": "pastilla"
+  },
+  {
+    "tu_id": "1381",
+    "speaker": "PSB066_trad",
+    "start": "1687.930",
+    "end": "1689.960",
+    "parent_tu_id": "1380",
+    "text": ""
+  },
+  {
+    "tu_id": "1385",
+    "speaker": "PSB065_trad",
+    "start": "1691.670",
+    "end": "1699.660",
+    "parent_tu_id": "1384",
+    "text": "anche alla mattina prendo il msemen il baghrir come quello sì tè"
+  },
+  {
+    "tu_id": "1391",
+    "speaker": "PSB065_trad",
+    "start": "1704.900",
+    "end": "1706.960",
+    "parent_tu_id": "1390",
+    "text": "per la cena fare la zuppa"
+  },
+  {
+    "tu_id": "1415",
+    "speaker": "PSB066_trad",
+    "start": "1732.290",
+    "end": "1733.360",
+    "parent_tu_id": "1414",
+    "text": "pastilla"
+  },
+  {
+    "tu_id": "1417",
+    "speaker": "PSB065_trad",
+    "start": "1733.550",
+    "end": "1734.930",
+    "parent_tu_id": "1416",
+    "text": "ah pastilla brava"
+  },
+  {
+    "tu_id": "1419",
+    "speaker": "PSB066_trad",
+    "start": "1733.580",
+    "end": "1734.100",
+    "parent_tu_id": "1418",
+    "text": "pastilla"
+  },
+  {
+    "tu_id": "1444",
+    "speaker": "PSB065_trad",
+    "start": "1766.670",
+    "end": "1767.620",
+    "parent_tu_id": "1443",
+    "text": "il tajine si prepara subito"
+  },
+  {
+    "tu_id": "1517",
+    "speaker": "PSB065_trad",
+    "start": "1879.330",
+    "end": "1880.080",
+    "parent_tu_id": "1516",
+    "text": ""
+  },
+  {
+    "tu_id": "1601",
+    "speaker": "PSB066_trad",
+    "start": "1994.250",
+    "end": "1998.280",
+    "parent_tu_id": "1599",
+    "text": "ma"
+  },
+  {
+    "tu_id": "1636",
+    "speaker": "PSB066_trad",
+    "start": "2060.020",
+    "end": "2061.320",
+    "parent_tu_id": "1635",
+    "text": "un po'"
+  },
+  {
+    "tu_id": "1655",
+    "speaker": "PSB065_trad",
+    "start": "2086.670",
+    "end": "2087.000",
+    "parent_tu_id": "1654",
+    "text": "che dio vi benedica"
+  },
+  {
+    "tu_id": "1696",
+    "speaker": "PSB065_trad",
+    "start": "2144.650",
+    "end": "2145.974",
+    "parent_tu_id": "1695",
+    "text": ""
+  },
+  {
+    "tu_id": "1770",
+    "speaker": "PSB065_trad",
+    "start": "2246.253",
+    "end": "2250.007",
+    "parent_tu_id": "1769",
+    "text": ""
+  },
+  {
+    "tu_id": "1781",
+    "speaker": "PSB066_trad",
+    "start": "2260.548",
+    "end": "2261.181",
+    "parent_tu_id": "1780",
+    "text": "mattatoio"
+  },
+  {
+    "tu_id": "1804",
+    "speaker": "PSB065_trad",
+    "start": "2282.880",
+    "end": "2284.457",
+    "parent_tu_id": "1803",
+    "text": "una::: la foresta come la chiamano?"
+  },
+  {
+    "tu_id": "1812",
+    "speaker": "PSB065_trad",
+    "start": "2292.426",
+    "end": "2293.724",
+    "parent_tu_id": "1811",
+    "text": "in montagna sopra"
+  },
+  {
+    "tu_id": "1857",
+    "speaker": "PSB066_trad",
+    "start": "2376.706",
+    "end": "2378.186",
+    "parent_tu_id": "1856",
+    "text": "abbiamo due feste"
+  },
+  {
+    "tu_id": "1860",
+    "speaker": "PSB066_trad",
+    "start": "2379.934",
+    "end": "2381.294",
+    "parent_tu_id": "1859",
+    "text": "tieni, vieni, sì"
+  },
+  {
+    "tu_id": "1866",
+    "speaker": "PSB065_trad",
+    "start": "2389.565",
+    "end": "2391.377",
+    "parent_tu_id": "1865",
+    "text": "quello io non lo festeggio io anch'io"
+  },
+  {
+    "tu_id": "1868",
+    "speaker": "PSB066_trad",
+    "start": "2390.459",
+    "end": "2391.664",
+    "parent_tu_id": "1867",
+    "text": "anche io non lo festeggio"
+  },
+  {
+    "tu_id": "1959",
+    "speaker": "PSB065_trad",
+    "start": "2543.553",
+    "end": "2553.947",
+    "parent_tu_id": "1958",
+    "text": "il richiamo alla preghiera"
+  },
+  {
+    "tu_id": "1967",
+    "speaker": "PSB065_trad",
+    "start": "2564.171",
+    "end": "2567.083",
+    "parent_tu_id": "1966",
+    "text": "sì anche alla moschea senti il richiamo alla preghiera le preghiere"
+  },
+  {
+    "tu_id": "2000",
+    "speaker": "PSB066_trad",
+    "start": "2610.764",
+    "end": "2613.022",
+    "parent_tu_id": "1999",
+    "text": "tua mamma"
+  },
+  {
+    "tu_id": "2005",
+    "speaker": "PSB066_trad",
+    "start": "2614.800",
+    "end": "2616.473",
+    "parent_tu_id": "2004",
+    "text": "erano"
+  },
+  {
+    "tu_id": "2021",
+    "speaker": "PSB065_trad",
+    "start": "2632.607",
+    "end": "2633.660",
+    "parent_tu_id": "2019",
+    "text": ""
+  },
+  {
+    "tu_id": "2022",
+    "speaker": "PSB066_trad",
+    "start": "2632.607",
+    "end": "2633.660",
+    "parent_tu_id": "2020",
+    "text": "ti sei sposata e poi sei venuta (qui) no?"
+  },
+  {
+    "tu_id": "2024",
+    "speaker": "PSB065_trad",
+    "start": "2633.693",
+    "end": "2634.267",
+    "parent_tu_id": "2023",
+    "text": ""
+  },
+  {
+    "tu_id": "2028",
+    "speaker": "PSB065_trad",
+    "start": "2635.346",
+    "end": "2636.040",
+    "parent_tu_id": "2027",
+    "text": ""
+  },
+  {
+    "tu_id": "2033",
+    "speaker": "PSB066_trad",
+    "start": "2640.920",
+    "end": "2641.920",
+    "parent_tu_id": "2032",
+    "text": "no? eri con tua mamma?"
+  },
+  {
+    "tu_id": "2090",
+    "speaker": "PSB066_trad",
+    "start": "2740.387",
+    "end": "2742.723",
+    "parent_tu_id": "2089",
+    "text": "sai, lei dice delle cose (ma) non dirmi che cos'è"
+  },
+  {
+    "tu_id": "2093",
+    "speaker": "PSB065_trad",
+    "start": "2742.920",
+    "end": "2744.097",
+    "parent_tu_id": "2092",
+    "text": "è come le figlie di mia sorella"
+  },
+  {
+    "tu_id": "2095",
+    "speaker": "PSB066_trad",
+    "start": "2744.280",
+    "end": "2746.319",
+    "parent_tu_id": "2094",
+    "text": "non dirmi cos’è quello che dice lei fa inglese, spagnolo"
+  },
+  {
+    "tu_id": "2100",
+    "speaker": "PSB066_trad",
+    "start": "2750.053",
+    "end": "2751.573",
+    "parent_tu_id": "2099",
+    "text": "studia l’ing(lese)"
+  },
+  {
+    "tu_id": "2107",
+    "speaker": "PSB066_trad",
+    "start": "2769.820",
+    "end": "2773.333",
+    "parent_tu_id": "2106",
+    "text": "ha preso in… in… ha preso la [sua:] sì questa"
+  },
+  {
+    "tu_id": "2123",
+    "speaker": "PSB065_trad",
+    "start": "2788.080",
+    "end": "2790.680",
+    "parent_tu_id": "2121",
+    "text": "sì è bellissima che Dio la benedica"
+  },
+  {
+    "tu_id": "2124",
+    "speaker": "PSB066_trad",
+    "start": "2788.080",
+    "end": "2790.680",
+    "parent_tu_id": "2122",
+    "text": "le mie figlie le mie figlie lei ti assomiglia sì"
+  },
+  {
+    "tu_id": "2128",
+    "speaker": "PSB065_trad",
+    "start": "2790.747",
+    "end": "2797.347",
+    "parent_tu_id": "2125",
+    "text": "io forse le ho incontrate qui? xx non vengono a molinella? ah a posto perciò non le ho mai viste"
+  },
+  {
+    "tu_id": "2129",
+    "speaker": "PSB066_trad",
+    "start": "2790.747",
+    "end": "2797.347",
+    "parent_tu_id": "2126",
+    "text": "no, no non vengono a non ci sono a molinella no non escono (qui)"
+  },
+  {
+    "tu_id": "2132",
+    "speaker": "PSB066_trad",
+    "start": "2797.373",
+    "end": "2799.946",
+    "parent_tu_id": "2131",
+    "text": "sono lavoratrici lavorano sì"
+  }
+]

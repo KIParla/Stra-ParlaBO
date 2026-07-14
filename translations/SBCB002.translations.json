@@ -1,0 +1,74 @@
+[
+  {
+    "tu_id": "72",
+    "speaker": "PSB093_trad",
+    "start": "121.100",
+    "end": "128.500",
+    "parent_tu_id": "71",
+    "text": "questo non si perde se lo metti di là io non saprò mai e non capirò mai l'ha lasciato lì devo prenderlo o cosa devo fare"
+  },
+  {
+    "tu_id": "76",
+    "speaker": "??_trad",
+    "start": "128.000",
+    "end": "130.560",
+    "parent_tu_id": "75",
+    "text": "la porta era aperta io ero andato a prendere"
+  },
+  {
+    "tu_id": "79",
+    "speaker": "PSB093_trad",
+    "start": "132.200",
+    "end": "136.633",
+    "parent_tu_id": "78",
+    "text": "d'accordo va bene io allora tra un po' parlerò con maria giulia scusa scusa"
+  },
+  {
+    "tu_id": "92",
+    "speaker": "PSB093_trad",
+    "start": "145.110",
+    "end": "151.360",
+    "parent_tu_id": "91",
+    "text": "ora io ho preso fammi sapere io vedo io sì io vedo io devo prendere le stampelle io"
+  },
+  {
+    "tu_id": "439",
+    "speaker": "PSB093_trad",
+    "start": "812.449",
+    "end": "813.398",
+    "parent_tu_id": "438",
+    "text": "the sylhet"
+  },
+  {
+    "tu_id": "442",
+    "speaker": "PSB094_trad",
+    "start": "813.694",
+    "end": "814.398",
+    "parent_tu_id": "441",
+    "text": "the sylhet"
+  },
+  {
+    "tu_id": "444",
+    "speaker": "PSB093_trad",
+    "start": "815.102",
+    "end": "815.908",
+    "parent_tu_id": "443",
+    "text": "the sylhet"
+  },
+  {
+    "tu_id": "574",
+    "speaker": "PSB093_trad",
+    "start": "1068.102",
+    "end": "1074.561",
+    "parent_tu_id": "573",
+    "text": "persino loro quando presenta con i bengalesi loro dicono loro sono bengalesi loro sono del sylhet"
+  },
+  {
+    "tu_id": "710",
+    "speaker": "PSB094_trad",
+    "start": "1398.680",
+    "end": "1399.436",
+    "parent_tu_id": "709",
+    "text": "fatto divertente"
+  }
+]

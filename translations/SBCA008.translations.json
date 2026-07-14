@@ -1,0 +1,82 @@
+[
+  {
+    "tu_id": "157",
+    "speaker": "???_trad",
+    "start": "353.398",
+    "end": "354.611",
+    "parent_tu_id": "156",
+    "text": "oh yussef"
+  },
+  {
+    "tu_id": "166",
+    "speaker": "PSB141_trad",
+    "start": "379.408",
+    "end": "380.689",
+    "parent_tu_id": "165",
+    "text": "il \"campagnolo\" farà da \"campagnolo\""
+  },
+  {
+    "tu_id": "168",
+    "speaker": "???_trad",
+    "start": "381.000",
+    "end": "381.772",
+    "parent_tu_id": "167",
+    "text": "che fate?"
+  },
+  {
+    "tu_id": "595",
+    "speaker": "PSB141_trad",
+    "start": "1377.392",
+    "end": "1379.227",
+    "parent_tu_id": "594",
+    "text": "lascialo stare ecco tieni"
+  },
+  {
+    "tu_id": "600",
+    "speaker": "PSB141_trad",
+    "start": "1381.206",
+    "end": "1382.770",
+    "parent_tu_id": "599",
+    "text": "lascialo stare che ora non ha tempo"
+  },
+  {
+    "tu_id": "603",
+    "speaker": "PSB141_trad",
+    "start": "1384.000",
+    "end": "1385.021",
+    "parent_tu_id": "602",
+    "text": "lascialo stare"
+  },
+  {
+    "tu_id": "605",
+    "speaker": "PSB141_trad",
+    "start": "1386.078",
+    "end": "1387.227",
+    "parent_tu_id": "604",
+    "text": "lascia il ragazzo riposarsi"
+  },
+  {
+    "tu_id": "609",
+    "speaker": "PSB141_trad",
+    "start": "1390.598",
+    "end": "1391.825",
+    "parent_tu_id": "608",
+    "text": "ma vuoi svegliarlo?"
+  },
+  {
+    "tu_id": "632",
+    "speaker": "???_trad",
+    "start": "1442.794",
+    "end": "1444.914",
+    "parent_tu_id": "631",
+    "text": "l'ho comprato"
+  },
+  {
+    "tu_id": "634",
+    "speaker": "PSB141_trad",
+    "start": "1445.049",
+    "end": "1446.725",
+    "parent_tu_id": "633",
+    "text": "guarda se c'è vicino al letto"
+  }
+]

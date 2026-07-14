@@ -1,0 +1,42 @@
+[
+  {
+    "tu_id": "135",
+    "speaker": "PSB099_trad",
+    "start": "315.940",
+    "end": "317.220",
+    "parent_tu_id": "134",
+    "text": "guardiamo la cartina intanto"
+  },
+  {
+    "tu_id": "240",
+    "speaker": "PSB100_trad",
+    "start": "563.770",
+    "end": "565.060",
+    "parent_tu_id": "239",
+    "text": "scrivi solo cartagena"
+  },
+  {
+    "tu_id": "242",
+    "speaker": "PSB099_trad",
+    "start": "565.210",
+    "end": "569.270",
+    "parent_tu_id": "241",
+    "text": "no c'è cartagena xx c'è cartagena in america c'è cartagena xx"
+  },
+  {
+    "tu_id": "257",
+    "speaker": "PSB100_trad",
+    "start": "595.480",
+    "end": "596.330",
+    "parent_tu_id": "256",
+    "text": "hai la testa dura"
+  },
+  {
+    "tu_id": "356",
+    "speaker": "PSB099_trad",
+    "start": "835.850",
+    "end": "837.220",
+    "parent_tu_id": "355",
+    "text": "quella ti abbiamo detto il volo"
+  }
+]

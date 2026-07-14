@@ -1,0 +1,66 @@
+[
+  {
+    "tu_id": "92",
+    "speaker": "PSB017_trad",
+    "start": "167.849",
+    "end": "169.847",
+    "parent_tu_id": "91",
+    "text": "fratello"
+  },
+  {
+    "tu_id": "94",
+    "speaker": "PSB017_trad",
+    "start": "170.251",
+    "end": "172.042",
+    "parent_tu_id": "93",
+    "text": ""
+  },
+  {
+    "tu_id": "473",
+    "speaker": "PSB017_trad",
+    "start": "825.600",
+    "end": "830.256",
+    "parent_tu_id": "472",
+    "text": "Emirati (Arabi Uniti), (Arabia) Saudita"
+  },
+  {
+    "tu_id": "586",
+    "speaker": "PSB017_trad",
+    "start": "1051.295",
+    "end": "1055.097",
+    "parent_tu_id": "585",
+    "text": ""
+  },
+  {
+    "tu_id": "588",
+    "speaker": "PSB017_trad",
+    "start": "1055.352",
+    "end": "1058.361",
+    "parent_tu_id": "587",
+    "text": ""
+  },
+  {
+    "tu_id": "661",
+    "speaker": "PSB017_trad",
+    "start": "1178.003",
+    "end": "1183.886",
+    "parent_tu_id": "660",
+    "text": "Hisham"
+  },
+  {
+    "tu_id": "744",
+    "speaker": "PSB017_trad",
+    "start": "1333.603",
+    "end": "1334.485",
+    "parent_tu_id": "743",
+    "text": "lasciami finire che me ne vado"
+  },
+  {
+    "tu_id": "748",
+    "speaker": "PSB017_trad",
+    "start": "1339.500",
+    "end": "1341.400",
+    "parent_tu_id": "747",
+    "text": "(così restiamo) bloccati qui (.) (dopo) entri e fai la tua intervista [cos’hai (che non va)?]"
+  }
+]

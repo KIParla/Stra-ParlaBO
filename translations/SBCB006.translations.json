@@ -1,0 +1,90 @@
+[
+  {
+    "tu_id": "29",
+    "speaker": "PSB093_trad",
+    "start": "49.680",
+    "end": "55.260",
+    "parent_tu_id": "28",
+    "text": "no oh bene vuoi andare"
+  },
+  {
+    "tu_id": "33",
+    "speaker": "PSB093_trad",
+    "start": "62.980",
+    "end": "67.220",
+    "parent_tu_id": "32",
+    "text": "va bene ma signore ci vorrà molto tempo se ci vado io si sprecherà tanto tempo"
+  },
+  {
+    "tu_id": "37",
+    "speaker": "PSB093_trad",
+    "start": "70.000",
+    "end": "72.576",
+    "parent_tu_id": "36",
+    "text": "bisognerà prendere molta verdura per domenica"
+  },
+  {
+    "tu_id": "206",
+    "speaker": "PSB093_trad",
+    "start": "407.192",
+    "end": "411.030",
+    "parent_tu_id": "205",
+    "text": "cioè non deve necessariamente essere super perfetto"
+  },
+  {
+    "tu_id": "416",
+    "speaker": "PSB093_trad",
+    "start": "764.798",
+    "end": "765.785",
+    "parent_tu_id": "415",
+    "text": "nessun computer?"
+  },
+  {
+    "tu_id": "478",
+    "speaker": "PSB093_trad",
+    "start": "899.020",
+    "end": "901.798",
+    "parent_tu_id": "477",
+    "text": "dobbiamo controllare oggi tesoro okay?"
+  },
+  {
+    "tu_id": "546",
+    "speaker": "PSB093_trad",
+    "start": "1008.404",
+    "end": "1009.394",
+    "parent_tu_id": "545",
+    "text": "presso la vostra eh?"
+  },
+  {
+    "tu_id": "648",
+    "speaker": "PSB093_trad",
+    "start": "1208.899",
+    "end": "1210.222",
+    "parent_tu_id": "647",
+    "text": "totale delle pagine"
+  },
+  {
+    "tu_id": "652",
+    "speaker": "PSB093_trad",
+    "start": "1215.010",
+    "end": "1220.586",
+    "parent_tu_id": "651",
+    "text": "un certo numero di pagine che tu puoi fare fotocopie oppure stampa dal computer"
+  },
+  {
+    "tu_id": "932",
+    "speaker": "PSB005_trad",
+    "start": "1746.394",
+    "end": "1749.010",
+    "parent_tu_id": "931",
+    "text": "cioè apprendimento integrato di lingua e contenuti"
+  },
+  {
+    "tu_id": "951",
+    "speaker": "PSB093_trad",
+    "start": "1782.808",
+    "end": "1784.596",
+    "parent_tu_id": "950",
+    "text": "perché è così pesante"
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "tu_id": "75",
+    "speaker": "PSB009_trad",
+    "start": "112.510",
+    "end": "119.100",
+    "parent_tu_id": "74",
+    "text": "all'inizio pensavo abbiamo sette ore di fuso orario"
+  },
+  {
+    "tu_id": "79",
+    "speaker": "PSB009_trad",
+    "start": "120.660",
+    "end": "122.150",
+    "parent_tu_id": "78",
+    "text": "sarà un grosso problema"
+  },
+  {
+    "tu_id": "82",
+    "speaker": "PSB009_trad",
+    "start": "122.743",
+    "end": "123.503",
+    "parent_tu_id": "81",
+    "text": "ma in realtà no"
+  },
+  {
+    "tu_id": "85",
+    "speaker": "PSB009_trad",
+    "start": "124.090",
+    "end": "124.700",
+    "parent_tu_id": "83",
+    "text": "in realtà no"
+  },
+  {
+    "tu_id": "368",
+    "speaker": "PSB009_trad",
+    "start": "762.310",
+    "end": "763.700",
+    "parent_tu_id": "367",
+    "text": "proverò la"
+  },
+  {
+    "tu_id": "370",
+    "speaker": "PSB009_trad",
+    "start": "764.690",
+    "end": "765.620",
+    "parent_tu_id": "369",
+    "text": "proverò la"
+  },
+  {
+    "tu_id": "372",
+    "speaker": "PSB009_trad",
+    "start": "766.610",
+    "end": "766.860",
+    "parent_tu_id": "371",
+    "text": "a"
+  },
+  {
+    "tu_id": "1510",
+    "speaker": "PSB009_trad",
+    "start": "3342.354",
+    "end": "3343.286",
+    "parent_tu_id": "1509",
+    "text": "guardare e non capire"
+  }
+]

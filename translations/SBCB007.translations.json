@@ -1,0 +1,42 @@
+[
+  {
+    "tu_id": "91",
+    "speaker": "PSB093_trad",
+    "start": "209.388",
+    "end": "211.000",
+    "parent_tu_id": "90",
+    "text": "cioè mi ha sorpreso molto"
+  },
+  {
+    "tu_id": "403",
+    "speaker": "PSB093_trad",
+    "start": "782.214",
+    "end": "783.571",
+    "parent_tu_id": "402",
+    "text": "non c'è xx"
+  },
+  {
+    "tu_id": "748",
+    "speaker": "PSB005_trad",
+    "start": "1434.602",
+    "end": "1436.204",
+    "parent_tu_id": "747",
+    "text": "ah l'appropriazione delle terre"
+  },
+  {
+    "tu_id": "796",
+    "speaker": "PSB005_trad",
+    "start": "1522.980",
+    "end": "1527.000",
+    "parent_tu_id": "795",
+    "text": "ah mente e macchina è quello sull'AI ho capito"
+  },
+  {
+    "tu_id": "832",
+    "speaker": "PSB093_trad",
+    "start": "1586.367",
+    "end": "1591.020",
+    "parent_tu_id": "831",
+    "text": "uno questo del subcontinente india e l'altro è shock culturale"
+  }
+]

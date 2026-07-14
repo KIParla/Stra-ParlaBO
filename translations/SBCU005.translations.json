@@ -1,0 +1,34 @@
+[
+  {
+    "tu_id": "89",
+    "speaker": "PSB107_trad",
+    "start": "420.460",
+    "end": "424.155",
+    "parent_tu_id": "88",
+    "text": "hey micina entra dai"
+  },
+  {
+    "tu_id": "94",
+    "speaker": "PSB107_trad",
+    "start": "431.918",
+    "end": "432.691",
+    "parent_tu_id": "93",
+    "text": "micia"
+  },
+  {
+    "tu_id": "107",
+    "speaker": "PSB107_trad",
+    "start": "465.184",
+    "end": "467.540",
+    "parent_tu_id": "106",
+    "text": "vieni micia vieni un pochino"
+  },
+  {
+    "tu_id": "123",
+    "speaker": "PSB107_trad",
+    "start": "499.790",
+    "end": "502.013",
+    "parent_tu_id": "122",
+    "text": "mangia bella mangia micina"
+  }
+]

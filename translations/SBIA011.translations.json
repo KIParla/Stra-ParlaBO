@@ -1,0 +1,58 @@
+[
+  {
+    "tu_id": "199",
+    "speaker": "PSB064_trad",
+    "start": "454.170",
+    "end": "457.840",
+    "parent_tu_id": "198",
+    "text": "nella parte palestina libano"
+  },
+  {
+    "tu_id": "204",
+    "speaker": "PSB064_trad",
+    "start": "462.560",
+    "end": "465.720",
+    "parent_tu_id": "203",
+    "text": "e nella parte dell'arabia saudita e l'emirati"
+  },
+  {
+    "tu_id": "284",
+    "speaker": "PSB064_trad",
+    "start": "635.510",
+    "end": "636.530",
+    "parent_tu_id": "283",
+    "text": "cave cave"
+  },
+  {
+    "tu_id": "369",
+    "speaker": "PSB064_trad",
+    "start": "790.330",
+    "end": "791.630",
+    "parent_tu_id": "368",
+    "text": "è l'attrito"
+  },
+  {
+    "tu_id": "387",
+    "speaker": "PSB064_trad",
+    "start": "811.980",
+    "end": "812.690",
+    "parent_tu_id": "386",
+    "text": "una spia"
+  },
+  {
+    "tu_id": "676",
+    "speaker": "PSB064_trad",
+    "start": "1415.030",
+    "end": "1416.710",
+    "parent_tu_id": "675",
+    "text": "l'ambiente di"
+  },
+  {
+    "tu_id": "705",
+    "speaker": "PSB005_trad",
+    "start": "1472.714",
+    "end": "1474.207",
+    "parent_tu_id": "704",
+    "text": "proprio dentro"
+  }
+]

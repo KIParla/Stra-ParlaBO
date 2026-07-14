@@ -1,0 +1,2298 @@
+[
+  {
+    "tu_id": "26",
+    "speaker": "PSB119_trad",
+    "start": "43.138",
+    "end": "45.049",
+    "parent_tu_id": "25",
+    "text": ""
+  },
+  {
+    "tu_id": "29",
+    "speaker": "PSB119_trad",
+    "start": "45.645",
+    "end": "46.130",
+    "parent_tu_id": "28",
+    "text": ""
+  },
+  {
+    "tu_id": "49",
+    "speaker": "PSB119_trad",
+    "start": "80.472",
+    "end": "81.816",
+    "parent_tu_id": "48",
+    "text": ""
+  },
+  {
+    "tu_id": "66",
+    "speaker": "PSB105_trad",
+    "start": "96.240",
+    "end": "97.766",
+    "parent_tu_id": "63",
+    "text": ""
+  },
+  {
+    "tu_id": "73",
+    "speaker": "PSB105_trad",
+    "start": "101.676",
+    "end": "102.820",
+    "parent_tu_id": "72",
+    "text": "e tu sei quello"
+  },
+  {
+    "tu_id": "81",
+    "speaker": "PSB119_trad",
+    "start": "111.313",
+    "end": "111.800",
+    "parent_tu_id": "80",
+    "text": ""
+  },
+  {
+    "tu_id": "140",
+    "speaker": "PSB105_trad",
+    "start": "211.682",
+    "end": "213.420",
+    "parent_tu_id": "139",
+    "text": ""
+  },
+  {
+    "tu_id": "228",
+    "speaker": "PSB104_trad",
+    "start": "371.075",
+    "end": "372.033",
+    "parent_tu_id": "227",
+    "text": "che cosa solitaria"
+  },
+  {
+    "tu_id": "236",
+    "speaker": "PSB105_trad",
+    "start": "384.139",
+    "end": "385.687",
+    "parent_tu_id": "235",
+    "text": ""
+  },
+  {
+    "tu_id": "239",
+    "speaker": "PSB105_trad",
+    "start": "387.475",
+    "end": "390.450",
+    "parent_tu_id": "238",
+    "text": ""
+  },
+  {
+    "tu_id": "241",
+    "speaker": "PSB119_trad",
+    "start": "387.955",
+    "end": "388.415",
+    "parent_tu_id": "240",
+    "text": ""
+  },
+  {
+    "tu_id": "243",
+    "speaker": "PSB105_trad",
+    "start": "390.635",
+    "end": "394.006",
+    "parent_tu_id": "242",
+    "text": ""
+  },
+  {
+    "tu_id": "287",
+    "speaker": "PSB119_trad",
+    "start": "473.020",
+    "end": "475.623",
+    "parent_tu_id": "286",
+    "text": ""
+  },
+  {
+    "tu_id": "312",
+    "speaker": "PSB120_trad",
+    "start": "504.359",
+    "end": "505.308",
+    "parent_tu_id": "311",
+    "text": "ho un esame"
+  },
+  {
+    "tu_id": "316",
+    "speaker": "PSB120_trad",
+    "start": "507.874",
+    "end": "510.230",
+    "parent_tu_id": "315",
+    "text": ""
+  },
+  {
+    "tu_id": "318",
+    "speaker": "PSB119_trad",
+    "start": "510.260",
+    "end": "511.080",
+    "parent_tu_id": "317",
+    "text": ""
+  },
+  {
+    "tu_id": "323",
+    "speaker": "PSB119_trad",
+    "start": "516.125",
+    "end": "517.245",
+    "parent_tu_id": "322",
+    "text": ""
+  },
+  {
+    "tu_id": "404",
+    "speaker": "PSB120_trad",
+    "start": "681.512",
+    "end": "683.500",
+    "parent_tu_id": "403",
+    "text": ""
+  },
+  {
+    "tu_id": "406",
+    "speaker": "PSB120_trad",
+    "start": "683.550",
+    "end": "684.025",
+    "parent_tu_id": "405",
+    "text": ""
+  },
+  {
+    "tu_id": "410",
+    "speaker": "PSB120_trad",
+    "start": "687.185",
+    "end": "687.825",
+    "parent_tu_id": "409",
+    "text": ""
+  },
+  {
+    "tu_id": "412",
+    "speaker": "PSB120_trad",
+    "start": "688.190",
+    "end": "688.950",
+    "parent_tu_id": "411",
+    "text": ""
+  },
+  {
+    "tu_id": "415",
+    "speaker": "PSB120_trad",
+    "start": "689.535",
+    "end": "691.475",
+    "parent_tu_id": "414",
+    "text": ""
+  },
+  {
+    "tu_id": "418",
+    "speaker": "PSB120_trad",
+    "start": "693.035",
+    "end": "694.392",
+    "parent_tu_id": "417",
+    "text": ""
+  },
+  {
+    "tu_id": "421",
+    "speaker": "PSB120_trad",
+    "start": "694.773",
+    "end": "697.253",
+    "parent_tu_id": "420",
+    "text": ""
+  },
+  {
+    "tu_id": "424",
+    "speaker": "PSB120_trad",
+    "start": "697.386",
+    "end": "698.113",
+    "parent_tu_id": "423",
+    "text": ""
+  },
+  {
+    "tu_id": "427",
+    "speaker": "PSB120_trad",
+    "start": "698.886",
+    "end": "704.980",
+    "parent_tu_id": "426",
+    "text": ""
+  },
+  {
+    "tu_id": "437",
+    "speaker": "PSB119_trad",
+    "start": "726.713",
+    "end": "727.973",
+    "parent_tu_id": "436",
+    "text": ""
+  },
+  {
+    "tu_id": "439",
+    "speaker": "PSB120_trad",
+    "start": "728.473",
+    "end": "730.146",
+    "parent_tu_id": "438",
+    "text": ""
+  },
+  {
+    "tu_id": "441",
+    "speaker": "PSB120_trad",
+    "start": "731.100",
+    "end": "731.946",
+    "parent_tu_id": "440",
+    "text": ""
+  },
+  {
+    "tu_id": "443",
+    "speaker": "PSB119_trad",
+    "start": "732.179",
+    "end": "733.086",
+    "parent_tu_id": "442",
+    "text": "#_"
+  },
+  {
+    "tu_id": "466",
+    "speaker": "PSB120_trad",
+    "start": "762.691",
+    "end": "763.225",
+    "parent_tu_id": "465",
+    "text": ""
+  },
+  {
+    "tu_id": "477",
+    "speaker": "PSB120_trad",
+    "start": "778.893",
+    "end": "779.770",
+    "parent_tu_id": "476",
+    "text": ""
+  },
+  {
+    "tu_id": "480",
+    "speaker": "PSB120_trad",
+    "start": "779.920",
+    "end": "780.505",
+    "parent_tu_id": "478",
+    "text": ""
+  },
+  {
+    "tu_id": "487",
+    "speaker": "PSB120_trad",
+    "start": "787.344",
+    "end": "788.596",
+    "parent_tu_id": "486",
+    "text": "forse non lo so"
+  },
+  {
+    "tu_id": "489",
+    "speaker": "PSB120_trad",
+    "start": "788.717",
+    "end": "790.646",
+    "parent_tu_id": "488",
+    "text": "perché mi ridanno numero bene quindi"
+  },
+  {
+    "tu_id": "496",
+    "speaker": "PSB120_trad",
+    "start": "798.810",
+    "end": "799.260",
+    "parent_tu_id": "495",
+    "text": ""
+  },
+  {
+    "tu_id": "498",
+    "speaker": "PSB120_trad",
+    "start": "799.360",
+    "end": "800.345",
+    "parent_tu_id": "497",
+    "text": ""
+  },
+  {
+    "tu_id": "545",
+    "speaker": "PSB120_trad",
+    "start": "857.815",
+    "end": "858.990",
+    "parent_tu_id": "544",
+    "text": ""
+  },
+  {
+    "tu_id": "547",
+    "speaker": "PSB120_trad",
+    "start": "859.115",
+    "end": "860.135",
+    "parent_tu_id": "546",
+    "text": ""
+  },
+  {
+    "tu_id": "558",
+    "speaker": "PSB120_trad",
+    "start": "874.767",
+    "end": "878.046",
+    "parent_tu_id": "557",
+    "text": ""
+  },
+  {
+    "tu_id": "615",
+    "speaker": "PSB119_trad",
+    "start": "990.730",
+    "end": "991.645",
+    "parent_tu_id": "614",
+    "text": ""
+  },
+  {
+    "tu_id": "620",
+    "speaker": "PSB120_trad",
+    "start": "997.100",
+    "end": "997.865",
+    "parent_tu_id": "619",
+    "text": ""
+  },
+  {
+    "tu_id": "623",
+    "speaker": "PSB120_trad",
+    "start": "998.565",
+    "end": "999.005",
+    "parent_tu_id": "622",
+    "text": ""
+  },
+  {
+    "tu_id": "625",
+    "speaker": "PSB120_trad",
+    "start": "1000.135",
+    "end": "1002.874",
+    "parent_tu_id": "624",
+    "text": ""
+  },
+  {
+    "tu_id": "643",
+    "speaker": "PSB119_trad",
+    "start": "1037.170",
+    "end": "1038.140",
+    "parent_tu_id": "642",
+    "text": ""
+  },
+  {
+    "tu_id": "645",
+    "speaker": "PSB120_trad",
+    "start": "1038.814",
+    "end": "1042.442",
+    "parent_tu_id": "644",
+    "text": ""
+  },
+  {
+    "tu_id": "647",
+    "speaker": "PSB120_trad",
+    "start": "1043.120",
+    "end": "1043.967",
+    "parent_tu_id": "646",
+    "text": ""
+  },
+  {
+    "tu_id": "649",
+    "speaker": "PSB120_trad",
+    "start": "1044.964",
+    "end": "1048.886",
+    "parent_tu_id": "648",
+    "text": ""
+  },
+  {
+    "tu_id": "651",
+    "speaker": "PSB120_trad",
+    "start": "1048.990",
+    "end": "1050.366",
+    "parent_tu_id": "650",
+    "text": ""
+  },
+  {
+    "tu_id": "657",
+    "speaker": "PSB120_trad",
+    "start": "1054.626",
+    "end": "1055.458",
+    "parent_tu_id": "656",
+    "text": ""
+  },
+  {
+    "tu_id": "659",
+    "speaker": "PSB119_trad",
+    "start": "1055.585",
+    "end": "1057.255",
+    "parent_tu_id": "658",
+    "text": ""
+  },
+  {
+    "tu_id": "661",
+    "speaker": "PSB120_trad",
+    "start": "1055.605",
+    "end": "1058.396",
+    "parent_tu_id": "660",
+    "text": ""
+  },
+  {
+    "tu_id": "663",
+    "speaker": "PSB120_trad",
+    "start": "1058.933",
+    "end": "1063.010",
+    "parent_tu_id": "662",
+    "text": ""
+  },
+  {
+    "tu_id": "665",
+    "speaker": "PSB120_trad",
+    "start": "1063.230",
+    "end": "1071.133",
+    "parent_tu_id": "664",
+    "text": ""
+  },
+  {
+    "tu_id": "667",
+    "speaker": "PSB120_trad",
+    "start": "1071.346",
+    "end": "1076.303",
+    "parent_tu_id": "666",
+    "text": ""
+  },
+  {
+    "tu_id": "669",
+    "speaker": "PSB119_trad",
+    "start": "1075.375",
+    "end": "1076.295",
+    "parent_tu_id": "668",
+    "text": ""
+  },
+  {
+    "tu_id": "671",
+    "speaker": "PSB120_trad",
+    "start": "1076.655",
+    "end": "1079.255",
+    "parent_tu_id": "670",
+    "text": ""
+  },
+  {
+    "tu_id": "674",
+    "speaker": "PSB120_trad",
+    "start": "1079.770",
+    "end": "1080.990",
+    "parent_tu_id": "673",
+    "text": ""
+  },
+  {
+    "tu_id": "676",
+    "speaker": "PSB120_trad",
+    "start": "1081.077",
+    "end": "1082.765",
+    "parent_tu_id": "675",
+    "text": ""
+  },
+  {
+    "tu_id": "678",
+    "speaker": "PSB119_trad",
+    "start": "1082.775",
+    "end": "1083.130",
+    "parent_tu_id": "677",
+    "text": ""
+  },
+  {
+    "tu_id": "680",
+    "speaker": "PSB120_trad",
+    "start": "1083.125",
+    "end": "1085.210",
+    "parent_tu_id": "679",
+    "text": ""
+  },
+  {
+    "tu_id": "682",
+    "speaker": "PSB120_trad",
+    "start": "1085.510",
+    "end": "1088.572",
+    "parent_tu_id": "681",
+    "text": ""
+  },
+  {
+    "tu_id": "684",
+    "speaker": "PSB120_trad",
+    "start": "1089.171",
+    "end": "1090.441",
+    "parent_tu_id": "683",
+    "text": ""
+  },
+  {
+    "tu_id": "686",
+    "speaker": "PSB120_trad",
+    "start": "1090.830",
+    "end": "1096.047",
+    "parent_tu_id": "685",
+    "text": ""
+  },
+  {
+    "tu_id": "688",
+    "speaker": "PSB120_trad",
+    "start": "1096.474",
+    "end": "1102.096",
+    "parent_tu_id": "687",
+    "text": ""
+  },
+  {
+    "tu_id": "690",
+    "speaker": "PSB119_trad",
+    "start": "1103.288",
+    "end": "1105.277",
+    "parent_tu_id": "689",
+    "text": ""
+  },
+  {
+    "tu_id": "692",
+    "speaker": "PSB120_trad",
+    "start": "1105.674",
+    "end": "1106.770",
+    "parent_tu_id": "691",
+    "text": ""
+  },
+  {
+    "tu_id": "695",
+    "speaker": "PSB120_trad",
+    "start": "1107.640",
+    "end": "1109.080",
+    "parent_tu_id": "694",
+    "text": ""
+  },
+  {
+    "tu_id": "697",
+    "speaker": "PSB119_trad",
+    "start": "1108.505",
+    "end": "1109.625",
+    "parent_tu_id": "696",
+    "text": ""
+  },
+  {
+    "tu_id": "699",
+    "speaker": "PSB120_trad",
+    "start": "1109.685",
+    "end": "1111.221",
+    "parent_tu_id": "698",
+    "text": ""
+  },
+  {
+    "tu_id": "701",
+    "speaker": "PSB119_trad",
+    "start": "1111.230",
+    "end": "1111.740",
+    "parent_tu_id": "700",
+    "text": ""
+  },
+  {
+    "tu_id": "703",
+    "speaker": "PSB120_trad",
+    "start": "1112.072",
+    "end": "1115.727",
+    "parent_tu_id": "702",
+    "text": ""
+  },
+  {
+    "tu_id": "707",
+    "speaker": "PSB120_trad",
+    "start": "1116.735",
+    "end": "1118.110",
+    "parent_tu_id": "706",
+    "text": ""
+  },
+  {
+    "tu_id": "709",
+    "speaker": "PSB120_trad",
+    "start": "1118.975",
+    "end": "1121.850",
+    "parent_tu_id": "708",
+    "text": ""
+  },
+  {
+    "tu_id": "711",
+    "speaker": "PSB120_trad",
+    "start": "1122.449",
+    "end": "1125.219",
+    "parent_tu_id": "710",
+    "text": ""
+  },
+  {
+    "tu_id": "715",
+    "speaker": "PSB120_trad",
+    "start": "1125.880",
+    "end": "1127.627",
+    "parent_tu_id": "714",
+    "text": ""
+  },
+  {
+    "tu_id": "717",
+    "speaker": "PSB120_trad",
+    "start": "1127.685",
+    "end": "1129.050",
+    "parent_tu_id": "716",
+    "text": ""
+  },
+  {
+    "tu_id": "746",
+    "speaker": "PSB120_trad",
+    "start": "1194.521",
+    "end": "1195.465",
+    "parent_tu_id": "745",
+    "text": ""
+  },
+  {
+    "tu_id": "752",
+    "speaker": "PSB120_trad",
+    "start": "1202.840",
+    "end": "1204.940",
+    "parent_tu_id": "751",
+    "text": ""
+  },
+  {
+    "tu_id": "754",
+    "speaker": "PSB120_trad",
+    "start": "1205.575",
+    "end": "1210.545",
+    "parent_tu_id": "753",
+    "text": ""
+  },
+  {
+    "tu_id": "797",
+    "speaker": "PSB119_trad",
+    "start": "1309.830",
+    "end": "1315.720",
+    "parent_tu_id": "796",
+    "text": "usiamo etnia di xinjiang come una schiavo per raccogliere"
+  },
+  {
+    "tu_id": "858",
+    "speaker": "PSB105_trad",
+    "start": "1444.463",
+    "end": "1447.410",
+    "parent_tu_id": "857",
+    "text": "perché gli europei sono molto arrapati"
+  },
+  {
+    "tu_id": "861",
+    "speaker": "PSB120_trad",
+    "start": "1448.450",
+    "end": "1449.500",
+    "parent_tu_id": "860",
+    "text": ""
+  },
+  {
+    "tu_id": "864",
+    "speaker": "PSB119_trad",
+    "start": "1450.163",
+    "end": "1453.720",
+    "parent_tu_id": "863",
+    "text": ""
+  },
+  {
+    "tu_id": "867",
+    "speaker": "PSB120_trad",
+    "start": "1454.080",
+    "end": "1454.775",
+    "parent_tu_id": "866",
+    "text": ""
+  },
+  {
+    "tu_id": "869",
+    "speaker": "PSB120_trad",
+    "start": "1455.855",
+    "end": "1456.950",
+    "parent_tu_id": "868",
+    "text": ""
+  },
+  {
+    "tu_id": "909",
+    "speaker": "PSB120_trad",
+    "start": "1532.599",
+    "end": "1535.041",
+    "parent_tu_id": "908",
+    "text": ""
+  },
+  {
+    "tu_id": "912",
+    "speaker": "PSB120_trad",
+    "start": "1536.851",
+    "end": "1538.810",
+    "parent_tu_id": "911",
+    "text": ""
+  },
+  {
+    "tu_id": "944",
+    "speaker": "PSB119_trad",
+    "start": "1596.579",
+    "end": "1600.475",
+    "parent_tu_id": "943",
+    "text": "no ha detto in cinese che"
+  },
+  {
+    "tu_id": "947",
+    "speaker": "PSB119_trad",
+    "start": "1601.477",
+    "end": "1603.518",
+    "parent_tu_id": "946",
+    "text": "e lui ha detto"
+  },
+  {
+    "tu_id": "959",
+    "speaker": "PSB105_trad",
+    "start": "1618.562",
+    "end": "1619.834",
+    "parent_tu_id": "958",
+    "text": ""
+  },
+  {
+    "tu_id": "964",
+    "speaker": "PSB104_trad",
+    "start": "1626.303",
+    "end": "1627.890",
+    "parent_tu_id": "963",
+    "text": "scusa sono taiwanese"
+  },
+  {
+    "tu_id": "972",
+    "speaker": "PSB105_trad",
+    "start": "1642.409",
+    "end": "1645.549",
+    "parent_tu_id": "971",
+    "text": "#_"
+  },
+  {
+    "tu_id": "974",
+    "speaker": "PSB119_trad",
+    "start": "1644.730",
+    "end": "1645.535",
+    "parent_tu_id": "973",
+    "text": "#_"
+  },
+  {
+    "tu_id": "990",
+    "speaker": "PSB119_trad",
+    "start": "1666.441",
+    "end": "1668.078",
+    "parent_tu_id": "989",
+    "text": "pandemia"
+  },
+  {
+    "tu_id": "996",
+    "speaker": "PSB104_trad",
+    "start": "1683.784",
+    "end": "1684.250",
+    "parent_tu_id": "995",
+    "text": "cosa?"
+  },
+  {
+    "tu_id": "1013",
+    "speaker": "PSB119_trad",
+    "start": "1715.050",
+    "end": "1715.869",
+    "parent_tu_id": "1012",
+    "text": ""
+  },
+  {
+    "tu_id": "1015",
+    "speaker": "PSB120_trad",
+    "start": "1716.352",
+    "end": "1718.075",
+    "parent_tu_id": "1014",
+    "text": ""
+  },
+  {
+    "tu_id": "1018",
+    "speaker": "PSB120_trad",
+    "start": "1718.100",
+    "end": "1718.990",
+    "parent_tu_id": "1017",
+    "text": ""
+  },
+  {
+    "tu_id": "1031",
+    "speaker": "PSB105_trad",
+    "start": "1738.627",
+    "end": "1739.552",
+    "parent_tu_id": "1030",
+    "text": ""
+  },
+  {
+    "tu_id": "1033",
+    "speaker": "PSB104_trad",
+    "start": "1739.706",
+    "end": "1741.940",
+    "parent_tu_id": "1032",
+    "text": "okay"
+  },
+  {
+    "tu_id": "1036",
+    "speaker": "PSB104_trad",
+    "start": "1743.716",
+    "end": "1744.475",
+    "parent_tu_id": "1035",
+    "text": ""
+  },
+  {
+    "tu_id": "1044",
+    "speaker": "PSB104_trad",
+    "start": "1752.471",
+    "end": "1755.009",
+    "parent_tu_id": "1043",
+    "text": ""
+  },
+  {
+    "tu_id": "1047",
+    "speaker": "PSB104_trad",
+    "start": "1755.468",
+    "end": "1758.012",
+    "parent_tu_id": "1046",
+    "text": ""
+  },
+  {
+    "tu_id": "1051",
+    "speaker": "PSB104_trad",
+    "start": "1762.347",
+    "end": "1763.528",
+    "parent_tu_id": "1050",
+    "text": "ehm no"
+  },
+  {
+    "tu_id": "1057",
+    "speaker": "PSB104_trad",
+    "start": "1772.050",
+    "end": "1773.046",
+    "parent_tu_id": "1056",
+    "text": ""
+  },
+  {
+    "tu_id": "1059",
+    "speaker": "PSB105_trad",
+    "start": "1773.487",
+    "end": "1774.375",
+    "parent_tu_id": "1058",
+    "text": ""
+  },
+  {
+    "tu_id": "1061",
+    "speaker": "PSB104_trad",
+    "start": "1774.496",
+    "end": "1775.534",
+    "parent_tu_id": "1060",
+    "text": ""
+  },
+  {
+    "tu_id": "1067",
+    "speaker": "PSB104_trad",
+    "start": "1782.290",
+    "end": "1784.778",
+    "parent_tu_id": "1066",
+    "text": ""
+  },
+  {
+    "tu_id": "1069",
+    "speaker": "PSB104_trad",
+    "start": "1785.352",
+    "end": "1787.687",
+    "parent_tu_id": "1068",
+    "text": ""
+  },
+  {
+    "tu_id": "1072",
+    "speaker": "PSB105_trad",
+    "start": "1789.240",
+    "end": "1789.881",
+    "parent_tu_id": "1070",
+    "text": ""
+  },
+  {
+    "tu_id": "1074",
+    "speaker": "PSB104_trad",
+    "start": "1789.987",
+    "end": "1790.762",
+    "parent_tu_id": "1073",
+    "text": ""
+  },
+  {
+    "tu_id": "1077",
+    "speaker": "PSB104_trad",
+    "start": "1792.325",
+    "end": "1793.337",
+    "parent_tu_id": "1076",
+    "text": "ah okay"
+  },
+  {
+    "tu_id": "1079",
+    "speaker": "PSB104_trad",
+    "start": "1793.490",
+    "end": "1795.044",
+    "parent_tu_id": "1078",
+    "text": "ah è vero"
+  },
+  {
+    "tu_id": "1083",
+    "speaker": "PSB105_trad",
+    "start": "1806.350",
+    "end": "1810.434",
+    "parent_tu_id": "1082",
+    "text": ""
+  },
+  {
+    "tu_id": "1085",
+    "speaker": "PSB119_trad",
+    "start": "1806.985",
+    "end": "1807.655",
+    "parent_tu_id": "1084",
+    "text": "#_"
+  },
+  {
+    "tu_id": "1087",
+    "speaker": "PSB119_trad",
+    "start": "1808.037",
+    "end": "1808.762",
+    "parent_tu_id": "1086",
+    "text": "#_"
+  },
+  {
+    "tu_id": "1089",
+    "speaker": "PSB119_trad",
+    "start": "1808.899",
+    "end": "1810.374",
+    "parent_tu_id": "1088",
+    "text": "#_"
+  },
+  {
+    "tu_id": "1091",
+    "speaker": "PSB105_trad",
+    "start": "1812.278",
+    "end": "1814.871",
+    "parent_tu_id": "1090",
+    "text": ""
+  },
+  {
+    "tu_id": "1093",
+    "speaker": "PSB119_trad",
+    "start": "1812.730",
+    "end": "1814.060",
+    "parent_tu_id": "1092",
+    "text": ""
+  },
+  {
+    "tu_id": "1095",
+    "speaker": "PSB105_trad",
+    "start": "1815.126",
+    "end": "1817.246",
+    "parent_tu_id": "1094",
+    "text": ""
+  },
+  {
+    "tu_id": "1098",
+    "speaker": "PSB105_trad",
+    "start": "1817.471",
+    "end": "1818.794",
+    "parent_tu_id": "1097",
+    "text": ""
+  },
+  {
+    "tu_id": "1112",
+    "speaker": "PSB119_trad",
+    "start": "1841.735",
+    "end": "1844.525",
+    "parent_tu_id": "1111",
+    "text": ""
+  },
+  {
+    "tu_id": "1119",
+    "speaker": "PSB120_trad",
+    "start": "1856.019",
+    "end": "1857.239",
+    "parent_tu_id": "1118",
+    "text": ""
+  },
+  {
+    "tu_id": "1130",
+    "speaker": "PSB120_trad",
+    "start": "1868.235",
+    "end": "1871.070",
+    "parent_tu_id": "1129",
+    "text": ""
+  },
+  {
+    "tu_id": "1132",
+    "speaker": "PSB119_trad",
+    "start": "1871.241",
+    "end": "1871.875",
+    "parent_tu_id": "1131",
+    "text": ""
+  },
+  {
+    "tu_id": "1136",
+    "speaker": "PSB120_trad",
+    "start": "1874.585",
+    "end": "1875.355",
+    "parent_tu_id": "1135",
+    "text": ""
+  },
+  {
+    "tu_id": "1157",
+    "speaker": "PSB120_trad",
+    "start": "1912.860",
+    "end": "1913.800",
+    "parent_tu_id": "1156",
+    "text": ""
+  },
+  {
+    "tu_id": "1161",
+    "speaker": "PSB120_trad",
+    "start": "1915.350",
+    "end": "1916.410",
+    "parent_tu_id": "1160",
+    "text": ""
+  },
+  {
+    "tu_id": "1165",
+    "speaker": "PSB120_trad",
+    "start": "1920.635",
+    "end": "1921.425",
+    "parent_tu_id": "1164",
+    "text": ""
+  },
+  {
+    "tu_id": "1167",
+    "speaker": "PSB120_trad",
+    "start": "1922.150",
+    "end": "1922.615",
+    "parent_tu_id": "1166",
+    "text": ""
+  },
+  {
+    "tu_id": "1169",
+    "speaker": "PSB105_trad",
+    "start": "1922.890",
+    "end": "1923.570",
+    "parent_tu_id": "1168",
+    "text": ""
+  },
+  {
+    "tu_id": "1171",
+    "speaker": "PSB120_trad",
+    "start": "1923.720",
+    "end": "1924.370",
+    "parent_tu_id": "1170",
+    "text": ""
+  },
+  {
+    "tu_id": "1173",
+    "speaker": "PSB105_trad",
+    "start": "1923.935",
+    "end": "1925.375",
+    "parent_tu_id": "1172",
+    "text": ""
+  },
+  {
+    "tu_id": "1248",
+    "speaker": "PSB120_trad",
+    "start": "2086.778",
+    "end": "2088.995",
+    "parent_tu_id": "1247",
+    "text": "non riesco a parlare"
+  },
+  {
+    "tu_id": "1250",
+    "speaker": "PSB120_trad",
+    "start": "2089.324",
+    "end": "2093.040",
+    "parent_tu_id": "1249",
+    "text": "se voglio unirmi a loro dovevo parlare francese"
+  },
+  {
+    "tu_id": "1253",
+    "speaker": "PSB120_trad",
+    "start": "2093.240",
+    "end": "2096.052",
+    "parent_tu_id": "1252",
+    "text": "francese e se"
+  },
+  {
+    "tu_id": "1255",
+    "speaker": "PSB120_trad",
+    "start": "2096.520",
+    "end": "2099.444",
+    "parent_tu_id": "1254",
+    "text": "e se mi unisco dovevo"
+  },
+  {
+    "tu_id": "1257",
+    "speaker": "PSB120_trad",
+    "start": "2099.696",
+    "end": "2101.372",
+    "parent_tu_id": "1256",
+    "text": "ehm presentazione"
+  },
+  {
+    "tu_id": "1259",
+    "speaker": "PSB120_trad",
+    "start": "2102.004",
+    "end": "2103.432",
+    "parent_tu_id": "1258",
+    "text": "e dovevo parlare francese"
+  },
+  {
+    "tu_id": "1261",
+    "speaker": "PSB120_trad",
+    "start": "2103.800",
+    "end": "2104.792",
+    "parent_tu_id": "1260",
+    "text": "francese"
+  },
+  {
+    "tu_id": "1266",
+    "speaker": "PSB120_trad",
+    "start": "2110.024",
+    "end": "2115.588",
+    "parent_tu_id": "1265",
+    "text": "e ho detto e se tu non facevi la presentazione tu farai"
+  },
+  {
+    "tu_id": "1268",
+    "speaker": "PSB120_trad",
+    "start": "2116.044",
+    "end": "2119.368",
+    "parent_tu_id": "1267",
+    "text": "ehm non sì e non posso"
+  },
+  {
+    "tu_id": "1271",
+    "speaker": "PSB120_trad",
+    "start": "2119.672",
+    "end": "2123.076",
+    "parent_tu_id": "1270",
+    "text": "non posso comunicare bene"
+  },
+  {
+    "tu_id": "1273",
+    "speaker": "PSB120_trad",
+    "start": "2123.300",
+    "end": "2124.894",
+    "parent_tu_id": "1272",
+    "text": "o fare qualcosa"
+  },
+  {
+    "tu_id": "1277",
+    "speaker": "PSB120_trad",
+    "start": "2126.280",
+    "end": "2129.092",
+    "parent_tu_id": "1276",
+    "text": "se non mi vuoi mi unisco a loro"
+  },
+  {
+    "tu_id": "1293",
+    "speaker": "PSB119_trad",
+    "start": "2161.007",
+    "end": "2164.005",
+    "parent_tu_id": "1292",
+    "text": ""
+  },
+  {
+    "tu_id": "1296",
+    "speaker": "PSB119_trad",
+    "start": "2165.010",
+    "end": "2167.645",
+    "parent_tu_id": "1295",
+    "text": ""
+  },
+  {
+    "tu_id": "1299",
+    "speaker": "PSB119_trad",
+    "start": "2168.140",
+    "end": "2169.155",
+    "parent_tu_id": "1298",
+    "text": ""
+  },
+  {
+    "tu_id": "1302",
+    "speaker": "PSB119_trad",
+    "start": "2169.396",
+    "end": "2171.035",
+    "parent_tu_id": "1301",
+    "text": ""
+  },
+  {
+    "tu_id": "1304",
+    "speaker": "PSB119_trad",
+    "start": "2171.730",
+    "end": "2172.790",
+    "parent_tu_id": "1303",
+    "text": ""
+  },
+  {
+    "tu_id": "1313",
+    "speaker": "PSB120_trad",
+    "start": "2183.955",
+    "end": "2188.270",
+    "parent_tu_id": "1312",
+    "text": "i media tutte le notizie riguardano gli (affari) francesi"
+  },
+  {
+    "tu_id": "1315",
+    "speaker": "PSB120_trad",
+    "start": "2188.824",
+    "end": "2189.332",
+    "parent_tu_id": "1314",
+    "text": "quindi"
+  },
+  {
+    "tu_id": "1329",
+    "speaker": "PSB104_trad",
+    "start": "2215.432",
+    "end": "2216.200",
+    "parent_tu_id": "1328",
+    "text": ""
+  },
+  {
+    "tu_id": "1331",
+    "speaker": "PSB119_trad",
+    "start": "2216.306",
+    "end": "2217.085",
+    "parent_tu_id": "1330",
+    "text": ""
+  },
+  {
+    "tu_id": "1459",
+    "speaker": "PSB120_trad",
+    "start": "2524.647",
+    "end": "2525.437",
+    "parent_tu_id": "1458",
+    "text": ""
+  },
+  {
+    "tu_id": "1461",
+    "speaker": "PSB120_trad",
+    "start": "2525.923",
+    "end": "2526.415",
+    "parent_tu_id": "1460",
+    "text": ""
+  },
+  {
+    "tu_id": "1463",
+    "speaker": "PSB119_trad",
+    "start": "2527.085",
+    "end": "2528.175",
+    "parent_tu_id": "1462",
+    "text": ""
+  },
+  {
+    "tu_id": "1465",
+    "speaker": "PSB120_trad",
+    "start": "2528.670",
+    "end": "2529.400",
+    "parent_tu_id": "1464",
+    "text": ""
+  },
+  {
+    "tu_id": "1467",
+    "speaker": "PSB120_trad",
+    "start": "2530.005",
+    "end": "2531.285",
+    "parent_tu_id": "1466",
+    "text": ""
+  },
+  {
+    "tu_id": "1471",
+    "speaker": "PSB120_trad",
+    "start": "2532.140",
+    "end": "2532.900",
+    "parent_tu_id": "1469",
+    "text": ""
+  },
+  {
+    "tu_id": "1473",
+    "speaker": "PSB120_trad",
+    "start": "2533.298",
+    "end": "2534.003",
+    "parent_tu_id": "1472",
+    "text": ""
+  },
+  {
+    "tu_id": "1489",
+    "speaker": "PSB119_trad",
+    "start": "2559.975",
+    "end": "2561.179",
+    "parent_tu_id": "1488",
+    "text": ""
+  },
+  {
+    "tu_id": "1491",
+    "speaker": "PSB120_trad",
+    "start": "2561.425",
+    "end": "2562.090",
+    "parent_tu_id": "1490",
+    "text": ""
+  },
+  {
+    "tu_id": "1501",
+    "speaker": "PSB120_trad",
+    "start": "2581.368",
+    "end": "2582.272",
+    "parent_tu_id": "1500",
+    "text": ""
+  },
+  {
+    "tu_id": "1508",
+    "speaker": "PSB119_trad",
+    "start": "2589.055",
+    "end": "2589.979",
+    "parent_tu_id": "1507",
+    "text": ""
+  },
+  {
+    "tu_id": "1516",
+    "speaker": "PSB120_trad",
+    "start": "2595.795",
+    "end": "2596.647",
+    "parent_tu_id": "1515",
+    "text": ""
+  },
+  {
+    "tu_id": "1519",
+    "speaker": "PSB120_trad",
+    "start": "2597.575",
+    "end": "2598.810",
+    "parent_tu_id": "1518",
+    "text": ""
+  },
+  {
+    "tu_id": "1522",
+    "speaker": "PSB120_trad",
+    "start": "2599.425",
+    "end": "2599.975",
+    "parent_tu_id": "1521",
+    "text": ""
+  },
+  {
+    "tu_id": "1580",
+    "speaker": "PSB120_trad",
+    "start": "2668.373",
+    "end": "2669.768",
+    "parent_tu_id": "1579",
+    "text": ""
+  },
+  {
+    "tu_id": "1583",
+    "speaker": "PSB120_trad",
+    "start": "2670.098",
+    "end": "2674.505",
+    "parent_tu_id": "1582",
+    "text": ""
+  },
+  {
+    "tu_id": "1586",
+    "speaker": "PSB119_trad",
+    "start": "2673.112",
+    "end": "2674.362",
+    "parent_tu_id": "1585",
+    "text": ""
+  },
+  {
+    "tu_id": "1589",
+    "speaker": "PSB119_trad",
+    "start": "2674.950",
+    "end": "2676.770",
+    "parent_tu_id": "1588",
+    "text": ""
+  },
+  {
+    "tu_id": "1595",
+    "speaker": "PSB119_trad",
+    "start": "2679.812",
+    "end": "2684.500",
+    "parent_tu_id": "1594",
+    "text": ""
+  },
+  {
+    "tu_id": "1604",
+    "speaker": "PSB120_trad",
+    "start": "2691.294",
+    "end": "2692.089",
+    "parent_tu_id": "1603",
+    "text": ""
+  },
+  {
+    "tu_id": "1607",
+    "speaker": "PSB120_trad",
+    "start": "2694.346",
+    "end": "2695.285",
+    "parent_tu_id": "1605",
+    "text": ""
+  },
+  {
+    "tu_id": "1629",
+    "speaker": "PSB119_trad",
+    "start": "2742.979",
+    "end": "2744.079",
+    "parent_tu_id": "1628",
+    "text": ""
+  },
+  {
+    "tu_id": "1823",
+    "speaker": "PSB105_trad",
+    "start": "3080.585",
+    "end": "3083.079",
+    "parent_tu_id": "1822",
+    "text": "forse sì"
+  },
+  {
+    "tu_id": "1861",
+    "speaker": "PSB120_trad",
+    "start": "3141.133",
+    "end": "3142.153",
+    "parent_tu_id": "1860",
+    "text": ""
+  },
+  {
+    "tu_id": "1863",
+    "speaker": "PSB119_trad",
+    "start": "3142.250",
+    "end": "3142.820",
+    "parent_tu_id": "1862",
+    "text": ""
+  },
+  {
+    "tu_id": "1865",
+    "speaker": "PSB119_trad",
+    "start": "3143.412",
+    "end": "3144.579",
+    "parent_tu_id": "1864",
+    "text": ""
+  },
+  {
+    "tu_id": "1870",
+    "speaker": "PSB119_trad",
+    "start": "3147.575",
+    "end": "3148.790",
+    "parent_tu_id": "1869",
+    "text": ""
+  },
+  {
+    "tu_id": "1880",
+    "speaker": "PSB119_trad",
+    "start": "3160.129",
+    "end": "3161.812",
+    "parent_tu_id": "1879",
+    "text": ""
+  },
+  {
+    "tu_id": "1887",
+    "speaker": "PSB120_trad",
+    "start": "3169.835",
+    "end": "3171.170",
+    "parent_tu_id": "1886",
+    "text": ""
+  },
+  {
+    "tu_id": "1889",
+    "speaker": "PSB120_trad",
+    "start": "3172.138",
+    "end": "3173.931",
+    "parent_tu_id": "1888",
+    "text": ""
+  },
+  {
+    "tu_id": "1891",
+    "speaker": "PSB105_trad",
+    "start": "3174.300",
+    "end": "3176.348",
+    "parent_tu_id": "1890",
+    "text": ""
+  },
+  {
+    "tu_id": "1893",
+    "speaker": "PSB120_trad",
+    "start": "3177.215",
+    "end": "3178.095",
+    "parent_tu_id": "1892",
+    "text": ""
+  },
+  {
+    "tu_id": "1896",
+    "speaker": "PSB105_trad",
+    "start": "3179.315",
+    "end": "3180.290",
+    "parent_tu_id": "1895",
+    "text": ""
+  },
+  {
+    "tu_id": "1898",
+    "speaker": "PSB105_trad",
+    "start": "3180.682",
+    "end": "3182.788",
+    "parent_tu_id": "1897",
+    "text": ""
+  },
+  {
+    "tu_id": "1900",
+    "speaker": "PSB119_trad",
+    "start": "3183.792",
+    "end": "3185.760",
+    "parent_tu_id": "1899",
+    "text": ""
+  },
+  {
+    "tu_id": "1903",
+    "speaker": "PSB119_trad",
+    "start": "3186.985",
+    "end": "3187.580",
+    "parent_tu_id": "1902",
+    "text": ""
+  },
+  {
+    "tu_id": "1905",
+    "speaker": "PSB120_trad",
+    "start": "3187.580",
+    "end": "3188.127",
+    "parent_tu_id": "1904",
+    "text": ""
+  },
+  {
+    "tu_id": "1920",
+    "speaker": "PSB119_trad",
+    "start": "3210.995",
+    "end": "3211.800",
+    "parent_tu_id": "1919",
+    "text": ""
+  },
+  {
+    "tu_id": "1925",
+    "speaker": "PSB120_trad",
+    "start": "3213.670",
+    "end": "3214.595",
+    "parent_tu_id": "1924",
+    "text": ""
+  },
+  {
+    "tu_id": "1950",
+    "speaker": "PSB119_trad",
+    "start": "3266.058",
+    "end": "3267.374",
+    "parent_tu_id": "1949",
+    "text": ""
+  },
+  {
+    "tu_id": "1952",
+    "speaker": "PSB105_trad",
+    "start": "3267.915",
+    "end": "3270.007",
+    "parent_tu_id": "1951",
+    "text": ""
+  },
+  {
+    "tu_id": "1954",
+    "speaker": "PSB105_trad",
+    "start": "3270.188",
+    "end": "3271.118",
+    "parent_tu_id": "1953",
+    "text": ""
+  },
+  {
+    "tu_id": "1956",
+    "speaker": "PSB119_trad",
+    "start": "3270.647",
+    "end": "3271.140",
+    "parent_tu_id": "1955",
+    "text": ""
+  },
+  {
+    "tu_id": "1958",
+    "speaker": "PSB119_trad",
+    "start": "3271.299",
+    "end": "3272.910",
+    "parent_tu_id": "1957",
+    "text": ""
+  },
+  {
+    "tu_id": "1971",
+    "speaker": "PSB119_trad",
+    "start": "3288.175",
+    "end": "3290.268",
+    "parent_tu_id": "1970",
+    "text": ""
+  },
+  {
+    "tu_id": "1975",
+    "speaker": "PSB119_trad",
+    "start": "3293.595",
+    "end": "3296.664",
+    "parent_tu_id": "1974",
+    "text": ""
+  },
+  {
+    "tu_id": "1977",
+    "speaker": "PSB120_trad",
+    "start": "3296.687",
+    "end": "3298.352",
+    "parent_tu_id": "1976",
+    "text": ""
+  },
+  {
+    "tu_id": "2004",
+    "speaker": "PSB105_trad",
+    "start": "3358.591",
+    "end": "3359.718",
+    "parent_tu_id": "2003",
+    "text": ""
+  },
+  {
+    "tu_id": "2007",
+    "speaker": "PSB105_trad",
+    "start": "3360.395",
+    "end": "3361.091",
+    "parent_tu_id": "2006",
+    "text": ""
+  },
+  {
+    "tu_id": "2009",
+    "speaker": "PSB105_trad",
+    "start": "3361.384",
+    "end": "3362.230",
+    "parent_tu_id": "2008",
+    "text": ""
+  },
+  {
+    "tu_id": "2011",
+    "speaker": "PSB120_trad",
+    "start": "3362.240",
+    "end": "3363.290",
+    "parent_tu_id": "2010",
+    "text": ""
+  },
+  {
+    "tu_id": "2013",
+    "speaker": "PSB119_trad",
+    "start": "3363.607",
+    "end": "3364.880",
+    "parent_tu_id": "2012",
+    "text": ""
+  },
+  {
+    "tu_id": "2022",
+    "speaker": "PSB120_trad",
+    "start": "3378.257",
+    "end": "3381.540",
+    "parent_tu_id": "2021",
+    "text": ""
+  },
+  {
+    "tu_id": "2037",
+    "speaker": "PSB120_trad",
+    "start": "3401.670",
+    "end": "3402.295",
+    "parent_tu_id": "2036",
+    "text": ""
+  },
+  {
+    "tu_id": "2083",
+    "speaker": "PSB120_trad",
+    "start": "3493.940",
+    "end": "3494.725",
+    "parent_tu_id": "2082",
+    "text": ""
+  },
+  {
+    "tu_id": "2085",
+    "speaker": "PSB105_trad",
+    "start": "3495.080",
+    "end": "3497.368",
+    "parent_tu_id": "2084",
+    "text": ""
+  },
+  {
+    "tu_id": "2087",
+    "speaker": "PSB105_trad",
+    "start": "3497.921",
+    "end": "3498.718",
+    "parent_tu_id": "2086",
+    "text": ""
+  },
+  {
+    "tu_id": "2095",
+    "speaker": "PSB120_trad",
+    "start": "3510.115",
+    "end": "3511.315",
+    "parent_tu_id": "2094",
+    "text": ""
+  },
+  {
+    "tu_id": "2097",
+    "speaker": "PSB105_trad",
+    "start": "3512.726",
+    "end": "3513.484",
+    "parent_tu_id": "2096",
+    "text": ""
+  },
+  {
+    "tu_id": "2099",
+    "speaker": "PSB105_trad",
+    "start": "3515.038",
+    "end": "3516.445",
+    "parent_tu_id": "2098",
+    "text": ""
+  },
+  {
+    "tu_id": "2101",
+    "speaker": "PSB120_trad",
+    "start": "3516.040",
+    "end": "3517.195",
+    "parent_tu_id": "2100",
+    "text": ""
+  },
+  {
+    "tu_id": "2103",
+    "speaker": "PSB120_trad",
+    "start": "3517.350",
+    "end": "3518.065",
+    "parent_tu_id": "2102",
+    "text": ""
+  },
+  {
+    "tu_id": "2106",
+    "speaker": "PSB120_trad",
+    "start": "3518.875",
+    "end": "3519.815",
+    "parent_tu_id": "2105",
+    "text": ""
+  },
+  {
+    "tu_id": "2115",
+    "speaker": "PSB105_trad",
+    "start": "3528.390",
+    "end": "3529.080",
+    "parent_tu_id": "2114",
+    "text": ""
+  },
+  {
+    "tu_id": "2117",
+    "speaker": "PSB120_trad",
+    "start": "3530.420",
+    "end": "3530.740",
+    "parent_tu_id": "2116",
+    "text": ""
+  },
+  {
+    "tu_id": "2119",
+    "speaker": "PSB120_trad",
+    "start": "3531.345",
+    "end": "3531.830",
+    "parent_tu_id": "2118",
+    "text": ""
+  },
+  {
+    "tu_id": "2122",
+    "speaker": "PSB120_trad",
+    "start": "3532.384",
+    "end": "3533.372",
+    "parent_tu_id": "2120",
+    "text": ""
+  },
+  {
+    "tu_id": "2134",
+    "speaker": "PSB120_trad",
+    "start": "3558.407",
+    "end": "3559.622",
+    "parent_tu_id": "2133",
+    "text": ""
+  },
+  {
+    "tu_id": "2136",
+    "speaker": "PSB105_trad",
+    "start": "3560.207",
+    "end": "3560.602",
+    "parent_tu_id": "2135",
+    "text": ""
+  },
+  {
+    "tu_id": "2138",
+    "speaker": "PSB120_trad",
+    "start": "3561.076",
+    "end": "3563.170",
+    "parent_tu_id": "2137",
+    "text": ""
+  },
+  {
+    "tu_id": "2141",
+    "speaker": "PSB120_trad",
+    "start": "3568.290",
+    "end": "3569.260",
+    "parent_tu_id": "2140",
+    "text": ""
+  },
+  {
+    "tu_id": "2157",
+    "speaker": "PSB119_trad",
+    "start": "3588.471",
+    "end": "3589.546",
+    "parent_tu_id": "2156",
+    "text": ""
+  },
+  {
+    "tu_id": "2160",
+    "speaker": "PSB119_trad",
+    "start": "3590.365",
+    "end": "3591.710",
+    "parent_tu_id": "2159",
+    "text": ""
+  },
+  {
+    "tu_id": "2163",
+    "speaker": "PSB119_trad",
+    "start": "3592.215",
+    "end": "3593.385",
+    "parent_tu_id": "2162",
+    "text": ""
+  },
+  {
+    "tu_id": "2167",
+    "speaker": "PSB105_trad",
+    "start": "3595.703",
+    "end": "3597.022",
+    "parent_tu_id": "2166",
+    "text": ""
+  },
+  {
+    "tu_id": "2169",
+    "speaker": "PSB119_trad",
+    "start": "3597.426",
+    "end": "3598.588",
+    "parent_tu_id": "2168",
+    "text": ""
+  },
+  {
+    "tu_id": "2204",
+    "speaker": "PSB120_trad",
+    "start": "3670.262",
+    "end": "3673.641",
+    "parent_tu_id": "2203",
+    "text": ""
+  },
+  {
+    "tu_id": "2206",
+    "speaker": "PSB120_trad",
+    "start": "3673.969",
+    "end": "3676.458",
+    "parent_tu_id": "2205",
+    "text": ""
+  },
+  {
+    "tu_id": "2208",
+    "speaker": "PSB104_trad",
+    "start": "3674.845",
+    "end": "3676.460",
+    "parent_tu_id": "2207",
+    "text": "((ride))"
+  },
+  {
+    "tu_id": "2210",
+    "speaker": "PSB120_trad",
+    "start": "3676.845",
+    "end": "3679.002",
+    "parent_tu_id": "2209",
+    "text": ""
+  },
+  {
+    "tu_id": "2216",
+    "speaker": "PSB120_trad",
+    "start": "3684.425",
+    "end": "3685.035",
+    "parent_tu_id": "2215",
+    "text": ""
+  },
+  {
+    "tu_id": "2220",
+    "speaker": "PSB120_trad",
+    "start": "3686.250",
+    "end": "3687.474",
+    "parent_tu_id": "2219",
+    "text": ""
+  },
+  {
+    "tu_id": "2222",
+    "speaker": "PSB119_trad",
+    "start": "3687.570",
+    "end": "3688.060",
+    "parent_tu_id": "2221",
+    "text": ""
+  },
+  {
+    "tu_id": "2242",
+    "speaker": "PSB119_trad",
+    "start": "3718.343",
+    "end": "3719.410",
+    "parent_tu_id": "2241",
+    "text": ""
+  },
+  {
+    "tu_id": "2259",
+    "speaker": "PSB105_trad",
+    "start": "3737.774",
+    "end": "3738.157",
+    "parent_tu_id": "2258",
+    "text": ""
+  },
+  {
+    "tu_id": "2261",
+    "speaker": "PSB119_trad",
+    "start": "3738.503",
+    "end": "3739.210",
+    "parent_tu_id": "2260",
+    "text": ""
+  },
+  {
+    "tu_id": "2263",
+    "speaker": "PSB105_trad",
+    "start": "3739.268",
+    "end": "3741.195",
+    "parent_tu_id": "2262",
+    "text": ""
+  },
+  {
+    "tu_id": "2265",
+    "speaker": "PSB119_trad",
+    "start": "3739.700",
+    "end": "3741.215",
+    "parent_tu_id": "2264",
+    "text": ""
+  },
+  {
+    "tu_id": "2267",
+    "speaker": "PSB119_trad",
+    "start": "3741.426",
+    "end": "3742.413",
+    "parent_tu_id": "2266",
+    "text": ""
+  },
+  {
+    "tu_id": "2271",
+    "speaker": "PSB105_trad",
+    "start": "3744.310",
+    "end": "3744.725",
+    "parent_tu_id": "2270",
+    "text": ""
+  },
+  {
+    "tu_id": "2273",
+    "speaker": "PSB105_trad",
+    "start": "3745.505",
+    "end": "3748.292",
+    "parent_tu_id": "2272",
+    "text": ""
+  },
+  {
+    "tu_id": "2275",
+    "speaker": "PSB105_trad",
+    "start": "3748.947",
+    "end": "3750.109",
+    "parent_tu_id": "2274",
+    "text": ""
+  },
+  {
+    "tu_id": "2278",
+    "speaker": "PSB105_trad",
+    "start": "3750.416",
+    "end": "3755.027",
+    "parent_tu_id": "2277",
+    "text": ""
+  },
+  {
+    "tu_id": "2280",
+    "speaker": "PSB105_trad",
+    "start": "3755.161",
+    "end": "3756.989",
+    "parent_tu_id": "2279",
+    "text": ""
+  },
+  {
+    "tu_id": "2288",
+    "speaker": "PSB120_trad",
+    "start": "3767.305",
+    "end": "3770.418",
+    "parent_tu_id": "2287",
+    "text": ""
+  },
+  {
+    "tu_id": "2302",
+    "speaker": "PSB119_trad",
+    "start": "3792.555",
+    "end": "3794.663",
+    "parent_tu_id": "2301",
+    "text": ""
+  },
+  {
+    "tu_id": "2309",
+    "speaker": "PSB119_trad",
+    "start": "3806.830",
+    "end": "3808.290",
+    "parent_tu_id": "2308",
+    "text": ""
+  },
+  {
+    "tu_id": "2312",
+    "speaker": "PSB120_trad",
+    "start": "3810.080",
+    "end": "3810.495",
+    "parent_tu_id": "2311",
+    "text": ""
+  },
+  {
+    "tu_id": "2315",
+    "speaker": "PSB120_trad",
+    "start": "3811.075",
+    "end": "3811.600",
+    "parent_tu_id": "2314",
+    "text": ""
+  },
+  {
+    "tu_id": "2327",
+    "speaker": "PSB119_trad",
+    "start": "3824.190",
+    "end": "3824.825",
+    "parent_tu_id": "2326",
+    "text": ""
+  },
+  {
+    "tu_id": "2331",
+    "speaker": "PSB119_trad",
+    "start": "3830.460",
+    "end": "3832.624",
+    "parent_tu_id": "2330",
+    "text": ""
+  },
+  {
+    "tu_id": "2415",
+    "speaker": "PSB120_trad",
+    "start": "4002.657",
+    "end": "4003.695",
+    "parent_tu_id": "2414",
+    "text": ""
+  },
+  {
+    "tu_id": "2546",
+    "speaker": "PSB105_trad",
+    "start": "4210.978",
+    "end": "4213.821",
+    "parent_tu_id": "2545",
+    "text": ""
+  },
+  {
+    "tu_id": "2548",
+    "speaker": "PSB105_trad",
+    "start": "4214.313",
+    "end": "4215.329",
+    "parent_tu_id": "2547",
+    "text": ""
+  },
+  {
+    "tu_id": "2550",
+    "speaker": "PSB105_trad",
+    "start": "4215.789",
+    "end": "4217.005",
+    "parent_tu_id": "2549",
+    "text": ""
+  },
+  {
+    "tu_id": "2553",
+    "speaker": "PSB119_trad",
+    "start": "4217.235",
+    "end": "4220.072",
+    "parent_tu_id": "2552",
+    "text": ""
+  },
+  {
+    "tu_id": "2555",
+    "speaker": "PSB120_trad",
+    "start": "4222.995",
+    "end": "4224.942",
+    "parent_tu_id": "2554",
+    "text": ""
+  },
+  {
+    "tu_id": "2558",
+    "speaker": "PSB119_trad",
+    "start": "4227.600",
+    "end": "4228.600",
+    "parent_tu_id": "2557",
+    "text": ""
+  },
+  {
+    "tu_id": "2571",
+    "speaker": "PSB120_trad",
+    "start": "4256.370",
+    "end": "4264.595",
+    "parent_tu_id": "2570",
+    "text": ""
+  },
+  {
+    "tu_id": "2573",
+    "speaker": "PSB120_trad",
+    "start": "4264.735",
+    "end": "4270.145",
+    "parent_tu_id": "2572",
+    "text": ""
+  },
+  {
+    "tu_id": "2660",
+    "speaker": "PSB119_trad",
+    "start": "4460.475",
+    "end": "4462.062",
+    "parent_tu_id": "2659",
+    "text": ""
+  },
+  {
+    "tu_id": "2808",
+    "speaker": "PSB105_trad",
+    "start": "4749.954",
+    "end": "4751.412",
+    "parent_tu_id": "2807",
+    "text": "ah coprifuoco"
+  },
+  {
+    "tu_id": "2864",
+    "speaker": "PSB119_trad",
+    "start": "4850.646",
+    "end": "4851.224",
+    "parent_tu_id": "2863",
+    "text": "folle"
+  },
+  {
+    "tu_id": "2888",
+    "speaker": "PSB119_trad",
+    "start": "4903.874",
+    "end": "4904.374",
+    "parent_tu_id": "2887",
+    "text": ""
+  },
+  {
+    "tu_id": "2890",
+    "speaker": "PSB105_trad",
+    "start": "4904.564",
+    "end": "4905.166",
+    "parent_tu_id": "2889",
+    "text": ""
+  },
+  {
+    "tu_id": "2892",
+    "speaker": "PSB105_trad",
+    "start": "4905.648",
+    "end": "4907.646",
+    "parent_tu_id": "2891",
+    "text": ""
+  },
+  {
+    "tu_id": "2895",
+    "speaker": "PSB119_trad",
+    "start": "4907.654",
+    "end": "4910.255",
+    "parent_tu_id": "2894",
+    "text": ""
+  },
+  {
+    "tu_id": "2916",
+    "speaker": "PSB119_trad",
+    "start": "4944.787",
+    "end": "4945.540",
+    "parent_tu_id": "2915",
+    "text": ""
+  },
+  {
+    "tu_id": "2918",
+    "speaker": "PSB105_trad",
+    "start": "4945.551",
+    "end": "4947.831",
+    "parent_tu_id": "2917",
+    "text": ""
+  },
+  {
+    "tu_id": "2921",
+    "speaker": "PSB105_trad",
+    "start": "4948.008",
+    "end": "4951.348",
+    "parent_tu_id": "2920",
+    "text": "#_"
+  },
+  {
+    "tu_id": "2923",
+    "speaker": "PSB119_trad",
+    "start": "4949.227",
+    "end": "4949.894",
+    "parent_tu_id": "2922",
+    "text": ""
+  },
+  {
+    "tu_id": "2925",
+    "speaker": "PSB105_trad",
+    "start": "4951.459",
+    "end": "4952.867",
+    "parent_tu_id": "2924",
+    "text": ""
+  },
+  {
+    "tu_id": "2927",
+    "speaker": "PSB120_trad",
+    "start": "4952.894",
+    "end": "4953.853",
+    "parent_tu_id": "2926",
+    "text": ""
+  },
+  {
+    "tu_id": "2929",
+    "speaker": "PSB105_trad",
+    "start": "4954.599",
+    "end": "4955.739",
+    "parent_tu_id": "2928",
+    "text": ""
+  },
+  {
+    "tu_id": "2958",
+    "speaker": "PSB119_trad",
+    "start": "5017.133",
+    "end": "5018.356",
+    "parent_tu_id": "2957",
+    "text": ""
+  },
+  {
+    "tu_id": "2970",
+    "speaker": "PSB105_trad",
+    "start": "5038.574",
+    "end": "5039.639",
+    "parent_tu_id": "2969",
+    "text": ""
+  },
+  {
+    "tu_id": "2975",
+    "speaker": "PSB120_trad",
+    "start": "5044.074",
+    "end": "5045.007",
+    "parent_tu_id": "2974",
+    "text": ""
+  },
+  {
+    "tu_id": "2988",
+    "speaker": "PSB105_trad",
+    "start": "5073.608",
+    "end": "5075.241",
+    "parent_tu_id": "2987",
+    "text": ""
+  },
+  {
+    "tu_id": "2990",
+    "speaker": "PSB120_trad",
+    "start": "5075.846",
+    "end": "5076.968",
+    "parent_tu_id": "2989",
+    "text": ""
+  },
+  {
+    "tu_id": "2992",
+    "speaker": "PSB120_trad",
+    "start": "5077.929",
+    "end": "5079.089",
+    "parent_tu_id": "2991",
+    "text": ""
+  },
+  {
+    "tu_id": "2994",
+    "speaker": "PSB120_trad",
+    "start": "5080.448",
+    "end": "5082.686",
+    "parent_tu_id": "2993",
+    "text": ""
+  },
+  {
+    "tu_id": "2997",
+    "speaker": "PSB120_trad",
+    "start": "5082.914",
+    "end": "5085.240",
+    "parent_tu_id": "2996",
+    "text": ""
+  }
+]

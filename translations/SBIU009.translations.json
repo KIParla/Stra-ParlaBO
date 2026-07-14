@@ -1,0 +1,306 @@
+[
+  {
+    "tu_id": "47",
+    "speaker": "PSB039_trad",
+    "start": "96.240",
+    "end": "96.880",
+    "parent_tu_id": "46",
+    "text": "fiumi"
+  },
+  {
+    "tu_id": "68",
+    "speaker": "PSB039_trad",
+    "start": "142.813",
+    "end": "144.120",
+    "parent_tu_id": "67",
+    "text": "camminare in giro"
+  },
+  {
+    "tu_id": "119",
+    "speaker": "PSB039_trad",
+    "start": "252.940",
+    "end": "254.306",
+    "parent_tu_id": "118",
+    "text": "quando saprò"
+  },
+  {
+    "tu_id": "122",
+    "speaker": "PSB039_trad",
+    "start": "255.180",
+    "end": "255.893",
+    "parent_tu_id": "121",
+    "text": "qualcosa in più"
+  },
+  {
+    "tu_id": "131",
+    "speaker": "PSB039_trad",
+    "start": "273.772",
+    "end": "282.173",
+    "parent_tu_id": "130",
+    "text": "magari un business o qualcosa però in europe è molto costoso come posso?"
+  },
+  {
+    "tu_id": "147",
+    "speaker": "PSB039_trad",
+    "start": "303.832",
+    "end": "305.152",
+    "parent_tu_id": "146",
+    "text": "se non hai successo"
+  },
+  {
+    "tu_id": "156",
+    "speaker": "PSB039_trad",
+    "start": "320.587",
+    "end": "322.173",
+    "parent_tu_id": "155",
+    "text": "pellet di legno"
+  },
+  {
+    "tu_id": "158",
+    "speaker": "PSB039_trad",
+    "start": "322.587",
+    "end": "324.840",
+    "parent_tu_id": "157",
+    "text": "tipo un combustibile"
+  },
+  {
+    "tu_id": "165",
+    "speaker": "PSB039_trad",
+    "start": "335.640",
+    "end": "336.387",
+    "parent_tu_id": "164",
+    "text": "interessate"
+  },
+  {
+    "tu_id": "185",
+    "speaker": "PSB039_trad",
+    "start": "360.980",
+    "end": "363.470",
+    "parent_tu_id": "184",
+    "text": "di istruzione"
+  },
+  {
+    "tu_id": "208",
+    "speaker": "PSB039_trad",
+    "start": "402.910",
+    "end": "403.910",
+    "parent_tu_id": "207",
+    "text": "ucraino"
+  },
+  {
+    "tu_id": "238",
+    "speaker": "PSB039_trad",
+    "start": "476.670",
+    "end": "481.760",
+    "parent_tu_id": "237",
+    "text": "e anche film"
+  },
+  {
+    "tu_id": "241",
+    "speaker": "PSB039_trad",
+    "start": "482.610",
+    "end": "485.060",
+    "parent_tu_id": "240",
+    "text": "film in cinema"
+  },
+  {
+    "tu_id": "244",
+    "speaker": "PSB039_trad",
+    "start": "485.490",
+    "end": "486.077",
+    "parent_tu_id": "243",
+    "text": "nel"
+  },
+  {
+    "tu_id": "250",
+    "speaker": "PSB039_trad",
+    "start": "494.710",
+    "end": "498.930",
+    "parent_tu_id": "249",
+    "text": "specialmente quando io ero più piccolo"
+  },
+  {
+    "tu_id": "263",
+    "speaker": "PSB039_trad",
+    "start": "524.890",
+    "end": "526.920",
+    "parent_tu_id": "262",
+    "text": "hanno vinto l'eurovision"
+  },
+  {
+    "tu_id": "283",
+    "speaker": "PSB039_trad",
+    "start": "561.820",
+    "end": "567.030",
+    "parent_tu_id": "282",
+    "text": "sono stati più è stato più famoso"
+  },
+  {
+    "tu_id": "295",
+    "speaker": "PSB039_trad",
+    "start": "593.200",
+    "end": "600.570",
+    "parent_tu_id": "294",
+    "text": "ho un testo oppure ad esempio google translate"
+  },
+  {
+    "tu_id": "301",
+    "speaker": "PSB039_trad",
+    "start": "606.510",
+    "end": "612.720",
+    "parent_tu_id": "299",
+    "text": "sì se provi a tradurre dall'ucraino all'italiano"
+  },
+  {
+    "tu_id": "304",
+    "speaker": "PSB039_trad",
+    "start": "613.010",
+    "end": "613.840",
+    "parent_tu_id": "303",
+    "text": "va abbastanza male"
+  },
+  {
+    "tu_id": "307",
+    "speaker": "PSB039_trad",
+    "start": "614.050",
+    "end": "617.650",
+    "parent_tu_id": "306",
+    "text": "ma se provi a tradurre dall'inglese all'italiano va molto meglio"
+  },
+  {
+    "tu_id": "336",
+    "speaker": "PSB039_trad",
+    "start": "669.640",
+    "end": "672.150",
+    "parent_tu_id": "335",
+    "text": "vicino al benzinaio"
+  },
+  {
+    "tu_id": "369",
+    "speaker": "PSB039_trad",
+    "start": "741.990",
+    "end": "744.090",
+    "parent_tu_id": "368",
+    "text": "sapeva già"
+  },
+  {
+    "tu_id": "389",
+    "speaker": "PSB039_trad",
+    "start": "798.140",
+    "end": "805.746",
+    "parent_tu_id": "388",
+    "text": "devi avere tonnellate di documenti per qualsiasi cosa"
+  },
+  {
+    "tu_id": "394",
+    "speaker": "PSB039_trad",
+    "start": "815.650",
+    "end": "822.077",
+    "parent_tu_id": "393",
+    "text": "quindi noi abbiamo problemi però noi abbiamo anche i nostri lati positivi"
+  },
+  {
+    "tu_id": "405",
+    "speaker": "PSB039_trad",
+    "start": "842.350",
+    "end": "848.640",
+    "parent_tu_id": "404",
+    "text": "magari che i vostri negozi non sono aperti dopo le undici di sera"
+  },
+  {
+    "tu_id": "419",
+    "speaker": "PSB039_trad",
+    "start": "876.940",
+    "end": "878.840",
+    "parent_tu_id": "418",
+    "text": "vivevo in una città piccola"
+  },
+  {
+    "tu_id": "447",
+    "speaker": "PSB039_trad",
+    "start": "936.540",
+    "end": "939.880",
+    "parent_tu_id": "446",
+    "text": "dipende quando tempo devi trascorrere"
+  },
+  {
+    "tu_id": "451",
+    "speaker": "PSB039_trad",
+    "start": "940.890",
+    "end": "946.250",
+    "parent_tu_id": "450",
+    "text": "se è poco o periodi di tempo più lunghi"
+  },
+  {
+    "tu_id": "454",
+    "speaker": "PSB039_trad",
+    "start": "948.660",
+    "end": "954.330",
+    "parent_tu_id": "453",
+    "text": "se più brevi allora spiaggia"
+  },
+  {
+    "tu_id": "492",
+    "speaker": "PSB039_trad",
+    "start": "1040.359",
+    "end": "1048.060",
+    "parent_tu_id": "491",
+    "text": "da voi piace parlare di cibo come hai mangiato oggi e così via"
+  },
+  {
+    "tu_id": "494",
+    "speaker": "PSB039_trad",
+    "start": "1048.600",
+    "end": "1054.550",
+    "parent_tu_id": "493",
+    "text": "da noi non parliamo quasi per niente di cibo"
+  },
+  {
+    "tu_id": "512",
+    "speaker": "PSB039_trad",
+    "start": "1099.370",
+    "end": "1101.800",
+    "parent_tu_id": "511",
+    "text": "tipi di pasta"
+  },
+  {
+    "tu_id": "571",
+    "speaker": "PSB039_trad",
+    "start": "1245.290",
+    "end": "1253.280",
+    "parent_tu_id": "570",
+    "text": "questo paese ad esempio mettere molti soldi per migliorare ad esempio progra~"
+  },
+  {
+    "tu_id": "574",
+    "speaker": "PSB039_trad",
+    "start": "1254.080",
+    "end": "1259.580",
+    "parent_tu_id": "573",
+    "text": "programmi l'istruzione e così via non è un paese per aprire una start up o qualcosa del genere"
+  },
+  {
+    "tu_id": "578",
+    "speaker": "PSB039_trad",
+    "start": "1260.450",
+    "end": "1261.430",
+    "parent_tu_id": "577",
+    "text": "purtroppo però"
+  },
+  {
+    "tu_id": "584",
+    "speaker": "PSB039_trad",
+    "start": "1277.490",
+    "end": "1282.500",
+    "parent_tu_id": "583",
+    "text": "da settembre ques~ l'anno scorso"
+  },
+  {
+    "tu_id": "637",
+    "speaker": "PSB039_trad",
+    "start": "1384.413",
+    "end": "1386.519",
+    "parent_tu_id": "636",
+    "text": "grazie al contesto"
+  }
+]

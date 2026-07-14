@@ -1,0 +1,50 @@
+[
+  {
+    "tu_id": "458",
+    "speaker": "PSB144_trad",
+    "start": "762.160",
+    "end": "763.310",
+    "parent_tu_id": "457",
+    "text": "#_cosa ti piaceva fare?"
+  },
+  {
+    "tu_id": "1682",
+    "speaker": "PBS145_trad",
+    "start": "2607.480",
+    "end": "2608.375",
+    "parent_tu_id": "1681",
+    "text": "ciliegia"
+  },
+  {
+    "tu_id": "1687",
+    "speaker": "PBS145_trad",
+    "start": "2612.450",
+    "end": "2613.720",
+    "parent_tu_id": "1686",
+    "text": "si chiama ciliegia"
+  },
+  {
+    "tu_id": "1691",
+    "speaker": "PBS145_trad",
+    "start": "2615.080",
+    "end": "2616.050",
+    "parent_tu_id": "1690",
+    "text": "#_ciliegia"
+  },
+  {
+    "tu_id": "1693",
+    "speaker": "PSB144_trad",
+    "start": "2616.030",
+    "end": "2616.920",
+    "parent_tu_id": "1692",
+    "text": "ciliegia"
+  },
+  {
+    "tu_id": "1697",
+    "speaker": "PBS145_trad",
+    "start": "2618.185",
+    "end": "2622.060",
+    "parent_tu_id": "1696",
+    "text": "eh #ḥabb #l-mulūk un po' de tradizionale"
+  }
+]

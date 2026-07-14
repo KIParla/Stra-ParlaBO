@@ -1,446 +1,446 @@
-PSB128	sono igiene
-PSB005	igiene
-PSB091	mhmh esatto
+PSB091	sono igiene
+PSB128	igiene
+PSB005	mhmh esatto
 PSB091	lavare bene le mani
-PSB036	tenere i capelli legati
-PSB130	xxx
-PSB091	eh io non ce li ho eh mi sono dimenticata di raccogliere
+PSB091	tenere i capelli legati
+PSB036	xxx
+PSB130	eh io non ce li ho eh mi sono dimenticata di raccogliere
 PSB091	okay
-PSB130	va bene per s~ per stavolta sì
-PSB128	posso fare così
-PSB091	sì sì sì sì
-PSB128	per stavolta
-PSB091	importante che non cade dentro
+PSB091	va bene per s~ per stavolta sì
+PSB130	posso fare così
+PSB128	sì sì sì sì
+PSB091	per stavolta
+PSB128	importante che non cade dentro
 PSB091	sì
-PSB127	dentro
-PSB128	dentro il cibo
+PSB091	dentro
+PSB127	dentro il cibo
 PSB128	quando fat~
 PSB128	quando fate a casa i tortellini
-PSB130	fate lo stesso
-PSB005	sì infatti ieri sera ho cucinato con i capelli sciolti
-PSB130	ma io non so come fai
-PSB005	ho cucinato con cape~
-PSB130	io non so come fai perché io non riesco mi mi vanno dapper~ cioè non li sopporto dopo un po' sono molto
+PSB128	fate lo stesso
+PSB130	sì infatti ieri sera ho cucinato con i capelli sciolti
+PSB005	ma io non so come fai
+PSB130	ho cucinato con cape~
+PSB005	io non so come fai perché io non riesco mi mi vanno dapper~ cioè non li sopporto dopo un po' sono molto
 PSB130	beh e si s~ poi puoi ridarmelo perché ho toccato il microfono non so
-PSB005	sembrava appiccicaticcio
+PSB130	sembrava appiccicaticcio
 PSB005	sì non
 PSB005	non so è un po' mh
-PSB130	non so da quanto tempo xx
-PSB129	l'avevate messo
-PSB036	la gomma vai igienizziamoci tutti
+PSB005	non so da quanto tempo xx
+PSB130	l'avevate messo
+PSB129	la gomma vai igienizziamoci tutti
 PSB036	xxx
-PSB005	va bene dai va bene
-PSB091	no volevano i guanti sì
-PSB036	x x di un pentolino
-PSB036	giulia vuoi tu il grembiule
-PSB005	giulia giulia vuoi tu il grembiule
-PSB130	sì possiamo anche mettere i guanti
-PSB036	sì
-PSB130	perché tanto
-PSB036	ah no beh tiello tu se vuoi
-PSB129	ma sono meno sporchevole di quel eh di quel xx del maglioncino
-PSB091	maglioncino color pesca
-PSB086	xxx xx
-PSB091	no
-PSB086	no eh carta igienica
-PSB091	ah pensavo che vuoi
-PSB130	io ho preso gli strofinacci quindi
-PSB036	io adesso entro in modalità professione professionista te lo dico
-PSB129	sono sono xxxx praticamente
-PSB036	davai vkazivky
-PSB128	no problem
-PSB091	xxxx
-PSB086	voi
-PSB091	guardate quanto brava è ala addirittura xxxx
-PSB129	quando già sarà l'impasto pronto comincerei xx facciamo vedere ai ragazzi come si
-PSB091	sì
-PSB129	possiamo chiudere la porta del bagno vabbè grazie
-PSB128	sì
-PSB091	è come tortellini
-PSB129	allora
-PSB005	cosa cuciniamo cosa cuciniamo
-PSB091	vediamo
-PSB129	oggi cuciniamo ravioli con le patate
+PSB036	va bene dai va bene
+PSB005	no volevano i guanti sì
+PSB091	x x di un pentolino
+PSB036	vuoi tu il grembiule
+PSB036	vuoi tu il grembiule
+PSB005	sì possiamo anche mettere i guanti
+PSB130	sì
+PSB036	perché tanto
+PSB130	ah no beh tiello tu se vuoi
+PSB036	ma sono meno sporchevole di quel eh di quel xx del maglioncino
+PSB129	maglioncino color pesca
+PSB091	xxx xx
+PSB086	no
+PSB091	no eh carta igienica
+PSB086	ah pensavo che vuoi
+PSB091	io ho preso gli strofinacci quindi
+PSB130	io adesso entro in modalità professione professionista te lo dico
+PSB036	sono sono xxxx praticamente
+PSB128	davaj vkazivky
+PSB036	no problem
+PSB128	xxxx
+PSB091	voi
+PSB086	guardate quanto brava è addirittura xxxx
+PSB091	quando già sarà l'impasto pronto comincerei xx facciamo vedere ai ragazzi come si
+PSB129	sì
+PSB091	possiamo chiudere la porta del bagno vabbè grazie
+PSB129	sì
+PSB128	è come tortellini
+PSB091	allora
+PSB129	cosa cuciniamo cosa cuciniamo
+PSB005	vediamo
+PSB091	oggi cuciniamo ravioli con le patate
+PSB129	okay
 PSB005	okay
-PSB091	okay
 PSB091	che diciamo mh
 PSB091	in ucraina abbiamo tanti piatti tipici
 PSB091	come anche in italia ogni regione ha il suo piatto invece questo
-PSB129	piatto qua che faremo oggi diciamo in tutta ucraina
-PSB005	okay
-PSB091	mhmh
+PSB091	piatto qua che faremo oggi diciamo in tutta ucraina
+PSB129	okay
+PSB005	mhmh
 PSB091	quindi
 PSB091	magari cambia ripieno cambia
-PSB129	la salsa come fanno cambia modo come fanno chi fa più piccoli chi fa più grossi però in ucraina se tu dici arrivo si chiamano varenyki
-PSB091	come chiudono
+PSB091	la salsa come fanno cambia modo come fanno chi fa più piccoli chi fa più grossi però in ucraina se tu dici arrivo si chiamano varenyki
+PSB129	come chiudono
 PSB091	quindi
-PSB086	sei arrivata
-PSB091	a dove ripieno
-PSB086	chi vuole fare l'impasto chi fa vedere come si fa l'impasto
+PSB091	sei arrivata
+PSB086	a dove ripieno
+PSB091	chi vuole fare l'impasto chi fa vedere come si fa l'impasto
 PSB086	la mia regione dicono come si fa le paste
-PSB091	la stessa cosa un po' modificata sì
-PSB129	chi vuole impastare
-PSB091	la stessa cosa
-PSB129	mh voi va bene se noi impastiamo facciamo poi anche mangiamo un po' vi va
-PSB005	certo
-PSB129	sì sì
+PSB086	la stessa cosa un po' modificata sì
+PSB091	chi vuole impastare
+PSB129	la stessa cosa
+PSB091	mh voi va bene se noi impastiamo facciamo poi anche mangiamo un po' vi va
+PSB129	certo
+PSB005	sì sì
 PSB129	noi siamo venuti apposta
-PSB130	cioè
-PSB129	xx venuti a mangiare
+PSB129	cioè
+PSB130	xx venuti a mangiare
 PSB129	il nostro obiettivo è mangiare
-PSB091	c'è qua
-PSB086	lasciamo un po'
-PSB091	xx xxx
-PSB086	abbiamo appena messo
-PSB091	ciioè fatto con la xx ma
-PSB086	appena messo non abbiamo pensato
-PSB129	e tutto insieme come si chiama
-PSB086	merletto è un merletto
-PSB130	io ho una striscia
-PSB091	merletto
-PSB086	le uova ale hai portato le uova
+PSB128	c'è qua
+PSB091	lasciamo un po'
+PSB086	xx xxx
+PSB091	abbiamo appena messo
+PSB086	ciioè fatto con la xx ma
+PSB091	appena messo non abbiamo pensato
+PSB086	e tutto insieme come si chiama
+PSB129	merletto è un merletto
+PSB086	io ho una striscia
+PSB130	merletto
+PSB091	le uova hai portato le uova
 PSB086	merletto
-PSB005	xxx lo giuro
-PSB128	sì sì
-PSB091	e tu metti l'uovo
-PSB086	sì
-PSB091	ma le viene cucito
-PSB127	sì per legare bene
-PSB129	xxxxx
-PSB128	xx con le strisce
-PSB091	io io non metto uovo
+PSB086	xxx lo giuro
+PSB005	sì sì
+PSB128	e tu metti l'uovo
+PSB091	sì
+PSB086	ma le viene cucito
+PSB091	sì per legare bene
+PSB127	xxxxx
+PSB129	xx con le strisce
+PSB128	io io non metto uovo
 PSB091	io metto che diventano belle gialle
-PSB130	metti quattro
-PSB128	che è una decorazione
-PSB086	e sai perché
-PSB005	sì sì sì
-PSB129	mi rimetto questi
-PSB091	perché come i merli sai quelli tipo dei castelli quelli fatti
-PSB129	facciamo con acqua calda no xx
-PSB086	sì no si chiamano merli
-PSB129	in tutta italia è così
-PSB005	sì sì sì questo qui è un merletto perché c'ha
-PSB091	ma mi metto i guanti
-PSB128	mettiamo un po' x di olio
-PSB091	mah guarda
-PSB129	come vuoi
-PSB086	quella forma fatta così
-PSB129	realizzata con l'uncinetto sì
-PSB091	esatto
-PSB128	ah
+PSB091	metti quattro
+PSB130	che è una decorazione
+PSB128	e sai perché
+PSB086	sì sì sì
+PSB005	mi rimetto questi
+PSB129	perché come i merli sai quelli tipo dei castelli quelli fatti
+PSB091	facciamo con acqua calda no xx
+PSB129	sì no si chiamano merli
+PSB086	in tutta italia è così
+PSB129	sì sì sì questo qui è un merletto perché c'ha
+PSB005	ma mi metto i guanti
+PSB091	mettiamo un po' x di olio
+PSB128	mah guarda
+PSB091	come vuoi
+PSB129	quella forma fatta così
+PSB086	realizzata con l'uncinetto sì
+PSB129	esatto
+PSB091	ah
 PSB128	cento grammi di farina
 PSB128	e un uova
 PSB128	e qua
-PSB091	come facciamo
-PSB005	adesso
-PSB005	noi facciamo io faccio tutto a occhio
-PSB091	eh ma infatti
+PSB128	come facciamo
+PSB091	adesso
+PSB091	noi facciamo io faccio tutto a occhio
+PSB005	eh ma infatti
 PSB091	noi facciamo
-PSB129	un chilo e mezzo di farina quattro uova
-PSB005	anche la cucina
-PSB091	ne metto cinq~
-PSB005	metti sì
+PSB091	un chilo e mezzo di farina quattro uova
+PSB129	anche la cucina
+PSB005	ne metto cinq~
+PSB091	metti sì
 PSB005	quattro
-PSB128	okay
+PSB005	okay
 PSB128	perché quando io faccio la pasta
-PSB129	non metto uovo
-PSB130	okay
-PSB128	ah okay
+PSB128	non metto uovo
+PSB129	okay
+PSB130	ah okay
 PSB128	anche da
 PSB128	mhmh mh
-PSB130	la maggior parte di ucraina non mettono
-PSB128	ma cosa
-PSB130	qualcuno mette un uovo
-PSB128	eh acqua
-PSB091	solo acqua tiepida
+PSB128	la maggior parte di ucraina non mettono
+PSB130	ma cosa
+PSB128	qualcuno mette un uovo
+PSB130	eh acqua
+PSB128	solo acqua tiepida
 PSB091	acqua
-PSB128	chi mette tiepida chi mette acqua calda calda bollente
+PSB091	chi mette tiepida chi mette acqua calda calda bollente
 PSB128	con sale e miele
 PSB128	sì
-PSB091	qualcuno fa con acqua bollen~
-PSB128	perché con acqua bollente diventano più morbidi invece uovo lega m~ magari quando tu butti nell'acqua così dopo non si aprono capito
-PSB091	eh
+PSB128	qualcuno fa con acqua bollen~
+PSB091	perché con acqua bollente diventano più morbidi invece uovo lega m~ magari quando tu butti nell'acqua così dopo non si aprono capito
+PSB128	eh
 PSB091	intanto bisogna lavorare bene
-PSB005	in modo che non
-PSB091	quattro sì
-PSB128	sì
-PSB091	mhmh
+PSB091	in modo che non
+PSB005	quattro sì
+PSB091	sì
+PSB128	mhmh
 PSB091	un pizzico di sale
-PSB005	c'è di là il sale
-PSB127	no lo sapevo
+PSB091	c'è di là il sale
+PSB005	no lo sapevo
+PSB127	questo qua
 PSB130	questo qua
-PSB091	questo qua
-PSB005	sì
-PSB091	è ch~ senza spazzatura è difficile comunque cioè forse ha s~
-PSB130	intanto scaldiamo l'acqua
-PSB005	no ma facciamo un umido lì
-PSB129	ah okay okay
-PSB036	no facciamo
-PSB005	tanto eh non ci andrà nient'altro oltre che l'umido
+PSB091	sì
+PSB005	è ch~ senza spazzatura è difficile comunque cioè forse ha s~
+PSB091	intanto scaldiamo l'acqua
+PSB130	no ma facciamo un umido lì
+PSB005	ah okay okay
+PSB129	no facciamo
+PSB036	tanto eh non ci andrà nient'altro oltre che l'umido
 PSB005	sì infatti
-PSB091	grazie mille questo lo tiriamo su così
-PSB091	eto s lozhkoj esh'
-PSB005	tomu shcho zaraz zalipetsia meni
-PSB128	volevo solo metterlo contro
-PSB005	ladno
-PSB128	sì grazie eh
-PSB005	nielzia
-PSB036	il gel eventualmente è dentro la tasca esterna
-PSB005	x x x x
-PSB036	sì
-PSB128	non sto qua a mettere il gel ogni volta
-PSB128	kushat' prishla
-PSB086	vot eto vot uzhe greetsya
-PSB005	uzhe greetsya
-PSB129	quindi è questo tutto l'impasto
-PSB005	okay farina uova e sale
-PSB091	ed erano due chili di farina
-PSB005	no un chilo e mezzo
-PSB130	ah okay
-PSB005	ma tipo per quante
-PSB130	okay
-PSB091	cioè quante persone tipo
+PSB005	grazie mille questo lo tiriamo su così
+PSB091	èto s ložkoj eš'
+PSB091	tomu ščo zaraz zalipyt'sja meni
+PSB005	volevo solo metterlo contro
+PSB128	ladno
+PSB005	sì grazie eh
+PSB128	nel'zja
+PSB005	il gel eventualmente è dentro la tasca esterna
+PSB036	x x x x
+PSB005	sì
+PSB036	non sto qua a mettere il gel ogni volta
+PSB128	kušat' prišla
+PSB128	_vody vody xxx
+PSB086	uže greetsja
+PSB005	quindi è questo tutto l'impasto
+PSB129	okay farina uova e sale
+PSB005	ed erano due chili di farina
+PSB091	no un chilo e mezzo
+PSB005	ah okay
+PSB130	ma tipo per quante
+PSB005	okay
+PSB130	cioè quante persone tipo
 PSB091	allora in ucraina cosa bella
 PSB091	che n~ noi non facciamo per quante persone
-PSB129	noi le facciamo tanti li congeliamo quello che rimane si congela e si mangia
+PSB091	noi le facciamo tanti li congeliamo quello che rimane si congela e si mangia
 PSB086	domani
-PSB128	meglio se rimane
-PSB091	facciamo tutto
-PSB128	non si pesa mai non si pesano mai le magari se fai una torta sì si pesa però sei fai non so ravioli oppure involtini come li facciamo
-PSB091	ad occhio
+PSB086	meglio se rimane
+PSB128	facciamo tutto
+PSB091	non si pesa mai non si pesano mai le magari se fai una torta sì si pesa però sei fai non so ravioli oppure involtini come li facciamo
+PSB128	ad occhio
 PSB091	non si pesano mai non si misurano mai
-PSB086	le quantità
-PSB091	spesso c'è un marito che vuole bis
-PSB086	bis
+PSB091	le quantità
+PSB086	spesso c'è un marito che vuole bis
+PSB091	bis
 PSB086	oppure una merenda
-PSB130	xxx
-PSB129	giusto
-PSB091	anche da noi si fa così veramente
-PSB129	nado chuktochku eshchyo
-PSB091	soprattutto al sud da dove vengo io
-PSB129	vika dai un po' di olio
-PSB091	tutto a occhio
-PSB130	un po' di olio
-PSB091	ma voi questo li mangiate tipo
-PSB130	to sho
+PSB086	xxx
+PSB130	giusto
+PSB129	anche da noi si fa così veramente
+PSB091	nado čutočku eščë
+PSB129	soprattutto al sud da dove vengo io
+PSB091	dai un po' di olio
+PSB129	tutto a occhio
+PSB091	un po' di olio
+PSB130	ma voi questo li mangiate tipo
+PSB091	to ščo
 PSB130	sempre
-PSB091	o tipo come primo piatto
-PSB130	oddio ehm è un po' impegnativo quindi
-PSB128	ah ma si mette anche l'acqua
-PSB091	m~ misuriamo
-PSB005	no a occhio
+PSB130	o tipo come primo piatto
+PSB091	oddio ehm è un po' impegnativo quindi
+PSB130	ah ma si mette anche l'acqua
+PSB128	m~ misuriamo
+PSB091	no a occhio
 PSB005	sì non basta
-PSB091	se no vengono come le tagliatelle su~ super uovose
-PSB130	dyvysia ne robliu tak davaj
-PSB091	quindi adesso ci insegna anche a chiuderli
-PSB005	eshchyo eshchyo eshchyo
-PSB091	eh secondo me noi principalmente li chiuderemo
+PSB005	se no vengono come le tagliatelle su~ super uovose
+PSB091	dyvysja ne roblju tak davaj
+PSB130	quindi adesso ci insegna anche a chiuderli
+PSB091	eščë eščë eščë
+PSB005	eh secondo me noi principalmente li chiuderemo
 PSB091	esatto
-PSB005	forse
-PSB130	eh no
-PSB091	non so se apriranno fors~
-PSB005	vediamo
-PSB129	no no
-PSB091	no io mi diverto tantissimo a chiudere xxx
-PSB086	my chasto robymo taku posypku
-PSB005	avete perso un passaggio
-PSB086	l'olio abbiamo visto quanto olio
-PSB128	abbiamo fatto una voragine e xxx
-PSB129	nadya
-PSB086	a occhio
-PSB005	olio
-PSB128	e poi ci avete messo dell'olio sì
-PSB091	a occhio sì
+PSB091	forse
+PSB005	eh no
+PSB130	non so se apriranno fors~
+PSB091	vediamo
+PSB005	no no
+PSB129	no io mi diverto tantissimo a chiudere xxx
+PSB091	my často robymo taku posypku
+PSB086	avete perso un passaggio
+PSB005	l'olio abbiamo visto quanto olio
+PSB086	abbiamo fatto una voragine e xxx
+PSB128	@nadya
+PSB129	a occhio
+PSB086	olio
+PSB005	e poi ci avete messo dell'olio sì
+PSB128	a occhio sì
 PSB091	guarda ognuno fa a modo suo io a me mi hanno insegnato così
-PSB005	si fa tipo un buco nella farina e poi aggiungi piano piano l'acqua e fai questo
-PSB091	mhmh
+PSB091	si fa tipo un buco nella farina e poi aggiungi piano piano l'acqua e fai questo
+PSB005	mhmh
 PSB091	così piano piano impasto un po' viene
-PSB086	morbido liquido
-PSB128	acqua calda sì
-PSB091	tiepida
+PSB091	morbido liquido
+PSB086	acqua calda sì
+PSB128	tiepida
 PSB091	questa tiepida
-PSB005	mi piace più con calda tie~
-PSB091	e non c'è il lievito proprio
+PSB091	mi piace più con calda tie~
+PSB005	e non c'è il lievito proprio
 PSB091	mh
-PSB128	no zero
+PSB091	no zero
 PSB128	e voi
 PSB128	nei tortellini an~
-PSB005	non metti
+PSB128	non metti
 PSB005	non c'è no no
-PSB128	no
-PSB091	lo stesso
-PSB127	vai adesso
+PSB005	no
+PSB128	lo stesso
+PSB091	vai adesso
 PSB127	c'è anche la ricetta con eh con lievito
-PSB091	c'è la ricetta però non eh non è tutti sono
-PSB127	vedi ogni regione fa suo
+PSB127	c'è la ricetta però non eh non è tutti sono
+PSB091	vedi ogni regione fa suo
 PSB127	eh xx
 PSB127	sì le sue i suoi
 PSB127	r~ c'è anche con lievito giusto
-PSB086	tipo quelli più grandi eh a vapore
-PSB130	eh eh vapore
-PSB127	eh però crescono
-PSB086	sì
-PSB127	x x x x x eh cos'è con amarena
-PSB130	sì di più
-PSB127	quando
-PSB086	più grandi
-PSB127	zvyshneju
-PSB091	xxxx
-PSB129	si fanno s~ sia salati e anche dolci tipo con le amarene facciamo con semi di papavero facciamo con ricotta mettiamo un po' di
-PSB091	dolci
-PSB129	zucchero e ricotta zucchero e cannella
-PSB091	buono
-PSB127	e aiutatemi
-PSB086	eh cavolo eh
+PSB127	tipo quelli più grandi eh a vapore
+PSB086	eh eh vapore
+PSB130	eh però crescono
+PSB127	sì
+PSB086	x x x x x eh cos'è con amarena
+PSB127	sì di più
+PSB130	quando
+PSB127	più grandi
+PSB086	zvyshneju
+PSB127	xxxx
+PSB091	si fanno s~ sia salati e anche dolci tipo con le amarene facciamo con semi di papavero facciamo con ricotta mettiamo un po' di
+PSB129	dolci
+PSB091	zucchero e ricotta zucchero e cannella
+PSB129	buono
+PSB091	e aiutatemi
+PSB127	eh cavolo eh
 PSB086	amarene
-PSB127	eh cavolo cappuccio
-PSB036	cavolo cappuccio
-PSB086	mh
-PSB091	adoro quelli al posto di patate al posto di ricotta
-PSB086	sì
-PSB129	eh fanno con eh
-PSB086	cavolo cappuccio
-PSB130	cavolo cappuccio ovviamente prima preparate prima con le carote il salame
-PSB129	va un po' cotto
+PSB086	eh cavolo cappuccio
+PSB127	cavolo cappuccio
+PSB036	mh
+PSB086	adoro quelli al posto di patate al posto di ricotta
+PSB091	sì
+PSB086	eh fanno con eh
+PSB129	cavolo cappuccio
+PSB086	cavolo cappuccio ovviamente prima preparate prima con le carote il salame
+PSB130	va un po' cotto
 PSB129	cotto
-PSB086	cioè cotto tipo
+PSB129	cioè cotto tipo
+PSB086	sì sì sì sì perché tu deve
 PSB128	sì sì sì sì perché tu deve
-PSB129	sì sì sì sì perché tu deve
-PSB086	bollito
-PSB129	affettare sottile sottile poi eh
-PSB086	in padella
+PSB129	bollito
+PSB086	affettare sottile sottile poi eh
+PSB129	in padella
 PSB086	cuocere un po' con in padella sì con con caro~ carote ehm
 PSB086	metti un po' di odore
-PSB091	non so co~ prezzemolo si può mettere no
-PSB086	certo prezzemolo anche aneto qualcuno mette
+PSB086	non so co~ prezzemolo si può mettere no
+PSB091	certo prezzemolo anche aneto qualcuno mette
 PSB086	mh
-PSB005	è è un ripieno
-PSB091	buono
-PSB086	sì
-PSB129	come con tortellini e mortadella e con tutto ciò
-PSB005	sì sì sì sì
-PSB129	sì sì
+PSB086	è è un ripieno
+PSB005	buono
+PSB091	sì
+PSB086	come con tortellini e mortadella e con tutto ciò
+PSB129	sì sì sì sì
+PSB005	sì sì
 PSB129	aneto anche in in in ucraina si usa tanto
-PSB091	perché sono stata in moldavia quest'estate
+PSB129	perché sono stata in moldavia quest'estate
 PSB091	sì
-PSB129	sì
-PSB091	c'era aneto ovunque cioè
-PSB129	sì
-PSB091	qualsiasi piatto con l'aneto che a me piace tantissimo era buono però veramente
 PSB091	sì
-PSB130	sì
-PSB129	eh io son andata in svezia anche in svezia
-PSB091	onnipresente
-PSB086	vado io avanti
-PSB128	ah sì
-PSB130	dal dal
-PSB091	sì soprattutto col salmone sempre aneto
+PSB129	c'era aneto ovunque cioè
+PSB091	sì
+PSB129	qualsiasi piatto con l'aneto che a me piace tantissimo era buono però veramente
+PSB091	sì
+PSB091	sì
+PSB130	eh io son andata in svezia anche in svezia
+PSB129	onnipresente
+PSB091	vado io avanti
+PSB086	ah sì
+PSB128	dal dal
+PSB130	sì soprattutto col salmone sempre aneto
 PSB091	vado io
-PSB091	khochesh na
-PSB128	nie pytaju
-PSB091	xx
-PSB128	shchob ne skazaly shcho ya
-PSB086	ni bozhe borony
-PSB086	xx salmone
-PSB128	solo l'aneto
+PSB091	chočeš na
+PSB091	ne pytaju
 PSB128	xx
-PSB130	xx
-PSB128	che l'aneto non è una cioè in italia non lo usa più
-PSB130	xxxx
-PSB091	basilico il prezzemolo
-PSB129	xxxx
-PSB128	sì origano
-PSB129	uspokojsia
-PSB130	da me giù tanto tanto origano
-PSB091	origano
-PSB130	xxxx
-PSB128	rosmarino quelle cose lì però l'aneto
-PSB129	x zashkvar x
-PSB130	l'aneto xx
-PSB129	forse più erba cipollina
+PSB091	ščob ne skazaly ščo ja
+PSB128	ni bože borony
+PSB086	xx salmone
+PSB086	solo l'aneto
+PSB128	xx
+PSB128	xx
+PSB130	che l'aneto non è una cioè in italia non lo usa più
+PSB128	xxxx
+PSB130	basilico il prezzemolo
+PSB091	xxxx
+PSB129	sì origano
+PSB128	uspokojsja
+PSB129	da me giù tanto tanto origano
+PSB130	origano
+PSB091	xxxx
+PSB130	rosmarino quelle cose lì però l'aneto
+PSB128	xxx zaškvar xxx
+PSB129	l'aneto xx
+PSB130	forse più erba cipollina
+PSB129	mh
 PSB130	mh
-PSB128	mh
-PSB091	ya do vsiogp normalno vidnoshus'
-PSB128	xxx
-PSB091	xx
-PSB128	sì sì a posto
-PSB091	ragazze non s~ fa
-PSB129	non riesce con guanti tol~
-PSB005	io farei senza guanti
-PSB128	eh ma infatti sì
+PSB128	ja do vs'oho normal'no vidnošus'
+PSB091	xxx
+PSB128	xx
+PSB091	sì sì a posto
+PSB128	ragazze non s~ fa
+PSB091	non riesce con guanti tol~
+PSB129	io farei senza guanti
+PSB005	eh ma infatti sì
 PSB128	questo non è questi
-PSB091	non è questi
-PSB129	togli togli togli
-PSB128	ma sì
+PSB128	non è questi
+PSB091	togli togli togli
+PSB129	ma sì
 PSB128	però
-PSB129	le mani sono puliti guardate
-PSB130	ma
+PSB128	le mani sono puliti guardate
+PSB129	ma
 PSB130	sì sì sì
-PSB005	non c'è problema
-PSB129	figurati sì ci mancherebbe
-PSB005	ma infatti
-PSB128	non avevo neanche capito perché
-PSB091	no perché quando si no
-PSB128	sì è eh è dif~ difficile a~ r~ lavorare
+PSB130	non c'è problema
+PSB005	figurati sì ci mancherebbe
+PSB129	ma infatti
+PSB005	non avevo neanche capito perché
+PSB128	no perché quando si no
+PSB091	sì è eh è dif~ difficile a~ r~ lavorare
 PSB128	perché
 PSB128	perché
 PSB128	per eh se eh prepariamo per
 PSB128	altri persone
-PSB091	eh tutto deve essere
-PSB129	perfetto
-PSB005	certo sì
-PSB091	sì sì
+PSB128	eh tutto deve essere
+PSB091	perfetto
+PSB129	certo sì
+PSB005	sì sì
 PSB091	noi che facciamo spesso le cene di solidarietà
-PSB129	che quindi dobbiamo stare a mille o~ perché tu dai da mangiare alle persone capito quindi noi siamo sempre a mille occhi capito
-PSB005	sì sì con l'acca ci ci pi
-PSB091	mh sì sì sì
-PSB127	mille occhi
-PSB091	certo
-PSB127	per eh
-PSB091	per accontentare no
-PSB129	esatto
-PSB130	no no ma noi è come se fossimo a casa
-PSB129	esatto
-PSB005	va bene
-PSB130	che bello
-PSB091	ci vuole anche forza qua
+PSB091	che quindi dobbiamo stare a mille o~ perché tu dai da mangiare alle persone capito quindi noi siamo sempre a mille occhi capito
+PSB129	sì sì con l'acca ci ci pi
+PSB005	mh sì sì sì
+PSB091	mille occhi
+PSB127	certo
+PSB091	per eh
+PSB127	per accontentare no
+PSB091	esatto
+PSB129	no no ma noi è come se fossimo a casa
+PSB130	esatto
+PSB129	va bene
+PSB005	che bello
+PSB130	ci vuole anche forza qua
 PSB091	sì
-PSB036	sì bisogna avere la forza
-PSB091	eh sì
-PSB005	qua per
-PSB091	allora
-PSB130	impastarlo per bene
-PSB091	ho fa~ ho fatto una volta la pasta
-PSB130	che non de~
-PSB005	basta ho sudato
-PSB130	hai fatto la pasta una volta
-PSB091	sì ma infatti dopo l'ho data al mio ragazzo che poi si è perché io non ce la faccio
-PSB129	sì la pasta vostra più dura perché è solo uova e farina quindi è dura dura
-PSB036	solo uova
-PSB130	ma poi l'hai tirata a mattarello
-PSB036	eh
-PSB130	senza macchinetta mattarello
-PSB091	sì sì infatti dopo ho fatto xxx
-PSB036	anche noi lo faremo con mattarello
-PSB130	sì sì sì
-PSB091	cioè io non
-PSB128	brava
-PSB091	v mene vzhe holova syva
+PSB091	sì bisogna avere la forza
+PSB036	eh sì
+PSB091	qua per
+PSB005	allora
+PSB091	impastarlo per bene
+PSB130	ho fa~ ho fatto una volta la pasta
+PSB091	che non de~
+PSB130	basta ho sudato
+PSB005	hai fatto la pasta una volta
+PSB130	sì ma infatti dopo l'ho data al mio ragazzo che poi si è perché io non ce la faccio
+PSB091	sì la pasta vostra più dura perché è solo uova e farina quindi è dura dura
+PSB129	solo uova
+PSB036	ma poi l'hai tirata a mattarello
+PSB130	eh
+PSB036	senza macchinetta mattarello
+PSB130	sì sì infatti dopo ho fatto xxx
+PSB091	anche noi lo faremo con mattarello
+PSB036	sì sì sì
+PSB130	cioè io non
+PSB091	brava
+PSB128	u mene vže holova syva
 PSB091	eh cosa vuol dire sono tante persone
 PSB091	che sono grandi e non sanno
-PSB128	non sanno fare
-PSB086	ya vam rozkazhu ya vam rozkazhu odnu baiku
+PSB091	non sanno fare
+PSB128	ja vam rozkažu ja vam rozkažu odnu bajku
 PSB086	non sanno niente sì
-PSB091	perché fa la mamma perché fa marito
-PSB128	in italiano in italiano
-PSB005	no no scusa
-PSB130	no no no no no figurati no no no no
-PSB005	no no no
-PSB091	parlate come volete
-PSB005	io tradu~ traduco
-PSB129	sì sì infatti ma
-PSB005	come volete sì sì
-PSB128	no ma noi siamo xxx
+PSB086	perché fa la mamma perché fa marito
+PSB091	in italiano in italiano
+PSB128	no no scusa
+PSB005	no no no no no figurati no no no no
+PSB130	no no no
+PSB005	parlate come volete
+PSB091	io tradu~ traduco
+PSB005	sì sì infatti ma
+PSB129	come volete sì sì
+PSB005	no ma noi siamo xxx
 PSB128	questo è stato eh nella mia famiglia
 PSB128	quando
 PSB128	l~ mamma e papà eh faceva la polenta
@@ -455,16 +455,16 @@ PSB128	di
 PSB128	dare il permesso per fare questa pal~
 PSB128	no no no no no
 PSB128	e quando io sono andata già a lavorare
-PSB005	mi è venuta voglia di mangiare una polenta
-PSB128	mhmh certo
-PSB005	non c'era nessuno a casa allora
-PSB128	mhmh
-PSB005	posso fare quello che voglio
+PSB128	mi è venuta voglia di mangiare una polenta
+PSB005	mhmh certo
+PSB128	non c'era nessuno a casa allora
 PSB005	mhmh
-PSB129	finalmente
+PSB128	posso fare quello che voglio
+PSB005	mhmh
+PSB005	finalmente
 PSB129	come la voglio io
-PSB005	esatto
-PSB128	ah io se
+PSB129	esatto
+PSB005	ah io se
 PSB128	perché è sempre
 PSB128	è stata una guerra quando si faceva questa
 PSB128	questa polenta a casa
@@ -473,533 +473,532 @@ PSB128	non ho capito
 PSB128	perché cosa non dovevate dare
 PSB128	dare fare a me
 PSB128	ma semplice
-PSB005	ma perché viene sempre qualche discorso ma che cosa serve
+PSB128	ma perché viene sempre qualche discorso ma che cosa serve
 PSB128	ma dai
 PSB128	ho preparato la polenta prima volta
-PSB005	a trenta anni
+PSB128	a trenta anni
 PSB005	io sono stata sabato domenica lunedì e martedì a casa dei miei nonni questo weekend
-PSB129	quan~ martedì ero così
+PSB005	quan~ martedì ero così
 PSB129	no io invece ho
 PSB129	per f~ cioè
 PSB129	per fortuna o per sfortuna non lo so non ho mai avuto nonne a nessuna delle mie nonne piaceva cucinare
-PSB091	quindi
-PSB129	credo che è a posto
-PSB128	loro non erano molto cioè hanno sempre delegato molto in cucina
-PSB005	khochesh shche chy ne treba tomu shcho nu bazhano chut chut shchob vono vse
-PSB036	okay ah no
-PSB129	bellino il mattarello blu
-PSB005	sì
-PSB128	molto sì
-PSB005	oh faccio le muscoli
-PSB129	esatto se vuoi fare cambio posso provare
-PSB091	vuoi una mano
-PSB129	se volete pr~ anche per provare
-PSB091	sì sì
-PSB005	tanto è è è pronto
-PSB091	è pronto ah allora basta non
+PSB129	quindi
+PSB091	credo che è a posto
+PSB129	loro non erano molto cioè hanno sempre delegato molto in cucina
+PSB128	chočeš šče či ne treba tomu ščo nu bažano čut' čut' ščob vono vse
+PSB005	okay ah no
+PSB036	bellino il mattarello blu
+PSB129	sì
+PSB005	molto sì
+PSB128	oh faccio le muscoli
+PSB005	esatto se vuoi fare cambio posso provare
+PSB129	vuoi una mano
+PSB091	se volete pr~ anche per provare
+PSB129	sì sì
+PSB091	tanto è è è pronto
+PSB005	è pronto ah allora basta non
 PSB091	sì però s~ no
 PSB091	va bene
-PSB005	ragazze provate
-PSB091	proviamo
-PSB005	provate
+PSB091	ragazze provate
+PSB005	proviamo
+PSB091	provate
 PSB005	io
 PSB005	ques~ quando io ho iniziato questa cosa qua~ la prima volta che io mi sono tolta gli anelli per impastare
-PSB129	ho sentito la vecchi~ la vecchiaia
+PSB005	ho sentito la vecchi~ la vecchiaia
 PSB129	è co~
-PSB005	è c~ come la nonna
-PSB129	sì sì
-PSB005	che li toglieva sì
+PSB129	è c~ come la nonna
+PSB005	sì sì
+PSB129	che li toglieva sì
 PSB005	cioè la la frase mi mi togli un attimo che
 PSB005	eh perché non è
 PSB005	morbida
-PSB128	abbastanza
-PSB005	perciò uova quando si fa senza uova
-PSB128	eh
-PSB005	un po' diverso
-PSB128	è più morbido
+PSB005	abbastanza
+PSB128	perciò uova quando si fa senza uova
+PSB005	eh
+PSB128	un po' diverso
+PSB005	è più morbido
 PSB128	dipende dipende
-PSB129	dipende xxxx
-PSB091	ma forse
-PSB129	ognuno fa
-PSB091	xxx dividere a metà così pesa di meno
-PSB005	ognuno fa
+PSB128	dipende xxxx
+PSB129	ma forse
+PSB091	ognuno fa
+PSB129	xxx dividere a metà così pesa di meno
+PSB091	ognuno fa
 PSB005	ma quindi non serve impastarla troppo a lungo
-PSB091	un po' ma non tro~
+PSB005	un po' ma non tro~
 PSB091	ti dico uno dice bisogna mettere a riposare cioè n~
-PSB005	non c'è il lievito non c'è da riposare niente
-PSB091	beh xx proprio
-PSB128	impasto povero
-PSB091	a yakshcho ty robyla tisto tezh bez nichoho
-PSB128	tezh bez nichoho
-PSB036	i vytiazhnuiu x tezh treba daty
-PSB005	ma sapete tutte impastare io non
-PSB036	non l'hai mai fatto
+PSB091	non c'è il lievito non c'è da riposare niente
+PSB005	beh xx proprio
+PSB091	impasto povero
+PSB128	a jakščo ty robyla tisto tež bez ničoho
+PSB091	tezh bez nichoho
+PSB128	i vytjažnuju xx tež treba daty
+PSB036	ma sapete tutte impastare io non
+PSB005	non l'hai mai fatto
 PSB036	io da sì però sono un pessimo
-PSB005	e tirare la pasta proprio mai
-PSB128	no io la no la pasta io mai però la pizza l'ho fatta
-PSB036	brava brava brava come nonni
-PSB005	ci sta
-PSB128	hai visto
-PSB129	come nonni brava
-PSB091	perché la mia nonna era romagnola
-PSB128	sicura di essere xxx
+PSB036	e tirare la pasta proprio mai
+PSB005	no io la no la pasta io mai però la pizza l'ho fatta
+PSB128	brava brava brava come nonni
+PSB036	ci sta
+PSB005	hai visto
+PSB128	come nonni brava
+PSB129	perché la mia nonna era romagnola
+PSB091	sicura di essere xxx
 PSB128	sì sì sì
-PSB129	si vede si vede
-PSB005	la mia nonna era romagnola sì
-PSB129	davvero
-PSB005	sì
-PSB129	ah quindi sei rientrata in
-PSB005	sono solo solo mia nonna però di tutta la mia famiglia
-PSB005	okay
-PSB129	ma di di del mare o della
-PSB091	di cattolica del mare
-PSB005	nel frattempo che voi avete fatto l'impasto io ho preparato ripieno guarda come son brava
-PSB091	per magia
-PSB005	visto
-PSB091	è uscito
-PSB036	purè di patate
-PSB005	ah ah
-PSB091	sì
-PSB005	con soffritto un po' di cipolla
-PSB091	mhmh
-PSB091	e il pepe
-PSB129	sale basta
-PSB091	okay
-PSB005	c'è chi mette aneto prezzemolo io non ho messo perché magari ad alcuni non piace no
-PSB091	ma il purè con cosa lo fai col latte
-PSB005	no
-PSB091	con eh burro
-PSB091	proprio
-PSB005	no niente non metti niente solo patate schiacciate basta
-PSB005	ah no è patate schiacciate sì
-PSB091	mhmh
-PSB091	senza burro se se no dopo diventa
-PSB005	capito dentro
-PSB005	sì sì sì
-PSB091	okay
-PSB129	io direi che va bene
-PSB005	va bene
+PSB128	si vede si vede
+PSB129	la mia nonna era romagnola sì
+PSB005	davvero
 PSB129	sì
-PSB091	dove la metto
-PSB129	abbiamo preparato lettino per
-PSB091	per la nanna
+PSB005	ah quindi sei rientrata in
+PSB129	sono solo solo mia nonna però di tutta la mia famiglia
+PSB005	okay
+PSB005	ma di di del mare o della
+PSB129	di cattolica del mare
+PSB091	nel frattempo che voi avete fatto l'impasto io ho preparato ripieno guarda come son brava
+PSB005	per magia
+PSB091	visto
+PSB005	è uscito
+PSB091	purè di patate
+PSB036	ah ah
+PSB005	sì
+PSB091	con soffritto un po' di cipolla
+PSB005	mhmh
+PSB091	e il pepe
+PSB091	sale basta
+PSB129	okay
+PSB091	c'è chi mette aneto prezzemolo io non ho messo perché magari ad alcuni non piace no
+PSB005	ma il purè con cosa lo fai col latte
+PSB091	no
+PSB005	con eh burro
+PSB091	proprio
+PSB091	no niente non metti niente solo patate schiacciate basta
+PSB005	ah no è patate schiacciate sì
+PSB005	mhmh
+PSB091	senza burro se se no dopo diventa
+PSB091	capito dentro
+PSB005	sì sì sì
+PSB005	okay
+PSB091	io direi che va bene
+PSB129	va bene
+PSB005	sì
+PSB129	dove la metto
+PSB091	abbiamo preparato lettino per
+PSB129	per la nanna
 PSB091	sì
 PSB091	signorine
 PSB091	qualcuno vuole tirare la sfoglia
 PSB091	no
-PSB005	vabbè faccio io prima
-PSB091	ma abbiamo un mattarello
-PSB086	sì
-PSB086	dica xx si è al~ allenata olena ieri ha fatto borsh per marito
+PSB091	vabbè faccio io prima
+PSB005	ma abbiamo un mattarello
+PSB091	sì
+PSB127	dica xx si è al~ allenata ieri ha fatto boršč per marito
+PSB086	dica xx si è al~ allenata ieri ha fatto boršč per marito
 PSB086	sì tre ore di di di stare dietro dico
-PSB091	perché voglio tanto bene
-PSB005	ale mi dai un strofinaccio pulito lo copriamo il nostro impasto
-PSB130	questi sì
-PSB005	okay adesso sono xx
-PSB091	come sono eleganti questi strofinacci
-PSB130	okay
-PSB128	lo copriamo quindi
-PSB036	sì perché se no diventa secco
-PSB130	secco ah
-PSB005	ah okay giusto
+PSB086	perché voglio tanto bene
+PSB091	mi dai un strofinaccio pulito lo copriamo il nostro impasto
+PSB005	questi sì
+PSB130	okay adesso sono xx
+PSB005	come sono eleganti questi strofinacci
+PSB091	okay
+PSB130	lo copriamo quindi
+PSB128	sì perché se no diventa secco
+PSB036	secco ah
+PSB130	ah okay giusto
 PSB005	sì
-PSB091	facciamo così
+PSB005	facciamo così
 PSB091	poi mentre
-PSB091	olena tira la sfoglia
-PSB130	io comincio preparare già il condimento così
-PSB091	giusto
-PSB005	andiamo avanti
-PSB129	okay
-PSB091	ci avvantaggiamo
-PSB005	sì
-PSB091	ma abbiamo solo un mattarello
-PSB005	sì
-PSB091	eh potevo portarlo vabbè non ci ho pensato
-PSB129	eh adesso guardiamo se c'è un altro siccome abbiamo un tavolo solo ne
-PSB036	sì eh
-PSB005	eh sì
-PSB091	okay
-PSB005	perché adesso
-PSB091	sì e
-PSB005	avrete da fare
-PSB091	perché adesso li chiudiamo
-PSB091	sì
-PSB005	sì
+PSB091	tira la sfoglia
+PSB091	io comincio preparare già il condimento così
+PSB130	giusto
+PSB091	andiamo avanti
 PSB005	okay
-PSB091	benissimo
-PSB130	aspettate
-PSB091	speriamo in bene
-PSB005	questa cipolla
+PSB129	ci avvantaggiamo
+PSB091	sì
+PSB005	ma abbiamo solo un mattarello
+PSB091	sì
+PSB005	eh potevo portarlo vabbè non ci ho pensato
+PSB091	eh adesso guardiamo se c'è un altro siccome abbiamo un tavolo solo ne
+PSB129	sì eh
+PSB036	eh sì
+PSB005	okay
+PSB091	perché adesso
+PSB005	sì e
+PSB091	avrete da fare
+PSB005	perché adesso li chiudiamo
+PSB091	sì
+PSB091	sì
+PSB005	okay
+PSB005	benissimo
+PSB091	aspettate
+PSB130	speriamo in bene
+PSB091	questa cipolla
 PSB005	ma noi usiamo solo questo o possiamo magari dividerci in due
-PSB036	e
-PSB005	magari puliamo qua
-PSB091	un gruppo si mette qui
-PSB130	sì magari mentre noi qua pieghiamo un'altra qua viene qua tira un'altra sfoglia
-PSB005	sì anche là c~
-PSB129	ah eh sì okay allora xx
+PSB005	e
+PSB036	magari puliamo qua
+PSB005	un gruppo si mette qui
+PSB091	sì magari mentre noi qua pieghiamo un'altra qua viene qua tira un'altra sfoglia
+PSB130	sì anche là c~
+PSB005	ah eh sì okay allora xx
 PSB129	sì puliamo un attimo l~ le uova le metto in frigo
-PSB128	o ci servono
-PSB005	eh uova non servono più quindi alessandra le può portare xx
-PSB129	sì metti qua rimettili qui
-PSB005	okay
-PSB005	allora io vi do anche eh la xx
-PSB091	questi e okay x
-PSB091	brava
-PSB130	brava
-PSB130	dev'essere tanto sottile
-PSB036	fine
-PSB091	l'ho sentita proprio
-PSB127	nostro amico sabato scorso ha fatto
-PSB091	yaki zaliubi maiut buty podyvys bud laska ala
-PSB127	maiut buty troshky hrubenky shchob my mohly yikh natiahuvaty
-PSB091	super
-PSB127	otut troshechky
-PSB127	dokotaty dokotaty
-PSB127	zmorshky da
-PSB005	xx
-PSB005	ah quindi si tira voglio vederla lo spessore perché
-PSB129	è importante
-PSB091	è un po' più spessa di come la facciamo noi
-PSB005	sì facciamo un po' più spessa perché dopo quando mettiamo
-PSB036	la pasta bisogna tirarla molto sì
-PSB129	x x x x
-PSB005	io mi ricordo m~ mia mia nonna diceva che ci devi leggere il giornale
-PSB129	no devi guard~ devi veder san luca si dice
-PSB091	eh
-PSB129	cosa devi
-PSB005	sì però da cattolica non si vedeva san luca
-PSB091	cioè attraverso la pasta dei tortellini devi veder san luca
-PSB129	ah devi veder san l~
-PSB005	esatto
-PSB086	eh sì
-PSB005	ah ah
-PSB129	quella è la m~ è il modo
-PSB086	mia no~ mia nonna faceva proprio la prova col eh
-PSB129	talmente sottile
-PSB036	col foglio dietro
-PSB005	col foglio
-PSB091	sì eh sì
-PSB130	dopo capirete perché noi facciamo
-PSB130	sì però
-PSB129	solo per chi è davvero bravo
-PSB130	sì ma infatti abbiamo la macchinetta
-PSB005	io ho fatto i tortellini a pasta grossa
-PSB091	usiamo la macchinetta non mh
-PSB005	per chiu~ per chiudere come la macchinetta
-PSB091	no no per stenderla no no per chiudere no
-PSB091	ah per s~
-PSB005	mamma mia
-PSB086	chiudere io li so chiudere
-PSB005	per stendere la macchinetta racconta
-PSB086	no per stenderla abbiamo una macchinetta
-PSB005	sì ah quelle che sì sì sì che
-PSB130	sì
-PSB005	che la fa
-PSB086	sì
-PSB005	passi ripassì sì ma anche lì c'è eh
-PSB129	esatto
-PSB036	c'è la
-PSB086	c'è la cosa
-PSB005	due tre da re~ regolare sì
-PSB086	sì sì sì
-PSB129	sì
-PSB005	sì
-PSB086	i rulli sono più vicini no o più lontani
-PSB005	i rulli sì sì sì
-PSB086	eh okay
-PSB005	per le lasagne usano pasta fresca sì
-PSB091	sì per tutto sì sì sì sì
-PSB005	prendete ripieno
-PSB127	allora
-PSB128	sì dove
-PSB130	prova
-PSB091	ehm
-PSB127	sopra
-PSB129	ah okay
-PSB127	questo qualcuno l'ha già pulito no
-PSB127	sì
-PSB036	nam malenki lozhechky naity da
-PSB091	faccio io
-PSB130	xxxxx
-PSB091	nel ripieno cosa c'è
-PSB091	son le patate bollite schiacciate
-PSB005	e un po' di cipolla soffritta
-PSB091	okay quindi così la quantità
-PSB128	sì
-PSB086	no no quantità anche
-PSB036	ala
-PSB128	eh esatto
-PSB091	può essere anche un po' di più
-PSB086	sì anche
-PSB091	ala
-PSB086	ah
-PSB036	il tavolo con la da pulire
-PSB036	per eh
-PSB091	c'è un disin~
-PSB036	puliamo sì sì
-PSB091	c'è un disinfettante un eh
-PSB128	guarda io ho disinfettato prima stracci xx con candeggina
-PSB036	xxx
-PSB127	ah va bene okay xxx candeggina
-PSB091	faccio faccio un po' di foto per la memoria
-PSB128	sì sì sì sì
-PSB130	per chi
-PSB129	x x x x x
-PSB129	per la memoria
-PSB005	per per ricordarci
-PSB091	okay
-PSB005	io metterei anche un altro po' di più così
-PSB091	ah tanto
-PSB129	perché noi possia~ perché noi possiamo ritirare sì
-PSB005	poi si allarga okay
-PSB091	allora adesso guardo
-PSB005	fai così
-PSB091	sì
-PSB128	così così
-PSB005	khtos vykraiuie
+PSB129	o ci servono
+PSB128	eh uova non servono più quindi le può portare xx
+PSB005	sì metti qua rimettili qui
 PSB129	okay
-PSB091	okay posso provare
+PSB005	allora io vi do anche eh la xx
+PSB005	questi e okay x
+PSB091	brava
+PSB091	brava
+PSB130	dev'essere tanto sottile
+PSB130	fine
+PSB036	l'ho sentita proprio
+PSB091	nostro amico sabato scorso ha fatto
+PSB127	jaki zahrubi majut' buty podyvys' bud' laska
+PSB091	majut' buty trošky hruben'ki ščob my mohly jich natjahuvaty
+PSB127	super
+PSB091	otut trošečky
+PSB127	dokotaty dokotaty
+PSB127	zmoršky da
+PSB127	xx
+PSB005	ah quindi si tira voglio vederla lo spessore perché
+PSB005	è importante
+PSB129	è un po' più spessa di come la facciamo noi
+PSB091	sì facciamo un po' più spessa perché dopo quando mettiamo
+PSB005	la pasta bisogna tirarla molto sì
+PSB036	x x x x
+PSB129	io mi ricordo m~ mia mia nonna diceva che ci devi leggere il giornale
+PSB005	no devi guard~ devi veder san luca si dice
+PSB129	eh
+PSB091	cosa devi
+PSB129	sì però da cattolica non si vedeva san luca
+PSB005	cioè attraverso la pasta dei tortellini devi veder san luca
+PSB091	ah devi veder san l~
+PSB129	esatto
+PSB005	eh sì
+PSB086	ah ah
+PSB005	quella è la m~ è il modo
+PSB129	mia no~ mia nonna faceva proprio la prova col eh
+PSB086	talmente sottile
+PSB129	col foglio dietro
+PSB036	col foglio
+PSB005	sì eh sì
+PSB091	dopo capirete perché noi facciamo
+PSB130	sì però
+PSB130	solo per chi è davvero bravo
+PSB005	sì ma infatti abbiamo la macchinetta
+PSB130	io ho fatto i tortellini a pasta grossa
+PSB005	usiamo la macchinetta non mh
+PSB091	per chiu~ per chiudere come la macchinetta
+PSB005	no no per stenderla no no per chiudere no
+PSB091	ah per s~
+PSB091	mamma mia
+PSB005	chiudere io li so chiudere
+PSB086	per stendere la macchinetta racconta
+PSB005	no per stenderla abbiamo una macchinetta
+PSB086	sì ah quelle che sì sì sì che
+PSB005	sì
+PSB130	che la fa
+PSB005	sì
+PSB086	passi ripassì sì ma anche lì c'è eh
+PSB005	esatto
+PSB129	c'è la
+PSB036	c'è la cosa
+PSB086	due tre da re~ regolare sì
+PSB005	sì sì sì
+PSB086	sì
+PSB129	sì
+PSB005	i rulli sono più vicini no o più lontani
+PSB086	i rulli sì sì sì
+PSB005	eh okay
+PSB086	per le lasagne usano pasta fresca sì
+PSB005	sì per tutto sì sì sì sì
+PSB091	prendete ripieno
+PSB005	allora
+PSB127	sì dove
+PSB128	prova
+PSB130	ehm
+PSB091	sopra
+PSB127	ah okay
+PSB129	questo qualcuno l'ha già pulito no
 PSB127	sì
-PSB127	mhmh
-PSB091	chi vuole provare
-PSB127	chi vuole tagliare
-PSB091	mhmh
-PSB091	si può fare con bicchiere si può fare io ho preso
-PSB130	la cosa della panna
-PSB130	già parto già parto male qua eh
-PSB091	ve lo dico
-PSB130	importante
+PSB127	nam malen'ki ložečky najty da
+PSB036	faccio io
+PSB091	xxxxx
+PSB130	nel ripieno cosa c'è
+PSB091	son le patate bollite schiacciate
+PSB091	e un po' di cipolla soffritta
+PSB005	okay quindi così la quantità
 PSB091	sì
-PSB130	che ripieno non va dentro la pasta se no si chiude dopo si apre mentre si bolle capito mentre mettiamo
+PSB128	no no quantità anche
+PSB036	eh esatto
+PSB128	può essere anche un po' di più
+PSB091	sì anche
+PSB091	ah
+PSB086	il tavolo con la da pulire
+PSB036	per eh
+PSB036	c'è un disin~
+PSB091	puliamo sì sì
+PSB036	c'è un disinfettante un eh
+PSB091	guarda io ho disinfettato prima stracci xx con candeggina
+PSB128	xxx
+PSB036	ah va bene okay xxx candeggina
+PSB127	faccio faccio un po' di foto per la memoria
+PSB091	sì sì sì sì
+PSB128	per chi
+PSB130	x x x x x
+PSB129	per la memoria
+PSB129	per per ricordarci
+PSB005	okay
+PSB091	io metterei anche un altro po' di più così
+PSB005	ah tanto
+PSB091	perché noi possia~ perché noi possiamo ritirare sì
+PSB129	poi si allarga okay
+PSB005	allora adesso guardo
+PSB091	fai così
+PSB005	sì
+PSB091	così così
+PSB128	chtos' vykrojuje
+PSB005	okay
+PSB129	okay posso provare
+PSB091	sì
+PSB127	mhmh
+PSB127	chi vuole provare
+PSB091	chi vuole tagliare
+PSB127	mhmh
+PSB091	si può fare con bicchiere si può fare io ho preso
+PSB091	la cosa della panna
+PSB130	già parto già parto male qua eh
+PSB130	ve lo dico
+PSB091	importante
 PSB130	sì
-PSB091	sì beh
-PSB127	lì dobbiamo stare attenti
-PSB130	l'impasto è abbastanza elasticizzato
-PSB091	scusate che non riesco qua
+PSB091	che ripieno non va dentro la pasta se no si chiude dopo si apre mentre si bolle capito mentre mettiamo
 PSB130	sì
-PSB005	e là sto facendo
-PSB091	così giusto
+PSB130	sì beh
+PSB091	lì dobbiamo stare attenti
+PSB127	l'impasto è abbastanza elasticizzato
+PSB130	scusate che non riesco qua
+PSB091	sì
+PSB130	e là sto facendo
+PSB005	così giusto
 PSB091	sì
 PSB091	xx
-PSB130	devi proprio
-PSB005	okay adesso mi sono capita
-PSB091	schiacciare molto molto di più sì
-PSB005	premi premi premi sì bene
-PSB091	okay
-PSB127	fa così
-PSB091	due tre volte giusto
-PSB005	maledetti russi maledetti russi
-PSB130	va bene ognuno maledica chi vuole
-PSB129	ognuno ma~ esatto
-PSB091	scegliete in libertà
-PSB129	un eh motivo per essere cattivi
-PSB005	scegliete il vostro target di maledizione
-PSB036	daniele sì infatti eh vai
-PSB129	provo a chiuderne uno anch'io
-PSB127	vai daniele
-PSB036	certo
-PSB130	vediamo
-PSB127	io qua eh c~ sto facendo sto lavoro non so se sono la persona più indicata ma insomma
-PSB130	così gi~ gi~ gi~ gi~
-PSB127	vai vai
+PSB091	devi proprio
+PSB130	okay adesso mi sono capita
+PSB005	schiacciare molto molto di più sì
+PSB091	premi premi premi sì bene
+PSB005	okay
+PSB091	fa così
+PSB127	due tre volte giusto
+PSB091	maledetti russi maledetti russi
+PSB129	va bene ognuno maledica chi vuole
+PSB130	ognuno ma~ esatto
+PSB129	scegliete in libertà
+PSB091	un eh motivo per essere cattivi
+PSB129	scegliete il vostro target di maledizione
+PSB005	sì infatti eh vai
+PSB036	provo a chiuderne uno anch'io
+PSB129	vai
+PSB127	certo
+PSB036	vediamo
+PSB130	io qua eh c~ sto facendo sto lavoro non so se sono la persona più indicata ma insomma
+PSB127	così gi~ gi~ gi~ gi~
+PSB130	vai vai
 PSB127	tre quattro volte avanti dietro avanti dietro
 PSB127	e basta
-PSB130	per chiudere bene
-PSB129	vabbè tanto la recuperiamo la pasta ad eccesso
+PSB127	per chiudere bene
+PSB130	vabbè tanto la recuperiamo la pasta ad eccesso
 PSB129	sì poi penso che rifacciamo
 PSB129	rimpastiamo
 PSB129	io non so dosare la quantità di ripieno
-PSB127	di più
+PSB129	di più
 PSB127	anco~ ancora un po' sì
-PSB129	okay
-PSB127	va bene
-PSB091	sì sì più xx
-PSB129	cioè devono essere belli pienotti
+PSB127	okay
+PSB129	va bene
+PSB127	sì sì più xx
+PSB091	cioè devono essere belli pienotti
 PSB129	va bene ora mi
-PSB130	regolo
-PSB091	posso provare a chiuderne uno
-PSB129	sì
-PSB127	avoglia
-PSB130	certo
-PSB091	posso
-PSB130	faccio
-PSB091	così va bene
-PSB036	guarda io per fai la pallina almeno non ti esce capito non ti esce
-PSB005	carino
-PSB129	molto
-PSB005	passatemi un po' di
+PSB129	regolo
+PSB130	posso provare a chiuderne uno
+PSB091	sì
+PSB129	avoglia
+PSB127	certo
+PSB130	posso
+PSB091	faccio
+PSB130	così va bene
+PSB091	guarda io per fai la pallina almeno non ti esce capito non ti esce
+PSB036	carino
+PSB005	molto
+PSB129	passatemi un po' di
 PSB005	così ma voi guarda come è bello questo
 PSB005	guarda che brutto il mio
-PSB091	allora alessandra io ti
-PSB036	consiglio di mettere un altro po' di ripieno
-PSB086	esatto
-PSB005	un po' di farina che così non si attacca
+PSB091	allora io ti
+PSB091	consiglio di mettere un altro po' di ripieno
+PSB036	esatto
+PSB086	un po' di farina che così non si attacca
 PSB005	eh
 PSB005	eh c'abbiamo metà
-PSB091	pasta per stenderla di là
-PSB005	per sì
-PSB036	o questa è tutta no
-PSB091	no
-PSB005	no no
+PSB005	pasta per stenderla di là
+PSB091	per sì
+PSB005	o questa è tutta no
+PSB036	no
 PSB091	no no
-PSB129	allora
-PSB091	aspetta che ora provo xx
-PSB005	vi do
-PSB005	giulia ridammi questo
-PSB005	io mi metto con viktoria
-PSB130	che facciamo gossip
-PSB005	così
-PSB005	no
-PSB086	no sto scherzan~
-PSB005	vado a trasferire di là dai
-PSB005	sì
-PSB091	io così provo a stenderla
-PSB086	sì vai
-PSB005	ah fai qua
-PSB005	sì
-PSB086	provo a stenderla
-PSB130	va bene allora mi metto di qua
-PSB036	così
-PSB005	è perfetto
-PSB005	ah però volevi la farina forse
-PSB086	vuoi vuoi qui
-PSB128	non fa niente xxx
-PSB129	un po' così
-PSB128	un po' così okay
-PSB129	mhmh
-PSB128	tipo così
-PSB129	mhmh
-PSB129	sì
-PSB086	ah bellissimi
-PSB129	hai trattato bene sta xxx
-PSB005	grazie
-PSB086	allora oggi ti dico cosa ho pranzato ho
-PSB005	xxx la forza
-PSB128	ora ti dico cosa ho pranzato oggi ho mangiato il panettone che aveva portato letizia che è xxx lei
-PSB128	è una altra vo~
-PSB129	è altro faccio quattro
-PSB129	sì tipo
-PSB005	mh ricciolo
-PSB128	per festeggiare prima di natale
-PSB005	riccio
-PSB005	quindi io ho mangiato quello poi ero pienissima e non ho mangiato nient'altro
-PSB129	poi ho preso un caffè solo
-PSB130	no si è piegata
-PSB005	che bello
-PSB005	ma tuo figlio come va
-PSB086	la scuola
-PSB086	eh dai
-PSB005	combina qualcosina
-PSB130	no come qualcosina
+PSB005	no no
 PSB091	allora
-PSB127	xxxxx
-PSB129	è un piacere lavorare con impasto giusto
-PSB036	sì è troppo rilassante
+PSB129	aspetta che ora provo xx
+PSB091	vi do
+PSB005	ridammi questo
+PSB005	io mi metto con
+PSB005	che facciamo gossip
+PSB130	così
+PSB005	no
+PSB005	no sto scherzan~
+PSB086	vado a trasferire di là dai
+PSB005	sì
+PSB005	io così provo a stenderla
+PSB091	sì vai
+PSB086	ah fai qua
+PSB005	sì
+PSB005	provo a stenderla
+PSB086	va bene allora mi metto di qua
+PSB130	così
+PSB036	è perfetto
+PSB005	ah però volevi la farina forse
+PSB005	vuoi vuoi qui
+PSB086	non fa niente xxx
+PSB128	un po' così
+PSB129	un po' così okay
+PSB128	mhmh
+PSB129	tipo così
+PSB128	mhmh
+PSB129	sì
+PSB129	ah bellissimi
+PSB086	hai trattato bene sta xxx
+PSB129	grazie
+PSB005	allora oggi ti dico cosa ho pranzato ho
+PSB086	xxx la forza
+PSB005	ora ti dico cosa ho pranzato oggi ho mangiato il panettone che aveva portato che è xxx lei
+PSB128	è una altra vo~
+PSB128	è altro faccio quattro
+PSB129	sì tipo
+PSB129	mh ricciolo
+PSB005	per festeggiare prima di natale
+PSB128	riccio
+PSB005	quindi io ho mangiato quello poi ero pienissima e non ho mangiato nient'altro
+PSB005	poi ho preso un caffè solo
+PSB129	no si è piegata
+PSB130	che bello
+PSB005	ma tuo figlio come va
+PSB005	la scuola
+PSB086	eh dai
+PSB086	combina qualcosina
+PSB005	no come qualcosina
+PSB130	allora
+PSB091	xxxxx
+PSB127	è un piacere lavorare con impasto giusto
+PSB129	sì è troppo rilassante
 PSB036	sì vero
-PSB127	è molto rilassan~
-PSB036	sì eh
-PSB130	molto
-PSB127	eh secondo me questo si aprirà perché ho fatto un po' un caos
+PSB036	è molto rilassan~
+PSB127	sì eh
+PSB036	molto
+PSB130	eh secondo me questo si aprirà perché ho fatto un po' un caos
 PSB127	mhmh
 PSB127	fai
-PSB128	tipo così mhmh
-PSB127	e poi dopo la ragazza sapete
-PSB128	mhmh sì sì
-PSB130	tutto che avete messo dentro
-PSB128	sì
+PSB127	tipo così mhmh
+PSB128	e poi dopo la ragazza sapete
+PSB127	mhmh sì sì
+PSB128	tutto che avete messo dentro
+PSB130	sì
 PSB128	perché adesso
-PSB129	fanno tutto per morire
-PSB128	no ma poi è bello cucinare dà s~ cioè è proprio più soddisfacente quando mangi una cosa che hai fatto tu
-PSB036	ah la polenta
+PSB128	fanno tutto per morire
+PSB129	no ma poi è bello cucinare dà s~ cioè è proprio più soddisfacente quando mangi una cosa che hai fatto tu
+PSB128	ah la polenta
 PSB129	eh una sì qualsiasi cosa dici ah l'ho fa~ cioè l'ho fatta io capito so
-PSB091	tutti i passaggi
-PSB130	qua troppo poco ripieno tro~
-PSB091	io prima ne avevo messo troppo
-PSB130	messo troppo ah okay
-PSB091	adesso è uscito un po'
-PSB130	tanto dopo uno prende mano
-PSB086	okay
+PSB129	tutti i passaggi
+PSB091	qua troppo poco ripieno tro~
+PSB130	io prima ne avevo messo troppo
+PSB091	messo troppo ah okay
+PSB130	adesso è uscito un po'
+PSB091	tanto dopo uno prende mano
+PSB130	okay
 PSB086	si è spaccata
-PSB036	guardo nell'armadio di mio figlio
-PSB091	vediamo se
-PSB086	vuoi una mano alessandra
-PSB005	responsabilità
-PSB086	lui ha preso la responabilità
-PSB036	è logico perché colpo finale ha dato lui
-PSB127	grazie mille
-PSB086	niente
-PSB005	quindi un altro regalo di natale mi arriverà la fattura
-PSB086	ma quanto sarà
-PSB005	vuoi sapere altro
-PSB127	sì sì sì dimmi altro
-PSB091	no no no non lo voglio ripieno
-PSB086	xxxx
-PSB127	ehm sta finendo già xx piccolo problema con matematica
+PSB086	guardo nell'armadio di mio figlio
+PSB036	vediamo se
+PSB091	vuoi una mano
+PSB086	responsabilità
+PSB005	lui ha preso la responabilità
+PSB086	è logico perché colpo finale ha dato lui
+PSB036	grazie mille
+PSB127	niente
+PSB086	quindi un altro regalo di natale mi arriverà la fattura
+PSB005	ma quanto sarà
+PSB086	vuoi sapere altro
+PSB005	sì sì sì dimmi altro
+PSB127	no no no non lo voglio ripieno
 PSB091	xxxx
-PSB036	se se avete troppo se voi vi sentite che c'è troppo ripieno togliete
-PSB091	togl~ certo
-PSB086	sì
-PSB129	aveva difficoltà
-PSB130	e questi si mangiano in un'occasione particolare o sempre o scusa
-PSB091	scusa
-PSB128	guardate se vi dico una cosa
-PSB129	no sempre
+PSB086	ehm sta finendo già xx piccolo problema con matematica
+PSB127	xxxx
+PSB091	se se avete troppo se voi vi sentite che c'è troppo ripieno togliete
+PSB036	togl~ certo
+PSB091	sì
+PSB086	aveva difficoltà
+PSB129	e questi si mangiano in un'occasione particolare o sempre o scusa
+PSB130	scusa
+PSB091	guardate se vi dico una cosa
+PSB128	no sempre
+PSB129	sempre
 PSB128	sempre
-PSB091	sempre
-PSB129	che non che non crederete alcuni mangiano anche per colazione
-PSB130	per colazione
-PSB128	ma io mang~ li mangerei a col~
-PSB036	io ma sa~ sapete che cosa fanno
-PSB130	buo~ buoni scusate raga io
-PSB128	perché secondo me sono energetici
+PSB091	che non che non crederete alcuni mangiano anche per colazione
+PSB129	per colazione
+PSB130	ma io mang~ li mangerei a col~
+PSB128	io ma sa~ sapete che cosa fanno
+PSB036	buo~ buoni scusate raga io
+PSB130	perché secondo me sono energetici
 PSB128	per emh
-PSB091	no da qualche parte anche eh io aggiungo ala perché eh perché per mh
-PSB128	vai vai
+PSB128	no da qualche parte anche eh io aggiungo perché eh perché per mh
+PSB091	vai vai
 PSB128	colazione
-PSB129	si può mettere eh nella padella con un po' di burro con un po' di eh lardo
-PSB036	sì
-PSB128	mhmh
-PSB129	eh
-PSB128	friggere sì
-PSB128	sì fri~ friggere
-PSB129	e diventa
-PSB091	buonissimo
-PSB036	mamma mia mi fai
-PSB129	colazione col ladro interessan~
-PSB091	vabbè alla fine è un french toast cioè solo un po' più
-PSB036	lo so che per voi è
-PSB130	french toast un po' più
-PSB036	no io preferisco salato a colazione
-PSB130	sì sì sì
-PSB036	sì
-PSB129	colazione salata meglio di quella dolce
-PSB130	meno americano un po' più europa est
-PSB091	cioè magari mangiare l'uovo mangiare
-PSB130	mio marito è italiano no eh lui prime volte che veniva in ucraina aveva gli occhi quadrati capito quando noi si mettevamo a mangiare tipo salame a colazione no
-PSB091	no buoni
-PSB091	lui diceva ma come f~
-PSB129	ad~ adesso normale
-PSB091	ha perso ogni ritegno ne~
-PSB091	sì adesso però primi
-PSB129	prime volte
-PSB129	è quasi venuto forse
-PSB128	più o meno
-PSB127	brava
-PSB129	bravissima
-PSB128	sto imparando a fare i riccioli
-PSB091	brava
-PSB128	ha fatto la treccina
+PSB128	si può mettere eh nella padella con un po' di burro con un po' di eh lardo
 PSB129	sì
-PSB091	sì mi ha insegnato lei
-PSB129	brava
-PSB128	olena giusto
+PSB036	mhmh
+PSB128	eh
+PSB129	friggere sì
+PSB128	sì fri~ friggere
+PSB128	e diventa
+PSB129	buonissimo
+PSB091	mamma mia mi fai
+PSB036	colazione col ladro interessan~
+PSB129	vabbè alla fine è un french toast cioè solo un po' più
+PSB091	lo so che per voi è
+PSB036	french toast un po' più
+PSB130	no io preferisco salato a colazione
+PSB036	sì sì sì
 PSB130	sì
-PSB127	adesso ci provo anch'io
-PSB130	c'è c'è le famiglie chi lavorano tanto soprattutto a a terra perciò loro mangiano più pesante eh
-PSB036	sì
-PSB091	certo
+PSB036	colazione salata meglio di quella dolce
+PSB129	meno americano un po' più europa est
+PSB130	cioè magari mangiare l'uovo mangiare
+PSB091	mio marito è italiano no eh lui prime volte che veniva in ucraina aveva gli occhi quadrati capito quando noi si mettevamo a mangiare tipo salame a colazione no
+PSB130	no buoni
+PSB091	lui diceva ma come f~
+PSB091	ad~ adesso normale
+PSB129	ha perso ogni ritegno ne~
+PSB091	sì adesso però primi
+PSB091	prime volte
+PSB129	è quasi venuto forse
+PSB129	più o meno
+PSB128	brava
+PSB127	bravissima
+PSB129	sto imparando a fare i riccioli
+PSB128	brava
+PSB091	ha fatto la treccina
+PSB128	sì
+PSB129	sì mi ha insegnato lei
+PSB091	brava
+PSB129	giusto
+PSB128	sì
+PSB130	adesso ci provo anch'io
+PSB127	c'è c'è le famiglie chi lavorano tanto soprattutto a a terra perciò loro mangiano più pesante eh
 PSB130	sì
-PSB128	certo sì sì sì
+PSB036	certo
+PSB091	sì
+PSB130	certo sì sì sì
 PSB128	ma una cosa
 PSB128	c'era giusta dalla istoria
 PSB128	nostra
@@ -1007,635 +1006,633 @@ PSB128	almeno
 PSB128	quando andavano lavorare dovevano mangiare bene
 PSB128	e poi dopo una cosa giusta per il salute perché eh
 PSB128	riesce uscire
-PSB036	perché è stimola il f~ fegato che cosa
-PSB129	fegato
-PSB128	sì sì sì tipo le le proteine i grassi sì sì sì
-PSB091	dal lardo
+PSB128	perché è stimola il f~ fegato che cosa
+PSB036	fegato
+PSB129	sì sì sì tipo le le proteine i grassi sì sì sì
+PSB128	dal lardo
+PSB091	roba grassa
 PSB128	roba grassa
-PSB128	roba grassa
-PSB091	ecco per stimolare eh il eh felice
+PSB128	ecco per stimolare eh il eh felice
 PSB091	però li fai belli capito
-PSB128	okay
-PSB129	come si chia~ mh come si dice
-PSB128	il fegato
-PSB129	no eh i felici dove c'è il eh succo di felice
+PSB091	okay
+PSB128	come si chia~ mh come si dice
+PSB129	il fegato
+PSB128	no eh i felici dove c'è il eh succo di felice
 PSB129	no
-PSB086	ah
-PSB128	bile
-PSB086	felica f~ come si chiama
+PSB129	ah
 PSB086	bile
-PSB128	zhelchnyj
-PSB091	zhelch'
-PSB129	milza
+PSB128	felica f~ come si chiama
+PSB086	bile
+PSB086	žovčnyj
+PSB128	žovč
+PSB091	milza
+PSB129	la milza
 PSB127	la milza
-PSB086	la milza
-PSB128	bile bile
-PSB036	zhelchnyj
-PSB129	bile
-PSB128	ah la bile
-PSB130	bile
-PSB129	ecco
-PSB128	il fegato sì il fegato proprio
-PSB036	sotto il eh fegato c'è eh
-PSB129	cistifellea
-PSB036	la cistifellea
-PSB128	grande
-PSB129	co~ colicistite quando è grande
-PSB128	ah
-PSB129	per non venire colicistite è è questo si
-PSB128	okay
+PSB086	bile bile
+PSB128	žovčnyj
+PSB036	bile
+PSB129	ah la bile
+PSB128	bile
+PSB130	ecco
+PSB129	il fegato sì il fegato proprio
+PSB128	sotto il eh fegato c'è eh
+PSB036	cistifellea
+PSB129	la cistifellea
+PSB129	grande
+PSB128	co~ colicistite quando è grande
+PSB129	ah
+PSB128	per non venire colicistite è è questo si
+PSB129	okay
 PSB128	meglio mangiare alla mattina
 PSB128	ma da nostra paese
 PSB128	vecchi vecchi mh anni
 PSB128	tanti anni fa
-PSB086	loro mangiano così proprio
-PSB130	questo è perfetto eh
-PSB128	non so se l'ho fatto io
-PSB130	sì per mas~ eh
-PSB086	forse no forse non
-PSB129	chef chef
+PSB128	loro mangiano così proprio
+PSB086	questo è perfetto eh
+PSB130	non so se l'ho fatto io
+PSB128	sì per mas~ eh
+PSB130	forse no forse non
+PSB086	chef chef
 PSB129	per purificare
-PSB086	sì sì sì
-PSB129	questo e questo questo xxx eh
+PSB129	sì sì sì
+PSB086	questo e questo questo xxx eh
 PSB129	bene la prossima volta alla mia nutrizionista le dico
-PSB005	devo mangiare le cose il french toast la mattina perché stimola la cistifellea
-PSB091	come va
+PSB129	devo mangiare le cose il french toast la mattina perché stimola la cistifellea
+PSB005	come va
 PSB091	poi in ucrai~ guarda adesso le cose sono cambiate anche in ucraina però in
-PSB129	tanti anni fa in ucraina an~ antica no quando vedevano donna magra dicevano che non sta bene quindi donne vuole essere perché loro lavorare sui campi capito
+PSB091	tanti anni fa in ucraina an~ antica no quando vedevano donna magra dicevano che non sta bene quindi donne vuole essere perché loro lavorare sui campi capito
 PSB129	che non stava bene
-PSB036	sì
-PSB129	eh certo
-PSB130	avere il latte anche per i bambini sì
+PSB129	sì
+PSB036	eh certo
+PSB129	avere il latte anche per i bambini sì
 PSB130	ma infatti anche adesso cioè tendenzialmente
-PSB129	quelle persone non stan bene solo che abbiamo sta ossessione
-PSB036	infatti sì
+PSB130	quelle persone non stan bene solo che abbiamo sta ossessione
+PSB129	infatti sì
 PSB036	e per con che condimento si fanno questi di solito
 PSB036	con che condimento si fanno questi
-PSB128	che sugo
-PSB036	sul sugo
-PSB128	eh
-PSB036	eh non lo so ala fa
-PSB130	ah
-PSB128	ma di solito si mangiano solo così o no
-PSB036	ah no
-???	tanti suppongo
-PSB036	scusate devo guardare una cosa
-???	ah sì sì prego pre~
-PSB128	vado via scusa
+PSB036	che sugo
+PSB128	sul sugo
+PSB036	eh
+PSB128	eh non lo so fa
+PSB036	ah
+PSB130	ma di solito si mangiano solo così o no
+PSB128	ah no
+PSB036	tanti suppongo
+???	scusate devo guardare una cosa
+PSB036	ah sì sì prego pre~
+???	vado via scusa
 PSB128	la vostra casa
 PSB128	le vostre cose come st~
 PSB128	sapete
-PSB036	facciamo eh con la panna faccio
-PSB128	con la p~
-PSB129	eh anche eh yogurt
-PSB036	ah
-PSB128	sì
-PSB130	si può mettere chi piace
-PSB127	oh scusa
-PSB128	ancora uno due tre
-PSB036	poi con ciccioli
-PSB128	uh
-PSB130	con ciccioli
-PSB128	ah tipo pancetta queste cose qua
+PSB128	facciamo eh con la panna faccio
+PSB036	con la p~
+PSB128	eh anche eh yogurt
+PSB129	ah
+PSB036	sì
+PSB128	si può mettere chi piace
+PSB130	oh scusa
+PSB127	ancora uno due tre
+PSB128	poi con ciccioli
+PSB036	uh
+PSB128	con ciccioli
+PSB130	ah tipo pancetta queste cose qua
 PSB128	sì sì sì sì
 PSB128	con cipolla
-PSB091	si fa passare
-PSB128	adesso lavora solo fino là
-PSB005	si mette sopra
-PSB128	ma e perché il mattarello è corto
-PSB036	e basta
-PSB128	basta così de~
-PSB091	perché non è dolce
-PSB128	vai guarda ale vai sia di là che di qua ti faccio vedere
-PSB091	su dolce
-PSB128	sì brava brava
-PSB005	panna mh
-PSB129	ah la pasta italiana non si tira xxx
-PSB128	la panna acida
-PSB036	no no
-PSB130	panna ac~
-PSB005	la panna montata
-PSB128	solo di là
-PSB130	sì
-PSB129	la panna quella da dolci
-PSB005	montata
-PSB129	io però non so cioè non è che io so fare la pasta italiana
+PSB128	si fa passare
+PSB091	adesso lavora solo fino là
+PSB128	si mette sopra
+PSB005	ma e perché il mattarello è corto
+PSB128	e basta
+PSB036	basta così de~
+PSB128	perché non è dolce
+PSB091	vai guarda vai sia di là che di qua ti faccio vedere
+PSB128	su dolce
+PSB091	sì brava brava
+PSB128	panna mh
+PSB005	ah la pasta italiana non si tira xxx
+PSB129	la panna acida
+PSB128	no no
+PSB036	panna ac~
+PSB130	la panna montata
+PSB005	solo di là
+PSB128	sì
+PSB130	la panna quella da dolci
+PSB129	montata
+PSB005	io però non so cioè non è che io so fare la pasta italiana
 PSB129	sì
-PSB005	panna
+PSB129	panna
 PSB005	ma me l'hanno inculcato
-PSB130	così
-PSB127	ah e c'abbiamo la panna xxxx
-PSB005	a volta xxx male
-PSB091	ma ah così è molto più semplice
+PSB005	così
+PSB130	ah e c'abbiamo la panna xxxx
+PSB127	a volta xxx male
+PSB005	ma ah così è molto più semplice
 PSB091	infatti
-PSB005	aspetta
+PSB091	aspetta
 PSB005	quanto manca
-PSB091	tiro ancora
-PSB129	sì
-PSB086	ma dopo arriva anche qualcun altro a mangiare
-PSB129	perché
-PSB127	un po' tanti
-PSB129	per tutta l'università
-PSB130	esatto abbiamo un po' forse esagerato con le dosi
-PSB130	vabbè io mangio
-PSB129	io adesso ho fame
-PSB091	li porto al mio ragazzo a casa non aspetta altro
-PSB086	sì fanno che mangi tre e poi sei
-PSB091	sì sì che mi ricorda la la mia zia faceva xx che metti
-PSB128	soprattutto le nonne facevano
-PSB086	grassi
-PSB129	nel brodo eh questa qua
-PSB128	sì sì sì
-PSB086	ala ala ho pensato che tu vuoi preparare per queste persone che stanno sedute su
-PSB005	magari tu lavori tutta la mattina
-PSB127	di là
-PSB005	ah
-PSB128	tanto questo non xxx eh
-PSB005	ma dai
-PSB129	com'è che ci siamo spostati di qua perché voi avete finito la pasta
-PSB129	perché
-PSB036	noi abbiamo finito la pasta sì
-PSB005	eh sì
-PSB005	ah okay
-PSB091	okay
-PSB005	però ogni volta c'hanno da dire qualcosa
-PSB130	adesso la
-PSB005	adesso aspettiamo un pezzo di pasta
-PSB128	adesso la dividiamo e ve la passiamo
-PSB128	ma io penso che quelli eh potevano anche mh criticarla
-PSB129	perché non abituati mangiare sì
-PSB091	non sono abituati
-PSB128	ma non hanno niente di bello perché c'è sempre pensando
-PSB130	sì
-PSB129	sì perché poi sì
-PSB091	ma cosa c'è di là tipo un circolo
-PSB129	loro hanno già fatto eh ultima cena il sabato hanno chiesto portate i prodotti
-PSB005	cosa c'è di là tipo un circolo
-PSB130	circolo sì sì
-PSB130	un circolo
-PSB129	vizioso
-PSB091	anziani bolognesi
-PSB127	c'erano quelli che lavorano al bar xxx ti serve un altro po' di farina
-PSB130	mhmh
+PSB005	tiro ancora
 PSB091	sì
+PSB129	ma dopo arriva anche qualcun altro a mangiare
+PSB086	perché
+PSB129	un po' tanti
+PSB127	per tutta l'università
+PSB129	esatto abbiamo un po' forse esagerato con le dosi
+PSB130	vabbè io mangio
+PSB130	io adesso ho fame
+PSB129	li porto al mio ragazzo a casa non aspetta altro
+PSB091	sì fanno che mangi tre e poi sei
+PSB086	sì sì che mi ricorda la la mia zia faceva xx che metti
+PSB091	soprattutto le nonne facevano
+PSB128	grassi
+PSB086	nel brodo eh questa qua
+PSB129	sì sì sì
+PSB128	ho pensato che tu vuoi preparare per queste persone che stanno sedute su
+PSB086	magari tu lavori tutta la mattina
+PSB005	di là
+PSB129	ah
+PSB005	tanto questo non xxx eh
+PSB128	ma dai
+PSB005	com'è che ci siamo spostati di qua perché voi avete finito la pasta
+PSB129	perché
+PSB129	noi abbiamo finito la pasta sì
+PSB036	eh sì
+PSB005	ah okay
+PSB005	okay
+PSB091	però ogni volta c'hanno da dire qualcosa
+PSB005	adesso la
+PSB130	adesso aspettiamo un pezzo di pasta
+PSB005	adesso la dividiamo e ve la passiamo
+PSB128	ma io penso che quelli eh potevano anche mh criticarla
+PSB128	perché non abituati mangiare sì
+PSB129	non sono abituati
+PSB091	ma non hanno niente di bello perché c'è sempre pensando
+PSB128	sì
+PSB130	sì perché poi sì
+PSB129	ma cosa c'è di là tipo un circolo
+PSB091	loro hanno già fatto eh ultima cena il sabato hanno chiesto portate i prodotti
+PSB129	cosa c'è di là tipo un circolo
+PSB005	circolo sì sì
+PSB130	un circolo
+PSB130	vizioso
+PSB129	anziani bolognesi
+PSB091	c'erano quelli che lavorano al bar xxx ti serve un altro po' di farina
+PSB127	mhmh
+PSB130	sì
 PSB091	c'erano quelli al bar che lavoravano e guardavano cosa portavamo
 PSB091	noi abbiam proposto
-PSB005	volete che ah per amor di dio no poi alla fine ah che buon profumo
-PSB128	eh
+PSB091	volete che ah per amor di dio no poi alla fine ah che buon profumo
+PSB005	eh
 PSB128	ma c'è
-PSB091	qualche coltello qua
-PSB036	quando tornate
-PSB128	col~ eh
-PSB130	ala
-PSB091	ehm
-PSB128	ah
-PSB091	coltello c'è
-PSB128	c'è
-PSB091	e io faccio eh quadretti
-PSB128	no no non mi piace no no
+PSB128	qualche coltello qua
+PSB091	quando tornate
+PSB036	col~ eh
+PSB130	ehm
+PSB091	ah
+PSB128	coltello c'è
+PSB091	c'è
+PSB128	e io faccio eh quadretti
+PSB091	no no non mi piace no no
 PSB128	no
-PSB091	non ti piace
-PSB129	vai
-PSB086	bocciata proposta
-PSB129	abbiamo iniziato a rondelle quindi siamo corretti quelli a zig zag
-PSB086	sì
-PSB091	triangolo
-PSB005	l'impasto qua
-PSB091	ah niente quindi ci siam trasferiti qua
+PSB128	non ti piace
+PSB091	vai
+PSB129	bocciata proposta
+PSB086	abbiamo iniziato a rondelle quindi siamo corretti quelli a zig zag
+PSB129	sì
+PSB086	triangolo
+PSB091	l'impasto qua
+PSB005	ah niente quindi ci siam trasferiti qua
 PSB091	qua
-PSB005	qualcun altro viene tirare la sfoglia chi voglia
-PSB129	ah va bene
-PSB005	vai tiro io
+PSB091	qualcun altro viene tirare la sfoglia chi voglia
+PSB005	ah va bene
+PSB129	vai tiro io
 PSB005	eh dai
 PSB005	allora prendo questo
-PSB091	allora io riempio
-PSB130	vika dove hai messo sacchettino con la spazzatura
+PSB005	allora io riempio
+PSB091	dove hai messo sacchettino con la spazzatura
+PSB130	qua
 PSB036	qua
-PSB091	qua
-PSB005	di là okay
+PSB091	di là okay
 PSB005	ditemi quanta perché me lo son persa io questo non l'ho fatto
 PSB005	cos~ così
-PSB036	okay
-PSB091	vediamo eh
-PSB005	acqua bolle mettiamo a
-PSB129	cioè così è troppo
-PSB036	tiraggio sfoglia
-PSB129	vediamo le origini romagnole
-PSB036	le origini ma questa però non vale come origine romagnola perché qua c'è l'acqua
+PSB005	okay
+PSB036	vediamo eh
+PSB091	acqua bolle mettiamo a
+PSB005	cioè così è troppo
+PSB129	tiraggio sfoglia
+PSB036	vediamo le origini romagnole
+PSB129	le origini ma questa però non vale come origine romagnola perché qua c'è l'acqua
 PSB129	tutto diverso
-PSB036	non è di semola scuse
-PSB005	scuse scuse
-PSB130	sì sì certo
-PSB129	se vuoi il cambio io ci sono ma non garantisco
-PSB130	no no ma io per ora ci sono
-PSB129	anzi no ho già male alle braccia
+PSB129	non è di semola scuse
+PSB036	scuse scuse
+PSB005	sì sì certo
+PSB130	se vuoi il cambio io ci sono ma non garantisco
+PSB129	no no ma io per ora ci sono
+PSB130	anzi no ho già male alle braccia
 PSB129	ma in realtà
 PSB129	mia nonn~ cioè io anche a casa quando faccio la sfoglia dei tortellini ho un mattarello tipo largo così
-PSB130	perché
-PSB129	fai fai più forza
-PSB036	fa più forza
-PSB130	devo prendere per fare la cucina
-PSB005	eh sì esatto
-PSB129	ah eh ah così
+PSB129	perché
+PSB130	fai fai più forza
+PSB129	fa più forza
+PSB036	devo prendere per fare la cucina
+PSB130	eh sì esatto
+PSB005	ah eh ah così
 PSB129	bene
 PSB129	comunque devi venire anche te a questa cosa di programmazione che facciamo
-PSB036	stamattina a quella dove eh c'era anche ale stamattina
-PSB129	ah okay okay
+PSB129	stamattina a quella dove eh c'era anche stamattina
+PSB036	ah okay okay
 PSB129	facciamo robe di
-PSB130	dati così
-PSB129	ah ma vole~ quindi quando lo fate il venerdì
+PSB129	dati così
+PSB130	ah ma vole~ quindi quando lo fate il venerdì
 PSB129	gestiamo le ah
-PSB005	di solito il venerdì sì ora da gennaio dobbiamo scegliere una nuova data
+PSB129	di solito il venerdì sì ora da gennaio dobbiamo scegliere una nuova data
 PSB005	si secca subito perché è molto sottile
-PSB129	quindi ci vuole uno
-PSB005	e però
-PSB130	che metta il ripieno e in subito
-PSB129	ma posso o è una cosa del lilec
+PSB005	quindi ci vuole uno
+PSB129	e però
+PSB005	che metta il ripieno e in subito
+PSB130	ma posso o è una cosa del lilec
 PSB129	certo
-PSB005	no no no puoi è aperto a tutti
+PSB129	no no no puoi è aperto a tutti
 PSB005	uno che chiude
-PSB130	perché se no non si incolla più
-PSB129	vengo volentieri allora
-PSB005	sì sì sì
-PSB129	e si aprono
-PSB005	viene anche giorgia del ficlit
-PSB129	cioè proprio tipo super diretto deve essere
+PSB005	perché se no non si incolla più
+PSB130	vengo volentieri allora
+PSB129	sì sì sì
+PSB005	e si aprono
+PSB129	viene anche del ficlit
+PSB005	cioè proprio tipo super diretto deve essere
 PSB129	bianco bianchi
-PSB130	una giorgia
-PSB005	mh
-PSB130	sì sì poi viene eh esatto sì
-PSB129	una una dottoranda
-PSB005	eh un assegnista
-PSB086	cioè uno che taglia uno che mette il ripieno e dietro
-PSB129	a parte che con xxx
-PSB130	eh no comunque sì sì può venire
-PSB129	bionda con con gli
-PSB130	bionda sì
-PSB086	riccia
-PSB129	e dobbiamo fare qualche giro
-PSB005	mh no
-PSB129	eh ci vuole un sacco sì
-PSB129	però ale la la conosce
-PSB005	lavora su universita
+PSB129	una
+PSB130	mh
+PSB005	sì sì poi viene eh esatto sì
+PSB130	una una dottoranda
+PSB129	eh un assegnista
+PSB005	cioè uno che taglia uno che mette il ripieno e dietro
+PSB086	a parte che con xxx
+PSB129	eh no comunque sì sì può venire
+PSB130	bionda con con gli
+PSB129	bionda sì
+PSB130	riccia
+PSB086	e dobbiamo fare qualche giro
+PSB129	mh no
+PSB005	eh ci vuole un sacco sì
+PSB129	però la la conosce
+PSB129	lavora su universita
 PSB005	sì ci vuol tanto sì
-PSB130	ma infatti io non li faccio
-PSB129	vabbè comunque ci vengo volentieri
-PSB005	eh comunque sì sì sì eh cioè
-PSB129	dubito perché eh la tiri molto
-PSB130	cioè te lo dico senza ma perché può essere un'occasione anche per
-PSB005	ma assolutamente anche perché adesso sto iniziando a fare diciamo gli esperimenti computazionali
+PSB005	ma infatti io non li faccio
+PSB130	vabbè comunque ci vengo volentieri
+PSB129	eh comunque sì sì sì eh cioè
+PSB005	dubito perché eh la tiri molto
+PSB129	cioè te lo dico senza ma perché può essere un'occasione anche per
+PSB130	ma assolutamente anche perché adesso sto iniziando a fare diciamo gli esperimenti computazionali
 PSB005	ed è solo uova e farina non c'è altro
-PSB129	quindi la tiri molto è molto sottile e si secca subito
-PSB130	anche per lavorare insieme a qualcun altro
+PSB005	quindi la tiri molto è molto sottile e si secca subito
+PSB129	anche per lavorare insieme a qualcun altro
 PSB130	quindi
-PSB129	esatto
+PSB130	esatto
 PSB129	è divertente ah insomma
-PSB086	cioè limitatamente a quanto può essere divertente programmare no io mi diverto molto
+PSB129	cioè limitatamente a quanto può essere divertente programmare no io mi diverto molto
 PSB086	io ho fatto
-PSB036	tante volte magari xxxx
-PSB129	un'altra cosa
-PSB130	mi sono persa quanto sottile deve essere questa cosa molto di più credo tipo il doppio
+PSB086	tante volte magari xxxx
+PSB036	un'altra cosa
+PSB129	mi sono persa quanto sottile deve essere questa cosa molto di più credo tipo il doppio
 PSB130	secondo me sì
-PSB091	ala quan~ quanto dev'essere sottile
+PSB130	ala quan~ quanto dev'essere sottile
 PSB091	come va
-PSB129	ancora ancora
-PSB091	il doppio di così tipo
+PSB091	ancora ancora
+PSB129	il doppio di così tipo
 PSB091	sai cosa
 PSB091	per non
-PSB130	dov'è la farina
+PSB091	dov'è la farina
 PSB130	eh perché si restringe ogni
-PSB091	cioè
+PSB130	cioè
 PSB091	allora
-PSB129	prendi mano brava e mettiamo un po' di farina qua
-PSB036	un po' di farina vai
-PSB091	ci riprovo
+PSB091	prendi mano brava e mettiamo un po' di farina qua
+PSB129	un po' di farina vai
+PSB036	ci riprovo
 PSB091	vai così
 PSB091	brava
-PSB127	okay
-PSB005	questo è l'impasto b~ buono anche senza niente col burro
-PSB127	mh
-PSB127	tipo eh burro farfalle tipo quando noi eh già eh come si dice fini~ eh
-PSB086	fi~ mh fil~ eh come
-PSB127	rimane sì
-PSB005	ri~ sì
-PSB086	ah okay
-PSB127	sì rimane un pezzo sì
-PSB091	sì dopo facciamo tipo farfalle o qualcosa così
-PSB086	sì anche a casa mia si fa
-PSB129	e poi quello eh
-PSB086	è elastico
-PSB130	pasta bollita condisci con eh burro sì
-PSB127	eh esatto
-PSB128	sì
+PSB091	okay
+PSB127	questo è l'impasto b~ buono anche senza niente col burro
+PSB005	mh
+PSB127	tipo eh burro farfalle tipo quando noi eh già eh come si dice fini- eh
+PSB127	fi~ mh fil~ eh come
+PSB086	rimane sì
+PSB127	ri~ sì
+PSB005	ah okay
+PSB086	sì rimane un pezzo sì
+PSB127	sì dopo facciamo tipo farfalle o qualcosa così
+PSB091	sì anche a casa mia si fa
+PSB086	e poi quello eh
+PSB129	è elastico
+PSB086	pasta bollita condisci con eh burro sì
+PSB130	eh esatto
+PSB127	sì
 PSB128	si può mettere xxxx
-PSB129	perché qua si può mettere xxxx
-PSB005	ce la faremo
-PSB036	ah no
-PSB086	no
-PSB130	xx eh eh colore e origano x x x non abbiamo
-PSB036	ma sai che io adesso sto pensando forse una volta ho fattouna ricetta simile
-PSB086	no
-PSB036	adesso secondo sì perché moda eh dai come grandi chef usano un rametto di rosmarino
-PSB129	adesso sì però
-PSB005	qui c'è un capello
-PSB086	questo è troppo piccolo
-PSB129	per fare bello il piatto però xxxx nessuno
-PSB036	vabbè
-PSB005	effettivamente il rosmarino
-PSB036	no ma la salvia no non pensavo che fosse mediterranea
-PSB086	eh pensavo anch'io pensavo fosse
-PSB127	origano origano neanche
-PSB005	anche timo
-PSB036	sì ma sì quelli sono più tipici del mediterraneo sì
-PSB005	mediterraneo eh
-PSB086	però la salvia
+PSB128	perché qua si può mettere xxxx
+PSB129	ce la faremo
+PSB005	ah no
+PSB036	no
+PSB086	xx eh eh colore e origano x x x non abbiamo
+PSB130	ma sai che io adesso sto pensando forse una volta ho fatto una ricetta simile
+PSB036	no
+PSB086	adesso secondo sì perché moda eh dai come grandi chef usano un rametto di rosmarino
+PSB036	adesso sì però
+PSB129	qui c'è un capello
+PSB005	questo è troppo piccolo
+PSB086	per fare bello il piatto però xxxx nessuno
+PSB129	vabbè
+PSB036	effettivamente il rosmarino
+PSB005	no ma la salvia no non pensavo che fosse mediterranea
+PSB036	eh pensavo anch'io pensavo fosse
+PSB086	origano origano neanche
+PSB127	anche timo
+PSB005	sì ma sì quelli sono più tipici del mediterraneo sì
+PSB036	mediterraneo eh
+PSB005	però la salvia
 PSB086	la menta la menta poi
-PSB128	ehm
-PSB127	prezzemolo
-PSB086	aneto
-PSB128	abbiamo l'ane~ sì
-PSB005	xx xx xx
+PSB086	ehm
+PSB128	prezzemolo
+PSB127	aneto
+PSB086	abbiamo l'ane~ sì
+PSB128	xx xx xx
 PSB005	beh la la s~ in effetti la menta non l'ammazza nessuno
 PSB005	io avevo una pianta di menta e cioè è sopravvissuta a tutto
-PSB130	tutto il clima tutti i climi tutte le nevicate
-PSB086	che poi vedevo che tipo la appiccicavano un po' così
-PSB129	xx xx xx
-PSB005	non so se poi vai
-PSB127	sì sì
+PSB005	tutto il clima tutti i climi tutte le nevicate
+PSB130	che poi vedevo che tipo la appiccicavano un po' così
+PSB086	xx xx xx
+PSB129	non so se poi vai
+PSB005	sì sì
 PSB127	xxxxx
-PSB086	usiamo tanto
-PSB127	ah anche quello sì
-PSB130	xx xx
-PSB129	ma io son qua ad osservarti ma perché è molto bello
+PSB127	usiamo tanto
+PSB086	ah anche quello sì
+PSB127	xx xx
+PSB130	ma io son qua ad osservarti ma perché è molto bello
 PSB129	se vuoi ti do
 PSB129	ti
-PSB130	ti lascio la scelta
-PSB129	se hai voglia di fare io
-PSB130	a me piace
+PSB129	ti lascio la scelta
+PSB130	se hai voglia di fare io
+PSB129	a me piace
 PSB130	vai vai fai fai che io
-PSB129	mi stavo prendendo bene con la figura
-PSB130	eh ma ora
-PSB129	adesso ci ci siamo comunque fra un po' eh cioè un'altra passatina magari ma
-PSB091	ala ho bisogno di una consulenza
-PSB036	arrivo arrivo
+PSB130	mi stavo prendendo bene con la figura
+PSB129	eh ma ora
+PSB130	adesso ci ci siamo comunque fra un po' eh cioè un'altra passatina magari ma
+PSB129	ho bisogno di una consulenza
+PSB091	arrivo arrivo
 PSB036	sono pessimo eh
-PSB091	no ah rompo tutto
-PSB005	bravi
-PSB091	vuoi far cam~ se vuoi far cambio xx
+PSB036	no ah rompo tutto
+PSB091	bravi
+PSB005	vuoi far cam~ se vuoi far cambio xx
 PSB091	allora qua un pochino bordicino
-PSB129	madonna siete bravissi~
-PSB091	va bene
-PSB128	benissimo un pochino qua
-PSB091	se vuoi raffreddore
-PSB129	raffreddore
-PSB086	inverno
-PSB091	ala quando terminiamo con questo capolavoro facciamo una fo~ foto unica
-PSB086	certo
-PSB091	un ricordo con tutti
-PSB130	se ragazze vogliono io
-PSB129	certo
-PSB086	certo certo
-PSB091	siamo tutti bravi qua
-PSB129	poi se vi è piaciuto di fare ravioli se magari volete fare qualcos'altro con noi della cucina nostra
-PSB130	quando volete
-PSB091	perché no volentieri
-PSB129	sì
+PSB091	madonna siete bravissi~
+PSB129	va bene
+PSB091	benissimo un pochino qua
+PSB128	se vuoi raffreddore
+PSB091	raffreddore
+PSB129	inverno
+PSB086	quando terminiamo con questo capolavoro facciamo una fo~ foto unica
+PSB091	certo
+PSB086	un ricordo con tutti
+PSB091	se ragazze vogliono io
+PSB130	certo
+PSB129	certo certo
+PSB086	siamo tutti bravi qua
+PSB091	poi se vi è piaciuto di fare ravioli se magari volete fare qualcos'altro con noi della cucina nostra
+PSB129	quando volete
+PSB130	perché no volentieri
+PSB091	sì
 PSB129	sì a me piace tantissimo cucinare e imparare
-PSB091	cucine diverse piatti diversi
-PSB129	a me non a me non mi piace cucinare mamma mia odio
+PSB129	cucine diverse piatti diversi
+PSB091	a me non a me non mi piace cucinare mamma mia odio
 PSB129	però non sembra
-PSB130	cioè
-PSB129	sei molto brava in realtà
-PSB091	siete molto brave sì infatti
-PSB086	direi i miei tempi no
-PSB129	hai spiegato il motivo perché se non era brava non sposava nessuno eh
+PSB129	cioè
+PSB130	sei molto brava in realtà
+PSB129	siete molto brave sì infatti
+PSB091	direi i miei tempi no
+PSB086	hai spiegato il motivo perché se non era brava non sposava nessuno eh
 PSB091	sì infatti i tempi nostri
-PSB129	la nonna sempre diceva tu devi de~ saper tirare la fo~ la sfoglia devi saper fare questo se no non ti sposa nessuno
+PSB091	la nonna sempre diceva tu devi de~ saper tirare la fo~ la sfoglia devi saper fare questo se no non ti sposa nessuno
 PSB129	lo so lo so
-PSB091	anche da noi
+PSB129	anche da noi
 PSB091	mia figlia ormai è cresciuta no
-PSB086	diversamente
-PSB005	ricordo le notizie xxx
-PSB091	sì dicci dicci
-PSB086	okay
-PSB130	ala dice che non ha un xxx
-PSB086	chiediamo solo xxx piacere
-PSB129	ah eh bravissima e dico xxx
-PSB091	tagliamo
-PSB086	sì
-PSB091	perché abbiamo spiegato perché x x x x
-PSB005	facciamo un nadya vi fa vedere come si fa col coltello che voleva
-PSB129	ah no
-PSB086	sì
-PSB091	xxxxx non l'hai mai sentito il discorso
-PSB005	nadya
-PSB091	no
-PSB086	fai una con coltello dai così loro vedono che si fa anche con coltello perché no
-PSB091	ehm
-PSB086	perché no
-PSB036	xx che in italia xxx faccio questo xx moglie dice così
-PSB091	ah
-PSB128	mica prescritto il dottore che dovresti xxx
-PSB086	ma niente di che
-PSB129	fa male x senti a disagio di certo xx negata
-PSB128	va bene lo spessore
-PSB086	non lo s~ non sono l'esp~
-PSB129	io a casa non cucino xx mio marito tranquillamente
-PSB130	l'esper~ andrà bene
-PSB086	vabbè amen al massimo vengono un po' più spessi
-PSB005	ah sì sì cucino io lui cucino lei mangia insomma no
-PSB086	mhmh
-PSB005	per me è una cosa un po' strana no
-PSB086	ma in italia è anche abbastanza raro eh
-PSB005	raro ma sai quanti conosco a
-PSB086	no no è vero
-PSB005	fa anche le le torte quelle ciambelle
+PSB091	diversamente
+PSB086	ricordo le notizie xxx
+PSB005	sì dicci dicci
+PSB091	okay
+PSB086	dice che non ha un xxx
+PSB130	chiediamo solo xxx piacere
+PSB086	ah eh bravissima e dico xxx
+PSB129	tagliamo
+PSB091	sì
+PSB086	perché abbiamo spiegato perché x x x x
+PSB091	facciamo un vi fa vedere come si fa col coltello che voleva
+PSB005	ah no
+PSB129	sì
+PSB086	xxxxx non l'hai mai sentito il discorso
+PSB005	no
+PSB091	fai una con coltello dai così loro vedono che si fa anche con coltello perché no
+PSB086	ehm
+PSB091	perché no
+PSB086	xx che in italia xxx faccio questo xx moglie dice così
+PSB036	ah
+PSB091	mica prescritto il dottore che dovresti xxx
+PSB128	ma niente di che
+PSB086	fa male x senti a disagio di certo xx negata
+PSB129	va bene lo spessore
+PSB128	non lo s~ non sono l'esp~
+PSB086	io a casa non cucino xx mio marito tranquillamente
+PSB129	l'esper~ andrà bene
+PSB130	vabbè amen al massimo vengono un po' più spessi
+PSB086	ah sì sì cucino io lui cucino lei mangia insomma no
+PSB005	mhmh
+PSB086	per me è una cosa un po' strana no
+PSB005	ma in italia è anche abbastanza raro eh
+PSB086	raro ma sai quanti conosco a
+PSB005	no no è vero
+PSB086	fa anche le le torte quelle ciambelle
 PSB005	sì ma è raro però
-PSB086	no non lo so nella mia impressione è abbastanza raro
+PSB005	no non lo so nella mia impressione è abbastanza raro
 PSB086	ma eh eh poi ho detto che queste
-PSB127	da noi una vuole non vuole per forza deve cavarsi in qualche modo se no non la sposa nessuno
-PSB086	ma lo sai che son cambiate adesso cos~
-PSB005	prima de li
-PSB086	ma sì
-PSB091	dici
-PSB086	ma
-PSB091	mamma mia
-PSB005	ho la figlia che non sa fare niente
-PSB091	ma dai con una mamma come te non sa fare niente non è vero dai
+PSB086	da noi una vuole non vuole per forza deve cavarsi in qualche modo se no non la sposa nessuno
+PSB091	ma lo sai che son cambiate adesso cos~
+PSB086	prima de li
+PSB005	ma sì
+PSB086	dici
+PSB091	ma
+PSB086	mamma mia
+PSB091	ho la figlia che non sa fare niente
+PSB086	ma dai con una mamma come te non sa fare niente non è vero dai
 PSB091	no e dice non
-PSB086	ti giuro mi dice non mi importa neanche mh mi importa
-PSB091	e ti
-PSB091	e tuo ma~ tuo mari~ è sposata poi e dice tuo marito
-PSB005	se non gli piace cambia la moglie lui
-PSB086	ma lei vive qui
-PSB129	intanto si mangia
-PSB091	okay quindi ora fai quadrati tipo
-PSB127	vive in ucraina xxx è venuta a trovarmi però
-PSB130	sì
-PSB086	e si chiude come prima però
-PSB129	x x x qua~ qualcuno li fa eh
-PSB091	o a triangolo
-PSB128	sì mangiano panini tutti i giorni
-PSB091	no
-PSB128	sono felici xxx
+PSB091	ti giuro mi dice non mi importa neanche mh mi importa
+PSB086	e ti
+PSB091	e tuo ma~ tuo mari- è sposata poi e dice tuo marito
+PSB091	se non gli piace cambia la moglie lui
+PSB005	ma lei vive qui
+PSB086	intanto si mangia
+PSB129	okay quindi ora fai quadrati tipo
+PSB091	vive in ucraina xxx è venuta a trovarmi però
+PSB127	sì
+PSB130	e si chiude come prima però
+PSB086	x x x qua~ qualcuno li fa eh
+PSB129	o a triangolo
+PSB091	sì mangiano panini tutti i giorni
+PSB128	no
+PSB091	sono felici xxx
 PSB128	perché si chiude così
-PSB129	e si fa così
-PSB130	uguale okay
+PSB128	e si fa così
+PSB129	uguale okay
 PSB130	quindi vengono
-PSB128	esatto
-PSB005	triangolari arrivano sì
-PSB129	ma proprio niente neanche un piatto di pasta
-PSB130	okay
-PSB005	possiamo farle anche con un po' di
-PSB091	sì vai ma prenditelo tutto
+PSB130	esatto
+PSB128	triangolari arrivano sì
+PSB005	ma proprio niente neanche un piatto di pasta
+PSB129	okay
+PSB130	possiamo farle anche con un po' di
+PSB005	sì vai ma prenditelo tutto
 PSB091	no non mh fare con le patate le cose involtini sì però le cose tipo
 PSB091	cioè non gli piacciono
-PSB005	mh non mette sì no no
-PSB127	cose difficili no
-PSB005	se per lui va bene perché no
-PSB091	allora
-PSB127	sarà suocera che cucina bene gli porta già
-PSB091	sì sì
-PSB127	già roba pronta
-PSB005	non tutti sono fissati a cibo
-PSB127	quindi il lavandino unico è qua
-PSB130	meno male
-PSB127	non so se sia sufficiente forse è un po' poco
-PSB129	xxx
+PSB091	mh non mette sì no no
+PSB005	cose difficili no
+PSB127	se per lui va bene perché no
+PSB005	allora
+PSB091	sarà suocera che cucina bene gli porta già
+PSB127	sì sì
+PSB091	già roba pronta
+PSB127	non tutti sono fissati a cibo
+PSB005	quindi il lavandino unico è qua
+PSB127	meno male
+PSB130	non so se sia sufficiente forse è un po' poco
+PSB127	xxx
 PSB129	no no mi sembra okay
-PSB130	forse anche un po' di più
+PSB129	forse anche un po' di più
 PSB130	sì sì sì sì
-PSB127	xx eh
-PSB128	no no
-PSB127	è facile è facile
-PSB129	xxx
-PSB128	uguale
-PSB127	facile guar~
-PSB128	xxx
-PSB129	chiudo questo e poi dopo
-PSB128	e poi chiudi in mezzo
-PSB129	sì
-PSB091	okay
-PSB129	per fortuna che uomini adesso sono cambiati non sono di xx tempi
-PSB127	ecco
-PSB091	certo
-PSB127	perché una v~ una volta donne non lavoravano stavano a casa e cucinavano cucinavano
-PSB129	da mattina fino a sera
-PSB091	poi fai i riccioli anche qui
+PSB130	xx eh
+PSB127	no no
+PSB128	è facile è facile
+PSB127	xxx
+PSB129	uguale
+PSB128	facile guar~
+PSB127	xxx
+PSB128	chiudo questo e poi dopo
+PSB129	e poi chiudi in mezzo
+PSB128	sì
+PSB129	okay
+PSB091	per fortuna che uomini adesso sono cambiati non sono di xx tempi
+PSB129	ecco
+PSB127	certo
+PSB091	perché una v~ una volta donne non lavoravano stavano a casa e cucinavano cucinavano
+PSB127	da mattina fino a sera
+PSB129	poi fai i riccioli anche qui
 PSB091	sempre
-PSB128	al fuoco eterno come diceva il fuoco eterno
-PSB091	sì
-PSB005	il fuoco era sempre acceso perché tu dovevi sempre cucinare
+PSB091	al fuoco eterno come diceva il fuoco eterno
+PSB128	sì
+PSB091	il fuoco era sempre acceso perché tu dovevi sempre cucinare
 PSB005	ma adesso mia nonna che ha ottanta cinque anni circa
 PSB005	è in li~ lite costante con mio nonno
 PSB005	che ne ha novanta
 PSB005	perché
-PSB127	improvvisamente improvvisamente no negli ultimi vent'anni diciamo che però lei non si è ancora rassegnata
-PSB005	mh
+PSB005	improvvisamente improvvisamente no negli ultimi vent'anni diciamo che però lei non si è ancora rassegnata
+PSB127	mh
 PSB005	lui cioè
-PSB129	fa la spe~ cioè fa le decide che cosa si mangia è in giro in casa mette le cose nel eh nel frigo lui
-PSB036	fa eh
-PSB005	cioè è in pensione nel senso
+PSB005	fa la spe~ cioè fa le decide che cosa si mangia è in giro in casa mette le cose nel eh nel frigo lui
+PSB129	fa eh
+PSB129	cioè è in pensione nel senso
 PSB005	sposta le cose e questa cosa mia nonna l'ha fatta impazzire
-PSB129	perché prima decideva tutto lei no
-PSB086	sì sì
-PSB005	e e nonno dov'era
-PSB086	perché lavorava andava in g~ non c'era mai no c'era veniva a casa la sera ma non
+PSB005	perché prima decideva tutto lei no
+PSB129	sì sì
+PSB086	e e nonno dov'era
+PSB005	perché lavorava andava in g~ non c'era mai no c'era veniva a casa la sera ma non
 PSB086	ah
-PSB005	comunque novant'anni è da un po' che non lavora eh
-PSB036	però è un po' che lo so ma mia nonna non si è ancora ripresa
-PSB005	ripresa
-PSB086	da quest~ sì poi sai con l'età
-PSB005	sì sì sì poi si dimentica
-PSB129	è difficile adattarsi ai cambiamenti
-PSB086	qui forse mi serve un po' di più
-PSB130	no poi anche se gli menti
-PSB005	sì qua ne ho messo una balocca gigante
+PSB086	comunque novant'anni è da un po' che non lavora eh
+PSB005	però è un po' che lo so ma mia nonna non si è ancora ripresa
+PSB036	ripresa
+PSB005	da quest~ sì poi sai con l'età
+PSB086	sì sì sì poi si dimentica
+PSB005	è difficile adattarsi ai cambiamenti
+PSB129	qui forse mi serve un po' di più
+PSB086	no poi anche se gli menti
+PSB130	sì qua ne ho messo una balocca gigante
 PSB005	sì
-PSB129	poi quando stavano meglio andavano anche in viaggi magari xxxx
-PSB130	una balocca
-PSB005	una balocca non l'avevo mai sentito
+PSB005	poi quando stavano meglio andavano anche in viaggi magari xxxx
+PSB129	una balocca
+PSB129	una balocca non l'avevo mai sentito
 PSB005	cioè c'era più movimento da qual~
-PSB129	da dieci anni almeno sono sempre a casa
-PSB005	una balocca gigante
-PSB086	perché non cioè
-PSB129	lui ottantacinque lei ottanta
-PSB005	ma tu sei proprio bolognese
-PSB130	no le~ lui ne ha ottantacinque lei lui novanta
-PSB129	no eh io son veneta
+PSB005	da dieci anni almeno sono sempre a casa
+PSB129	una balocca gigante
+PSB005	perché non cioè
+PSB086	lui ottantacinque lei ottanta
+PSB129	ma tu sei proprio bolognese
+PSB005	no le~ lui ne ha ottantacinque lei lui novanta
+PSB130	no eh io son veneta
 PSB129	e di dove sei ah non lo so io
-PSB005	se~ scusa ora mi è chiaro
-PSB129	eh dieci anni fa
-PSB005	da ora
-PSB130	quindici forse quindici sì
+PSB129	se~ scusa ora mi è chiaro
+PSB005	eh dieci anni fa
+PSB129	da ora
+PSB005	quindici forse quindici sì
 PSB130	no ma dico perché
-PSB005	cioè mi mi hai stupita perché di solito tutti mi mi identificano subito dicono ma tu non sei bolognese no
-PSB129	secondo me da quindici anni hanno cominciato a stare molto a casa
-PSB086	hai ragione
-PSB130	e si sono resi conto
+PSB130	cioè mi mi hai stupita perché di solito tutti mi mi identificano subito dicono ma tu non sei bolognese no
+PSB005	secondo me da quindici anni hanno cominciato a stare molto a casa
+PSB129	hai ragione
+PSB086	e si sono resi conto
 PSB130	no no io so
-PSB005	mh vicenza bassano del grappa
-PSB129	quindi xx x sì
-PSB086	ah okay
-PSB129	x x x x
-PSB005	effettivamente dal cognome potevo arrivarci
-PSB129	sì sì sì sì sì
-PSB005	cioè non era proprio un cognome tipico
-PSB130	quindi mia nonna mi telefona e piange sì sì no gravissimo ma eh
-PSB130	problemi del tipo
-PSB086	no sì eh non sono una veneta che mi sento proprio eh veneto come
-PSB005	spostato zucchero
-PSB129	sì sì sì sì
-PSB130	no intendo però sai un sacco di lessico bolognese però
-PSB036	i veneti fatto
-PSB128	xx xx xx che sono andati entrambi in pensione e prima lavoravano tutto il giorno perciò si vedevano la sera e basta
+PSB130	mh vicenza bassano del grappa
+PSB005	quindi xx x sì
+PSB129	ah okay
+PSB086	x x x x
+PSB129	effettivamente dal cognome potevo arrivarci
+PSB005	sì sì sì sì sì
+PSB129	cioè non era proprio un cognome tipico
+PSB005	quindi mia nonna mi telefona e piange sì sì no gravissimo ma eh
+PSB086	problemi del tipo
+PSB130	no sì eh non sono una veneta che mi sento proprio eh veneto come
+PSB086	spostato zucchero
+PSB005	sì sì sì sì
+PSB129	no intendo però sai un sacco di lessico bolognese però
+PSB130	i veneti fatto
+PSB036	xx xx xx che sono andati entrambi in pensione e prima lavoravano tutto il giorno perciò si vedevano la sera e basta
 PSB128	e quale eh piatto preferite
-PSB130	in veneto
+PSB128	in veneto
+PSB130	il baccalà
 PSB128	il baccalà
-PSB036	il baccalà
-PSB130	poi quando sono andati in pensione
-PSB036	quello quello tipico cioè mh
-PSB130	xxx ogni tanto a casa quello che è a casa fa tutto che
+PSB036	poi quando sono andati in pensione
+PSB130	quello quello tipico cioè mh
+PSB036	xxx ogni tanto a casa quello che è a casa fa tutto che
 PSB130	delle della zona diciamo che io emh
-PSB036	abito in pro~ cioè i miei ormai perché io non abito più lì in provincia di vicenza
-PSB086	terribile
-PSB130	xx xx
-PSB036	va tanto il baccalà alla vicentina
-PSB086	sì sì sì no perché poi cominciano a tirarmi dentro nelle loro cose xx no
-PSB130	mhmh
+PSB130	abito in pro~ cioè i miei ormai perché io non abito più lì in provincia di vicenza
+PSB036	terribile
+PSB086	xx xx
+PSB130	va tanto il baccalà alla vicentina
+PSB036	sì sì sì no perché poi cominciano a tirarmi dentro nelle loro cose xx no
+PSB086	mhmh
 PSB130	che è lo stoccafisso
-PSB036	lasciato a bagno
-PSB005	no no no no no no
-PSB130	cioè anche sei solo
-PSB005	due tre giorni col latte e poi è una cottura lenta
-PSB036	non hai fratelli
+PSB130	lasciato a bagno
+PSB036	no no no no no no
+PSB005	cioè anche sei solo
+PSB130	due tre giorni col latte e poi è una cottura lenta
+PSB005	non hai fratelli
 PSB036	no
-PSB086	con latte
-PSB036	ah
-PSB130	no son figlio unico
+PSB128	con latte
+PSB086	ah
+PSB036	no son figlio unico
 PSB130	c'è chi lo lava con l'acqua cioè
 PSB130	perché lo compri secco
 PSB130	e va reidratato
 PSB130	c'è chi fa con l'acqua c'è chi fa col latte il latte toglie un po' diciamo
-PSB129	quel sapore di pesce proprio
-PSB130	sì
-PSB036	e poi lo si mette mh
-PSB130	per ora tutto a posto sì
+PSB130	quel sapore di pesce proprio
+PSB129	sì
+PSB130	e poi lo si mette mh
+PSB036	per ora tutto a posto sì
 PSB130	lo si spezzetta un po'
 PSB130	con un po' di farina
 PSB130	mh burro
 PSB130	cipolla e lo si lascia andare andare andare
-PSB128	e poi lo si mangia con la polenta
-PSB130	anche con le patate con la polenta
-PSB128	sì
-PSB127	chi piace
-PSB130	xxx
-PSB128	quello è diciamo il cibo sì delle mie zone
+PSB130	e poi lo si mangia con la polenta
+PSB128	anche con le patate con la polenta
+PSB130	sì
+PSB128	chi piace
+PSB127	xxx
+PSB130	quello è diciamo il cibo sì delle mie zone
 PSB128	più preferito
 PSB128	per le feste o
-PSB130	quando voglio
-PSB128	allora adess~ bah adesso si mangia un po' sempre
-PSB130	sì
+PSB128	quando voglio
+PSB130	allora adess~ bah adesso si mangia un po' sempre
+PSB128	sì
 PSB130	diciamo
 PSB130	diciamo che mh
 PSB130	è un

@@ -4,61 +4,61 @@ PSB005	okay
 PSB005	perfetto
 PSB005	allora
 PSB005	quindi tu conosci questa scuola: {P} perché?
-PSB064	questo: centro sociale
-PSB005	come ho: conosciuto quest~
-PSB064	sì
+PSB005	questo: centro sociale
+PSB064	come ho: conosciuto quest~
+PSB005	sì
 PSB064	perché ero::
-PSB005	me l'ha consigliata un {P} °l'amico°.
+PSB064	me l'ha consigliata un {P} °l'amico°.
 PSB005	okay.
-PSB064	e poi sei venuto per quanto tempo:?
-PSB005	d[all~] dal quattro {P} ottobre {P} fino a adesso.
+PSB005	e poi sei venuto per quanto tempo:?
+PSB064	d[all~] dal quattro {P} ottobre {P} fino a adesso.
 PSB005	[da]
-PSB064	di quest'anno?
-PSB005	sì.
+PSB005	di quest'anno?
+PSB064	sì.
 PSB005	okay.
 PSB005	e come sono le lezioni come: mh?
 PSB005	cosa si fa: mh?
-PSB064	fate altre attività {P} qui?
+PSB005	fate altre attività {P} qui?
 PSB064	sì si fanno anche altre attività ma normalmente facciamo lezione di grammatica:
-PSB005	queste cose.
+PSB064	queste cose.
 PSB005	okay e ti piacciono?
-PSB064	ti diverti o:?
+PSB005	ti diverti o:?
 PSB064	e:hm
 PSB064	sì
-PSB005	perché non facciamo solo lezione {P} parliamo, chiaccheriamo
-PSB064	°okay° e tu in quale classe eri?
+PSB064	perché non facciamo solo lezione {P} parliamo, chiaccheriamo
+PSB005	°okay° e tu in quale classe eri?
 PSB064	prima: ero in: {P} alfa: uno,
 PSB064	dopo: alfa quattro,
 PSB064	direttamente.
 PSB064	dopo:
-PSB005	ero in {P} intermedio.
+PSB064	ero in {P} intermedio.
 PSB005	°ma° quindi
-PSB064	hai fatto {P} i salti:
-PSB005	s:ì ho fatto salti.
-PSB064	perché hai studiato molto o:?
-PSB005	perché: vedo che {P} di queste cose {P} si ripetono,
-PSB064	[mhmh]
-PSB005	[quindi de]vo °(vabbè)° {P} saltare
-PSB064	okay. [okay]. okay.
-PSB005	[°per forza°]
-PSB064	e capita tante volte {P} che i ragazzi cambiano classe? o: {P} solo tu.
-PSB005	c'è tanti: {P} persone che saltano.
+PSB005	hai fatto {P} i salti:
+PSB064	s:ì ho fatto salti.
+PSB005	perché hai studiato molto o:?
+PSB064	perché: vedo che {P} di queste cose {P} si ripetono,
+PSB005	[mhmh]
+PSB064	[quindi de]vo °(vabbè)° {P} saltare
+PSB005	okay. [okay]. okay.
+PSB064	[°per forza°]
+PSB005	e capita tante volte {P} che i ragazzi cambiano classe? o: {P} solo tu.
+PSB064	c'è tanti: {P} persone che saltano.
 PSB005	mhmh okay.
 PSB005	°(okay)°
 PSB005	e:hm: va bene.
-PSB064	e invece {P} la città {P} di bologna ti piace?
-PSB005	non tanto.
+PSB005	e invece {P} la città {P} di bologna ti piace?
+PSB064	non tanto.
 PSB005	vuoi: dirmi come mai:?
-PSB064	voi dirmi perché [o:: meglio di]
+PSB005	voi dirmi perché [o:: meglio di]
 PSB064	[è] piccola è:
 PSB064	non: {P} tanto piccola e non tanto {P} grande,
 PSB064	e:
-PSB005	non c'è il mare.
-PSB064	°questo è un problema°.
-PSB005	sì.
-PSB064	preferiresti trasferirti in una città: con il mare?
-PSB005	sì.
-PSB064	c'hai pensato seriamente: o no?
+PSB064	non c'è il mare.
+PSB005	°questo è un problema°.
+PSB064	sì.
+PSB005	preferiresti trasferirti in una città: con il mare?
+PSB064	sì.
+PSB005	c'hai pensato seriamente: o no?
 PSB064	non ho pensato seriamente ma,
 PSB064	mi piacerebbe:
 PSB064	avere una macchina per
@@ -68,167 +68,167 @@ PSB064	andare al mare qualsiasi g~ g~ giorno,
 PSB064	(ora)
 PSB064	O
 PSB064	mi tras:ferisco a:
-PSB005	una città dove c'è il mare.
-PSB064	°mh° ne hai pensata una in particolare [o:]?
+PSB064	una città dove c'è il mare.
+PSB005	°mh° ne hai pensata una in particolare [o:]?
 PSB064	[n]o:
 PSB064	non ho: e:h
-PSB005	non ho pensato (a una)
-PSB064	ok[ay]
-PSB005	[una] città.
+PSB064	non ho pensato (a una)
+PSB005	ok[ay]
+PSB064	[una] città.
 PSB005	°okay°
 PSB005	e:
-PSB064	proprio non ti piace nessuna zona di bologna o: c'è qualche zona che ti piace di più:?
+PSB005	proprio non ti piace nessuna zona di bologna o: c'è qualche zona che ti piace di più:?
 PSB064	mi piace di più irnerio.
-PSB005	zo[na °irne]rio°
+PSB064	zo[na °irne]rio°
 PSB005	[okay]
-PSB064	perché?
+PSB005	perché?
 PSB064	c'è molta vita: di là:
 PSB064	c'è:
 PSB064	tutto vicino, c'è:
-PSB005	è: una zona molto: {P} multicultural[e]:.
+PSB064	è: una zona molto: {P} multicultural[e]:.
 PSB005	[sì]
-PSB064	tipo che p~ c(io)è {P} hai degli amici di tanti paesi:?
+PSB005	tipo che p~ c(io)è {P} hai degli amici di tanti paesi:?
 PSB064	io ce l'ho là tanti amici di: tanti paesi.
 PSB064	ho amici italiani, ho amici $bangalesi, ho ami~ amici da {P} dall'egitto, da tunisia,
-PSB005	anche dal senegal, [dal] °da tutte parti°
+PSB064	anche dal senegal, [dal] °da tutte parti°
 PSB005	[mhmh]
 PSB005	mhmh e come li con~ cioè come li hai conosciuti?
-PSB064	qui? o in gir[o:]?
-PSB064	[in] giro {P} qua,
+PSB005	qui? o in gir[o:]?
+PSB064	[in] giro {P} , qua,
 PSB064	qualsiasi.
-PSB005	faccio amici {P} sempre io.
+PSB064	faccio amici {P} . sempre io.
 PSB005	{ride} °okay° facilmente?
 PSB005	okay {P} okay.
-PSB064	ma con chi ti trovi meglio di solito?
-PSB005	con nessuno.
-PSB064	con tutti.
-PSB005	con tutti o con nessuno. poi:
-PSB064	ma in: che lingua vi parlate?
+PSB005	ma con chi ti trovi meglio di solito?
+PSB064	con nessuno.
+PSB005	con tutti.
+PSB064	con tutti o con nessuno. poi:
+PSB005	ma in: che lingua vi parlate?
 PSB064	e: dipende a: che: persona parlo con.
 PSB064	parl(a) (il) francese con~ con sanga~ senegalesi,
 PSB064	l'arabo con gli egiziani e tunisini,
 PSB064	italiano con $bangalesi,
-PSB005	anche l'inglese,
-PSB064	mhmh
+PSB064	anche l'inglese,
+PSB005	mhmh
 PSB064	e: nigeria:ni parlo con:
-PSB005	all'inglese, con l'inglese.
-PSB064	°sì° quale lingua: ti senti più: {P} forte.
-PSB063	sono forte: in~ e~ in quale lingua?
-PSB005	oltr[e all'a]rabo.
-PSB064	[sì]
+PSB064	all'inglese, con l'inglese.
+PSB005	°sì° quale lingua: ti senti più: {P} forte.
+PSB064	sono forte: in~ e~ in quale lingua?
+PSB063	oltr[e all'a]rabo.
+PSB005	[sì]
 PSB064	{ride}
-PSB005	oltre l'arabo?
-PSB064	c(io)è comunque l'arabo è la prima?
-PSB005	s:ì è la °prima°
-PSB064	mhmh
+PSB064	oltre l'arabo?
+PSB005	c(io)è comunque l'arabo è la prima?
+PSB064	s:ì è la °prima°
+PSB005	mhmh
 PSB064	nel secondo: è e~ e~ la seconda è nella lista è:
 PSB064	l'italiano adesso sì.
-PSB005	sono più $confortabile da
-PSB064	mhmh
-PSB005	parlare: {P} [italiano]
+PSB064	sono più $confortabile da
+PSB005	mhmh
+PSB064	parlare: {P} [italiano]
 PSB005	[sì sì sì {P} sì sì].
-PSB064	però comunque p~ hai occasione di parlare tante lingue.
-PSB005	sì:
-PSB064	durante tutti i g~ cioè {P} tutti i giorni parli diverse lingue?
-PSB005	sì {P} tutti i giorni di eh parlo diverse lingue.
-PSB064	di solito come fun[ziona]?
+PSB005	però comunque p~ hai occasione di parlare tante lingue.
+PSB064	sì:
+PSB005	durante tutti i g~ cioè {P} tutti i giorni parli diverse lingue?
+PSB064	sì {P} tutti i giorni di eh parlo diverse lingue.
+PSB005	di solito come fun[ziona]?
 PSB064	[ogni ora]
-PSB005	ogni o[ra].
-PSB064	[e:] esatto {P} sono curiosa di sapere cioè tu ti svegli la mattina,
+PSB064	ogni o[ra].
+PSB005	[e:] esatto {P} sono curiosa di sapere cioè tu ti svegli la mattina,
 PSB064	parlo::
-PSB005	in dialetto.
+PSB064	in dialetto.
 PSB005	mh mh
-PSB064	[con] i: {P} tuoi compagni di ca[sa]?
+PSB005	[con] i: {P} tuoi compagni di ca[sa]?
 PSB064	[e]
-PSB005	[s:ì] dipende anche: con chi parlo.
-PSB064	mh
-PSB064	perché: gli egiziani non parlano come: tunisini.
-PSB005	marocchino parla (come:)
-PSB005	°sì sì°
-PSB064	poi: dopo {P} vai al lavoro e che lingua parli?
-PSB064	parlo::
-PSB005	un ottanta per cento in~ in italiano.
-PSB064	°okay°
-PSB005	l'altro vente~ venti per cento {P} in inglese.
+PSB064	[s:ì] dipende anche: con chi parlo.
 PSB005	mh
-PSB064	con {P} turis[ti]?
-PSB064	[p]erché: francesi non vogliono parlare il francese.
-PSB005	°sono°
+PSB064	perché: gli egiziani non parlano come: tunisini.
+PSB064	marocchino parla (come:)
+PSB005	°sì sì°
+PSB005	poi: dopo {P} vai al lavoro e che lingua parli?
+PSB064	parlo::
+PSB064	un ottanta per cento in~ in italiano.
+PSB005	°okay°
+PSB064	l'altro vente~ venti per cento {P} in inglese.
+PSB005	mh
+PSB005	con {P} turis[ti]?
+PSB064	[p]eré: francesi non vogliono parlare il francese.
+PSB064	°sono°
 PSB005	che strano perché invece c'è {P} noi abbiamo uno stereotipo
 PSB005	non so dimm~ anche tu come la~ come la pensi, ma
 PSB005	abbiamo lo stereotipo che i francesi parlano solo francese.
-PSB063	invece no?
-PSB064	[e:h]
-PSB063	[par]la anche inglese.
+PSB005	invece no?
+PSB063	[e:h]
+PSB064	[par]la anche inglese.
 PSB063	allora {P} io vado in francia: almeno una volta l'anno {P} per una settimana o due {P} di solito,
 PSB063	e::hm {P} con il teatro {P} così,
 PSB063	e
 PSB063	ho avuto modo di sperimentare il fatto che {P} eh i francesi m:h
-PSB005	preferiscono parlare francese ma se la persona con cui stanno parlando lo parla {P} bene {P} [lo] parla nel loro modo.
-PSB063	[sì eh]
+PSB063	preferiscono parlare francese ma se la persona con cui stanno parlando lo parla {P} bene {P} [lo] parla nel loro modo.
+PSB005	[sì eh]
 PSB063	e:h perché: altimenti sono molto: {P} pignoli
 PSB063	tra virgolette
-PSB063	sull:~ e:hm
+PSB063	sull:- e:hm
 PSB063	nel senso che se tu gli dici una parola {P} in francese {P} che però ha un accento sbagliato
-PSB005	loro o non la capiscono o fanno finta di non capirla ma comunque:
-PSB063	[°mhmh°]
+PSB063	loro o non la capiscono o fanno finta di non capirla ma comunque:
+PSB005	[°mhmh°]
 PSB063	[è diffi]cile la comunicazione.
-PSB005	xxx
-PSB064	sì sì quindi i turisti {P} che vengono al bar, al ristorante, parlano tutti inglese con te {P} [di] solito.
-PSB005	[sì sì]
-PSB064	°sì sì c~ e~° compresi i francesi °quindi, sì°?
+PSB063	xxx
+PSB005	sì sì quindi i turisti {P} che vengono al bar, al ristorante, parlano tutti inglese con te {P} [di] solito.
+PSB064	[sì sì]
+PSB005	°sì sì c~ e~° compresi i francesi °quindi, sì°?
 PSB064	anche francesi eh {P} perché
 PSB064	e::hm
 PSB064	hanno incontrato tanta gente che {P} non parla bene il francese {P} per quello:
-PSB005	l'inglese è più facile per e:h
-PSB064	mhmh
-PSB005	per e:h {P} falici~ facilitare la vita.
+PSB064	l'inglese è più facile per e:h
+PSB005	mhmh
+PSB064	per e:h {P} falici~ facilitare la vita.
 PSB005	sì sì sì
-PSB063	cer[to]
+PSB005	cer[to]
 PSB063	[e] invece posso farti una domanda io?
 PSB063	ehm:
 PSB063	ma quindi {P} in arabo {P} ci sono diversi dialetti?
-PSB064	[in] base alla nazionalità?
+PSB063	[in] base alla nazionalità?
 PSB064	[s:ì]
-PSB063	in base alla nazionalità sì.
-PSB064	quindi l'arabo: marocchino {P} è diverso dall'arabo: che si parla [in egit]to?
+PSB064	in base alla nazionalità sì.
+PSB063	quindi l'arabo: marocchino {P} è diverso dall'arabo: che si parla [in egit]to?
 PSB064	[sì eh] {P} dipende a: {P} quale colonizzazione era er~ il pae:se,
 PSB064	e: dipende anche:
-PSB064	come loro parlano: nel~
-PSB064	ne:l~
-PSB063	nel~ nella parte palestina:, #lebanon:,
-PSB064	mhmh
+PSB064	come loro parlano: nell':
+PSB064	ne:ll':~
+PSB064	nel~ nella parte palestina:, #lebanon:,
+PSB063	mhmh
 PSB064	e:hm
 PSB064	parlano in un {P} modo.
-PSB063	e nella parte di #saudi #arabia e: l'emirati
-PSB064	parlano in un altr[o]
-PSB063	[eh in] altro modo.
-PSB064	ma tu [lo capisci]?
+PSB064	e nella parte di #saudi #arabia e: l'emirati
+PSB063	parlano in un altr[o]
+PSB064	[eh in] altro modo.
+PSB063	ma tu [lo capisci]?
 PSB064	[EGIZIANI],
 PSB064	sì {P} capisco tutto.
 PSB064	non: e~ non la~ il dialetto di~
 PSB064	più difficile è {P} di kuwait.
-PSB005	il più difficile è del marocchi[no]
+PSB064	il più difficile è del marocchi[no]
 PSB005	[eh] vedi?
 PSB005	ah, come mai?
-PSB064	perché?
-PSB064	pe:~ perché loro hanno inventato un eh {P} uno {P} $dell:i parole
-PSB063	loro l'hanno inventate non {P}[ no]n hanno nessun relazione in:~
+PSB005	perché?
+PSB064	pe:- perché loro hanno inventato un eh {P} uno {P} $dell:i parole
+PSB064	loro l'hanno inventate non [{P} no]n hanno nessun relazione in:-
 PSB063	[mh]
-PSB064	con le altre {P} e gli altri dia[le~]
-PSB005	[con nessun] lingua, con francese, con: {P} lingue latine, con eh: l'arabo, con niente.
+PSB063	con le altre {P} e gli altri dia[le~]
+PSB064	[con nessun] lingua, con francese, con: {P} lingue latine, con eh: l'arabo, con niente.
 PSB005	stranissimo. {P} non l'ho mai sentito questo adesso faccio delle ricerche.
-PSB064	ma {P} sin~ {P} ti capita di incontrare delle persone del kuwait?
+PSB005	ma {P} sin~ {P} ti capita di incontrare delle persone del kuwait?
 PSB064	no ma:
-PSB005	ho sentito in un {P} film o:
-PSB064	ah okay
-PSB005	(perché:) non ho {P} non ho capito nien[te].
+PSB064	ho sentito in un {P} film o:
+PSB005	ah okay
+PSB064	(perché:) non ho {P} non ho capito nien[te].
 PSB005	[sì] sì sì
 PSB005	e:hm
-PSB064	diciamo nella parte del nord africa {P} vi capite abbastanza bene,
-PSB005	possiamo {P} comunicare al~ {P} [me]no male.
+PSB005	diciamo nella parte del nord africa {P} vi capite abbastanza bene,
+PSB064	possiamo {P} comunicare al~ {P} [me]no male.
 PSB005	[sì]
-PSB064	più o meno {P} sì.
+PSB005	più o meno {P} sì.
 PSB064	più o meno.
 PSB064	ma:
 PSB064	ma non: {P} se non parliamo {P} se noi parliamo tanto,
@@ -236,252 +236,252 @@ PSB064	in un: per un lungo periodo non cap~ $capisciamo tutto che: loro dicono.
 PSB064	e:
 PSB064	noi e:hm
 PSB064	algeri:ni, e: marocchini possiamo parlare perfettamente
-PSB005	bene non abbiamo nessun problema perché {P} c'è similarità di novanta per cento.
-PSB064	mh
-PSB005	ma con ten~ tunisino c'è {P} sessanta per cento.
-PSB064	okay.
+PSB064	bene non abbiamo nessun problema perché {P} c'è similarità di novanta per cento.
+PSB005	mh
+PSB064	ma con ten~ tunisino c'è {P} sessanta per cento.
+PSB005	okay.
 PSB064	e con:
 PSB064	e: con egiziani, li egiziani parlano più l'a:rabo.
 PSB064	noi parliamo l'arabo più: {P} altre lingue
-PSB005	loro parla[no] più l'ara[bo] {P}[] e un pochi::no di~ di inglese.
+PSB064	loro parla[no] più l'ara[bo] [{P}] e un pochi::no di~ di inglese.
 PSB005	[okay]
 PSB005	[okay]
 PSB005	[sì]
-PSB064	sì sì sì
-PSB005	per quello è più fa~ difficile parlare con un egizia[no] {P} direttamente.
-PSB064	[mhmh]
+PSB005	sì sì sì
+PSB064	per quello è più fa~ difficile parlare con un egizia[no] {P} direttamente.
+PSB005	[mhmh]
 PSB064	se vuoi parlare con lui x devi parlare in arabo classico ma:
-PSB005	p(u)oi parlare in arabo classico e lui non: {P} capisce bene {P} l'arabo classico. [pe]rché lui è:
-PSB064	[mh]
-PSB005	è abituato da in~ parlare in dialetto e basta {P} con [i suoi fa~] e la sua famiglia e (tutti).
+PSB064	p(u)oi parlare in arabo classico e lui non: {P} capisce bene {P} l'arabo classico. [pe]rché lui è:
+PSB005	[mh]
+PSB064	è abituato da in~ parlare in dialetto e basta {P} con [i suoi fa~] e la sua famiglia e (tutti).
 PSB005	[°sì sì sì°]
-PSB064	cioè quin~ devi parlare tu {P} in arabo classico e devi anche l'altra persona {P} conoscer[lo]?
-PSB005	[sì] {P} anche {P} la mia nonna se parli con le:i {P} in arabo classico non: non ti capisce.
+PSB005	cioè quin~ devi parlare tu {P} in arabo classico e devi anche l'altra persona {P} conoscer[lo]?
+PSB064	[sì] {P} anche {P} la mia nonna se parli con le:i {P} in arabo classico non: non ti capisce.
 PSB005	certo.
-PSB064	la tua nonna è in marocco?
-PSB005	sì.
-PSB064	in quale città? di quale città sei tu?
-PSB005	eh: da khouribga.
-PSB064	ah e dov'è?
-PSB005	vicino a casablanca.
+PSB005	la tua nonna è in marocco?
+PSB064	sì.
+PSB005	in quale città? di quale città sei tu?
+PSB064	eh: da khouribga.
+PSB005	ah e dov'è?
+PSB064	vicino a casablanca.
 PSB005	okay.
 PSB005	ma,
-PSB064	me la puoi descrivere un po' {P} com'è fatta:? perché io non ci son stata.
+PSB005	me la puoi descrivere un po' {P} com'è fatta:? perché io non ci son stata.
 PSB064	khouribga è:
 PSB064	è piccola,
 PSB064	c'è:
 PSB064	chiavi
-PSB005	schiavi.
-PSB064	s[ì::]
-PSB063	[a:h]
+PSB064	schiavi.
+PSB005	s[ì::]
+PSB064	[a:h]
 PSB063	mh::
-PSB064	diverse: {P} caste della società?
-PSB005	NO NO.
-PSB063	secondo me scavi.
-PSB064	[AH okay okay].
-PSB005	[caves caves]
-PSB064	AH
-PSB005	SCAVI
-PSB063	no {P} #caves è: {P} tipo grotte.
-PSB005	no {P} [e:h] lui dice:
-PSB063	[no]?
-PSB064	ci sono: {P} delle: {P} miniere.
-PSB005	sì [delle miniere di {P} di (fosfato)]
+PSB063	diverse: {P} caste della società?
+PSB064	NO NO.
+PSB005	secondo me scavi.
+PSB063	[AH okay okay].
+PSB064	[caves caves]
+PSB005	AH
+PSB064	SCAVI
+PSB005	no {P} #caves è: {P} tipo grotte.
+PSB063	no {P} [e:h] lui dice:
+PSB005	[no]?
+PSB063	ci sono: {P} delle: {P} miniere.
+PSB064	sì [delle miniere di {P} di (fosfato)]
 PSB005	[AH allora scavi {P} forse andava bene.
-PSB064	ah okay ok[ay]
+PSB005	ah okay ok[ay]
 PSB064	[pe]rché il mio:
-PSB005	mio nonno e:ra {P} un minato[re].
+PSB064	mio nonno e:ra {P} un minato[re].
 PSB005	[ok]ay okay.
 PSB005	ah non l'ho mai sentita questa cosa nuova {P} raccontami.
-PSB064	e ti raccontava il tuo nonno di quando lavorava: nelle [mini]ere o no?
+PSB005	e ti raccontava il tuo nonno di quando lavorava: nelle [mini]ere o no?
 PSB064	[sì]
 PSB064	no ma: mi raccontava: {P} la mia nonna. come:
 PSB064	era svegliata alle cinque per {P} mandarlo: {P} cibo. per:
 PSB064	prenderlo con lui,
 PSB064	se lui va: {P} (all'otto) per prendere il bus e:
-PSB005	trasporto di {P} personale,
-PSB064	mhmh
+PSB064	trasporto di {P} personale,
+PSB005	mhmh
 PSB064	e: queste co:se.
 PSB064	com'era: la rampa di {P} carbone:,
-PSB063	°e queste cose°
-PSB064	miniere di che cosa?
-PSB063	di fosfato.
-PSB005	°di fosfato°.
-PSB064	e stanno ancora funzionando?
-PSB005	no adesso c'è macchine e cose °che°
-PSB064	oka[y].
-PSB005	[ge]stiscono.
-PSB064	però >sono< {P} aperte?
-PSB005	so[no aperte] {P} ancora.
+PSB064	°e queste cose°
+PSB063	miniere di che cosa?
+PSB064	di fosfato.
+PSB063	°di fosfato°.
+PSB005	e stanno ancora funzionando?
+PSB064	no adesso c'è macchine e cose °che°
+PSB005	oka[y].
+PSB064	[ge]stiscono.
+PSB005	però >sono< {P} aperte?
+PSB064	so[no aperte] {P} ancora.
 PSB005	[le miniere sì]
 PSB005	mhmh
 PSB005	e la tua nonna:
-PSB064	sta bene: è anziana, è vecchia, è gio[vane]?
+PSB005	sta bene: è anziana, è vecchia, è gio[vane]?
 PSB064	[s:ì] vecchia: ancora è un po' di energia,
-PSB005	anche ha: {P} settantotto ann[i].
-PSB064	[è] giovane: {P} molto giovane. {ride}
-PSB005	°ah°
+PSB064	anche ha: {P} settantotto ann[i].
+PSB005	[è] giovane: {P} molto giovane. {ride}
+PSB064	°ah°
 PSB005	s:ì
-PSB064	io [ho una nonna qui]
-PSB005	([lei deve ri]posare) un po'
-PSB064	la mia nonna qui ne ha novantasette.
-PSB005	novantasette?
+PSB005	io [ho una nonna qui]
+PSB064	([lei deve ri]posare) un po'
+PSB005	la mia nonna qui ne ha novantasette.
+PSB064	novantasette?
 PSB005	eh sì.
-PSB064	e~ e tu e:hm {P} la vedi la vedi ogni tanto o: mai?
-PSB005	non l'ha vista da:~ dall'ottobre io.
+PSB005	e~ e tu e:hm {P} la vedi la vedi ogni tanto o: mai?
+PSB064	non l'ha vista da:- dall'ottobre io.
 PSB005	eh okay.
-PSB064	tu sei arrivato in italia ad ottobre?
-PSB005	no.
-PSB063	ah {P} okay.
-PSB005	un po' di tempo in più.
+PSB005	tu sei arrivato in italia ad ottobre?
+PSB064	no.
+PSB005	ah {P} okay.
+PSB063	un po' di tempo in più.
 PSB005	no se no il tuo italiano era un miracolo.
-PSB064	{ride}
-PSB063	[un po' di prima un po'] prima ma:
-PSB064	[°ma lui è molto bravo°]
-PSB005	ma non ho {P} parlato {P} con l'italiano anche se {P} sono venuto qua.
-PSB063	però parli {P} miracoloso.
+PSB005	{ride}
+PSB064	[un po' di prima un po'] prima ma:
+PSB063	[°ma lui è molto bravo°]
+PSB064	ma non ho {P} parlato {P} con l'italiano anche se {P} sono venuto qua.
+PSB005	però parli {P} miracoloso.
 PSB063	lui {P} quando {P} è arrivato qua {P} alla scuola n~ ne~ alla nostra scuola
 PSB063	e:hm:
 PSB063	era {P} appena arrivato a bologna,
-PSB064	era stato prima {P} a roma.
-PSB063	sì.
+PSB063	era stato prima {P} a roma.
+PSB064	sì.
 PSB063	però {P} era appena arrivato a bologna e parlava pochissimo italiano.
-PSB005	e: da ottobre: è diven[tato] {P} bravissimo
+PSB063	e: da ottobre: è diven[tato] {P} bravissimo
 PSB005	[incredibile].
-PSB064	°sì sì° hai fatto solo la scuola al @nomescuola?
-PSB005	sì.
-PSB064	ci [s~]
-PSB005	[e] un po' di duo lingo che non serve a nien[te].
+PSB005	°sì sì° hai fatto solo la scuola al
+PSB064	sì.
+PSB005	ci [s~]
+PSB064	[e] un po' di duo lingo che non serve a nien[te].
 PSB005	[va]bbè sì.
 PSB005	MA,
 PSB005	come hai fatto,
-PSB064	cioè fa~ {P} facevi delle cose a casa da solo guardavi i film: la radi[o]:?
-PSB005	[no] parlo con la gente.
-PSB064	okay.
-PSB005	è quello che se:rve.
-PSB064	secondo te cosa~
+PSB005	cioè fa~ {P} facevi delle cose a casa da solo guardavi i film: la radi[o]:?
+PSB064	[no] parlo con la gente.
+PSB005	okay.
+PSB064	è quello che se:rve.
+PSB005	secondo te cosa~
 PSB064	vado alla posta vado da solo non {P} chiedo qualcuno che parla e:h
 PSB064	italiano niente.
 PSB064	se vado a fare qualcosa,
-PSB063	è la #friction.
+PSB064	è la #friction.
 PSB063	sì.
-PSB064	e:h il contatto.
-PSB005	il contatto con la lingua.
-PSB064	bello. {P} giusto. {P} bellissimo.
-PSB005	°contatto con la lin[gua]°.
+PSB063	e:h il contatto.
+PSB064	il contatto con la lingua.
+PSB005	bello. {P} giusto. {P} bellissimo.
+PSB064	°contatto con la lin[gua]°.
 PSB005	[s]ì sì.
-PSB064	quindi tutto il giorno tu pa[r~]
+PSB005	quindi tutto il giorno tu pa[r~]
 PSB064	[p]erché ho sentito un: spia.
-PSB063	spia:
-PSB064	(c(io)è) uno speaker?
-PSB005	spia sp[ia].
-PSB064	[sp]ia spia.
-PSB005	spie.
-PSB064	eh,
-PSB005	hai capito cosa è?
-PSB064	prova a dirmi {P} continua la frase?
-PSB063	a spy.
-PSB005	sì.
-PSB064	sì sì sì.
-PSB005	una [spia].
-PSB064	[una sp]ia sì.
-PSB005	una spia che ha detto per: conoscere una nuo:va lingua devi {P} entrare ne[l~] {P} nel mondo della lingua.
+PSB064	spia:
+PSB063	(c(io)è) uno speaker?
+PSB064	spia sp[ia].
+PSB005	[sp]ia spia.
+PSB064	spie.
+PSB005	eh,
+PSB064	hai capito cosa è?
+PSB005	prova a dirmi {P} continua la frase?
+PSB064	a spy.
+PSB063	sì.
+PSB005	sì sì sì.
+PSB064	una [spia].
+PSB005	[una sp]ia sì.
+PSB064	una spia che ha detto per: conoscere una nuo:va lingua devi {P} entrare ne[l~] {P} nel mondo della lingua.
 PSB005	[sì sì].
 PSB005	sì sì.
 PSB005	quindi tu parli ascolti tutti le persone:?
-PSB064	vai in autobus ascolti tutti che parlan[o:]?
-PSB005	[sì]
+PSB005	vai in autobus ascolti tutti che parlan[o:]?
+PSB064	[sì]
 PSB005	giusto.
-PSB064	se~
-PSB005	eh [pro]vo pa~ parlare le~ l'italiano {P} il più possibile.
+PSB005	se~
+PSB064	eh [pro]vo pa~ parlare le~ l'italiano {P} il più possibile.
 PSB005	[mh]
 PSB005	sì sì sì.
-PSB064	MA in casa vivi con altri {P} vivi con degli italiani o: [no]?
-PSB005	[no].
-PSB064	perché questo e~ {P} [potrebbe aiutare].
-PSB005	[ah non ero in] casa {P} mai.
+PSB005	MA in casa vivi con altri {P} vivi con degli italiani o: [no]?
+PSB064	[no].
+PSB005	perché questo e~ {P} [potrebbe aiutare].
+PSB064	[ah non ero in] casa {P} mai.
 PSB005	ah certo.
 PSB005	sì sì sì.
-PSB064	vivi con altri {P} ragazzi del tuo paese o:~ o altri paesi?
-PSB005	e:h vivo con un marocchino {P} due: egiziani e un~ e due: tunisini.
-PSB064	ah quindi molto arabo {P} in casa.
-PSB005	sì c'è solo l'arabo.
+PSB005	vivi con altri {P} ragazzi del tuo paese o:- o altri paesi?
+PSB064	e:h vivo con un marocchino {P} due: egiziani e un~ e due: tunisini.
+PSB005	ah quindi molto arabo {P} in casa.
+PSB064	sì c'è solo l'arabo.
 PSB005	sì sì.
-PSB063	>sì sì sì sì<.
-PSB064	però stai poco tempo in casa.
-PSB005	sto: poco tempo in casa m~
-PSB064	e dur~ durante la giornata {P} hai altre occasioni di parlare arabo {P} o no?
-PSB005	altre occasioni di parlar l'arabo?
-PSB064	sì.
+PSB005	>sì sì sì sì<.
+PSB063	però stai poco tempo in casa.
+PSB064	sto: poco tempo in casa m~
+PSB005	e dur~ durante la giornata {P} hai altre occasioni di parlare arabo {P} o no?
+PSB064	altre occasioni di parlar l'arabo?
+PSB005	sì.
 PSB064	prima ero parlando l'arabo molto perché {P} ero in casa più {P} di più eh:
-PSB005	ero un casa: come {P} quattro o:re per {P} giorno.
-PSB064	m:h
-PSB005	più dormire.
-PSB064	[sì sì beh sì].
-PSB005	[°quindi dodici ore°].
-PSB064	sì sì.
+PSB064	ero un casa: come {P} quattro o:re per {P} giorno.
+PSB005	m:h
+PSB064	più dormire.
+PSB005	[sì sì beh sì].
+PSB064	[°quindi dodici ore°].
+PSB005	sì sì.
 PSB064	e dopo quando ho iniziato l~ il corso di:
 PSB064	di s:tudio che: sto facendo,
-PSB005	ho parlato ho iniziato >parlare< solo il l:~ l'italiano più.
-PSB064	mhmh
-PSB005	dal gennaio.
-PSB064	mhmh
-PSB005	ho fatto a:mici: italiani e tutto,
+PSB064	ho parlato ho iniziato >parlare< solo il l:- l'italiano più.
+PSB005	mhmh
+PSB064	dal gennaio.
+PSB005	mhmh
+PSB064	ho fatto a:mici: italiani e tutto,
 PSB005	sì sì sì.
-PSB064	[e] nel tuo tempo libero:?
-PSB005	[eh]
+PSB005	[e] nel tuo tempo libero:?
+PSB064	[eh]
 PSB005	non so: {P} giochi: a calcio::?
-PSB064	ti piace fare qualche cosa?
-PSB005	no no. non piace fare niente.
-PSB064	non hai molto tempo forse anche.
+PSB005	ti piace fare qualche cosa?
+PSB064	no no. non piace fare niente.
+PSB005	non hai molto tempo forse anche.
 PSB064	non ho molto tempo {P} sì.
 PSB064	è quello.
 PSB064	volevo fare {P} tanti {P} altri {P} cose.
-PSB005	volevo imparare l'ukulele °dele~°
+PSB064	volevo imparare l'ukulele °dele~°
 PSB005	mh
-PSB064	ah la musica ti piace?
+PSB005	ah la musica ti piace?
 PSB064	mi piace °un po' di~ della musica° sì.
-PSB005	ho studiato quattro anni: in marocco la musica.
-PSB064	a:h {P} che cosa? quale strumento?
-PSB005	il:~ la chitarra un po' di piano e: {P} la teoria di musica.
+PSB064	ho studiato quattro anni: in marocco la musica.
+PSB005	a:h {P} che cosa? quale strumento?
+PSB064	il:- la chitarra un po' di piano e: {P} la teoria di musica.
 PSB005	bellissimo.
 PSB005	bellissimo.
 PSB005	ah io ho studiato un po' di musica.
 PSB005	poco.
-PSB064	[e]
-PSB005	[xx]
-PSB063	ormai ho dimenticato tutto.
-PSB064	ma sai suonare un po' il piano?
+PSB005	[e]
+PSB064	[xx]
+PSB005	ormai ho dimenticato tutto.
+PSB063	ma sai suonare un po' il piano?
 PSB064	°un pochino non°
 PSB064	non eh
-PSB063	perché prima: ho detto {P} un po' di {P} piano. perché: lo piano è:
-PSB064	mhmh
+PSB064	perché prima: ho detto {P} un po' di {P} piano. perché: lo piano è:
+PSB063	mhmh
 PSB064	facile.
 PSB064	c'è le chiavi do re mi fa sol la si e:
 PSB064	°si ripetono°
-PSB005	ma {P} devi conoscere di più.
-PSB064	[mhmh]
+PSB064	ma {P} devi conoscere di più.
+PSB005	[mhmh]
 PSB064	[co]me si usano i pedali,
-PSB064	(come) vai in fretta come {P} l:~ conoscere gli accordi.
-PSB005	(questo è).
-PSB064	e chitarra meglio.
+PSB064	(come) vai in fretta come {P} l:- conoscere gli accordi.
+PSB064	(questo è).
+PSB005	e chitarra meglio.
 PSB064	chitarra è un po' meglio {P} sì.
-PSB005	a che non l'ho: {P} toccata per {P} cinque anni.
-PSB063	ah sì.
-PSB005	ce l'hai una chitarra a (casa)?
+PSB064	a che non l'ho: {P} toccata per {P} cinque anni.
+PSB005	ah sì.
+PSB063	ce l'hai una chitarra a (casa)?
 PSB005	ma,
 PSB005	ti piacerebbe {P} averla?
-PSB064	a[vresti te]mpo?
+PSB005	a[vresti te]mpo?
 PSB064	[un giorno sì].
 PSB064	be~ be~
 PSB064	se a~ ho tempo per {P} usarla non {P} comprarla e lasciarla a casa.
-PSB005	non serve a niente.
+PSB064	non serve a niente.
 PSB005	sì sì.
 PSB005	è vero.
 PSB005	ah la mia {P} è a casa,
 PSB005	e dorme.
-PSB064	{ride} e piange.
-PSB005	uguale io ne ho due a ca[sa] non le uso mai
+PSB005	{ride} e piange.
+PSB064	uguale io ne ho due a ca[sa] non le uso mai
 PSB005	[eh]
 PSB005	sì.
 PSB005	sì sì.
@@ -496,198 +496,198 @@ PSB005	quando facevo: {P} le superiori.
 PSB005	ero abbastanza brava alla fine delle superiori adesso non
 PSB005	non son più: {P} non so più fare niente.
 PSB005	ma mi stavi dicendo del marocco,
-PSB064	ancora non abbiamo parlato {P} bene {P} della tua città.
-PSB005	dimmi.
+PSB005	ancora non abbiamo parlato {P} bene {P} della tua città.
+PSB064	dimmi.
 PSB005	com'è fatta la zona?
-PSB064	quella zona del maro°cco°.
+PSB005	quella zona del maro°cco°.
 PSB064	la mia città è creata solo per:
 PSB064	prima v~ credo che
-PSB005	era solo per: {P} l'ufficio del fosfato.
-PSB064	mh
-PSB005	erano solo: cittadini di: che {P} per i dipendenti che {P} lavorano {P} nell'uffici di fosfato.
-PSB064	mhmh
-PSB005	non era una {P} (khouribga) mai.
-PSB064	sì okay okay.
+PSB064	era solo per: {P} l'ufficio del fosfato.
+PSB005	mh
+PSB064	erano solo: cittadini di: che {P} per i dipendenti che {P} lavorano {P} nell'uffici di fosfato.
+PSB005	mhmh
+PSB064	non era una {P} (khouribga) mai.
+PSB005	sì okay okay.
 PSB064	dopo hanno creato la città,
-PSB005	dopo le la gente dal:~ dalle pae:se {P} sono venute per lavorare.
-PSB064	mhmh
+PSB064	dopo le la gente dal:- dalle pae:se {P} sono venute per lavorare.
+PSB005	mhmh
 PSB064	eh l'hanno dato degli:
 PSB064	$deli come si chiamano:
-PSB005	$delli case
-PSB064	sì sì sì.
+PSB064	$delli case
+PSB005	sì sì sì.
 PSB064	dopo sono diventate {P} $delli:
-PSB005	delle case: {P} costruiti male.
-PSB064	[mh]
-PSB005	[do]po.
-PSB064	mhmh.
+PSB064	delle case: {P} costruiti male.
+PSB005	[mh]
+PSB064	[do]po.
+PSB005	mhmh.
 PSB064	dopo l'hanno dato del~ della terra per:
-PSB005	per costruire delle case.
-PSB064	mhmh
+PSB064	per costruire delle case.
+PSB005	mhmh
 PSB064	E:H
 PSB064	e:d è {P} diventanta un po' più grande,
-PSB005	più grande per più grande.
-PSB064	mhmh okay okay. ed è vicino molto a casablanca?
-PSB005	centocinquanta chilome[tri].
-PSB064	[eh] no non tan~ non proprio vicinissimo.
+PSB064	più grande per più grande.
+PSB005	mhmh okay okay. ed è vicino molto a casablanca?
+PSB064	centocinquanta chilome[tri].
+PSB005	[eh] no non tan~ non proprio vicinissimo.
 PSB064	xxx
-PSB005	ma è la:~ la più vicina {P} città da no[i].
-PSB064	[o]kay
-PSB005	grande. è l[a] più grande città vicino a noi.
+PSB064	ma è la:- la più vicina {P} città da no[i].
+PSB005	[o]kay
+PSB064	grande. è l[a] più grande città vicino a noi.
 PSB005	[sì].
 PSB005	ma i ragazzi {P} della tua città delle volte vanno a casablanca tipo per fare festa: o per:
-PSB064	o no?
+PSB005	o no?
 PSB064	sì sì ma:
 PSB064	anch'io: ehm
 PSB064	anche c'è ta~ molta: {P} de~ paro~ eh {P} possibilità in casablanca.
-PSB005	perché è una città grande.
+PSB064	perché è una città grande.
 PSB005	mhmh
-PSB064	sì.
-PSB005	è grande come roma.
-PSB064	mhmh
-PSB005	casablanca.
+PSB005	sì.
+PSB064	è grande come roma.
 PSB005	mhmh
-PSB064	ma è per quello che ti manca il mare perché lì eri vicino al mare.
+PSB064	casablanca.
+PSB005	mhmh
+PSB005	ma è per quello che ti manca il mare perché lì eri vicino al mare.
 PSB064	lì ero: vicino al mare:
-PSB005	c'era un {P} l'altra città {P} che si chiama el jadida.
+PSB064	c'era un {P} l'altra città {P} che si chiama el jadida.
 PSB005	ah sì sì.
 PSB005	un'altro ragazzo che ho intervistato {P} è di lì.
-PSB064	mi ha detto [sì].
+PSB005	mi ha detto [sì].
 PSB064	[ja]dida era $nomata e:hm
-PSB005	$masaga
+PSB064	$masaga
 PSB005	okay.
 PSB005	okay okay.
 PSB005	e:h
 PSB005	qual è secondo te la differenza più grande fra {P} l'italia e il marocco?
-PSB064	ah beh anche due {P} differenze.
-PSB005	l'architettura,
-PSB064	giusto sì.
+PSB005	ah beh anche due {P} differenze.
+PSB064	l'architettura,
+PSB005	giusto sì.
 PSB064	e:h
-PSB005	un po' la mentalità del gente,
+PSB064	un po' la mentalità del gente,
 PSB005	mhmh
-PSB064	tipo?
+PSB005	tipo?
 PSB064	dipende a quale città vai e a in italia,
 PSB064	ma
-PSB005	sono aperti più.
-PSB064	qui?
+PSB064	sono aperti più.
+PSB005	qui?
 PSB064	più del ma~ del marocco sì eh
 PSB064	anche al marocco d~ dipende ma
-PSB005	ah eh in generale {P} l'italia è più aperta da:
+PSB064	ah eh in generale {P} l'italia è più aperta da:
 PSB005	mhmh
-PSB064	ti è successo qualche: {P} cosa {P} in parti[colare]?
+PSB005	ti è successo qualche: {P} cosa {P} in parti[colare]?
 PSB064	[puoi fare] quello che vuo:i,
-PSB005	anche {P} se la polizia {P} eh {P} spacca la gente ma {P} non come in marocco.
+PSB064	anche {P} se la polizia {P} eh {P} spacca la gente ma {P} non come in marocco.
 PSB005	sì sì
 PSB005	sì sì immagino sì. {ride}
-PSB064	sì anche qui ci sono un po' di episodi eh però:
+PSB005	sì anche qui ci sono un po' di episodi eh però:
 PSB064	c'è episodi {P} di là c'è serie (di v~)
-PSB005	è per quello
-PSB064	sì sì o[kay ho capito] sì.
-PSB005	[(solo per)]
+PSB064	è per quello
+PSB005	sì sì o[kay ho capito] sì.
+PSB064	[(solo per)]
 PSB005	e:
-PSB064	e tu ti aspettavi così {P} l'italia?
-PSB005	co[me]?
+PSB005	e tu ti aspettavi così {P} l'italia?
+PSB064	co[me]?
 PSB005	[o] no?
 PSB005	te l'aspettavi così l'italia?
-PSB064	o era diverso nella tua immaginazio[ne]?
+PSB005	o era diverso nella tua immaginazio[ne]?
 PSB064	[no] era così.
-PSB005	[xxxx]
+PSB064	[xxxx]
 PSB005	ah vedi?
-PSB064	non c'eri mai stato prima?
-PSB005	ero stato: eh in duemilaquattordici duemiladiciassette,
+PSB005	non c'eri mai stato prima?
+PSB064	ero stato: eh in duemilaquattordici duemiladiciassette,
 PSB005	ah okay.
 PSB005	(va bene)
-PSB064	perché [molte persone],
-PSB005	[e: l'estate scorso]
-PSB064	scusami dimmi dimmi.
-PSB005	e l'estate scor[sa].
+PSB005	perché [molte persone],
+PSB064	[e: l'estate scorso]
+PSB005	scusami dimmi dimmi.
+PSB064	e l'estate scor[sa].
 PSB005	[ah] okay.
 PSB005	okay.
 PSB005	perché molte persone mi dicono che {P} si trasferiscono in italia dal marocco e {P} pensano che ci siano i grattacie:li tutto modernissimo:,
-PSB064	tutto tecnolo:gico e poi arrivano {P} e invece no {ride}
+PSB005	tutto tecnolo:gico e poi arrivano {P} e invece no {ride}
 PSB064	ti dico una cosa. anche:
 PSB064	e:hm
-PSB005	l'italia è ne:l {P} primo mondo,
-PSB064	sì pe~ esat[to].
-PSB005	[e:] usa tanta teoria:
-PSB064	mhmh
-PSB005	non usa le cose pratiche.
-PSB064	ah [sì].
-PSB005	[an]cora.
-PSB064	è ve[ro].
-PSB005	[dan]no leggi eh facciamo questa:
+PSB064	l'italia è ne:l {P} primo mondo,
+PSB005	sì pe~ esat[to].
+PSB064	[e:] usa tanta teoria:
+PSB005	mhmh
+PSB064	non usa le cose pratiche.
+PSB005	ah [sì].
+PSB064	[an]cora.
+PSB005	è ve[ro].
+PSB064	[dan]no leggi eh facciamo questa:
 PSB005	ho capito sì.
-PSB005	e:~ e in marocco hai viaggiato?
-PSB064	dentro al marocco?
+PSB005	e:- e in marocco hai viaggiato?
+PSB005	dentro al marocco?
 PSB064	non tanto °non tanto°.
-PSB005	ero in raba:t casablanc[a] {P} jadida,
-PSB064	[mh]
+PSB064	ero in raba:t casablanc[a] {P} jadida,
+PSB005	[mh]
 PSB064	xxx
-PSB005	essaouira una volta,
-PSB064	mh
-PSB005	°basta°.
+PSB064	essaouira una volta,
+PSB005	mh
+PSB064	°basta°.
 PSB005	essaouira è abbastanza famosa.
-PSB064	[è:~ è carina]?
-PSB063	[sì eh c'è] festival di:~ di gnaoua {P} que~ in questi giorni.
-PSB064	festival di?
-PSB063	gnaoua.
-PSB064	non so che cos'è.
-PSB005	xxxxxx
-PSB063	che cos'è?
-PSB064	xxxx
-PSB005	xxx
+PSB005	[è:- è carina]?
+PSB064	[sì eh c'è] festival di:- di gnaoua {P} que~ in questi giorni.
+PSB063	festival di?
+PSB064	gnaoua.
+PSB063	non so che cos'è.
+PSB064	xxxxxx
+PSB005	che cos'è?
+PSB063	xxxx
+PSB064	xxx
 PSB005	no guardiamo possiamo guardare anche da questo.
-PSB064	c(io)è è un festival di mu:sica di che co[sa]?
-PSB005	[di mu]sica si: di:~
-PSB064	di musica marocchina?
-PSB005	sì d~ della zona di:~ di g:
-PSB063	c'è musica dal vivo co[sì]?
-PSB064	[come] si chiama la città?
-PSB005	l:~
-PSB064	ah okay.
-PSB005	{riproduce_musica}
-PSB064	possiamo me~ p~ fai~ lascia: anche la musica se vuoi non c'è problema
-PSB005	non mi piace tanto questa (musica).
+PSB005	c(io)è è un festival di mu:sica di che co[sa]?
+PSB064	[di mu]sica si: di:~
+PSB005	di musica marocchina?
+PSB064	sì d~ della zona di:- di g:
+PSB005	c'è musica dal vivo co[sì]?
+PSB063	[come] si chiama la città?
+PSB064	l:~
+PSB005	ah okay.
+PSB064	{riproduce_musica}
+PSB005	possiamo me~ p~ fai~ lascia: anche la musica se vuoi non c'è problema
+PSB064	non mi piace tanto questa (musica).
 PSB005	ah
-PSB064	quindi musica {P} marocchina proprio in arabo sì.
-PSB005	{riproduce_musica}
-PSB064	ah fantastico.
+PSB005	quindi musica {P} marocchina proprio in arabo sì.
+PSB064	{riproduce_musica}
+PSB005	ah fantastico.
 PSB064	è questa che~ la (musica che mi pia~). {riproduce_musica}
 PSB064	è un po' più hippie viene la: la gente da tutto il mondo,
 PSB064	°in questi {P} giorni°.
 PSB064	sì c'è tanta gente.
-PSB005	sì adesso essaouira è piena (xxx).
-PSB064	e tu sei andato per questo festi[val]?
+PSB064	sì adesso essaouira è piena (xxx).
+PSB005	e tu sei andato per questo festi[val]?
 PSB064	[no no ma]i.
-PSB005	volevo andare con i miei amici questo: estate ma {P} sto lavorando.
-PSB063	eh sì sì cer[to].
-PSB064	[qui]ndi non andrai in marocco quest'estate?
-PSB005	prossimo estate.
-PSB063	vabbè dai
-PSB005	mi porti?
+PSB064	volevo andare con i miei amici questo: estate ma {P} sto lavorando.
+PSB005	eh sì sì cer[to].
+PSB063	[qui]ndi non andrai in marocco quest'estate?
+PSB064	prossimo estate.
+PSB005	vabbè dai
+PSB063	mi porti?
 PSB005	bello quindi a te piace questo musica qui?
-PSB064	questa musica un po' alterna[tiva].
+PSB005	questa musica un po' alterna[tiva].
 PSB064	[no] no devi:
 PSB064	non mi piace molto ma
-PSB005	il #vibe di: [di d~]
-PSB063	[ce][rto].
-PSB005	[del] festival.
-PSB064	[sì].
-PSB005	[del] festival è (volen) {P} s[empre].
-PSB064	[e] e~
-PSB005	perché c'era questo fis~ festival dal novantanove o non lo so.
+PSB064	il #vibe di: [di d~]
+PSB005	[ce][rto].
+PSB063	[del] festival.
+PSB005	[sì].
+PSB064	[del] festival è (volen) {P} s[empre].
+PSB005	[e] e~
+PSB064	perché c'era questo fis~ festival dal novantanove o non lo so.
 PSB005	mhmh
 PSB005	bello.
 PSB005	e qui a bologna sei andato a qualche serata:? ti piace qualche {P} zona del centro:?
-PSB064	qualche event[o]?
-PSB005	[no]n sono mai stato in una serata.
+PSB005	qualche event[o]?
+PSB064	[no]n sono mai stato in una serata.
 PSB005	mh
-PSB064	neanche all'aperto? cioè tipo: in montagnola delle volte fanno delle co[se]?
-PSB005	[una] volta ero in: {P} ero passando da: piazza: scaravilli.
-PSB064	mhmh
-PSB005	e c'era un: {P} po' di musica. (°e ba[sta]°)
+PSB005	neanche all'aperto? cioè tipo: in montagnola delle volte fanno delle co[se]?
+PSB064	[una] volta ero in: {P} ero passando da: piazza: scaravilli.
+PSB005	mhmh
+PSB064	e c'era un: {P} po' di musica. (°e ba[sta]°)
 PSB005	[oke~] {P} basta {P} okay.
-PSB064	il cinema in piazza non sei mai anda[to].
-PSB005	[no]n lo so: non sono mai anda[to].
+PSB005	il cinema in piazza non sei mai anda[to].
+PSB064	[no]n lo so: non sono mai anda[to].
 PSB005	[ok]ay.
 PSB005	ehm:
 PSB005	io io sono stata in marocco invece.
@@ -698,219 +698,219 @@ PSB005	solo che mh:
 PSB005	fra tutti i viaggi che ho fatto {P} è stato l'unica volta in cui io mi sono sentita una turista
 PSB005	proprio ins~ #inside. {ride}
 PSB005	cioè non: non non mi sono:
-PSB064	sentita {P} parte della {P} delle persone loca~ c(io)è ero c'era troppa din~ differenza fra me e le persone.
-PSB005	hai vis[to] tanta:
+PSB005	sentita {P} parte della {P} delle persone loca~ c(io)è ero c'era troppa din~ differenza fra me e le persone.
+PSB064	hai vis[to] tanta:
 PSB005	[post~]
-PSB064	sì {P} tantissima.
-PSB005	differenza?
+PSB005	sì {P} tantissima.
+PSB064	differenza?
 PSB005	sì.
-PSB064	[mi] sono proprio sentita {P} un osp~ un ospite una turista.
+PSB005	[mi] sono proprio sentita {P} un osp~ un ospite una turista.
 PSB064	[(xx)]
-PSB005	sì:
-PSB064	invece in in tutta europa così in:
-PSB005	vai e: ti prendono i soldi e basta {P} e vai via.
-PSB064	sì quello è vero [sì sì].
-PSB005	[e:h] paghi tre euro per un bottiglia d'acqua. {ride}
-PSB064	sì no questo è ve~ perché tu hai viaggiato {P} in europa?
+PSB064	sì:
+PSB005	invece in in tutta europa così in:
+PSB064	vai e: ti prendono i soldi e basta {P} e vai via.
+PSB005	sì quello è vero [sì sì].
+PSB064	[e:h] paghi tre euro per un bottiglia d'acqua. {ride}
+PSB005	sì no questo è ve~ perché tu hai viaggiato {P} in europa?
 PSB064	no no {P} mai.
-PSB005	ma voglio andare a $belgia: que[sta:]
-PSB063	[mhmh]
-PSB064	[in bel]gio?
+PSB064	ma voglio andare a $belgia: que[sta:]
+PSB005	[mhmh]
+PSB063	[in bel]gio?
 PSB064	sì.
-PSB005	in novembre.
-PSB063	ah okay perché proprio il belgio?
-PSB064	perché si parla francese.
+PSB064	in novembre.
+PSB005	ah okay perché proprio il belgio?
+PSB063	perché si parla francese.
 PSB064	NO no.
 PSB064	posso parlare anche tedesco.
-PSB005	se sono in: delle situazioni.
-PSB063	ah
-PSB005	sì?
+PSB064	se sono in: delle situazioni.
+PSB005	ah
+PSB063	sì?
 PSB005	tedesco è difficilino eh?
-PSB064	perché vuoi proprio il belgio?
+PSB005	perché vuoi proprio il belgio?
 PSB064	voglio vederla per una settimana e ritorno al marocco.
-PSB005	voglio {P} visitare mio {P} zio.
+PSB064	voglio {P} visitare mio {P} zio.
 PSB005	ah okay.
-PSB064	ah ma {P} qui hai altre {P} persone {P} della tua famiglia a bolo[gna] o no?
+PSB005	ah ma {P} qui hai altre {P} persone {P} della tua famiglia a bolo[gna] o no?
 PSB064	[sì].
-PSB005	in: bologna no.
-PSB064	okay in: in europa sì?
+PSB064	in: bologna no.
+PSB005	okay in: in europa sì?
 PSB064	in europa sì.
-PSB005	tanti.
-PSB064	c(io)è tuo zio a bruxelles poi?
+PSB064	tanti.
+PSB005	c(io)è tuo zio a bruxelles poi?
 PSB064	altro zio a ba~ napoli.
 PSB064	e:d
-PSB005	quelli sono della della parte di: della mia mamma.
-PSB064	mhmh
+PSB064	quelli sono della della parte di: della mia mamma.
+PSB005	mhmh
 PSB064	è: del mio padre:
 PSB064	c'è una città {P} che devono cambiarla il suo nome con il nostro nome.
 PSB064	c'è come cento: {P} persone che conosco là, che hanno l:~
-PSB005	stesso nome come (mio).
-PSB064	e qual [è]?
-PSB005	[cogno]me.
-PSB064	qual è la città?
+PSB064	stesso nome come (mio).
+PSB005	e qual [è]?
+PSB064	[cogno]me.
+PSB005	qual è la città?
 PSB064	anzio.
 PSB064	dove:
-PSB063	vicino [a~]
-PSB064	[an]zio vicino a [xxxx].
-PSB005	[sì].
+PSB064	vicino [a~]
+PSB063	[an]zio vicino a [xxxx].
+PSB064	[sì].
 PSB005	okay quindi
-PSB064	ci sono talmente tante persone della tua fa[miglia che devono]
-PSB005	[TANte persone della] della dell~
-PSB064	adesso ho ca[pito].
+PSB005	ci sono talmente tante persone della tua fa[miglia che devono]
+PSB064	[TANte persone della] della dell~
+PSB005	adesso ho ca[pito].
 PSB064	[c'è come:] cento persone o di più più °più°
-PSB063	credo di [più].
-PSB064	[del]la tua famiglia?
+PSB064	credo di [più].
+PSB063	[del]la tua famiglia?
 PSB064	della mia
 PSB064	che hanno lo stesso nome.
-PSB005	cognome
+PSB064	cognome
 PSB005	bellissimo {P} bellissimo.
-PSB064	e a napoli sei stato?
-PSB005	no mai.
+PSB005	e a napoli sei stato?
+PSB064	no mai.
 PSB005	beh
-PSB064	puoi andarci è bel[la].
-PSB005	[l'altro] zio non mi piace.
-PSB064	a:h okay.
+PSB005	puoi andarci è bel[la].
+PSB064	[l'altro] zio non mi piace.
+PSB005	a:h okay.
 PSB064	non mi piace,
-PSB005	io non lo piaccio.
+PSB064	io non lo piaccio.
 PSB005	mhmh okay.
-PSB064	non [siete ]{P} in buoni rapporti sì [sì]
+PSB005	non [siete {P}] in buoni rapporti sì [sì]
 PSB064	[capito]?
 PSB064	[no no] io: e mio zio e basta.
 PSB064	ma
-PSB005	odia me.
-PSB063	[mh] okay.
-PSB064	[sì]?
-PSB005	non odia odia ma {P} lui non ha bisogno di {P} persone [a~ ]{ride}
+PSB064	odia me.
+PSB005	[mh] okay.
+PSB063	[sì]?
+PSB064	non odia odia ma {P} lui non ha bisogno di {P} persone [a~] {ride}
 PSB005	sì sì.
-PSB063	non siete molto legati,
-PSB005	okay
-PSB063	sì non siete [molto amici] sì mh
-PSB005	[ho capito]
-PSB064	ehm:
-PSB005	è solo che il mio zio non ha bisogno di amici.
-PSB064	mhmh
-PSB005	non è: che {P} io non sono il suo amico.
-PSB064	mhmh
-PSB005	non ha bisogno de~
-PSB064	sì [sì]
-PSB005	[(vai là)]
+PSB005	non siete molto legati,
+PSB063	okay
+PSB005	sì non siete [molto amici] sì mh
+PSB063	[ho capito]
+PSB005	ehm:
+PSB064	è solo che il mio zio non ha bisogno di amici.
+PSB005	mhmh
+PSB064	non è: che {P} io non sono il suo amico.
+PSB005	mhmh
+PSB064	non ha bisogno de~
+PSB005	sì [sì]
+PSB064	[(vai là)]
 PSB005	sì sì
 PSB005	ho capito e,
 PSB005	ma m:::h cosa ti volevo chiedere? sì.
 PSB005	le: le festività tipo religiose del~ dei musulmani, mh:
 PSB005	il ramadan così tu li ris~ {P} sei religioso sei credente o: no?
-PSB064	o non le festeggi?
-PSB005	fa~ festeggio ma non sono un {P} credente.
-PSB064	okay però festeggi.
-PSB005	sì festeggio sono (buono).
+PSB005	o non le festeggi?
+PSB064	fa~ festeggio ma non sono un {P} credente.
+PSB005	okay però festeggi.
+PSB064	sì festeggio sono (buono).
 PSB005	che cosa: cosa avete fatto?
-PSB064	per esempio non c'è stata una festa due settimane fa?
-PSB005	sì è l'#eid
-PSB064	mh
-PSB005	non l'ho fatta questo anno ma l'ho fatta l'altro anno.
-PSB064	ah e che cosa si [fa]?
+PSB005	per esempio non c'è stata una festa due settimane fa?
+PSB064	sì è l'#eid
+PSB005	mh
+PSB064	non l'ho fatta questo anno ma l'ho fatta l'altro anno.
+PSB005	ah e che cosa si [fa]?
 PSB064	[l'anno] scorso:
 PSB064	vestiamo {P} $delli {P} vestiti e:hm
 PSB064	e:hm
 PSB064	tradizionale e:
-PSB063	andiamo a:
-PSB064	ammazzare gli agnelli?
+PSB064	andiamo a:
+PSB063	ammazzare gli agnelli?
 PSB064	sì
-PSB063	la capra.
-PSB005	[la ca]pra.
-PSB064	[mhmh]
+PSB064	la capra.
+PSB063	[la ca]pra.
+PSB005	[mhmh]
 PSB064	e:hm
-PSB005	è questo {P} cosa facciamo.
-PSB064	mhmh
+PSB064	è questo {P} cosa facciamo.
+PSB005	mhmh
 PSB064	anche:
 PSB064	e:hm cosa facciamo facciamo le la grigliata,
-PSB005	e questo è i vestiti di:
+PSB064	e questo è i vestiti di:
 PSB005	vediamo.
-PSB064	bellis[simo:]
-PSB005	[l'anno scor]so.
+PSB005	bellis[simo:]
+PSB064	[l'anno scor]so.
 PSB005	ma l'anno scorso però eri in marocco.
-PSB064	o [eri qua? eri in italia]? okay okay.
+PSB005	o [eri qua? eri in italia]? okay okay.
 PSB064	[in italia {P} ero qua].
-PSB063	l'hai già vista.
-PSB005	sì l'avevo vista questa.
+PSB064	l'hai già vista.
+PSB063	sì l'avevo vista questa.
 PSB005	sì sì.
-PSB064	e: e la festa di fine ramadan ce~ hai fatto qualche cosa {P} quest'anno?
+PSB005	e: e la festa di fine ramadan ce~ hai fatto qualche cosa {P} quest'anno?
 PSB064	nella festa di ramadan non ho fatto niente.
-PSB005	ma ho fatto ramadan e basta.
-PSB064	ah però,
+PSB064	ma ho fatto ramadan e basta.
+PSB005	ah però,
 PSB064	ero in: anche nelle
-PSB005	nella preghiera:
-PSB064	[generale].
+PSB064	nella preghiera:
+PSB005	[generale].
 PSB064	[con gli altri]
-PSB005	[con altri ra~]
-PSB063	[sì]
-PSB064	[perso]ne?
-PSB005	con altre per[so~ per]sone.
-PSB064	[sì sì]
+PSB064	[con altri ra~]
+PSB005	[sì]
+PSB063	[perso]ne?
+PSB064	con altre per[so~ per]sone.
+PSB005	[sì sì]
 PSB064	come si chiama?
-PSB005	c'è sport di: {P} collettiva.
-PSB063	[sì sì].
-PSB005	[mhmh]
-PSB064	preghiera collettiva?
-PSB005	pre[ghie~]
-PSB064	[che] eravate all'estragon.
-PSB005	co[me]?
-PSB064	[do]ve l'avete fatta la~ la preghiera quest'anno?
-PSB064	[ne]l:~ nella moschea.
-PSB005	c'è delle moschee [qua].
-PSB064	[ah] {P} nella moschea avete fat[to].
-PSB005	[nel]la mos~
-PSB064	ah okay niente un ragazzo mi ha raccontato un'altra cosa. va bene.
+PSB064	c'è sport di: {P} collettiva.
+PSB005	[sì sì].
+PSB063	[mhmh]
+PSB005	preghiera collettiva?
+PSB064	pre[ghie~]
+PSB005	[che] eravate all'estragon.
+PSB064	co[me]?
+PSB005	[do]ve l'avete fatta la~ la preghiera quest'anno?
+PSB064	[ne]l:- nella moschea.
+PSB064	c'è delle moschee [qua].
+PSB005	[ah] {P} nella moschea avete fat[to].
+PSB064	[nel]la mos~
+PSB005	ah okay niente un ragazzo mi ha raccontato un'altra cosa. va bene.
 PSB064	eh perché n~ {P} ti ha raccontato l~ la festa,
 PSB064	l~ la preghiera collettiva nel nel giorno del #eid o:
-PSB005	della festa o: in altri giorni normali?
-PSB064	quand~ mi ha detto che il giorno in cui finisce il ramada[n si f]a una preghiera tutti insieme quelli di bologna
+PSB064	della festa o: in altri giorni normali?
+PSB005	quand~ mi ha detto che il giorno in cui finisce il ramada[n (:) si f]a una preghiera tutti insieme quelli di bologna
 PSB064	[mh:]
-PSB005	sì sì {P} in una {P} parte.
-PSB064	sì sì.
-PSB005	non so dov'è.
+PSB064	sì sì {P} in una {P} parte.
+PSB005	sì sì.
+PSB064	non so dov'è.
 PSB005	eh okay.
 PSB005	mi ha detto che hanno affittato l'estragon.
-PSB064	sì. è un {P} tipo un capannone gigante in cui ci fanno i concerti.
-PSB005	sì è vero [è vero].
-PSB063	([han]no) affittato il capan[none].
+PSB005	sì. è un {P} tipo un capannone gigante in cui ci fanno i concerti.
+PSB064	sì è vero [è vero].
+PSB005	([han]no) affittato il capan[none].
 PSB063	[di so]lito è una discoteca.
-PSB005	però {P} si può [pren]dere {P} lo spazio [e~]
-PSB064	[sì:]
-PSB005	[sì] ho visto ho visto.
-PSB064	mhmh
-PSB005	°ho visto°.
-PSB064	[e]
-PSB005	[è] come un magazzino grande.
+PSB063	però {P} si può [pren]dere {P} lo spazio [e~]
+PSB005	[sì:]
+PSB064	[sì] ho visto ho visto.
+PSB005	mhmh
+PSB064	°ho visto°.
+PSB005	[e]
+PSB064	[è] come un magazzino grande.
 PSB005	sì sì {P} esatto.
-PSB064	e la moschea qui dove: {P} dov'è?
+PSB005	e la moschea qui dove: {P} dov'è?
 PSB064	non ricordo.
-PSB005	ero con un amico.
+PSB064	ero con un amico.
 PSB005	ah eh vabbè.
 PSB005	°non fa niente°
 PSB005	ma eh non mi volete raccontar~ poi poi vi lascio: in pace giuro.
-PSB064	mi volete raccontare qualche cosa che avete fatto qua insieme?
-PSB005	con chi?
+PSB005	mi volete raccontare qualche cosa che avete fatto qua insieme?
+PSB064	con chi?
 PSB005	un evento, voi due. un'attività, un evento, una festa:
-PSB063	quando [sie~]
-PSB005	[ne ab]biamo [fat]te tante:
-PSB063	[sì].
-PSB064	che abbiamo fatto insieme:
-PSB063	abbiamo fatto il te.
-PSB005	sì.
-PSB063	ah dimmi sì.
+PSB005	quando [sie~]
+PSB063	[ne ab]biamo [fat]te tante:
+PSB005	[sì].
+PSB063	che abbiamo fatto insieme:
+PSB064	abbiamo fatto il te.
+PSB063	sì.
+PSB005	ah dimmi sì.
 PSB063	sabato: facciamo {P} questo: momento: tutti insieme,
-PSB005	che si chiama air,
-PSB063	okay.
-PSB005	e: non mi ricordo per cosa sta l'acronimo quindi {P} mi dispiace ma: rimarrà il dubbio su questo:
-PSB063	fa niente,
+PSB063	che si chiama air,
+PSB005	okay.
+PSB063	e: non mi ricordo per cosa sta l'acronimo quindi {P} mi dispiace ma: rimarrà il dubbio su questo:
+PSB005	fa niente,
 PSB063	su questa sigla.
 PSB063	e:hm:
 PSB063	però facciamo un pranzo: tutti insieme {P} noi.
-PSB063	e: anche con:~ con i regaz.
+PSB063	e: anche con:- con i regaz.
 PSB063	e::
-PSB005	i regaz sono le persone che studiano.
-PSB063	non c'è [bisogno di spiegare sì ]{ride}.
+PSB063	i regaz sono le persone che studiano.
+PSB005	non c'è [bisogno di spiegare sì] {ride} .
 PSB063	[qui nella nostra scuola]
 PSB063	[e:h]m:
 PSB063	e quindi: niente si cucina: insieme e poi mangiamo,
@@ -918,97 +918,97 @@ PSB063	e
 PSB063	lui
 PSB063	spesso finché veniva perché adesso {P} lavora e quindi {P} non sta più: venendo,
 PSB063	però finche veniva a fare: questi: pranzi: del sabato {P} portava la teiera di sua nonna,
-PSB064	vero?
-PSB063	[m:h]
-PSB064	[x]xx nonna?
-PSB063	sì.
-PSB064	e:
+PSB063	vero?
+PSB064	m[:h]
+PSB063	[x]xx nonna?
+PSB064	sì.
+PSB063	e:
 PSB064	faccio il te {P} verde.
-PSB005	marocchino.
-PSB064	che buono [come si] fa?
-PSB005	è (buono).
-PSB064	vuoi spiegarmi come si fa?
+PSB064	marocchino.
+PSB005	che buono [come si] fa?
+PSB064	è (buono).
+PSB005	vuoi spiegarmi come si fa?
 PSB064	dopo.
-PSB005	{ride}
-PSB064	non vuoi [spiegarmi]
+PSB064	{ride}
+PSB005	non vuoi [spiegarmi]
 PSB064	[dovre~] eh {ride}
-PSB005	farti vedere.
-PSB064	ah okay.
-PSB064	non ricordo.
-PSB005	[de~ bo]llire l'acqua mettere l~ il te {P} zucchero e
-PSB005	[va bene]
-PSB064	mh[mh]
-PSB005	[tranquil]lamente.
-PSB064	mhmh
-PSB064	ma non così.
-PSB005	facile.
-PSB063	ho [capito].
-PSB064	[c'è] tutto un procedimen[to].
-PSB005	[ah] [e:h] c'è un procedime:n[to],
-PSB005	[sì]
-PSB064	[ma] lo possiamo fare una volta che vengo anch'io.
-PSB005	va [bene].
-PSB063	[anche] l'anno prossimo.
-PSB063	quando: sì quando @issam è libero,
-PSB063	e se ha: voglia di venire,
-PSB005	certo.
-PSB064	ti va?
-PSB063	lo faccio anche: se c'è il il mercoledì prossimo con {P} il ba[r].
-PSB063	[fo]rse sì.
-PSB064	non [lo s~]
-PSB005	[l'ho fat]to nel bar l'altra volta.
+PSB064	farti vedere.
 PSB005	ah okay.
-PSB063	mercoledì c'è il bar giust~ c'è [la sera]ta qui? [sì].
+PSB064	non ricordo.
+PSB064	[de~ bo]llire l'acqua mettere l~ il te {P} zucchero e
+PSB005	[va bene]
+PSB005	mh[mh]
+PSB064	[tranquil]lamente.
+PSB005	mhmh
+PSB064	ma non così.
+PSB064	facile.
+PSB005	ho [capito].
+PSB063	[c'è] tutto un procedimen[to].
+PSB064	[ah] [e:h] c'è un procedime:n[to],
+PSB005	[sì]
+PSB005	[ma] lo possiamo fare una volta che vengo anch'io.
+PSB064	va [bene].
+PSB005	[anche] l'anno prossimo.
+PSB063	quando: sì quando è libero,
+PSB063	e se ha: voglia di venire,
+PSB063	certo.
+PSB005	ti va?
+PSB064	lo faccio anche: se c'è il il mercoledì prossimo con {P} il ba[r].
+PSB063	[fo]rse sì.
+PSB063	non [lo s~]
+PSB064	[l'ho fat]to nel bar l'altra volta.
+PSB005	ah okay.
+PSB005	mercoledì c'è il bar giust~ c'è [la sera]ta qui? [sì].
 PSB063	[sì].
 PSB063	[c'è] la serata il mercoledì sera e abbiamo il bar,
-PSB063	e @issam è venuto anche: diverse volte a darci: una mano: con il bar,
-PSB064	e ha fatto anche il te [xxx]
-PSB063	[una] volta sì.
+PSB063	e è venuto anche: diverse volte a darci: una mano: con il bar,
+PSB063	e ha fatto anche il te [xxx]
+PSB064	[una] volta sì.
 PSB063	una volta (al bar)
-PSB005	quindi sì.
+PSB063	quindi sì.
 PSB005	buono.
 PSB005	buonissimo.
 PSB005	assolutamente va bene.
 PSB005	okay
 PSB005	e:hm
 PSB005	e {P} tu hai un sogno di di di fare un lavoro:?
-PSB064	specifico quan~ {P} che ti piacerebbe fare o:?
-PSB005	voglio fare il: {P} responsabile di: di: di un buisiness.
-PSB063	mh
-PSB005	uno qualsiasi.
-PSB063	[sì sì okay].
-PSB005	[di un business qua]lunque?
+PSB005	specifico quan~ {P} che ti piacerebbe fare o:?
+PSB064	voglio fare il: {P} responsabile di: di: di un buisiness.
+PSB005	mh
+PSB063	uno qualsiasi.
+PSB005	[sì sì okay].
+PSB063	[di un business qua]lunque?
 PSB005	e
-PSB064	sì?
-PSB005	perché: se sei responsabile di: di un magazzino di: scarpe puoi essere anche un {P} responsabile di: {P} di un: di un caffè o,
-PSB064	ci proverai.
+PSB005	sì?
+PSB064	perché: se sei responsabile di: di un magazzino di: scarpe puoi essere anche un {P} responsabile di: {P} di un: di un caffè o,
+PSB005	ci proverai.
 PSB064	sì.
-PSB005	mi piace: {P} fare responsabilità.
+PSB064	mi piace: {P} fare responsabilità.
 PSB005	sì sì sì.
 PSB005	beh magari anche di un ristorante.
-PSB064	adesso stai lavorando in un risto[rante no]?
+PSB005	adesso stai lavorando in un risto[rante no]?
 PSB064	[sì ma] magari anche un in un di un ristorante.
-PSB005	ma ristorante: {P} c'è tante regole tante cose.
-PSB064	un po' un casino dici? sì.
-PSB005	sì.
+PSB064	ma ristorante: {P} c'è tante regole tante cose.
+PSB005	un po' un casino dici? sì.
+PSB064	sì.
 PSB005	sì sì.
-PSB064	che tipo di ristorante è quello: in cui lavori?
+PSB005	che tipo di ristorante è quello: in cui lavori?
 PSB064	è un ristorante che f~ che fa:
 PSB064	è un chiosco non è un ristorante.
-PSB005	chiosco dove: {P} si vende il co[comero],
+PSB064	chiosco dove: {P} si vende il co[comero],
 PSB005	[a:h] ma è famosissimo.
-PSB064	in @nomeluo[go].
-PSB005	[s]ì.
+PSB005	in
+PSB064	[s]ì.
 PSB005	famosissimo.
 PSB005	non diciamo il nome che,
 PSB005	ma
-PSB064	è un locale storico di bologna [esiste] da quando io ero piccolissima.
-PSB005	[sì]
-PSB064	all'inizio era {P} scassatissimo.
-PSB005	era piccolo (e[ra]).
+PSB005	è un locale storico di bologna [esiste] da quando io ero piccolissima.
+PSB064	[sì]
+PSB005	all'inizio era {P} scassatissimo.
+PSB064	era piccolo (e[ra]).
 PSB005	[s]ì mh
-PSB064	e ti trovi abbastanza bene?
-PSB005	sì.
+PSB005	e ti trovi abbastanza bene?
+PSB064	sì.
 PSB005	°va bene va bene.°
 PSB005	xx
 PSB005	allora,

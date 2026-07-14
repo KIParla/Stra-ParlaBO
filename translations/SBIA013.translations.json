@@ -1,0 +1,1538 @@
+[
+  {
+    "tu_id": "31",
+    "speaker": "PSB0067_trad",
+    "start": "84.700",
+    "end": "87.150",
+    "parent_tu_id": "30",
+    "text": "come ti chiami?"
+  },
+  {
+    "tu_id": "33",
+    "speaker": "PSB0067_trad",
+    "start": "88.000",
+    "end": "88.930",
+    "parent_tu_id": "32",
+    "text": "come ti chiami?"
+  },
+  {
+    "tu_id": "51",
+    "speaker": "PSB0067_trad",
+    "start": "119.350",
+    "end": "121.047",
+    "parent_tu_id": "50",
+    "text": "perché perché ti è piaciuta molinella"
+  },
+  {
+    "tu_id": "165",
+    "speaker": "PSB069_trad",
+    "start": "289.625",
+    "end": "292.222",
+    "parent_tu_id": "164",
+    "text": "un po' xx"
+  },
+  {
+    "tu_id": "167",
+    "speaker": "PSB0067_trad",
+    "start": "292.170",
+    "end": "293.510",
+    "parent_tu_id": "166",
+    "text": "dimmi xx"
+  },
+  {
+    "tu_id": "169",
+    "speaker": "PSB068_trad",
+    "start": "292.950",
+    "end": "293.507",
+    "parent_tu_id": "168",
+    "text": ""
+  },
+  {
+    "tu_id": "171",
+    "speaker": "PSB069_trad",
+    "start": "293.540",
+    "end": "295.910",
+    "parent_tu_id": "170",
+    "text": "ero lontana mi ha chiesto se andavo a scuola"
+  },
+  {
+    "tu_id": "200",
+    "speaker": "PSB0067_trad",
+    "start": "346.790",
+    "end": "350.298",
+    "parent_tu_id": "199",
+    "text": ""
+  },
+  {
+    "tu_id": "202",
+    "speaker": "PSB0067_trad",
+    "start": "350.350",
+    "end": "351.570",
+    "parent_tu_id": "201",
+    "text": "parlale di quando andate al mare voi"
+  },
+  {
+    "tu_id": "211",
+    "speaker": "PSB0067_trad",
+    "start": "364.390",
+    "end": "365.710",
+    "parent_tu_id": "210",
+    "text": "sei andata al mare?"
+  },
+  {
+    "tu_id": "216",
+    "speaker": "PSB0067_trad",
+    "start": "368.250",
+    "end": "370.134",
+    "parent_tu_id": "215",
+    "text": "dove andate? con le persone o da soli?"
+  },
+  {
+    "tu_id": "227",
+    "speaker": "PSB0067_trad",
+    "start": "381.070",
+    "end": "382.580",
+    "parent_tu_id": "226",
+    "text": "andate in qualche posto dove c'è il mare?"
+  },
+  {
+    "tu_id": "230",
+    "speaker": "PSB069_trad",
+    "start": "383.611",
+    "end": "391.810",
+    "parent_tu_id": "229",
+    "text": "quel posto dove siamo noi rimane molto vicino mi ha detto che vuole andare"
+  },
+  {
+    "tu_id": "234",
+    "speaker": "PSB0067_trad",
+    "start": "386.611",
+    "end": "391.810",
+    "parent_tu_id": "233",
+    "text": "dille esci da questa conversazione dille di andare è molto bello"
+  },
+  {
+    "tu_id": "239",
+    "speaker": "PSB0067_trad",
+    "start": "395.430",
+    "end": "399.030",
+    "parent_tu_id": "238",
+    "text": "xxx"
+  },
+  {
+    "tu_id": "241",
+    "speaker": "PSB068_trad",
+    "start": "395.440",
+    "end": "399.040",
+    "parent_tu_id": "240",
+    "text": "xxx"
+  },
+  {
+    "tu_id": "248",
+    "speaker": "PSB0067_trad",
+    "start": "404.630",
+    "end": "405.650",
+    "parent_tu_id": "247",
+    "text": "tante volte"
+  },
+  {
+    "tu_id": "285",
+    "speaker": "PSB069_trad",
+    "start": "449.590",
+    "end": "450.600",
+    "parent_tu_id": "284",
+    "text": "che le dico?"
+  },
+  {
+    "tu_id": "287",
+    "speaker": "PSB0067_trad",
+    "start": "450.650",
+    "end": "451.589",
+    "parent_tu_id": "286",
+    "text": "dimmi ti traduco"
+  },
+  {
+    "tu_id": "289",
+    "speaker": "PSB069_trad",
+    "start": "452.080",
+    "end": "453.240",
+    "parent_tu_id": "288",
+    "text": "litigano xx"
+  },
+  {
+    "tu_id": "299",
+    "speaker": "PSB069_trad",
+    "start": "465.020",
+    "end": "465.792",
+    "parent_tu_id": "298",
+    "text": "allora"
+  },
+  {
+    "tu_id": "301",
+    "speaker": "PSB069_trad",
+    "start": "466.222",
+    "end": "468.846",
+    "parent_tu_id": "300",
+    "text": "beh ognuno gioca con la propria macchina giocattolo"
+  },
+  {
+    "tu_id": "305",
+    "speaker": "PSB005_trad",
+    "start": "471.690",
+    "end": "472.222",
+    "parent_tu_id": "304",
+    "text": ""
+  },
+  {
+    "tu_id": "327",
+    "speaker": "PSB069_trad",
+    "start": "499.610",
+    "end": "500.972",
+    "parent_tu_id": "326",
+    "text": "più piccolo di lei"
+  },
+  {
+    "tu_id": "330",
+    "speaker": "PSB069_trad",
+    "start": "501.800",
+    "end": "503.389",
+    "parent_tu_id": "329",
+    "text": "non pensavo fosse sulla ventina"
+  },
+  {
+    "tu_id": "347",
+    "speaker": "PSB0067_trad",
+    "start": "517.000",
+    "end": "517.900",
+    "parent_tu_id": "346",
+    "text": "sei andata a bologna sì"
+  },
+  {
+    "tu_id": "357",
+    "speaker": "PSB069_trad",
+    "start": "530.400",
+    "end": "531.390",
+    "parent_tu_id": "356",
+    "text": "tanti mercati"
+  },
+  {
+    "tu_id": "361",
+    "speaker": "PSB068_trad",
+    "start": "532.640",
+    "end": "535.101",
+    "parent_tu_id": "360",
+    "text": "le ho detto del mercato"
+  },
+  {
+    "tu_id": "364",
+    "speaker": "PSB069_trad",
+    "start": "534.797",
+    "end": "539.392",
+    "parent_tu_id": "363",
+    "text": "andiamo spesso al lago andiamo spesso ai giardini"
+  },
+  {
+    "tu_id": "396",
+    "speaker": "PSB069_trad",
+    "start": "564.930",
+    "end": "565.800",
+    "parent_tu_id": "395",
+    "text": "cosa"
+  },
+  {
+    "tu_id": "402",
+    "speaker": "PSB069_trad",
+    "start": "567.480",
+    "end": "568.640",
+    "parent_tu_id": "401",
+    "text": "non ce l'avevo in mente"
+  },
+  {
+    "tu_id": "405",
+    "speaker": "PSB0067_trad",
+    "start": "568.630",
+    "end": "569.800",
+    "parent_tu_id": "404",
+    "text": "dì fa l'autista"
+  },
+  {
+    "tu_id": "407",
+    "speaker": "PSB066_trad",
+    "start": "570.290",
+    "end": "572.030",
+    "parent_tu_id": "406",
+    "text": "che c'è?"
+  },
+  {
+    "tu_id": "409",
+    "speaker": "PSB069_trad",
+    "start": "570.810",
+    "end": "572.880",
+    "parent_tu_id": "408",
+    "text": "non ce l'avevo in mente"
+  },
+  {
+    "tu_id": "411",
+    "speaker": "PSB066_trad",
+    "start": "572.920",
+    "end": "576.012",
+    "parent_tu_id": "410",
+    "text": "dice bravo con wa iniziale come esclamazione di rinforzo"
+  },
+  {
+    "tu_id": "431",
+    "speaker": "PSB0067_trad",
+    "start": "603.850",
+    "end": "605.919",
+    "parent_tu_id": "430",
+    "text": ""
+  },
+  {
+    "tu_id": "436",
+    "speaker": "PSB069_trad",
+    "start": "610.560",
+    "end": "611.910",
+    "parent_tu_id": "435",
+    "text": "si è riempita troppo"
+  },
+  {
+    "tu_id": "458",
+    "speaker": "PSB0067_trad",
+    "start": "652.640",
+    "end": "657.630",
+    "parent_tu_id": "457",
+    "text": ""
+  },
+  {
+    "tu_id": "461",
+    "speaker": "PSB066_trad",
+    "start": "659.198",
+    "end": "659.977",
+    "parent_tu_id": "460",
+    "text": "non rispettano"
+  },
+  {
+    "tu_id": "465",
+    "speaker": "PSB069_trad",
+    "start": "661.370",
+    "end": "663.150",
+    "parent_tu_id": "464",
+    "text": "(un giorno andranno all'inferno)"
+  },
+  {
+    "tu_id": "570",
+    "speaker": "PSB069_trad",
+    "start": "840.460",
+    "end": "841.628",
+    "parent_tu_id": "569",
+    "text": "non siamo uguali"
+  },
+  {
+    "tu_id": "710",
+    "speaker": "PSB069_trad",
+    "start": "1068.300",
+    "end": "1069.840",
+    "parent_tu_id": "709",
+    "text": "sì sì film in xx"
+  },
+  {
+    "tu_id": "713",
+    "speaker": "PSB069_trad",
+    "start": "1070.940",
+    "end": "1073.331",
+    "parent_tu_id": "712",
+    "text": "nelle scuole è obbligatorio fare francese dal secondo anno"
+  },
+  {
+    "tu_id": "716",
+    "speaker": "PSB069_trad",
+    "start": "1073.490",
+    "end": "1074.820",
+    "parent_tu_id": "715",
+    "text": "loro iniziano"
+  },
+  {
+    "tu_id": "737",
+    "speaker": "PSB0067_trad",
+    "start": "1099.150",
+    "end": "1100.744",
+    "parent_tu_id": "736",
+    "text": ""
+  },
+  {
+    "tu_id": "739",
+    "speaker": "PSB068_trad",
+    "start": "1100.920",
+    "end": "1102.107",
+    "parent_tu_id": "738",
+    "text": "xx chefchaouen"
+  },
+  {
+    "tu_id": "757",
+    "speaker": "PSB0067_trad",
+    "start": "1122.550",
+    "end": "1122.930",
+    "parent_tu_id": "756",
+    "text": "hai ragione"
+  },
+  {
+    "tu_id": "764",
+    "speaker": "PSB0067_trad",
+    "start": "1127.690",
+    "end": "1128.377",
+    "parent_tu_id": "763",
+    "text": "shīlḥa (varietà della lingua tamazight parlata soprattutto nel sud del marocco)"
+  },
+  {
+    "tu_id": "769",
+    "speaker": "PSB0067_trad",
+    "start": "1130.450",
+    "end": "1130.928",
+    "parent_tu_id": "767",
+    "text": "shīlḥa"
+  },
+  {
+    "tu_id": "799",
+    "speaker": "PSB0067_trad",
+    "start": "1165.090",
+    "end": "1166.180",
+    "parent_tu_id": "798",
+    "text": "da dove vieni dal marocco"
+  },
+  {
+    "tu_id": "802",
+    "speaker": "PSB069_trad",
+    "start": "1166.250",
+    "end": "1166.730",
+    "parent_tu_id": "801",
+    "text": "di quale città"
+  },
+  {
+    "tu_id": "824",
+    "speaker": "PSB0067_trad",
+    "start": "1193.160",
+    "end": "1193.840",
+    "parent_tu_id": "823",
+    "text": ""
+  },
+  {
+    "tu_id": "866",
+    "speaker": "PSB069_trad",
+    "start": "1241.660",
+    "end": "1243.000",
+    "parent_tu_id": "865",
+    "text": "sì stiamo parlando di beni mellal"
+  },
+  {
+    "tu_id": "887",
+    "speaker": "PSB0067_trad",
+    "start": "1270.810",
+    "end": "1271.330",
+    "parent_tu_id": "886",
+    "text": "di dove sei tu"
+  },
+  {
+    "tu_id": "891",
+    "speaker": "PSB069_trad",
+    "start": "1272.010",
+    "end": "1272.806",
+    "parent_tu_id": "890",
+    "text": ""
+  },
+  {
+    "tu_id": "896",
+    "speaker": "PSB069_trad",
+    "start": "1275.570",
+    "end": "1276.880",
+    "parent_tu_id": "895",
+    "text": "ma significa"
+  },
+  {
+    "tu_id": "921",
+    "speaker": "PSB0067_trad",
+    "start": "1302.510",
+    "end": "1303.330",
+    "parent_tu_id": "920",
+    "text": "xx voi"
+  },
+  {
+    "tu_id": "925",
+    "speaker": "PSB0067_trad",
+    "start": "1304.560",
+    "end": "1309.600",
+    "parent_tu_id": "924",
+    "text": "xx c'è il fiume"
+  },
+  {
+    "tu_id": "927",
+    "speaker": "PSB069_trad",
+    "start": "1305.700",
+    "end": "1309.480",
+    "parent_tu_id": "926",
+    "text": "si c'è da noi anche a casa c'è il fiume"
+  },
+  {
+    "tu_id": "930",
+    "speaker": "PSB0067_trad",
+    "start": "1310.060",
+    "end": "1312.030",
+    "parent_tu_id": "929",
+    "text": "c'è il fiume"
+  },
+  {
+    "tu_id": "935",
+    "speaker": "PSB069_trad",
+    "start": "1314.840",
+    "end": "1320.040",
+    "parent_tu_id": "934",
+    "text": "è vicino cioè dalla casa lo vediamo"
+  },
+  {
+    "tu_id": "937",
+    "speaker": "PSB0067_trad",
+    "start": "1315.910",
+    "end": "1318.814",
+    "parent_tu_id": "936",
+    "text": "uscite a fare una passeggiata ti ha detto passeggiata"
+  },
+  {
+    "tu_id": "939",
+    "speaker": "PSB0067_trad",
+    "start": "1320.280",
+    "end": "1321.766",
+    "parent_tu_id": "938",
+    "text": "no ti ha chiesto se andate a fare una passeggiata al fiume"
+  },
+  {
+    "tu_id": "945",
+    "speaker": "PSB069_trad",
+    "start": "1326.620",
+    "end": "1328.260",
+    "parent_tu_id": "944",
+    "text": "non riusciremmo"
+  },
+  {
+    "tu_id": "948",
+    "speaker": "PSB069_trad",
+    "start": "1328.440",
+    "end": "1332.640",
+    "parent_tu_id": "947",
+    "text": "quando c'è xx"
+  },
+  {
+    "tu_id": "955",
+    "speaker": "PSB069_trad",
+    "start": "1338.000",
+    "end": "1340.270",
+    "parent_tu_id": "954",
+    "text": "non riusciresti ad andare li avresti paura ci sono gli alberi"
+  },
+  {
+    "tu_id": "957",
+    "speaker": "PSB068_trad",
+    "start": "1340.420",
+    "end": "1342.390",
+    "parent_tu_id": "956",
+    "text": ""
+  },
+  {
+    "tu_id": "960",
+    "speaker": "PSB066_trad",
+    "start": "1343.220",
+    "end": "1344.710",
+    "parent_tu_id": "959",
+    "text": "spiegale xx"
+  },
+  {
+    "tu_id": "963",
+    "speaker": "PSB069_trad",
+    "start": "1344.806",
+    "end": "1347.035",
+    "parent_tu_id": "962",
+    "text": "non si può non c'è xx"
+  },
+  {
+    "tu_id": "968",
+    "speaker": "PSB068_trad",
+    "start": "1354.840",
+    "end": "1356.010",
+    "parent_tu_id": "967",
+    "text": "c'è pericolo la vicino dove siamo noi"
+  },
+  {
+    "tu_id": "990",
+    "speaker": "PSB0067_trad",
+    "start": "1386.870",
+    "end": "1387.280",
+    "parent_tu_id": "989",
+    "text": ""
+  },
+  {
+    "tu_id": "993",
+    "speaker": "PSB0067_trad",
+    "start": "1388.806",
+    "end": "1391.236",
+    "parent_tu_id": "992",
+    "text": "xx a ovest?"
+  },
+  {
+    "tu_id": "996",
+    "speaker": "PSB0067_trad",
+    "start": "1392.300",
+    "end": "1393.510",
+    "parent_tu_id": "995",
+    "text": "guarda che è dell'ovest"
+  },
+  {
+    "tu_id": "1001",
+    "speaker": "PSB068_trad",
+    "start": "1401.810",
+    "end": "1404.050",
+    "parent_tu_id": "1000",
+    "text": "come si chiama xx"
+  },
+  {
+    "tu_id": "1046",
+    "speaker": "PSB066_trad",
+    "start": "1469.920",
+    "end": "1471.460",
+    "parent_tu_id": "1045",
+    "text": "se sei contenta che hai tante sorelle"
+  },
+  {
+    "tu_id": "1066",
+    "speaker": "PSB0067_trad",
+    "start": "1498.700",
+    "end": "1499.750",
+    "parent_tu_id": "1065",
+    "text": "è bella agādīr"
+  },
+  {
+    "tu_id": "1072",
+    "speaker": "PSB069_trad",
+    "start": "1503.930",
+    "end": "1504.610",
+    "parent_tu_id": "1071",
+    "text": "non ci sono mai andata"
+  },
+  {
+    "tu_id": "1074",
+    "speaker": "PSB066_trad",
+    "start": "1504.720",
+    "end": "1505.480",
+    "parent_tu_id": "1073",
+    "text": ""
+  },
+  {
+    "tu_id": "1078",
+    "speaker": "PSB068_trad",
+    "start": "1507.270",
+    "end": "1509.070",
+    "parent_tu_id": "1077",
+    "text": ""
+  },
+  {
+    "tu_id": "1080",
+    "speaker": "PSB0067_trad",
+    "start": "1508.480",
+    "end": "1511.010",
+    "parent_tu_id": "1079",
+    "text": "se ti piace agadir? è bella? è meglio di casablanca?"
+  },
+  {
+    "tu_id": "1099",
+    "speaker": "PSB069_trad",
+    "start": "1532.580",
+    "end": "1533.820",
+    "parent_tu_id": "1098",
+    "text": "dai tira fuori"
+  },
+  {
+    "tu_id": "1136",
+    "speaker": "PSB066_trad",
+    "start": "1578.940",
+    "end": "1579.860",
+    "parent_tu_id": "1135",
+    "text": "non è xx volubilis"
+  },
+  {
+    "tu_id": "1142",
+    "speaker": "PSB069_trad",
+    "start": "1590.530",
+    "end": "1591.880",
+    "parent_tu_id": "1141",
+    "text": "forse ci siamo arrivati"
+  },
+  {
+    "tu_id": "1144",
+    "speaker": "PSB0067_trad",
+    "start": "1592.270",
+    "end": "1595.420",
+    "parent_tu_id": "1143",
+    "text": "su su xx parla parla xx"
+  },
+  {
+    "tu_id": "1147",
+    "speaker": "PSB068_trad",
+    "start": "1594.910",
+    "end": "1596.628",
+    "parent_tu_id": "1146",
+    "text": "no no parla in arabo xx"
+  },
+  {
+    "tu_id": "1149",
+    "speaker": "PSB0067_trad",
+    "start": "1597.140",
+    "end": "1598.860",
+    "parent_tu_id": "1148",
+    "text": "lasciala parlare così l'italiano viene fuori"
+  },
+  {
+    "tu_id": "1154",
+    "speaker": "PSB0067_trad",
+    "start": "1601.720",
+    "end": "1602.500",
+    "parent_tu_id": "1153",
+    "text": ""
+  },
+  {
+    "tu_id": "1157",
+    "speaker": "PSB005_trad",
+    "start": "1605.450",
+    "end": "1608.014",
+    "parent_tu_id": "1156",
+    "text": ""
+  },
+  {
+    "tu_id": "1160",
+    "speaker": "PSB0067_trad",
+    "start": "1608.440",
+    "end": "1609.290",
+    "parent_tu_id": "1159",
+    "text": "archeologico"
+  },
+  {
+    "tu_id": "1162",
+    "speaker": "PSB0067_trad",
+    "start": "1609.940",
+    "end": "1610.880",
+    "parent_tu_id": "1161",
+    "text": "archeologico"
+  },
+  {
+    "tu_id": "1176",
+    "speaker": "PSB068_trad",
+    "start": "1625.120",
+    "end": "1625.722",
+    "parent_tu_id": "1175",
+    "text": "lo segnato"
+  },
+  {
+    "tu_id": "1184",
+    "speaker": "PSB068_trad",
+    "start": "1633.610",
+    "end": "1635.050",
+    "parent_tu_id": "1183",
+    "text": "sicuramente sara athārāt"
+  },
+  {
+    "tu_id": "1188",
+    "speaker": "PSB0067_trad",
+    "start": "1635.060",
+    "end": "1636.220",
+    "parent_tu_id": "1187",
+    "text": "ma non è walili?"
+  },
+  {
+    "tu_id": "1191",
+    "speaker": "PSB068_trad",
+    "start": "1636.870",
+    "end": "1638.990",
+    "parent_tu_id": "1190",
+    "text": "no no walili non è lì"
+  },
+  {
+    "tu_id": "1195",
+    "speaker": "PSB068_trad",
+    "start": "1641.030",
+    "end": "1642.440",
+    "parent_tu_id": "1194",
+    "text": "aspetta"
+  },
+  {
+    "tu_id": "1198",
+    "speaker": "PSB066_trad",
+    "start": "1643.250",
+    "end": "1644.375",
+    "parent_tu_id": "1197",
+    "text": "qui c'è fes"
+  },
+  {
+    "tu_id": "1204",
+    "speaker": "PSB068_trad",
+    "start": "1649.420",
+    "end": "1650.740",
+    "parent_tu_id": "1203",
+    "text": "aspetta vedo vicino cosa c'è"
+  },
+  {
+    "tu_id": "1206",
+    "speaker": "PSB068_trad",
+    "start": "1650.990",
+    "end": "1653.830",
+    "parent_tu_id": "1205",
+    "text": "musawa no sarà solo un villaggio piccolo"
+  },
+  {
+    "tu_id": "1208",
+    "speaker": "PSB0067_trad",
+    "start": "1653.060",
+    "end": "1653.880",
+    "parent_tu_id": "1207",
+    "text": ""
+  },
+  {
+    "tu_id": "1216",
+    "speaker": "PSB0067_trad",
+    "start": "1660.580",
+    "end": "1662.200",
+    "parent_tu_id": "1215",
+    "text": ""
+  },
+  {
+    "tu_id": "1222",
+    "speaker": "PSB066_trad",
+    "start": "1666.030",
+    "end": "1668.410",
+    "parent_tu_id": "1221",
+    "text": "i romani hanno xx"
+  },
+  {
+    "tu_id": "1225",
+    "speaker": "PSB0067_trad",
+    "start": "1667.960",
+    "end": "1670.340",
+    "parent_tu_id": "1224",
+    "text": "ain leuh è una località in marocco"
+  },
+  {
+    "tu_id": "1237",
+    "speaker": "PSB066_trad",
+    "start": "1683.380",
+    "end": "1685.400",
+    "parent_tu_id": "1236",
+    "text": "xx quel posto è vicino a dove sto io"
+  },
+  {
+    "tu_id": "1239",
+    "speaker": "PSB066_trad",
+    "start": "1685.490",
+    "end": "1687.100",
+    "parent_tu_id": "1238",
+    "text": "vicino a casa nostra"
+  },
+  {
+    "tu_id": "1244",
+    "speaker": "PSB0067_trad",
+    "start": "1690.422",
+    "end": "1691.800",
+    "parent_tu_id": "1243",
+    "text": ""
+  },
+  {
+    "tu_id": "1249",
+    "speaker": "PSB066_trad",
+    "start": "1694.402",
+    "end": "1695.583",
+    "parent_tu_id": "1248",
+    "text": "xx posto xx"
+  },
+  {
+    "tu_id": "1252",
+    "speaker": "PSB0067_trad",
+    "start": "1695.238",
+    "end": "1696.956",
+    "parent_tu_id": "1251",
+    "text": ""
+  },
+  {
+    "tu_id": "1266",
+    "speaker": "PSB0067_trad",
+    "start": "1716.130",
+    "end": "1716.970",
+    "parent_tu_id": "1265",
+    "text": "è assurdo"
+  },
+  {
+    "tu_id": "1269",
+    "speaker": "PSB0067_trad",
+    "start": "1721.450",
+    "end": "1722.930",
+    "parent_tu_id": "1268",
+    "text": ""
+  },
+  {
+    "tu_id": "1277",
+    "speaker": "PSB069_trad",
+    "start": "1727.530",
+    "end": "1729.100",
+    "parent_tu_id": "1276",
+    "text": "raccontaci perché non ci sono mai andata"
+  },
+  {
+    "tu_id": "1314",
+    "speaker": "PSB0067_trad",
+    "start": "1774.840",
+    "end": "1776.180",
+    "parent_tu_id": "1313",
+    "text": "come si chiama xx"
+  },
+  {
+    "tu_id": "1316",
+    "speaker": "PSB066_trad",
+    "start": "1775.000",
+    "end": "1776.236",
+    "parent_tu_id": "1315",
+    "text": "piazza jemaa el-fna"
+  },
+  {
+    "tu_id": "1318",
+    "speaker": "PSB066_trad",
+    "start": "1776.460",
+    "end": "1776.984",
+    "parent_tu_id": "1317",
+    "text": "piazza jemaa el-fna"
+  },
+  {
+    "tu_id": "1320",
+    "speaker": "PSB0067_trad",
+    "start": "1777.060",
+    "end": "1777.840",
+    "parent_tu_id": "1319",
+    "text": "come si dice piazza"
+  },
+  {
+    "tu_id": "1322",
+    "speaker": "PSB069_trad",
+    "start": "1777.242",
+    "end": "1777.823",
+    "parent_tu_id": "1321",
+    "text": "piazza jemaa el-fna"
+  },
+  {
+    "tu_id": "1324",
+    "speaker": "PSB066_trad",
+    "start": "1777.823",
+    "end": "1779.170",
+    "parent_tu_id": "1323",
+    "text": "piazza jemaa el-fna"
+  },
+  {
+    "tu_id": "1326",
+    "speaker": "PSB0067_trad",
+    "start": "1778.970",
+    "end": "1780.950",
+    "parent_tu_id": "1325",
+    "text": "come si dice piazza come si chiama spazio"
+  },
+  {
+    "tu_id": "1340",
+    "speaker": "PSB066_trad",
+    "start": "1794.340",
+    "end": "1795.180",
+    "parent_tu_id": "1339",
+    "text": "c'è c'è"
+  },
+  {
+    "tu_id": "1356",
+    "speaker": "PSB066_trad",
+    "start": "1811.630",
+    "end": "1813.070",
+    "parent_tu_id": "1355",
+    "text": ""
+  },
+  {
+    "tu_id": "1359",
+    "speaker": "PSB0067_trad",
+    "start": "1813.880",
+    "end": "1815.620",
+    "parent_tu_id": "1358",
+    "text": ""
+  },
+  {
+    "tu_id": "1365",
+    "speaker": "PSB0067_trad",
+    "start": "1819.540",
+    "end": "1820.711",
+    "parent_tu_id": "1364",
+    "text": ""
+  },
+  {
+    "tu_id": "1370",
+    "speaker": "PSB0067_trad",
+    "start": "1822.160",
+    "end": "1826.789",
+    "parent_tu_id": "1369",
+    "text": ""
+  },
+  {
+    "tu_id": "1373",
+    "speaker": "PSB005_trad",
+    "start": "1828.060",
+    "end": "1828.580",
+    "parent_tu_id": "1372",
+    "text": "snob"
+  },
+  {
+    "tu_id": "1398",
+    "speaker": "PSB005_trad",
+    "start": "1864.600",
+    "end": "1868.154",
+    "parent_tu_id": "1397",
+    "text": "sì sì sì sì sì sì sì sì basta"
+  },
+  {
+    "tu_id": "1413",
+    "speaker": "PSB068_trad",
+    "start": "1882.806",
+    "end": "1883.578",
+    "parent_tu_id": "1412",
+    "text": "vanno dove?"
+  },
+  {
+    "tu_id": "1464",
+    "speaker": "PSB0067_trad",
+    "start": "1955.220",
+    "end": "1959.270",
+    "parent_tu_id": "1463",
+    "text": ""
+  },
+  {
+    "tu_id": "1475",
+    "speaker": "PSB069_trad",
+    "start": "1973.880",
+    "end": "1974.420",
+    "parent_tu_id": "1474",
+    "text": "corano"
+  },
+  {
+    "tu_id": "1477",
+    "speaker": "PSB066_trad",
+    "start": "1975.280",
+    "end": "1976.100",
+    "parent_tu_id": "1476",
+    "text": "no quello xx"
+  },
+  {
+    "tu_id": "1479",
+    "speaker": "PSB0067_trad",
+    "start": "1976.160",
+    "end": "1977.320",
+    "parent_tu_id": "1478",
+    "text": "no no quello no"
+  },
+  {
+    "tu_id": "1503",
+    "speaker": "PSB0067_trad",
+    "start": "2021.920",
+    "end": "2025.833",
+    "parent_tu_id": "1502",
+    "text": "poi scr~ cerco sul dizionario come si dice io"
+  },
+  {
+    "tu_id": "1505",
+    "speaker": "PSB0067_trad",
+    "start": "2026.860",
+    "end": "2028.011",
+    "parent_tu_id": "1504",
+    "text": "come si dice voglio"
+  },
+  {
+    "tu_id": "1522",
+    "speaker": "PSB069_trad",
+    "start": "2056.690",
+    "end": "2058.970",
+    "parent_tu_id": "1521",
+    "text": "parli di me"
+  },
+  {
+    "tu_id": "1547",
+    "speaker": "PSB0067_trad",
+    "start": "2104.040",
+    "end": "2107.260",
+    "parent_tu_id": "1546",
+    "text": ""
+  },
+  {
+    "tu_id": "1553",
+    "speaker": "PSB0067_trad",
+    "start": "2112.700",
+    "end": "2114.860",
+    "parent_tu_id": "1552",
+    "text": "le carote"
+  },
+  {
+    "tu_id": "1620",
+    "speaker": "PSB0067_trad",
+    "start": "2226.750",
+    "end": "2229.690",
+    "parent_tu_id": "1619",
+    "text": "tipo domani mattina che vuol dire ian cre matin?"
+  },
+  {
+    "tu_id": "1624",
+    "speaker": "PSB0067_trad",
+    "start": "2232.110",
+    "end": "2233.200",
+    "parent_tu_id": "1623",
+    "text": "domani mattina"
+  },
+  {
+    "tu_id": "1628",
+    "speaker": "PSB066_trad",
+    "start": "2234.020",
+    "end": "2236.510",
+    "parent_tu_id": "1627",
+    "text": "non puoi capirli se parlano dialetto"
+  },
+  {
+    "tu_id": "1660",
+    "speaker": "PSB0067_trad",
+    "start": "2285.408",
+    "end": "2290.199",
+    "parent_tu_id": "1659",
+    "text": "poi c'è anche tipo già già l'ho fatto già"
+  },
+  {
+    "tu_id": "1664",
+    "speaker": "PSB0067_trad",
+    "start": "2290.389",
+    "end": "2291.758",
+    "parent_tu_id": "1663",
+    "text": "in marocco non c'è già"
+  },
+  {
+    "tu_id": "1667",
+    "speaker": "PSB0067_trad",
+    "start": "2292.589",
+    "end": "2293.961",
+    "parent_tu_id": "1666",
+    "text": "anche mia mamma dice già"
+  },
+  {
+    "tu_id": "1669",
+    "speaker": "PSB066_trad",
+    "start": "2294.189",
+    "end": "2296.468",
+    "parent_tu_id": "1668",
+    "text": "già è una parola francese"
+  },
+  {
+    "tu_id": "1689",
+    "speaker": "PSB066_trad",
+    "start": "2316.407",
+    "end": "2318.403",
+    "parent_tu_id": "1688",
+    "text": "puoi vuoi e e e"
+  },
+  {
+    "tu_id": "1707",
+    "speaker": "PSB069_trad",
+    "start": "2339.789",
+    "end": "2340.969",
+    "parent_tu_id": "1706",
+    "text": "anche io non lo capisco"
+  },
+  {
+    "tu_id": "1709",
+    "speaker": "PSB0067_trad",
+    "start": "2340.981",
+    "end": "2344.233",
+    "parent_tu_id": "1708",
+    "text": ""
+  },
+  {
+    "tu_id": "1725",
+    "speaker": "PSB068_trad",
+    "start": "2362.189",
+    "end": "2366.184",
+    "parent_tu_id": "1724",
+    "text": ""
+  },
+  {
+    "tu_id": "1727",
+    "speaker": "PSB069_trad",
+    "start": "2363.392",
+    "end": "2364.152",
+    "parent_tu_id": "1726",
+    "text": "tutto è uniforme"
+  },
+  {
+    "tu_id": "1742",
+    "speaker": "PSB066_trad",
+    "start": "2377.026",
+    "end": "2377.815",
+    "parent_tu_id": "1741",
+    "text": "vieni"
+  },
+  {
+    "tu_id": "1744",
+    "speaker": "PSB068_trad",
+    "start": "2377.815",
+    "end": "2378.386",
+    "parent_tu_id": "1743",
+    "text": "vieni"
+  },
+  {
+    "tu_id": "1791",
+    "speaker": "PSB066_trad",
+    "start": "2443.345",
+    "end": "2444.443",
+    "parent_tu_id": "1790",
+    "text": "ne senti la mancanza?"
+  },
+  {
+    "tu_id": "1801",
+    "speaker": "PSB0067_trad",
+    "start": "2457.600",
+    "end": "2459.189",
+    "parent_tu_id": "1800",
+    "text": "avete vissuto in italia"
+  },
+  {
+    "tu_id": "1805",
+    "speaker": "PSB0067_trad",
+    "start": "2460.189",
+    "end": "2460.811",
+    "parent_tu_id": "1804",
+    "text": "dille che è bello"
+  },
+  {
+    "tu_id": "1809",
+    "speaker": "PSB069_trad",
+    "start": "2462.400",
+    "end": "2465.234",
+    "parent_tu_id": "1808",
+    "text": "dai traduci quello che dico"
+  },
+  {
+    "tu_id": "1816",
+    "speaker": "PSB0067_trad",
+    "start": "2471.011",
+    "end": "2471.822",
+    "parent_tu_id": "1815",
+    "text": ""
+  },
+  {
+    "tu_id": "1819",
+    "speaker": "PSB069_trad",
+    "start": "2472.790",
+    "end": "2474.167",
+    "parent_tu_id": "1818",
+    "text": "stai qua non andare"
+  },
+  {
+    "tu_id": "1827",
+    "speaker": "PSB0067_trad",
+    "start": "2486.189",
+    "end": "2487.611",
+    "parent_tu_id": "1826",
+    "text": "ti piace l'italia o vorresti andare?"
+  },
+  {
+    "tu_id": "1836",
+    "speaker": "PSB066_trad",
+    "start": "2490.787",
+    "end": "2492.574",
+    "parent_tu_id": "1835",
+    "text": "tornesti in marocco a viverci?"
+  },
+  {
+    "tu_id": "1865",
+    "speaker": "PSB069_trad",
+    "start": "2519.000",
+    "end": "2520.590",
+    "parent_tu_id": "1864",
+    "text": ""
+  },
+  {
+    "tu_id": "1869",
+    "speaker": "PSB069_trad",
+    "start": "2524.001",
+    "end": "2525.787",
+    "parent_tu_id": "1868",
+    "text": "no mio figlio"
+  },
+  {
+    "tu_id": "1872",
+    "speaker": "PSB069_trad",
+    "start": "2526.000",
+    "end": "2527.776",
+    "parent_tu_id": "1870",
+    "text": "non vuole più non vuole più"
+  },
+  {
+    "tu_id": "1874",
+    "speaker": "PSB066_trad",
+    "start": "2528.426",
+    "end": "2530.502",
+    "parent_tu_id": "1873",
+    "text": "ah gli hai chiesto?"
+  },
+  {
+    "tu_id": "1877",
+    "speaker": "PSB069_trad",
+    "start": "2530.000",
+    "end": "2533.360",
+    "parent_tu_id": "1876",
+    "text": "non vuole xx"
+  },
+  {
+    "tu_id": "1887",
+    "speaker": "PSB0067_trad",
+    "start": "2551.597",
+    "end": "2553.823",
+    "parent_tu_id": "1886",
+    "text": "perché non gli piace il marocco? perché non vogliono andarci?"
+  },
+  {
+    "tu_id": "1889",
+    "speaker": "PSB066_trad",
+    "start": "2551.612",
+    "end": "2554.934",
+    "parent_tu_id": "1888",
+    "text": "ma tu xx"
+  },
+  {
+    "tu_id": "1891",
+    "speaker": "PSB069_trad",
+    "start": "2555.000",
+    "end": "2557.590",
+    "parent_tu_id": "1890",
+    "text": "si annoiano"
+  },
+  {
+    "tu_id": "1893",
+    "speaker": "PSB066_trad",
+    "start": "2556.806",
+    "end": "2557.790",
+    "parent_tu_id": "1892",
+    "text": "e appunto quello che lei ti ha detto"
+  },
+  {
+    "tu_id": "1897",
+    "speaker": "PSB069_trad",
+    "start": "2561.987",
+    "end": "2565.214",
+    "parent_tu_id": "1896",
+    "text": "loro sono nati qua xx"
+  },
+  {
+    "tu_id": "1917",
+    "speaker": "PSB069_trad",
+    "start": "2599.814",
+    "end": "2601.014",
+    "parent_tu_id": "1916",
+    "text": "però noi stiamo solo parlando"
+  },
+  {
+    "tu_id": "1920",
+    "speaker": "PSB0067_trad",
+    "start": "2601.787",
+    "end": "2603.175",
+    "parent_tu_id": "1919",
+    "text": "no io"
+  },
+  {
+    "tu_id": "1922",
+    "speaker": "PSB066_trad",
+    "start": "2602.387",
+    "end": "2604.375",
+    "parent_tu_id": "1921",
+    "text": "mia figlia ci è andata molte volte quest'anno"
+  },
+  {
+    "tu_id": "1925",
+    "speaker": "PSB069_trad",
+    "start": "2605.174",
+    "end": "2605.800",
+    "parent_tu_id": "1924",
+    "text": "voi andate"
+  },
+  {
+    "tu_id": "1927",
+    "speaker": "PSB066_trad",
+    "start": "2606.186",
+    "end": "2610.013",
+    "parent_tu_id": "1926",
+    "text": "andrà ancora di più andra di nuovo sarà la sesta volta"
+  },
+  {
+    "tu_id": "1932",
+    "speaker": "PSB069_trad",
+    "start": "2610.587",
+    "end": "2611.987",
+    "parent_tu_id": "1931",
+    "text": "xx bello"
+  },
+  {
+    "tu_id": "2020",
+    "speaker": "PSB066_trad",
+    "start": "2767.627",
+    "end": "2768.387",
+    "parent_tu_id": "2019",
+    "text": "cosa ti ha detto?"
+  },
+  {
+    "tu_id": "2071",
+    "speaker": "PSB0067_trad",
+    "start": "2853.223",
+    "end": "2855.172",
+    "parent_tu_id": "2070",
+    "text": ""
+  },
+  {
+    "tu_id": "2104",
+    "speaker": "PSB069_trad",
+    "start": "2911.413",
+    "end": "2912.640",
+    "parent_tu_id": "2103",
+    "text": ""
+  },
+  {
+    "tu_id": "2213",
+    "speaker": "PSB0067_trad",
+    "start": "3116.228",
+    "end": "3121.038",
+    "parent_tu_id": "2212",
+    "text": "sì ma io questo anno volevo andare qua con le ah come si chiama quella"
+  },
+  {
+    "tu_id": "2244",
+    "speaker": "PSB0067_trad",
+    "start": "3147.436",
+    "end": "3148.905",
+    "parent_tu_id": "2243",
+    "text": "è andato lui e mustafa"
+  },
+  {
+    "tu_id": "2258",
+    "speaker": "PSB066_trad",
+    "start": "3167.025",
+    "end": "3170.227",
+    "parent_tu_id": "2257",
+    "text": "ha fatto un viaggio ma è rimasto bloccato"
+  },
+  {
+    "tu_id": "2260",
+    "speaker": "PSB0067_trad",
+    "start": "3170.632",
+    "end": "3173.975",
+    "parent_tu_id": "2259",
+    "text": "lui ha fatto un viaggio lì si ma secondo"
+  },
+  {
+    "tu_id": "2262",
+    "speaker": "PSB068_trad",
+    "start": "3173.214",
+    "end": "3174.784",
+    "parent_tu_id": "2261",
+    "text": "ci mancava solo questa"
+  },
+  {
+    "tu_id": "2354",
+    "speaker": "PSB0067_trad",
+    "start": "3320.240",
+    "end": "3320.787",
+    "parent_tu_id": "2353",
+    "text": "ferro"
+  },
+  {
+    "tu_id": "2357",
+    "speaker": "PSB0067_trad",
+    "start": "3321.417",
+    "end": "3322.632",
+    "parent_tu_id": "2356",
+    "text": "ferro"
+  },
+  {
+    "tu_id": "2360",
+    "speaker": "PSB066_trad",
+    "start": "3322.639",
+    "end": "3325.332",
+    "parent_tu_id": "2359",
+    "text": "noi xx ferro"
+  },
+  {
+    "tu_id": "2365",
+    "speaker": "PSB066_trad",
+    "start": "3327.213",
+    "end": "3328.200",
+    "parent_tu_id": "2364",
+    "text": "ok vuoi andare?"
+  },
+  {
+    "tu_id": "2367",
+    "speaker": "PSB066_trad",
+    "start": "3328.227",
+    "end": "3331.242",
+    "parent_tu_id": "2366",
+    "text": "io vado in vacanza"
+  },
+  {
+    "tu_id": "2375",
+    "speaker": "PSB069_trad",
+    "start": "3335.600",
+    "end": "3340.053",
+    "parent_tu_id": "2374",
+    "text": "escono puntuali che ore sono?"
+  },
+  {
+    "tu_id": "2426",
+    "speaker": "PSB0067_trad",
+    "start": "3390.520",
+    "end": "3394.870",
+    "parent_tu_id": "2425",
+    "text": ""
+  },
+  {
+    "tu_id": "2452",
+    "speaker": "PSB0067_trad",
+    "start": "3439.240",
+    "end": "3443.987",
+    "parent_tu_id": "2451",
+    "text": "perché noi usiamo la tastiera in francese e non lo sappiamo usare in arabo"
+  },
+  {
+    "tu_id": "2463",
+    "speaker": "PSB0067_trad",
+    "start": "3465.410",
+    "end": "3467.201",
+    "parent_tu_id": "2462",
+    "text": "in arabo sulla tastiera no"
+  },
+  {
+    "tu_id": "2738",
+    "speaker": "PSB066_trad",
+    "start": "3950.027",
+    "end": "3952.611",
+    "parent_tu_id": "2737",
+    "text": "e faccio anche ceramica non so come"
+  },
+  {
+    "tu_id": "2740",
+    "speaker": "PSB0067_trad",
+    "start": "3951.610",
+    "end": "3952.578",
+    "parent_tu_id": "2739",
+    "text": "fa il ceramica"
+  },
+  {
+    "tu_id": "2772",
+    "speaker": "PSB066_trad",
+    "start": "3996.215",
+    "end": "3999.215",
+    "parent_tu_id": "2771",
+    "text": ""
+  }
+]

@@ -1,0 +1,1322 @@
+[
+  {
+    "tu_id": "2",
+    "speaker": "PSB126_trad",
+    "start": "0.380",
+    "end": "9.796",
+    "parent_tu_id": "1",
+    "text": "quest'anno se dio vuole andiamo in marocco @sara le farà il matrimonio casa una festicciola"
+  },
+  {
+    "tu_id": "4",
+    "speaker": "PSB125_trad",
+    "start": "8.000",
+    "end": "9.790",
+    "parent_tu_id": "3",
+    "text": "ma"
+  },
+  {
+    "tu_id": "6",
+    "speaker": "PSB125_trad",
+    "start": "10.000",
+    "end": "12.020",
+    "parent_tu_id": "5",
+    "text": "ma in marocco o in italia"
+  },
+  {
+    "tu_id": "8",
+    "speaker": "PSB126_trad",
+    "start": "11.380",
+    "end": "16.427",
+    "parent_tu_id": "7",
+    "text": "no in marocco in italia l'ha già fatto in marocco"
+  },
+  {
+    "tu_id": "10",
+    "speaker": "PSB125_trad",
+    "start": "15.440",
+    "end": "16.170",
+    "parent_tu_id": "9",
+    "text": "in marocco"
+  },
+  {
+    "tu_id": "12",
+    "speaker": "PSB125_trad",
+    "start": "16.480",
+    "end": "20.044",
+    "parent_tu_id": "11",
+    "text": "nella casa di zia @miriam o"
+  },
+  {
+    "tu_id": "15",
+    "speaker": "PSB126_trad",
+    "start": "20.050",
+    "end": "21.700",
+    "parent_tu_id": "14",
+    "text": "casa della tua zia @miriam"
+  },
+  {
+    "tu_id": "18",
+    "speaker": "PSB125_trad",
+    "start": "24.320",
+    "end": "25.780",
+    "parent_tu_id": "17",
+    "text": "ha ancora la seconda superiore?"
+  },
+  {
+    "tu_id": "21",
+    "speaker": "PSB126_trad",
+    "start": "27.305",
+    "end": "34.260",
+    "parent_tu_id": "20",
+    "text": "inviti le persone del marocco le sue amiche e la famiglia"
+  },
+  {
+    "tu_id": "23",
+    "speaker": "PSB125_trad",
+    "start": "34.260",
+    "end": "40.098",
+    "parent_tu_id": "22",
+    "text": "karim invece dove abita in marocco? vicino a noi?"
+  },
+  {
+    "tu_id": "26",
+    "speaker": "PSB126_trad",
+    "start": "38.600",
+    "end": "43.460",
+    "parent_tu_id": "25",
+    "text": "lui abita a kenitra"
+  },
+  {
+    "tu_id": "31",
+    "speaker": "PSB126_trad",
+    "start": "48.751",
+    "end": "55.400",
+    "parent_tu_id": "30",
+    "text": "hai visto che qua in italia ha fatto la festa di matrimonio però manca quella del marocco"
+  },
+  {
+    "tu_id": "33",
+    "speaker": "PSB126_trad",
+    "start": "56.250",
+    "end": "63.200",
+    "parent_tu_id": "32",
+    "text": "per forza dobbiamo andare se dio vuole anche tu ci sarai, che vestito dovrai comprare? vestito"
+  },
+  {
+    "tu_id": "37",
+    "speaker": "PSB125_trad",
+    "start": "66.392",
+    "end": "68.950",
+    "parent_tu_id": "36",
+    "text": "a me non piacciono non mi piace"
+  },
+  {
+    "tu_id": "39",
+    "speaker": "PSB126_trad",
+    "start": "68.240",
+    "end": "70.264",
+    "parent_tu_id": "38",
+    "text": "no una cosa nuova @samira"
+  },
+  {
+    "tu_id": "42",
+    "speaker": "PSB126_trad",
+    "start": "72.580",
+    "end": "75.050",
+    "parent_tu_id": "41",
+    "text": "no no no quei vestiti li hai usati qua"
+  },
+  {
+    "tu_id": "51",
+    "speaker": "PSB126_trad",
+    "start": "86.818",
+    "end": "87.700",
+    "parent_tu_id": "50",
+    "text": "nude?"
+  },
+  {
+    "tu_id": "53",
+    "speaker": "PSB126_trad",
+    "start": "88.150",
+    "end": "89.340",
+    "parent_tu_id": "52",
+    "text": "tu e tuo padre?"
+  },
+  {
+    "tu_id": "64",
+    "speaker": "PSB126_trad",
+    "start": "112.680",
+    "end": "115.084",
+    "parent_tu_id": "63",
+    "text": "il kaftano conosciuto in marocco"
+  },
+  {
+    "tu_id": "71",
+    "speaker": "PSB125_trad",
+    "start": "126.660",
+    "end": "129.305",
+    "parent_tu_id": "70",
+    "text": "alta non so come dire alta moda? di moda"
+  },
+  {
+    "tu_id": "83",
+    "speaker": "PSB126_trad",
+    "start": "150.780",
+    "end": "155.271",
+    "parent_tu_id": "82",
+    "text": "ma sei una ragazzina ci vuole eh eh ti serve una cosa una cosa semplice"
+  },
+  {
+    "tu_id": "89",
+    "speaker": "PSB126_trad",
+    "start": "167.377",
+    "end": "170.306",
+    "parent_tu_id": "88",
+    "text": "non posso comprarti uno da mille euro"
+  },
+  {
+    "tu_id": "103",
+    "speaker": "PSB126_trad",
+    "start": "197.158",
+    "end": "201.762",
+    "parent_tu_id": "102",
+    "text": "nei nostri matrimoni mettiamo sempre il kaftan sempre il kaftan nei nostri matrimoni"
+  },
+  {
+    "tu_id": "142",
+    "speaker": "PSB125_trad",
+    "start": "278.120",
+    "end": "279.570",
+    "parent_tu_id": "141",
+    "text": "il matrimonio di @sara"
+  },
+  {
+    "tu_id": "144",
+    "speaker": "PSB126_trad",
+    "start": "279.890",
+    "end": "285.290",
+    "parent_tu_id": "143",
+    "text": "eh il matrimonio di @sara dobbiamo farlo dobbiamo andarci se dio vuole e devi vestirti se dio vuole devi"
+  },
+  {
+    "tu_id": "146",
+    "speaker": "PSB126_trad",
+    "start": "285.570",
+    "end": "289.470",
+    "parent_tu_id": "145",
+    "text": "serve anche a @mohammed un costume"
+  },
+  {
+    "tu_id": "148",
+    "speaker": "PSB125_trad",
+    "start": "289.240",
+    "end": "290.364",
+    "parent_tu_id": "147",
+    "text": "eh vabbé @l-mohammed"
+  },
+  {
+    "tu_id": "182",
+    "speaker": "PSB126_trad",
+    "start": "339.560",
+    "end": "340.460",
+    "parent_tu_id": "181",
+    "text": "speriamo su dio"
+  },
+  {
+    "tu_id": "194",
+    "speaker": "PSB126_trad",
+    "start": "358.840",
+    "end": "359.650",
+    "parent_tu_id": "193",
+    "text": "lasciala suonare"
+  },
+  {
+    "tu_id": "214",
+    "speaker": "PSB126_trad",
+    "start": "400.230",
+    "end": "401.990",
+    "parent_tu_id": "213",
+    "text": "andiamo andiamo tutti insieme"
+  },
+  {
+    "tu_id": "216",
+    "speaker": "PSB126_trad",
+    "start": "403.000",
+    "end": "404.986",
+    "parent_tu_id": "215",
+    "text": "assistiamo al matrimonio se dio vuole"
+  },
+  {
+    "tu_id": "223",
+    "speaker": "PSB125_trad",
+    "start": "423.510",
+    "end": "426.980",
+    "parent_tu_id": "222",
+    "text": "mamma parla normalmente cioè"
+  },
+  {
+    "tu_id": "225",
+    "speaker": "PSB126_trad",
+    "start": "425.690",
+    "end": "428.817",
+    "parent_tu_id": "224",
+    "text": "eh sto parlando normalmente normalmente"
+  },
+  {
+    "tu_id": "227",
+    "speaker": "PSB125_trad",
+    "start": "427.720",
+    "end": "432.430",
+    "parent_tu_id": "226",
+    "text": "non parli molto in arabo in italiano quando sei da sola con me"
+  },
+  {
+    "tu_id": "229",
+    "speaker": "PSB126_trad",
+    "start": "432.081",
+    "end": "434.498",
+    "parent_tu_id": "228",
+    "text": "no io parlo molto in italiano"
+  },
+  {
+    "tu_id": "232",
+    "speaker": "PSB126_trad",
+    "start": "436.950",
+    "end": "439.949",
+    "parent_tu_id": "231",
+    "text": "eh figlia mia non vuoi andare che cosa devo fare io?"
+  },
+  {
+    "tu_id": "236",
+    "speaker": "PSB126_trad",
+    "start": "444.000",
+    "end": "446.180",
+    "parent_tu_id": "235",
+    "text": "se dio vuole se dio vuole"
+  },
+  {
+    "tu_id": "238",
+    "speaker": "PSB126_trad",
+    "start": "447.200",
+    "end": "449.650",
+    "parent_tu_id": "237",
+    "text": "perché perché potrebbe esserci la guerra"
+  },
+  {
+    "tu_id": "241",
+    "speaker": "PSB126_trad",
+    "start": "450.680",
+    "end": "452.570",
+    "parent_tu_id": "240",
+    "text": "potrebbe esserci"
+  },
+  {
+    "tu_id": "246",
+    "speaker": "PSB126_trad",
+    "start": "459.010",
+    "end": "463.000",
+    "parent_tu_id": "245",
+    "text": "non sappiamo se è per davvero o se sono bugie o se"
+  },
+  {
+    "tu_id": "248",
+    "speaker": "PSB126_trad",
+    "start": "464.010",
+    "end": "465.260",
+    "parent_tu_id": "247",
+    "text": "non sappiamo"
+  },
+  {
+    "tu_id": "250",
+    "speaker": "PSB126_trad",
+    "start": "466.410",
+    "end": "468.030",
+    "parent_tu_id": "249",
+    "text": "e poi da lì si vedrà"
+  },
+  {
+    "tu_id": "252",
+    "speaker": "PSB126_trad",
+    "start": "470.052",
+    "end": "479.990",
+    "parent_tu_id": "251",
+    "text": "io vorrei andare con voi vorrei che andassimo in tre se dio vuole in marocco così vedete la vostra casa e ci abitate per un po' se dio vuole"
+  },
+  {
+    "tu_id": "255",
+    "speaker": "PSB126_trad",
+    "start": "482.480",
+    "end": "489.496",
+    "parent_tu_id": "254",
+    "text": "eh sì un anno sì e un anno no io non vi dirò tutti gli anni andiamo però un anno sì e un anno no"
+  },
+  {
+    "tu_id": "257",
+    "speaker": "PSB126_trad",
+    "start": "490.870",
+    "end": "493.150",
+    "parent_tu_id": "256",
+    "text": "pure un anno sì e due anni no?"
+  },
+  {
+    "tu_id": "260",
+    "speaker": "PSB126_trad",
+    "start": "495.450",
+    "end": "511.020",
+    "parent_tu_id": "259",
+    "text": "eh basta speriamo se dio vuole che anche @said si sposa e che anche te ti sposi se dio vuole quando finisci gli studi se li finisci se dio vuole e che tu poi possa lavorare"
+  },
+  {
+    "tu_id": "262",
+    "speaker": "PSB126_trad",
+    "start": "511.460",
+    "end": "515.259",
+    "parent_tu_id": "261",
+    "text": "comprare la macchina prendere la patente e poi comprare la macchina se dio vuole"
+  },
+  {
+    "tu_id": "264",
+    "speaker": "PSB125_trad",
+    "start": "517.164",
+    "end": "518.238",
+    "parent_tu_id": "263",
+    "text": "parli ancora con @sara?"
+  },
+  {
+    "tu_id": "266",
+    "speaker": "PSB126_trad",
+    "start": "519.580",
+    "end": "524.150",
+    "parent_tu_id": "265",
+    "text": "a volte adesso che si è sposata troppo impegnata mh"
+  },
+  {
+    "tu_id": "268",
+    "speaker": "PSB126_trad",
+    "start": "524.860",
+    "end": "527.935",
+    "parent_tu_id": "267",
+    "text": "non ci siamo più sentite tanto com'era una volta"
+  },
+  {
+    "tu_id": "273",
+    "speaker": "PSB126_trad",
+    "start": "531.530",
+    "end": "532.289",
+    "parent_tu_id": "272",
+    "text": "no no"
+  },
+  {
+    "tu_id": "275",
+    "speaker": "PSB126_trad",
+    "start": "533.780",
+    "end": "538.188",
+    "parent_tu_id": "274",
+    "text": "non siamo ancora andati non ha ancora comprato il tavolo con le sedie"
+  },
+  {
+    "tu_id": "277",
+    "speaker": "PSB126_trad",
+    "start": "538.953",
+    "end": "541.259",
+    "parent_tu_id": "276",
+    "text": "non ha ancora messo a posto la casa"
+  },
+  {
+    "tu_id": "279",
+    "speaker": "PSB126_trad",
+    "start": "544.050",
+    "end": "545.473",
+    "parent_tu_id": "278",
+    "text": "ancora non è pronta"
+  },
+  {
+    "tu_id": "281",
+    "speaker": "PSB125_trad",
+    "start": "549.680",
+    "end": "552.246",
+    "parent_tu_id": "280",
+    "text": "e @fatima e le sue figlie?"
+  },
+  {
+    "tu_id": "284",
+    "speaker": "PSB126_trad",
+    "start": "553.299",
+    "end": "557.390",
+    "parent_tu_id": "283",
+    "text": "silla ha fatto il pellegrinaggio è andata in arabia"
+  },
+  {
+    "tu_id": "288",
+    "speaker": "PSB126_trad",
+    "start": "564.780",
+    "end": "569.679",
+    "parent_tu_id": "287",
+    "text": "perché ti ho visto che non parli in arabo non lo imparerai mai così tu mai impari l'arabo"
+  },
+  {
+    "tu_id": "290",
+    "speaker": "PSB126_trad",
+    "start": "571.010",
+    "end": "574.250",
+    "parent_tu_id": "289",
+    "text": "se continui così a parlare solo italiano italiano italiano italiano"
+  },
+  {
+    "tu_id": "292",
+    "speaker": "PSB125_trad",
+    "start": "574.390",
+    "end": "583.230",
+    "parent_tu_id": "291",
+    "text": "devo parlare per forza un po' di italiano se no questa non capirà niente. Mi ha detto parla anche in italiano"
+  },
+  {
+    "tu_id": "295",
+    "speaker": "PSB126_trad",
+    "start": "582.710",
+    "end": "585.369",
+    "parent_tu_id": "294",
+    "text": "non hai visto come prima parlavo in italiano però tu mi hai detto di non parlare più in italiano"
+  },
+  {
+    "tu_id": "297",
+    "speaker": "PSB125_trad",
+    "start": "585.400",
+    "end": "595.183",
+    "parent_tu_id": "296",
+    "text": "no nel senso parla normalmente pure io devo parlare normalmente io non parlo molto in arabo cioè parlo normale come tutti i giorni"
+  },
+  {
+    "tu_id": "299",
+    "speaker": "PSB125_trad",
+    "start": "595.850",
+    "end": "600.964",
+    "parent_tu_id": "298",
+    "text": "capito? così che la cosa poi sembra capito? così che poi la cosa sembra eh"
+  },
+  {
+    "tu_id": "302",
+    "speaker": "PSB125_trad",
+    "start": "602.000",
+    "end": "603.950",
+    "parent_tu_id": "301",
+    "text": "sembra"
+  },
+  {
+    "tu_id": "304",
+    "speaker": "PSB126_trad",
+    "start": "603.000",
+    "end": "612.569",
+    "parent_tu_id": "303",
+    "text": "speriamo in dio se dio vuole che quest'anno duemila e venticinque sia se dio vuole"
+  },
+  {
+    "tu_id": "306",
+    "speaker": "PSB125_trad",
+    "start": "610.620",
+    "end": "612.530",
+    "parent_tu_id": "305",
+    "text": "quindi non parli con loro?"
+  },
+  {
+    "tu_id": "308",
+    "speaker": "PSB126_trad",
+    "start": "613.040",
+    "end": "614.194",
+    "parent_tu_id": "307",
+    "text": "non parlo con loro"
+  },
+  {
+    "tu_id": "310",
+    "speaker": "PSB125_trad",
+    "start": "614.490",
+    "end": "615.200",
+    "parent_tu_id": "309",
+    "text": "basta?"
+  },
+  {
+    "tu_id": "312",
+    "speaker": "PSB126_trad",
+    "start": "616.210",
+    "end": "616.845",
+    "parent_tu_id": "311",
+    "text": "con chi?"
+  },
+  {
+    "tu_id": "314",
+    "speaker": "PSB125_trad",
+    "start": "617.690",
+    "end": "619.865",
+    "parent_tu_id": "313",
+    "text": "con silla e le sue figlie"
+  },
+  {
+    "tu_id": "316",
+    "speaker": "PSB126_trad",
+    "start": "619.360",
+    "end": "623.762",
+    "parent_tu_id": "315",
+    "text": "@samira ti ho detto che @fatima è in pellegrinaggio"
+  },
+  {
+    "tu_id": "318",
+    "speaker": "PSB125_trad",
+    "start": "622.846",
+    "end": "624.746",
+    "parent_tu_id": "317",
+    "text": "al matrimonio non"
+  },
+  {
+    "tu_id": "326",
+    "speaker": "PSB126_trad",
+    "start": "638.770",
+    "end": "642.394",
+    "parent_tu_id": "325",
+    "text": "no non è quello non è non è quello il problema"
+  },
+  {
+    "tu_id": "333",
+    "speaker": "PSB126_trad",
+    "start": "652.080",
+    "end": "659.020",
+    "parent_tu_id": "332",
+    "text": "come i matrimoni in marocco o i matrimoni che si fanno qua nelle sale dove tutti mangiano e puoi invitare anche i tuoi amici"
+  },
+  {
+    "tu_id": "335",
+    "speaker": "PSB126_trad",
+    "start": "659.230",
+    "end": "662.779",
+    "parent_tu_id": "334",
+    "text": "invece il il ristorante costa alla persona"
+  },
+  {
+    "tu_id": "356",
+    "speaker": "PSB126_trad",
+    "start": "716.170",
+    "end": "718.113",
+    "parent_tu_id": "355",
+    "text": "però è passato bene da lei"
+  },
+  {
+    "tu_id": "365",
+    "speaker": "PSB126_trad",
+    "start": "734.861",
+    "end": "738.976",
+    "parent_tu_id": "364",
+    "text": "è stato molto bello e ha pure piovuto quel giorno"
+  },
+  {
+    "tu_id": "368",
+    "speaker": "PSB126_trad",
+    "start": "745.270",
+    "end": "746.950",
+    "parent_tu_id": "367",
+    "text": "sarai tu la prossima (a sposarti) se dio vuole"
+  },
+  {
+    "tu_id": "370",
+    "speaker": "PSB126_trad",
+    "start": "748.610",
+    "end": "749.334",
+    "parent_tu_id": "369",
+    "text": "se dio vuole"
+  },
+  {
+    "tu_id": "377",
+    "speaker": "PSB126_trad",
+    "start": "757.700",
+    "end": "759.280",
+    "parent_tu_id": "376",
+    "text": "era bella"
+  },
+  {
+    "tu_id": "393",
+    "speaker": "PSB126_trad",
+    "start": "784.390",
+    "end": "791.215",
+    "parent_tu_id": "392",
+    "text": "xxx aveva tanti capelli non parlare mai dei bambini piccoli così cioè"
+  },
+  {
+    "tu_id": "405",
+    "speaker": "PSB126_trad",
+    "start": "817.250",
+    "end": "820.475",
+    "parent_tu_id": "404",
+    "text": "i bambini piccoli sono tutti belli"
+  },
+  {
+    "tu_id": "411",
+    "speaker": "PSB126_trad",
+    "start": "831.992",
+    "end": "833.873",
+    "parent_tu_id": "410",
+    "text": "assomi::- assomigliava a suo padre"
+  },
+  {
+    "tu_id": "414",
+    "speaker": "PSB126_trad",
+    "start": "835.480",
+    "end": "837.061",
+    "parent_tu_id": "413",
+    "text": "che mamma assomigliava a suo padre"
+  },
+  {
+    "tu_id": "418",
+    "speaker": "PSB126_trad",
+    "start": "840.770",
+    "end": "842.880",
+    "parent_tu_id": "417",
+    "text": "no quelo con i capelli neri"
+  },
+  {
+    "tu_id": "429",
+    "speaker": "PSB126_trad",
+    "start": "861.569",
+    "end": "862.384",
+    "parent_tu_id": "428",
+    "text": "quella bassa"
+  },
+  {
+    "tu_id": "432",
+    "speaker": "PSB126_trad",
+    "start": "865.730",
+    "end": "867.117",
+    "parent_tu_id": "431",
+    "text": "stava tenendo in mano sua figlia"
+  },
+  {
+    "tu_id": "436",
+    "speaker": "PSB126_trad",
+    "start": "869.960",
+    "end": "871.925",
+    "parent_tu_id": "435",
+    "text": "eh stava tenendo sua figlia"
+  },
+  {
+    "tu_id": "442",
+    "speaker": "PSB125_trad",
+    "start": "881.500",
+    "end": "883.010",
+    "parent_tu_id": "441",
+    "text": "dall'arabia saudita"
+  },
+  {
+    "tu_id": "446",
+    "speaker": "PSB126_trad",
+    "start": "890.030",
+    "end": "892.050",
+    "parent_tu_id": "445",
+    "text": "la bocca dell'altra grande"
+  },
+  {
+    "tu_id": "458",
+    "speaker": "PSB126_trad",
+    "start": "910.010",
+    "end": "912.030",
+    "parent_tu_id": "457",
+    "text": "però quella giovane"
+  },
+  {
+    "tu_id": "464",
+    "speaker": "PSB126_trad",
+    "start": "919.630",
+    "end": "927.990",
+    "parent_tu_id": "463",
+    "text": "eh lo so tu stai parlando hai detto che assomigliano ai persiani e io ti ho detto perché hanno le loro labbra come quelle delle donne degli emirati arabi che hanno tutte le labbra rifatte"
+  },
+  {
+    "tu_id": "525",
+    "speaker": "PSB126_trad",
+    "start": "1075.520",
+    "end": "1077.722",
+    "parent_tu_id": "524",
+    "text": "io ti ho detto che si assomigliano"
+  },
+  {
+    "tu_id": "528",
+    "speaker": "PSB125_trad",
+    "start": "1077.723",
+    "end": "1078.553",
+    "parent_tu_id": "527",
+    "text": "sì"
+  },
+  {
+    "tu_id": "530",
+    "speaker": "PSB126_trad",
+    "start": "1078.870",
+    "end": "1083.378",
+    "parent_tu_id": "529",
+    "text": "una volta ho incontrato una iraniana quando ero andata da mondo convenienza per la cucina e c'era una che lavorava lì"
+  },
+  {
+    "tu_id": "532",
+    "speaker": "PSB126_trad",
+    "start": "1083.910",
+    "end": "1090.421",
+    "parent_tu_id": "531",
+    "text": "io ero uscita ad aspettare il trenta ed ero ferma alla fermata quando anche lei che lavorava lì è andata ad aspettare alla fermata con me"
+  },
+  {
+    "tu_id": "534",
+    "speaker": "PSB126_trad",
+    "start": "1090.589",
+    "end": "1091.967",
+    "parent_tu_id": "533",
+    "text": "ha continuato a guardarmi"
+  },
+  {
+    "tu_id": "536",
+    "speaker": "PSB126_trad",
+    "start": "1092.200",
+    "end": "1093.957",
+    "parent_tu_id": "535",
+    "text": "ha continuato a guardarmi e mi ha detto"
+  },
+  {
+    "tu_id": "540",
+    "speaker": "PSB126_trad",
+    "start": "1098.400",
+    "end": "1100.475",
+    "parent_tu_id": "539",
+    "text": "io le ho detto che ero marocchina"
+  },
+  {
+    "tu_id": "542",
+    "speaker": "PSB126_trad",
+    "start": "1100.800",
+    "end": "1105.011",
+    "parent_tu_id": "541",
+    "text": "mi ha detto ah tutti noi siamo belli ed effettivamente lei è bella"
+  },
+  {
+    "tu_id": "550",
+    "speaker": "PSB126_trad",
+    "start": "1120.220",
+    "end": "1125.656",
+    "parent_tu_id": "549",
+    "text": "me l'ha chiesto le ho detto anche il marocco e mi ha detto anche in marocco siete belli siete così"
+  },
+  {
+    "tu_id": "563",
+    "speaker": "PSB126_trad",
+    "start": "1148.170",
+    "end": "1149.264",
+    "parent_tu_id": "562",
+    "text": "xx bellx"
+  },
+  {
+    "tu_id": "574",
+    "speaker": "PSB126_trad",
+    "start": "1169.780",
+    "end": "1172.164",
+    "parent_tu_id": "573",
+    "text": "eh verranno fuori belli perché cos'hanno"
+  },
+  {
+    "tu_id": "577",
+    "speaker": "PSB126_trad",
+    "start": "1172.580",
+    "end": "1173.961",
+    "parent_tu_id": "576",
+    "text": "@sara non è male"
+  },
+  {
+    "tu_id": "580",
+    "speaker": "PSB126_trad",
+    "start": "1175.011",
+    "end": "1176.900",
+    "parent_tu_id": "579",
+    "text": "@yussef non è male"
+  },
+  {
+    "tu_id": "591",
+    "speaker": "PSB126_trad",
+    "start": "1195.978",
+    "end": "1198.311",
+    "parent_tu_id": "590",
+    "text": "anche @sara ha un bello"
+  },
+  {
+    "tu_id": "600",
+    "speaker": "PSB126_trad",
+    "start": "1210.756",
+    "end": "1212.146",
+    "parent_tu_id": "599",
+    "text": "wafa ha la gobbetta"
+  },
+  {
+    "tu_id": "620",
+    "speaker": "PSB125_trad",
+    "start": "1253.540",
+    "end": "1254.630",
+    "parent_tu_id": "619",
+    "text": "zia @miriam"
+  },
+  {
+    "tu_id": "632",
+    "speaker": "PSB125_trad",
+    "start": "1272.220",
+    "end": "1276.615",
+    "parent_tu_id": "631",
+    "text": "e la sara non ha gli occhi grandi zia @miriam pure"
+  },
+  {
+    "tu_id": "642",
+    "speaker": "PSB126_trad",
+    "start": "1303.710",
+    "end": "1307.048",
+    "parent_tu_id": "641",
+    "text": "nessuno lo può sapere solo dio può saperlo"
+  },
+  {
+    "tu_id": "653",
+    "speaker": "PSB126_trad",
+    "start": "1327.310",
+    "end": "1330.278",
+    "parent_tu_id": "652",
+    "text": "continui a pensare su queste piccole cose"
+  },
+  {
+    "tu_id": "667",
+    "speaker": "PSB126_trad",
+    "start": "1351.520",
+    "end": "1358.199",
+    "parent_tu_id": "666",
+    "text": "adesso vediamo anche tu se dio vuole finirai i tuoi studi e se dio vuole quando prenderai la patente?"
+  },
+  {
+    "tu_id": "673",
+    "speaker": "PSB126_trad",
+    "start": "1361.778",
+    "end": "1364.175",
+    "parent_tu_id": "672",
+    "text": "quando inizierai xx"
+  },
+  {
+    "tu_id": "676",
+    "speaker": "PSB126_trad",
+    "start": "1367.250",
+    "end": "1371.559",
+    "parent_tu_id": "675",
+    "text": "no quando inizierai questo corso di segretaria"
+  },
+  {
+    "tu_id": "681",
+    "speaker": "PSB126_trad",
+    "start": "1377.040",
+    "end": "1378.388",
+    "parent_tu_id": "680",
+    "text": "quan~ quando finirà?"
+  },
+  {
+    "tu_id": "684",
+    "speaker": "PSB126_trad",
+    "start": "1383.545",
+    "end": "1385.861",
+    "parent_tu_id": "683",
+    "text": "quan~ quante volte andrai a settimana?"
+  },
+  {
+    "tu_id": "691",
+    "speaker": "PSB126_trad",
+    "start": "1397.989",
+    "end": "1399.100",
+    "parent_tu_id": "690",
+    "text": "ci puoi lavorare?"
+  },
+  {
+    "tu_id": "694",
+    "speaker": "PSB126_trad",
+    "start": "1403.367",
+    "end": "1408.811",
+    "parent_tu_id": "693",
+    "text": "appena lo prendi inizia a fare domanda per il lavoro che dio ti possa aiutare"
+  },
+  {
+    "tu_id": "697",
+    "speaker": "PSB126_trad",
+    "start": "1410.000",
+    "end": "1415.433",
+    "parent_tu_id": "696",
+    "text": "lavora così che studia finisici i tuoi studi così almeno troverai un posto"
+  },
+  {
+    "tu_id": "707",
+    "speaker": "PSB126_trad",
+    "start": "1429.657",
+    "end": "1430.757",
+    "parent_tu_id": "706",
+    "text": "ho @latifa"
+  },
+  {
+    "tu_id": "709",
+    "speaker": "PSB126_trad",
+    "start": "1432.440",
+    "end": "1435.950",
+    "parent_tu_id": "708",
+    "text": "ho @latifa la figlia di @hanane e ho @souad la mia amica"
+  },
+  {
+    "tu_id": "711",
+    "speaker": "PSB126_trad",
+    "start": "1438.378",
+    "end": "1439.597",
+    "parent_tu_id": "710",
+    "text": "e basta"
+  },
+  {
+    "tu_id": "713",
+    "speaker": "PSB126_trad",
+    "start": "1440.022",
+    "end": "1442.811",
+    "parent_tu_id": "712",
+    "text": "queste sono le mie amiche"
+  },
+  {
+    "tu_id": "715",
+    "speaker": "PSB125_trad",
+    "start": "1446.427",
+    "end": "1447.294",
+    "parent_tu_id": "714",
+    "text": "va bene"
+  },
+  {
+    "tu_id": "719",
+    "speaker": "PSB126_trad",
+    "start": "1463.520",
+    "end": "1466.438",
+    "parent_tu_id": "718",
+    "text": "a volte la chiamo ma solo a volte"
+  },
+  {
+    "tu_id": "722",
+    "speaker": "PSB126_trad",
+    "start": "1471.190",
+    "end": "1474.358",
+    "parent_tu_id": "721",
+    "text": "e:h ognuna si preoccupa solo di sè stesso"
+  },
+  {
+    "tu_id": "725",
+    "speaker": "PSB126_trad",
+    "start": "1476.800",
+    "end": "1477.812",
+    "parent_tu_id": "724",
+    "text": "bene"
+  },
+  {
+    "tu_id": "728",
+    "speaker": "PSB126_trad",
+    "start": "1478.422",
+    "end": "1480.611",
+    "parent_tu_id": "727",
+    "text": "il rapporto è tornato come una volta però eh eh"
+  },
+  {
+    "tu_id": "730",
+    "speaker": "PSB126_trad",
+    "start": "1481.390",
+    "end": "1483.722",
+    "parent_tu_id": "729",
+    "text": "avevamo litigato però poi ci siamo riappacificate"
+  },
+  {
+    "tu_id": "734",
+    "speaker": "PSB125_trad",
+    "start": "1487.790",
+    "end": "1490.814",
+    "parent_tu_id": "733",
+    "text": "di zia @miriam"
+  },
+  {
+    "tu_id": "738",
+    "speaker": "PSB126_trad",
+    "start": "1493.589",
+    "end": "1497.000",
+    "parent_tu_id": "737",
+    "text": "cosa stai cosa stai dicendo"
+  },
+  {
+    "tu_id": "746",
+    "speaker": "PSB125_trad",
+    "start": "1511.360",
+    "end": "1516.176",
+    "parent_tu_id": "745",
+    "text": "mh chi è peggiore zia @miriam o la zia @sou~ io mi ricordo una volta quando ero piccola,"
+  },
+  {
+    "tu_id": "758",
+    "speaker": "PSB126_trad",
+    "start": "1544.589",
+    "end": "1546.596",
+    "parent_tu_id": "757",
+    "text": "perché? cosa ti ha fatto?"
+  },
+  {
+    "tu_id": "779",
+    "speaker": "PSB126_trad",
+    "start": "1609.589",
+    "end": "1614.000",
+    "parent_tu_id": "778",
+    "text": "non devi sempre pensare così. basta. ti ha comprato una cosa"
+  },
+  {
+    "tu_id": "789",
+    "speaker": "PSB126_trad",
+    "start": "1638.978",
+    "end": "1642.169",
+    "parent_tu_id": "788",
+    "text": "perché non sei cresciuta con lei e non hai vissuto con lei"
+  },
+  {
+    "tu_id": "794",
+    "speaker": "PSB126_trad",
+    "start": "1649.656",
+    "end": "1650.845",
+    "parent_tu_id": "793",
+    "text": "eh eh è mia sorella"
+  },
+  {
+    "tu_id": "798",
+    "speaker": "PSB126_trad",
+    "start": "1656.404",
+    "end": "1658.255",
+    "parent_tu_id": "797",
+    "text": "siamo cresciute insieme"
+  },
+  {
+    "tu_id": "800",
+    "speaker": "PSB126_trad",
+    "start": "1660.222",
+    "end": "1662.670",
+    "parent_tu_id": "799",
+    "text": "però lei si è sposata a ventidue anni"
+  },
+  {
+    "tu_id": "803",
+    "speaker": "PSB126_trad",
+    "start": "1664.520",
+    "end": "1665.361",
+    "parent_tu_id": "802",
+    "text": "è andata"
+  },
+  {
+    "tu_id": "807",
+    "speaker": "PSB126_trad",
+    "start": "1669.578",
+    "end": "1673.593",
+    "parent_tu_id": "806",
+    "text": "da noi non è visto male e non è un peccato sposarsi col proprio cugino"
+  },
+  {
+    "tu_id": "814",
+    "speaker": "PSB126_trad",
+    "start": "1681.468",
+    "end": "1684.434",
+    "parent_tu_id": "813",
+    "text": "lui stava a stat e lei stava a casablanca ma che cosa"
+  },
+  {
+    "tu_id": "823",
+    "speaker": "PSB126_trad",
+    "start": "1715.478",
+    "end": "1717.289",
+    "parent_tu_id": "822",
+    "text": "adesso eh devo chiamarlo"
+  },
+  {
+    "tu_id": "825",
+    "speaker": "PSB126_trad",
+    "start": "1718.178",
+    "end": "1719.843",
+    "parent_tu_id": "824",
+    "text": "quello poi se non lo chiamo"
+  },
+  {
+    "tu_id": "832",
+    "speaker": "PSB126_trad",
+    "start": "1736.833",
+    "end": "1740.191",
+    "parent_tu_id": "831",
+    "text": "basta basta che torni con loro xxx"
+  },
+  {
+    "tu_id": "835",
+    "speaker": "PSB126_trad",
+    "start": "1741.689",
+    "end": "1742.467",
+    "parent_tu_id": "834",
+    "text": "vabbè"
+  },
+  {
+    "tu_id": "842",
+    "speaker": "PSB126_trad",
+    "start": "1765.633",
+    "end": "1769.989",
+    "parent_tu_id": "841",
+    "text": "oppure se tu finisci per le loro ti possono portare in fermata e da lì puoi prendere il bus"
+  },
+  {
+    "tu_id": "845",
+    "speaker": "PSB126_trad",
+    "start": "1774.522",
+    "end": "1776.378",
+    "parent_tu_id": "844",
+    "text": "dove siete domani"
+  },
+  {
+    "tu_id": "850",
+    "speaker": "PSB126_trad",
+    "start": "1787.233",
+    "end": "1788.311",
+    "parent_tu_id": "849",
+    "text": "comunque stai attenta"
+  },
+  {
+    "tu_id": "852",
+    "speaker": "PSB126_trad",
+    "start": "1789.011",
+    "end": "1792.033",
+    "parent_tu_id": "851",
+    "text": "non entrare in questioni lontane da te"
+  },
+  {
+    "tu_id": "855",
+    "speaker": "PSB126_trad",
+    "start": "1792.422",
+    "end": "1798.578",
+    "parent_tu_id": "854",
+    "text": "e non si sa mai se potrebbe succedere un problema non sai cosa potrebbe succedere"
+  },
+  {
+    "tu_id": "862",
+    "speaker": "PSB126_trad",
+    "start": "1820.489",
+    "end": "1822.800",
+    "parent_tu_id": "861",
+    "text": "ho fatto la zuppa del cereale"
+  },
+  {
+    "tu_id": "866",
+    "speaker": "PSB126_trad",
+    "start": "1829.345",
+    "end": "1830.264",
+    "parent_tu_id": "865",
+    "text": "facciamo qualcos'altro?"
+  },
+  {
+    "tu_id": "872",
+    "speaker": "PSB125_trad",
+    "start": "1841.767",
+    "end": "1843.456",
+    "parent_tu_id": "871",
+    "text": "quella col riso"
+  },
+  {
+    "tu_id": "875",
+    "speaker": "PSB125_trad",
+    "start": "1844.636",
+    "end": "1845.369",
+    "parent_tu_id": "874",
+    "text": "del viso"
+  },
+  {
+    "tu_id": "877",
+    "speaker": "PSB125_trad",
+    "start": "1846.322",
+    "end": "1848.200",
+    "parent_tu_id": "876",
+    "text": "maschera del viso di riso"
+  },
+  {
+    "tu_id": "880",
+    "speaker": "PSB125_trad",
+    "start": "1848.956",
+    "end": "1849.673",
+    "parent_tu_id": "879",
+    "text": "di riso?"
+  },
+  {
+    "tu_id": "882",
+    "speaker": "PSB126_trad",
+    "start": "1850.256",
+    "end": "1852.211",
+    "parent_tu_id": "881",
+    "text": "si il riso frullato"
+  },
+  {
+    "tu_id": "884",
+    "speaker": "PSB125_trad",
+    "start": "1853.000",
+    "end": "1854.011",
+    "parent_tu_id": "883",
+    "text": "il miele"
+  },
+  {
+    "tu_id": "887",
+    "speaker": "PSB126_trad",
+    "start": "1854.967",
+    "end": "1856.279",
+    "parent_tu_id": "886",
+    "text": "quella fecola"
+  },
+  {
+    "tu_id": "891",
+    "speaker": "PSB126_trad",
+    "start": "1861.167",
+    "end": "1861.743",
+    "parent_tu_id": "890",
+    "text": "bella"
+  },
+  {
+    "tu_id": "893",
+    "speaker": "PSB126_trad",
+    "start": "1862.240",
+    "end": "1863.017",
+    "parent_tu_id": "892",
+    "text": "hai quella"
+  },
+  {
+    "tu_id": "898",
+    "speaker": "PSB126_trad",
+    "start": "1869.578",
+    "end": "1874.649",
+    "parent_tu_id": "897",
+    "text": "devi seguirla (la ricetta) che ti ho detto e vedrai la differenza i primi due o tre giorni"
+  },
+  {
+    "tu_id": "900",
+    "speaker": "PSB126_trad",
+    "start": "1875.120",
+    "end": "1876.190",
+    "parent_tu_id": "899",
+    "text": "ha la fecola"
+  },
+  {
+    "tu_id": "904",
+    "speaker": "PSB126_trad",
+    "start": "1879.000",
+    "end": "1880.693",
+    "parent_tu_id": "903",
+    "text": "ancora buona nel frigo"
+  },
+  {
+    "tu_id": "906",
+    "speaker": "PSB126_trad",
+    "start": "1881.227",
+    "end": "1883.160",
+    "parent_tu_id": "905",
+    "text": "aspetta c'ha l'avena"
+  },
+  {
+    "tu_id": "909",
+    "speaker": "PSB126_trad",
+    "start": "1885.134",
+    "end": "1889.032",
+    "parent_tu_id": "908",
+    "text": "l'ho frullata l'avena l'ho frullata"
+  }
+]

@@ -1,0 +1,210 @@
+[
+  {
+    "tu_id": "72",
+    "speaker": "PSB147_trad",
+    "start": "119.361",
+    "end": "120.579",
+    "parent_tu_id": "71",
+    "text": ""
+  },
+  {
+    "tu_id": "299",
+    "speaker": "PSB147_trad",
+    "start": "418.424",
+    "end": "420.854",
+    "parent_tu_id": "298",
+    "text": "da cucire? (.) macchina da cucire?"
+  },
+  {
+    "tu_id": "302",
+    "speaker": "PSB147_trad",
+    "start": "421.414",
+    "end": "422.319",
+    "parent_tu_id": "301",
+    "text": "da cucire"
+  },
+  {
+    "tu_id": "304",
+    "speaker": "PSB153_trad",
+    "start": "422.419",
+    "end": "425.838",
+    "parent_tu_id": "303",
+    "text": "non lo so non lo so"
+  },
+  {
+    "tu_id": "306",
+    "speaker": "PSB147_trad",
+    "start": "423.584",
+    "end": "424.136",
+    "parent_tu_id": "305",
+    "text": ""
+  },
+  {
+    "tu_id": "311",
+    "speaker": "PSB147_trad",
+    "start": "427.172",
+    "end": "428.485",
+    "parent_tu_id": "310",
+    "text": ""
+  },
+  {
+    "tu_id": "555",
+    "speaker": "PSB153_trad",
+    "start": "747.226",
+    "end": "748.145",
+    "parent_tu_id": "554",
+    "text": "perché ce ne sono due"
+  },
+  {
+    "tu_id": "601",
+    "speaker": "PSB153_trad",
+    "start": "801.948",
+    "end": "802.460",
+    "parent_tu_id": "600",
+    "text": "l'affitto"
+  },
+  {
+    "tu_id": "864",
+    "speaker": "PSB153_trad",
+    "start": "1115.520",
+    "end": "1116.273",
+    "parent_tu_id": "863",
+    "text": "sai cantare?"
+  },
+  {
+    "tu_id": "1020",
+    "speaker": "PSB153_trad",
+    "start": "1324.938",
+    "end": "1326.125",
+    "parent_tu_id": "1019",
+    "text": "bastardo"
+  },
+  {
+    "tu_id": "1076",
+    "speaker": "PSB147_trad",
+    "start": "1406.025",
+    "end": "1408.983",
+    "parent_tu_id": "1075",
+    "text": ""
+  },
+  {
+    "tu_id": "1078",
+    "speaker": "PSB153_trad",
+    "start": "1408.675",
+    "end": "1409.745",
+    "parent_tu_id": "1077",
+    "text": "ma non mi dire"
+  },
+  {
+    "tu_id": "1157",
+    "speaker": "PSB147_trad",
+    "start": "1532.347",
+    "end": "1534.073",
+    "parent_tu_id": "1156",
+    "text": "perché? sì: (.) [xx sì]"
+  },
+  {
+    "tu_id": "1159",
+    "speaker": "PSB146_trad",
+    "start": "1532.353",
+    "end": "1533.332",
+    "parent_tu_id": "1158",
+    "text": ""
+  },
+  {
+    "tu_id": "1161",
+    "speaker": "PSB153_trad",
+    "start": "1533.393",
+    "end": "1534.033",
+    "parent_tu_id": "1160",
+    "text": "[come?]"
+  },
+  {
+    "tu_id": "1164",
+    "speaker": "PSB147_trad",
+    "start": "1535.793",
+    "end": "1536.680",
+    "parent_tu_id": "1163",
+    "text": "eh musulmana"
+  },
+  {
+    "tu_id": "1180",
+    "speaker": "PSB147_trad",
+    "start": "1553.154",
+    "end": "1557.147",
+    "parent_tu_id": "1179",
+    "text": ""
+  },
+  {
+    "tu_id": "1219",
+    "speaker": "PSB153_trad",
+    "start": "1609.261",
+    "end": "1609.915",
+    "parent_tu_id": "1218",
+    "text": "(in) quale mese?"
+  },
+  {
+    "tu_id": "1234",
+    "speaker": "PSB153_trad",
+    "start": "1625.854",
+    "end": "1627.622",
+    "parent_tu_id": "1233",
+    "text": "((ride)) (in) quale mese?"
+  },
+  {
+    "tu_id": "1277",
+    "speaker": "PSB147_trad",
+    "start": "1672.015",
+    "end": "1674.498",
+    "parent_tu_id": "1276",
+    "text": "fisica (.) scienze chimiche"
+  },
+  {
+    "tu_id": "1325",
+    "speaker": "PSB147_trad",
+    "start": "1730.129",
+    "end": "1730.898",
+    "parent_tu_id": "1324",
+    "text": "quanto hai preso al diploma?"
+  },
+  {
+    "tu_id": "1327",
+    "speaker": "PSB147_trad",
+    "start": "1731.318",
+    "end": "1732.033",
+    "parent_tu_id": "1326",
+    "text": "hai presto il diploma?"
+  },
+  {
+    "tu_id": "1517",
+    "speaker": "PSB147_trad",
+    "start": "1982.752",
+    "end": "1983.588",
+    "parent_tu_id": "1516",
+    "text": "come si dice la verdura?"
+  },
+  {
+    "tu_id": "1520",
+    "speaker": "PSB147_trad",
+    "start": "1985.327",
+    "end": "1985.822",
+    "parent_tu_id": "1519",
+    "text": "come si dice la verdura?"
+  },
+  {
+    "tu_id": "1522",
+    "speaker": "PSB153_trad",
+    "start": "1985.953",
+    "end": "1987.553",
+    "parent_tu_id": "1521",
+    "text": ""
+  },
+  {
+    "tu_id": "1536",
+    "speaker": "PSB147_trad",
+    "start": "2003.174",
+    "end": "2010.430",
+    "parent_tu_id": "1534",
+    "text": "°panc-° (.) dopo: (.) alle dieci fatto un: snack da: protei::- [anche] avena non lo so (come si dice) avena"
+  }
+]

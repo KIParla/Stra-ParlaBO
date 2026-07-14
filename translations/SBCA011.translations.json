@@ -1,0 +1,18 @@
+[
+  {
+    "tu_id": "401",
+    "speaker": "PSB164_trad",
+    "start": "833.725",
+    "end": "835.919",
+    "parent_tu_id": "400",
+    "text": "c'è sempre gente così"
+  },
+  {
+    "tu_id": "408",
+    "speaker": "PSB165_trad",
+    "start": "848.529",
+    "end": "853.455",
+    "parent_tu_id": "407",
+    "text": "cioè ti dico il weekend vado sul lungo mare ma i chioschi chiudono alle undici e mezza"
+  }
+]

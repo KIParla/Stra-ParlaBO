@@ -1,0 +1,114 @@
+[
+  {
+    "tu_id": "237",
+    "speaker": "PSB043_trad",
+    "start": "353.786",
+    "end": "354.671",
+    "parent_tu_id": "236",
+    "text": "collaborazione"
+  },
+  {
+    "tu_id": "240",
+    "speaker": "PSB043_trad",
+    "start": "355.793",
+    "end": "356.271",
+    "parent_tu_id": "239",
+    "text": "collaborazione"
+  },
+  {
+    "tu_id": "1213",
+    "speaker": "PSB033_trad",
+    "start": "1532.090",
+    "end": "1532.867",
+    "parent_tu_id": "1212",
+    "text": "grazie"
+  },
+  {
+    "tu_id": "1908",
+    "speaker": "PSB045_trad",
+    "start": "2346.550",
+    "end": "2351.700",
+    "parent_tu_id": "1907",
+    "text": "quando ti ha parlato prima e tu ti sei messa ha ridere di me e mi hai detto che nessuno me l'aveva mai detto"
+  },
+  {
+    "tu_id": "2176",
+    "speaker": "PSB044_trad",
+    "start": "2611.400",
+    "end": "2611.777",
+    "parent_tu_id": "2175",
+    "text": "chiaccherona"
+  },
+  {
+    "tu_id": "2178",
+    "speaker": "PSB043_trad",
+    "start": "2612.603",
+    "end": "2613.203",
+    "parent_tu_id": "2177",
+    "text": "chiaccherona sì"
+  },
+  {
+    "tu_id": "2180",
+    "speaker": "PSB044_trad",
+    "start": "2613.197",
+    "end": "2613.570",
+    "parent_tu_id": "2179",
+    "text": "chiaccherona"
+  },
+  {
+    "tu_id": "2193",
+    "speaker": "PSB044_trad",
+    "start": "2621.208",
+    "end": "2621.797",
+    "parent_tu_id": "2192",
+    "text": "intelligente"
+  },
+  {
+    "tu_id": "2196",
+    "speaker": "PSB033_trad",
+    "start": "2622.703",
+    "end": "2623.087",
+    "parent_tu_id": "2195",
+    "text": "intelligente"
+  },
+  {
+    "tu_id": "2198",
+    "speaker": "PSB043_trad",
+    "start": "2623.403",
+    "end": "2624.186",
+    "parent_tu_id": "2197",
+    "text": "intelligente sì"
+  },
+  {
+    "tu_id": "2200",
+    "speaker": "PSB033_trad",
+    "start": "2624.200",
+    "end": "2624.782",
+    "parent_tu_id": "2199",
+    "text": "e chiaccherona"
+  },
+  {
+    "tu_id": "2203",
+    "speaker": "PSB043_trad",
+    "start": "2625.595",
+    "end": "2625.971",
+    "parent_tu_id": "2202",
+    "text": "chiaccherona"
+  },
+  {
+    "tu_id": "2212",
+    "speaker": "PSB043_trad",
+    "start": "2629.100",
+    "end": "2629.880",
+    "parent_tu_id": "2211",
+    "text": "intelligente e chiaccherona"
+  },
+  {
+    "tu_id": "2225",
+    "speaker": "PSB043_trad",
+    "start": "2639.051",
+    "end": "2642.957",
+    "parent_tu_id": "2224",
+    "text": "ah pensavo che intelligente una parola un po' difficile"
+  }
+]

@@ -1,10 +1,10 @@
 PSB005	così è sufficiente
 PSB005	sì sì {P} okay
 PSB005	e:hm allora sono curiosa di chiederti per prima cosa
-PSB070	questo quest'attività che tu fai di volontariato:
-PSB005	sì in protezione civile sì e in [pubblica assist]enza
+PSB005	questo quest'attività che tu fai di volontariato:
+PSB070	sì in protezione civile sì e in [pubblica assist]enza
 PSB005	[se ti va]
-PSB070	[se ti va di raccontare] {P} raccontami un po'
+PSB005	[se ti va di raccontare] {P} raccontami un po'
 PSB070	[sì sì assolutamente]
 PSB070	allora io: il volontariato: nell'ambito di protezione civile:
 PSB070	e:h nell'ambito del centodiciotto l'ho conosciuto a roma {P} qua:ndo facevo:
@@ -28,22 +28,22 @@ PSB070	e:h che vengono svolte qui in italia
 PSB070	dai volontari della croce rossa o dal corpo
 PSB070	italiano di soccorso dell'ordine di malta
 PSB070	e:: (i)nsomma
-PSB005	vedo che {P} li fanno anche da noi
-PSB070	mh[mh]
+PSB070	vedo che {P} li fanno anche da noi
+PSB005	mh[mh]
 PSB070	[in] ucraina i ragazzi: che appartengono alla croce rossa ucraina
 PSB070	oppure al corpo ucraino di soccorso dell'ordine di malta
 PSB070	e quindi io:: {P} (i)nsomma
 PSB070	conoscendo pian piano {P} questo mondo {P} per me {P} del tutto nuovo
 PSB070	e::h mi sono incuriosito e: ho detto
 PSB070	una volta finiti gli studi
-PSB005	voglio farlo anch'io
-PSB070	mh
+PSB070	voglio farlo anch'io
+PSB005	mh
 PSB070	e:h perché aiutare il prossimo
 PSB070	seguire il prossimo nei suoi: nelle sue necessità nei suoi bisogni
 PSB070	mi gratifica molto
 PSB070	e c(io)è e mi: m:h
-PSB005	mi fa piacere insomma:: servire il pr[ossimo]
-PSB070	[mhmh]
+PSB070	mi fa piacere insomma:: servire il pr[ossimo]
+PSB005	[mhmh]
 PSB070	soprattutto se è in difficoltà e io
 PSB070	diciamo sono un po' più fortunato rispetto a lui
 PSB070	e gli posso dare una mano
@@ -56,11 +56,11 @@ PSB070	quindi
 PSB070	ho iniziato a cercare un po' le associazioni che erano presenti qui a bologna
 PSB070	e:: ho scelto::
 PSB070	innanzitutto i~ i~ perché appartengo all'associazione
-PSB070	di volontariato @nomeassociazione
-PSB070	e::hm i @nomeassociazione {P} come in tutto il mondo si occupano della tutela dell'ambiente: della protezione degli animali
+PSB070	di volontariato
+PSB070	e::hm i {P} come in tutto il mondo si occupano della tutela dell'ambiente: della protezione degli animali
 PSB070	in più facciamo anche {P} protezione civile
-PSB005	e: servizi di: antincendio boschi[vo]
-PSB070	[mh]mh
+PSB070	e: servizi di: antincendio boschi[vo]
+PSB005	[mh]mh
 PSB070	e:hm
 PSB070	sono entrato:
 PSB070	nel duemilaundici
@@ -76,14 +76,14 @@ PSB070	che può conoscere l'associazione, il suo statuto,
 PSB070	e::h m:h
 PSB070	come funziona il volontariato in italia
 PSB070	e anche l'associazione ha la possibilità di conoscere il candidato
-PSB005	e di vedere insomma: se
-PSB070	mhmh
+PSB070	e di vedere insomma: se
+PSB005	mhmh
 PSB070	poi dopo
 PSB070	una convivenza è {ride} è fattibile o no
 PSB070	e
 PSB070	sono: insomma m:h
-PSB005	son passato abbastanza bene il periodo di prova m'hanno approvato
-PSB070	[°ah bello°]
+PSB070	son passato abbastanza bene il periodo di prova m'hanno approvato
+PSB005	[°ah bello°]
 PSB070	[quindi son di]ventato di~ effettivo
 PSB070	e poi: ho iniziato a fare i corsi: innanzitutto il corso base
 PSB070	e:h di protezione civile
@@ -105,8 +105,8 @@ PSB070	però ti dir~ ti dirò che m::h nonostante:
 PSB070	sono ormai passati tredici anni da quando sono entrato
 PSB070	ho sempre avuto: eh
 PSB070	questa voglia di: di fare anche il soccorritore volontario in e:h in un pubblica assistenza
-PSB005	anziché magari: in croce rossa
-PSB070	[mhmh]
+PSB070	anziché magari: in croce rossa
+PSB005	[mhmh]
 PSB070	[perché]?
 PSB070	e::hm
 PSB070	allora mh
@@ -140,12 +140,12 @@ PSB070	e mi so' trovato benissimo
 PSB070	ma sono
 PSB070	quasi tre anni che sono in pubblica assistenza
 PSB070	e quindi {P} un sacco di:
-PSB005	collegare tutte e due l~ le attività sia in protezione civile sia in pubblica assistenza
-PSB070	ma {P} e riesci a fare tutto questo oltre il [lavoro]?
+PSB070	collegare tutte e due l~ le attività sia in protezione civile sia in pubblica assistenza
+PSB005	ma {P} e riesci a fare tutto questo oltre il [lavoro]?
 PSB070	[e:h ol]tre il lavoro
 PSB070	perché {P} ti spiego {P} non è complicato
-PSB005	e:h basta sapere organizzarsi
-PSB070	mh
+PSB070	e:h basta sapere organizzarsi
+PSB005	mh
 PSB070	e:h m::h
 PSB070	tu hai {P} ad esempio
 PSB070	sia in protezione civile sia in pubblica assitenza {P} delle ore obbligatorie da fare
@@ -169,14 +169,14 @@ PSB070	poi se ha~ se hai del tempo m:h
 PSB070	voglia insomma {P} eh vuoi crescere vuoi:
 PSB070	perfezionarti
 PSB070	puoi farne anche di più
-PSB005	io non avendo una famiglia né niente quindi ho [tutto] il tempo da de[dica]re
+PSB070	io non avendo una famiglia né niente quindi ho [tutto] il tempo da de[dica]re
 PSB005	[mh]
-PSB070	[sì sì]
-PSB005	a queste: attività
-PSB070	mhmh e e il l~ [e]
-PSB005	[e] mi piaccio[no]
+PSB005	[sì sì]
+PSB070	a queste: attività
+PSB005	mhmh e e il l~ [e]
+PSB070	[e] mi piaccio[no]
 PSB005	[il] lavoro che fai è {P} è abbastanza f~
-PSB070	ha degli orari abbastanza fissi,
+PSB005	ha degli orari abbastanza fissi,
 PSB070	abbastanza: mh
 PSB070	diciamo comodi per me e che mi permettono
 PSB070	di fare anche quest'attività
@@ -190,48 +190,48 @@ PSB070	cercavo di fare il minimo possibile
 PSB070	o: oppure magari se s~ se finivo prima:
 PSB070	tipo alle diciassette
 PSB070	poi alle diciotto montavo in servizio::
-PSB005	o in pubblica o in protezione civile insomma è così
-PSB070	mhmh
-PSB005	e riuscivo: insomma: in qualche modo a fare: un po' di (volontariato)
-PSB070	quindi però il lavoro nuovo è meglio
+PSB070	o in pubblica o in protezione civile insomma è così
+PSB005	mhmh
+PSB070	e riuscivo: insomma: in qualche modo a fare: un po' di (volontariato)
+PSB005	quindi però il lavoro nuovo è meglio
 PSB070	sicuramente meglio {P} decisamente meglio anche perché sono orario di ufficio:
 PSB070	lavoro dal lunedì al venerdì e:h
-PSB005	c(io)è prima non avevo vita
-PSB070	sì sì sì
+PSB070	c(io)è prima non avevo vita
+PSB005	sì sì sì
 PSB070	ero sempre a lavorare: e adesso ho più:
-PSB005	più tempo: anche per me:
+PSB070	più tempo: anche per me:
 PSB005	certo {P} sì sì sì capisco
 PSB005	sì io {P} ci sono alcuni:
 PSB005	alcune professioni che sono molto: assorbenti quindi
-PSB070	anche se hai un [orario poi]
-PSB005	[ti coinvol]gono in una [maniera] che poi:
-PSB070	[esatto]
-PSB005	(i)nsomma non non riesci a trovare del tempo libero per altre cose
+PSB005	anche se hai un [orario poi]
+PSB070	[ti coinvol]gono in una [maniera] che poi:
+PSB005	[esatto]
+PSB070	(i)nsomma non non riesci a trovare del tempo libero per altre cose
 PSB005	e:hm
-PSB070	quindi {P} sono due professioni molto diverse queste che hai: svolto mi sembra no?
+PSB005	quindi {P} sono due professioni molto diverse queste che hai: svolto mi sembra no?
 PSB070	sì {P} sono:
 PSB070	cioè tu calcola che io
 PSB070	a::h
 PSB070	ho fatto prima il $bacelorato presso:
-PSB070	e::h il @nomeluogo a roma
+PSB070	e::h il a roma
 PSB070	e poi e:h mi sono iscritto alla facoltà di scienze politiche
-PSB005	quindi {P} il ramo che avevo scelto di specializzazione era il eh il diritto internazionale umanitario
-PSB070	wow
+PSB070	quindi {P} il ramo che avevo scelto di specializzazione era il eh il diritto internazionale umanitario
+PSB005	wow
 PSB070	che non c'entra niente con con il mio lavoro
 PSB070	attuale
 PSB070	però c'entra
-PSB005	con l'attività in protezione civile
-PSB070	[eh è vero sì]
-PSB005	[e in qualche modo an]che in pubblica
+PSB070	con l'attività in protezione civile
+PSB005	[eh è vero sì]
+PSB070	[e in qualche modo an]che in pubblica
 PSB005	certo sì sì sì
 PSB005	e poi dopo
 PSB005	mh
 PSB005	però non hai:
-PSB070	fatto una carriera diciamo {P} i~ per[tinente]
+PSB005	fatto una carriera diciamo {P} i~ per[tinente]
 PSB070	[in quell'ambi]to lì no anche perché è un ramo diplomatico {P} ed è:
-PSB005	abbastanza difficile trovare se se non hai ganci, conoscenze giuste,
+PSB070	abbastanza difficile trovare se se non hai ganci, conoscenze giuste,
 PSB005	mhmh
-PSB070	sì sì certo no è impos[sibile {P} sì]
+PSB005	sì sì certo no è impos[sibile {P} sì]
 PSB070	[è troppo:]:
 PSB070	io potrei lavorare
 PSB070	o nel corpo diplomatico o m:h magari nel comitato internazionale della croce rossa
@@ -240,12 +240,12 @@ PSB070	di quel tipo lì c(io)è quando ci son dei conflitti armati: internaziona
 PSB070	oppure: per qualche agenzia di roma
 PSB070	per i rifugia:ti
 PSB070	però:
-PSB005	a trova:re eh la possibilità di poter entrarci
+PSB070	a trova:re eh la possibilità di poter entrarci
 PSB005	sì sì certo
-PSB070	e {P} e come mai poi hai deciso di venire a studiare in italia? se posso: chiedere
+PSB005	e {P} e come mai poi hai deciso di venire a studiare in italia? se posso: chiedere
 PSB070	>no no no< assolu~ m::h
-PSB005	come ti ho det[to non ho tabù:]
-PSB070	[no magari è una b~ è una] storia io non so quind[i:]
+PSB070	come ti ho det[to non ho tabù:]
+PSB005	[no magari è una b~ è una] storia io non so quind[i:]
 PSB070	[no~] non ho tabù e: io ho iniziato gli studi da noi in ucraina
 PSB070	e::hm
 PSB070	e: dopo aver finito {P} il primo anno di filosofia
@@ -268,12 +268,12 @@ PSB070	perché {P} per me: ma anche {P} ma non solo per me eh?
 PSB070	credo che per ogni cattolico praticante
 PSB070	il vaticano: roma: cioè è è (l'assoluto)
 PSB070	e quindi::
-PSB005	sì
-PSB070	[quindi è nata questa] opportunità e::
-PSB005	[h(o) deciso:]
 PSB070	sì
-PSB005	poi l'italiano mi: piaceva moltissimo anche perché sono cresciuto con le canzoni di toto cutugno, romina power, albano
-PSB070	incredi[bile]
+PSB005	[quindi è nata questa] opportunità e::
+PSB070	[h(o) deciso:]
+PSB005	sì
+PSB070	poi l'italiano mi: piaceva moltissimo anche perché sono cresciuto con le canzoni di toto cutugno, romina power, albano
+PSB005	incredi[bile]
 PSB070	[quindi]:
 PSB070	e~ e~ ero~ c(io)è eros ramazzo~ sì anche eros ma: adriano celentano e altri
 PSB070	quindi
@@ -287,13 +287,13 @@ PSB070	che non riuscire~ non ce l'avrei mai fatta:
 PSB070	a: ad imparare l'italiano a:
 PSB070	avevo questi dubbi ques~
 PSB070	queste
-PSB005	mh >diciamo< perplessità, in:certezze
-PSB070	°sì sì sì beh okay°
+PSB070	mh >diciamo< perplessità, in:certezze
+PSB005	°sì sì sì beh okay°
 PSB070	a::h e qui~ quindi così
-PSB005	ho scelto italia e: m'hanno mandato a roma
-PSB070	e c~ e le aspettative che avevi su: roma sono state::
-PSB005	ma: hanno superato le mie aspetta[tive]
-PSB070	[ah ve][di]?
+PSB070	ho scelto italia e: m'hanno mandato a roma
+PSB005	e c~ e le aspettative che avevi su: roma sono state::
+PSB070	ma: hanno superato le mie aspetta[tive]
+PSB005	[ah ve][di]?
 PSB070	[sì]: quello che ho visto io:
 PSB070	poi dal vivo sai una {P} una cosa è vedere
 PSB070	e::h la città eterna, c(o)è le foto video
@@ -304,24 +304,24 @@ PSB070	dicono che è cambia:ta
 PSB070	e:h cambiata molto e:h
 PSB070	poi non so se in meglio o in peggio
 PSB070	ma: dicono che è cambiata
-PSB005	all'epoca era tranquil[lissima] c(io)è anche alle due tre quattro di notte potevi s~ camminare tranquillamente tipo:
-PSB070	[mhmh]
-PSB005	in qualsiasi quartiere c(io)è
-PSB070	da quanto tempo: hai cambiato città?
+PSB070	all'epoca era tranquil[lissima] c(io)è anche alle due tre quattro di notte potevi s~ camminare tranquillamente tipo:
+PSB005	[mhmh]
+PSB070	in qualsiasi quartiere c(io)è
+PSB005	da quanto tempo: hai cambiato città?
 PSB070	calcola che: {P} io mi so' trasferito:
 PSB070	e::hm
 PSB070	qui: nel duemila~
-PSB005	e::h nove
+PSB070	e::h nove
 PSB005	eh sì
-PSB070	da roma
 PSB005	da roma
+PSB070	da roma
 PSB005	sì
-PSB070	[eh sì {P} (a)bbas]tanza sì
+PSB005	[eh sì {P} (a)bbas]tanza sì
 PSB070	[duemilanove sì]
-PSB005	sì sono: quindici anni ormai
+PSB070	sì sono: quindici anni ormai
 PSB005	mhmh
 PSB005	>sì sì sì<
-PSB070	quindi rispe~ bologna com'è?
+PSB005	quindi rispe~ bologna com'è?
 PSB070	l'ho trovata molto accogliente,
 PSB070	e:: molto calda perché
 PSB070	per un {P} po' di tempo ho vissuto anche nel veneto
@@ -341,8 +341,8 @@ PSB070	hanno un po' di pregiudizi verso gli stranieri e in parte:
 PSB070	e:h gli stranieri stessi a volte
 PSB070	(i)nsomma ti mh
 PSB070	quando ti fanno diventare c(io)è non:
-PSB005	non è che sei razzista ma in un certo se~ un certo senso ti fanno diventare raz[zista]
-PSB070	[mh]
+PSB070	non è che sei razzista ma in un certo se~ un certo senso ti fanno diventare raz[zista]
+PSB005	[mh]
 PSB070	ehm
 PSB070	per i comportamenti che hanno,
 PSB070	perché magari non vogliono rispettare le leggi locali:
@@ -354,18 +354,18 @@ PSB070	con i propri comportamenti
 PSB070	portano del dei dei disordini:
 PSB070	del m:h
 PSB070	delle scomodità: (i)nsomma
-PSB005	dei rischi anche per la sicurezza pubblica e privata
-PSB070	certo e e invece questa cosa [non l'hai notata qui]?
+PSB070	dei rischi anche per la sicurezza pubblica e privata
+PSB005	certo e e invece questa cosa [non l'hai notata qui]?
 PSB070	[e::h] invece a bologna
-PSB005	è come se fosse un altro mondo
+PSB070	è come se fosse un altro mondo
 PSB005	beh sì
 PSB005	sì mestre
 PSB005	rispetto a mestre sono sicura sì {ride}
-PSB070	penso di sì
-PSB005	eh m::h
-PSB070	forse [la popolazione] è più
-PSB005	[ho trovato ho trov~]
-PSB070	[più mescolata]
+PSB005	penso di sì
+PSB070	eh m::h
+PSB005	forse [la popolazione] è più
+PSB070	[ho trovato ho trov~]
+PSB005	[più mescolata]
 PSB070	[non lo so io la] vedo molto più giovane e::h la vedo
 PSB070	forse pe~ pe~ per il fatto che c'è l'università qui
 PSB070	ma anche le persone sono più aperte
@@ -388,56 +388,56 @@ PSB070	e::hm
 PSB070	è molto più
 PSB070	m::h
 PSB070	come dire?
-PSB005	mi manca l'aggettivo giusto:
+PSB070	mi manca l'aggettivo giusto:
 PSB005	e: non lo so
 PSB005	comunque il quadro il quadro è chiaro mi sembra:
-PSB070	c(io)è ho capito che cosa vuoi dire sì sì sì
+PSB005	c(io)è ho capito che cosa vuoi dire sì sì sì
 PSB070	sì m:h
 PSB070	più vai a no:rd {P} più vedi una certa <chiusura mentale: delle persone>
 PSB070	quindi {P} capisci che
 PSB070	ci sono delle differenze culturali:: m:h
-PSB005	e: altre {P} tra il sud e il nord
-PSB070	sì sì [interessante]
+PSB070	e: altre {P} tra il sud e il nord
+PSB005	sì sì [interessante]
 PSB070	[e:: mi so]n trovato molto bene
-PSB005	devo dire che: {P} fin da subito
+PSB070	devo dire che: {P} fin da subito
 PSB005	bene
-PSB070	[bene]
-PSB005	[a bolo]gna molto bene
+PSB005	[bene]
+PSB070	[a bolo]gna molto bene
 PSB005	e e i tuoi contatti con
 PSB005	c(io)è nelle tue giornate tu stai di pi~
 PSB005	stai {P} principalmente con persone italiane,
-PSB070	e:h [con]
-PSB005	[il mi]o ambiente che frequento [è] prevalentemente: ambiente italiano
-PSB070	[sì]
-PSB005	dedico un po' di tempo anche alla: nostra comuni[tà:] locale
-PSB070	[mhmh]
+PSB005	e:h [con]
+PSB070	[il mi]o ambiente che frequento [è] prevalentemente: ambiente italiano
+PSB005	[sì]
+PSB070	dedico un po' di tempo anche alla: nostra comuni[tà:] locale
+PSB005	[mhmh]
 PSB070	e::hm
 PSB070	x come hai: {P} potuto vedere {P} e:h organizziamo: diversi pranzi di: beneficenza o cene o concerti o anche discoteche
-PSB005	per raccimolare un po' di soldi {P} da poter man[dare poi]: agli ospedali: ai bambini: ai::
-PSB070	[mhmh]
-PSB005	agli orfanotrofi: che ci sono da noi
-PSB070	da quanto tempo li organizzate quest[i: {P} queste iniziative]?
+PSB070	per raccimolare un po' di soldi {P} da poter man[dare poi]: agli ospedali: ai bambini: ai::
+PSB005	[mhmh]
+PSB070	agli orfanotrofi: che ci sono da noi
+PSB005	da quanto tempo li organizzate quest[i: {P} queste iniziative]?
 PSB070	[e:h diciamo:] dal e:h febbraio del duemilaventiquattro::
 PSB070	siamo:
-PSB005	diventati molto p~ ancora più attivi direi così
-PSB070	mhmh
+PSB070	diventati molto p~ ancora più attivi direi così
+PSB005	mhmh
 PSB070	che già dal duemilaquattordici: quando:: è iniziata la guerra nelle due regioni {P} di luhansk e donetsk
 PSB070	chiamato donbas
 PSB070	e:h aiutavamo
-PSB005	già tanto ma:: dopo il ventiquattro febbraio del duemilaventidue
-PSB070	sì [sì sì]
+PSB070	già tanto ma:: dopo il ventiquattro febbraio del duemilaventidue
+PSB005	sì [sì sì]
 PSB070	[xx] io::
 PSB070	diciamo che
 PSB070	cerco di: dedicare un po' del mio tempo libero anche:
-PSB005	[a: ques]te attività qua perché capisco la necessi[tà che] c'è
+PSB070	[a: ques]te attività qua perché capisco la necessi[tà che] c'è
 PSB005	[mhmh]
-PSB070	[mhmh]
-PSB005	c(io)è mi m:i faccio un po' guidare dal senso di solidarietà
-PSB070	[certo certo]
-PSB005	[verso il mio popolo]
-PSB070	e com'è la comunità ucraina: {P} a bologna?
-PSB005	a:h
-PSB070	numerosa: {P} è attiva:
+PSB005	[mhmh]
+PSB070	c(io)è mi m:i faccio un po' guidare dal senso di solidarietà
+PSB005	[certo certo]
+PSB070	[verso il mio popolo]
+PSB005	e com'è la comunità ucraina: {P} a bologna?
+PSB070	a:h
+PSB005	numerosa: {P} è attiva:
 PSB070	qui a bologna
 PSB070	sì siamo (più)
 PSB070	solo a bologna se parliamo: solo di bologna
@@ -447,12 +447,12 @@ PSB070	siamo più di tremila persone
 PSB070	e:h
 PSB070	a pranzi a cene
 PSB070	e::h
-PSB005	vedi molta più gente
-PSB070	[mhmh]
-PSB005	[<inve]ce alle manifestazio[ni:>] eh un po' meno e questo mi dà un po' fastidio
+PSB070	vedi molta più gente
+PSB005	[mhmh]
+PSB070	[<inve]ce alle manifestazio[ni:>] eh un po' meno e questo mi dà un po' fastidio
 PSB005	[mhmh]
 PSB005	ah okay come mai?
-PSB070	perché? {ride}
+PSB005	perché? {ride}
 PSB070	perché l'assenza mi fa capire una certa indifferenza delle persone::
 PSB070	verso ciò che sta: accadendo anche in questo momento
 PSB070	nel nostro paese
@@ -471,66 +471,66 @@ PSB070	il ventiquattro di agosto
 PSB070	quei giorni lì,
 PSB070	riesci a vedere molta più gente
 PSB070	che vengono: in tanti
-PSB005	alle manifestazioni in e:h in altri giorni altre domeniche no
-PSB070	ma le manifestazioni {P} come {P} come sono organizzate di solito?
+PSB070	alle manifestazioni in e:h in altri giorni altre domeniche no
+PSB005	ma le manifestazioni {P} come {P} come sono organizzate di solito?
 PSB070	e::h noi le organizziamo s~ con con eh con l'associazione:
-PSB070	e:h @alessandro e: e altre:
+PSB070	e:h e: e altre:
 PSB070	e:hm
 PSB070	cerchiamo coinvolgere un po' {P} sia la comunità bolognese locale,
 PSB070	sia i nostri connazionali ma con i nostri connazionali è:
-PSB005	è un po' più difficile
-PSB070	mh
+PSB070	è un po' più difficile
+PSB005	mh
 PSB070	c(io)è io mi m~
 PSB070	mi meraviglio in un certo senso perché vedo
 PSB070	le perso~ c(io)è m::h
 PSB070	inso~ (i)nsomma pochissimi dei nostri connazionali,
-PSB005	e: molti ragazzi ragazze italiani che son sempre presenti
-PSB070	mhmh
+PSB070	e: molti ragazzi ragazze italiani che son sempre presenti
+PSB005	mhmh
 PSB070	ma sempre a ogni {P} a ogni manifestazione son sempre presenti
-PSB005	e mi vergogno un po' di questa cosa
+PSB070	e mi vergogno un po' di questa cosa
 PSB005	mh
 PSB005	e::h chissà
 PSB005	forse:
-PSB005	forse lo strumento della manifestazione è p~ è più: per a~
+PSB005	forse lo strumento della manifestazione è p - è più: per a~
 PSB005	c(io)è alcune persone sono meno::
 PSB005	a loro agio con: una manifestazione pubblica mentre
-PSB070	a un pranzo di beneficenza è un'attività sociale: [ricreativa:]
+PSB005	a un pranzo di beneficenza è un'attività sociale: [ricreativa:]
 PSB070	[io io:]
-PSB005	ti di~ ti dico la sincera verità non so quale sia: eh il motivo:: vero d[i:] di questo fenomeno
-PSB070	[mhmh]
-PSB005	così triste
+PSB070	ti di~ ti dico la sincera verità non so quale sia: eh il motivo:: vero d[i:] di questo fenomeno
+PSB005	[mhmh]
+PSB070	così triste
 PSB005	°eh non lo so°
-PSB070	[comunque] le vostre manifestazioni non sono particolarmente:
-PSB005	[non:]
+PSB005	[comunque] le vostre manifestazioni non sono particolarmente:
+PSB070	[non:]
 PSB005	ris~
 PSB005	non non non non non correte dei rischi voglio dire sono abbastanza:
-PSB070	[tranquille pacifiche no:]
-PSB005	[xxxxxx anche per]ché a ogni manifestazione c'è sempre il presidio dei carabineri o della poli[zia di sta]to (i)nsomma
-PSB070	[sì sì]
+PSB005	[tranquille pacifiche no:]
+PSB070	[xxxxxx anche per]ché a ogni manifestazione c'è sempre il presidio dei carabineri o della poli[zia di sta]to (i)nsomma
+PSB005	[sì sì]
 PSB070	ehm
 PSB070	lì ci sentiamo al sicuro
 PSB070	o magari:
 PSB070	una una certa spiegazione io {P} ce l'avrei
 PSB070	ma: potrebbe essere anche sbagliata {P} secondo me,
-PSB005	il passato chi vive ancora in no~ il passato quello sovieti[co:]
-PSB070	[mhmh]
+PSB070	il passato chi vive ancora in no~ il passato quello sovieti[co:]
+PSB005	[mhmh]
 PSB070	del regime comunista che abbiamo vissuto e che non:
 PSB070	no~ non c'entra niente in nessun modo co~ con
 PSB070	e:h con la cultura eh comunista: eh italiana
-PSB005	c(io)è erano due comunismi {P} completamente [diver]si
-PSB070	[mhmh]
+PSB070	c(io)è erano due comunismi {P} completamente [diver]si
+PSB005	[mhmh]
 PSB070	il nostro era totalitario
 PSB070	era un regime,
 PSB070	e:h invece quello italiano
 PSB070	era abbastanza diverso
 PSB070	c(io)è e:h
 PSB070	quel comunismo che abbiamo vissuto noi non lo auguro a nessuno di voi
-PSB005	ma proprio a nessuno
-PSB070	[°beh sì°]
+PSB070	ma proprio a nessuno
+PSB005	[°beh sì°]
 PSB070	[e:h]
-PSB005	per me e::h la spiegazione potrebbe stare proprio in: {P} in questa mentalità ancora.
+PSB070	per me e::h la spiegazione potrebbe stare proprio in: {P} in questa mentalità ancora.
 PSB005	okay
-PSB070	ma
+PSB005	ma
 PSB070	vecchia: chiusa: {P} che non vuo~ che ha paura ad aprirsi al mondo:
 PSB070	e:h
 PSB070	a volte
@@ -543,35 +543,35 @@ PSB070	sono venuto qui per lavorare,
 PSB070	per mandare dei soldi alla mia famiglia:
 PSB070	e la mia integrazione finisce qui
 PSB070	e lì
-PSB005	mi si: {P} abbassano: le brac[cia per]ché
+PSB070	mi si: {P} abbassano: le brac[cia per]ché
 PSB005	[°sì sì sì°]
 PSB005	ma {P} la comunità ucraina bolognese è
 PSB005	formata principalmente da persone arrivate da poco,
-PSB070	per causa della [guerra o no]?
+PSB005	per causa della [guerra o no]?
 PSB070	[la maggior parte no] la maggior parte: e::h diciamo
 PSB070	la: {P} la base della comunità ucraina
 PSB070	è composta dalle persone che sono: arrivate qui in italia da
-PSB005	quindici ven[t'anni]
-PSB070	[mhmh]
+PSB070	quindici ven[t'anni]
+PSB005	[mhmh]
 PSB070	perdona(mi)
 PSB070	quindici vent'anni
-PSB005	eh e che vivono qui stabil[ment]e
-PSB070	[mhmh]
+PSB070	eh e che vivono qui stabil[ment]e
+PSB005	[mhmh]
 PSB070	c(io)è non tornano:
-PSB005	c(io)è tornano giusto per le ferie: in ucraina poi ritornano qui
+PSB070	c(io)è tornano giusto per le ferie: in ucraina poi ritornano qui
 PSB005	mhmh
 PSB005	ma forse è per questo hanno perso un po' il legame con:
-PSB070	con la madre patria e quindi forse non se la sentono più di manifestare
+PSB005	con la madre patria e quindi forse non se la sentono più di manifestare
 PSB070	sicuramente ci sarà: ci sarà chi non si sente più ucraino si sente più italiano
 PSB070	c(io)è anch'io m:h mi sento
 PSB070	m:h
 PSB070	più italiano che ucraino però
 PSB070	secondo la mia convinzione personale
-PSB005	italiani si nasce non si diventa
-PSB070	mh
+PSB070	italiani si nasce non si diventa
+PSB005	mh
 PSB070	però e:h
 PSB070	mi fa piacere dare il mio contributo {P} a: alla popolazione italiana in quel
-PSB005	poco che faccio nell'ambito della protezione [civi]le e della pubblica assisten[za]
+PSB070	poco che faccio nell'ambito della protezione [civi]le e della pubblica assisten[za]
 PSB005	[mhmh]
 PSB005	[mh]mhmh
 PSB005	sì sì sì
@@ -579,66 +579,66 @@ PSB005	e:hm
 PSB005	okay
 PSB005	ma anche mh mh
 PSB005	a me sembra anche che {P} eh e i pranzi le feste così abbiano anche una funzione forse di mantenere
-PSB070	compatta la co[munità]
+PSB005	compatta la co[munità]
 PSB070	[assolutame]nte
 PSB070	non è non è un'occasione
 PSB070	di aggregazione
 PSB070	e:hm:
-PSB005	formale nel senso di {P} raccogliere dei f[ondi]
-PSB070	[mhmh]
+PSB070	formale nel senso di {P} raccogliere dei f[ondi]
+PSB005	[mhmh]
 PSB070	ma anche per {P} eh
 PSB070	avere e dare possibilità ai connazionali di stare un po' insieme
 PSB070	di
 PSB070	parlare e insomma: di confrontarsi di
 PSB070	magari
 PSB070	di sviluppare delle idee nuove di di di creare qualche attività nuova
-PSB005	quello [sì aiu]ta però: come: ti ho gia detto
-PSB070	[sì sì sì]
+PSB070	quello [sì aiu]ta però: come: ti ho gia detto
+PSB005	[sì sì sì]
 PSB070	m:h
-PSB005	sì li vedi a pranzi a cene ma poi dopo:
+PSB070	sì li vedi a pranzi a cene ma poi dopo:
 PSB005	capito
-PSB070	capito capito
-PSB005	c(io)è io {P} sto parlando della mia esperienza [poi magari] gli altr[i:]
+PSB005	capito capito
+PSB070	c(io)è io {P} sto parlando della mia esperienza [poi magari] gli altr[i:]
 PSB005	[sì sì sì]
 PSB005	[no no no] ma {P} vabbè ma sarà
-PSB070	sarà così c(io)è io penso
-PSB005	(i)nsomma
+PSB005	sarà così c(io)è io penso
+PSB070	(i)nsomma
 PSB005	penso io penso
 PSB005	sì sì
 PSB005	e:hm:
 PSB005	ma
 PSB005	i i sempre rimanendo: su~ sul tema del: della cumunità ucraina: che vive qui
-PSB070	se e:h co~ come va il mantenimento della lingua c(io)è
+PSB005	se e:h co~ come va il mantenimento della lingua c(io)è
 PSB070	e:h allora m:h
-PSB005	non se sai {P} qui a bologna abbiamo la scuola {P} ucraina
+PSB070	non se sai {P} qui a bologna abbiamo la scuola {P} ucraina
 PSB005	e:h sì sì
-PSB070	sì
+PSB005	sì
 PSB070	c'è un'associazione e:h nostra che e:hm
-PSB005	fa la scuola domenical[e]:
-PSB070	[mhmh]
-PSB005	e che si occupa dei bambini che sono nati qua oppure che sono venuti negli ulitmi due: due [tre anni] insomma in italia
-PSB070	[mhmh]
+PSB070	fa la scuola domenical[e]:
+PSB005	[mhmh]
+PSB070	e che si occupa dei bambini che sono nati qua oppure che sono venuti negli ulitmi due: due [tre anni] insomma in italia
+PSB005	[mhmh]
 PSB070	e loro
 PSB070	visto che passano molto più tempo con gli amici italiani
-PSB005	giustamente {P} man mano si scordano l[a: la] nostra lingua materna
-PSB070	[mhmh]
+PSB070	giustamente {P} man mano si scordano l[a: la] nostra lingua materna
+PSB005	[mhmh]
 PSB070	e per cui
 PSB070	e:h all'epoca era stata fondata questa associazione
 PSB070	per poter mantenere in loro
 PSB070	le conoscenze linguistiche storico culturali e: e altre
 PSB070	e:h
 PSB070	perché i bambini si: si assomi~ c(io)è m:h si assimilano >come si dice<?
-PSB005	si assimilano: [eh ab]bastanza
+PSB070	si assimilano: [eh ab]bastanza
 PSB005	[sì]
-PSB070	sì sì sì
+PSB005	sì sì sì
 PSB070	e:h velocemente: nel nell'ambito c(io)è nel tessuto sociale italiano
 PSB070	e quindi: eh
 PSB070	onde evitare che scordini del tutto le loro origini e la lingua
 PSB070	è stata e:hm fondata questa {P} questa associazione
 PSB070	io personalmente
 PSB070	avendo sia amici italiani sia ucraini
-PSB005	eh sono riuscito a: mantenere questo equilibrio tra tu~ tutte e due le ling[ue]
-PSB070	[mh]mh
+PSB070	eh sono riuscito a: mantenere questo equilibrio tra tu~ tutte e due le ling[ue]
+PSB005	[mh]mh
 PSB070	e:hm {P} per me è molto più difficile tipo se vado a casa per
 PSB070	vado in vacanza torno a casa
 PSB070	a trovare i miei
@@ -651,10 +651,10 @@ PSB070	a parlare subito in italino quindi parlo molto pia~ molto più piano
 PSB070	e:hm
 PSB070	devo pensare
 PSB070	insomma: cosa e in che modo
-PSB005	formulare una certa frase
-PSB070	però [non ti succe]de quando vai là {P} all'inizio
-PSB005	[invece]
-PSB070	con l'ucraino
+PSB070	formulare una certa frase
+PSB005	però [non ti succe]de quando vai là {P} all'inizio
+PSB070	[invece]
+PSB005	con l'ucraino
 PSB070	mi mi succedeva il il l'esatto contrario
 PSB070	parlando con mia madre
 PSB070	coi miei fratelli
@@ -663,14 +663,14 @@ PSB070	anche perché io per
 PSB070	sono arrivato nel novantasette nel novantanove so' tornato in ucraina per la prima volta
 PSB070	utilizzavo moltissime paro~ molti vocaboli italiani
 PSB070	e i miei
-PSB005	giustamente non mi capivano c(io)è mi dicevano
-PSB070	{ride}
-PSB005	ma a:h c(io)è [sei tornato dall']italia: ormai
-PSB070	[fantastico]
-PSB005	insomma:
-PSB070	sì sì sì [e]
-PSB005	[ti] fai vedere che sei più italiano che ucraino dico no c(io)è {P} n~ non lo faccio apposta
-PSB070	certo
+PSB070	giustamente non mi capivano c(io)è mi dicevano
+PSB005	{ride}
+PSB070	ma a:h c(io)è [sei tornato dall']italia: ormai
+PSB005	[fantastico]
+PSB070	insomma:
+PSB005	sì sì sì [e]
+PSB070	[ti] fai vedere che sei più italiano che ucraino dico no c(io)è {P} n~ non lo faccio apposta
+PSB005	certo
 PSB070	non lo facevo apposta
 PSB070	è che
 PSB070	quando stai qui e: cerchi veramente di integrarti nel nella società
@@ -686,21 +686,21 @@ PSB070	arrivederci
 PSB070	mamma mia
 PSB070	e:hm
 PSB070	mi piace
-PSB005	e basta
-PSB070	beh dai {ride}
+PSB070	e basta
+PSB005	beh dai {ride}
 PSB070	basta
 PSB070	c(io)è e:h
-PSB005	però mi piacevano le canzoni
-PSB070	mhmh
+PSB070	però mi piacevano le canzoni
+PSB005	mhmh
 PSB070	e:h con le quali so' cresciuto
 PSB070	e:h imparare la vostra lingua per me è stato bellisimo c(io)è
 PSB070	mi piaceva come lingua
 PSB070	per la:
 PSB070	pronuncia melodica, per il modo di pensare per
 PSB070	la la la storia e la cultura che è inclusa nella lingua
-PSB005	a partire da dante alighieri eccetera quindi
+PSB070	a partire da dante alighieri eccetera quindi
 PSB005	e e quale è stata la cosa più difficile pe te?
-PSB070	in italiano
+PSB005	in italiano
 PSB070	iniziare a pensare in italiano
 PSB070	perché noi quando impariamo una lingua straniera
 PSB070	noi:
@@ -708,41 +708,41 @@ PSB070	volendo o non volendo
 PSB070	pensiamo {P} nella nostra lingua e vogliamo formulare una frase
 PSB070	in lingua straniera c(io)è in italiano
 PSB070	e quando cominci a formulare una frase pensando in ucraino
-PSB005	viene fuori un bordello
-PSB070	{ride}
+PSB070	viene fuori un bordello
+PSB005	{ride}
 PSB070	perché noi
 PSB070	pensiamo diversamente
-PSB005	formuliamo le frasi in maniera diversa
-PSB070	certo
-PSB005	quindi:
-PSB070	ma c'era qualche situazione in cui ti tro~ sei trovato in difficoltà >all'inizio< capisco che devi pensare molto: indietro [però]
+PSB070	formuliamo le frasi in maniera diversa
+PSB005	certo
+PSB070	quindi:
+PSB005	ma c'era qualche situazione in cui ti tro~ sei trovato in difficoltà >all'inizio< capisco che devi pensare molto: indietro [però]
 PSB070	[la mia fortu]na era che
 PSB070	la scuola che frequentavo {P} in ucraina eh era una scuola specializzata in lingue
-PSB005	sia in lingua spagnola che in inglese
-PSB070	mh mhmh
+PSB070	sia in lingua spagnola che in inglese
+PSB005	mh mhmh
 PSB070	quando sono venuto in italia
 PSB070	diciamo
 PSB070	quaranta percento di quello che si parlava
-PSB005	[riusci]vo a ca[pire]
+PSB070	[riusci]vo a ca[pire]
 PSB005	[eh]
-PSB070	[>senti]vi< sì sì
-PSB005	ero come un cane capivo ma non parlavo {ride}
+PSB005	[>senti]vi< sì sì
+PSB070	ero come un cane capivo ma non parlavo {ride}
 PSB005	{ride}
-PSB070	sì sì ma allora questo ti avrà aiutato sicuramente tantissimo
-PSB005	e [infatti]
-PSB070	[sì sì]
-PSB005	grazie allo spagnolo che ho studiato per tanti anni
-PSB070	mhmh certo sì [sì]
+PSB005	sì sì ma allora questo ti avrà aiutato sicuramente tantissimo
+PSB070	e [infatti]
+PSB005	[sì sì]
+PSB070	grazie allo spagnolo che ho studiato per tanti anni
+PSB005	mhmh certo sì [sì]
 PSB070	[ades]so se se tu mi chiedessi di parlare in spagnolo
-PSB005	nada de nada
+PSB070	nada de nada
 PSB005	{ride} certo
 PSB005	no beh ma
 PSB005	è normale c(io)è è tipico {P} diciamo
-PSB070	e e di quale zona dell'ucraina sei
-PSB005	io sono di leopoli
-PSB070	okay
-PSB005	e:h che è quasi al confine con la polonia {P} sono quaranta chilometri dal [dal co]nfine
-PSB070	[mhmh]
+PSB005	e e di quale zona dell'ucraina sei
+PSB070	io sono di leopoli
+PSB005	okay
+PSB070	e:h che è quasi al confine con la polonia {P} sono quaranta chilometri dal [dal co]nfine
+PSB005	[mhmh]
 PSB070	infatti mio padre
 PSB070	e:h ma anche mia madre loro sono nati in polonia
 PSB070	e poi quando c'era l'operazione wisla
@@ -769,24 +769,24 @@ PSB070	tra gli ucraini stessi quindi
 PSB070	era era un po' difficile
 PSB070	lo lo lo l~ la stessa cosa è accaduta ai polacchi
 PSB070	che sono stati deportati dalla polonia da~ dall'ucraina in polonia
-PSB005	quindi io sono un mix parlo: anche il polacco
+PSB070	quindi io sono un mix parlo: anche il polacco
 PSB005	okay
-PSB070	[sì sì sì]
-PSB005	[sono un bi]lingue
+PSB005	[sì sì sì]
+PSB070	[sono un bi]lingue
 PSB005	okay okay
 PSB005	ma
 PSB005	come come facevano a stabilire quali erano le persone
-PSB070	ucraine che pe[rò vivevano in polonia]
+PSB005	ucraine che pe[rò vivevano in polonia]
 PSB070	[perché nella nella ca]rta d'identità
-PSB005	c'era scritto che tu eri di origine
-PSB070	ah o[kay okay]
+PSB070	c'era scritto che tu eri di origine
+PSB005	ah o[kay okay]
 PSB070	[ucraina]
-PSB005	anche se eri nato lì [e]:h
-PSB070	[mhmh]
-PSB005	ins[omma]
+PSB070	anche se eri nato lì [e]:h
+PSB005	[mhmh]
+PSB070	ins[omma]
 PSB005	[sì sì s]ì quindi {P} per la famiglia di origine °ho capito sì°
 PSB005	sì sì {P} okay
-PSB070	e nella zona di c(io)è nella città di leopoli la lingua è l'ucraino la lingua [principale]
+PSB005	e nella zona di c(io)è nella città di leopoli la lingua è l'ucraino la lingua [principale]
 PSB070	[da noi e]:hm
 PSB070	rispetto al centro, al nord, al sud: xx e al e a~ e all'est
 PSB070	eh
@@ -803,8 +803,8 @@ PSB070	eh di {P} avere i nostri giornali i nostri libri
 PSB070	e:
 PSB070	era un un diciamo un numero limitato però di di libri di di giornali eccetera
 PSB070	però:
-PSB005	almeno potevamo parlare liberamente nella [nostra li]ngua
-PSB070	[mhmh]
+PSB070	almeno potevamo parlare liberamente nella [nostra li]ngua
+PSB005	[mhmh]
 PSB070	nonostante che eravamo sotto il dominio lituano polacco
 PSB070	invece
 PSB070	e:h a partire dal du~ dal millenovecentodiciassette quando:
@@ -813,58 +813,58 @@ PSB070	subito dopo la seconda guerra mondiale è stata
 PSB070	a:
 PSB070	a l'han~ l'hanno aderita insomma a:
 PSB070	a: quell'alleanza dei popoli
-PSB005	liberi
-PSB070	mhmh
+PSB070	liberi
+PSB005	mhmh
 PSB070	e:hm ha subito molto e::h
 PSB070	nei xx repressioni di: arresti di deportazioni in siberia e:h
 PSB070	va
 PSB070	la mili~ perché adesso c'è la polizia all'epoca c'era la milizia
-PSB005	che se ti sentiva parlare in ucraino {P} tu e tutta la tua famiglia veniva arrestata e li spedivano in siberia
-PSB070	mhmh
+PSB070	che se ti sentiva parlare in ucraino {P} tu e tutta la tua famiglia veniva arrestata e li spedivano in siberia
+PSB005	mhmh
 PSB070	quindi non si potava parlare
-PSB005	noi e:h parlando in casa: siamo riusciti a mantenere la nostra lingua
+PSB070	noi e:h parlando in casa: siamo riusciti a mantenere la nostra lingua
 PSB005	sì sì sì beh certo
-PSB070	sì sì
-PSB005	cos[ì:]
+PSB005	sì sì
+PSB070	cos[ì:]
 PSB005	[e]
-PSB070	però fra {P} fra gli ucraini che vivono qui qualcuno sarà russofono?
+PSB005	però fra {P} fra gli ucraini che vivono qui qualcuno sarà russofono?
 PSB070	e:h
 PSB070	sì
 PSB070	ce ne sono molti eh però: e:h
 PSB070	bisogna capire una cosa che {P} essere russofono
-PSB005	e filorusso sono due cose [completamente dive]rse
+PSB070	e filorusso sono due cose [completamente dive]rse
 PSB005	[certo sì]
-PSB070	sì sì
+PSB005	sì sì
 PSB070	infatti molti qui vedo {P} soprattuto nel veneto
 PSB070	perché ho degli amici anche lì
 PSB070	non riescono a capire
 PSB070	perché per loro
-PSB005	essere russofono vuol dire
-PSB070	mhmh
+PSB070	essere russofono vuol dire
+PSB005	mhmh
 PSB070	tifare per la russia invece non è così
 PSB070	loro parlano il russo perché
-PSB005	durante l'epoca sovie[tica]
-PSB070	[certo] sì s[ì]
-PSB005	[loro] hanno subito maggior dominio russo rispetto a n[oi]
-PSB070	[mh]mh
-PSB005	all'ovest dell'ucra[ina]
-PSB070	[sì sì]
+PSB070	durante l'epoca sovie[tica]
+PSB005	[certo] sì s[ì]
+PSB070	[loro] hanno subito maggior dominio russo rispetto a n[oi]
+PSB005	[mh]mh
+PSB070	all'ovest dell'ucra[ina]
+PSB005	[sì sì]
 PSB070	i russi ti dirò m:h
 PSB070	avevano un certo timore
 PSB070	fare
 PSB070	pressioni un po' più forti sulla popolazione occidentale dell'ucraina
 PSB070	perché noi siamo quelli
-PSB005	più ribelli ribelli
-PSB070	[okay]
+PSB070	più ribelli ribelli
+PSB005	[okay]
 PSB070	[c(io)è]
-PSB005	se comin[ci a:]
-PSB070	[interessante]
+PSB070	se comin[ci a:]
+PSB005	[interessante]
 PSB070	a stringerci
-PSB005	ci ribelliamo
+PSB070	ci ribelliamo
 PSB005	interessante questo molto
 PSB005	no sì sì ma {P} me lo chiedevo solo perché
 PSB005	mi immaginavo questi eventi queste cene questi pranzi che fate
-PSB070	ci sar[à un po' di mescolanza di lingue sì]
+PSB005	ci sar[à un po' di mescolanza di lingue sì]
 PSB070	[noi tra tra {P} tra tra di noi no]n non non ci sono problemi
 PSB070	c(io)è noi: parliamo tranquillamente c(io)è
 PSB070	co~
@@ -882,91 +882,91 @@ PSB070	e:h però torna~ tornando a noi ehm:
 PSB070	noi abbiamo notato che dopo
 PSB070	il ventiquattro febbraio duemilaventidue
 PSB070	molti russofoni
-PSB005	per protest[a]
-PSB070	[mh]
+PSB070	per protest[a]
+PSB005	[mh]
 PSB070	hanno smesso di parlare in russo e
-PSB005	stanno {P} imparando a parlare più in [ucrai]no
+PSB070	stanno {P} imparando a parlare più in [ucrai]no
 PSB005	[mhmh[
-PSB070	sì [va~]
-PSB005	[per]ché perché [non vogliono non vo]gliono eh essere identificati
-PSB070	[è chiaro no sì sì]
-PSB005	anche per strada come uno russo
+PSB005	sì [va~]
+PSB070	[per]ché perché [non vogliono non vo]gliono eh essere identificati
+PSB005	[è chiaro no sì sì]
+PSB070	anche per strada come uno russo
 PSB005	sì sì sì anche se
-PSB070	per strada per un italiano
-PSB005	sì [non cambia niente]
-PSB070	[il suono] {ride}
-PSB005	non cambia [nien]te
+PSB005	per strada per un italiano
+PSB070	sì [non cambia niente]
+PSB005	[il suono] {ride}
+PSB070	non cambia [nien]te
 PSB005	[no]
-PSB070	pur[troppo eh sì]
+PSB005	pur[troppo eh sì]
 PSB070	[chi cono~ io conos]co degl'italiano
 PSB070	che hanno imparato l'ucraino
 PSB070	adesso lo parlano talmente bene
 PSB070	che a volte mi sembra che che uno o:
-PSB005	del nord dell'ucraina oppure del centro
-PSB070	sì sì [sì]
+PSB070	del nord dell'ucraina oppure del centro
+PSB005	sì sì [sì]
 PSB070	[ha]nno quella cadenza lì
 PSB070	certo
 PSB070	sono sposati hanno {P} eh le mogli ucraine insomma
 PSB070	e oppure gli italiani che vivono da noi in ucraina che lavorano
-PSB005	hanno delle attivi[tà]
+PSB070	hanno delle attivi[tà]
 PSB005	[mh]mh
 PSB005	mhmh
-PSB070	e e
+PSB005	e e
 PSB070	a volte parlando con loro addiritura mi chiedo ma
 PSB070	non vuoi tornare in italia?
-PSB005	mi fanno ma sei pazzo
-PSB070	ah vedi
-PSB005	addirittu[ra c(io)è]
+PSB070	mi fanno ma sei pazzo
+PSB005	ah vedi
+PSB070	addirittu[ra c(io)è]
 PSB005	[vedi]
-PSB070	c(io)è quindi italiani trasferiti lì là che mh nonostante [tutta la situazione]
-PSB005	[non~ nonostante la guer]ra
-PSB070	sì
-PSB005	non vogliono tornare in italia
+PSB005	c(io)è quindi italiani trasferiti lì là che mh nonostante [tutta la situazione]
+PSB070	[non~ nonostante la guer]ra
+PSB005	sì
+PSB070	non vogliono tornare in italia
 PSB005	vabbè mh
-PSB070	alla fine vuol dire che si sono trovati bene no
+PSB005	alla fine vuol dire che si sono trovati bene no
 PSB070	ci sono molte attività
-PSB005	e:h create da~ dagli italiani da noi so~ soprattutto a leopoli
-PSB070	mh mhmh
+PSB070	e:h create da~ dagli italiani da noi so~ soprattutto a leopoli
+PSB005	mh mhmh
 PSB070	ma anche {P} a ivano-frankivs'k
 PSB070	c(io)è in in ucraina occidentale
 PSB070	tra pizzerie {P} eh night clu::b, negozi,
 PSB070	e uffici
-PSB005	ce ne sono
-PSB070	mhmh
-PSB005	ce ne son molti {P} xx [xx]
+PSB070	ce ne sono
+PSB005	mhmh
+PSB070	ce ne son molti {P} xx [xx]
 PSB005	[eh] vedi
 PSB005	eh non avevo idea
-PSB070	non a[vevo proprio ide]a
+PSB005	non a[vevo proprio ide]a
 PSB070	[a kiev]
 PSB070	soprattutto la sera se vai in discoteca
 PSB070	ogni
-PSB005	secondo terzo che incontri {P} italiano
+PSB070	secondo terzo che incontri {P} italiano
 PSB005	incredibile
-PSB070	c(io)è quindi: c'è una comunità italiana: nell'ov[est dell'ucrai]na sì
+PSB005	c(io)è quindi: c'è una comunità italiana: nell'ov[est dell'ucrai]na sì
 PSB070	[in ucraina]
 PSB070	io una volta e:h su facebook avevo trovato anche e:h un gruppo
-PSB005	italiani in ucrain[a]
-PSB070	[mh]mh
-PSB005	o: qualcosa del [genere]
+PSB070	italiani in ucrain[a]
+PSB005	[mh]mh
+PSB070	o: qualcosa del [genere]
 PSB005	[mhmh]
 PSB005	eh sì sì è possibile sì sì ci sarà sicuramente
-PSB070	e leopoli è una città grande?
+PSB005	e leopoli è una città grande?
 PSB070	e con gli studenti perché
 PSB070	leopoli come bologna è una città studentesca
-PSB005	e per gli studenti ha già superato da un bel po' un milione di abitan[ti]
+PSB070	e per gli studenti ha già superato da un bel po' un milione di abitan[ti]
 PSB005	[ah] però
-PSB070	quindi {P} bologna è molto più picco[la]
+PSB005	quindi {P} bologna è molto più picco[la]
 PSB070	[di]ciamo:
-PSB005	su per giù siamo sul milione e cento milione e duecento: abi[tanti]
+PSB070	su per giù siamo sul milione e cento milione e duecento: abi[tanti]
 PSB005	[sì sì sì]
-PSB070	e tu quindi in questi anni sei sempre tornato per le: vacanze [insomma]
-PSB005	[sono se]mpre tornato per la vacanze per le festività nata[lizie] quando: potevo
+PSB005	e tu quindi in questi anni sei sempre tornato per le: vacanze [insomma]
+PSB070	[sono se]mpre tornato per la vacanze per le festività nata[lizie] quando: potevo
 PSB005	[mhmh]
-PSB070	e la città l'hai tro~ la trovi: diversa è cambiata?
-PSB005	la vedo migliorare ogni vol[ta]
-PSB070	[ah]
-PSB005	e:h dal punto vista archite~ {P} architettonico [si] (dice)
-PSB070	[mhmh]
+PSB005	e la città l'hai tro~ la trovi: diversa è cambiata?
+PSB070	la vedo migliorare ogni vol[ta]
+PSB005	[ah]
+PSB070	e:h dal punto vista archite~ {P} architettonico [si] (dice)
+PSB005	[mhmh]
 PSB070	sì
 PSB070	e:h l'architettura
 PSB070	ma dal punto di vista:
@@ -979,142 +979,142 @@ PSB070	veramente esausta
 PSB070	e:hm
 PSB070	però non manca comunque lo spirito di solidarietà eh quando c'è bisogno insomma
 PSB070	le persone:
-PSB005	come come le api insomma si uniscono e lavorano
-PSB070	certo
+PSB070	come come le api insomma si uniscono e lavorano
+PSB005	certo
 PSB070	però::
-PSB005	ultimamente la trovo: sempre più fredda
-PSB070	mh
-PSB005	e mi: mi dispiace moltissimo
-PSB070	vabbè diciamo che la situazione attuale non é propri[o ros]ea
+PSB070	ultimamente la trovo: sempre più fredda
+PSB005	mh
+PSB070	e mi: mi dispiace moltissimo
+PSB005	vabbè diciamo che la situazione attuale non é propri[o ros]ea
 PSB070	[no sì]
-PSB005	forse per quello
-PSB070	e invece bologna in questi: dal duemilanove ad adesso: hai visto dei cambiamenti?
+PSB070	forse per quello
+PSB005	e invece bologna in questi: dal duemilanove ad adesso: hai visto dei cambiamenti?
 PSB070	m::h
 PSB070	c'è sempre qualcosa di nuovo a bologna
 PSB070	tra eventi soprattutto:
 PSB070	e:hm:
 PSB070	diciamo come il tasso di criminalità non mi sono mai interessato ma:
-PSB005	io se esco di notte non ho pau[ra]
-PSB070	[mh]mh
+PSB070	io se esco di notte non ho pau[ra]
+PSB005	[mh]mh
 PSB070	mi mi sento sicuro a bologna:
 PSB070	mi mi piace moltissimo questa città
-PSB005	la: la la adoro la amo
+PSB070	la: la la adoro la amo
 PSB005	°ah bene° {ride}
 PSB005	bene bene
-PSB070	e e in quale zona abiti circa?
-PSB005	ah io santa viola
-PSB070	e la zona ti piace com'è:?
+PSB005	e e in quale zona abiti circa?
+PSB070	ah io santa viola
+PSB005	e la zona ti piace com'è:?
 PSB070	è tranquillissima
 PSB070	molto tranquilla poi ben collegata raggiungibile
 PSB070	eh c(io)è io per arrivare in aeroporto ci metto
 PSB070	prendo l'autobus
-PSB005	quarto [ma nea]nche un quar[to d'ora dieci minu]ti
+PSB070	quarto [ma nea]nche un quar[to d'ora dieci minu]ti
 PSB005	[sì sì]
-PSB070	[vicinissima sì]
+PSB005	[vicinissima sì]
 PSB070	ed idem per la: per l'autostazione o la stazione dei treni
 PSB070	quindi se se
 PSB070	m:h infatti adesso {P} sto cercando:
 PSB070	qualche appartamento che me lo volevo comprare
 PSB070	e:hm
 PSB070	insomma come zona: sceglierei santa viola solo che
-PSB005	i prezzi {P} sono stellari
-PSB070	folli
-PSB005	stellari proprio non:
-PSB070	sì sì sì
+PSB070	i prezzi {P} sono stellari
+PSB005	folli
+PSB070	stellari proprio non:
+PSB005	sì sì sì
 PSB070	se vuoi trovare qualcosa a cento centoc~ centocinquanta diciamo centrotrenta centocinquanta mila euro
-PSB005	devi andare fuori
-PSB070	mhmh
+PSB070	devi andare fuori
+PSB005	mhmh
 PSB070	a bologna:
 PSB070	questa è la mia osservazione poi
 PSB070	eh
 PSB070	mi piace moltissimo dal punto di vista
 PSB070	del governo
-PSB005	loca[le]
-PSB070	[ah] okay
+PSB070	loca[le]
+PSB005	[ah] okay
 PSB070	e:hm: la trovo sempre più innovativa e:hm:
 PSB070	ci sono molte occasioni
 PSB070	bologna
 PSB070	come roma
 PSB070	ti offre tanto
-PSB005	nonostante che è molto più piccola però ti offre tantissimo
-PSB070	mhmh
-PSB005	e se sai cogliere: le opportunità
-PSB070	anche i trasporti funzionano bene in città
+PSB070	nonostante che è molto più piccola però ti offre tantissimo
+PSB005	mhmh
+PSB070	e se sai cogliere: le opportunità
+PSB005	anche i trasporti funzionano bene in città
 PSB070	e:hm
-PSB005	m:h n:i
-PSB070	mh
+PSB070	m:h n:i
+PSB005	mh
 PSB070	capito spesso:
 PSB070	di di notare che non che xx (autis~) non dico tutti ma: alcune linee
 PSB070	di trasporti
-PSB005	non rispettano proprio la tabella di [ma:rcia] e quindi devi aspettare di più
-PSB070	[mhmh]
+PSB070	non rispettano proprio la tabella di [ma:rcia] e quindi devi aspettare di più
+PSB005	[mhmh]
 PSB070	e:hm sapendo
 PSB070	che hai l'abbonamento quindi
 PSB070	ti senti un po' privilegiato rispetto a chi magari ha il biglietto >come si dice<
-PSB005	io pago l'abbonamento
-PSB070	mhmh
+PSB070	io pago l'abbonamento
+PSB005	mhmh
 PSB070	insomma e:h
 PSB070	però non: non posso lamentarmi insomma per come è organizzato il sistema
 PSB070	di trasporto pubblico: tra taxi e
 PSB070	taxi blu:
 PSB070	mh autobus
-PSB005	poi adesso avremo anche il tram
+PSB070	poi adesso avremo anche il tram
 PSB005	eh sì
 PSB005	ci sono stati i lavori
-PSB070	per molto temp[o]
-PSB005	[ma] ci [sono ancora]
+PSB005	per molto temp[o]
+PSB070	[ma] ci [sono ancora]
 PSB005	[nella zona]
-PSB070	[nella tua zona]
-PSB005	[ancora tutta tu]tta l'emilia: pone~ via e[milia pone]nte: così insomma
+PSB005	[nella tua zona]
+PSB070	[ancora tutta tu]tta l'emilia: pone~ via e[milia pone]nte: così insomma
 PSB005	[eh sì]
-PSB070	eh il ponte [quello per a]ndare all'aeroporto io
-PSB005	[se vai]
+PSB005	eh il ponte [quello per a]ndare all'aeroporto io
+PSB070	[se vai]
 PSB005	c(io)è
-PSB070	st~ sto finendo la pazienza {ride} devo dire
+PSB005	st~ sto finendo la pazienza {ride} devo dire
 PSB070	solo per fare una corsia
-PSB005	ci hanno messo due anni
-PSB070	sì
-PSB005	adesso per finire quell'altra ce ne vorranno altri [altri] due
+PSB070	ci hanno messo due anni
+PSB005	sì
+PSB070	adesso per finire quell'altra ce ne vorranno altri [altri] due
 PSB005	[certo]
 PSB005	ma io sto un po' finendo la pazienza perché
-PSB070	allora io abito completamente dall'altra parte
-PSB005	ti posso ordinare [un'altra xx]
+PSB005	allora io abito completamente dall'altra parte
+PSB070	ti posso ordinare [un'altra xx]
 PSB005	[no no no basta]:
-PSB070	basta così [perché]
-PSB005	[sicura]?
-PSB070	[sì sì sì]
-PSB005	non farti complimen[ti]
+PSB005	basta così [perché]
+PSB070	[sicura]?
+PSB005	[sì sì sì]
+PSB070	non farti complimen[ti]
 PSB005	[ho be]vuto anche un altro bicchiere d'acqua mentre ti aspettavo no no no
-PSB070	davvero davvero basta così
-PSB005	non farti complime[nti]
-PSB070	[no non s]ono complimenti non non ti [(preoccupare)]
-PSB005	[okay]
+PSB005	davvero davvero basta così
+PSB070	non farti complime[nti]
+PSB005	[no non s]ono complimenti non non ti [(preoccupare)]
+PSB070	[okay]
 PSB005	e che stai parlando soprattutto tu quindi io be~ intanto ho già finito sì {ride}
 PSB005	eh no cosa volevo dire sì che io abito tutto dall'altra parte però
 PSB005	l'aeroporto per motivi di lavoro ci vado:
 PSB005	c(io)è mi capita {P} non dico tutti i me:si eh però insomma {P} comunque diverse volte
 PSB005	e c'è sto problema del ponte sono anni che sto cavolo di ponte è chiuso {ride}
-PSB070	veramen[te non ne posso più]
-PSB005	[certo perché poi] dopo c(io)è devi fare un [un gi]ro enorme
+PSB005	veramen[te non ne posso più]
+PSB070	[certo perché poi] dopo c(io)è devi fare un [un gi]ro enorme
 PSB005	[sì:]
-PSB070	infatti
-PSB005	per arrivare in via:
-PSB070	del triumvirato sì [sì]
-PSB005	[vi]a del trium[virato bravissima]
+PSB005	infatti
+PSB070	per arrivare in via:
+PSB005	del triumvirato sì [sì]
+PSB070	[vi]a del trium[virato bravissima]
 PSB005	[in via del triumvirato] esatto
-PSB070	e per voi che abitate da quelle parti c'è molt[a: disagio]?
-PSB005	[ci siamo abituati]
-PSB070	c'è molto di[sagio]?
-PSB005	[ci siamo abitua]ti
-PSB070	mh okay
-PSB005	ormai non ci facciamo più [caso]
-PSB070	[mh ce]rto
+PSB005	e per voi che abitate da quelle parti c'è molt[a: disagio]?
+PSB070	[ci siamo abituati]
+PSB005	c'è molto di[sagio]?
+PSB070	[ci siamo abitua]ti
+PSB005	mh okay
+PSB070	ormai non ci facciamo più [caso]
+PSB005	[mh ce]rto
 PSB070	abbiamo messo l'anima in pace
-PSB005	non ci facciamo più caso
+PSB070	non ci facciamo più caso
 PSB005	vabbè
 PSB005	e:hm quindi
 PSB005	tu ti trovi bene nella zona non:
-PSB070	non c'è un'atra zona che pre[feriresti]
+PSB005	non c'è un'atra zona che pre[feriresti]
 PSB070	[allora io] eh ho vissuto e:hm
 PSB070	un po' e:h
 PSB070	insomma la maggior parte eh di tempo ho vissutto sempre: nel quartiere: di santa viola
@@ -1125,49 +1125,49 @@ PSB070	molto comodo insomma per: xx i vari punti di vista
 PSB070	eh {P} però e:hm:
 PSB070	ho vissuto un po' sul:
 PSB070	sulla strada che porta verso castelmaggiore
-PSB005	dimentico sempre il
-PSB070	beh vabbè va bene {P} non non so neanch'io
-PSB005	[e:h]
-PSB070	[non me la ri]cordo neanch'io sì sì
-PSB005	via toscana mi pare
+PSB070	dimentico sempre il
+PSB005	beh vabbè va bene {P} non non so neanch'io
+PSB070	e[:h]
+PSB005	[non me la ri]cordo neanch'io sì sì
+PSB070	via toscana mi pare
 PSB005	no no
-PSB070	no via toscana è è proprio dall'altra parte [sì xx no]
-PSB005	[ah no perdonami sì sì] e:h
+PSB005	no via toscana è è proprio dall'altra parte [sì xx no]
+PSB070	[ah no perdonami sì sì] e:h
 PSB005	c(io)è tipo via san donato deve essere una di quelle sì
-PSB070	non la so
-PSB005	ehm
-PSB070	non la so neanch'io {ride}
+PSB005	non la so
+PSB070	ehm
+PSB005	non la so neanch'io {ride}
 PSB070	non mi non mi no~ non mi viene insomma
 PSB070	eh ho vissuto vicino al: m:h
-PSB005	all'ippodromo
-PSB070	okay
-PSB005	[in quella zona di]
-PSB070	[eh è tipo] via di corticella [via dell'arcoveggio sì]
-PSB005	[bravissima ecco ecco] bravis[sima]
-PSB070	[sì sì]
+PSB070	all'ippodromo
+PSB005	okay
+PSB070	[in quella zona di]
+PSB005	[eh è tipo] via di corticella [via dell'arcoveggio sì]
+PSB070	[bravissima ecco ecco] bravis[sima]
+PSB005	[sì sì]
 PSB070	via di corticella
-PSB005	non mi piaciuto quel: [quel quartie]re lì
-PSB070	[ah okay]
-PSB005	e mi trovo: decisamente meglio: nel quartiere di santa vio[la]
+PSB070	non mi piaciuto quel: [quel quartie]re lì
+PSB005	[ah okay]
+PSB070	e mi trovo: decisamente meglio: nel quartiere di santa vio[la]
 PSB005	[ah]
-PSB070	è è abbastanza: campagna
-PSB005	sì
+PSB005	è è abbastanza: campagna
+PSB070	sì
 PSB005	devo dire
-PSB070	il: la zona di corticella [sì]
+PSB005	il: la zona di corticella [sì]
 PSB070	[sì] che poi e:h insomma eh quel quartiere lì:
 PSB070	che che ti porta verso fuori insomma verso:
-PSB005	la peri[feria:]
+PSB070	la peri[feria:]
 PSB005	[sì sì sì]
-PSB070	sì sì e e per il lavoro è comodo dove abiti adesso c(io)è tu vai in macchi[na]?
-PSB005	[di]ciamo n:o la macchina ho dovuto riportarla su
-PSB070	a:h [okay]
+PSB005	sì sì e e per il lavoro è comodo dove abiti adesso c(io)è tu vai in macchi[na]?
+PSB070	[di]ciamo n:o la macchina ho dovuto riportarla su
+PSB005	a:h [okay]
 PSB070	[perché se no me la] sequestravano sì sì {ride}
 PSB070	io la macchina l'avevo con la targa ucraina
-PSB070	e: quando facevo la guardia lavoravo: per la @nomeazienda
+PSB070	e: quando facevo la guardia lavoravo: per la
 PSB070	e:
 PSB070	mi avevano fermato due tre volte
 PSB070	la polizia locale e: mi fanno ascolta
-PSB070	tu hai la residenza da più di {P} un anno
+PSB070	tu hai la residenza da più di (,) un anno
 PSB070	quindi devi sdoganarla
 PSB070	e immatricolarla con la ta~ xx con la targa ucraina e italiane
 PSB070	insomma
@@ -1205,22 +1205,22 @@ PSB070	a volte ti capita di aspettarli però
 PSB070	per come è organizzato il sistema di trasporto pubblico qui
 PSB070	se se prendiamo solo gli autobus
 PSB070	per me:
-PSB005	va più che bene
-PSB070	quindi tu da da santa viola riesci a andare a funo a lavorare?
-PSB005	sì {P} con gli au[tobus]
-PSB070	[con gli a]utobus
+PSB070	va più che bene
+PSB005	quindi tu da da santa viola riesci a andare a funo a lavorare?
+PSB070	sì {P} con gli au[tobus]
+PSB005	[con gli a]utobus
 PSB070	sì eh perché ne prendo due
 PSB070	prendo il l'ottantuno o il novantuno che vanno tipo che partono da~ dall'esselunga
-PSB005	e vanno in: stazione io scendo in piazza dei martiri prendo il novantasette e vado
+PSB070	e vanno in: stazione io scendo in piazza dei martiri prendo il novantasette e vado
 PSB005	mh
-PSB070	però si spe~ passa molto [tempo sugli autobus]
-PSB005	[ci metto: ci] {P} certo ci metto quasi un'o[ra]
-PSB070	[eh] sì
+PSB005	però si spe~ passa molto [tempo sugli autobus]
+PSB070	[ci metto: ci] {P} certo ci metto quasi un'o[ra]
+PSB005	[eh] sì
 PSB070	tra:
 PSB070	aspettare l'autobus e il viaggio
-PSB005	sì sono quei quarantacinque cinquanta [minuti] che ci metto
+PSB070	sì sono quei quarantacinque cinquanta [minuti] che ci metto
 PSB005	[eh sì]
-PSB070	e a funo non andresti a vivere?
+PSB005	e a funo non andresti a vivere?
 PSB070	no
 PSB070	mi piace:
 PSB070	mi piace la vita mi piace:
@@ -1231,46 +1231,46 @@ PSB070	ma è una zona:
 PSB070	che fu creata per i lavoratori di varie fabbriche che erano lì
 PSB070	di varie aziende che ci sono presenti
 PSB070	no io: mi annoio
-PSB005	io ho bisogno di: di una grande città forse perché sono cresciuto [in una grande città]
-PSB070	[eh sì sicuramente] sì
+PSB070	io ho bisogno di: di una grande città forse perché sono cresciuto [in una grande città]
+PSB005	[eh sì sicuramente] sì
 PSB070	e quindi per me e:h
-PSB005	c(io)è io mi sento più (nel) mio agio a bologna che fuori
+PSB070	c(io)è io mi sento più (nel) mio agio a bologna che fuori
 PSB005	sì sì ma
 PSB005	io ho un amico di funo quindi ci sono stata alcune volte ma non
 PSB005	non ci andrei mai neanch'io
 PSB005	però io sono molto viziata perché
-PSB070	ho lavorato sempre vicino a casa
-PSB005	o[kay]
-PSB070	[c(io)è]:
-PSB005	quindi ci metti po[chissimo]
-PSB070	[in bicicletta] il quarto d'ora s~ {ride} [sì]
-PSB005	è ot[timo]
+PSB005	ho lavorato sempre vicino a casa
+PSB070	o[kay]
+PSB005	[c(io)è]:
+PSB070	quindi ci metti po[chissimo]
+PSB005	[in bicicletta] il quarto d'ora s~ {ride} [sì]
+PSB070	è ot[timo]
 PSB005	l'anno scorso andavo
 PSB005	beh vabbe non è vero per un anno ho lavorato a imola
-PSB070	però abbastanza collegato perché c(io)è [ci sono tre treni all'o]ra c(io)è
+PSB005	però abbastanza collegato perché c(io)è [ci sono tre treni all'o]ra c(io)è
 PSB070	[sì c'è il treno]
-PSB005	sì
+PSB070	sì
 PSB005	un po' faticoso era un po' faticoso andare in stazione e: tornare dalla stazione così però
 PSB005	poi l'anno scorso andavo a forlì
-PSB070	m[a:]
-PSB005	[è ancora] più lonta[no]
+PSB005	m[a:]
+PSB070	[è ancora] più lonta[no]
 PSB005	[sì] è ancora più lontano però il nostro lavoro da u~ da universitari diciamo
-PSB070	non ci dovevo andare tutti ii giorni alle [otto di matti]na
-PSB005	[okay]
-PSB070	avevo degli appuntamenti ci andavo qualche giorno alla settimana poi quando è finito il semestre in estate non ci sono mai andata e lavoravo da casa
-PSB005	da casa
+PSB005	non ci dovevo andare tutti ii giorni alle [otto di matti]na
+PSB070	[okay]
+PSB005	avevo degli appuntamenti ci andavo qualche giorno alla settimana poi quando è finito il semestre in estate non ci sono mai andata e lavoravo da casa
+PSB070	da casa
 PSB005	è un''altra vita ecco
-PSB070	è vero che il treno c(io)è ci vuole un'ora: ci vuole [un'o]ra sì
+PSB005	è vero che il treno c(io)è ci vuole un'ora: ci vuole [un'o]ra sì
 PSB070	[sì]
-PSB005	per arrivare a forlì [sì]
+PSB070	per arrivare a forlì [sì]
 PSB005	[sì] però
 PSB005	se io avessi avuto un un lavoro da ufficio non
 PSB005	sarebbe stato terribile non avrei potuto farlo (sicuramente) {ride}
 PSB005	no no quindi io: sono molto t~ ti stimo molto per questa cosa del dei cinquanta minuti di autobus al giorno
-PSB070	[a~ andare e ri]torno
+PSB005	[a~ andare e ri]torno
 PSB070	[mi piace]
-PSB005	adesso mi piace all'epoca lo trovavo terribile
-PSB070	mh
+PSB070	adesso mi piace all'epoca lo trovavo terribile
+PSB005	mh
 PSB070	c(io)è:
 PSB070	infatti vedevo:
 PSB070	che
@@ -1279,23 +1279,23 @@ PSB070	ci mettevo troppo tempo adesso
 PSB070	o forse perché sto diventando vecchio
 PSB070	e
 PSB070	quindi mi mi sto abituando a:
-PSB005	a a un relax che provo con sugli autobus non lo so
+PSB070	a a un relax che provo con sugli autobus non lo so
 PSB005	sì sì sì
 PSB005	sì anche guidare
-PSB070	tanto tempo tutti i giorni non è piacevole com[unque]
-PSB005	[a me pia]ceva guidare
-PSB070	ah vedi
+PSB005	tanto tempo tutti i giorni non è piacevole com[unque]
+PSB070	[a me pia]ceva guidare
+PSB005	ah vedi
 PSB070	a me piaceva guidare c(io)è io: a volte facevo
 PSB070	roma eh c(io)è bologna napoli oppure bologna
 PSB070	e:hm nova gorica
 PSB070	mi piaceva mi mi piace viaggiare
-PSB005	solo che adesso non avendo il proprio mez[zo]
-PSB070	[cer]to
-PSB005	mi sposto coi treni co~ con con gli aerei
+PSB070	solo che adesso non avendo il proprio mez[zo]
+PSB005	[cer]to
+PSB070	mi sposto coi treni co~ con con gli aerei
 PSB005	mhmh
-PSB070	e hai viaggiato molto in italia mi dicevi
-PSB005	mamma [mia]
-PSB070	[qual è] la tua parte preferita?
+PSB005	e hai viaggiato molto in italia mi dicevi
+PSB070	mamma [mia]
+PSB005	[qual è] la tua parte preferita?
 PSB070	la città:
 PSB070	mh che amo da morire è roma
 PSB070	perché ci sono vissuto ho:: passato i miei anni
@@ -1303,26 +1303,26 @@ PSB070	e: quando facevo l'università e:
 PSB070	ho molta nostalgia: per per la città eterna
 PSB070	però mi sono sempre trovato in qualsiasi parte dell'italia
 PSB070	sia come cucina sia come tradizioni
-PSB005	e:hm
-PSB070	tipo quali tradizioni?
+PSB070	e:hm
+PSB005	tipo quali tradizioni?
 PSB070	e:hm le feste locali: ad esempio
 PSB070	eh ho ho partecipato a: vari eventi
 PSB070	e va~ varie feste tipo locali di mh
 PSB070	del posto
 PSB070	e:h napoli soprattutto dove c'erano delle processioni per la madonna
 PSB070	fatte in un certo modo
-PSB005	poi per me cattolico ancora di c(io)è ha un significato ancora:
-PSB070	e [ti è capi]tato anche qui di partecipare [xx xx]?
+PSB070	poi per me cattolico ancora di c(io)è ha un significato ancora:
+PSB005	e [ti è capi]tato anche qui di partecipare [xx xx]?
 PSB070	[più]
-PSB005	[qui mi] mi piace ad esempio e:h partecipare all'evento quando portano giù la madonna e:
-PSB070	e ci v~ ci vai [tutti gli anni]?
-PSB005	[ci vado ci] vado ci vado tutti gli anni {P} e piove sempre
-PSB070	sì certo {ride}
-PSB005	dicono [perché] è proprio perché la portano giù xx xx
-PSB070	[sì sì]
-PSB005	piove [sempre]
+PSB070	[qui mi] mi piace ad esempio e:h partecipare all'evento quando portano giù la madonna e:
+PSB005	e ci v~ ci vai [tutti gli anni]?
+PSB070	[ci vado ci] vado ci vado tutti gli anni {P} e piove sempre
+PSB005	sì certo {ride}
+PSB070	dicono [perché] è proprio perché la portano giù xx xx
 PSB005	[sì sì]
-PSB070	sì sì e ti capita anche di andare a san luca a piedi:
+PSB070	piove [sempre]
+PSB005	[sì sì]
+PSB005	sì sì e ti capita anche di andare a san luca a piedi:
 PSB070	e:h diciamo che
 PSB070	a~ mh
 PSB070	negli ultimi due tre anni faccio un
@@ -1334,34 +1334,34 @@ PSB070	sicuramente faremo
 PSB070	perché facciamo tutte le colline e la zona un po' di provincia
 PSB070	eh facciamo: il s~ il servizio di prevenzione
 PSB070	e:h
-PSB005	e quindi: ci andiamo lì e quindi {P} avrò possibilità di vederlo e di salutarlo
+PSB070	e quindi: ci andiamo lì e quindi {P} avrò possibilità di vederlo e di salutarlo
 PSB005	certo certo
 PSB005	e:hm volevo chiederti
 PSB005	e quindi
 PSB005	esse~ dato che tu sei comunque cattolico
 PSB005	non hai trovato grosse differenze forse con la festività:
-PSB070	i[taliane]
-PSB005	[assolutamen]te mh no e:h
-PSB070	hai notato una differenza tipo: nel rito a messa:
+PSB005	i[taliane]
+PSB070	[assolutamen]te mh no e:h
+PSB005	hai notato una differenza tipo: nel rito a messa:
 PSB070	allora l'unica differenza e:hm
 PSB070	che c'è
 PSB070	è che essendo
-PSB005	e:h di eh del rito bizantino e non latino
-PSB070	mhmh
+PSB070	e:h di eh del rito bizantino e non latino
+PSB005	mhmh
 PSB070	ad esempio voi qui
-PSB005	poco distante da [qui c]'è una nostra [chiesa a]nche
+PSB070	poco distante da [qui c]'è una nostra [chiesa a]nche
 PSB005	[mhmh]
-PSB070	[mhmh]
-PSB005	e: non so se ci hai hai mai avuto [possibilità]
-PSB070	[non ci sono mi anda]ta no no
-PSB005	eh mi piacerebbe un giorno portarti e fartela vede[re]
+PSB005	[mhmh]
+PSB070	e: non so se ci hai hai mai avuto [possibilità]
+PSB005	[non ci sono mi anda]ta no no
+PSB070	eh mi piacerebbe un giorno portarti e fartela vede[re]
 PSB005	[ah] posso venire quando vuoi
-PSB070	possiamo metter[ci d'accordo sì]
+PSB005	possiamo metter[ci d'accordo sì]
 PSB070	[così xx e]:hm
 PSB070	la chiesa
 PSB070	ehm
-PSB005	la chiesa greco cattolica perché perché ha il rito bizantino noi abbiamo preso il nostro rito dai greci
-PSB070	mhmh
+PSB070	la chiesa greco cattolica perché perché ha il rito bizantino noi abbiamo preso il nostro rito dai greci
+PSB005	mhmh
 PSB070	e quindi e~ essendo catto~ c(io)è la chiesa
 PSB070	la chiesa cattolica per eh per per dirti
 PSB070	è composta di ventidue chiese
@@ -1370,98 +1370,98 @@ PSB070	si chiama universale la chiesa cattolica
 PSB070	perché è composta da queste chiese qua di cui c'è anche tra cui c'è anche la nostra chiesa che fa parte della chiesa cattolica universale
 PSB070	c(io)è per noi il papa è il capo della chiesa
 PSB070	come per tutti i cattolici
-PSB005	perà l'unica cosa che ci differenzia dai cattolici del rito latino è che noi abbiamo il rito greco
-PSB070	e è è molto diverso?
+PSB070	perà l'unica cosa che ci differenzia dai cattolici del rito latino è che noi abbiamo il rito greco
+PSB005	e è è molto diverso?
+PSB070	abbastanza
 PSB005	abbastanza
-PSB005	abbastanza
-PSB070	okay
+PSB005	okay
 PSB070	abbastanza sia dal punto di vista dei canti sia dal punto di vista
-PSB005	del: mh
-PSB070	c(io)è le preghiere la il testo delle preghiere è lo stesso?
-PSB005	sì no il testo delle preghiere è lo stesso solo che è nella nostra lingua
-PSB070	certo sì sì
-PSB005	vabbè e e poi i parame~ i paramenti?
-PSB070	i paramenti sì i paramenti [sì s]ì
-PSB005	[ecco]
-PSB070	sono di[versi]
-PSB005	[si differe]nziano
-PSB070	okay
-PSB005	sono quelli tipici greci
-PSB070	ah okay okay [e:h no]n:
-PSB005	[i paramenti]
+PSB070	del: mh
+PSB005	c(io)è le preghiere la il testo delle preghiere è lo stesso?
+PSB070	sì no il testo delle preghiere è lo stesso solo che è nella nostra lingua
+PSB005	certo sì sì
+PSB070	vabbè e e poi i parame~ i paramenti?
+PSB005	i paramenti sì i paramenti [sì s]ì
+PSB070	[ecco]
+PSB005	sono di[versi]
+PSB070	[si differe]nziano
+PSB005	okay
+PSB070	sono quelli tipici greci
+PSB005	ah okay okay [e:h no]n:
+PSB070	[i paramenti]
 PSB005	no non: non mi è mai capitato ecco
-PSB070	eh ho visto: qualche: celebrazione tipo degli anglicani qualche [e anche]
-PSB005	[ah okay]
-PSB070	anche celebrazioni protestan[ti le ho viste]
-PSB005	[interessante]
+PSB005	eh ho visto: qualche: celebrazione tipo degli anglicani qualche [e anche]
+PSB070	[ah okay]
+PSB005	anche celebrazioni protestan[ti le ho viste]
+PSB070	[interessante]
 PSB005	sì sì sì
 PSB005	però non qui ero perché ero all'estero mi capitava di:
-PSB070	però il rito greco non l'ho mai visto quinsi sare~ sarei anche curiosa c(io)è c'è la messa la domenica com[e:]
-PSB005	[ma]: sì anche nei giorni feriali solo che non mi ricordo quando la domenica c'è s~ ce ne sono sempre due messe una alle dieci e una alle quattordi[ci]
+PSB005	però il rito greco non l'ho mai visto quinsi sare~ sarei anche curiosa c(io)è c'è la messa la domenica com[e:]
+PSB070	[ma]: sì anche nei giorni feriali solo che non mi ricordo quando la domenica c'è s~ ce ne sono sempre due messe una alle dieci e una alle quattordi[ci]
 PSB005	[mh]mh
 PSB005	e ci sono
-PSB070	persone ucraine che [frequentano]
-PSB005	[ci sono:] gli ucra[ini che va]nno lì moltissimi la chiesa è sempre gremita
+PSB005	persone ucraine che [frequentano]
+PSB070	[ci sono:] gli ucra[ini che va]nno lì moltissimi la chiesa è sempre gremita
 PSB005	[molti]?
-PSB070	ah wow
-PSB005	più di la domenica sem[pre]
+PSB005	ah wow
+PSB070	più di la domenica sem[pre]
 PSB005	[mhmh]
 PSB005	sì sì
-PSB070	quindi tu dicevi che sei cattolico praticante fai anche delle attività o:
-PSB005	m:h [ma diciamo]
-PSB070	[mi sembra che tu faccia] già abbastanza attività però {ride}
-PSB005	eh io vado a sentire la messa
-PSB070	mh[mh]
+PSB005	quindi tu dicevi che sei cattolico praticante fai anche delle attività o:
+PSB070	m:h [ma diciamo]
+PSB005	[mi sembra che tu faccia] già abbastanza attività però {ride}
+PSB070	eh io vado a sentire la messa
+PSB005	mh[mh]
 PSB070	[e]:h soprattutto la domenica {P} visto che sono libero sabato e domenica sono libero
 PSB070	e:h la domenica sì
 PSB070	la domenica mattina vado a sentire la messa
-PSB005	e poi niente:
-PSB070	ma ma nel tuo quartiere o o vieni sempre in questa in strada maggiore?
+PSB070	e poi niente:
+PSB005	ma ma nel tuo quartiere o o vieni sempre in questa in strada maggiore?
 PSB070	dipende se
 PSB070	se non ho tanta voglia di andare fino in centro vado alla parrocchia che c'è lì da noi
-PSB005	eh di fronte proprio [all'esselu]nga
-PSB070	[qual'è]
+PSB070	eh di fronte proprio [all'esselu]nga
+PSB005	[qual'è]
 PSB070	e:hm la
-PSB005	xxxx xx
-PSB070	vabbè vabbè comunque è in via emilia insomma
-PSB005	sì [sì sì sì di fronte al al]l'esselunga c(io)è di fronte un po'
+PSB070	xxxx xx
+PSB005	vabbè vabbè comunque è in via emilia insomma
+PSB070	sì [sì sì sì di fronte al al]l'esselunga c(io)è di fronte un po'
 PSB005	[sulla via emilia sì sì ho capito]
-PSB070	mhmh
+PSB005	mhmh
 PSB070	come dire
-PSB005	qui c'è l'esselunga e la parrocchia è:
-PSB070	mhmh
+PSB070	qui c'è l'esselunga e la parrocchia è:
+PSB005	mhmh
 PSB070	c'è la chie~ c'è: la scuola materna del cristo re
-PSB005	e su[bito]
-PSB070	[okay]
-PSB005	e:h e dopo c(io)è praticamente attaccata alla scuola c'è la chiesa la: la chiesa parrocchiale
-PSB070	e c'è attività è u[n:]
-PSB005	[però] quella è la chiesa cattolica del rito latino
+PSB070	e su[bito]
+PSB005	[okay]
+PSB070	e:h e dopo c(io)è praticamente attaccata alla scuola c'è la chiesa la: la chiesa parrocchiale
+PSB005	e c'è attività è u[n:]
+PSB070	[però] quella è la chiesa cattolica del rito latino
 PSB005	sì sì sì
 PSB005	ma
 PSB005	gli ucraini diciamo in ucraina insomma {P} la religione pre~
-PSB070	prevalente la confessione prevalente
-PSB005	ce ne sono due ci sono gli orto[dossi]
-PSB070	[mhmh]
+PSB005	prevalente la confessione prevalente
+PSB070	ce ne sono due ci sono gli orto[dossi]
+PSB005	[mhmh]
 PSB070	deò il rito eh: c(io)è del rito del (patriarcato) di dio
 PSB070	e:h i i {P} i cattoli~ anzi
 PSB070	gli ortodossi del patriarcato di dio
-PSB005	i greco cattolici e {P} i cattolici del rito latino
-PSB070	sì sì
+PSB070	i greco cattolici e {P} i cattolici del rito latino
+PSB005	sì sì
 PSB070	diciamo:
-PSB005	i cattolici del rito latino e i greco cattolici c(io)è i cattolici del rito bizantino
-PSB070	mhmh
-PSB005	diciamo sono pari quei quelli ortodossi
-PSB070	mh
+PSB070	i cattolici del rito latino e i greco cattolici c(io)è i cattolici del rito bizantino
+PSB005	mhmh
+PSB070	diciamo sono pari quei quelli ortodossi
+PSB005	mh
 PSB070	diciamo dal centro
 PSB070	verso est sud
 PSB070	e nord
 PSB070	e:hm
-PSB005	quella parte lì è più prevalentemente eh ortodossa invece la parte occidentale è °cattolica°
+PSB070	quella parte lì è più prevalentemente eh ortodossa invece la parte occidentale è °cattolica°
 PSB005	ah beh sì ha senso
 PSB005	riconosco: il motivo diciamo e non ci sono
-PSB070	degli attriti fr[a:]
-PSB005	[no]
-PSB070	così
+PSB005	degli attriti fr[a:]
+PSB070	[no]
+PSB005	così
 PSB070	diciamo e:hm nel novantuno
 PSB070	quando
 PSB070	abbiamo avuto
@@ -1485,33 +1485,33 @@ PSB070	quindi e:h all'inizio era un po' dura
 PSB070	diciamo negli anni: nova~ novantuno novantandue
 PSB070	a volte c'erano anche degli scontri: fisici tra ortodossi e cattolici che non riuscivano a trovare
 PSB070	accordo:
-PSB005	solu~ [c(io)è] {P} sembrerà s~
+PSB070	solu~ [c(io)è] {P} sembrerà s~
 PSB005	[sì sì sì]
-PSB070	no beh
+PSB005	no beh
 PSB070	magari strano:
-PSB005	anche un po' scioccante
+PSB070	anche un po' scioccante
 PSB005	no no no scioccante no {ride}
 PSB005	(alla fine)
 PSB005	beh comunque se:
-PSB070	°adesso° questa domenica io non ci sono non sono a a bologna però {P} se una domenica:
+PSB005	°adesso° questa domenica io non ci sono non sono a a bologna però {P} se una domenica:
 PSB070	sì
-PSB005	vo[gliamo xxx sì]
+PSB070	vo[gliamo xxx sì]
 PSB005	[vogliamo inco~ io]
-PSB070	[io non capisco] niente della lingua ma tanto s~ [mi è capita~]
+PSB005	[io non capisco] niente della lingua ma tanto s~ [mi è capita~]
 PSB070	[volentieri]
-PSB005	[no ci sono] ci sono anche gli italiani che [vengono]
-PSB070	[okay] mi è capitato molte volte di ascoltare messe in lingue che non capivo [tanto]
-PSB005	[okay]
-PSB070	se ero in viaggio cos[ì quindi]
+PSB070	[no ci sono] ci sono anche gli italiani che [vengono]
+PSB005	[okay] mi è capitato molte volte di ascoltare messe in lingue che non capivo [tanto]
+PSB070	[okay]
+PSB005	se ero in viaggio cos[ì quindi]
 PSB070	[eh spesso ci] viene a trovare il:
-PSB005	il cardinale zuppi
-PSB070	mh
-PSB005	spesso molto spesso
-PSB070	come ti sembra lui?
+PSB070	il cardinale zuppi
+PSB005	mh
+PSB070	spesso molto spesso
+PSB005	come ti sembra lui?
 PSB070	e:h
 PSB070	lo trovo molto c(io)è è l'uomo di dio: lo trovo: anche abbastanza simpatico:
-PSB005	perché scherza semp[re]
-PSB070	[sì] sì
+PSB070	perché scherza semp[re]
+PSB005	[sì] sì
 PSB070	e:hm sa dialogare è: abbastanza aperto
 PSB070	al confronto
 PSB070	e:hm:
@@ -1523,12 +1523,12 @@ PSB070	e alcune alcune dei suoi
 PSB070	al~
 PSB070	alcuni dei suoi da~ delle sue tesi alcune delle sue tesi
 PSB070	eh
-PSB005	vedi
-PSB070	no figurati {ride}
+PSB070	vedi
+PSB005	no figurati {ride}
 PSB070	{ride}
 PSB070	e:hm: all'inizio mi davano un po' anche fastidio perché
-PSB005	lo vedevo più pro russo che più {P} pro pace
-PSB070	mh
+PSB070	lo vedevo più pro russo che più {P} pro pace
+PSB005	mh
 PSB070	ehm
 PSB070	non mi piaceva sta cosa
 PSB070	invece dopo
@@ -1559,8 +1559,8 @@ PSB070	e::
 PSB070	infatti lui stesso dice io eh riconosco e vi chiedo scusa {P} magari per delle
 PSB070	tesi per delle proposte che facevo:
 PSB070	adesso capisco che erano stupide
-PSB005	che non: non c'è
-PSB070	prego prego
-PSB005	è un collega del[la protezio]ne civile
-PSB070	[sì sì sì]
+PSB070	che non: non c'è
+PSB005	prego prego
+PSB070	è un collega del[la protezio]ne civile
+PSB005	[sì sì sì]
 PSB070	eh pronti

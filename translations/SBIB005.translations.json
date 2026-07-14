@@ -1,0 +1,90 @@
+[
+  {
+    "tu_id": "266",
+    "speaker": "PSB051_trad",
+    "start": "511.000",
+    "end": "513.242",
+    "parent_tu_id": "265",
+    "text": "com'è stato? come l'ha fatta sentire?"
+  },
+  {
+    "tu_id": "315",
+    "speaker": "PSB051_trad",
+    "start": "596.792",
+    "end": "598.231",
+    "parent_tu_id": "313",
+    "text": "questi sono gamberi"
+  },
+  {
+    "tu_id": "317",
+    "speaker": "PSB051_trad",
+    "start": "598.335",
+    "end": "599.163",
+    "parent_tu_id": "316",
+    "text": "questi sono gamberi"
+  },
+  {
+    "tu_id": "398",
+    "speaker": "PSB051_trad",
+    "start": "748.995",
+    "end": "751.510",
+    "parent_tu_id": "397",
+    "text": "xx la vostra casa non è a dhaka?"
+  },
+  {
+    "tu_id": "417",
+    "speaker": "PSB052_trad",
+    "start": "775.614",
+    "end": "787.971",
+    "parent_tu_id": "415",
+    "text": "ho detto proprio questo non fuori roma non bologna allora noi siamo fuori dhaka sì a shariatpur xxx non fuori dhaka proprio a shariatpur"
+  },
+  {
+    "tu_id": "593",
+    "speaker": "PSB052_trad",
+    "start": "1163.592",
+    "end": "1164.378",
+    "parent_tu_id": "592",
+    "text": "non sei venuto in aereo?"
+  },
+  {
+    "tu_id": "605",
+    "speaker": "PSB053_trad",
+    "start": "1181.167",
+    "end": "1183.080",
+    "parent_tu_id": "604",
+    "text": "sedici ventiquattro"
+  },
+  {
+    "tu_id": "607",
+    "speaker": "PSB051_trad",
+    "start": "1183.214",
+    "end": "1184.719",
+    "parent_tu_id": "606",
+    "text": "ma ci vive qualcuno?"
+  },
+  {
+    "tu_id": "609",
+    "speaker": "PSB053_trad",
+    "start": "1184.784",
+    "end": "1186.629",
+    "parent_tu_id": "608",
+    "text": "se sono quattro ore non sono sedici ore"
+  },
+  {
+    "tu_id": "616",
+    "speaker": "PSB053_trad",
+    "start": "1192.164",
+    "end": "1197.643",
+    "parent_tu_id": "615",
+    "text": "primo atterri turchia primo nove ore"
+  },
+  {
+    "tu_id": "647",
+    "speaker": "PSB051_trad",
+    "start": "1265.686",
+    "end": "1267.611",
+    "parent_tu_id": "646",
+    "text": "da quanti anni è in italia?"
+  }
+]

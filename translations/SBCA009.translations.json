@@ -1,0 +1,66 @@
+[
+  {
+    "tu_id": "20",
+    "speaker": "PSB143_trad",
+    "start": "67.030",
+    "end": "70.430",
+    "parent_tu_id": "19",
+    "text": "guarda spero di prenderla se dio vuole però"
+  },
+  {
+    "tu_id": "127",
+    "speaker": "PSB142_trad",
+    "start": "332.290",
+    "end": "333.910",
+    "parent_tu_id": "126",
+    "text": "che dio ti aiuti amen"
+  },
+  {
+    "tu_id": "254",
+    "speaker": "PSB142_trad",
+    "start": "662.940",
+    "end": "663.780",
+    "parent_tu_id": "253",
+    "text": "se dio vuole"
+  },
+  {
+    "tu_id": "256",
+    "speaker": "PSB143_trad",
+    "start": "663.820",
+    "end": "665.240",
+    "parent_tu_id": "255",
+    "text": "si vedrà se dio vuole"
+  },
+  {
+    "tu_id": "294",
+    "speaker": "PSB143_trad",
+    "start": "741.920",
+    "end": "748.900",
+    "parent_tu_id": "293",
+    "text": "quindi direi di no magari se dio vuole dopo l'estate"
+  },
+  {
+    "tu_id": "299",
+    "speaker": "PSB143_trad",
+    "start": "756.160",
+    "end": "759.270",
+    "parent_tu_id": "298",
+    "text": "però secondo me mia madre se dio vuole potrebbe andare da sola"
+  },
+  {
+    "tu_id": "327",
+    "speaker": "PSB142_trad",
+    "start": "832.680",
+    "end": "836.290",
+    "parent_tu_id": "326",
+    "text": "però gloria a dio dicono che comunque i bambini lì cioè"
+  },
+  {
+    "tu_id": "393",
+    "speaker": "PSB143_trad",
+    "start": "988.400",
+    "end": "990.880",
+    "parent_tu_id": "392",
+    "text": "dai va bene se dio vuole grazie mille"
+  }
+]

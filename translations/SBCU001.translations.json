@@ -1,0 +1,66 @@
+[
+  {
+    "tu_id": "2098",
+    "speaker": "PSB022_trad",
+    "start": "3471.950",
+    "end": "3474.310",
+    "parent_tu_id": "2097",
+    "text": "micio xx xx"
+  },
+  {
+    "tu_id": "3076",
+    "speaker": "PSB022_trad",
+    "start": "5068.720",
+    "end": "5070.910",
+    "parent_tu_id": "3075",
+    "text": "cavolo mi sono dimenticata come si chiama oddio"
+  },
+  {
+    "tu_id": "3085",
+    "speaker": "PSB022_trad",
+    "start": "5082.730",
+    "end": "5085.590",
+    "parent_tu_id": "3084",
+    "text": "com'è il suo cognome cavolo mi sono dimenticata"
+  },
+  {
+    "tu_id": "3116",
+    "speaker": "PSB022_trad",
+    "start": "5136.820",
+    "end": "5137.440",
+    "parent_tu_id": "3115",
+    "text": "oh cavolo"
+  },
+  {
+    "tu_id": "3124",
+    "speaker": "PSB022_trad",
+    "start": "5151.150",
+    "end": "5152.820",
+    "parent_tu_id": "3123",
+    "text": "dipartimento oppure com'è che si chiama"
+  },
+  {
+    "tu_id": "3128",
+    "speaker": "PSB022_trad",
+    "start": "5156.570",
+    "end": "5157.810",
+    "parent_tu_id": "3127",
+    "text": "oh grassa"
+  },
+  {
+    "tu_id": "3142",
+    "speaker": "PSB022_trad",
+    "start": "5177.960",
+    "end": "5181.000",
+    "parent_tu_id": "3141",
+    "text": "allora gira"
+  },
+  {
+    "tu_id": "3144",
+    "speaker": "PSB022_trad",
+    "start": "5181.110",
+    "end": "5181.460",
+    "parent_tu_id": "3143",
+    "text": "no"
+  }
+]

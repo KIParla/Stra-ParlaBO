@@ -1,0 +1,58 @@
+[
+  {
+    "tu_id": "40",
+    "speaker": "PSB086_trad",
+    "start": "52.684",
+    "end": "53.750",
+    "parent_tu_id": "39",
+    "text": "saša mangi qualcosa?"
+  },
+  {
+    "tu_id": "504",
+    "speaker": "PSB088_trad",
+    "start": "787.044",
+    "end": "788.536",
+    "parent_tu_id": "503",
+    "text": "lo so sono curioso"
+  },
+  {
+    "tu_id": "723",
+    "speaker": "PSB088_trad",
+    "start": "1133.235",
+    "end": "1136.468",
+    "parent_tu_id": "722",
+    "text": "una volta un tizio mi"
+  },
+  {
+    "tu_id": "727",
+    "speaker": "PSB088_trad",
+    "start": "1136.797",
+    "end": "1139.751",
+    "parent_tu_id": "726",
+    "text": "no no prego prego xxxxx"
+  },
+  {
+    "tu_id": "729",
+    "speaker": "PSB088_trad",
+    "start": "1140.044",
+    "end": "1149.164",
+    "parent_tu_id": "728",
+    "text": "una volta un tizio mi ha detto che noi prendiamo i soldi non per quello che voi sapete"
+  },
+  {
+    "tu_id": "733",
+    "speaker": "PSB088_trad",
+    "start": "1152.167",
+    "end": "1155.570",
+    "parent_tu_id": "732",
+    "text": "non quello che voi non sapete ma per quello che non sappiano noi no aspetta viceversa"
+  },
+  {
+    "tu_id": "735",
+    "speaker": "PSB088_trad",
+    "start": "1156.074",
+    "end": "1162.025",
+    "parent_tu_id": "734",
+    "text": "non per quello che sappiamo noi ma per quello che voi non sapete potete provare xxxx"
+  }
+]

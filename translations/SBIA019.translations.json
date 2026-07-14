@@ -1,0 +1,106 @@
+[
+  {
+    "tu_id": "786",
+    "speaker": "PSB159_trad",
+    "start": "1292.419",
+    "end": "1292.987",
+    "parent_tu_id": "785",
+    "text": "interno"
+  },
+  {
+    "tu_id": "1507",
+    "speaker": "PSB159_trad",
+    "start": "2644.920",
+    "end": "2646.207",
+    "parent_tu_id": "1506",
+    "text": "portami gli occhiali per favore"
+  },
+  {
+    "tu_id": "1548",
+    "speaker": "PSB160_trad",
+    "start": "2735.040",
+    "end": "2736.240",
+    "parent_tu_id": "1547",
+    "text": "tieni qui"
+  },
+  {
+    "tu_id": "1550",
+    "speaker": "PSB160_trad",
+    "start": "2736.640",
+    "end": "2737.560",
+    "parent_tu_id": "1549",
+    "text": "dai dai giochiamo (forma idiomatica per dire accetto una sfida o per prendere iniziativa nel fare qualcosa)"
+  },
+  {
+    "tu_id": "1563",
+    "speaker": "PSB159_trad",
+    "start": "2756.427",
+    "end": "2757.247",
+    "parent_tu_id": "1562",
+    "text": "signora"
+  },
+  {
+    "tu_id": "1568",
+    "speaker": "PSB159_trad",
+    "start": "2761.874",
+    "end": "2763.364",
+    "parent_tu_id": "1567",
+    "text": "sono in ritardo"
+  },
+  {
+    "tu_id": "1570",
+    "speaker": "PSB159_trad",
+    "start": "2763.508",
+    "end": "2766.144",
+    "parent_tu_id": "1569",
+    "text": "portami il portafoglio"
+  },
+  {
+    "tu_id": "1573",
+    "speaker": "PSB159_trad",
+    "start": "2767.440",
+    "end": "2768.327",
+    "parent_tu_id": "1572",
+    "text": "dalla mia borsa"
+  },
+  {
+    "tu_id": "1575",
+    "speaker": "PSB159_trad",
+    "start": "2769.600",
+    "end": "2770.580",
+    "parent_tu_id": "1574",
+    "text": "in bocca al lupo"
+  },
+  {
+    "tu_id": "1582",
+    "speaker": "PSB159_trad",
+    "start": "2775.840",
+    "end": "2777.320",
+    "parent_tu_id": "1581",
+    "text": "tu non ti sei ancora sottoscritto? ti segno"
+  },
+  {
+    "tu_id": "1759",
+    "speaker": "PSB159_trad",
+    "start": "3125.535",
+    "end": "3127.267",
+    "parent_tu_id": "1758",
+    "text": "quando sono venuta quanti anni avevo?"
+  },
+  {
+    "tu_id": "1973",
+    "speaker": "PSB159_trad",
+    "start": "3456.447",
+    "end": "3457.216",
+    "parent_tu_id": "1972",
+    "text": "bravo"
+  },
+  {
+    "tu_id": "2052",
+    "speaker": "PSB160_trad",
+    "start": "3580.310",
+    "end": "3582.710",
+    "parent_tu_id": "2051",
+    "text": "basta tu c'hai rotto un po' le scatole"
+  }
+]

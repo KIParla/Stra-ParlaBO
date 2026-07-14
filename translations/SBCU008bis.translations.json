@@ -1,0 +1,98 @@
+[
+  {
+    "tu_id": "526",
+    "speaker": "PSB091_trad",
+    "start": "1042.387",
+    "end": "1043.077",
+    "parent_tu_id": "525",
+    "text": "sì sasha"
+  },
+  {
+    "tu_id": "528",
+    "speaker": "PSB091_trad",
+    "start": "1045.524",
+    "end": "1046.265",
+    "parent_tu_id": "527",
+    "text": "sono a casa dove"
+  },
+  {
+    "tu_id": "532",
+    "speaker": "PSB091_trad",
+    "start": "1057.713",
+    "end": "1058.210",
+    "parent_tu_id": "531",
+    "text": "dove vai"
+  },
+  {
+    "tu_id": "534",
+    "speaker": "PSB091_trad",
+    "start": "1063.812",
+    "end": "1064.845",
+    "parent_tu_id": "533",
+    "text": "con quali ragazzi"
+  },
+  {
+    "tu_id": "536",
+    "speaker": "PSB091_trad",
+    "start": "1068.630",
+    "end": "1069.177",
+    "parent_tu_id": "535",
+    "text": "sasha"
+  },
+  {
+    "tu_id": "538",
+    "speaker": "PSB091_trad",
+    "start": "1084.431",
+    "end": "1085.869",
+    "parent_tu_id": "537",
+    "text": "digli che lo vuoi per te"
+  },
+  {
+    "tu_id": "540",
+    "speaker": "PSB091_trad",
+    "start": "1087.597",
+    "end": "1088.597",
+    "parent_tu_id": "539",
+    "text": "e non per i ragazzi"
+  },
+  {
+    "tu_id": "543",
+    "speaker": "PSB091_trad",
+    "start": "1093.425",
+    "end": "1093.945",
+    "parent_tu_id": "542",
+    "text": "va bene"
+  },
+  {
+    "tu_id": "545",
+    "speaker": "PSB091_trad",
+    "start": "1095.856",
+    "end": "1096.308",
+    "parent_tu_id": "544",
+    "text": "ciao"
+  },
+  {
+    "tu_id": "1204",
+    "speaker": "PSB091_trad",
+    "start": "2628.781",
+    "end": "2629.193",
+    "parent_tu_id": "1203",
+    "text": "sì"
+  },
+  {
+    "tu_id": "1206",
+    "speaker": "PSB091_trad",
+    "start": "2630.600",
+    "end": "2632.644",
+    "parent_tu_id": "1205",
+    "text": "te li mando te li mando"
+  },
+  {
+    "tu_id": "1208",
+    "speaker": "PSB091_trad",
+    "start": "2634.062",
+    "end": "2634.604",
+    "parent_tu_id": "1207",
+    "text": "ciao"
+  }
+]
