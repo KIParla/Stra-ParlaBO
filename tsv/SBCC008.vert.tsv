@@ -596,7 +596,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 90-0	PSB104	90	90	0	sì	sì	_	_	_	_	_	linguistic	_	some	_	Begin=222.72	_	_	_	_
 90-1	PSB104	90	90	1	sì	sì	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
 90-2	PSB104	90	90	2	#omm	omm	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Token	_	_	_	_	_
-90-3	PSB104	90	90	3	#de	de	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Token	_	_	_	_	_
+90-3	PSB104	90	90	3	#*de	de	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Doubtful	_	_	_	_	_
 90-4	PSB104	90	90	4	#merde	merde	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Token	End=224.57	_	_	_	_
 91-0	PSB105	91	91	0	{ride}	{ride}	_	_	_	_	_	nonverbalbehavior	_	none	_	Begin=224.82|End=226.54	_	_	_	_
 92-0	PSB119	92	92	0	{ride}	{ride}	_	_	_	_	_	nonverbalbehavior	_	none	_	Begin=224.82|End=226.52	_	_	_	_

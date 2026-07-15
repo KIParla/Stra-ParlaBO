@@ -1348,7 +1348,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 211-2	PSB018	211	211	2	so	so	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
 211-3	PSB018	211	211	3	se:	se	_	_	_	_	_	linguistic	_	some	_	_	1x1	_	_	_
 211-4	PSB018	211	211	4	una	una	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
-211-5	PSB018	211	211	5	#informazia	informazia	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Token	_	_	_	_	_
+211-5	PSB018	211	211	5	#*informazia	informazia	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Doubtful	_	_	_	_	_
 211-6	PSB018	211	211	6	eh	eh	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
 211-7	PSB018	211	211	7	ma	ma	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
 211-8	PSB018	211	211	8	io	io	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
@@ -1911,7 +1911,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 300-2	PSB018	300	300	2	per°	per	_	_	_	_	_	linguistic	_	some	Volume=low	_	_	_	_	_
 300-3	PSB018	300	300	3	cerca:re	cercare	_	_	_	_	_	linguistic	_	some	_	_	4x1	_	_	_
 300-4	PSB018	300	300	4	usa:re	usare	_	_	_	_	_	linguistic	_	some	_	_	2x1	_	_	_
-300-5	PSB018	300	300	5	#informazia	informazia	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Token	_	_	_	_	_
+300-5	PSB018	300	300	5	#*informazia	informazia	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Doubtful	_	_	_	_	_
 300-6	PSB018	300	300	6	#endless	endless	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Token	End=1042.185	_	_	_	_
 302-0	PSB005	302	302	0	[mhmh]	mhmh	_	_	_	_	_	linguistic	_	none	_	Begin=1037.13|End=1037.63	_	_	_	0-4(89)
 303-0	PSB005	303	303	0	sì	sì	_	_	_	_	_	linguistic	_	none	_	Begin=1042.426	_	_	_	_
@@ -3980,7 +3980,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 664-4	PSB018	664	664	4	norma~	norma~	_	_	_	_	_	linguistic	_	some	Interrupted=Yes	_	_	_	_	_
 664-5	PSB018	664	664	5	eh	eh	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
 664-6	PSB018	664	664	6	la	la	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
-664-7	PSB018	664	664	7	#situacija	situacija	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Token	_	_	_	_	_
+664-7	PSB018	664	664	7	#*situacija	situacija	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Doubtful	_	_	_	_	_
 664-8	PSB018	664	664	8	eh	eh	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
 664-9	PSB018	664	664	9	la	la	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
 664-10	PSB018	664	664	10	situazione	situazione	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
@@ -4542,7 +4542,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 765-0	PSB018	765	765	0	ah	ah	_	_	_	_	_	linguistic	_	some	_	Begin=2515.129	_	_	_	_
 765-1	PSB018	765	765	1	co:n:	con	_	_	_	_	_	linguistic	_	some	_	_	1x1,2x1	_	_	_
 765-2	PSB018	765	765	2	l'	l'	_	_	_	_	_	linguistic	_	some	SpaceAfter=No	_	_	_	_	_
-765-3	PSB018	765	765	3	#informazia	informazia	_	_	_	_	_	linguistic	_	some	PauseAfter=Yes|Language=NO_ISO_CODE|Variation=Token	_	_	_	_	_
+765-3	PSB018	765	765	3	#*informazia	informazia	_	_	_	_	_	linguistic	_	some	PauseAfter=Yes|Language=NO_ISO_CODE|Variation=Doubtful	_	_	_	_	_
 765-4	PSB018	765	765	4	{P}	{P}	_	_	_	_	_	shortpause	_	some	_	_	_	_	_	_
 765-5	PSB018	765	765	5	con	con	_	_	_	_	_	linguistic	_	some	_	End=2519.484	_	_	_	_
 766-0	PSB005	766	766	0	se	se	_	_	_	_	_	linguistic	_	none	_	Begin=2520.21	_	_	_	_
@@ -4866,7 +4866,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 805-21	PSB018	805	805	21	la	la	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-2(234)
 805-22	PSB018	805	805	22	mi]a:	mia	_	_	_	_	_	linguistic	_	none	_	_	2x1	_	_	0-2(234)
 805-23	PSB018	805	805	23	m:h	mh	_	_	_	_	_	linguistic	_	none	_	End=2686.258	0x1	_	_	_
-806-0	PSB005	806	806	0	[°molto°	molto	_	_	_	_	_	linguistic	_	none	Volume=low	Begin=2673.178|End=2673.769	_	_	_	_
+806-0	PSB005	806	806	0	[°molto°*	molto*	_	_	_	_	_	error	_	none	Volume=low	Begin=2673.178|End=2673.769	_	_	_	_
 807-0	PSB005	807	807	0	[certo	certo	_	_	_	_	_	linguistic	_	none	_	Begin=2680.742	_	_	_	0-5(236)
 807-1	PSB005	807	807	1	sì	sì	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-2(236)
 807-2	PSB005	807	807	2	sì]	sì	_	_	_	_	_	linguistic	_	none	_	End=2681.871	_	_	_	0-2(236)
@@ -5238,7 +5238,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 857-2	PSB018	857	857	2	iniziato	iniziato	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
 857-3	PSB018	857	857	3	trovare	trovare	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
 857-4	PSB018	857	857	4	qualche	qualche	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
-857-5	PSB018	857	857	5	#informazia	informazia	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Token	_	_	_	_	_
+857-5	PSB018	857	857	5	#*informazia	informazia	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Doubtful	_	_	_	_	_
 857-6	PSB018	857	857	6	e	e	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
 857-7	PSB018	857	857	7	ho	ho	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
 857-8	PSB018	857	857	8	trovato	trovato	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
@@ -7093,7 +7093,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 1166-1	PSB018	1166	1166	1	[mo~	mo~	_	_	_	_	_	linguistic	_	some	Interrupted=Yes	_	_	_	_	0-3(367)
 1166-2	PSB018	1166	1166	2	tu]tta	tutta	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	0-2(367)
 1166-3	PSB018	1166	1166	3	a	a	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
-1166-4	PSB018	1166	1166	4	#produzia	produzia	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Token	_	_	_	_	_
+1166-4	PSB018	1166	1166	4	#*produzia	produzia	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Doubtful	_	_	_	_	_
 1166-5	PSB018	1166	1166	5	[di	di	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	0-2(366)
 1166-6	PSB018	1166	1166	6	carn]e	carne	_	_	_	_	_	linguistic	_	some	_	End=3882.087	_	_	_	0-4(366)
 1167-0	PSB005	1167	1167	0	[sì]	sì	_	_	_	_	_	linguistic	_	none	_	Begin=3880.097|End=3880.468	_	_	_	0-2(367)
@@ -8478,7 +8478,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 1419-10	PSB018	1419	1419	10	tutta	tutta	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
 1419-11	PSB018	1419	1419	11	la	la	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
 1419-12	PSB018	1419	1419	12	org~	org~	_	_	_	_	_	linguistic	_	some	Interrupted=Yes	_	_	_	_	_
-1419-13	PSB018	1419	1419	13	#organizzazia	organizzazia	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Token	_	_	_	_	_
+1419-13	PSB018	1419	1419	13	#*organizzazia	organizzazia	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Doubtful	_	_	_	_	_
 1419-14	PSB018	1419	1419	14	della	della	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
 1419-15	PSB018	1419	1419	15	del	del	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
 1419-16	PSB018	1419	1419	16	posto	posto	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_

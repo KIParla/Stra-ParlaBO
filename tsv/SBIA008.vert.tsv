@@ -249,7 +249,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 49-3	PSB042	49	49	3	ospit~	ospit~	_	_	_	_	_	linguistic	_	some	Interrupted=Yes	_	_	_	_	_
 49-4	PSB042	49	49	4	la	la	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
 49-5	PSB042	49	49	5	#système	système	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Token	_	_	_	_	_
-49-6	PSB042	49	49	6	#de	de	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Token	_	_	_	_	_
+49-6	PSB042	49	49	6	#*de	de	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Doubtful	_	_	_	_	_
 49-7	PSB042	49	49	7	ospitale,	ospitale	_	_	_	_	_	linguistic	_	some	Intonation=WeaklyRising	_	_	_	_	_
 49-8	PSB042	49	49	8	scola	scola	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
 49-9	PSB042	49	49	9	piace	piace	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
@@ -309,7 +309,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 58-12	PSB042	58	58	12	allergia,	allergia	_	_	_	_	_	linguistic	_	some	Intonation=WeaklyRising|PauseAfter=Yes	_	_	_	_	_
 58-13	PSB042	58	58	13	{P}	{P}	_	_	_	_	_	shortpause	_	some	_	_	_	_	_	_
 58-14	PSB042	58	58	14	è	è	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
-58-15	PSB042	58	58	15	#un	un	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Token	_	_	_	_	_
+58-15	PSB042	58	58	15	#*un	un	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Doubtful	_	_	_	_	_
 58-16	PSB042	58	58	16	#peu	peu	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Token	_	_	_	_	_
 58-17	PSB042	58	58	17	difficile	difficile	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
 58-18	PSB042	58	58	18	per	per	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
@@ -407,8 +407,8 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 71-1	PSB042	71	71	1	ci	ci	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 71-2	PSB042	71	71	2	s~	s~	_	_	_	_	_	linguistic	_	none	Interrupted=Yes	End=184.721	_	_	_	_
 72-0	PSB042	72	72	0	provare	provare	_	_	_	_	_	linguistic	_	some	_	Begin=185.338	_	_	_	_
-72-1	PSB042	72	72	1	#des	des	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Token	_	_	_	_	_
-72-2	PSB042	72	72	2	#spray	spray	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Token	_	_	_	_	_
+72-1	PSB042	72	72	1	#*des	des	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Doubtful	_	_	_	_	_
+72-2	PSB042	72	72	2	#*spray	spray	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Doubtful	_	_	_	_	_
 72-3	PSB042	72	72	3	le	le	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
 72-4	PSB042	72	72	4	cose	cose	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
 72-5	PSB042	72	72	5	ma	ma	_	_	_	_	_	linguistic	_	some	_	End=187.521	_	_	_	_
@@ -485,8 +485,8 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 86-2	PSB042	86	86	2	arriva	arriva	_	_	_	_	_	linguistic	_	some	PauseAfter=Yes	_	_	_	_	_
 86-3	PSB042	86	86	3	{P}	{P}	_	_	_	_	_	shortpause	_	some	_	_	_	_	_	_
 86-4	PSB042	86	86	4	giovane	giovane	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
-86-5	PSB042	86	86	5	#a	a	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Token	_	_	_	_	_
-86-6	PSB042	86	86	6	#l'	l'	_	_	_	_	_	linguistic	_	some	SpaceAfter=No|Language=NO_ISO_CODE|Variation=Token	_	_	_	_	_
+86-5	PSB042	86	86	5	#*a	a	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Doubtful	_	_	_	_	_
+86-6	PSB042	86	86	6	#*l'	l'	_	_	_	_	_	linguistic	_	some	SpaceAfter=No|Language=NO_ISO_CODE|Variation=Doubtful	_	_	_	_	_
 86-7	PSB042	86	86	7	#italie	italie	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Token	_	_	_	_	_
 86-8	PSB042	86	86	8	ma:	ma	_	_	_	_	_	linguistic	_	some	PauseAfter=Yes	_	1x1	_	_	_
 86-9	PSB042	86	86	9	{P}	{P}	_	_	_	_	_	shortpause	_	some	_	_	_	_	_	_
@@ -555,8 +555,8 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 92-0	PSB042	92	92	0	a	a	_	_	_	_	_	linguistic	_	some	_	Begin=250.3	_	_	_	_
 92-1	PSB042	92	92	1	matrimonio	matrimonio	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
 92-2	PSB042	92	92	2	#ni	ni	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Token	_	_	_	_	_
-92-3	PSB042	92	92	3	#a	a	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Token	_	_	_	_	_
-92-4	PSB042	92	92	4	#l'	l'	_	_	_	_	_	linguistic	_	some	SpaceAfter=No|Language=NO_ISO_CODE|Variation=Token	_	_	_	_	_
+92-3	PSB042	92	92	3	#*a	a	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Doubtful	_	_	_	_	_
+92-4	PSB042	92	92	4	#*l'	l'	_	_	_	_	_	linguistic	_	some	SpaceAfter=No|Language=NO_ISO_CODE|Variation=Doubtful	_	_	_	_	_
 92-5	PSB042	92	92	5	#italie	italie	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Token	_	_	_	_	_
 92-6	PSB042	92	92	6	#ni	ni	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Token	_	_	_	_	_
 92-7	PSB042	92	92	7	di	di	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
@@ -629,7 +629,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 112-1	PSB042	112	112	1	adesso,	adesso	_	_	_	_	_	linguistic	_	some	Intonation=WeaklyRising	_	_	_	_	_
 112-2	PSB042	112	112	2	con	con	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
 112-3	PSB042	112	112	3	grande:,	grande	_	_	_	_	_	linguistic	_	some	Intonation=WeaklyRising	_	5x1	_	_	_
-112-4	PSB042	112	112	4	#la	la	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Token	_	_	_	_	_
+112-4	PSB042	112	112	4	#*la	la	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Doubtful	_	_	_	_	_
 112-5	PSB042	112	112	5	#personalité	personalité	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Token	_	_	_	_	_
 112-6	PSB042	112	112	6	cambia.	cambia	_	_	_	_	_	linguistic	_	some	Intonation=Falling	_	_	_	_	_
 112-7	PSB042	112	112	7	poi	poi	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
@@ -715,7 +715,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 132-1	PSB042	132	132	1	passa	passa	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
 132-2	PSB042	132	132	2	solo	solo	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
 132-3	PSB042	132	132	3	un	un	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
-132-4	PSB042	132	132	4	#année	année	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Token	_	_	_	_	_
+132-4	PSB042	132	132	4	#*année	année	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Doubtful	_	_	_	_	_
 132-5	PSB042	132	132	5	e	e	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
 132-6	PSB042	132	132	6	fare,	fare	_	_	_	_	_	linguistic	_	some	Intonation=WeaklyRising	_	_	_	_	_
 132-7	PSB042	132	132	7	polizia	polizia	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
@@ -787,7 +787,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 145-1	PSB042	145	145	1	la	la	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
 145-2	PSB042	145	145	2	vita	vita	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
 145-3	PSB042	145	145	3	vuoi	vuoi	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
-145-4	PSB042	145	145	4	#che	che	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Token	_	_	_	_	_
+145-4	PSB042	145	145	4	#*che	che	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Doubtful	_	_	_	_	_
 145-5	PSB042	145	145	5	io:	io	_	_	_	_	_	linguistic	_	some	_	_	1x1	_	_	_
 145-6	PSB042	145	145	6	ritorno	ritorno	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
 145-7	PSB042	145	145	7	qua	qua	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
@@ -821,7 +821,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 152-6	PSB005	152	152	6	sono	sono	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 152-7	PSB005	152	152	7	stata	stata	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 152-8	PSB005	152	152	8	quindi:.	quindi	_	_	_	_	_	linguistic	_	none	Intonation=Falling	End=365.627	5x1	_	_	_
-153-0	PSB042	153	153	0	#a	a	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Token	Begin=365.663	_	_	_	_
+153-0	PSB042	153	153	0	#*a	a	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Doubtful	Begin=365.663	_	_	_	_
 153-1	PSB042	153	153	1	rabat?	rabat	_	_	_	_	_	linguistic	_	some	Intonation=Rising	End=366.363	_	_	_	_
 154-0	PSB005	154	154	0	sì	sì	_	_	_	_	_	linguistic	_	none	_	Begin=366.581|End=366.774	_	_	_	_
 155-0	PSB042	155	155	0	eh	eh	_	_	_	_	_	linguistic	_	none	_	Begin=367.199	_	_	_	_
@@ -874,7 +874,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 163-2	PSB042	163	163	2	così]	così	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-4(22)
 163-3	PSB042	163	163	3	complicato.	complicato	_	_	_	_	_	linguistic	_	none	Intonation=Falling	End=390.364	_	_	_	_
 164-0	PSB005	164	164	0	[mh]	mh	_	_	_	_	_	linguistic	_	none	_	Begin=391.013|End=391.539	_	_	_	0-2(23)
-165-0	PSB042	165	165	0	[#la]	la	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Token	Begin=391.014	_	_	_	0-3(23)
+165-0	PSB042	165	165	0	[#*la]	la	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Doubtful	Begin=391.014	_	_	_	0-4(23)
 165-1	PSB042	165	165	1	#système	système	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Token	_	_	_	_	_
 165-2	PSB042	165	165	2	da	da	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
 165-3	PSB042	165	165	3	mia	mia	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
@@ -882,7 +882,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 165-5	PSB042	165	165	5	con:.	con	_	_	_	_	_	linguistic	_	some	Intonation=Falling	End=393.656	2x1	_	_	_
 166-0	PSB042	166	166	0	con	con	_	_	_	_	_	linguistic	_	some	_	Begin=394.935	_	_	_	_
 166-1	PSB042	166	166	1	così	così	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
-166-2	PSB042	166	166	2	#le	le	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Token	_	_	_	_	_
+166-2	PSB042	166	166	2	#*le	le	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Doubtful	_	_	_	_	_
 166-3	PSB042	166	166	3	$document(e),	documente	_	_	_	_	_	linguistic	_	some	Intonation=WeaklyRising|Orthography=Yes|Variation=Emerging	_	_	_	9-10(0)	_
 166-4	PSB042	166	166	4	la.	la	_	_	_	_	_	linguistic	_	some	Intonation=Falling	End=397.806	_	_	_	_
 167-0	PSB042	167	167	0	non	non	_	_	_	_	_	linguistic	_	some	_	Begin=398.335	_	_	_	_
@@ -893,7 +893,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 167-5	PSB042	167	167	5	qua	qua	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
 167-6	PSB042	167	167	6	l~	l~	_	_	_	_	_	linguistic	_	some	Interrupted=Yes|PauseAfter=Yes	_	_	_	_	_
 167-7	PSB042	167	167	7	{P}	{P}	_	_	_	_	_	shortpause	_	some	_	_	_	_	_	_
-167-8	PSB042	167	167	8	#la	la	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Token	_	_	_	_	_
+167-8	PSB042	167	167	8	#*la	la	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Doubtful	_	_	_	_	_
 167-9	PSB042	167	167	9	#système	système	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Token	_	_	_	_	_
 167-10	PSB042	167	167	10	differenza:	differenza	_	_	_	_	_	linguistic	_	some	_	_	9x1	_	_	_
 167-11	PSB042	167	167	11	per	per	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
@@ -908,7 +908,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 169-6	PSB042	169	169	6	fare	fare	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
 169-7	PSB042	169	169	7	sempre	sempre	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
 169-8	PSB042	169	169	8	#des	des	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Token	_	_	_	_	_
-169-9	PSB042	169	169	9	#doman:de,	domande	_	_	_	_	_	linguistic	_	some	Intonation=WeaklyRising|Language=NO_ISO_CODE|Variation=Token	_	4x1	_	_	_
+169-9	PSB042	169	169	9	#*doman:de,	domande	_	_	_	_	_	linguistic	_	some	Intonation=WeaklyRising|Language=NO_ISO_CODE|Variation=Doubtful	_	4x1	_	_	_
 169-10	PSB042	169	169	10	se	se	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
 169-11	PSB042	169	169	11	vuoi	vuoi	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
 169-12	PSB042	169	169	12	qualco:sa,	qualcosa	_	_	_	_	_	linguistic	_	some	Intonation=WeaklyRising	_	5x1	_	_	_
@@ -1071,7 +1071,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 202-3	PSB042	202	202	3	sempre	sempre	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
 202-4	PSB042	202	202	4	c'	c'	_	_	_	_	_	linguistic	_	some	SpaceAfter=No	_	_	_	_	_
 202-5	PSB042	202	202	5	è	è	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
-202-6	PSB042	202	202	6	#le	le	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Token	_	_	_	_	_
+202-6	PSB042	202	202	6	#*le	le	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Doubtful	_	_	_	_	_
 202-7	PSB042	202	202	7	#church.	church	_	_	_	_	_	linguistic	_	some	Intonation=Falling|Language=NO_ISO_CODE|Variation=Token	End=479.447	_	_	_	_
 203-0	PSB005	203	203	0	mhmh	mhmh	_	_	_	_	_	linguistic	_	none	_	Begin=479.723|End=480.098	_	_	_	_
 204-0	PSB042	204	204	0	e:h	eh	_	_	_	_	_	linguistic	_	none	_	Begin=480.198	0x1	_	_	_
@@ -1100,7 +1100,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 206-8	PSB042	206	206	8	poi	poi	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
 206-9	PSB042	206	206	9	fare	fare	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
 206-10	PSB042	206	206	10	#des	des	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Token	_	_	_	_	_
-206-11	PSB042	206	206	11	#foto,	foto	_	_	_	_	_	linguistic	_	some	Intonation=WeaklyRising|Language=NO_ISO_CODE|Variation=Token	End=490.673	_	_	_	_
+206-11	PSB042	206	206	11	#*foto,	foto	_	_	_	_	_	linguistic	_	some	Intonation=WeaklyRising|Language=NO_ISO_CODE|Variation=Doubtful	End=490.673	_	_	_	_
 207-0	PSB005	207	207	0	[mhmh].	mhmh	_	_	_	_	_	linguistic	_	none	Intonation=Falling	Begin=486.238|End=486.538	_	_	_	0-4(36)
 208-0	PSB005	208	208	0	mhmh	mhmh	_	_	_	_	_	linguistic	_	none	_	Begin=491.01|End=491.26	_	_	_	_
 209-0	PSB042	209	209	0	è	è	_	_	_	_	_	linguistic	_	none	_	Begin=491.423	_	_	_	_
@@ -1718,8 +1718,8 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 321-12	PSB042	321	321	12	calma,	calma	_	_	_	_	_	linguistic	_	some	Intonation=WeaklyRising	End=753.974	_	_	_	_
 322-0	PSB042	322	322	0	e	e	_	_	_	_	_	linguistic	_	some	_	Begin=754.211	_	_	_	_
 322-1	PSB042	322	322	1	anche	anche	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
-322-2	PSB042	322	322	2	#a	a	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Token	_	_	_	_	_
-322-3	PSB042	322	322	3	#l'	l'	_	_	_	_	_	linguistic	_	some	SpaceAfter=No|Language=NO_ISO_CODE|Variation=Token	_	_	_	_	_
+322-2	PSB042	322	322	2	#*a	a	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Doubtful	_	_	_	_	_
+322-3	PSB042	322	322	3	#*l'	l'	_	_	_	_	_	linguistic	_	some	SpaceAfter=No|Language=NO_ISO_CODE|Variation=Doubtful	_	_	_	_	_
 322-4	PSB042	322	322	4	#italie	italie	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Token	_	_	_	_	_
 322-5	PSB042	322	322	5	cerco	cerco	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
 322-6	PSB042	322	322	6	così.	così	_	_	_	_	_	linguistic	_	some	Intonation=Falling	End=756.549	_	_	_	_
@@ -1936,7 +1936,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 365-5	PSB042	365	365	5	bambino,	bambino	_	_	_	_	_	linguistic	_	some	Intonation=WeaklyRising	_	_	_	_	_
 365-6	PSB042	365	365	6	c'	c'	_	_	_	_	_	linguistic	_	some	SpaceAfter=No	_	_	_	_	_
 365-7	PSB042	365	365	7	è:	è	_	_	_	_	_	linguistic	_	some	_	_	0x1	_	_	_
-365-8	PSB042	365	365	8	#de	de	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Token	_	_	_	2-3(0)	_
+365-8	PSB042	365	365	8	#*de	de	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Doubtful	_	_	_	3-4(0)	_
 365-9	PSB042	365	365	9	(fare).	fare	_	_	_	_	_	linguistic	_	some	Intonation=Falling	_	_	_	0-3(0)	_
 365-10	PSB042	365	365	10	e	e	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
 365-11	PSB042	365	365	11	qua	qua	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
@@ -2005,7 +2005,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 376-4	PSB042	376	376	4	paese	paese	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
 376-5	PSB042	376	376	5	arabo	arabo	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
 376-6	PSB042	376	376	6	vedi	vedi	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
-376-7	PSB042	376	376	7	#que.	que	_	_	_	_	_	linguistic	_	some	Intonation=Falling|PauseAfter=Yes|Language=NO_ISO_CODE|Variation=Token	_	_	_	_	_
+376-7	PSB042	376	376	7	#*que.	que	_	_	_	_	_	linguistic	_	some	Intonation=Falling|PauseAfter=Yes|Language=NO_ISO_CODE|Variation=Doubtful	_	_	_	_	_
 376-8	PSB042	376	376	8	{P}	{P}	_	_	_	_	_	shortpause	_	some	_	_	_	_	_	_
 376-9	PSB042	376	376	9	meglio.	meglio	_	_	_	_	_	linguistic	_	some	Intonation=Falling	End=876.992	_	_	_	_
 377-0	PSB005	377	377	0	mh.	mh	_	_	_	_	_	linguistic	_	none	Intonation=Falling	Begin=877.417|End=877.655	_	_	_	_
@@ -3101,7 +3101,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 612-0	PSB042	612	612	0	vuoi	vuoi	_	_	_	_	_	linguistic	_	some	_	Begin=1337.163	_	_	_	_
 612-1	PSB042	612	612	1	tua	tua	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
 612-2	PSB042	612	612	2	bambino	bambino	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
-612-3	PSB042	612	612	3	(#que)	que	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Token	_	_	_	0-4(0)	_
+612-3	PSB042	612	612	3	(#*que)	que	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Doubtful	_	_	_	0-5(0)	_
 612-4	PSB042	612	612	4	parla	parla	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
 612-5	PSB042	612	612	5	altre	altre	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
 612-6	PSB042	612	612	6	lingua:.	lingua	_	_	_	_	_	linguistic	_	some	Intonation=Falling	End=1340.488	5x1	_	_	_
@@ -3187,7 +3187,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 631-2	PSB042	631	631	2	è	è	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
 631-3	PSB042	631	631	3	$conosche	conosche	_	_	_	_	_	linguistic	_	some	Orthography=Yes|Variation=Emerging	_	_	_	_	_
 631-4	PSB042	631	631	4	#beaucoup	beaucoup	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Token	_	_	_	_	_
-631-5	PSB042	631	631	5	#de	de	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Token	End=1379.333	_	_	_	_
+631-5	PSB042	631	631	5	#*de	de	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Doubtful	End=1379.333	_	_	_	_
 632-0	PSB042	632	632	0	l'	l'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	Begin=1379.478	_	_	_	_
 632-1	PSB042	632	632	1	ap~	ap~	_	_	_	_	_	linguistic	_	none	Interrupted=Yes	_	_	_	_	_
 632-2	PSB042	632	632	2	le:l.e	le:l.e	_	_	_	_	_	error	_	none	_	_	_	_	_	_
@@ -3652,11 +3652,11 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 725-6	PSB005	725	725	6	mai],	mai	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	End=1566.278	_	_	_	0-3(183)
 726-0	PSB042	726	726	0	[con	con	_	_	_	_	_	linguistic	_	some	_	Begin=1565.958	_	_	_	_
 726-1	PSB042	726	726	1	la	la	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
-726-2	PSB042	726	726	2	#téléphone	téléphone	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Token	_	_	_	_	_
+726-2	PSB042	726	726	2	#*téléphone	téléphone	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Doubtful	_	_	_	_	_
 726-3	PSB042	726	726	3	non	non	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
 726-4	PSB042	726	726	4	è	è	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
 726-5	PSB042	726	726	5	senti	senti	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
-726-6	PSB042	726	726	6	#que	que	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Token	_	_	_	_	_
+726-6	PSB042	726	726	6	#*que	que	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Doubtful	_	_	_	_	_
 726-7	PSB042	726	726	7	c'	c'	_	_	_	_	_	linguistic	_	some	SpaceAfter=No	_	_	_	_	_
 726-8	PSB042	726	726	8	è:.	è	_	_	_	_	_	linguistic	_	some	Intonation=Falling|PauseAfter=Yes	_	0x1	_	_	_
 726-9	PSB042	726	726	9	{P}	{P}	_	_	_	_	_	shortpause	_	some	_	_	_	_	_	_
@@ -3672,7 +3672,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 728-0	PSB042	728	728	0	[no]n	non	_	_	_	_	_	linguistic	_	some	_	Begin=1572.298	_	_	_	0-2(184)
 728-1	PSB042	728	728	1	è	è	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
 728-2	PSB042	728	728	2	senti	senti	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
-728-3	PSB042	728	728	3	#que	que	_	_	_	_	_	linguistic	_	some	PauseAfter=Yes|Language=NO_ISO_CODE|Variation=Token	_	_	_	_	_
+728-3	PSB042	728	728	3	#*que	que	_	_	_	_	_	linguistic	_	some	PauseAfter=Yes|Language=NO_ISO_CODE|Variation=Doubtful	_	_	_	_	_
 728-4	PSB042	728	728	4	{P}	{P}	_	_	_	_	_	shortpause	_	some	_	_	_	_	_	_
 728-5	PSB042	728	728	5	fuori	fuori	_	_	_	_	_	linguistic	_	some	_	End=1574.498	_	_	_	_
 729-0	PSB042	729	729	0	aiuta	aiuta	_	_	_	_	_	linguistic	_	some	_	Begin=1575.358	_	_	_	_
@@ -4273,7 +4273,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 816-6	PSB042	816	816	6	piac°e°.	piace	_	_	_	_	_	linguistic	_	some	Intonation=Falling|PauseAfter=Yes|Volume=low	_	_	_	_	_
 816-7	PSB042	816	816	7	{P}	{P}	_	_	_	_	_	shortpause	_	some	_	_	_	_	_	_
 816-8	PSB042	816	816	8	e	e	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
-816-9	PSB042	816	816	9	#le	le	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Token	_	_	_	_	_
+816-9	PSB042	816	816	9	#*le	le	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Doubtful	_	_	_	_	_
 816-10	PSB042	816	816	10	romeni	romeni	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
 816-11	PSB042	816	816	11	uguale.	uguale	_	_	_	_	_	linguistic	_	some	Intonation=Falling	_	_	_	_	_
 816-12	PSB042	816	816	12	le	le	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
@@ -4369,7 +4369,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 837-13	PSB042	837	837	13	fa.	fa	_	_	_	_	_	linguistic	_	none	Intonation=Falling	End=1871.542	_	_	_	_
 838-0	PSB042	838	838	0	[ci]	ci	_	_	_	_	_	linguistic	_	some	_	Begin=1872.532	_	_	_	0-2(212)
 838-1	PSB042	838	838	1	senti	senti	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
-838-2	PSB042	838	838	2	#que:	que	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Token	_	2x1	_	_	_
+838-2	PSB042	838	838	2	#*que:	que	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Doubtful	_	2x1	_	_	_
 838-3	PSB042	838	838	3	la	la	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
 838-4	PSB042	838	838	4	soldi	soldi	_	_	_	_	_	linguistic	_	some	PauseAfter=Yes	_	_	_	_	_
 838-5	PSB042	838	838	5	{P}	{P}	_	_	_	_	_	shortpause	_	some	_	_	_	_	_	_
@@ -4408,7 +4408,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 848-0	PSB042	848	848	0	anche	anche	_	_	_	_	_	linguistic	_	some	_	Begin=1886.909	_	_	_	_
 848-1	PSB042	848	848	1	per	per	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
 848-2	PSB042	848	848	2	me:.	me	_	_	_	_	_	linguistic	_	some	Intonation=Falling	_	1x1	_	_	_
-848-3	PSB042	848	848	3	#les	les	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Token	_	_	_	_	_
+848-3	PSB042	848	848	3	#*les	les	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Doubtful	_	_	_	_	_
 848-4	PSB042	848	848	4	#factures	factures	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Token	_	_	_	_	_
 848-5	PSB042	848	848	5	e	e	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
 848-6	PSB042	848	848	6	le	le	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
@@ -4436,7 +4436,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 851-4	PSB042	851	851	4	le	le	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
 851-5	PSB042	851	851	5	g~	g~	_	_	_	_	_	linguistic	_	some	Interrupted=Yes	_	_	_	_	_
 851-6	PSB042	851	851	6	tutto:.	tutto	_	_	_	_	_	linguistic	_	some	Intonation=Falling	_	4x1	_	_	_
-851-7	PSB042	851	851	7	#les	les	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Token	_	_	_	_	_
+851-7	PSB042	851	851	7	#*les	les	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Doubtful	_	_	_	_	_
 851-8	PSB042	851	851	8	#factures,	factures	_	_	_	_	_	linguistic	_	some	Intonation=WeaklyRising|Language=NO_ISO_CODE|Variation=Token	_	_	_	_	_
 851-9	PSB042	851	851	9	e	e	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
 851-10	PSB042	851	851	10	l'	l'	_	_	_	_	_	linguistic	_	some	SpaceAfter=No	_	_	_	_	_
@@ -4482,7 +4482,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 860-8	PSB042	860	860	8	lavoro	lavoro	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 860-9	PSB042	860	860	9	ma:.	ma	_	_	_	_	_	linguistic	_	none	Intonation=Falling	End=1920.48	1x1	_	_	_
 861-0	PSB042	861	861	0	come	come	_	_	_	_	_	linguistic	_	some	_	Begin=1921.006	_	_	_	_
-861-1	PSB042	861	861	1	#de	de	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Token	_	_	_	_	_
+861-1	PSB042	861	861	1	#*de	de	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Doubtful	_	_	_	_	_
 861-2	PSB042	861	861	2	tasse,	tasse	_	_	_	_	_	linguistic	_	some	Intonation=WeaklyRising	_	_	_	_	_
 861-3	PSB042	861	861	3	troppo.	troppo	_	_	_	_	_	linguistic	_	some	Intonation=Falling	End=1922.9	_	_	_	_
 862-0	PSB005	862	862	0	mhmh	mhmh	_	_	_	_	_	linguistic	_	none	_	Begin=1923.02|End=1923.431	_	_	_	_
@@ -5612,7 +5612,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 1107-0	PSB042	1107	1107	0	ma	ma	_	_	_	_	_	linguistic	_	none	_	Begin=2381.986	_	_	_	_
 1107-1	PSB042	1107	1107	1	sai:.	sai	_	_	_	_	_	linguistic	_	none	Intonation=Falling	End=2382.731	2x1	_	_	_
 1108-0	PSB042	1108	1108	0	tutto	tutto	_	_	_	_	_	linguistic	_	some	_	Begin=2383.687	_	_	_	_
-1108-1	PSB042	1108	1108	1	#que	que	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Token	_	_	_	_	_
+1108-1	PSB042	1108	1108	1	#*que	que	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Doubtful	_	_	_	_	_
 1108-2	PSB042	1108	1108	2	sposato	sposato	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
 1108-3	PSB042	1108	1108	3	al	al	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
 1108-4	PSB042	1108	1108	4	co~	co~	_	_	_	_	_	linguistic	_	some	Interrupted=Yes	_	_	_	_	_
@@ -5927,7 +5927,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 1173-0	PSB005	1173	1173	0	e~	e~	_	_	_	_	_	linguistic	_	none	Interrupted=Yes	Begin=2531.109|End=2531.359	_	_	_	_
 1174-0	PSB042	1174	1174	0	cerco	cerco	_	_	_	_	_	linguistic	_	some	_	Begin=2533.947	_	_	_	_
 1174-1	PSB042	1174	1174	1	#des	des	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Token	_	_	_	_	_
-1174-2	PSB042	1174	1174	2	#foto,	foto	_	_	_	_	_	linguistic	_	some	Intonation=WeaklyRising|Language=NO_ISO_CODE|Variation=Token	_	_	_	_	_
+1174-2	PSB042	1174	1174	2	#*foto,	foto	_	_	_	_	_	linguistic	_	some	Intonation=WeaklyRising|Language=NO_ISO_CODE|Variation=Doubtful	_	_	_	_	_
 1174-3	PSB042	1174	1174	3	per	per	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
 1174-4	PSB042	1174	1174	4	vedere,	vedere	_	_	_	_	_	linguistic	_	some	Intonation=WeaklyRising	End=2536.017	_	_	_	_
 1175-0	PSB005	1175	1175	0	sì.	sì	_	_	_	_	_	linguistic	_	none	Intonation=Falling	Begin=2536.137|End=2536.277	_	_	_	_

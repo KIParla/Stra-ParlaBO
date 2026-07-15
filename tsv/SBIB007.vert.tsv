@@ -1026,7 +1026,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 241-0	PSB005	241	241	0	[sì	sì	_	_	_	_	_	linguistic	_	none	_	Begin=444.68	_	_	_	0-2(61)
 241-1	PSB005	241	241	1	sì	sì	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-2(61)
 241-2	PSB005	241	241	2	sì]	sì	_	_	_	_	_	linguistic	_	none	_	End=445.344	_	_	_	0-2(61)
-242-0	PSB056	242	242	0	#hospital	hospital	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Token	Begin=447.56	_	_	_	_
+242-0	PSB056	242	242	0	#*hospital	hospital	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Doubtful	Begin=447.56	_	_	_	_
 242-1	PSB056	242	242	1	maggiore	maggiore	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
 242-2	PSB056	242	242	2	torna	torna	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
 242-3	PSB056	242	242	3	verso	verso	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_

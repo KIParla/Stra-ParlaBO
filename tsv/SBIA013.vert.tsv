@@ -415,8 +415,8 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 70-4	PSB067	70	70	4	se	se	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
 70-5	PSB067	70	70	5	possiamo	possiamo	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
 70-6	PSB067	70	70	6	fare	fare	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
-70-7	PSB067	70	70	7	#delle(s)	delles	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Token	_	_	_	6-7(0)	_
-70-8	PSB067	70	70	8	#attivit(es)	attivites	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Token	End=155.0	_	_	8-10(1)	_
+70-7	PSB067	70	70	7	#*delle(s)	delles	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Doubtful	_	_	_	7-8(0)	_
+70-8	PSB067	70	70	8	#*attivit(es)	attivites	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Doubtful	End=155.0	_	_	9-11(1)	_
 71-0	PSB005	71	71	0	mhmh	mhmh	_	_	_	_	_	linguistic	_	none	_	Begin=155.26|End=155.737	_	_	_	_
 72-0	PSB067	72	72	0	quello	quello	_	_	_	_	_	linguistic	_	none	_	Begin=155.79	_	_	_	_
 72-1	PSB067	72	72	1	non	non	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -5802,7 +5802,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 1546-2	PSB067	1546	1546	2	mattina	mattina	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
 1546-3	PSB067	1546	1546	3	devi	devi	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
 1546-4	PSB067	1546	1546	4	dire	dire	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
-1546-5	PSB067	1546	1546	5	#a	a	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Token	_	_	_	_	_
+1546-5	PSB067	1546	1546	5	#*a	a	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Doubtful	_	_	_	_	_
 1546-6	PSB067	1546	1546	6	#cre~	cre~	_	_	_	_	_	linguistic	_	some	Interrupted=Yes|Language=NO_ISO_CODE|Variation=Token	_	_	_	_	_
 1546-7	PSB067	1546	1546	7	#ian	ian	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Token	_	_	_	_	_
 1546-8	PSB067	1546	1546	8	#crei	crei	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Token	_	_	_	_	_

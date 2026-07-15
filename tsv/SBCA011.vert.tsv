@@ -4678,7 +4678,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 653-9	PSB165	653	653	9	l~	l~	_	_	_	_	_	linguistic	_	some	Interrupted=Yes	_	_	_	_	_
 653-10	PSB165	653	653	10	livello	livello	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
 653-11	PSB165	653	653	11	quattro	quattro	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
-653-12	PSB165	653	653	12	#icao	icao	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Token	End=1427.501	_	_	_	_
+653-12	PSB165	653	653	12	#*icao	icao	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Doubtful	End=1427.501	_	_	_	_
 654-0	PSB164	654	654	0	[tosta]	tosta	_	_	_	_	_	linguistic	_	none	_	Begin=1428.24|End=1428.796	_	_	_	0-5(279)
 655-0	PSB165	655	655	0	[internat]ional	international	_	_	_	_	_	linguistic	_	all	Language=NO_ISO_CODE	Begin=1428.259	_	_	_	_
 655-1	PSB165	655	655	1	civil	civil	_	_	_	_	_	linguistic	_	all	Language=NO_ISO_CODE	_	_	_	_	_
@@ -11122,7 +11122,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 1425-0	PSB165	1425	1425	0	[COSA	cosa	_	_	_	_	_	linguistic	_	some	Volume=high	Begin=3402.121	_	_	_	0-4(638)
 1425-1	PSB165	1425	1425	1	TI	ti	_	_	_	_	_	linguistic	_	some	Volume=high	_	_	_	_	0-2(638)
 1425-2	PSB165	1425	1425	2	HO	ho	_	_	_	_	_	linguistic	_	some	Volume=high	_	_	_	_	0-2(638)
-1425-3	PSB165	1425	1425	3	#SPOILE]RATO	spoilerato	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Volume=high|Variation=Token	End=3403.621	_	_	_	0-7(638)
+1425-3	PSB165	1425	1425	3	#*SPOILE]RATO	spoilerato	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Volume=high|Variation=Doubtful	End=3403.621	_	_	_	0-8(638)
 1426-0	PSB164	1426	1426	0	ma	ma	_	_	_	_	_	linguistic	_	none	_	Begin=3403.892	_	_	_	_
 1426-1	PSB164	1426	1426	1	quando	quando	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 1426-2	PSB164	1426	1426	2	è	è	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -12282,7 +12282,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 1579-2	PSB164	1579	1579	2	fretta]	fretta	_	_	_	_	_	linguistic	_	none	_	End=3758.382	_	_	_	0-6(706)
 1580-0	PSB165	1580	1580	0	non	non	_	_	_	_	_	linguistic	_	some	_	Begin=3759.617	_	_	_	_
 1580-1	PSB165	1580	1580	1	devi	devi	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
-1580-2	PSB165	1580	1580	2	#badgiare::	badgiare	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Token	_	7x2	_	_	_
+1580-2	PSB165	1580	1580	2	#*badgiare::	badgiare	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Doubtful	_	7x2	_	_	_
 1580-3	PSB165	1580	1580	3	[il	il	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	0-2(707)
 1580-4	PSB165	1580	1580	4	ca~	ca~	_	_	_	_	_	linguistic	_	some	Interrupted=Yes	_	_	_	_	0-3(707)
 1580-5	PSB165	1580	1580	5	cartellino]	cartellino	_	_	_	_	_	linguistic	_	some	_	End=3762.731	_	_	_	0-10(707)

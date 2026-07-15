@@ -4491,11 +4491,11 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 818-4	PSB152	818	818	4	fatto	fatto	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
 818-5	PSB152	818	818	5	bianchi	bianchi	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
 818-6	PSB152	818	818	6	io	io	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
-818-7	PSB152	818	818	7	#ch'	ch'	_	_	_	_	_	linguistic	_	some	SpaceAfter=No|Language=NO_ISO_CODE|Variation=Token	_	_	_	_	_
+818-7	PSB152	818	818	7	#*ch'	ch'	_	_	_	_	_	linguistic	_	some	SpaceAfter=No|Language=NO_ISO_CODE|Variation=Doubtful	_	_	_	_	_
 818-8	PSB152	818	818	8	#aggia	aggia	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Token	_	_	_	_	_
 818-9	PSB152	818	818	9	ch~	ch~	_	_	_	_	_	linguistic	_	some	Interrupted=Yes	_	_	_	_	_
 818-10	PSB152	818	818	10	$aggiala	aggiala	_	_	_	_	_	linguistic	_	some	Orthography=Yes|Variation=Emerging	_	_	_	_	_
-818-11	PSB152	818	818	11	#fa	fa	_	_	_	_	_	linguistic	_	some	PauseAfter=Yes|Language=NO_ISO_CODE|Variation=Token	_	_	_	_	_
+818-11	PSB152	818	818	11	#*fa	fa	_	_	_	_	_	linguistic	_	some	PauseAfter=Yes|Language=NO_ISO_CODE|Variation=Doubtful	_	_	_	_	_
 818-12	PSB152	818	818	12	{P}	{P}	_	_	_	_	_	shortpause	_	some	_	_	_	_	_	_
 818-13	PSB152	818	818	13	non	non	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
 818-14	PSB152	818	818	14	è	è	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
@@ -4573,9 +4573,9 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 830-4	PSB152	830	830	4	fatto	fatto	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
 830-5	PSB152	830	830	5	bianco	bianco	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
 830-6	PSB152	830	830	6	io	io	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
-830-7	PSB152	830	830	7	#ch'	ch'	_	_	_	_	_	linguistic	_	some	SpaceAfter=No|Language=NO_ISO_CODE|Variation=Token	_	_	_	_	_
+830-7	PSB152	830	830	7	#*ch'	ch'	_	_	_	_	_	linguistic	_	some	SpaceAfter=No|Language=NO_ISO_CODE|Variation=Doubtful	_	_	_	_	_
 830-8	PSB152	830	830	8	#aggia	aggia	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Token	_	_	_	_	_
-830-9	PSB152	830	830	9	#fa	fa	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Token	_	_	_	_	_
+830-9	PSB152	830	830	9	#*fa	fa	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Doubtful	_	_	_	_	_
 830-10	PSB152	830	830	10	è	è	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
 830-11	PSB152	830	830	11	questo	questo	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
 830-12	PSB152	830	830	12	è	è	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
@@ -9966,9 +9966,9 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 1699-0	PSB152	1699	1699	0	finito	finito	_	_	_	_	_	linguistic	_	some	_	Begin=3981.857	_	_	_	_
 1699-1	PSB152	1699	1699	1	contratto	contratto	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
 1699-2	PSB152	1699	1699	2	io	io	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
-1699-3	PSB152	1699	1699	3	#ch'	ch'	_	_	_	_	_	linguistic	_	some	SpaceAfter=No|Language=NO_ISO_CODE|Variation=Token	_	_	_	_	_
+1699-3	PSB152	1699	1699	3	#*ch'	ch'	_	_	_	_	_	linguistic	_	some	SpaceAfter=No|Language=NO_ISO_CODE|Variation=Doubtful	_	_	_	_	_
 1699-4	PSB152	1699	1699	4	#aggià	aggià	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Token	_	_	_	_	_
-1699-5	PSB152	1699	1699	5	#fa'	fa'	_	_	_	_	_	linguistic	_	some	Truncated=Yes|Language=NO_ISO_CODE|Variation=Token	End=3983.437	_	_	_	_
+1699-5	PSB152	1699	1699	5	#*fa'	fa'	_	_	_	_	_	linguistic	_	some	Truncated=Yes|Language=NO_ISO_CODE|Variation=Doubtful	End=3983.437	_	_	_	_
 1701-0	PSB151	1701	1701	0	eh	eh	_	_	_	_	_	linguistic	_	none	_	Begin=3984.279	_	_	_	_
 1701-1	PSB151	1701	1701	1	sì	sì	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 1701-2	PSB151	1701	1701	2	se	se	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_

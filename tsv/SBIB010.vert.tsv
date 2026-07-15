@@ -1273,7 +1273,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 252-2	PSB059	252	252	2	una	una	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 252-3	PSB059	252	252	3	ponte::	ponte	_	_	_	_	_	linguistic	_	none	_	_	4x2	_	_	_
 252-4	PSB059	252	252	4	così	così	_	_	_	_	_	linguistic	_	none	_	End=527.2	_	_	_	_
-253-0	PSB005	253	253	0	mh[mh]	mhmh	_	_	_	_	_	linguistic	_	none	_	Begin=527.66|End=528.04	_	_	_	2-4(45)
+253-0	PSB005	253	253	0	mh[mh]*	mhmh*	_	_	_	_	_	error	_	none	_	Begin=527.66|End=528.04	_	_	_	2-4(45)
 254-0	PSB059	254	254	0	[mh:]	mh	_	_	_	_	_	linguistic	_	none	_	Begin=527.99	1x1	_	_	0-2(45)
 254-1	PSB059	254	254	1	(mi)	mi	_	_	_	_	_	linguistic	_	none	_	_	_	_	0-2(0)	_
 254-2	PSB059	254	254	2	piacciono	piacciono	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_

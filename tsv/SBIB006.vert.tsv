@@ -2597,14 +2597,14 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 484-1	PSB049	484	484	1	sì	sì	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
 484-2	PSB049	484	484	2	arrivato:	arrivato	_	_	_	_	_	linguistic	_	some	_	_	7x1	_	_	_
 484-3	PSB049	484	484	3	e:h	eh	_	_	_	_	_	linguistic	_	some	_	_	0x1	_	_	_
-484-4	PSB049	484	484	4	#conferenze	conferenze	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Token	_	_	_	_	_
+484-4	PSB049	484	484	4	#*conferenze	conferenze	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Doubtful	_	_	_	_	_
 484-5	PSB049	484	484	5	di:	di	_	_	_	_	_	linguistic	_	some	_	_	1x1	_	_	_
 484-6	PSB049	484	484	6	sicurezza	sicurezza	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
 484-7	PSB049	484	484	7	come	come	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
 484-8	PSB049	484	484	8	si	si	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
 484-9	PSB049	484	484	9	chiama	chiama	_	_	_	_	_	linguistic	_	some	_	End=1597.846	_	_	_	_
 485-0	PSB049	485	485	0	una:	una	_	_	_	_	_	linguistic	_	some	_	Begin=1599.062	2x1	_	_	_
-485-1	PSB049	485	485	1	#conferenze	conferenze	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Token	_	_	_	_	_
+485-1	PSB049	485	485	1	#*conferenze	conferenze	_	_	_	_	_	linguistic	_	some	Language=NO_ISO_CODE|Variation=Doubtful	_	_	_	_	_
 485-2	PSB049	485	485	2	di	di	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
 485-3	PSB049	485	485	3	venticinque	venticinque	_	_	_	_	_	linguistic	_	some	_	_	_	_	_	_
 485-4	PSB049	485	485	4	e:h	eh	_	_	_	_	_	linguistic	_	some	_	_	0x1	_	_	_
