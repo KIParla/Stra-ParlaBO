@@ -869,7 +869,7 @@ PSB005	quindi tu non esci molto alla sera
 PSB021	no >no no no no< proprio
 PSB021	anche sì:
 PSB021	però sto molto attenta io sto molto molto attenta
-PSB021	però mai: uscire alla sera (all' oro)
+PSB021	però mai: uscire alla sera (all'oro)
 PSB005	e:h quando non studi che cosa fai?
 PSB005	cosa ti piace fare? [ti piace le]ggere ti piace:[:]
 PSB021	[allora]

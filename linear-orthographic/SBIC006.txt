@@ -53,7 +53,7 @@ PSB013	nel eh duemila diciassette
 PSB005	mhmh
 PSB013	sono venuto qua per il programma turandot
 PSB005	okay
-PSB013	e poi dopo un anno ho passato l'esame di ammissione dell' eh dell'accademia delle arti di bologna
+PSB013	e poi dopo un anno ho passato l'esame di ammissione dell'eh dell'accademia delle arti di bologna
 PSB005	mhmh
 PSB013	poi sono entrato
 PSB013	ehm

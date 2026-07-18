@@ -227,7 +227,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 55-12	PSB013	55	55	12	di	di	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
 55-13	PSB013	55	55	13	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 55-14	PSB013	55	55	14	ammissione	ammissione	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
-55-15	PSB013	55	55	15	dell'	dell'	_	_	_	_	_	linguistic	_	none	Truncated=Yes	_	_	_	_	_
+55-15	PSB013	55	55	15	dell'	dell'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	_	_	_
 55-16	PSB013	55	55	16	eh	eh	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 55-17	PSB013	55	55	17	dell'	dell'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	_	_	_
 55-18	PSB013	55	55	18	accademia	accademia	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_

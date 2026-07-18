@@ -2288,7 +2288,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 524-3	PSB067	524	524	3	una	una	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-3(124)
 524-4	PSB067	524	524	4	a]	a	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-1(124)
 524-5	PSB067	524	524	5	ozzano	ozzano	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
-524-6	PSB067	524	524	6	dell'	dell'	_	_	_	_	_	linguistic	_	none	Truncated=Yes	_	_	_	_	_
+524-6	PSB067	524	524	6	dell'	dell'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	_	_	_
 524-7	PSB067	524	524	7	emilia	emilia	_	_	_	_	_	linguistic	_	none	_	End=847.584	_	_	_	_
 525-0	PSB005	525	525	0	okay	okay	_	_	_	_	_	linguistic	_	none	_	Begin=847.844|End=848.461	_	_	_	_
 526-0	PSB079	526	526	0	ci	ci	_	_	_	_	_	linguistic	_	none	_	Begin=848.474	_	_	_	_

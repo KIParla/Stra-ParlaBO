@@ -489,7 +489,7 @@ PSB005	ah okay
 PSB005	e adesso eh vabbé non non voglio chiedere troppo quindi
 PSB039	mhmh
 PSB005	quindi c'è una tradizione nella tua famiglia
-PSB005	hai g~ sentito parlare dell' italia tante volte
+PSB005	hai g~ sentito parlare dell'italia tante volte
 PSB005	quando eri piccolino
 PSB039	mhmh
 PSB005	già sentivi

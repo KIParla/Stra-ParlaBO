@@ -503,7 +503,7 @@ PSB079	il pallavicini
 PSB067	pallavicini
 PSB005	sì okay sì
 PSB079	sì sì quella
-PSB067	e c'è una a ozzano dell' emilia
+PSB067	e c'è una a ozzano dell'emilia
 PSB005	okay
 PSB079	ci sono tant~
 PSB005	sì

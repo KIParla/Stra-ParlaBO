@@ -2654,7 +2654,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 533-1	PSB005	533	533	1	g~	g~	_	_	_	_	_	linguistic	_	none	Interrupted=Yes	_	_	_	_	_
 533-2	PSB005	533	533	2	sentito	sentito	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 533-3	PSB005	533	533	3	parlare	parlare	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
-533-4	PSB005	533	533	4	dell'	dell'	_	_	_	_	_	linguistic	_	none	Truncated=Yes	_	_	_	_	_
+533-4	PSB005	533	533	4	dell'	dell'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	_	_	_
 533-5	PSB005	533	533	5	italia::	italia	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	5x2	_	_	_
 533-6	PSB005	533	533	6	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 533-7	PSB005	533	533	7	tante	tante	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
