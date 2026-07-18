@@ -21,7 +21,7 @@ PSB104	il lunedì da a a devi fare questo
 PSB104	ma poi
 PSB105	qual è il tuo embitiai
 PSB104	il mio embitiai
-PSB119	duì j . j rén
+PSB119	duì j (.) j rén
 PSB105	sì sicuramente
 PSB119	xxx
 PSB104	ah sì sì sì sì sì
@@ -807,7 +807,7 @@ PSB104	beh
 PSB104	beh eh eh cosa vuol dire due stati possono avere la stessa lingua
 PSB119	pandemia shì shì
 PSB104	e scusa in america e in inghilterra parlano tutte e due inglese
-PSB104	però sono l' america cioè sono stati uniti e
+PSB104	però sono l'america cioè sono stati uniti e
 PSB119	guarda guarda guarda questa lezione adesso capisco che xx così ha detto
 PSB119	leadership per comunicazione e crisi tra pandemia e guerra
 PSB104	what
@@ -900,7 +900,7 @@ PSB119	xxx
 PSB120	presentazione
 PSB120	presentazione ha avuto
 PSB120	quindi xxx xx
-PSB120	about a . xxx
+PSB120	about a (.) xxx
 PSB120	ehm macro
 PSB120	macro
 PSB105	ah sì macron
@@ -910,7 +910,7 @@ PSB105	sì sì
 PSB104	okay
 PSB120	xxx
 PSB104	ah le le le president
-PSB105	eh . eh oui
+PSB105	eh (.) eh oui
 PSB104	xx
 PSB120	nà gè zǔ yuán zěn me shuō , xxx
 PSB119	shén me
@@ -1017,14 +1017,14 @@ PSB120	ah mh eh
 PSB120	i can't speak mh mh
 PSB120	if i want to join them i needed to speak eh french
 PSB119	francese
-PSB120	a french and tossisce and if
+PSB120	a french and ((tossisce)) and if
 PSB120	ehm if i join i needed to
 PSB120	ehm pre~ presentation
 PSB120	and i needed to french
 PSB120	fre~ french
 PSB119	xxx xxx
 PSB120	sìxxx
-PSB120	and i i say you and if you . didn't do the presentation . that you will
+PSB120	and i i say you and if you (.) didn't do the presentation (.) that you will
 PSB120	ehm can't . yes and i can't
 PSB120	can't ehm commu~ communicate ehm be~ bene
 PSB120	or do something
@@ -1050,7 +1050,7 @@ PSB105	e lei è entrata nel gruppo e xxx più potuto dire xx
 PSB119	xxx wán chéng le
 PSB104	ah
 PSB119	zuì mean de lǎo shī
-PSB119	zuì mean de tóng xué ride
+PSB119	zuì mean de tóng xué ((ride))
 PSB119	wán chéng le
 PSB104	io non capisco perché questa vuole che tu parli francese però
 PSB119	perché parli a elon musk
@@ -1566,7 +1566,7 @@ PSB119	quindi tedeschi hanno portato vi~ no birra qua
 PSB104	ah bellissimo
 PSB105	birra
 PSB119	marca di sua città
-PSB119	qīng dǎo pí jiǔ ride
+PSB119	qīng dǎo pí jiǔ ((ride))
 PSB104	bellissimo
 PSB105	poi dopo la guerra
 PSB105	è diventato una parte di giappone
@@ -1726,7 +1726,7 @@ PSB104	ah c'era la visto che erano
 PSB104	e un po' di azione
 PSB104	e c'erano dei cattivi da sconfiggere e a un certo punto questa diceva sempre
 PSB104	ah
-PSB104	. e io ero tipo lì ah allora aspetta ride
+PSB104	(.) e io ero tipo lì ah allora aspetta ((ride))
 PSB105	è come noi con dylan dog
 PSB104	con eh sì
 PSB105	sì
@@ -2109,7 +2109,7 @@ PSB120	fǎn zhèng wǒ bà tā cóng tóu dào wěi dōu shuō
 PSB120	tā shuō wǒ shì lái yì dà lì sòng xué lì de
 PSB120	cóng lái bù jué de wǒ shàng kè yǒu duō nàn
 PSB105	gēn , gēn dé guó de liú zi bǐ qǐ lái , jiù shì , zán men shì...
-PSB105	jiù zuò yī xiē ride
+PSB105	jiù zuò yī xiē ((ride))
 PSB105	dàn shì què shí
 PSB119	ah
 PSB119	wǒ zài shuō nǐ jiù shēng qì le , wǒ bù shuō le
@@ -2273,14 +2273,14 @@ PSB120	rán hòu wǒ bà gēn tā shuō , wèi shén me wǒ lǎo zhǎo tā yào 
 PSB105	tā bú shì yīng gāi gěi ma
 PSB119	un po' difficile
 PSB105	dàn shì nǐ mèi gēn nǐ qīn ma
-PSB105	nà nǐ hái gēn tā shuō ride
+PSB105	nà nǐ hái gēn tā shuō ((ride))
 PSB119	suǒ yǐ nà shí hou wǒ jiù wèn tā , wǒ shuō
 PSB120	qù nǎ lǐ mǎi yī fú de
 PSB105	ó ó ó
 PSB120	zhè gè hǎo guì ó , tā shuō nǐ zhǎo nǐ bà , zhǎo bà bà ya , ràng bà bà gěi nǐ mǎi
 PSB119	rán hòu wǒ zhǎo tā le , rán hòu tā zhè me shuō , wǒ gěi tā jié tú fā gěi wǒ mèi
 PSB120	rán hòu wǒ mèi jiù zhǎo wǒ bà
-PSB119	nǐ zhè shén me mèi a ride
+PSB119	nǐ zhè shén me mèi a ((ride))
 PSB105	fēng bào xìn ér
 PSB105	hai capito
 PSB104	no

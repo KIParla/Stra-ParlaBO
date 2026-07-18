@@ -28,7 +28,7 @@ PSB029	no non so~ non è preoccupati però e::h lo sai che quando qualcuno che m
 PSB005	[mhmh]
 PSB029	e quale che è la ri~ risposta che sta facendo in un'altra lingua che lui [non è a]bbastanza BRAVA
 PSB005	[°mhmh°]
-PSB029	allora è una [problema per~] {P} [per (cioè)] una persona no
+PSB029	allora è una [problema per~] (.) [per (cioè)] una persona no
 PSB005	[mhmh]
 PSB005	[mhmh]
 PSB005	[mhmh sì forse]
@@ -37,27 +37,27 @@ PSB005	[for]se è stato per que[llo]
 PSB029	[sì]
 PSB005	e: stamattina noi siamo andate in
 PSB029	zo[na]
-PSB005	[prati]camente tutti i negozi di via san vitale {P} [a chiedere]
-PSB029	[sì nessuno] che non ti ha detto che c'è sì perché hanno paura per: perché {P} non lo non si sa cosa succederà [°dopo°]
+PSB005	[prati]camente tutti i negozi di via san vitale (.) [a chiedere]
+PSB029	[sì nessuno] che non ti ha detto che c'è sì perché hanno paura per: perché (.) non lo non si sa cosa succederà [°dopo°]
 PSB005	[mhmh mh]
 PSB005	infatti sì quindi vabbè ma noi [abbiamo provato ovviamente]
-PSB029	[sì {P} assolutamente]
-PSB005	[e:hm ma invece] {P} tu vivi in italia da sempre? da alcuni anni: [m:h]?
+PSB029	[sì (.) assolutamente]
+PSB005	[e:hm ma invece] (.) tu vivi in italia da sempre? da alcuni anni: [m:h]?
 PSB029	[assolutamente]
 PSB029	[no] non è che da sempre
 PSB029	sì da circa quindici anni già passato
 PSB005	okay okay
-PSB029	{ride} che sono qui
+PSB029	((ride)) che sono qui
 PSB005	beh comunque
 PSB005	[eh] parli beni~ parli be[nissimo]
 PSB029	[sì]
 PSB029	[BEH] quindici anni eh
 PSB029	non sono: sì è già passata proprio un se~ più di un secolo
-PSB005	mh ma {P} hai studiato da solo [o:]?
+PSB005	mh ma (.) hai studiato da solo [o:]?
 PSB029	[no] cioè no non è che studiato da solo che ho fatto anche superiore qui
 PSB005	a:h okay quindi sei~ sei giovani[ssimo]
 PSB029	[s:ì]
-PSB029	s[ì] {ride}
+PSB029	s[ì] ((ride))
 PSB005	[sei] giovanissimo perché io
 PSB005	non non voglio chiedere [l'età per]ché no[n:]
 PSB029	[giusto]
@@ -66,9 +66,9 @@ PSB005	[però sei andato] a scuola qui quindi
 PSB029	sì
 PSB005	che scuola hai fatto
 PSB005	perché anch'io sono andata a scuola qui un po' di anni fa ma
-PSB029	esattamente primo e:h andato il: m::h {P}
+PSB029	esattamente primo e:h andato il: m::h (.)
 PSB005	okay
-PSB029	che per la lingua che non riuscito: a passare e poi: e:h ci hanno trasferito {P} in
+PSB029	che per la lingua che non riuscito: a passare e poi: e:h ci hanno trasferito (.) in
 PSB005	oka[y]
 PSB029	[a]desso è
 PSB005	[mhmh] [e]
@@ -82,13 +82,13 @@ PSB029	[sì]
 PSB029	[tecnico]
 PSB005	tecni[co]?
 PSB029	[te]cnico
-PSB005	e [<di>] e~ elettrico elettroni[ca? {P} informatica]?
+PSB005	e [<di>] e~ elettrico elettroni[ca? (.) informatica]?
 PSB029	[professionale]
 PSB029	[no e:h là erava~ no] eh sì perché ci sono di informatica e:h meccanica e:: idraulica [con auto]me[ccanica]
 PSB005	[mhmh]
 PSB005	[mh]mh ok[ay]
 PSB029	[è] fatta ele~ cioè automeccanico con idrauli[ca]
-PSB005	[mh]mhmh {P} e quando hai finito di studiare sei venuto a lavorare: [subito]
+PSB005	[mh]mhmh (.) e quando hai finito di studiare sei venuto a lavorare: [subito]
 PSB029	[no] ero cercato il lavoro che: di varie parti dell'officina: per officina di auto assoluta[mente] non il moto era officina [di auto]
 PSB005	[mhmh]
 PSB005	[mhmh]
@@ -103,25 +103,25 @@ PSB005	e quindi vivere a bologna ti piace?
 PSB029	assolutamente assolutamente ma problema è che non tr~ trovi a casa in bologna
 PSB029	[è una fon]damentale
 PSB005	[ce lo sta~]
-PSB005	ce lo stanno dicendo [tutti] {ride}
+PSB005	ce lo stanno dicendo [tutti] ((ride))
 PSB029	[asso~ non è] che solo in bologna anche: guarda che settimana scorsa ho visto un intervento da: un proprio giornalista della firenze
-PSB054	{ride}
+PSB054	((ride))
 PSB029	è lo stesso problema
 PSB005	mhmh
 PSB029	lo stesso pro[blema] cioè poi bologna non è che è iniziato questo problema da oggi
 PSB005	[mhmh]
 PSB005	mhmh
 PSB029	e se tu parli se tu chiedi una persona da anziana
-PSB029	che {P} finito studiare cioè {P} come straniero come me se come straniero significa che sei venuto da un'altra città
+PSB029	che (.) finito studiare cioè (.) come straniero come me se come straniero significa che sei venuto da un'altra città
 PSB005	mhmh
 PSB029	tipo anche napoli eh giù parliamo anche ROMA [gua]rda che se chiedi che quanti anni sei in: sei in bologna tra parentesi
 PSB005	[mhmh]
-PSB029	dici guarda che io {P} ho ho laureato qui
+PSB029	dici guarda che io (.) ho ho laureato qui
 PSB005	mhmh
 PSB029	e ti racconta la storia come era prima
 PSB029	e trattava come: come straniero cioè non te~ non dà la cas[a non c]'è proprio
 PSB005	[mhmh]
-PSB029	era il bologna ha questa storia d[a:] da storia [cioè proprio] da cento anni mi sem[brava ancora più {ride} sì]
+PSB029	era il bologna ha questa storia d[a:] da storia [cioè proprio] da cento anni mi sem[brava ancora più ((ride)) sì]
 PSB005	[è vecchia]
 PSB005	[sì sì sì]
 PSB005	[sì sì sì è possibile sì sì]
@@ -131,7 +131,7 @@ PSB054	[°sì°]
 PSB005	mhmh
 PSB029	tutti quan[ti]
 PSB005	[mh]mh e c'è stato qualche[:]?
-PSB029	[chi] hanno soldi {P} e compra aff~ cioè appartamento per il figli: per mandare in bologna per studiare
+PSB029	[chi] hanno soldi (.) e compra aff~ cioè appartamento per il figli: per mandare in bologna per studiare
 PSB005	mhmh
 PSB005	che è l'unico modo
 PSB029	è unico modo
@@ -142,14 +142,14 @@ PSB029	che ehm: è (il) morto proprietario poi il figli hanno venduto il e:h l'a
 PSB029	da una persona che: m:h da salerno
 PSB029	che lui ha comprato per suo figl[i]
 PSB005	[mh]mh
-PSB029	che devono venire studiare in bologna in >università< di bologna, {P} allora dopo
+PSB029	che devono venire studiare in bologna in >università< di bologna, (.) allora dopo
 PSB029	quando: cioè in tempo cioè m:h io devo lasciare casa ho cercato due anni in bologna cioè ancora e sto cercando altri due anni
 PSB029	come matto che non lo tro[vo: appa]rtamento [in bologna] allora ho trasferito valsamoggi[a]
 PSB005	[mhmhmh]
 PSB005	[mhmhmh]
 PSB005	[o]kay
 PSB029	beh da venti venti chilometri lo faccio ogni giorno avanti indietro se vado il treno
-PSB029	con il tutto traffico [{P} ci] vuole {P} un'ora e mezza
+PSB029	con il tutto traffico [(.) ci] vuole (.) un'ora e mezza
 PSB005	[mhmh]
 PSB005	°mamma° così tanto?
 PSB029	eh così tanto perché la mattina alle nove ci [sono un bel] traf[fico dalle o]tto
@@ -157,36 +157,36 @@ PSB005	[c'è casi~]
 PSB005	[casino] sì
 PSB029	per: a::- arrivare [qui ci vuole] un'ora proprio
 PSB005	[mhmh sì]
-PSB005	°sì sì sì° quindi come ti sposti per venire {P} comunque in macchina
+PSB005	°sì sì sì° quindi come ti sposti per venire (.) comunque in macchina
 PSB029	beh e:h sì [sì]
 PSB005	[alla] fi[ne]
 PSB029	[con] la macchina un'ora un'ora e mezza la mattina,
-PSB029	se vengo il treno devo alzare alle sei sei e mezza per aprire il negozio alle no[ve] {P} allora poi
+PSB029	se vengo il treno devo alzare alle sei sei e mezza per aprire il negozio alle no[ve] (.) allora poi
 PSB005	[°eh certo°]
 PSB005	però se prendi la macchina come fai qui par~ a parcheggiare in [centro]
-PSB029	[eh] a parcheggiare devi comprare {ride}
+PSB029	[eh] a parcheggiare devi comprare ((ride))
 PSB029	abbonamenti così che in [giro ti trovi] non è che non [trovi]
 PSB005	[°ah okay°]
 PSB005	[°sì sì°]
 PSB005	[sì sì sì]
-PSB029	[trovi] {P} però è difficile
+PSB029	[trovi] (.) però è difficile
 PSB005	cioè quindi c'è tipo un abbonamento e puoi sia entrare in centro con la macchina sia parche[ggiare]
 PSB029	[beh no] perché abbonamento è dato soltanto il parcheggi[o]
 PSB005	[o]kay
-PSB029	perché come io ho un nego[zio va]do {P} lo faccio
+PSB029	perché come io ho un nego[zio va]do (.) lo faccio
 PSB005	[mhmh]
-PSB005	già {P} [puoi già entrare]
+PSB005	già (.) [puoi già entrare]
 PSB029	[esattamente che]
 PSB029	s[ì]
 PSB005	[s]ì
-PSB029	entrata [{P} mi da]nno [poi il par]cheggio no il parcheggio devo pagare
+PSB029	entrata [(.) mi da]nno [poi il par]cheggio no il parcheggio devo pagare
 PSB005	[mhmh]
 PSB005	[mhmh]
 PSB005	[°certo°]
-PSB029	[allora qua]ndo vengo vicino dove lo vedo che no ci sono cinque sei minuti dieci minuti, {P} di camminata allora io parcheggio subito e:[:h d]ai
+PSB029	[allora qua]ndo vengo vicino dove lo vedo che no ci sono cinque sei minuti dieci minuti, (.) di camminata allora io parcheggio subito e:[:h d]ai
 PSB005	[°sì sì sì°]
 PSB005	sì sì sì ah io non ho la macchina perché:: [davvero impossibile]
-PSB029	[sì ma guarda] che in centro anche un altro problema del parcheggio {P} [che non si] trova
+PSB029	[sì ma guarda] che in centro anche un altro problema del parcheggio (.) [che non si] trova
 PSB005	[mhmh]
 PSB005	mhmh
 PSB029	non si trova
@@ -195,7 +195,7 @@ PSB029	beh e:h sì anche il treno anche [il treno]
 PSB005	[mhmh]
 PSB005	mhmh
 PSB029	anche il treno
-PSB005	almeno c'è {P} [diciamo]
+PSB005	almeno c'è (.) [diciamo]
 PSB029	[sì sì] no eh guarda che il trasporti ci sono soltanto che
 PSB029	c'è e:h no un altro problema è iniziato dopo quando fatto zo~ eh limite di trenta
 PSB005	ah [è peggiorato secondo te]
@@ -214,7 +214,7 @@ PSB029	[adesso] guarda che ferma
 PSB005	tutti blocca[ti]
 PSB029	[tu]tti bloccati
 PSB005	sì sì sì
-PSB029	le ordine che noi facciamo {P} il eh corriere dice guarda che per: non riusciamo a fare la consegna
+PSB029	le ordine che noi facciamo (.) il eh corriere dice guarda che per: non riusciamo a fare la consegna
 PSB005	mh[mh]
 PSB029	[è] il limite della velocità che [noi abbia]mo una:: mh
 PSB005	[mhmh]
@@ -226,15 +226,15 @@ PSB029	[assolutamente]
 PSB005	fanno an~ hanno fatto anche delle proteste degli de~ dei: mh
 PSB029	ma guarda che prima da fare è una cosa che:: tu devi venire:: in strada per capire come
 PSB029	non che puoi:: fare da:: casa cioè da casa non puoi fare tutto
-PSB005	mhmh ah no no {P} [certamente] sì sì sì x
+PSB005	mhmh ah no no (.) [certamente] sì sì sì x
 PSB029	[esattamente sì]
 PSB029	se vuoi se vuoi essere bene eh devi devi venire proprio::
 PSB029	a terra per capire come sta facendo come sta:: $culturando le cose
 PSB005	mh[mh]
 PSB029	[e] poi ma se tu dici guarda che sono sono ot~ pieno pieno di
 PSB029	c(io)è il mio appartamento se vado a ordinare le cose che la pizza che viene a casa mia io lo mangio ma assolutamente il
-PSB029	il e:::h {tossisce}
-PSB029	il pizzaiolo lo devono fare devono avere la roba {P} [per fare] la pizza
+PSB029	il e:::h ((tossisce))
+PSB029	il pizzaiolo lo devono fare devono avere la roba (.) [per fare] la pizza
 PSB005	[mhmh]
 PSB005	sì sì sì
 PSB005	devono riuscire a [consegnare sì certo sì sì certo]
@@ -258,39 +258,39 @@ PSB029	[che sta] face:- c(io)è proprio spostando mi sembrava che [là]
 PSB005	[ah] okay quindi forse si è un po' popolato anch[e]
 PSB029	[a]desso no non è che popolato sì zona: mh
 PSB029	e:::hm
-PSB029	anzola {P} [che] è quel che hanno fatto una fabbrica di sigarette che tra parole
+PSB029	anzola (.) [che] è quel che hanno fatto una fabbrica di sigarette che tra parole
 PSB005	mh[mh]
-PSB029	eh come tabacco no [eh di l]à {P} lavorando più di tre~ tremila pers[one non] sono esattamente o tremila o trentamila [ma tre]mila che facciamo
+PSB029	eh come tabacco no [eh di l]à (.) lavorando più di tre~ tremila pers[one non] sono esattamente o tremila o trentamila [ma tre]mila che facciamo
 PSB005	[okay]
 PSB005	[mhmh]
 PSB005	[mhmh]
-PSB029	ma {P} non si trovano adesso neanche là gli appartam[enti]
-PSB005	[eh] esatto te lo era {P} questo che volevo chiederti
+PSB029	ma (.) non si trovano adesso neanche là gli appartam[enti]
+PSB005	[eh] esatto te lo era (.) questo che volevo chiederti
 PSB005	perché
 PSB029	eh sì
 PSB005	se tutti vogliono vivere lì
-PSB029	sì {P} non si trovano appartament[i] {P} la verit[à]
+PSB029	sì (.) non si trovano appartament[i] (.) la verit[à]
 PSB005	[°mhmh°]
 PSB005	[mh]mh
 PSB029	piuttosto che: ci sono un sacco di: gente
-PSB029	come: non vuole dare {P} appartamenti per la famiglia
-PSB029	un po' che danno un po' di person[e {P} c]he: dopo fanno la storia
+PSB029	come: non vuole dare (.) appartamenti per la famiglia
+PSB029	un po' che danno un po' di person[e (.) c]he: dopo fanno la storia
 PSB005	[mhmh]
 PSB029	[allora]
 PSB005	[mhmh]
 PSB029	per pochi che: tutti quanti:
-PSB005	sì sì sì c[erto] ca[pito] {P} mh e ma se {P} se potessi un giorno vorresti vivere in citt[à o],
+PSB005	sì sì sì c[erto] ca[pito] (.) mh e ma se (.) se potessi un giorno vorresti vivere in citt[à o],
 PSB029	[mh]
 PSB029	[mh]
 PSB029	[assolu]tamente io sto provando tutti i giorni a [trova]re c'è un appartamento per i: trasferire in bolo[gna cioè]
 PSB005	[°okay°]
 PSB005	[mhmh]
 PSB029	io lavoro qui
-PSB029	è inutile che io vado {P} a
-PSB029	esempio faccio così una una una ragionamento se {P} lo trovo una casa in bologna
-PSB029	che {P} mille euro {P} facci[amo pe]rché: una casa deve essere mille euro
+PSB029	è inutile che io vado (.) a
+PSB029	esempio faccio così una una una ragionamento se (.) lo trovo una casa in bologna
+PSB029	che (.) mille euro (.) facci[amo pe]rché: una casa deve essere mille euro
 PSB005	[mhmh]
-PSB029	e {P} non è che deve essere soltanto una camera un mon~ un monolocale che è mille euro no
+PSB029	e (.) non è che deve essere soltanto una camera un mon~ un monolocale che è mille euro no
 PSB029	è troppo
 PSB005	è troppo sì
 PSB029	deve essere almeno tre camera di let[to per per] mille euro mille due mille cento facc[iamo] così
@@ -298,21 +298,21 @@ PSB005	[sì sì sì]
 PSB005	[mhmh]
 PSB029	se vado a: valsamoggia
 PSB029	ogni mese io spendo c~ più di duecento euro di benzina
-PSB005	sì sì {P} e il parcheggio
+PSB005	sì sì (.) e il parcheggio
 PSB029	e parcheggio più
 PSB005	sì
 PSB029	facciamo trecentocin[quanta euro di ogni mes]e
-PSB005	[sì sì {P} è tantiss~]
+PSB005	[sì sì (.) è tantiss~]
 PSB005	tantissimo
 PSB029	tantissimo
-PSB005	{ride}
+PSB005	((ride))
 PSB005	°sì sì°
-PSB005	no io non ho la macchina quindi non mi r[endo conto sento queste cifre] {ride}
+PSB005	no io non ho la macchina quindi non mi r[endo conto sento queste cifre] ((ride))
 PSB029	[no <intendevo, intend]evo> che se là pago settecento euro in affitto
-PSB029	più {P} trecentocinquant[a so]no mille
+PSB029	più (.) trecentocinquant[a so]no mille
 PSB005	[mh]
 PSB005	mhmh
-PSB029	già {P} mille: [mil~ mille] cento mille due [mille cento] mil~ mille duecento dopo [perché non è] che è solo che devo pagare la macchina
+PSB029	già (.) mille: [mil~ mille] cento mille due [mille cento] mil~ mille duecento dopo [perché non è] che è solo che devo pagare la macchina
 PSB005	[°sì sì sì°]
 PSB005	[mhmh]
 PSB005	[mhmh]
@@ -320,25 +320,25 @@ PSB029	la benzina e::
 PSB029	e anch[e: il parche]ggio [no devo] fare as~
 PSB005	[sì sì sì]
 PSB005	[°sì sì sì°]
-PSB029	allora come la città {P} se tu paghi duecento eu~ cioè duecento euro in PIÚ {P} [ma ti t]rovi tutto
+PSB029	allora come la città (.) se tu paghi duecento eu~ cioè duecento euro in PIÚ (.) [ma ti t]rovi tutto
 PSB005	[mhmh]
-PSB005	certo sì {P} certo cer[to]
+PSB005	certo sì (.) certo cer[to]
 PSB029	[com]e da là per fare una spesa io devo fare cioè dieci chilometri cinque chilometri al[meno]
 PSB005	[mh]mh
-PSB005	ma poi ti {P} (in)somma {P} ti svegli pres[to, traffico, stress, sì]
-PSB029	[ma {P} guarda] che {P} là
+PSB005	ma poi ti (.) (in)somma (.) ti svegli pres[to, traffico, stress, sì]
+PSB029	[ma (.) guarda] che (.) là
 PSB029	da vivere la differenza da città e fuori città
 PSB005	mhmh
-PSB029	SE LAVORO, fuori città guarda che per me va bene [ma] {P} dentro le cit[tà che devo lavora]re
+PSB029	SE LAVORO, fuori città guarda che per me va bene [ma] (.) dentro le cit[tà che devo lavora]re
 PSB005	[mhmh]
 PSB005	[venendo qua]
 PSB005	certo sì [sì]
-PSB029	[signi]fica che per [me] non è che una giornata di {P} ventiquattro ore
+PSB029	[signi]fica che per [me] non è che una giornata di (.) ventiquattro ore
 PSB005	[mh]
 PSB005	mhmh
 PSB029	sono
 PSB029	ventidue [ore]
-PSB005	[cert]o {P} perché è [un'ora (no)] {P} mh[mh]
+PSB005	[cert]o (.) perché è [un'ora (no)] (.) mh[mh]
 PSB029	[ancora meno]
 PSB029	[sono] venti ore ti[po perché] ogni giorno io lo
 PSB005	[°sì sì°]
@@ -364,14 +364,14 @@ PSB005	[mh]mh
 PSB005	mhmh
 PSB005	quindi sì ti [ti pia]cerebbe ritornare a [vivere in centro sì]
 PSB029	[sì]
-PSB029	[perché {P} è u]na persona che vanno cioè lavorare dentro in città va a abitare fuori {P} [ti in]qui~ stai inquin[ando lo ste]ss[o]
+PSB029	[perché (.) è u]na persona che vanno cioè lavorare dentro in città va a abitare fuori (.) [ti in]qui~ stai inquin[ando lo ste]ss[o]
 PSB005	[mhmh]
 PSB005	[anche]
 PSB005	[ce]rto
-PSB005	ah [no no no certamen]te {P} sì sì sì
+PSB005	ah [no no no certamen]te (.) sì sì sì
 PSB029	[devi capire questa qua]
 PSB005	e:h nien[te da]
-PSB029	[ma s]e come io che vengo a abitare {P} in cen~ città
+PSB029	[ma s]e come io che vengo a abitare (.) in cen~ città
 PSB029	una macchina
 PSB029	già f~
 PSB029	già
@@ -390,12 +390,12 @@ PSB005	parla~ m:h che lingua parlate?
 PSB029	[bangla] sì è la lingua:: bangla che parlan[o]
 PSB005	[quale li:~]
 PSB005	[e][:]
-PSB029	[p]erò eh tutti quanti lo sanno anche italiano °tranquilla[mente°] {ride}
+PSB029	[p]erò eh tutti quanti lo sanno anche italiano °tranquilla[mente°] ((ride))
 PSB005	[okay] e lo mi~ mischiate un po' [con l'italiano] quando parlate fra di [voi o]
 PSB029	[sì sì]
 PSB029	[sì: sì]::
 PSB005	tu hai fratelli anch[e:]
-PSB029	[sì] {P} ho una sorella che studia in università
+PSB029	[sì] (.) ho una sorella che studia in università
 PSB005	ch~ ah che cosa studia?
 PSB029	chimica
 PSB005	chimic[a okay] e è più grande più picco[la di te]
@@ -406,33 +406,33 @@ PSB005	sono curiosa di sapere se tu con la tua sorella parli [prevalentemente]
 PSB029	[tutti due lingue] n[oi parliamo di tutti e due lingue]
 PSB005	[tutti e du~ okay okay]
 PSB029	sì dipende qual è argomento che parliamo però parliamo tutti due lingue
-PSB005	ah tipo ci sono alcuni argomenti che sono più legati a una [lingua] {P} per esempio?
+PSB005	ah tipo ci sono alcuni argomenti che sono più legati a una [lingua] (.) per esempio?
 PSB029	[sì, sì]
 PSB029	no esempio è quando noi parliamo qualche argomenti di proprio cioè proprio ital~ c'è un posto qui allora parliamo come:
 PSB029	come italiano cioè proprio le cose
-PSB029	però eh quando noi parliamo la roba di per la famiglia {P} allora vabbè utilizziamo [il lingua] bangla [per per] la fa[miglia assolutamente]
+PSB029	però eh quando noi parliamo la roba di per la famiglia (.) allora vabbè utilizziamo [il lingua] bangla [per per] la fa[miglia assolutamente]
 PSB005	[mhmh]
 PSB005	[mhmh]
 PSB005	[mhmhmh mhmh]mh
 PSB005	e i tuoi genitori parlano bene italiano?
 PSB029	beh sì abbastanz[a]
 PSB005	[o]kay
-PSB029	loro capiscono benissimo {ride}
+PSB029	loro capiscono benissimo ((ride))
 PSB005	mhmh
 PSB005	e e m:h
 PSB005	è difficile la lingua del bangla~ perché [è una]
-PSB029	[sì] {P} [sì]
-PSB005	[noi no]n sappiamo {P} [nulla non s~]
+PSB029	[sì] (.) [sì]
+PSB005	[noi no]n sappiamo (.) [nulla non s~]
 PSB029	[no bangla è] una lingua e:h più dolce del mondo
 PSB005	ah okay
 PSB029	[da unesco] da unesco proprio che hanno già: hanno già dedicato
 PSB005	[prova a dirmi qualche parola]
 PSB029	no se lo dico anche non capisce [(allora)]
 PSB005	[vabbè] insegnaci u[na paro~ va bene no no]
-PSB029	[sì {ride} no facciamo dopo sì]
+PSB029	[sì ((ride)) no facciamo dopo sì]
 PSB005	[non] insisto no [n~ va bene non fa niente]
 PSB029	[esattamente]
-PSB005	e:hm però co~ avete dei contatti con ehm con {P} il paese di origine dei tuoi geni[tori] {P} rit~ cioè t~
+PSB005	e:hm però co~ avete dei contatti con ehm con (.) il paese di origine dei tuoi geni[tori] (.) rit~ cioè t~
 PSB029	[sì]
 PSB005	ci tornate qualche vol[ta]?
 PSB029	[sì] sì
@@ -442,12 +442,12 @@ PSB029	[abbastanza] no mh guarda che come in agosto è tutto chiuso a volte io v
 PSB029	che prima andavo tutti anni ma adesso un po' economicamen[te sia]mo un po' giù
 PSB005	[mhmh]
 PSB005	mhmh mhmh
-PSB029	perché:: dopo il covid dopo il guerra che le robe {P} se se tu vai a guardare
+PSB029	perché:: dopo il covid dopo il guerra che le robe (.) se se tu vai a guardare
 PSB005	mhmh
 PSB029	tutto già aumentato settanta per[cento]
 PSB005	[mhmh] mhmh
 PSB005	[°sì sì sì°]
-PSB029	[ma noi] il settore che lavoriamo il piccolo aziende se noi anche aumentiamo {P} settanta percento guarda che noi perdiamo anche quelle che {P} gente [che vengono]
+PSB029	[ma noi] il settore che lavoriamo il piccolo aziende se noi anche aumentiamo (.) settanta percento guarda che noi perdiamo anche quelle che (.) gente [che vengono]
 PSB005	[mhmh] mhmh
 PSB005	ah certo sì no infatti infatti
 PSB005	ma è un viaggio molto lungo?
@@ -461,7 +461,7 @@ PSB005	mh [eh sì]
 PSB029	[però]: eh sì come normale
 PSB029	c'è propri[o:]
 PSB005	[quali] sono le differenze principali con:: [qui]
-PSB029	[tutto] {ride} tutto
+PSB029	[tutto] ((ride)) tutto
 PSB005	come sono costruite le città:: [e:h]
 PSB029	[qua] facciamo una piccola differen[za] che noi qui in italia andiamo al supermercato
 PSB005	[mh]
@@ -513,7 +513,7 @@ PSB029	[ca]pitale è molto grande guarda che è:: un pieno di gente
 PSB005	mh immagino sì
 PSB029	°pieno di g[ente°]
 PSB005	[sarà] be~ sarà bello [ci sarà molta vita] [no]
-PSB029	[sì] {ride}
+PSB029	[sì] ((ride))
 PSB054	[sì]
 PSB029	come cina che a volte che vedi che gente che cammina è uno che non conosce un altro
 PSB005	mh
@@ -522,9 +522,9 @@ PSB029	mille persone che sta attraversando no
 PSB005	mhmh
 PSB029	cioè esempio così che se tu vai a camminare che passa mille gente che tu non conosci neanche
 PSB029	se non ce la fai:: cioè tu non hai obiettivi che dove devi andare tu perdi la strada
-PSB005	okay {ride} [okay]
+PSB005	okay ((ride)) [okay]
 PSB029	tipo [così]
-PSB005	no perché ieri un {P} un altro ragazzo del bangladesh ci ha detto che la capitale è grande come bologna
+PSB005	no perché ieri un (.) un altro ragazzo del bangladesh ci ha detto che la capitale è grande come bologna
 PSB029	no no [allora lui] non conosce [cioè non è] detto non è come grande in bologna è doppio della [bologna]
 PSB005	[perché]
 PSB005	[eh mi~]
@@ -559,15 +559,15 @@ PSB029	sì più ci sono là la zona che è noi è: mh più culturale
 PSB005	[ah per~] per esempio che cosa c'è?
 PSB029	[ci sono anche]
 PSB029	per e:h boh ci sono un po' di tutto
-PSB029	un po' di tutto {suona_campanello}
+PSB029	un po' di tutto ((suona_campanello))
 PSB029	<il cibo: ci sono i vestiti: ci sono anche>
 PSB029	anche beh ci sono anche:: mh
-PSB029	boh {P} [sì]
+PSB029	boh (.) [sì]
 PSB005	[ci] sono delle università?
 PSB029	sì [no le università è pro]prio in città [xxx]
 PSB005	[o più nella capita~]
-PSB005	[okay] {P} okay okay okay
-PSB005	[e s~] {P} in capitale in capitale okay [eh se] devi::
+PSB005	[okay] (.) okay okay okay
+PSB005	[e s~] (.) in capitale in capitale okay [eh se] devi::
 PSB029	[di:] in capitale
 PSB029	[però]
 PSB005	°posso anche°
@@ -578,19 +578,19 @@ PSB005	°sta andando abbastanza bene no?°
 PSB054	°sì°
 PSB005	°proviamo vedere se:°
 PSB005	>allora< dimmi la capitale è molto [grande],
-PSB029	[la capitale] è molto grande {P} e trecentosei virgola quattro e:h kilometri quadr[ati]
+PSB029	[la capitale] è molto grande (.) e trecentosei virgola quattro e:h kilometri quadr[ati]
 PSB005	[okay] e po[po]lazione?
 PSB029	[in]
 PSB029	e:h quattordici milioni, quattordici punto quattro mi[lioni]
 PSB005	[EH]
 PSB005	[cioè] bologna è trecentocinquantamila persone
 PSB029	beh [trecento]cinquantamila ma devo essere quanto grande bologna
-PSB005	[eh] {ride}
+PSB005	[eh] ((ride))
 PSB005	non so di kilometri quadrati però:
-PSB005	decisamente più grande, [ma infa]tti eh mi sembrava impossibile ma il ragazzo ie[ri insisteva {P} infa~]
+PSB005	decisamente più grande, [ma infa]tti eh mi sembrava impossibile ma il ragazzo ie[ri insisteva (.) infa~]
 PSB054	[°no°]
 PSB029	[e guarda che bologna è] centoqua~ centoquaran[ta]
-PSB005	[eh] {P} [sì]
+PSB005	[eh] (.) [sì]
 PSB029	[cento]quaranta virgola nove kilometri quadrati che se parliamo fino a
 PSB029	da: mh dove di: pilastro, fino a di:
 PSB005	mhmh
@@ -601,19 +601,19 @@ PSB054	[xxxx]
 PSB029	[sì proprio sì casa]lecchio
 PSB005	[sì] sì [sì sì]
 PSB029	[sì pro]prio il quadrato di: dentro c'è proprio quelle che le~
-PSB029	mh quelle che comune di bologna {P} esempio
+PSB029	mh quelle che comune di bologna (.) esempio
 PSB005	mhmh
 PSB029	però è f~ non è il fuori che hanno contato [cioè proprio la città e il capitale che hanno entrato] cioè proprio::
-PSB005	[sì sì certo {P} °sì sì sì°]
-PSB005	sì sì certo no ma [io~] a me mi sembrava impossibile che una città italiana neanche la capitale fosse grande come [la capita~] {ride}
+PSB005	[sì sì certo (.) °sì sì sì°]
+PSB005	sì sì certo no ma [io~] a me mi sembrava impossibile che una città italiana neanche la capitale fosse grande come [la capita~] ((ride))
 PSB029	[mh]
 PSB029	[beh no è come] è più g~ cioè è come grande della venezia che venezia è una città bella grande quattrocentoquatto~ e:h quattrocentoquattordici metri quadrati
-PSB005	(>guarda<) che s~ mh perché conteranno tutta la provincia per[ché vene]zia città è un'isoletta grande co[sì praticamente {ride} sì]
+PSB005	(>guarda<) che s~ mh perché conteranno tutta la provincia per[ché vene]zia città è un'isoletta grande co[sì praticamente ((ride)) sì]
 PSB029	[sì]
-PSB029	[eh eh assolutamente] {ride} poi se andiamo ancora un po' avanti ci sono colli che non con~ non contano [neanche]
+PSB029	[eh eh assolutamente] ((ride)) poi se andiamo ancora un po' avanti ci sono colli che non con~ non contano [neanche]
 PSB005	[no no infa]tti infatti no ma mi sembrava strano in[fatti] ma
 PSB029	[sì]
-PSB005	no e quindi mi dicevi che nella {P} nella zona della tua famiglia ci sono delle ini~ delle iniziative culturali [delle:]
+PSB005	no e quindi mi dicevi che nella (.) nella zona della tua famiglia ci sono delle ini~ delle iniziative culturali [delle:]
 PSB029	[sì sì]
 PSB005	o e [dei siti storici] o che cosa: [anche o archeolo]gici?
 PSB029	[ma adesso uguale]
@@ -625,8 +625,8 @@ PSB029	[poi adesso guarda che] è un po'
 PSB029	già persa un po': che andava dice a vivere la città che adesso tutti quanti che sta perdendo il lavoro °e questo°
 PSB005	là
 PSB029	là
-PSB005	okay {P} [ma cioè]
-PSB029	[sì {P} cioè tutti] tutti adesso tornando come la città c'è anda[to:] cioè verso la cit[tà per vivere (lì e) sì]
+PSB005	okay (.) [ma cioè]
+PSB029	[sì (.) cioè tutti] tutti adesso tornando come la città c'è anda[to:] cioè verso la cit[tà per vivere (lì e) sì]
 PSB005	[mh:]
 PSB005	[okay cioè si spostano] dalle zo~ [okay] ho capito
 PSB029	[sì]
@@ -640,20 +640,20 @@ PSB005	sì sì certo ma vengono anche molti persone del bangladesh i~ in europa,
 PSB005	[perché]
 PSB029	[da tutto] il mondo che guarda che ci sono mucchio di gente che stanno cioè guarda che il bangladesh se parliamo
 PSB029	che: sta gue~ c'è proprio m::h
-PSB029	più del eh quaranta per cento della budget dell'anno {P} avviene fuori dalla: fuori dal paese
+PSB029	più del eh quaranta per cento della budget dell'anno (.) avviene fuori dalla: fuori dal paese
 PSB005	okay
-PSB005	ah è una cifra molto alta {ride}
+PSB005	ah è una cifra molto alta ((ride))
 PSB029	sì
-PSB005	sì infatti {P} infatti
+PSB005	sì infatti (.) infatti
 PSB029	si dice manpower significa che è il gente
 PSB029	che vanno fuori del paese per lavorare, [per]
 PSB005	[mhmh]
 PSB029	per portare soldi del [sì sol]di in pa[ese]
 PSB005	[mhmh]
 PSB005	[mhmhmh]
-PSB005	e tornano {P} a [a volte] le persone [dopo che han~]
+PSB005	e tornano (.) a [a volte] le persone [dopo che han~]
 PSB029	[assolutamente sì tornano
-PSB029	[tutti quanti tornano] {ride}
+PSB029	[tutti quanti tornano] ((ride))
 PSB005	ah tutti [tornano]
 PSB029	[tutti quanti] torna[no]
 PSB005	[cioè] quindi stanno un periodo fuo[ri per lavo]ro e poi tornano a vivere là
@@ -666,7 +666,7 @@ PSB029	cioè come mh: come su~ io sono ormai già sono già italiano ho già pre
 PSB005	mh[mh]
 PSB029	[ade]sso il mio obiettivo per essere qui
 PSB029	cioè proprio per: mia famiglia è qui allora: sono cresciuto qui
-PSB029	cioè non ho tanto molti amici [{P} in] banglad[esh]
+PSB029	cioè non ho tanto molti amici [(.) in] banglad[esh]
 PSB005	[mhmh]
 PSB005	[mh][mh]
 PSB029	[ho] parente ma [non è] non è che ho molto amici
@@ -675,9 +675,9 @@ PSB029	cioè in italia lo conosco tutto [quanto]
 PSB005	[mhmh]
 PSB005	mhmh sì sì certo
 PSB029	cioè il bologna al di là lo conosco benissimo cioè ovunque vado e::h lo parlo come come il (ac)cento della bolognese ormai [che]
-PSB005	[mhmh mh] [mhmh mh] {ride}
+PSB005	[mhmh mh] [mhmh mh] ((ride))
 PSB029	[assolutamente] che ho amici qui che mi conosce un sacco di gente
-PSB029	lavorando qui allora io non non mi intere~ in~ {P} cioè non ho intenzione da ritornare [significa che domani] vado a cioè a comprare la casa e:: fisso qui per abi[tarci eh]
+PSB029	lavorando qui allora io non non mi intere~ in~ (.) cioè non ho intenzione da ritornare [significa che domani] vado a cioè a comprare la casa e:: fisso qui per abi[tarci eh]
 PSB005	[mhmh mhmh]
 PSB005	[sì] ti stabilisci [qui]
 PSB029	[sì]
@@ -694,9 +694,9 @@ PSB029	noi come io sono giovane quando ho tornato qui ero: ero giovane [cioè pr
 PSB005	[mh]
 PSB029	di: boh mh ecco ho amici qui
 PSB029	quando vado in pensione
-PSB029	parliamo un po' di cose che è banale perché non: non si sa che riesco a andare [{P} o non riesco] [xx]
+PSB029	parliamo un po' di cose che è banale perché non: non si sa che riesco a andare [(.) o non riesco] [xx]
 PSB005	[no certo]
-PSB005	[sì è come:] [come me] [come noi] {ride}
+PSB005	[sì è come:] [come me] [come noi] ((ride))
 PSB029	[esatta]mente non riesco cioè non sapevo che:: riesco a passare quara~ cioè quaranta neanche
 PSB029	che se vado in pensione
 PSB029	cioè va anche il mio amici insieme
@@ -704,7 +704,7 @@ PSB005	mhmh
 PSB005	[sì]
 PSB029	[la di]fferenza due o tre anni
 PSB005	mhmh
-PSB029	che {P} noi dopo cosa facciamo cioè proprio tutti siamo liberi facciamo chiacchieriamo andiamo in bar facciamo le cose quelle che fanno
+PSB029	che (.) noi dopo cosa facciamo cioè proprio tutti siamo liberi facciamo chiacchieriamo andiamo in bar facciamo le cose quelle che fanno
 PSB029	ma mio genitori loro non hanno amici qui
 PSB029	[perché amici] non è quella che noi conosciamo oggi o ieri
 PSB005	[sì sì certo]
@@ -712,7 +712,7 @@ PSB005	da grandi [sì]
 PSB029	[e]sa[ttamente] che già
 PSB005	[certo]
 PSB029	cioè elem~ cioè elementari [(secondo) di medie quelle che] ha amici veri è da [medie]
-PSB005	[mhmh {P} mh]
+PSB005	[mhmh (.) mh]
 PSB005	[mhmh]
 PSB029	al massimo superiori
 PSB005	[mhmh]
@@ -727,23 +727,23 @@ PSB029	[no]
 PSB029	[beh] loro non è che c'è tutto amici in ital[ia]
 PSB005	[no]
 PSB005	[mh]
-PSB029	eh cioè cresciuto loro cresciuto: {P} là
+PSB029	eh cioè cresciuto loro cresciuto: (.) là
 PSB005	certo [sì]
 PSB029	[si]gnifica che dopo forse io lo dico guarda che sono qui
 PSB029	se ti fa qualcosa io devo vederti cioè io devo prendere la cura allora tu ri[mane qui]
 PSB005	[mhmh]
-PSB005	eh certo è chiaro {P} sì sì certamente
+PSB005	eh certo è chiaro (.) sì sì certamente
 PSB005	ma tu hai un po' di tempo libero oppure il lavoro ti:: mh
 PSB029	no[:]
 PSB005	[ti] prende tutto il giorno riesci a fare anche qualche cosa [qualche ho:bby]
-PSB029	[sì:: sì:] lo faccio fotografia {ride}
+PSB029	[sì:: sì:] lo faccio fotografia ((ride))
 PSB005	fai le fotogra[fie]?
 PSB029	[sì]
-PSB005	ah ma che bello che cosa:: [hai] {P} paesaggi
+PSB005	ah ma che bello che cosa:: [hai] (.) paesaggi
 PSB029	[paesaggi]
 PSB005	quindi vai in giro[::]
 PSB029	[sì]
-PSB005	eh mia {P} mia sorella e suo compagno sono:: cioè
+PSB005	eh mia (.) mia sorella e suo compagno sono:: cioè
 PSB005	sono appassionati di fotografia e fanno delle gite in montagna fanno le foto
 PSB005	che cosa ti piace: fotografare?
 PSB029	sì paesaggi significa che:: ogni cosa che io lo vedo è:
@@ -756,7 +756,7 @@ PSB029	[oggi] devo trovare due tre foto basta
 PSB005	mhmhmh
 PSB005	e non ci sono s~
 PSB029	no [no]
-PSB005	[non] le hai qu[a? {P} no]
+PSB005	[non] le hai qu[a? (.) no]
 PSB029	[no non le ho] qui [non le ho qui]
 PSB005	[no no]
 PSB029	non le ho qui
@@ -776,11 +776,11 @@ PSB005	quindi non: non solo paesaggi naturali ha anche città?
 PSB029	sì sì
 PSB005	sì sì sì
 PSB005	hai viaggiato molto in italia?
-PSB029	poco {ride} manca un sacco
+PSB029	poco ((ride)) manca un sacco
 PSB005	eh ma sì
 PSB005	vabbè [c'è tempo ancora]
 PSB029	[manca un sacco sì]
-PSB005	e hai in m:h programma qualche:: {P} uscita per fare le foto prossima[mente]?
+PSB005	e hai in m:h programma qualche:: (.) uscita per fare le foto prossima[mente]?
 PSB029	[no no no] io non le faccio così che è il giorno che lo vedo che lo sento male oppure lo sento che qualcosa che non mi va non mi torna
 PSB029	sono proprio bloccato io vado in stazione
 PSB029	lo prendo il biglietto lo guardo quale treno che parte in qualche modo
@@ -788,7 +788,7 @@ PSB029	lo prendo il biiglietto vado con treno cioè [proprio là xxx]
 PSB005	[da solo]
 PSB029	da solo oppure lo chiamo il momento qualche amici
 PSB029	lo chia~ faccio la unica domanda sei libero per due giorni?
-PSB029	se mi risponde SI {P} vieni altrimenti no e così a posto
+PSB029	se mi risponde SI (.) vieni altrimenti no e così a posto
 PSB005	e i tuoi amici anche fanno le foto [o]?
 PSB029	[no] loro fanno la viaggio con me e:h guarda che noi
 PSB029	erano tre amici che era: sempre organizzato le viaggi
@@ -805,9 +805,9 @@ PSB005	okay okay
 PSB029	allora è un altro sentimento
 PSB005	mhmh okay
 PSB005	[ho capito]
-PSB029	[ovunque] vado quando {P} cioè ovunque vado
+PSB029	[ovunque] vado quando (.) cioè ovunque vado
 PSB029	quando ritorno in bologna il vento mi dà che sei in casa
-PSB005	{ride}
+PSB005	((ride))
 PSB005	quando io ero piccolina andavamo a fare le vacanze con i miei geni[tori] per esempio a trovare i nonni così
 PSB029	[sì]
 PSB005	[e quando] arrivavo ah di foto? vediamo?
@@ -824,7 +824,7 @@ PSB029	cinquecento pixel
 PSB005	cinquecento pixel allora ricordiamoci
 PSB029	beh là:: fanno tutti i fotografi che professio[nali]
 PSB005	[°ah°] qua ci sono stata io
-PSB029	{ride}
+PSB029	((ride))
 PSB005	a bagnoregio [sì]
 PSB029	[sì] ecco ero già detto che bagnoregio
 PSB005	sì ah no sì ah è vero l'hai detto sì ma: me l'ero già dimenticato
@@ -837,9 +837,9 @@ PSB005	questa è bella anche molto
 PSB029	>giardini margherita<
 PSB005	[ah pensa],
 PSB054	[mh]
-PSB029	{ride}
+PSB029	((ride))
 PSB005	non l'avrei mai riconosciuto
-PSB054	{ride}
+PSB054	((ride))
 PSB054	sì bellissime
 PSB005	°infatti°
 PSB005	vabbè adesso le guarderò
@@ -853,7 +853,7 @@ PSB029	[>cioè<] (una cosa) lo faccio per cambiare:
 PSB029	cambiare le pensieri
 PSB005	mhmh
 PSB005	mhmhmh
-PSB005	ma: {P} hai fatto un corso di fotografia o:?
+PSB005	ma: (.) hai fatto un corso di fotografia o:?
 PSB005	hai imparato da solo?
 PSB029	sì
 PSB005	[xx]
@@ -865,7 +865,7 @@ PSB029	essere come (una) fotografo profes[sionale]
 PSB005	[mhmh]
 PSB005	mhmh
 PSB029	allora perciò che ho staccato un po'
-PSB005	quindi non ti piacerebbe farlo di pr~ {P} [di lavoro]?
+PSB005	quindi non ti piacerebbe farlo di pr~ (.) [di lavoro]?
 PSB029	[mh NO], no
 PSB029	°no°
 PSB005	okay
@@ -887,13 +887,13 @@ PSB029	di lavoro però e::h un certo punto quando sarai stanco
 PSB029	io non ho niente da fare c(io)è non ho niente da cambiare il pensieri
 PSB005	mhmh
 PSB005	ho capito sì
-PSB005	è è chiaro questo discorso s~ {P} sì sì sì
+PSB005	è è chiaro questo discorso s~ (.) sì sì sì
 PSB005	è chiaro, è chiaro
 PSB005	è un discorso interess~ c(io)è è un ragionamento interessante
 PSB005	perché invece io faccio di di la[voro ma ma]
 PSB029	[quello che ti pi]ace, tu fai
 PSB005	mhmh
-PSB029	c(io)è {P} tu puoi migliorare
+PSB029	c(io)è (.) tu puoi migliorare
 PSB029	tu puoi andare in livello alto
 PSB005	mhmh
 PSB029	ma una cosa che devi lasciarti
@@ -911,7 +911,7 @@ PSB029	ci sono un po' di gente che piace giocare con bambini
 PSB005	mh[mh]
 PSB029	[si]gnifica che e::h lavorare il nido
 PSB029	e[sempio]
-PSB005	[mh] {P} mhmh
+PSB005	[mh] (.) mhmh
 PSB029	se se guarda che stanca io vado a: con miei amici che hanno una cosa che tu
 PSB029	che ami vai a passare un giorno con bambini
 PSB029	così che ti aiuta
@@ -933,7 +933,7 @@ PSB029	di: ho andato a san luca
 PSB029	da:: da casalec[chio da pie]di che [non ho fa]tto la scala ho fatto [la montagna proprio] da
 PSB005	[mhmh]
 PSB005	[mh]
-PSB005	[il sentiero] {P} sì sì
+PSB005	[il sentiero] (.) sì sì
 PSB029	da un'altra parte come là e ti (togli) una cosa bella
 PSB005	[molto sì]
 PSB029	[una cosa bella]
@@ -942,21 +942,21 @@ PSB005	infatti
 PSB005	va bene dai
 PSB005	aiuto
 PSB005	ah ma io stavo guardando il tuo orologio ma è avanti
-PSB029	eh sì {ride}
+PSB029	eh sì ((ride))
 PSB005	per fort~ mh, okay
 PSB005	okay okay no ma allora c'è ancora un po' di tempo
-PSB005	{registrazione_interrotta}
-PSB029	le città {P} a migliorare
+PSB005	((registrazione_interrotta))
+PSB029	le città (.) a migliorare
 PSB029	secondo me
 PSB029	devono: gestire un po'
-PSB029	per {P} parte che da aiutare di: e::hm {P} attività piccole
+PSB029	per (.) parte che da aiutare di: e::hm (.) attività piccole
 PSB005	ah le im~ le [piccole imprese]?
 PSB029	[sì piccole] im[prese, (in) poche par]ole
 PSB005	[sì sì sì sì sì]
 PSB005	[sì sì]
 PSB029	[più] e::h appartamenti
 PSB029	devono dedicare un po' di appartamenti per gli studenti
-PSB029	e un po' che devono fare per {P} i famiglia
+PSB029	e un po' che devono fare per (.) i famiglia
 PSB005	sì sì [sì sì]
 PSB029	[e ques]ta qua
 PSB029	si dice guarda che non paga ma se
@@ -976,12 +976,12 @@ PSB005	mhmh
 PSB029	quale motivo (che) non è riuscito a pagare?
 PSB029	e si vede che non ha xxxx
 PSB029	>diciamo< una motivo <vera>
-PSB029	allora vabbè aiuta il comu[ne {P} altrime]nti guarda che
+PSB029	allora vabbè aiuta il comu[ne (.) altrime]nti guarda che
 PSB005	[certo sì]
 PSB029	tra comune e il persone che devono capire
 PSB005	mhmh
-PSB005	cioè bisognerebbe avere degli alloggi gestiti da: {P} [pubblici? sì]
-PSB029	[sì {P} sì]
+PSB005	cioè bisognerebbe avere degli alloggi gestiti da: (.) [pubblici? sì]
+PSB029	[sì (.) sì]
 PSB029	°sì°
 PSB005	[°beh sì°]
 PSB029	[un po' di] cose dev'essere:
@@ -1003,10 +1003,10 @@ PSB005	mhmh
 PSB005	eh sì sarebbe giusto
 PSB005	sì sì ma invece per le attività piccole che cosa potrebbe fare il com[une]?
 PSB029	[no] devono vedere com'è il movimento
-PSB029	a volte {P} che se parliamo come inghilterra
+PSB029	a volte (.) che se parliamo come inghilterra
 PSB005	mhmh
 PSB029	quando tu vai a incassare meno della mi~ e:h centomila e:- centomila: lordi che
-PSB029	che loro non pagano neanche un [centesimo] di: {P} [tasse]
+PSB029	che loro non pagano neanche un [centesimo] di: (.) [tasse]
 PSB005	[mh]
 PSB005	[mhmh]
 PSB005	cioè quindi ci son troppe tass[e]?
@@ -1054,18 +1054,18 @@ PSB029	problemi
 PSB005	mhmh
 PSB029	allora se fanno un certo livello che no
 PSB029	non facciamo pagare
-PSB029	tasso noi cosa facciamo {P} as~
+PSB029	tasso noi cosa facciamo (.) as~
 PSB029	(ab)bassiamo un po' prezzi per trovar clienti
 PSB005	mhmh
 PSB029	noi lavoriamo
 PSB029	il soldi quelle che
 PSB029	lo guadagno io non è che: vado a spendere da altra parte
 PSB005	mhmh
-PSB005	no certo {P} [sì sì]
+PSB005	no certo (.) [sì sì]
 PSB029	as[solutamente] noi spendiamo qui se xx soldi se non ho soldi cosa faccio?
 PSB005	no no certamente, sì infatti
 PSB005	vabbè adesso che ho visto questo negozio verrò
-PSB005	verrò io [vengo anch'io verrò anch'io qui sì sì] {ride}
+PSB005	verrò io [vengo anch'io verrò anch'io qui sì sì] ((ride))
 PSB029	[assolutamente no no intendevo c(io)è proprio]:::
 PSB029	proprio come altri paesi
 PSB005	mhmh
@@ -1079,24 +1079,24 @@ PSB029	[percentuale xxxxx] non è che dice guarda che se tu guadagni
 PSB029	centomila euro tu stai pagando venti[duemila e]uro no c(io)è diciottomila euro no
 PSB005	[mhmh]
 PSB005	mhmh
-PSB029	deve essere quelle che {P} quelle che guadagnava: ogni ogni anno
+PSB029	deve essere quelle che (.) quelle che guadagnava: ogni ogni anno
 PSB029	tipo ventimila euro
 PSB029	c(io)è se lui paga ventidue percento il tasso
-PSB029	quelle che guadagna trecentomila euro che paga ventidue {P} due percento tasso qual è la differenza?
-PSB005	eh lo so capisco {ride}
+PSB029	quelle che guadagna trecentomila euro che paga ventidue (.) due percento tasso qual è la differenza?
+PSB005	eh lo so capisco ((ride))
 PSB029	niente
 PSB005	mhmh
 PSB029	che lui può comprare una ferrari ma io non [posso comprare ferrari ma >lo] pago lo stesso<
 PSB005	[esatto certo]
-PSB029	percentuale della [tasso s]e parliamo che lui pagato tremila euro di ta~ {P} tasso ma io anche
+PSB029	percentuale della [tasso s]e parliamo che lui pagato tremila euro di ta~ (.) tasso ma io anche
 PSB005	[sì sì]
 PSB029	perché se mi dai te~ c(io)è da guadagnare trecentomila euro
 PSB029	allora io lo pago lo stesso tasso che ha pagato lui significa che noi siamo uguali e come mai che lui
 PSB029	[riesce] riesce una ferrari [ma io no]?
 PSB005	[certo]
 PSB005	[eh no] no
-PSB029	{ride}
-PSB005	mi rendo conto eh bisognerebbe fare una protesta non so {ride} [contro il governo]
+PSB029	((ride))
+PSB005	mi rendo conto eh bisognerebbe fare una protesta non so ((ride)) [contro il governo]
 PSB029	[NO E:H NO questi qua] devono aiutare proprio (il) stato °c(io)è°
 PSB029	°proprio°
 PSB005	mhmh

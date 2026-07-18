@@ -614,7 +614,6 @@ PSB066	sì
 PSB065	è vicino sasso marconi e casalecchio che tante cose qua
 PSB005	e vi piace di più ferrara bologna
 PSB066	per me bologna
-PSB065	ride
 PSB065	anch'io
 PSB066	sì
 PSB066	eh perché bologna c'è sole ma non so perché io sì
@@ -872,7 +871,7 @@ PSB065	io
 PSB066	io
 PSB066	xx dai
 PSB065	no no vai dai xx
-PSB066	sospira è di casablanca conosce casablanca
+PSB066	è di casablanca conosce casablanca
 PSB005	okay
 PSB005	eh non ci sono stata però di nome sì
 PSB066	casablanca sì sì
@@ -902,7 +901,7 @@ PSB066	sì
 PSB065	come si chiama
 PSB066	āsh-ən-hīya in arabo
 PSB065	ehm
-PSB065	bāsh . mātālān
+PSB065	bāsh (.) mātālān
 PSB065	emilia romagna ehm tutte un
 PSB005	le regione la regione
 PSB066	le regione sì
@@ -1961,7 +1960,7 @@ PSB066	mia figlia de- c- una marocchina marocchina quando parla l'arabo una maro
 PSB065	non è xx
 PSB066	ʕrafti ka-dgūl shi ḥwāyəj ma-tgūli-sh wāsh
 PSB065	sì sì
-PSB065	eh k- bḥāl l-bnāt xti . mmh
+PSB065	eh k- bḥāl l-bnāt xti (.) mmh
 PSB066	ma-tgūlī-š wāš mā smiyyt-ha hā-hīya dāyra l-l-āngle spagna
 PSB065	xx parlano
 PSB066	spagnolo inglese
@@ -1987,9 +1986,9 @@ PSB066	dimenticata
 PSB005	molto carine
 PSB066	non molto x sì
 PSB065	āh hīya mā shāʔa ḷḷāh mā shāʔa ḷḷāh
-PSB066	dərriyyāt-i . bnāt-i . hīya ka-təshbəh l-ək āh ride
+PSB066	dərriyyāt-i (.) bnāt-i (.) hīya ka-təshbəh l-ək āh ride
 PSB065	āna ṛā-ni tlaqīt mʕa-hum hnāya xx ma-ka-yjīw-sh aa a posto ḥīt ʕammaṛ-ni ma-shəft-hum
-PSB066	la la . ma-ta-yjīw-sh f- ma-ka-ykūnū-sh f-mulinella ride no la ma-ta-yxurjū-sh
+PSB066	la la (.) ma-ta-yjīw-sh f- ma-ka-ykūnū-sh f-mulinella ((ride)) no la ma-ta-yxurjū-sh
 PSB065	ah
 PSB066	ma xəddāmāt xəddāmīn āh
 PSB066	lavorano sì

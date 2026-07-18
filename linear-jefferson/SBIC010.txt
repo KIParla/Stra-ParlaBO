@@ -13,11 +13,11 @@ PSB077	no tran[quilla (dai)]
 PSB005	[per prendere un']idea così
 PSB077	[tranquilla tran]quilla tanto
 PSB005	e:hm:
-PSB005	{porzione_rimossa_per_motivi_di_privacy}
+PSB005	((porzione_rimossa_per_motivi_di_privacy))
 PSB005	okay
-PSB005	okay quindi tu sei qui da quando {P} sei nata qui [o:]
+PSB005	okay quindi tu sei qui da quando (.) sei nata qui [o:]
 PSB077	[mhmh] a bologna sì
-PSB005	okay {P} okay
+PSB005	okay (.) okay
 PSB005	quindi vivi qui d~ da tutta la vita
 PSB077	mh[: si sono::]
 PSB005	[non hai cambiato mai citt]à?
@@ -73,9 +73,9 @@ PSB005	eh in quale zona di quale zona della cina siete?
 PSB077	e::h[: siamo::]
 PSB005	[guarda io ho fatto una] cosa
 PSB005	c(io)è ho stampato
-PSB077	stampato la:: [la cartina] {ride}
+PSB077	stampato la:: [la cartina] ((ride))
 PSB005	[finalmente s]i ci ho pensato meglio tardi che mai
-PSB005	ma ho finalmente {P} vediamo se l'ho presa forse non l'ho presa {ride}
+PSB005	ma ho finalmente (.) vediamo se l'ho presa forse non l'ho presa ((ride))
 PSB005	di~ dimmi in tanto qual è la zona:[:]
 PSB077	[e::h]:: sud est più o meno
 PSB005	okay
@@ -85,13 +85,13 @@ PSB077	ah più o meno
 PSB005	non l'ho presa
 PSB077	vuo[i:]
 PSB005	[non] posso crederci
-PSB005	{ride}
+PSB005	((ride))
 PSB077	cerco su lo lo cerco su internet?
 PSB077	oppu[re]
 PSB005	[ah] sì sì sì
 PSB077	okay
 PSB005	eccola
-PSB005	quindi {P} così imparo un po' di geografia
+PSB005	quindi (.) così imparo un po' di geografia
 PSB077	m:h
 PSB077	allora siamo qua più o [meno]
 PSB005	[oka]y okay
@@ -129,10 +129,10 @@ PSB005	[okay]
 PSB077	fuori
 PSB005	sì [sì sì]
 PSB077	[c'è::] un fiume
-PSB077	che non mi ricordo come si chia[ma] {ride}
-PSB005	[no] non ti preoccupare {ride}
-PSB005	tanto me lo dimenticherei subito {ride}
-PSB077	{ride} ah okay va bene
+PSB077	che non mi ricordo come si chia[ma] ((ride))
+PSB005	[no] non ti preoccupare ((ride))
+PSB005	tanto me lo dimenticherei subito ((ride))
+PSB077	((ride)) ah okay va bene
 PSB077	c'è un fiume::: montagna quindi è più:::
 PSB077	montuoso secondo me
 PSB005	okay okay
@@ -147,13 +147,13 @@ PSB005	e il mare è è un oceano c(io)è è un oceano no?
 PSB077	m:h sì
 PSB005	o è come il mare qui c(io)è si può fare il bagno c'è la spiaggia
 PSB077	m:::h beh i(l) cinese non non piace:
-PSB005	okay {P} fare: il ba[gno]
+PSB005	okay (.) fare: il ba[gno]
 PSB077	[fare] il bagno c(io)è a loro a~ loro se vanno a un:::
 PSB077	in spiaggia:: si mett~ si coprono tutto
 PSB077	sotto sole
 PSB077	prenondono l'ombrello e::::::: passeggiano non fa~ non [nuotano ne]anche loro
 PSB005	[°okay°]
-PSB005	però le persone vanno in spiaggia [{P} anche] se non fanno [il bagno]
+PSB005	però le persone vanno in spiaggia [(.) anche] se non fanno [il bagno]
 PSB077	[sì sì]
 PSB077	[(no sì)] non fanno il bagno ma
 PSB077	ca~ camminano pa[sseggiano] così guardano e:::h il mare::
@@ -163,7 +163,7 @@ PSB005	beh
 PSB005	è comunque un'attività diciamo piacevole [sì sì sì ef]fettivamente
 PSB077	[m:::h sì sì]
 PSB005	ehm::: okay
-PSB005	e il vostro {P} c(io)è voi parlate in dialetto?
+PSB005	e il vostro (.) c(io)è voi parlate in dialetto?
 PSB077	sì
 PSB005	della: del [cinese]
 PSB077	[con]::: sì <maggiormente> in dialetto
@@ -200,7 +200,7 @@ PSB077	mhmh mhmh
 PSB077	sono un sacco di lingue ma così in generale non:::
 PSB005	certo sì
 PSB005	beh eh
-PSB005	comunque ne sai {ride} c(io)è
+PSB005	comunque ne sai ((ride)) c(io)è
 PSB077	va bene sì sì:
 PSB005	eh ma: invece bologna ti piace?
 PSB077	s::::ì
@@ -214,7 +214,7 @@ PSB077	pe(r) dì sul giornale che ci sono tant[e::]
 PSB005	[mhmh]
 PSB077	cose nel senso su c(io)è tan~ son successe tante cose e allora::
 PSB077	poi già in zona noi abitan~ m::h
-PSB077	in {P} bologni[na no]?
+PSB077	in (.) bologni[na no]?
 PSB005	[mh]
 PSB077	la ogni tanto vedo
 PSB077	qual~ forse quasi tutti i giorni le persone che sono là::
@@ -228,11 +228,11 @@ PSB005	sì sì
 PSB005	comunque
 PSB005	tu riesci a::: andare in giro da sola lo ste[sso::]
 PSB077	[si quello] sì
-PSB077	forse di notte {P} meno {ride}
+PSB077	forse di notte (.) meno ((ride))
 PSB005	mhmh
-PSB005	certo sì e quando eri più giovane non hai::: {P} vabbè che sei molto giovane
-PSB077	{ride}
-PSB005	però questa cosa l'hai vista {P} come cambiament[o]
+PSB005	certo sì e quando eri più giovane non hai::: (.) vabbè che sei molto giovane
+PSB077	((ride))
+PSB005	però questa cosa l'hai vista (.) come cambiament[o]
 PSB077	[s]ì::
 PSB077	è cambiato tanto secondo me
 PSB005	°okay°
@@ -241,7 +241,7 @@ PSB005	[vabbè qui]
 PSB077	[e::h]:: si qui::: poi::: no altre zone:::
 PSB077	non tanto
 PSB077	non sono la persona che piace::: girare per le città quindi
-PSB005	perché pensavo se magari quando sei un po' più {P} grande più:[::] [pi]ù adulta
+PSB005	perché pensavo se magari quando sei un po' più (.) grande più:[::] [pi]ù adulta
 PSB077	[mhmh]
 PSB005	ti piacerebbe cercare casa da un'altra parte in un'altra zona:
 PSB077	mh forse sì
@@ -258,7 +258,7 @@ PSB005	[(mh)]
 PSB077	[forse] andare là::::: a vivere
 PSB005	[mhmh]
 PSB077	mhmh (così)
-PSB005	è più {P} è più fuori si in cam[pagna]
+PSB005	è più (.) è più fuori si in cam[pagna]
 PSB077	[m::h]:::
 PSB005	quindi a te piacciono più le zone tranquille mi [sembra di] capire sì
 PSB077	[sì]
@@ -268,14 +268,14 @@ PSB077	[qua:::] no qua no IO sentito perché ci sono dei clienti che: abitano qu
 PSB005	mhmh
 PSB077	ogni tanto
 PSB077	parliamo e:::h
-PSB077	dicono che qua::: anche {P} di notte (mez~)
+PSB077	dicono che qua::: anche (.) di notte (mez~)
 PSB077	mezzanotte l'una due
 PSB077	senti le urla:::
 PSB077	per[sone che]:::
 PSB005	[sì sì sì]
 PSB077	un casino: quindi è meglio non stare qua in centro
-PSB005	°mhmh° sì questa è una zona famosa per {ride}
-PSB005	per il rumore [diciamo {ride} sì]
+PSB005	°mhmh° sì questa è una zona famosa per ((ride))
+PSB005	per il rumore [diciamo ((ride)) sì]
 PSB077	[(il caos) [sì]
 PSB077	sì
 PSB005	sì sì certo
@@ -291,14 +291,14 @@ PSB077	[i:o]
 PSB005	a:::h okay mia sorella andava al
 PSB005	però secondo me
 PSB005	secondo me io sono più grande di te ma mia sorella è più piccola credo perché
-PSB005	tu hai già finito {P} il liceo
+PSB005	tu hai già finito (.) il liceo
 PSB005	da [tanto no]?
 PSB077	[s:::::ì]
 PSB077	da:::
 PSB077	quanti me~ (da temp~)
 PSB077	quattro cinque [anni]
 PSB005	[°sì°] okay sì
-PSB005	sì no la mia sorellina invece {P} ha finito adesso [proprio]
+PSB005	sì no la mia sorellina invece (.) ha finito adesso [proprio]
 PSB077	[m::h]::::[:::]
 PSB005	[eh] hai fatto lo scientifico quindi?
 PSB077	sì scentifico scienze applicate
@@ -313,17 +313,17 @@ PSB005	[mhmh]
 PSB077	ti pr~ ti seguivano::
 PSB077	invece adesso secondo me io ho sentito che::: m:::h è cambiato tantissimo
 PSB005	[mh]
-PSB077	[sono (de]gli) {P} insegnanti sono:::
+PSB077	[sono (de]gli) (.) insegnanti sono:::
 PSB077	ah eh non ti seguono più::[:] se se studi studi se non studi::::
 PSB005	[m]h mh
-PSB005	pa[zienza {P} sì]
-PSB077	[fai {P} eh] sì è così
+PSB005	pa[zienza (.) sì]
+PSB077	[fai (.) eh] sì è così
 PSB077	quindi:::
 PSB005	invece tu
 PSB005	hai studiato tanto ma ti sei anche se~ sentita diciamo seguita dagli insegna[nti]
 PSB077	[m]:::::h sì
 PSB077	per::: maggior parte sì
-PSB077	poi c'erano anche uno due insegnanti che::: {ride}
+PSB077	poi c'erano anche uno due insegnanti che::: ((ride))
 PSB005	°certo sì°
 PSB005	come sempre
 PSB005	eh qua~ ti piacevano le materie scientifiche?
@@ -337,7 +337,7 @@ PSB005	[mhmh]
 PSB077	con::::
 PSB077	con::: il coso come si chiama con gli argomenti più difficili forse::: non riuscivo a sc~ a seguire meglio quindi:::
 PSB005	certo
-PSB005	e tu {P} hai avuto anche un periodo il covid durante il liceo [vero]?
+PSB005	e tu (.) hai avuto anche un periodo il covid durante il liceo [vero]?
 PSB077	[s:::~] eh si e il primo anno
 PSB077	noi abbiamo fatto l:::::
 PSB077	coso l'esame
@@ -346,7 +346,7 @@ PSB077	primo anno del covid [abbiamo] fatto
 PSB005	[mhmh]
 PSB005	o[kay]
 PSB077	[dur]ante:::::
-PSB005	e come è stata questa esperienza {ride}
+PSB005	e come è stata questa esperienza ((ride))
 PSB077	noi >non ave-< non avevano non avevamo fatto lo scritto quindi solo orale e:::::::::h quello secondo me ci ha un po':::::::
 PSB077	°e:::::::h non so come dire°
 PSB077	svantaggiati [forse]
@@ -366,7 +366,7 @@ PSB005	perché c'erano meno [prove]
 PSB077	[m:h]::
 PSB005	[quindi è sta]to meno pesan[te]
 PSB077	[(solito)]
-PSB077	[s]ì {P} anche per quello sì ma per me:::: è andata::
+PSB077	[s]ì (.) anche per quello sì ma per me:::: è andata::
 PSB077	così così
 PSB005	mh
 PSB005	ma avete fatto proprio tutto l'anno di scuola a casa
@@ -399,11 +399,11 @@ PSB005	lavori qui al bar e: com'è
 PSB005	la gente che viene: sono simpatic[i:]
 PSB077	[e::h] sì simpatici poi ogni: ogni tanto incontri delle persone un po' strane così::: e:::h
 PSB005	questa [zona]
-PSB077	[e:h ci st]a e così {ride}
+PSB077	[e:h ci st]a e così ((ride))
 PSB005	sì sì questa zona è un po'
-PSB005	{ride} è movimentata {ride} sì sì [certo]
+PSB005	((ride)) è movimentata ((ride)) sì sì [certo]
 PSB077	[molto]
-PSB077	{ride}
+PSB077	((ride))
 PSB005	certo certo
 PSB005	e:::h c'è qualcosa che ti piace fare nel tuo tempo libero
 PSB005	c(io)è hai un po' di tempo libero o [ma]gari da più piccola in[somma]
@@ -419,7 +419,7 @@ PSB077	e:::h adesso il tempo libero:::
 PSB077	non faccio quasi niente
 PSB077	guardo cellulare:: oppure video queste cose [qua:] e basta
 PSB005	[mhmh]
-PSB005	eh c(io)è {P} di solito li guardi in italiano in cinese tutti e due:
+PSB005	eh c(io)è (.) di solito li guardi in italiano in cinese tutti e due:
 PSB077	allora mal~
 PSB077	mh ci sono ad esempio le serie tivù,
 PSB077	in coreano
@@ -439,19 +439,19 @@ PSB005	[ah]
 PSB005	ma il coreano assomiglia la cinese?
 PSB077	no n[o] de~ de~ diverso diverso
 PSB005	[no]
-PSB005	eh tu sei riuscita a imparare {P} c(io)è sei un genio praticamen[te]
-PSB077	[no] {ride}
+PSB005	eh tu sei riuscita a imparare (.) c(io)è sei un genio praticamen[te]
+PSB077	[no] ((ride))
 PSB005	beh insom[ma]
 PSB077	[no e:h cioè]:: se lo guardi quasi tutti i giorni poi parlano sempre ogni
 PSB077	le stesse cose::: riesci a capire
 PSB005	°beh insomma°
-PSB005	io io son molto stupita {ride}
+PSB005	io io son molto stupita ((ride))
 PSB077	a:h [sì]?
-PSB005	[sì] sì {P} sì sì sì
+PSB005	[sì] sì (.) sì sì sì
 PSB005	eh di che serie tivù sono di solito? c(io)è qual è il tema tipo
 PSB077	tema::: e:::h sono tanti tanti temi quelli anche horror oppure:::
-PSB077	horror {ride} non ti piacciono?
-PSB005	non è tanto il mio no {ride}
+PSB077	horror ((ride)) non ti piacciono?
+PSB005	non è tanto il mio no ((ride))
 PSB005	[dimmi] dimmi dimmi scus[a]
 PSB077	[poi]
 PSB077	[poi] c'è anche:::: sì storie d'amore::::
@@ -466,7 +466,7 @@ PSB005	e le tue preferite::
 PSB005	quali sono
 PSB077	quelle:: storie d'amore
 PSB005	okay ecco su questo siamo più:::
-PSB077	{ride}
+PSB077	((ride))
 PSB005	siamo più [simili] sì
 PSB077	[simili]
 PSB005	sì sì sì e quindi c'è una un mercato diciamo di st~
@@ -491,9 +491,9 @@ PSB077	forse su netflix riesci a trovarne::
 PSB005	okay
 PSB005	adesso farò un po' di:
 PSB005	farò un po' di ricerche
-PSB005	e:h suonavi il pianoforte {P} ti piaceva: m:h
+PSB005	e:h suonavi il pianoforte (.) ti piaceva: m:h
 PSB077	<all'inizio sì>
-PSB077	poi {ride} dopo quando ho smesso: non:
+PSB077	poi ((ride)) dopo quando ho smesso: non:
 PSB077	ho smesso perché non non mi piaceva andava più
 PSB005	sì [sì:]
 PSB077	[an~] anche perché la mamma ogni volta ti: ti::
@@ -566,7 +566,7 @@ PSB077	[m:h]
 PSB005	sì sì
 PSB077	a e a me piacciono i cartoni anim~
 PSB077	no i cartoni animati poco ehm:
-PSB077	come si chiamano {P} manga
+PSB077	come si chiamano (.) manga
 PSB005	sì
 PSB005	che sono giapponesi
 PSB077	si il~ sono giapponesi
@@ -600,7 +600,7 @@ PSB005	sì [sì]
 PSB077	[questi] due più o meno
 PSB005	eh ma passavano in tivù quando io ero più pic[cola] [sopra]ttutto il detective [sì]
 PSB077	[sì eh infatti]
-PSB077	[ho] inziato {P} a guardarli in tivù
+PSB077	[ho] inziato (.) a guardarli in tivù
 PSB005	mhmh
 PSB077	poi:::::
 PSB077	dopo un po' non:::: li facevano [più]
@@ -629,7 +629,7 @@ PSB005	facevano anche tipo i giochi per i bambini c[osì]
 PSB077	[mhmh] sì sì sì anche le figurine: que[ste cose] qua
 PSB005	[sì]
 PSB005	sì esatto
-PSB077	{ride}
+PSB077	((ride))
 PSB005	però me me lo sono un po' perso invece l'altro l'ho l'ho visto un po' di più
 PSB077	ah ah
 PSB005	guardavo i pokemon diciamo io so[no il momento poke]mon
@@ -737,7 +737,7 @@ PSB005	l'hai provato tu?
 PSB077	s.ì
 PSB077	ci sono stata una due volte io: non riuscivo a mangiare
 PSB005	okay io in quello non ci sono stata sono stata
-PSB005	ad a~ {P} amole
+PSB005	ad a~ (.) amole
 PSB005	che è in via indi[pendenza abba]stanza fa[moso]
 PSB077	[a::h sì]
 PSB077	[okay] sì
@@ -745,8 +745,8 @@ PSB005	sì un po':
 PSB005	[per me è u~]
 PSB077	[anche da lo~ anche da] loro qu[esto]
 PSB005	[un po'] impegantivo sì
-PSB005	sì sì {ride}
-PSB077	{ride}
+PSB005	sì sì ((ride))
+PSB077	((ride))
 PSB005	c(io)è va bene per una vol[ta però] dopo non posso più tornarci [per un po']
 PSB077	[ah ah]
 PSB077	[sì:] infatti: io forse lo mangio col riso bianco che: così almeno ti:::[:]
@@ -765,7 +765,7 @@ PSB077	eh una volta se::::
 PSB077	(c)i passi [di lì]:
 PSB005	[sì]
 PSB005	magari dopo
-PSB005	ci vado {ride} [infatti]
+PSB005	ci vado ((ride)) [infatti]
 PSB077	[a:h e:h] loro loro sai che
 PSB077	forse n~
 PSB077	e::h sono sempre::: molto pieni loro
@@ -782,19 +782,19 @@ PSB077	a:::h [sì]
 PSB005	[la zona]:
 PSB077	credo di sì
 PSB005	normalmente voi ad agosto siete chiusi
-PSB077	n~ no normalmente noi {ride} c'è la mamma che lei eh vuole venire tutti quasi tutti i giorni
+PSB077	n~ no normalmente noi ((ride)) c'è la mamma che lei eh vuole venire tutti quasi tutti i giorni
 PSB077	ad agosto forse::::
 PSB077	chiudiamo due tre giorni co[sì::]
 PSB005	[ok]ay
 PSB005	okay
 PSB077	ferragosto: questi giorni qua
 PSB005	quindi lavorate un sacco
-PSB077	è la mamma {ride} che lavora un sa[cco] lei è molto:
+PSB077	è la mamma ((ride)) che lavora un sa[cco] lei è molto:
 PSB005	[°mhmh°]
 PSB005	tu vu~ fai qualche vacanza un po' fai qualche giorno [di vacanza]
 PSB077	[m::h]:::
 PSB077	forse:
-PSB077	e:h andremo: io con la mamma {P} vicino ad ancona
+PSB077	e:h andremo: io con la mamma (.) vicino ad ancona
 PSB005	okay
 PSB077	perché c'è la sua amica
 PSB077	che ha appena:
@@ -810,7 +810,7 @@ PSB077	loro sono::::
 PSB005	forse potete fare qualche passeggiata
 PSB077	mh[mh]
 PSB005	[anche] al mare
-PSB077	{ride} sì {ride}
+PSB077	((ride)) sì ((ride))
 PSB077	passeggiata non
 PSB005	per avere un po' meno cal[do]
 PSB077	[mh]::
@@ -820,8 +820,8 @@ PSB005	ti piace hai fatto hai visto qualche:::::
 PSB077	centro di bolo[gna:]
 PSB005	[punto sto]rico: se sei stata sulle due torri sei andata a san luca
 PSB077	ah san luca sì
-PSB077	ogni volta che ci vado io dico ah non ci andrò più ma alla fine {ride}
-PSB077	{ride} dopo quache mese ci s~ ci ritorno sempre
+PSB077	ogni volta che ci vado io dico ah non ci andrò più ma alla fine ((ride))
+PSB077	((ride)) dopo quache mese ci s~ ci ritorno sempre
 PSB005	ma ci vai per fare un po' di: una passeggiata così o ci son delle [occasioni]
 PSB077	[ogni tan~] o:gni tanto mi chiedono di andarci insieme così in compagnia
 PSB005	mhmh
@@ -833,16 +833,16 @@ PSB077	amica di mia ma che anche io la c~ la chiamo
 PSB077	più o meno z[ia] così molto:::
 PSB005	[mhmh]
 PSB077	e lei ogni tanto mi
-PSB077	{ride} mi chiede di an[darci] così
+PSB077	((ride)) mi chiede di an[darci] così
 PSB005	[°okay°]
 PSB005	ed è:
 PSB077	le~ lei è molto:
 PSB077	molto: sport[iva]
 PSB005	[ok]ay
-PSB077	io::: {ride} io non riesco a seguirla {ride}
+PSB077	io::: ((ride)) io non riesco a seguirla ((ride))
 PSB005	e quindi magari andate lei corre tantissimo [e]
-PSB077	[mh]: io sono dietro a camminare {ride}
-PSB005	{ride}
+PSB077	[mh]: io sono dietro a camminare ((ride))
+PSB005	((ride))
 PSB005	certo sì sì sì ho capito
 PSB005	e::h ah io non ci vado veramente da tanto tempo però ci son stata e:h diverse volte [insom]ma
 PSB077	[m:h]
@@ -916,10 +916,10 @@ PSB005	tipo [della tu]a famiglia (eccete[ra)]
 PSB077	[sì]
 PSB077	[sì] c'è un [giorno specia]le così
 PSB005	[ah okay]
-PSB005	sì noi {P} c(io)è i::n italia c'è:::: è il due novembre
+PSB005	sì noi (.) c(io)è i::n italia c'è:::: è il due novembre
 PSB077	m:h
-PSB005	(c(io)è da) {P} anche per noi in teoria è così
-PSB005	poi io {P} non non lo rispetto mai non ci vado [mai]
+PSB005	(c(io)è da) (.) anche per noi in teoria è così
+PSB005	poi io (.) non non lo rispetto mai non ci vado [mai]
 PSB077	[eh] secondo me m::h non sono tante persone che: ci vanno:::
 PSB077	forse
 PSB005	n:::::::::::::::~
@@ -927,7 +927,7 @@ PSB077	no[n è un]::::: festa [mol]to:
 PSB005	[(effe)]
 PSB005	[(eff)]
 PSB005	no effettivamente:::::::
-PSB005	allora {P} sai che non lo so perché secondo me le persone non ne parlano
+PSB005	allora (.) sai che non lo so perché secondo me le persone non ne parlano
 PSB077	m:::::::h mhmh
 PSB077	può essere
 PSB077	°sì anche°
@@ -943,7 +943,7 @@ PSB005	perché ad esempio io i miei nonni
 PSB005	non non li abbiamo seppelliti li abbiamo cremati
 PSB077	a:::h[::::]
 PSB005	[quindi non] c'è un:
-PSB077	sì un un {P} un posto dove: °[andare] a trovare°
+PSB077	sì un un (.) un posto dove: °[andare] a trovare°
 PSB005	[no]
 PSB005	esatto e quindi io non ho proprio mai preso questa [abitudine]
 PSB077	[a:::::::::h] okay ho capito
@@ -954,7 +954,7 @@ PSB005	sì sì [fors]e sì
 PSB077	[ah]
 PSB005	forse sì
 PSB077	°può essere°
-PSB005	di sicuro {P} tempo fa era più::::::
+PSB005	di sicuro (.) tempo fa era più::::::
 PSB005	più forte
 PSB077	m::::h
 PSB005	c(io)è la mia nonna ad esempio andava sempr[e]
@@ -990,7 +990,7 @@ PSB005	però regali a lui [solo]
 PSB077	[sì] i regali a lui e ogni tanto anche a me così dai
 PSB077	da piccola ma adesso no
 PSB005	certo sì quando uno è bambino
-PSB077	{ride}
+PSB077	((ride))
 PSB005	effettivamente
 PSB005	ma
 PSB005	quando tu eri piccolina e andavi a scuola e tutti
@@ -1005,7 +1005,7 @@ PSB005	mhmh
 PSB077	secondo me quindi::[:]
 PSB005	[s]ì sì
 PSB005	sì beh se hai detto che effettivamente ti facevano un regalino anche a te °sì:°
-PSB005	eh sono curiosa di chiederti se ti ricordi qualcosa della scuola in cina quando sei andata {P} questo anno [che avevi dieci] an[ni]
+PSB005	eh sono curiosa di chiederti se ti ricordi qualcosa della scuola in cina quando sei andata (.) questo anno [che avevi dieci] an[ni]
 PSB077	[a:::::h]
 PSB077	[a::::h] a::::h okay
 PSB077	allora in [cina]
@@ -1048,13 +1048,13 @@ PSB005	wow
 PSB005	bellissima [dovremmo adotta]rla an[che noi]
 PSB077	[io IO:]
 PSB077	[(ui)~] io il primo giorno o::h eh quando e::h vedeva i:: gli altri bambini che facevano io
-PSB077	era là così a guardarli {ride}
+PSB077	era là così a guardarli ((ride))
 PSB077	>solo perché< non sapevo::: come cosa fare n:::eanche cosa stavano facendo
 PSB005	certo
 PSB005	beh però è una buona abitudine forse
 PSB005	[forse forse (qualcuna)]
 PSB077	[m:::h così perché] ti aiuta anche::: a rilassare gli occhi:: così:
-PSB005	dovrei {P} adesso guardo dei video
+PSB005	dovrei (.) adesso guardo dei video
 PSB077	mhmh
 PSB005	magari lo faccio anch'io adesso mentre sto lavorando mi interrompo
 PSB077	sì sì sì sì
@@ -1085,8 +1085,8 @@ PSB077	ah anche perché sono molto
 PSB077	ascoltano insegnante loro m:::h molto bravi così
 PSB005	questa l'hai notata questa differenza con [l'italia forse]
 PSB077	[m::::::::::]::::h
-PSB005	{ride}
-PSB077	{ride} sì molto
+PSB005	((ride))
+PSB077	((ride)) sì molto
 PSB077	a:h e:h le superiori anc~ anche se se: sono ragazzi di diciassette diciotto anni parlano parlano parlano non riescono neanche ad essere
 PSB077	per un minuto in si[lenzio] quindi
 PSB005	[mh]mh
@@ -1112,7 +1112,7 @@ PSB005	ma eh dopo qui
 PSB005	qualcuno ti ha dato una mano con l'italiano magari facevi
 PSB077	no e:::[:::]::h
 PSB005	[niente]
-PSB077	dopo {P} dopo qualche::::: giorno::
+PSB077	dopo (.) dopo qualche::::: giorno::
 PSB077	pian pianino riuscivo a:::
 PSB005	okay
 PSB005	quindi è stata una cosa proprio solo dell'inizio
@@ -1125,7 +1125,7 @@ PSB005	ah okay
 PSB077	vicino al centro lame che si chiamava
 PSB005	okay okay
 PSB077	c'era una media
-PSB005	ma erano abbastanza lontane da {P} [dalla bolo]gnina
+PSB005	ma erano abbastanza lontane da (.) [dalla bolo]gnina
 PSB077	[sì:::]
 PSB077	sì:::
 PSB005	okay
@@ -1140,7 +1140,7 @@ PSB077	[mhmh]
 PSB077	[sì]
 PSB005	okay
 PSB005	secondo te i trasporti a bologna funzionano abbastanza bene
-PSB077	e:::::::::::h {ride}
+PSB077	e:::::::::::h ((ride))
 PSB077	si:: dai
 PSB005	sì non c'è male
 PSB077	non c'è male tanto:: non è che mi sposto:::: tanto quindi alla fine::
@@ -1162,7 +1162,7 @@ PSB077	[eh pra]to::::::
 PSB077	perché io sono stata ne::::l coso sulla via quella dove ci sono
 PSB077	tutti cinesi no?
 PSB005	okay
-PSB077	la:::::: {ride}
+PSB077	la:::::: ((ride))
 PSB077	come essere in cina là più o meno
 PSB005	bellissimo
 PSB077	non non trovi neanche un italiano
@@ -1178,7 +1178,7 @@ PSB077	r:::::oma da piccola no perché::::: era un po' sporca su[lle stra]de:: a
 PSB005	[mhmh]
 PSB005	sì sì
 PSB005	è vero sì
-PSB077	{ride}
+PSB077	((ride))
 PSB005	quindi non vivresti mai a roma
 PSB077	no [là x là perché] c'erano::::::
 PSB005	[preferisci qua]
@@ -1198,7 +1198,7 @@ PSB077	no::
 PSB005	sei stata a venezia forse anche
 PSB077	sì venezia sì
 PSB005	ti è pia[ciuta]
-PSB077	[due tre] volte {P} sì venezia mol[to]
+PSB077	[due tre] volte (.) sì venezia mol[to]
 PSB005	[molto] bella
 PSB077	molto
 PSB005	infatti
@@ -1259,8 +1259,8 @@ PSB005	poi è
 PSB005	insomma impegnativo
 PSB077	m::h[:::]
 PSB005	[ci vuole] coraggio secondo me
-PSB077	{ride}
-PSB077	{ride}
+PSB077	((ride))
+PSB077	((ride))
 PSB077	eh[: a]nche molto lungo il: [peri]odo il coso [il per]corso
 PSB005	[°sì°]
 PSB005	[°infatti°]
@@ -1277,7 +1277,7 @@ PSB077	quello n:::o
 PSB077	perché in ciNA::::::: s:econdo me:::
 PSB077	è più duro
 PSB005	[mh]
-PSB077	[>perché<] anche io: {P} a~ anche se parlo in cinese però e:::h
+PSB077	[>perché<] anche io: (.) a~ anche se parlo in cinese però e:::h
 PSB077	con la scrittura queste cose qua faccio m:h [anco]ra un po' di fatica
 PSB005	[mhmh]
 PSB005	mhmh
@@ -1298,9 +1298,9 @@ PSB005	ok[ay]
 PSB077	[e:h]::::
 PSB005	sì- c(io)è [si ve]de
 PSB077	([pre])
-PSB077	sì {ride}
-PSB005	sì sì {ride}
-PSB077	{ride}
+PSB077	sì ((ride))
+PSB005	sì sì ((ride))
+PSB077	((ride))
 PSB005	°sì sì°
 PSB077	molto più grande
 PSB077	undici anni di differen[za]
@@ -1311,7 +1311,7 @@ PSB077	[m:h]
 PSB005	ma:
 PSB005	sì e so~ niente so ah ecco questa è un'altra domanda che faccio delle vol[te] perché mi mi incuriosisce questa cosa dell'alfabeto
 PSB077	[mh]
-PSB077	a::::::h {ride}
+PSB077	a::::::h ((ride))
 PSB005	molto
 PSB005	perché per me è inconcepibile [ovviamente io ho] sempre e solo studiato lingue
 PSB077	[m::::h]
@@ -1319,11 +1319,11 @@ PSB005	che si scrivono con i caratte[ri ita]liani [insomma]
 PSB077	[sì]
 PSB077	[ah ah] ah ah
 PSB005	e::::hm
-PSB005	ma {P} tipo tu con la tua famiglia o se hai qualche con i tuoi parenti cinesi vi scrivete {P} dei messaggini
+PSB005	ma (.) tipo tu con la tua famiglia o se hai qualche con i tuoi parenti cinesi vi scrivete (.) dei messaggini
 PSB005	con i caratteri cinesi?
 PSB077	sì [però:]
 PSB005	[m:h]
-PSB077	però scrivi con le lettere {P} sempre con l'alfabeto
+PSB077	però scrivi con le lettere (.) sempre con l'alfabeto
 PSB077	quello:::: quello [che conosci in] italiano
 PSB005	[eh okay]
 PSB005	okay
@@ -1337,7 +1337,7 @@ PSB005	[okay]
 PSB077	[se vuoi] te lo faccio ve[dere]
 PSB005	[sì] sì
 PSB077	°adesso°
-PSB005	beh quindi un po' sai scrivere anche se dici di no però {ride}
+PSB005	beh quindi un po' sai scrivere anche se dici di no però ((ride))
 PSB077	sì allo~ leggere sì molto ma quando::
 PSB077	quando ti chiedono di scrivere e non hai::: davanti il testo ah a:::h
 PSB077	forse per un minuto devi pensarci com[e::]
@@ -1363,7 +1363,7 @@ PSB077	°così°
 PSB005	e non scrivete mai traslitterato in con le lettere alfabetiche di[ciamo]
 PSB077	m:::::h[:::]
 PSB005	[no]
-PSB005	s~ infa[tti] vedo che {ride}
+PSB005	s~ infa[tti] vedo che ((ride))
 PSB077	[tu]
 PSB077	tu tu se lo scrivi tutto: >come si chiama< quello:::
 PSB077	e:::::h non è stampatello come si chiama
@@ -1393,9 +1393,9 @@ PSB077	i [simbol]i
 PSB005	[no? sì]
 PSB077	alla fine::: è molto semplice
 PSB077	con con una grammatica queste cose qua
-PSB005	e::h però {ride}
-PSB077	{ride}
-PSB005	però devi {ride} sì
+PSB005	e::h però ((ride))
+PSB077	((ride))
+PSB005	però devi ((ride)) sì
 PSB077	quello::::
 PSB005	cono[scere tutti i simboli]
 PSB077	[ah ah a::::h all'inizio] sì all'inizio è:::: mo::lto difficile poi qua~ pian pianino dopo::::
@@ -1410,7 +1410,7 @@ PSB077	[all'ini]zio anch'io:: facevo fatica
 PSB005	ah sì?
 PSB077	mhmh
 PSB005	mh okay okay
-PSB005	per me:: è una cosa fuori dal mondo proprio {ride}
+PSB005	per me:: è una cosa fuori dal mondo proprio ((ride))
 PSB005	perché è proprio diversi[ssimo da::: dalle lingue che so]
 PSB077	[m:::::::::::::::::::::::h]
 PSB005	okay

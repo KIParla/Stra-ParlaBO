@@ -1,5 +1,5 @@
 PSB091	<oh dio mio>
-PSB005	ne ho poche perché {P} questa è mia sor[ella]
+PSB005	ne ho poche perché (.) questa è mia sor[ella]
 PSB091	[tu] tu sei
 PSB091	è tua so[rella più] piccola?
 PSB005	[sì]
@@ -29,17 +29,17 @@ PSB005	esatto erano tutti molto sconvolti da questa cosa
 PSB005	questo è mio nonno guarda
 PSB091	oh che be:llo
 PSB005	adesso ha novant'anni
-PSB091	o::h [{P}] che tenero
+PSB091	o::h [(.)] che tenero
 PSB005	[sì]
 PSB091	[bello avere] i nonni
 PSB005	[sì questo]
 PSB005	vediamo le foto di tua figlia
-PSB091	allora io io c'ho tipo mh noi abbiamo guardato il filmino qualche:: [m:h] qualche giorno fa e ci ha tipo °un un po'° {P} °un po' reso:°
+PSB091	allora io io c'ho tipo mh noi abbiamo guardato il filmino qualche:: [m:h] qualche giorno fa e ci ha tipo °un un po'° (.) °un po' reso:°
 PSB005	[mhmh]
 PSB005	a::h stupenda::
 PSB091	da noi si usa che sposo va a prendere a casa questi son testim[oni]
 PSB005	[o]kay
-PSB091	che da noi si prendono i ti~ i f~ i sposati coppia di sposati [{P}] capito? e lui [va a ca]sa a prendere
+PSB091	che da noi si prendono i ti~ i f~ i sposati coppia di sposati [(.)] capito? e lui [va a ca]sa a prendere
 PSB005	[ah okay]
 PSB005	[sì]
 PSB091	poi si balla poi, sposo viene a casa a prendere la sposa
@@ -50,58 +50,58 @@ PSB091	e tipo m:h si mettono: i vicini [o amici tipo]: °[capito]°
 PSB005	[wow °guarda:°]
 PSB005	[ma guarda::]
 PSB091	sì mh
-PSB091	i testimoni {P} vengono con lo spo:so le zie t~ un po' abbiamo fatto tipo capito alla:: m:h anche con tradizioni no[stri]
+PSB091	i testimoni (.) vengono con lo spo:so le zie t~ un po' abbiamo fatto tipo capito alla:: m:h anche con tradizioni no[stri]
 PSB005	[mh]
 PSB005	certo sì sì
 PSB091	con il pane che poi eh quando escono si rovescia l'acqua [°per terra°]
 PSB005	[be]:llissimo questo vor[rei] fare anch'io
 PSB091	[sì]
 PSB091	sì
-PSB005	{ride}
+PSB005	((ride))
 PSB091	e adesso vanno in chiesa
 PSB091	°adesso vanno in chiesa°
 PSB091	(così) stanno stanno in chiesa
 PSB091	vedi noi facciamo [sedere] dall'altra parte
-PSB005	[ah dall'altra parte sì] {P} sì sì lo sapevo sì
+PSB005	[ah dall'altra parte sì] (.) sì sì lo sapevo sì
 PSB005	[con] il prete giranto an[che]
 PSB091	sì dall'altra parte sì
 PSB091	verso [l'altare perché noi abbiamo l'altare chiuso] noi
-PSB005	[sì {P} molto divertente questa cosa]
-PSB005	okay {P} ah sì sì
+PSB005	[sì (.) molto divertente questa cosa]
+PSB005	okay (.) ah sì sì
 PSB091	e qui poi hanno fatto rito le ceri~ cerimonia quella civile capito?
 PSB091	c'è il la~ laghetto e il ristorante sul [°laghetto°]
 PSB005	[quando è] stato questo?
-PSB091	è: {P} stato e:h duemiladiciotto
-PSB005	okay {P} ah sono riusciti [prima] del covid [{P}] per fortuna {ride}
+PSB091	è: (.) stato e:h duemiladiciotto
+PSB005	okay (.) ah sono riusciti [prima] del covid [(.)] per fortuna ((ride))
 PSB091	[sì]
 PSB091	[sì]
 PSB091	sì
 PSB091	qua già stanno: al ristora:nte
 PSB091	primo ballo
 PSB005	wo:w che vestito super
-PSB091	guarda mille euro in ucraina ci è (cost~) [{P} è il regalato
+PSB091	guarda mille euro in ucraina ci è (cost~) [(.) è il regalato
 PSB005	[mhmh]
 PSB005	°sì okay wow°
 PSB091	°sì°
 PSB091	poi da noi si usa che tipo tutti amici giovani vengono: capito con i i musicisti [e si] divertono
 PSB005	[m:h]
-PSB091	ha fatto un discorso ahi ahi per lei {P} perché lui ha accompagnato all'altare
+PSB091	ha fatto un discorso ahi ahi per lei (.) perché lui ha accompagnato all'altare
 PSB091	lui figli non ce l'ha
 PSB005	sì sì
-PSB091	poi c'è {P} il velo si mette capito?
+PSB091	poi c'è (.) il velo si mette capito?
 PSB091	cioè è il rito nostro
 PSB091	che lei diventa donna
 PSB005	certo
-PSB091	qua poi fanno tutti i regali: vedi che tutti: {P} e poi si toglie il velo
+PSB091	qua poi fanno tutti i regali: vedi che tutti: (.) e poi si toglie il velo
 PSB091	la parte diciamo già finale
-PSB091	e poi e:h di solito le ragazze si si: [{P} se lo] girano il velo
+PSB091	e poi e:h di solito le ragazze si si: [(.) se lo] girano il velo
 PSB005	[se lo girano]
 PSB005	°fan[tastico]°
-PSB091	[da tradizione] {P} il giorno dopo
+PSB091	[da tradizione] (.) il giorno dopo
 PSB091	fanno finto matrimonio i finti spo:si capito finti testimoni fanno buffi capito?
-PSB005	{ride}
+PSB005	((ride))
 PSB091	questa damigella sarebbe
-PSB005	{ride}
+PSB005	((ride))
 PSB091	questo sarebbe io e il aspetta ah no ah no ah allora questo sarebbe il
 PSB091	e quella accanto io capito [loro imitano tutti sì sì] imitano capi[to spo~] sì
 PSB005	[c(io)è hanno fatto il sì:]
@@ -111,15 +111,15 @@ PSB091	tar~ taglio della torta, con i vestiti tradizionali
 PSB005	mazza due giorni impegnativo
 PSB005	è sta[ncan]te, sì
 PSB091	[tanto]
-PSB091	poi è per tutti {P} per [tutti]
-PSB005	{ride}
+PSB091	poi è per tutti (.) per [tutti]
+PSB005	((ride))
 PSB005	[sì sì]
 PSB005	no noi abbiamo fatto un giorno, è durato abbastanza perché era dalla mattina fino alle undici di sera
 PSB005	però: no io mi sono divertita molto ero stanchissima però
 PSB005	mi volevo tagliare i piedi via
-PSB091	{ride}
+PSB091	((ride))
 PSB005	(eh) sì
-PSB091	ma il vestito di mia figlia {P} erano m:h non lo so come spiegare tipo:
+PSB091	ma il vestito di mia figlia (.) erano m:h non lo so come spiegare tipo:
 PSB091	non erano né paill[ettes né::] né strass ma:
 PSB005	[mhmh]
 PSB005	c(io)é mi sembrava di pizzo no?
@@ -127,14 +127,14 @@ PSB091	pizzo, però anche sul pizzo c'erano::
 PSB091	oddio come si [chiamano]
 PSB005	[tipo] dei brillantini?
 PSB091	m::h[m::h]
-PSB005	[dei cris~] dei: [{P} dei cristallini sì]
+PSB005	[dei cris~] dei: [(.) dei cristallini sì]
 PSB091	[tipo dei cristalli sì] tipo dei cristallini
 PSB091	che se tu guardavi così niente ma s~ quando c'era il sole poi [ti bril~ brillava] tutto
 PSB005	[°bellismo sì°]
 PSB091	c(io)é molto molto mh bello però pesante:
-PSB091	che lei aveva [anche] {P} la coda capito, che si staccava
+PSB091	che lei aveva [anche] (.) la coda capito, che si staccava
 PSB005	[a:h]
-PSB091	ma anche il velo tutto tutto intorno era con quelli crista~ ma pesa:va quindi lei poverina a tenere tutto in te[sta] {ride}
+PSB091	ma anche il velo tutto tutto intorno era con quelli crista~ ma pesa:va quindi lei poverina a tenere tutto in te[sta] ((ride))
 PSB005	[°eh°]
 PSB091	che (l'aiutavamo) [quando] le hanno tolto poi da noi si usa che il mattino vengono tutti i pare:nti
 PSB005	[°sì°]
@@ -152,20 +152,20 @@ PSB091	e alle sei eravamo già andati [dal parrucchiere per truccarsi per tutto 
 PSB005	[in p~]
 PSB005	[per certo sì si]
 PSB005	[°sì sì sì°]
-PSB091	credimi {P} talmente stanca ero [che io] no:n non mi ricordo niente del matrimonio SOLO GUARDANDO video
+PSB091	credimi (.) talmente stanca ero [che io] no:n non mi ricordo niente del matrimonio SOLO GUARDANDO video
 PSB005	[°mh°]
 PSB091	io ho realizzato un pochino [°quanto°]
 PSB005	[°sì sì°]
 PSB005	ah io a~ n~ fino a pranzo:,
-PSB005	infatti {P} ci sono quelle persone che dicono che preferiscono fare il buffet in piedi invece io per fortuna che c'era il pranzo
+PSB005	infatti (.) ci sono quelle persone che dicono che preferiscono fare il buffet in piedi invece io per fortuna che c'era il pranzo
 PSB091	ah
-PSB005	così sono stati tutti [seduti], nessuno mi ha rotto le scatole, [{P}] e finché c'è stato il pranzo io:
+PSB005	così sono stati tutti [seduti], nessuno mi ha rotto le scatole, [(.)] e finché c'è stato il pranzo io:
 PSB091	[seduti]
 PSB091	[sì]
 PSB005	sono stata un po' seduta ho mangiato poi mi sono andata a sedere con le mie amiche:
 PSB005	e con i suoi ami:ci: [a~ anche] mio marito
 PSB091	[okay]
-PSB091	{ride}
+PSB091	((ride))
 PSB005	sì sì
 PSB091	sì
 PSB005	e: mh è andato tutto bene quando hanno cominciato ad alzarsi
@@ -175,18 +175,18 @@ PSB091	[quanti] persone e::h
 PSB005	cento:cinquan[ta]
 PSB091	°[ce]ntocinquanta° [noi] cento persone pure
 PSB005	[°sì°]
-PSB005	eh io: ho provato ma {P} per me gl~ gli amici: dovevo invitarli tutti {P} non si poteva fare::
-PSB091	{ride}
+PSB005	eh io: ho provato ma (.) per me gl~ gli amici: dovevo invitarli tutti (.) non si poteva fare::
+PSB091	((ride))
 PSB091	a noi [alcuni] hanno detto di no: perché sai la gente non è che c'hanno tutti [i so::ldi capito]? quindi alcuni in tanti hanno detto di [no]
 PSB005	[sì]
 PSB005	[certo sì sì]
-PSB005	[no] noi avevamo poca famiglia perché la famiglia di mia mamma è d~ è giù {P} [in puglia]
+PSB005	[no] noi avevamo poca famiglia perché la famiglia di mia mamma è d~ è giù (.) [in puglia]
 PSB091	[°a::h°]
-PSB005	quindi sono venuti solo i nonni e le zie {P} due zie e p~ e basta
+PSB005	quindi sono venuti solo i nonni e le zie (.) due zie e p~ e basta
 PSB091	[m:]:h
-PSB005	[e::] però avevo milioni di ami[ci] tutti gli amici {ride} sì sono venuti tutti
+PSB005	[e::] però avevo milioni di ami[ci] tutti gli amici ((ride)) sì sono venuti tutti
 PSB091	[°amici°]
-PSB091	il mio matrimonio mio [{P} trecento] persone [quando mi sono sposata] prima volta con
+PSB091	il mio matrimonio mio [(.) trecento] persone [quando mi sono sposata] prima volta con
 PSB005	[m:h]
 PSB005	[°ah mamma°]
 PSB091	e mio fratello quattrocento perso[ne]
@@ -194,7 +194,7 @@ PSB005	°[odd]io[:]°
 PSB091	[tre] giorni sia [io che i miei (due fratelli)]
 PSB005	[ma dove li me~ dove li avete messi]?
 PSB005	[c(io)è]
-PSB091	[allo]ra ci sono {P} eh come dire: °m::h non so come chiamarli°
+PSB091	[allo]ra ci sono (.) eh come dire: °m::h non so come chiamarli°
 PSB091	sempre all'aperto e tipo: tipo la t~ tipo tendoni [capito]?
 PSB005	[sì sì] ce[rto], sì per [for]za [perché se no]
 PSB091	[°sì°]
@@ -203,43 +203,43 @@ PSB091	[c'erano:]
 PSB005	[una struttura normale è impossibile]
 PSB091	[c'erano quelli i cuo:chi sì]
 PSB091	c'è cuochi che m:h allora poi uhm cominciano con fare tipo bisco:tti
-PSB091	prima fanno bisco:tti fanno {P} que:l pane capito? cominciano già da m~ da mercoledì lavorare
+PSB091	prima fanno bisco:tti fanno (.) que:l pane capito? cominciano già da m~ da mercoledì lavorare
 PSB005	[certo]
 PSB091	>[il mio] sabato era s-< mio matrimonio sabato domenica e lunedì
-PSB091	due giorni con il vestito bianco {ride}
+PSB091	due giorni con il vestito bianco ((ride))
 PSB005	ma avevi un vestito bellissimo
 PSB091	guarda all'epoca, forse trovo all'epoca all'epoca avevo un vestito molto bello i miei genitori anche loro hanno:
 PSB091	sono stati bravi
 PSB005	[ma si spende] un sacco di soldi per fare quattrocento persone, trecento persone
 PSB091	[ma stavano]
 PSB091	c(io)è tu pensa che
-PSB091	c(io)é a casa perché è stato fatto vicino a casa nostra, quindi tutto {P} tutto quello che serviva tutto si andava a chiedere a casa nostra
+PSB091	c(io)é a casa perché è stato fatto vicino a casa nostra, quindi tutto (.) tutto quello che serviva tutto si andava a chiedere a casa nostra
 PSB091	poi da noi s~ all'epoca si usava che tipo i vicini ti aiutavano non so ti manca un pentolone? capito per [fare cose] i vicini ci sono
 PSB005	[sì sì]
 PSB091	°(>volevo vedere<) nove volte g~ mio fratello°
-PSB005	c(io)è era più org~ auto organizzato {P} [sì]
+PSB005	c(io)è era più org~ auto organizzato (.) [sì]
 PSB091	[sì]
 PSB005	[comunque]
 PSB091	[ma adesso] non lo fanno più così i matrimoni perché a parte che
-PSB091	prima invitavi tutti capito? anche un vicino che abitava un chilometro fuori >era il vicino< capito? così era {ride}
-PSB005	{ride}
+PSB091	prima invitavi tutti capito? anche un vicino che abitava un chilometro fuori >era il vicino< capito? così era ((ride))
+PSB005	((ride))
 PSB091	po:i se tu ah gua:i se tu non invitavi qualcuno dei pare:nti, si offende:vano [capito]?
 PSB005	[sì sì]
-PSB005	ma anch'io ho invitato tutti ma poi: quelli lontani non vengono {P} di solito
+PSB005	ma anch'io ho invitato tutti ma poi: quelli lontani non vengono (.) di solito
 PSB005	per fortuna
-PSB091	{ride} brava
+PSB091	((ride)) brava
 PSB005	sì
 PSB091	che dopo diventa capito, non più poi quando s~ il più brutto è stato per me tutti quando arrivano i baci
 PSB005	[sì]
 PSB091	[tutti] i ba~ ma::mma mia, poi anche io ad agosto mia figlia,
 PSB091	dodici agosto io il ventotto agosto [mi sono sposata]
 PSB005	[ah io il ventinove] agosto
-PSB091	{ride} vedi?
+PSB091	((ride)) vedi?
 PSB005	sì
-PSB091	allora qua con [con la fi]glia di un'amica {P} di mia [figlia]
+PSB091	allora qua con [con la fi]glia di un'amica (.) di mia [figlia]
 PSB005	[°ah wow°]
 PSB005	[carina]::
-PSB091	con la con la [eh diciamo] che mia figlia l'ha battezzata [questa {P}] $picciotta
+PSB091	con la con la [eh diciamo] che mia figlia l'ha battezzata [questa (.)] $picciotta
 PSB005	[°che belli:na°]
 PSB005	[ah bellino]
 PSB091	°eh ti voleva trov~ trova~ guarda questo è mio fratello°
@@ -247,12 +247,12 @@ PSB005	°oh mamma°
 PSB005	che impressione
 PSB091	questo è tanti anni fa in ucrai~ guarda quanto è giovane [qui]
 PSB005	[e:h] sì
-PSB091	°mamma mia {P} che [impressione]°
+PSB091	°mamma mia (.) che [impressione]°
 PSB005	[sì sì]
-PSB005	ah io l'altro giorno ho visto una: una mia amica {P} e non la vedevo da più di dieci anni
+PSB005	ah io l'altro giorno ho visto una: una mia amica (.) e non la vedevo da più di dieci anni
 PSB005	mi sono sentita VECCHIA
 PSB005	molto
-PSB005	{ride}
+PSB005	((ride))
 PSB091	[quando non vedi:]:
 PSB005	[molto]
 PSB005	mh
@@ -264,7 +264,7 @@ PSB005	[bellissimo]
 PSB005	bellissi:mo
 PSB091	ero una barbie
 PSB005	quand'era questo? nel?
-PSB091	duemi~ ehm anzi {ride} duemila novant[uno]
+PSB091	duemi~ ehm anzi ((ride)) duemila novant[uno]
 PSB005	[ah] okay
 PSB091	sì
 PSB005	°ma che bello bellissimo° no le maniche? ti prego sto male
@@ -279,10 +279,10 @@ PSB091	[guai]
 PSB005	[perché non vole~ sì >sì sì sì<] non [volevo andare così]
 PSB091	[tu in chiesa ti sei sposata in chiesa]
 PSB091	[e questa l'unica foto] che m~ mi è rima~ °l'unica foto° non ce l'ho quella di su questo è mio fratello
-PSB005	[sei {P} così]
+PSB005	[sei (.) così]
 PSB091	[che mi accompagna]
-PSB005	{ride}
-PSB091	{ride}
+PSB005	((ride))
+PSB091	((ride))
 PSB091	che m~ mi guarda e fa mamma mia ma guarda come ti sei ridotta e dico vabbé
 PSB005	no beh ma [non è ve:ro], sei sempre bella
 PSB091	[tutta saxx]
@@ -291,7 +291,7 @@ PSB005	mia mamma si è messa il vestito di mia nonna
 PSB091	°mamma mia che [bello]°
 PSB005	[solo] che adesso: si è rovinato cioè io lo v~ l'ho [pro~]
 PSB091	[tu] volevi [provarlo]
-PSB005	[ci ho] pensato sai era: una cosa [{P}] era una cosa: divertente [però:]?
+PSB005	[ci ho] pensato sai era: una cosa [(.)] era una cosa: divertente [però:]?
 PSB091	[sì]
 PSB091	[mia mamma] bello belliss~ aveva be[llissimo] vestito
 PSB005	[e:h]
@@ -299,38 +299,38 @@ PSB091	dritto dritto capito? >[poi aveva]< tutti i botto:ni fi~ da qua capito? t
 PSB005	[mh]
 PSB005	[sì >sì sì<]
 PSB005	[mhmh]
-PSB091	i bottoni da qua fino a giù poi uno spacco: eh {P} era bello il vestito [°di mia mamma però°]
-PSB005	[eh quello di dei m~] delle mie: mamma e nonna eh all'e~ era di pizzo tutto e aveva la gonna un po' [{P}] un po' così
+PSB091	i bottoni da qua fino a giù poi uno spacco: eh (.) era bello il vestito [°di mia mamma però°]
+PSB005	[eh quello di dei m~] delle mie: mamma e nonna eh all'e~ era di pizzo tutto e aveva la gonna un po' [(.)] un po' così
 PSB091	[ah]
-PSB005	con la manichina: [{P} e] basta però tutto di pizzo intero solo che si è ingiallito cioè è diventato giallo
+PSB005	con la manichina: [(.) e] basta però tutto di pizzo intero solo che si è ingiallito cioè è diventato giallo
 PSB091	[okay]
 PSB091	[eh certo col tempo il pizzo]
-PSB005	[e:::h sì] perché è del {P} cioé del quaranta
+PSB005	[e:::h sì] perché è del (.) cioé del quaranta
 PSB005	del millenovecentoqu~ eh no sessanta scusami mia nonna è del quaran[ta si è s]posata nel sessanta sì
 PSB091	[okay]
 PSB005	ma un po' mia sorella, diceva che se lo voleva mettere lei
 PSB005	secondo me non se lo mette nessuno [perché si è rovinato] però
-PSB091	[°sì {P} certo°]
+PSB091	[°sì (.) certo°]
 PSB005	quindi:: non non
 PSB005	mi sono messa il velo di mia mamma invece
 PSB091	a:::h [belli]ssimo
 PSB005	[sì]
 PSB005	sì mi questa cosa mi m:::hmh
 PSB005	mi piaceva adesso se se lo vuole mettere anche mia sorella un [giorno]
-PSB091	[questa è casa] mia [{P} in ucrai]na
+PSB091	[questa è casa] mia [(.) in ucrai]na
 PSB005	[°ah wow°]
-PSB005	ma {P} questa sei tu?
+PSB005	ma (.) questa sei tu?
 PSB005	[no]
 PSB091	[sì]
 PSB005	[ah ma sì:]
 PSB091	[sì >sì sì<]
 PSB091	io prima della guerra m:::h [xx]
 PSB005	[no] con questa smorfia no:n m:h non ti ho riconosciuto [sì]
-PSB091	{ride}
+PSB091	((ride))
 PSB091	[sì]
 PSB005	°okay°
 PSB091	°poi >tu ti dici< guarda come sono ingrassata guarda come ero°
-PSB091	°questo è duemila {P} di~ ciassette°
+PSB091	°questo è duemila (.) di~ ciassette°
 PSB005	[°piccina°]
 PSB091	[questo è] il nipotino
 PSB091	mio
@@ -339,7 +339,7 @@ PSB091	mhmh
 PSB091	°eravamo in un battesimo°
 PSB091	qua nel mio giardino [dietro la casa:]
 PSB005	[anche qui ti] riconosco poco
-PSB005	ma perché {P} c(i) hai sempre i capelli su non [lo so]
+PSB005	ma perché (.) c(i) hai sempre i capelli su non [lo so]
 PSB091	[questa è] mia nonna
 PSB005	°oddio che ve~ che vecchia°
 PSB005	vecchissi[ma]
@@ -362,7 +362,7 @@ PSB091	sì
 PSB005	>sì sì<
 PSB091	°io e
 PSB005	°ah sì°
-PSB091	guarda ques~ {P} to::
+PSB091	guarda ques~ (.) to::
 PSB091	°m:::h
 PSB091	°non voglio dire bugie otto anni fa°
 PSB005	ah ok[ay]
@@ -392,13 +392,13 @@ PSB091	°lui l'ha lasciata un mese° dovevano sposarsi ne:l duemilaediciassette 
 PSB091	°poi dopo hanno fatto pace [e si sono sposati]°
 PSB005	°[a:h okay]°
 PSB005	mamma rischioso
-PSB005	{ride}
+PSB005	((ride))
 PSB091	ah io quando ho saputo:: pensavo di:
 PSB091	di ammazzarlo
 PSB005	eh certo
 PSB091	c(io)è era già tutto pro~ tutto pronto tutto pronto::
 PSB091	°e lui dice eh non me la sento scusate°
-PSB091	io ho detto guarda {P} facciamo matrimonio °vai dopo° {sospira}
+PSB091	io ho detto guarda (.) facciamo matrimonio °vai dopo° ((sospira))
 PSB091	>ho detto vai dopo< e lui >no no< non è giusto che voi spendiate soldi
 PSB091	°perché il matrimonio ho fatto tutto io: lui di famiglia molto povera capito?°
 PSB091	e:::
@@ -407,13 +407,13 @@ PSB005	sì sì
 PSB091	°>guarda sta~ come sta< come stavo bene°
 PSB091	°no no adesso è [(brutto)]°
 PSB005	[eh be(ne) ma::]
-PSB005	sei giovane {P} la vita è lunga
-PSB091	{ride}
+PSB005	sei giovane (.) la vita è lunga
+PSB091	((ride))
 PSB005	sei anco[ra]
 PSB091	[sì] mh
 PSB091	riconosci questa ragazza?
 PSB005	sei tu?
-PSB091	{ride} sì da [pi]ccola {ride}
+PSB091	((ride)) sì da [pi]ccola ((ride))
 PSB005	[no]
 PSB005	no non riconosco tanto sai?
 PSB091	no
@@ -432,31 +432,31 @@ PSB091	°neanche ricordo cosa mi ha detto°
 PSB005	ad aprile io faccio il b~ battezzo una bimba di una mia amica
 PSB005	sono molto emoziona[ta]
 PSB091	[la] prima vol[ta]?
-PSB005	[sì] sì {P} sì
+PSB005	[sì] sì (.) sì
 PSB091	°dio mio°
 PSB005	è una bimba piccina
 PSB091	qui siamo a ki:ev
 PSB091	°ma tanti anni fa madonna°
-PSB091	°lei {P} non so quanti anni aveva°
+PSB091	°lei (.) non so quanti anni aveva°
 PSB091	che mi han fatto bella festa
 PSB091	abbiamo presentato i nostri
 PSB091	vestiti tradizionali
 PSB005	mhmh
 PSB091	°sempre lì da a granarolo°
 PSB005	mhmh
-PSB091	{suono_da_video}
+PSB091	((suono_da_video))
 PSB005	°eh sì°
 PSB005	mh
 PSB091	questa tradiz~ tradizionale della mia [regione]
 PSB005	[ah] okay okay
-PSB091	{tossisce}
+PSB091	((tossisce))
 PSB091	si sta (tor) bene
 PSB091	mhmh
 PSB091	ricamavano tutto gli ucraini
 PSB091	qui è con la matrona
 PSB005	bellissimo
 PSB091	mh
-PSB005	stupendo {P} mh
+PSB005	stupendo (.) mh
 PSB091	che regione viene perché ogni ogni vestito ha la sua tradizio[ne]
 PSB005	[sì]
 PSB005	io da n~ in italia non c'è questa co[sa]
@@ -470,15 +470,15 @@ PSB005	[°o::::h°]
 PSB005	questo è il cane
 PSB091	°sì questo [è brandy] sì che°
 PSB005	[°o::h°]
-PSB091	bello {P} questo è il >mio mio< fratellone a pasqua {ride}
+PSB091	bello (.) questo è il >mio mio< fratellone a pasqua ((ride))
 PSB091	son venuti di::: guarda
 PSB005	è più grande di te,
 PSB091	sì è
 PSB005	sì
-PSB091	sette aprile {P} duemilaventitré [guarda]
+PSB091	sette aprile (.) duemilaventitré [guarda]
 PSB005	[°mamma mia°]
-PSB005	quante neve {ride}
-PSB091	{ride} (detto) dieci guarda
+PSB005	quante neve ((ride))
+PSB091	((ride)) (detto) dieci guarda
 PSB091	(farse) siamo usciti da casa:
 PSB005	°oh mamma°
 PSB091	poi vedi qua abita mia zia
@@ -486,12 +486,12 @@ PSB091	[e qua è casa] mia
 PSB005	[ah sì]
 PSB091	°quindi°
 PSB005	che bella colorata
-PSB091	{ride}
+PSB091	((ride))
 PSB005	°sì:::°
 PSB091	°mamma mia°
 PSB091	°questo mi manca eh in italia [capito, la ne:ve]°
 PSB005	[e:h ce~]
-PSB005	[ma] {P} e:::h
+PSB005	[ma] (.) e:::h
 PSB005	tu normalmente andavi spesso?
 PSB091	sì
 PSB091	tre volte all'anno
@@ -501,15 +501,15 @@ PSB091	°ecco qua perché il padre di mia figlia pure ha fatto:::°
 PSB091	adesso è stato dimesso perché c'ha problemi di salute perché anche lui ha combattuto
 PSB091	(ha osteoma) xxxxx
 PSB005	mhmh
-PSB091	[lui è] stato nei posti {P} veramente brutti
+PSB091	[lui è] stato nei posti (.) veramente brutti
 PSB005	[mhmh]
 PSB091	qua
 PSB091	cinque anni fa in ucrania li ha beccato un infarto
-PSB091	[è stato operato] {ride}
+PSB091	[è stato operato] ((ride))
 PSB005	[oh che bello]
-PSB091	{ride} [sì {P} sì] {ride}
-PSB005	[fantastico] {P} che gioia
-PSB005	{ride}
+PSB091	((ride)) [sì (.) sì] ((ride))
+PSB005	[fantastico] (.) che gioia
+PSB005	((ride))
 PSB091	guarda guarda non n~ n::~
 PSB091	non ci ha fatto mancare niente nell[a vita guarda] l'ha avuto di tutto e di più <di tutto e di più>
 PSB005	[°esatto°]
@@ -523,37 +523,37 @@ PSB091	praticamente
 PSB005	mhmh
 PSB091	scusami
 PSB005	no vai vai
-PSB091	{sospirando} #da {parla_al_telefono}
+PSB091	((sospirando)) #da ((parla_al_telefono))
 PSB091	ja doma de ((parla al telefono))
-PSB091	{tossisce}
-PSB091	ah? {parla_al_telefono}
+PSB091	((tossisce))
+PSB091	ah? ((parla_al_telefono))
 PSB091	ty kuda jdeš ((parla al telefono))
 PSB091	z jakimi chlopcami ((parla al telefono))
-PSB091	{parla_al_telefono}
+PSB091	((parla_al_telefono))
 PSB091	skaži ščo dlja sebe chočeš ((parla al telefono))
 PSB091	a ne dlja chlopciv ((parla al telefono))
-PSB091	{sospira}
+PSB091	((sospira))
 PSB091	dobre ((parla al telefono))
 PSB091	davaj ((parla al telefono))
 PSB005	invece questa è mia sorella:
 PSB005	ne ho un'al~ c(io)è siamo in tre
-PSB091	{ride}
+PSB091	((ride))
 PSB091	a::h siete tre [sorelle]
 PSB005	[sì]
 PSB005	questa mia mamma, mio papà
 PSB005	e [questo] è il fidanzato::: d~
 PSB091	[mh]
 PSB091	della sorella
-PSB005	di lei {P} sì
-PSB091	{ride}
+PSB005	di lei (.) sì
+PSB091	((ride))
 PSB005	°vediamo se°
 PSB091	tu sei più grande?
 PSB005	sì
 PSB091	°okay°
 PSB005	poi c'è le:i e poi c'è la piccola [che è nata] molto::
 PSB091	[okay]
-PSB005	molto dopo {P} di tutti
-PSB005	{ride}
+PSB005	molto dopo (.) di tutti
+PSB005	((ride))
 PSB005	sì
 PSB005	che la piccola vediamo se c'è una foto
 PSB091	e voi avevate la #dada ucraina, me l'hai [detto]
@@ -574,7 +574,7 @@ PSB005	che forse ha un nome più lungo però::
 PSB091	no
 PSB005	ah [okay sì]
 PSB091	[sì con due elle
-PSB005	mi mi sba~ mi dimentico io [perché la] chiamiamo sempre così [da vent'anni] {ride}
+PSB005	mi mi sba~ mi dimentico io [perché la] chiamiamo sempre così [da vent'anni] ((ride))
 PSB091	[sì]
 PSB091	[>proprio allora sì<]
 PSB091	è l'unico [nome] che non si:: per esempio mio,
@@ -594,7 +594,7 @@ PSB091	[sì]
 PSB091	per esempio noi per per dire in modo dolce si dice cioè capito [tipo piccolina [capito]?
 PSB005	[ah certo sì]
 PSB005	[sì sì]
-PSB091	{sospira}
+PSB091	((sospira))
 PSB005	°sì sì°
 PSB091	a::h
 PSB005	sì [no noi]
@@ -607,7 +607,7 @@ PSB005	[lei] veniva a prenderci a scuola me è l'altra:: sorella
 PSB005	e::: o quarta elementare insomma
 PSB005	e andavamo: stavamo un po' ai giardini poi andavamo a casa e poi a qua~ finché arrivava mia mamma:: lei rimaneva
 PSB005	poi dopo io non mi ricordo bene però quando io avevo tredici anni è nata la piccola
-PSB005	e lei ha cominciato a stare a casa nostra {P} quasi tutti i giorni
+PSB005	e lei ha cominciato a stare a casa nostra (.) quasi tutti i giorni
 PSB091	°certo°
 PSB005	perché mia mamma lavorava tutti i giorni quindi
 PSB091	°be(ne) [essendo medico]°
@@ -616,12 +616,12 @@ PSB091	la mamma pedia[tra]?
 PSB005	[pe]diatra sì
 PSB005	c(io)è appena si ammalava d~ doveva:: c(io)è se no a mia mamma le veniva un infato [capito]?
 PSB091	[°certo°]
-PSB005	perché {P} con la prima figlia {P} già
+PSB005	perché (.) con la prima figlia (.) già
 PSB005	faceva i saltii mortali, con la seconda figlia salti mortalli, [con la terza] figlia ha deciso che
 PSB091	[anch'io]
 PSB005	[voleva] tutto comodo no? tutto protetto tutto organizza~
 PSB091	[°certo°]
-PSB005	anche perché io {P} da più piccola avevamo i nonni
+PSB005	anche perché io (.) da più piccola avevamo i nonni
 PSB005	quando è nata la terza i miei nonni [erano] troppo anziani [no:::n] non ce la facevano
 PSB091	[°mh°]
 PSB091	[°certo°]
@@ -651,7 +651,7 @@ PSB091	°[ma]mma mia°
 PSB005	fi~ poi quando è diventata più grande:: mia sorella ha cominciato a venire un po' di meno e:::
 PSB005	[adesso:::]
 PSB091	[è normale]
-PSB005	poi è andata in pensione a un certo punto e viene un po' {P} ogni tanto sì
+PSB005	poi è andata in pensione a un certo punto e viene un po' (.) ogni tanto sì
 PSB005	[ma poi]
 PSB091	[è di zaporižžja] mi hai drtto?
 PSB005	sì [zaporižžja sì]
@@ -670,7 +670,7 @@ PSB005	e::::
 PSB005	quando:: noi eravamo [via sì]
 PSB091	[è venuta al tuo matrimonio]?
 PSB005	ma io l'ho invitata ma:: eh secondo me lei era:::
-PSB005	era: in ucraina {P} [perché era esta]te
+PSB005	era: in ucraina (.) [perché era esta]te
 PSB091	[ah okay]
 PSB005	e:[:: s~ se]condo me no:n non
 PSB091	[okay ah sì agosto]
@@ -688,7 +688,7 @@ PSB005	e anche anche suo:::
 PSB005	suo nipote che ha:: un po' meno di me insomma un po' più piccolo di me
 PSB005	ha una specie di da~ di disabilità di piccola disabilità ma per fortuna non l'hanno ch~ quindi non l'hanno chiamato a [comba]ttere
 PSB091	[okay]
-PSB005	almeno {P} e: poi è scappato subito dall[a:::]
+PSB005	almeno (.) e: poi è scappato subito dall[a:::]
 PSB091	[ah okay]
 PSB005	eh tanto non c'era la mamma
 PSB005	la nonna è qui
@@ -697,7 +697,7 @@ PSB091	°[eh] fatto bene [sì]°
 PSB005	[sì]
 PSB005	e::
 PSB005	adesso non sono aggiornata non so dov'è
-PSB005	{ride} però insomma lavora sta bene [però per fortu]na siccome aveva ques~ per fortuna
+PSB005	((ride)) però insomma lavora sta bene [però per fortu]na siccome aveva ques~ per fortuna
 PSB091	[°sta bene°]
 PSB005	[ovviamente]
 PSB091	[certo]
@@ -706,7 +706,7 @@ PSB091	[ah okay]
 PSB005	e::: m::h quindi non l'hanno all'inizio non l'hanno chiamato subito: a combattere [diciamo]
 PSB091	[eh adesso] prendono tutti
 PSB005	eh adesso sì ma lui appena
-PSB005	{ride} appena ha saputo ha preso la macchina
+PSB005	((ride)) appena ha saputo ha preso la macchina
 PSB091	fatto [bene]
 PSB005	[quello si] poteva::sì >sì sì<
 PSB005	°eh e::h mh°
@@ -715,7 +715,7 @@ PSB005	>sì sì< perché poi abbia~ sai provi tante signore che::
 PSB005	non sempre [sono::: sì uno si trova bene sì]
 PSB091	[non ti tro~ esatto non ti trovi bene con tutti]
 PSB005	quindi::
-PSB091	io pure fatta la tata {P} tre bambini
+PSB091	io pure fatta la tata (.) tre bambini
 PSB005	°ah°
 PSB091	tre cugine~ però tre cuginetti [erano] diciamo la::: m:h
 PSB005	[mh]
@@ -739,10 +739,10 @@ PSB091	familiare
 PSB091	quindi le nuore pure lavoravano dentro tutti
 PSB091	quindi quando sono nati i bambini sono andati subito a lavorare dopo tipo tre mesi [quindi noi abbiamo] avuto
 PSB005	[°oh mamma°]
-PSB091	{sospiro}
+PSB091	((sospiro))
 PSB091	mamma mia e lei mi ha detto
 PSB091	io mi sparo cosa faccio?
-PSB005	{ride}
+PSB005	((ride))
 PSB091	e: altri nonni lavoravano la signora non lavorava perché stavano bene >lei non l~ l'unica che non<
 PSB091	quindi tutti i bambini dalla [nonna]
 PSB005	[sì]
@@ -762,61 +762,61 @@ PSB005	[eh son contenta sì]
 PSB091	[e quindi::] mi sono trovata:: stra bene quindi se a loro facevano qualcosa:
 PSB091	nonna li veniva a picchiare e [loro] a nascondersi dietro di me
 PSB005	[ah]
-PSB005	{ride}
-PSB091	{ride} #dada #dada io li stavo così come chioccia capito non gli non gli facevo toccare perché nonna veramente non
+PSB005	((ride))
+PSB091	((ride)) #dada #dada io li stavo così come chioccia capito non gli non gli facevo toccare perché nonna veramente non
 PSB091	e quando è morto mio padre, ho dovuto andare in ucraina
-PSB091	{tossisce} e non avevo ancora i documenti
+PSB091	((tossisce)) e non avevo ancora i documenti
 PSB091	per ri~ ritornare ci ho messo due mesi
 PSB091	perché non c'era proprio il modo capito? per tornare
 PSB091	però io al posto mio ho lasciato un'altra ucraina
 PSB005	mhmh
-PSB091	{ride} lei {P} la signora
+PSB091	((ride)) lei (.) la signora
 PSB091	mi chiamava ogni giorno >diceva< guarda se tu non torni io mi butto dal balcone
-PSB005	{ride}
+PSB005	((ride))
 PSB091	perché io sai come sono, io vedo la persona
 PSB091	se gli vado a parlare parlo [se magari] lei qualche volta io arrivavo al mattino perché facevo solo il giorno no
 PSB005	[mhmh]
 PSB091	eh perché già stavo con
 PSB091	io arrivavo al mattino e vedevo se magari lei aveva litigato con il marito o cosa
-PSB091	io {P} andavo in cucina
+PSB091	io (.) andavo in cucina
 PSB091	prima che arrivavano bambini io sistemavo pia::tti facevo le co:se un pochino così capito? di casa
-PSB091	se vedevo che lei {P} allegra è arrivato°
+PSB091	se vedevo che lei (.) allegra è arrivato°
 PSB091	[se vedevo] che lei allegra capito? io gli parlavo e lei mi diceva madonna
 PSB091	sono fortunata che tu sei così [intelligente tu non mi rompi] le palle mi vedi quando sono magari arrabbiata [e non mi] parli oppure
 PSB005	[sì],
 PSB005	[>sì sì sì<]
 PSB005	[mhmh]
-PSB091	{ride}
+PSB091	((ride))
 PSB005	ciao
 ???	ciao
-PSB005	una sorpresa {ride}
-PSB091	{ride}
+PSB005	una sorpresa ((ride))
+PSB091	((ride))
 ???	oh ma
-PSB091	{ride}
-PSB091	abituato {ridendo}
+PSB091	((ride))
+PSB091	abituato ((ridendo))
 ???	è una sorpresa quando non c'è nessuno
-PSB005	{ride}
-PSB091	{ride} lui è abituato
-PSB005	{ride}
+PSB005	((ride))
+PSB091	((ride)) lui è abituato
+PSB005	((ride))
 PSB005	ma adesso ma adesso vado perché: devo arrivare:: [dall'altra parte] della città
 ???	[no: perché]
 PSB005	no sì
 ???	mica dai fastidio
 PSB005	no vabbé ma sono qua da [da:]
 ???	[basta] che sia per l'ucraina
-PSB005	de~ sono qua da un'ora e mezza {ride}
+PSB005	de~ sono qua da un'ora e mezza ((ride))
 ???	(figurati) basta che sia per l'ucraina e va tutto bene
 PSB005	sì sì sì
 PSB005	[>sì sì sì<] noi facciamo piani malvagi [sì] >sì sì sì< sì sì
 ???	[xxx]
 PSB091	[sì]
-???	{ride}
+???	((ride))
 PSB091	e lui ha conosciuto anche quei bambini capito? quando noi g~ giravamo guarda
 PSB091	i miei da quando faceva il babysitter
 PSB005	che bello
 PSB091	io quando sono tornata dopo due mesi
-PSB091	guarda che samuele aveva m::h allora lui è nato a luglio, io sono andata a settembre {P} quindi lui
-PSB091	lui aveva circa {P} tre mesi
+PSB091	guarda che samuele aveva m::h allora lui è nato a luglio, io sono andata a settembre (.) quindi lui
+PSB091	lui aveva circa (.) tre mesi
 PSB091	[quando sono] andata via quindi era piccino
 PSB005	[mhmh]
 PSB091	io quando son tornata lui aveva cinque mesi
@@ -824,7 +824,7 @@ PSB005	mol[to picci]no
 PSB091	ma guarda lo so che non ci non ci crederai ma ci siamo >messi a piangere tutti< lui quando mi ha visto
 PSB005	ha ri[so]?
 PSB091	>[fa]ceva così< NO
-PSB091	{singhiozza}
+PSB091	((singhiozza))
 PSB005	emozionatissi[mo]
 PSB091	[così] capito? le manine che mi mi mi tirava le manine
 PSB091	guarda ci siam p~ messi a piangere tu~ io pensavo che mi hanno dimenticato il più grandicello faceva timido no? fa[ceva così] anche
@@ -852,7 +852,7 @@ PSB005	[della] mamma perché i bimbi [stavano più con no::]
 PSB091	[a:h]
 PSB091	[assolutamente no]
 PSB091	assolutamente no:
-PSB091	c(io)è poi si ammalava uno di tre capito? io: stavo a casa con quello amma[lato per] non {ride} conta[minare altri]
+PSB091	c(io)è poi si ammalava uno di tre capito? io: stavo a casa con quello amma[lato per] non ((ride)) conta[minare altri]
 PSB005	[mhmh]
 PSB005	[certo sì]
 PSB005	>sì sì [sì]<
@@ -862,32 +862,32 @@ PSB005	[>sì s]ì<
 PSB005	[>sì sì sì<]
 PSB091	[°no no assolu]tamente°
 PSB091	guarda ti dico guarda io li baciavo dappertutto capito?
-PSB005	{ride)
+PSB005	((ride)
 PSB091	nel culetto nei piedi erano i miei loro proprio quando mi vedevano
 PSB091	#DA:DA #DA:DA
-PSB091	c(io)è {sospira} troppo b~ troppo belli troppo {P} °mamma mia°
-PSB005	{ride}
+PSB091	c(io)è ((sospira)) troppo b~ troppo belli troppo (.) °mamma mia°
+PSB005	((ride))
 PSB091	troppo belli
-PSB005	beh dai sono contenta che ci sono dei bolognesi:: [per bene] {ride}
+PSB005	beh dai sono contenta che ci sono dei bolognesi:: [per bene] ((ride))
 PSB091	[sì]
 PSB091	perché io sono partita da napoli no?
 PSB005	mh
 PSB091	facendo sempre [babysi]tter in una famiglia:
 PSB005	[mhmh]
-PSB091	{sospira} mamma mia guarda mangiavo
+PSB091	((sospira)) mamma mia guarda mangiavo
 PSB091	sul balcone c'era un tavolino p~ quello da c~ da camping no? [io dovevo mangia]re fuori neanche in [cucina]
 PSB005	[°>sì sì sì<°]
 PSB005	[m::h]
 PSB091	da l~ quando:: prima di loro oppure dopo di loro che loro finivano capito?
-PSB091	la bambina era carina {P} un po'
+PSB091	la bambina era carina (.) un po'
 PSB091	ma maschietto che aveva cinque anni guarda
-PSB091	terribile {P} ma mi faceva le cose appo~
+PSB091	terribile (.) ma mi faceva le cose appo~
 PSB091	buttava patatine per terra [mi pestava mi] tirava dei calci che avevo tutte gambe ne:[re]
 PSB005	[mhmh mhmhmh]
-PSB005	[beh] certo se poi i genitori erano così, per forza {P} eh cer[to]
-PSB091	[ma::]mma mia {sospira} guarda è °mhm:h°
-PSB091	poi sai com'è bam~ bambini {tossisce}
-PSB091	{schiocca_la_lingua}
+PSB005	[beh] certo se poi i genitori erano così, per forza (.) eh cer[to]
+PSB091	[ma::]mma mia ((sospira)) guarda è °mhm:h°
+PSB091	poi sai com'è bam~ bambini ((tossisce))
+PSB091	((schiocca_la_lingua))
 PSB091	bocca della verità n[o]?
 PSB005	[mh]mh
 PSB091	perché tornavano da scuola e
@@ -895,10 +895,10 @@ PSB091	io non parlavo ancora l'italiano però lei mi diceva ah tu devi leggere,
 PSB091	e:::h le favole li metti a letto
 PSB091	tu devi mettere il pigiama a loro gli devi leggere >ma chi cazzo sapeva [leggere che non sapevo neanche p-<]
 PSB005	[sì infatti]
-PSB091	e tu immagini apro il libro {ride} e LEGGO
+PSB091	e tu immagini apro il libro ((ride)) e LEGGO
 PSB005	[in italiano sì eh certo]
 PSB091	[a modo mi~ a modo mio capito]?
-PSB091	i bambini che ride~ invece [di addormentarli] li facevo [ridere perché] sì {ride}
+PSB091	i bambini che ride~ invece [di addormentarli] li facevo [ridere perché] sì ((ride))
 PSB005	[eh certo]
 PSB005	[eh certo]
 PSB091	e per questo loro mi hanno preso
@@ -906,16 +906,16 @@ PSB091	cioè mi hanno preso bene i bam[bini]
 PSB005	[mh]
 PSB091	soprattutto la bimba mi faceva i disegni i cuoricini ti voglio bene i bigliettini
 PSB091	e una volta no? l~ arrivavano da scuola mi correvano no? addosso
-PSB091	e il bambino mi ha fatto {schiocco_di_labbra} mi ha baciato >no (ha dato)< poi fa
+PSB091	e il bambino mi ha fatto ((schiocco_di_labbra)) mi ha baciato >no (ha dato)< poi fa
 PSB091	no mamma ha detto che tu sei schifo [non ti si può baciare]
 PSB005	[°ecco certo° vedi]? io lo sapevo che c'era una sto~ ero sicura che c'avevi qualche storia [sì]
 PSB091	[io guardo] perché è un bambino c(io)è non me la prendo con bambino °con l~ con la la° mamma
 PSB091	e dico sì sì mamma ha ragione non mi baciare perché io sono schifo capito?
 PSB091	e lei rientra diventa tutta r:ossa perché ha sentito sto discorso °capito?°
 PSB091	ma il maschietto si è comportato veramente male
-PSB091	che un giorno io non ce l'ho fatta più {P} ho tirato su il pantalone e ho detto guardate
+PSB091	che un giorno io non ce l'ho fatta più (.) ho tirato su il pantalone e ho detto guardate
 PSB091	o voi fate qualcosa con lui >lui arrivava e subito mi dava il calcio< capito? subito
-PSB091	il padre {P} quando ha visto le mie gambe gli ha tirato una sculacciata che [lui è volato no]?
+PSB091	il padre (.) quando ha visto le mie gambe gli ha tirato una sculacciata che [lui è volato no]?
 PSB005	[mh] mhmh
 PSB091	e lei se l'è presa con me capito? perché mi sono lamentata
 PSB091	e quindi qualsiasi cosa io facevo lei diceva non bene non bene,
@@ -925,16 +925,16 @@ PSB091	è cambiata in faccia come, tu non puoi lasciare >io ho detto< ma io non 
 PSB091	e gli ho detto
 PSB091	e marito mi ricordo questa scena perché io li ho chiamati tutti due e gli ho detto io vado via
 PSB091	a modo mio come sapevo parla~ due mesi sono stata a casa loro
-PSB091	lui la guarda in faccia a lei e gli fa {P} adesso VAFFANCULO dice a lei capito?
-PSB005	{ride}
+PSB091	lui la guarda in faccia a lei e gli fa (.) adesso VAFFANCULO dice a lei capito?
+PSB005	((ride))
 PSB091	cominciano a litigare in napoletano che io tanto non capivo neanche italiano [(cominciano) in napole]tano a litigare
 PSB005	[figurati °sì°]
-PSB091	{schiocca_la_lingua}
+PSB091	((schiocca_la_lingua))
 PSB091	vabbè di di notte dove vado? io facevo giorno e not[te lì in quella] casa
 PSB005	[a:::h]
 PSB005	ma [perché avevano bi]sogno anche di notte?
 PSB091	[per mattina]
-PSB091	perché c(io)è io a casa loro {P} tutti i giorni
+PSB091	perché c(io)è io a casa loro (.) tutti i giorni
 PSB091	toglievo tutta la roba spolveravo dappertutto
 PSB091	lei veniva la sera e controllava guai se io con
 PSB091	c(io)è mi faceva con stuzzicadenti in m~ m~ in mezzo all'armadio >sono quei armadi vecchi ci sono quelle< °m::h°
@@ -948,7 +948,7 @@ PSB091	perché loro andavano al mattino via e io sistemare tutta la casa
 PSB091	tutto tutto poi avevano il coniglio capito? quindi ero: [sempre] avevo sempre da fare
 PSB005	[°m:::h°]
 PSB091	(noi) non ce l'ha fatta
-PSB091	lei viene il mattino dopo {P} ti devo parlare
+PSB091	lei viene il mattino dopo (.) ti devo parlare
 PSB091	tu rimani se io ti prometto che non [ti alzerà] più i piedi?
 PSB005	[mhmh]
 PSB091	io ho detto rimango se voi mettete l~ m~ lo sistemate no? perché c(io)è è impossibile così capito?
@@ -963,7 +963,7 @@ PSB005	[no certo]
 PSB091	c(io)è non volevo capito?
 PSB091	io dicevo sì buono ma lui continuava capi[to]?
 PSB005	[ma] sì non può cambiare dalla mattina alla [sera è impossi]bile
-PSB091	{tossisce}
+PSB091	((tossisce))
 PSB091	[°esatto°]
 PSB091	lui continua:va io poi un u~ un giorno ho detto guarda io n::on >sono così< ah
 PSB091	l~ hanno rovesciato una candela che quell~ lei metteva sempre le cande:le [capito? >la musichetta< hanno] rovesciato la candela sul parquet
@@ -974,10 +974,10 @@ PSB091	>io ho detto< m:::h [non so prendo ferro] da sti::ro [con qualco]sa tolgo
 PSB005	[sì è cera]
 PSB005	[eh sì]
 PSB091	per togliere n~ c(io)è tu non puoi immaginare per
-PSB091	lei è venu:ta certo che la cera ancora [rimane ancora] quindi bisogna eh passare {P} e lei
+PSB091	lei è venu:ta certo che la cera ancora [rimane ancora] quindi bisogna eh passare (.) e lei
 PSB005	[no infatti]
 PSB091	no non bene non bene non vai a letto finché non fai per bene capito?
-PSB005	sì ma {P} sei andata via dopo no? [vero]?
+PSB005	sì ma (.) sei andata via dopo no? [vero]?
 PSB091	[io sono anda~] io sono andata via ho detto guarda che io non sono schiava c(io)è [ha fatto tua figlia] (fa c(io)è)
 PSB005	[sì sì]
 PSB091	m::h aiutami po~ poi sai com'è io sono stata così che mi facevano male le unghie c~ ma
@@ -991,27 +991,27 @@ PSB005	[ma per fortuna sì]
 PSB005	quanto hai resistito?
 PSB091	tre mesi
 PSB005	mh
-PSB091	per trecento euro [{P} al mes~]
-PSB005	[sì infatti immagi]no esatto {P} [non volevo chiederlo sì] non volevo chiedere °ma°
+PSB091	per trecento euro [(.) al mes~]
+PSB005	[sì infatti immagi]no esatto (.) [non volevo chiederlo sì] non volevo chiedere °ma°
 PSB091	[trecento euro al mese]
 PSB091	sì e lei mi diceva
 PSB091	primo mese facciamo trenta poi se impari un po' italiano tre e cinquanta comunque doveva essere quattrocento euro mio stipendio che veramente era già poco
-PSB091	{schiocca_la_lingua} e quando è passato un mese
-PSB091	e io dico:: {P} secondo mese lei mi dà di nuovo trecento euro
+PSB091	((schiocca_la_lingua)) e quando è passato un mese
+PSB091	e io dico:: (.) secondo mese lei mi dà di nuovo trecento euro
 PSB091	e io dico ma perché? lei
 PSB091	tu non parli bene [italiano ancora]
-PSB005	[sì ma era era irregolare] comunque c(io)è [sono:: {P} sì sì::]
+PSB005	[sì ma era era irregolare] comunque c(io)è [sono:: (.) sì sì::]
 PSB091	[sì sì non avevo documenti]
 PSB091	lei tu non parli ancora bene italiano
-PSB091	e io ho detto però {P} già capisco meglio [in due mesi] già
+PSB091	e io ho detto però (.) già capisco meglio [in due mesi] già
 PSB005	[>sì sì<]
-PSB091	poi {P} promessa era quella
-PSB091	lei {P} sì poi cinquecento poi seicento poi mille e::uro capito? mi ha fatto la battuta così °era proprio una stronza guarda guarda°
+PSB091	poi (.) promessa era quella
+PSB091	lei (.) sì poi cinquecento poi seicento poi mille e::uro capito? mi ha fatto la battuta così °era proprio una stronza guarda guarda°
 PSB091	passa il tempo io imparo già italiano vado via da lei
 PSB091	vado via da napoli vengo qua a [bologna la]voro
 PSB005	[°mhmh°]
-PSB091	già {P} ho il telefono capito? già ho facebook mi esce fuori
-PSB091	lui {P} [capito]? su facebook
+PSB091	già (.) ho il telefono capito? già ho facebook mi esce fuori
+PSB091	lui (.) [capito]? su facebook
 PSB005	[mhmh]
 PSB091	e mi scrive su messanger
 PSB091	oh ciao sei tu e io rispondo sì sono io e dice o::h che bello >ha detto< parli bene italia: no e io ho detto
@@ -1022,11 +1022,11 @@ PSB005	[mhmh]
 PSB091	invece sua moglie era proprio una vipera [lui si è messo a] si è messo a ridere
 PSB005	[una strega sì]
 PSB005	°mhmh°
-PSB005	°sì {P} che merde°
+PSB005	°sì (.) che merde°
 PSB091	bah
 PSB005	°sì sì°
 PSB005	ma uno deve saperlo che no:n
-PSB005	perché io lo io non lo so se riuscirei a vivere con una persona in casa {P} lo so e
+PSB005	perché io lo io non lo so se riuscirei a vivere con una persona in casa (.) lo so e
 PSB005	magari non lo faccio
 PSB091	sì volevano fare tanto i signori [però]
 PSB005	[eh esatto] però [se devi:::] devi sapere come::: [no]?
@@ -1041,7 +1041,7 @@ PSB091	e sto stirando
 PSB091	e non solo le cose sue di suo fratello anche che gli [portava anche di sua mamma capito]? sì
 PSB005	[si che li p~ certo sì tipico sì sì]
 PSB091	mi è arrivato un sacco di e viene sua ma~ era b~ era brava sua mamma
-PSB091	viene {P} ma che c'hai tesoro mi chiama cos'hai tesoro?
+PSB091	viene (.) ma che c'hai tesoro mi chiama cos'hai tesoro?
 PSB091	>e ho detto< ma forse non sto bene capito? lei m'ha toccato madonna ma tu scotti
 PSB091	ma sc~ io non stavo in piedi però sapevo che non pote~ c(io)è non pote~ >non avevo neanche posto< io dormivo su una brandina in un corridoio
 PSB091	quando loro andavano a letto io dopo aprivo la mia brandina e °poi potevo an[dare a letto°]
@@ -1055,7 +1055,7 @@ PSB091	[già] comportamento non tan[to signorile capito]? e lei fa
 PSB005	[c(io)è]
 PSB005	[infatti °sì°]
 PSB091	°oddi:o°
-PSB091	e mi d~ e mi dà termometro {P} mi metto e sono trentotto e e otto capito? quasi trentanove
+PSB091	e mi d~ e mi dà termometro (.) mi metto e sono trentotto e e otto capito? quasi trentanove
 PSB091	>e lei fa<
 PSB091	si chiama~ hai qualcosa? guarda che lei scotta
 PSB091	ma e che è che è tanto alta la febbre a trentotto e otto che è tanto alta?
@@ -1063,16 +1063,16 @@ PSB091	c(io)è guarda cre~ credimi
 PSB091	quando quando la vecchia mi ha toccato così ho detto madonna mi sono venute le lacrime capito? perché ho pianto perché non avevo neanche
 PSB091	un posto capito? >manco< se tu stai male non c'hai neanche un posto dove metterti non so sdraiarti un pochino
 PSB091	°mamma mia°
-PSB091	mamma mia {P} come brutto sogno
-PSB005	no vabbè tanto è passato [{P} già] molti anni no?
+PSB091	mamma mia (.) come brutto sogno
+PSB005	no vabbè tanto è passato [(.) già] molti anni no?
 PSB091	[sì]
 PSB091	sì eh
 PSB005	sì mh
 PSB091	ventidue anni
 PSB005	eh okay [quindi] possiamo dimenticare sì
 PSB091	[sì]
-PSB091	{ride}
-PSB091	poi sono andata a lavorare in una lavanderia industriale °madonna santa° {ride}
+PSB091	((ride))
+PSB091	poi sono andata a lavorare in una lavanderia industriale °madonna santa° ((ride))
 PSB091	lì lavoro pesante [però] dive~ divertente [capito]? [tra] tra i gio::vani tra tra i giovani mamma mia però
 PSB005	[mhmh]
 PSB005	[a:h okay almeno]
@@ -1086,21 +1086,21 @@ PSB005	[sì sì]
 PSB091	quindi un macchinario che è grosso come questa come questa stanza
 PSB091	una si mette da una parte e una dall'altra e a lunghezza capito? tu
 PSB091	c'è quella cosa che gira e tu metti
-PSB005	[delle presse {P} tipo] delle presse [sì]
+PSB005	[delle presse (.) tipo] delle presse [sì]
 PSB091	[le lenzuola sopra sì]
 PSB091	[sì]
 PSB091	e tu metti e qua con una mano tiri e con l'altra già prendi [l'altro perché de]ve andare uno appresso all'altro non puoi
 PSB005	[mhmh]
 PSB091	aspettare finché uno [finisce e poi] inserire l'a~ perché tutto il [tempo]
 PSB005	[ce:rto]
-PSB005	[ma] {P} e ci si fa male anche, forse
+PSB005	[ma] (.) e ci si fa male anche, forse
 PSB091	la pelle nessuno ha det[to nie]nte la pelle è andata via
 PSB005	[e::h]
-PSB091	subito primo giorno capito? avevo delle b~ delle bozze [qua che] non ce la facevo a piegare {ride} le:: l::e mani
+PSB091	subito primo giorno capito? avevo delle b~ delle bozze [qua che] non ce la facevo a piegare ((ride)) le:: l::e mani
 PSB005	[eh si]
 PSB091	e poi c'era una p~ poi c'erano quelle::: m:::hmh
-PSB091	tovaglie ovali capito? quando facevano delle:: delle cose::: {P} dei ristoranti
-PSB091	che {P} erano {P} di seta di seta oppure di:::
+PSB091	tovaglie ovali capito? quando facevano delle:: delle cose::: (.) dei ristoranti
+PSB091	che (.) erano (.) di seta di seta oppure di:::
 PSB091	che erano difficili da piegare quindi in due si doveva piegare io ero molto m~ molto svelta molto brava a impara~ imparare tutto quindi io:::
 PSB091	dove mi m~ qualsiasi macchinario mi mettevi io subito imparavo
 PSB091	perché lenzuola su uno tovaglie:: tov~ to~ quelli copri macchie che si chiama:no
@@ -1114,7 +1114,7 @@ PSB005	bisognava stare attenti allora
 PSB091	bisognava stare e lei e lei metteva ti tu fai q~ oggi fai questo tu fai quello tu fai qui ti dava: capito?
 PSB091	il posto dove tu dovevi lavorare
 PSB091	una volta non c'era quella che piegava con lei quelli:: tova~ quelle tovaglie: quelli::: rotonde capito?
-PSB091	e lei mi {P} vieni qua
+PSB091	e lei mi (.) vieni qua
 PSB091	vengo
 PSB091	i~ cioè io non ho mai piegato tu spiegami no? [fai~] cciamo così così ho visto come lei piega
 PSB005	[mhmh]
@@ -1123,10 +1123,10 @@ PSB091	faccio così lei arriva mi strappa
 PSB091	NO::N BE::NE (>è diventata tutta<) NON BE::NE
 PSB091	io la guardo
 PSB091	dico fammi vedere no?
-PSB091	lei {P} co::sì co::sì così però non è che ti spiega poi fa co:sì co:sì senza s~ eh capito?
+PSB091	lei (.) co::sì co::sì così però non è che ti spiega poi fa co:sì co:sì senza s~ eh capito?
 PSB091	piego lei di nuovo mi strappa no? dalle mani
 PSB091	lei mi strappa io prendo mi rigiro e vado via
-PSB091	e lei {P} TI HO DETTO VIENI QUA
+PSB091	e lei (.) TI HO DETTO VIENI QUA
 PSB091	ti ho detto vieni qua e io ho detto guarda
 PSB091	che io sono qua non sono tua schiava non sono venuta qua per:
 PSB091	che tu mi devi trattare male
@@ -1138,56 +1138,56 @@ PSB091	tu devi venire qua e io ti spiego io ho detto no tu prima mi chiedi scusa
 PSB091	e tu~ (>ho detto<) e tutti a guardare eravamo trenta persone dentro a lavorare tra italia:ni stranie:ri
 PSB091	tra russi da b~ ba~ bulgari ucraini e rumeni capito?
 PSB091	>ho detto< tu mi chiedi scusa
-PSB091	e io vengo se no {P} io {P} niente
-PSB091	va be:ne scusa e ho detto io non ho sentito {ride} ho proprio fatto la °stronza°
+PSB091	e io vengo se no (.) io (.) niente
+PSB091	va be:ne scusa e ho detto io non ho sentito ((ride)) ho proprio fatto la °stronza°
 PSB091	io non ho sentito
 PSB091	SCUSA e ho detto ah oka~ adesso adesso va bene °bene°
-PSB091	e tutti {applauso}
+PSB091	e tutti ((applauso))
 PSB005	rischioso però [é:::]
 PSB091	[sì]
 PSB005	ma[°do'°]
 PSB091	[ma poi] senti questa
 PSB091	c(io)è loro erano m:::h mezzo mafiosi perché il fratello uno stava in carcere sai com'è a napoli no?
-PSB091	e: {P} quindi lì c'era il fratello
+PSB091	e: (.) quindi lì c'era il fratello
 PSB091	e il padre di di quel~ di proprietari stavano tutti tutti tutti là capito? quasi quasi tutta la famiglia
 PSB091	però padre non faceva niente però padre
 PSB091	que:lla così gli dava soprannomi a tutti capito? a me mi giraffa giraffa vieni qua no?
 PSB091	io non non non rispondo
 PSB091	e lui giraffa ti ho detto vieni qua
-PSB091	io mi rigiro e dico {P} mi chiamo
+PSB091	io mi rigiro e dico (.) mi chiamo
 PSB091	s~ e se sono giraffa e tu sei vecchio ippopo[tamo]
 PSB005	[m:]:h
 PSB091	TUTTI A RIDERE tutti a ridere guarda tutti a ridere
 PSB091	e lui ma ma
 PSB091	non mi ha detto più niente arriva questo don sarebbe il padrone della lavanderia e aveva
-PSB091	dentro questa lavanderia aveva tipo una stanzetta tutta {P} a ve[tro capi]to?
+PSB091	dentro questa lavanderia aveva tipo una stanzetta tutta (.) a ve[tro capi]to?
 PSB005	[mhmh]
 PSB091	>e mi fa<
 PSB091	VIENI QUA VIENI CON ME
 PSB091	tipo dentro la stanze~ e tutti mamma adesso ti licenziano cosa ti fanno
-PSB091	ho detto quello che mi fanno fanno ma io non mi faccio mettere i piedi in testa mi faccio rispettare {ride}
-PSB091	{sospira}
-PSB091	e lei entra {tossisce} in quella: stanzina da lui
+PSB091	ho detto quello che mi fanno fanno ma io non mi faccio mettere i piedi in testa mi faccio rispettare ((ride))
+PSB091	((sospira))
+PSB091	e lei entra ((tossisce)) in quella: stanzina da lui
 PSB091	lui mi fa
 PSB091	COSA mio padre ti ha detto?
 PSB091	e dico mi ha chiamato giraffa
 PSB091	e tu? e io ho detto che lui è vecchio ippopotamo e lui fa
 PSB091	ah ah ah [ah]
-PSB005	[in]fatti dicevo {ride}
+PSB005	[in]fatti dicevo ((ride))
 PSB091	fa oh oh oh
 PSB091	oh bel~ però prossima volta stai attenta >e ho detto<
 PSB091	a lei impari a suo padre di parlare bene non non dare alle persone i soprannomi
 PSB005	mh
 PSB091	e io sono andata via
-PSB091	poi sempre {P} manca quaranta euro ma a:lla fine del mese
+PSB091	poi sempre (.) manca quaranta euro ma a:lla fine del mese
 PSB091	cinquanta euro settanta euro guarda per uno straniero tan[ti anni fa e::rano soldi capito]?
 PSB005	[sono son molti soldi sì]
 PSB091	e quindi io quando mi mancava qualcosa io anche se non parlavo perfettamente italiano io andavo perché noi segnavamo le ore tutti i giorni no?
-PSB091	e io dico {P} don mi mancano trenta euro quaranta euro settanta euro
+PSB091	e io dico (.) don mi mancano trenta euro quaranta euro settanta euro
 PSB091	e lui me li dava subito [senza] senza discutere
 PSB005	[mh]
 PSB091	i miei tutti:: i miei ucraini com~ compaesani
-PSB005	vai {P} do[po vado] giuro che dopo vado
+PSB005	vai (.) do[po vado] giuro che dopo vado
 PSB091	[sì]
 PSB091	da
 PSB091	peresilaju (.) peresilaju
@@ -1195,34 +1195,34 @@ PSB091	davaj
 PSB005	no ma adesso vado dai
 PSB091	sì [gli giro gli giro]
 PSB005	[è anche ora di cena] sì
-PSB091	no no gli giro che devo girargli cinque euro {P} e comunque
+PSB091	no no gli giro che devo girargli cinque euro (.) e comunque
 PSB091	e anche loro a:::h allora devi anche a noi devi venire anche perché a noi mancano i soldi
 PSB091	quindi io sono andata anche per loro capito? da questo don
-PSB091	°e lui mi fa° {P} facciamo così
+PSB091	°e lui mi fa° (.) facciamo così
 PSB091	che io ti do settanta euro in più
 PSB091	ma tu non vieni per tutti loro capito?
-PSB005	{ride} corruzione
+PSB005	((ride)) corruzione
 PSB091	sì
-PSB091	gli ho detto no don {P} non si vende
+PSB091	gli ho detto no don (.) non si vende
 PSB005	no [infatti]
 PSB091	[°capito°]?
 PSB005	[poi setta]nta euro neanche mille
 PSB091	[e allora]
-PSB005	{ride} c(io)è
+PSB005	((ride)) c(io)è
 PSB091	esatto t~ e::::h
-PSB005	{singhiozza}
+PSB005	((singhiozza))
 PSB091	e lui mi ha detto
 PSB091	io quando venivo
 PSB091	e lui COSA C'È COSA C'È mi faceva no?
-PSB005	{ride}
+PSB005	((ride))
 PSB091	e >io gli dicevo guarda questo questo< e questo e lui m'ha detto
-PSB091	a te bisogna tagliare la lingua DI TRE METRI {P} mi diceva
-PSB005	{ride}
+PSB091	a te bisogna tagliare la lingua DI TRE METRI (.) mi diceva
+PSB005	((ride))
 PSB005	ma quanto sei stata a lavorare lì?
 PSB091	nove mesi
 PSB005	°oka[y]°
 PSB091	[n]ove mesi
-PSB005	beh {P} [coraggio]
+PSB005	beh (.) [coraggio]
 PSB091	[però] quando sono eh
 PSB091	quando mia amica mi ha chiamato da bologna d~ ha detto che c'era un lavoro che tu vieni a bologna::
 PSB091	mi sono messa in ginocchio lì a piangere capito? perché ero contenta di andare via di lì
@@ -1235,18 +1235,18 @@ PSB091	[sì]
 PSB091	lui m'ha chiamato di nuovo
 PSB091	ma sei sicura che vuoi andare là? sicura?
 PSB091	e io ho detto sì sì sicura don grazie
-PSB091	lui mi ha ancora chiamato tipo tre mesi e m:- e m'ha detto guarda {P} quando vuoi
+PSB091	lui mi ha ancora chiamato tipo tre mesi e m:- e m'ha detto guarda (.) quando vuoi
 PSB091	tornare a napoli sempre c'è la porta aperta della lavanderia noi ti asp~ mi ha chiama~ tipo tre mesi >e mi diceva<
 PSB091	sei sicura stai bene [non vuoi] tornare?
 PSB005	[°mhmh°]
 PSB091	°>ho detto no<°
 PSB005	dopo qua hai avuto un lavoro più:: regolare:: o:: no
-PSB091	ah allora ho fatto la badante {tossisce} prima con una signora {ride} un po' cattiva ma::
+PSB091	ah allora ho fatto la badante ((tossisce)) prima con una signora ((ride)) un po' cattiva ma::
 PSB091	ma va bene anziana non
 PSB091	poi c~ eh con un'altra signora u~ un pezzo di pane una famiglia guarda
 PSB091	lei quando è morta quella vecchietta io ho pianto così tanto perché m::::h c(io)è
 PSB005	[xx]
-PSB091	°mh° sono {P} passata da mangiare da fuori sul balcone neanche in casa capito? trattata veramente da da da pezza
+PSB091	°mh° sono (.) passata da mangiare da fuori sul balcone neanche in casa capito? trattata veramente da da da pezza
 PSB091	e poi arriva~ arrivata da questa signora capito? che io andavo a far la spesa:
 PSB091	perché con prima facevo la spesa no? ho comprato non so le mele le pere
 PSB091	arrivavo a casa lei prendeva scontrino
@@ -1254,11 +1254,11 @@ PSB091	la sua bilancia e quindi pesava
 PSB091	se io non ho mangiato una mela in più una pera in più
 PSB005	mamma i bolognesi
 PSB005	°terribili terribili°
-PSB091	{sospira}
+PSB091	((sospira))
 PSB091	poi
 PSB091	al mattino mi dà mezzo bicchiere di latte e tre biscottini capito?
 PSB091	per un colosso come me perché dopo io dovevo pulire tutta la c(io)è per me niente capito?
-PSB005	{ride}
+PSB005	((ride))
 PSB091	per me::: un terzo de~ della colazione capito avevo sempre fame
 PSB091	e io mi sono andata al al supermercato mi sono comprata la roba lei era in carrozzina no?
 PSB091	mi sono comprata la roba e ho lasciato in camera mia [dei biscotti capito? per] stuzzicare merendine
@@ -1276,17 +1276,17 @@ PSB091	oh a casa nostra non si butta capito?
 PSB091	io prima stavo zitta stavo zitta m::h perché avevo bisogno
 PSB091	mia madre si è ammala::ta capito? le:: la mia figlia piccola quindi dovevo stare zitta
 PSB091	sopportavo poi mi contava sempre lenzuola:: mi contava:: m::h le federe poi m~ una volta
-PSB091	forchette {P} mi conta le stoviglie
-PSB091	contiamo contiamo mancano >non lo so< tre forchette::: cinque cucchiaini qualche {P} coltello
+PSB091	forchette (.) mi conta le stoviglie
+PSB091	contiamo contiamo mancano >non lo so< tre forchette::: cinque cucchiaini qualche (.) coltello
 PSB091	°lei apre i casse~° mi dice DOVE?
-PSB091	e dico non lo so {P} perché veramente non lo so dove
-PSB005	{ride}
+PSB091	e dico non lo so (.) perché veramente non lo so dove
+PSB005	((ride))
 PSB091	portami in camera tua io con carrozi~ la porto lei comincia a tirare tutta mia roba c(io)è avevo una
 PSB091	un borsone di roba una valigia capito?
 PSB091	guarda sotto al cuscino sotto al materasso non c'è lei mi dice
 PSB091	allora chiamo carabinieri >ho detto< allora chiama
 PSB091	io io p~ cominciato a piangere ho detto guarda che non lo so
-PSB091	ho detto {P} quando arriva mio stipendio
+PSB091	ho detto (.) quando arriva mio stipendio
 PSB091	tu prendi non so quanto costano >e ho detto< tu m~ mi prendi dallo stipendio
 PSB091	quanto costano quei cucchiaini
 PSB091	no io voglio i miei lei mi dice no?
@@ -1296,15 +1296,15 @@ PSB091	ma ho dimenticato che abbiamo messo ne lavastoviglie non facevamo tutti i
 PSB091	quindi roba era dentro
 PSB091	poi mi viene un un una una lampadina e dico
 PSB091	madonna ma dentro >la lavsto-< apro lei conta e dice ah adesso mi puoi portare a letto
-PSB091	io a piangere {ride} tutta la notte >perché ho detto< madonna ma per chi m~ ma per chi mi prendi capito? per chi mi °per [chi mi hai preso]°
+PSB091	io a piangere ((ride)) tutta la notte >perché ho detto< madonna ma per chi m~ ma per chi mi prendi capito? per chi mi °per [chi mi hai preso]°
 PSB005	[ma i bolognesi] °son terribili°
 PSB091	sono stata lì tre mesi non ce l'ho fatta ma proprio non ce l'ho fatta più guarda
-PSB091	lei {P} ma di un ca~ di una cattiveria:: e quindi
-PSB091	arrivo da questa {P} seconda vecchietta
+PSB091	lei (.) ma di un ca~ di una cattiveria:: e quindi
+PSB091	arrivo da questa (.) seconda vecchietta
 PSB091	arrivo da da la coop
 PSB091	li metto:: e chiedo dove sta bilancia perché dobbiamo ripesare e lei mi fa ma perché?
 PSB091	e io dico ma::
-PSB091	non bisogna pesare? {ride}
+PSB091	non bisogna pesare? ((ride))
 PSB005	che trauma
 PSB091	lei mi fa
 PSB091	ma scusa perché tu non li hai pesati? l~ lei non mi capiva [cosa io volevo fare capito]?
@@ -1314,26 +1314,26 @@ PSB091	e poi fa guarda
 PSB091	e dice ma tu non ti sei comprata niente per te capito?
 PSB091	cosa ti p~ e io ho detto no:: qu~ quello che mi ha detto lei abbiamo fatto la lista no?
 PSB091	e lei ma tu cosa ti piace e io NUTELLA capito? MERENDINE
-PSB005	{ride}
-PSB091	e lei {P} la prossima volta voglio che ti compri questo capito?
+PSB005	((ride))
+PSB091	e lei (.) la prossima volta voglio che ti compri questo capito?
 PSB091	io arrivo
 PSB091	°prendo un piccolo un [piccolo° barattolino prendo un cio]ccolatino capito? pi~ lei m'ha detto
-PSB005	[mhmh sì {P} esatto]
+PSB005	[mhmh sì (.) esatto]
 PSB091	così grande? >ma sei preso così piccolo? e ho detto< ma perché costa i soldi e lei
 PSB091	io non voglio più sentire questo tu sei a casa mia e io voglio che mangi bene capito?
 PSB091	e avevo il bagno mio per [conto mio:]:
 PSB005	[°mhmhmh°]
-PSB091	e avevo la stanza per conto mio capito? tutto {P} [c(io)è]
+PSB091	e avevo la stanza per conto mio capito? tutto (.) [c(io)è]
 PSB005	[°sì] sì°
 PSB091	poi lei è morta dopo tre mesi
-PSB091	i familiari? {P} mi hanno mi hanno fatto il regalo tipo mille euro in più mi hano regalato come::
+PSB091	i familiari? (.) mi hanno mi hanno fatto il regalo tipo mille euro in più mi hano regalato come::
 PSB091	perché
-PSB091	{tossisce}
+PSB091	((tossisce))
 PSB091	han detto sei stata brava con eh io sapevo che lei doveva già morire [no]?
-PSB005	[cioè] poco tre mesi peccato {ride}
+PSB005	[cioè] poco tre mesi peccato ((ride))
 PSB091	sì ma io m::h c(io)è mm~ i sono capitati dei lavori ma io non l'ho lasciata cap[ito]?
 PSB005	[mh][mh]
-PSB091	[io] per me [era proprio] come {P} non lo so come: °e::hm°
+PSB091	[io] per me [era proprio] come (.) non lo so come: °e::hm°
 PSB005	[sì sì]
 PSB005	°sì sì sì°
 PSB091	>questo a san giorgio di [piano sono stata<]
@@ -1344,7 +1344,7 @@ PSB005	[°>sì sì sì<] certo°
 PSB091	sono stati veramente bravi
 PSB091	e così mi sono fatta la bella fama capito? a san giorgio di pia:no
 PSB091	poi ho trovato
-PSB091	questa {P} altra vecchietta di novantatré anni
+PSB091	questa (.) altra vecchietta di novantatré anni
 PSB091	che dopo sono stata con i suoi bisnipotini °[che ho fatto la #dada]°
 PSB005	[°ah okay°]
 PSB005	ah okay [okay]
@@ -1354,24 +1354,24 @@ PSB005	[°mhmhmh°]
 PSB091	io andavo via::: la baciavo capito? >non no-< lei mi abbracciava faceva ma::: come faccio tutto il giorno senza di te? quando andavo:: domenica via:
 PSB091	°era:: troppo forte°
 PSB005	ma d~ eh da mia nonna mi io avevo una nonna bolognese
-PSB005	da mia nonna è stata per un po' una signora ucraina che era la sorella {P} della nostra che veniva [da noi]
+PSB005	da mia nonna è stata per un po' una signora ucraina che era la sorella (.) della nostra che veniva [da noi]
 PSB091	[della
 PSB091	mhmh
-PSB005	di sì {P} e:::
-PSB005	però poi è tornata in ucraina ha avuto un nipotino {P} [e dopo] è venuta una signora rumena
+PSB005	di sì (.) e:::
+PSB005	però poi è tornata in ucraina ha avuto un nipotino (.) [e dopo] è venuta una signora rumena
 PSB091	[m::h]
 PSB005	e::: fino a che non è morta >ma mia nonna era terribile eh<
 PSB091	°sì°
-PSB005	quiandi {P} a me dispiace perché
+PSB005	quiandi (.) a me dispiace perché
 PSB005	delle volte i figli: non ci possono [fare nie]nte c(io)è perché mia nonna era troppo intelligente
 PSB091	[certo]
 PSB005	e::::: però (no~) non si muoveva più [praticamen]te:: aveva le gambe che non funzionavano più
 PSB091	[m::h]
-PSB005	però lei {P} soffriva capito? di non essere da sola::::
+PSB005	però lei (.) soffriva capito? di non essere da sola::::
 PSB091	[certo]
 PSB005	[e:::h] di non essere autonoma [e questa cosa] proprio non non l'accettava
 PSB091	[°ma tutti°]
-PSB005	e quindi:: è stata {P} molto pesante all'inizio
+PSB005	e quindi:: è stata (.) molto pesante all'inizio
 PSB005	era proprio cattiva
 PSB005	c(io)è no cattiva che pesava le cose no però
 PSB005	comunque le:i
@@ -1385,8 +1385,8 @@ PSB091	[°okay°]
 PSB005	però comunque con un po' di::: un po' di disprezzo un po' di: distacco
 PSB005	magari diceva anche delle cose antipatiche su::: [su di lo::ro capi]to?
 PSB091	[°su di l~ sì]
-PSB005	e perché mia nonna era terribile: {P} era così c(io)è m::h
-PSB005	mi quindi mi dispiace ma {ride}
+PSB005	e perché mia nonna era terribile: (.) era così c(io)è m::h
+PSB005	mi quindi mi dispiace ma ((ride))
 PSB091	°eh°
 PSB005	poi dopo [si era un po' tranquillizzata]
 PSB091	[ma una s~ ho avuto solo una] capito? °quelle altre due che ho [fatto°]
@@ -1398,14 +1398,14 @@ PSB005	[mhmh]
 PSB091	>io non c'e~ ho detto posso chiamarla nonna< sì e allora la nonna
 PSB005	°mhmh°
 PSB091	e io chiamavo nonna
-PSB091	ma {P} era autosufficiente camminava tutto però era cardiopatica quindi dovevo stare attenta quando >si diment-<
+PSB091	ma (.) era autosufficiente camminava tutto però era cardiopatica quindi dovevo stare attenta quando >si diment-<
 PSB091	un po' si dimenticava no~ stava bene con la [testa però si] dimenticava un pochino capito?
 PSB005	[mhmh]
-PSB091	ma era troppo forte {P} troppo forte
+PSB091	ma era troppo forte (.) troppo forte
 PSB091	lì aveva le perdite delle urine capito? quando si alzava
 PSB091	io gli mettevo pannolone:: e lei se lo toglieva perché gli d~ giusto gli dava fastidio lei era bella robusta una magnona capito?
 PSB005	mhmh
-PSB091	e::: io vengo già trovo capito? a lei m~ si mette asciugamano quando si alza con l'asciugamano bagnato e::: {P} [poltrona bagnata capito]?
+PSB091	e::: io vengo già trovo capito? a lei m~ si mette asciugamano quando si alza con l'asciugamano bagnato e::: (.) [poltrona bagnata capito]?
 PSB005	[piccina::: ma povera]
 PSB091	e io dormivo diciamo accanto eh casa era piccolina piccolina in affitto
 PSB091	perché la figlia l'ha l'ha presa a san giorgio di piano
@@ -1418,61 +1418,61 @@ PSB091	e io io stavo bene capito, lì
 PSB091	io gli dicevo nonna ma
 PSB091	mettiamo sto pannolone guarda che non rima:ne bagnata se l~ mette capito?
 PSB091	io ogni volta mettevo e lei toglieva no? io poi quando arrivavo
-PSB005	{ride}
-PSB005	{ride}
+PSB005	((ride))
+PSB005	((ride))
 PSB091	perché lei scivolava è anche caduta una volta capito? per tirarla su::
 PSB091	ho fatica::to capi[to]?
 PSB005	[°eh] certo sì°
 PSB091	e io e io gli rimettevo il pannolone >e lei faceva offesa<
 PSB091	si mette a tavola no? offesa
-PSB091	e mi diceva {P} io {P} non mangio oggi lei diceva no?
-PSB005	{ride}
+PSB091	e mi diceva (.) io (.) non mangio oggi lei diceva no?
+PSB005	((ride))
 PSB005	[figurati]
-PSB091	[dici~ io dicevo] {P} allora va bene lei non mangia
+PSB091	[dici~ io dicevo] (.) allora va bene lei non mangia
 PSB091	mangio solo io comincio >a cucinare faccio capito comincio a fare<
 PSB005	[cose buone sì]
 PSB091	[lei si gira]
 PSB091	che cucini >ha detto< ma tanto lei non mangia dico
-PSB005	{ride}
+PSB005	((ride))
 PSB091	lei non mangia
-PSB091	mh {P} perché {P} lei è arrabbiata con me
+PSB091	mh (.) perché (.) lei è arrabbiata con me
 PSB091	sì sono arrabbiata ancora con te: lei fa
 PSB091	sono arrabbia:ta e poi riguardava sempre forum
 PSB091	e poi mi fa un giorno di questi TI PORTO DI LÀ
-PSB005	{ride}
+PSB005	((ride))
 PSB091	però sempre per [pannolone no]?
 PSB005	[sì sì sì] eh certo
-PSB091	poi quando {P} certo cucinavo per tutti porto:::
+PSB091	poi quando (.) certo cucinavo per tutti porto:::
 PSB091	porto::: a a tavola un bel piattino con tagliatelle con ragù capito? diventava tutta allegra
 PSB005	povera:::
 PSB005	[no a me] mia nonna all'inizio era molto::: era abbastanza cattiva però poi dopo si era un po' tranquillizzata
 PSB091	[guarda:]
-PSB091	{tossisce}
-PSB005	è che ci stava molto perché:: il mio perché {P} è la mamma di mio papà
-PSB005	i figli {P} non sono stati molto bravi
+PSB091	((tossisce))
+PSB005	è che ci stava molto perché:: il mio perché (.) è la mamma di mio papà
+PSB005	i figli (.) non sono stati molto bravi
 PSB005	quindi molte volte, anche alla domenica pagavano di più la signora per [starci le::i]
 PSB091	[per stare]
 PSB005	secondo me mia nonna non era [molto contenta]
 PSB091	[°assoluta~ sì°]
-PSB005	capito? {P} c(io)è soffri~ perché poi
+PSB005	capito? (.) c(io)è soffri~ perché poi
 PSB005	era sola no? il nonno non c'era già [più]
 PSB091	[eh]
 PSB005	quindi sicuramente:::
 PSB005	poi dopo è miglior[ato e dopo dop~] eh un pochino
 PSB091	[°sempre quando no::n°]
 PSB005	dopo è migliora::to perché poi la signora rumena era bravissima
-PSB005	ma {P} bravissima proprio:::
+PSB005	ma (.) bravissima proprio:::
 PSB091	[sì bisogna trova:re con loro:: capito]? bisogna saper fare bisogna [saper] fare
 PSB005	[eh e::mh sì]
 PSB005	[sì:]
 PSB005	però:: mh però sì l'inizio sicuramente è stata abbastanza cattiva
-PSB091	{ride}
-PSB005	{ride} sì sì
+PSB091	((ride))
+PSB005	((ride)) sì sì
 PSB091	no invece questa guarda::: l~ lei proprio guarda rimane nel mio cuore sempre ri~ (il) ricordo di lei
 PSB091	e lei questa figlia no?
 PSB091	devo fare i capelli mi devo tagliare i capelli
 PSB091	e veniva parrucchiera a casa perché lei camminava solo:: dentro casa non riusciva a fare capito::?
-PSB091	ad andare lontano perché {P} aveva {P} affaticamento del cuore
+PSB091	ad andare lontano perché (.) aveva (.) affaticamento del cuore
 PSB091	e questa sempre impegnata con figli con marito fa sempre capito?
 PSB091	certo che non non gli faceva subito quello che chiedeva a nonna
 PSB091	la se::ra (un giorno) sento che piange >vado nella camera< cosa c'è nonna?
@@ -1480,22 +1480,22 @@ PSB091	ma e:h nessuno mi dà retta ormai sono uno straccio mi m~ mi trattano cos
 PSB091	>non ha sonno no<
 PSB091	la tiro su prendo forbici e aveva i capelli:: lei mossi no?
 PSB091	ta ta ta gli ho tagliato i capelli
-PSB091	lei {P} ah magari mi metti anche sai le fiale mettono gli an[ziani no]?
+PSB091	lei (.) ah magari mi metti anche sai le fiale mettono gli an[ziani no]?
 PSB005	[sì sì] sì
 PSB091	gli ho messo la la fiala il giorno dopo lei si sveglia:
 PSB091	si la:va io mi facevo le sopracciglia da sola con le pinzette
-PSB091	lei {P} °mi fai anche qua°? gli ho tolto pel:i
+PSB091	lei (.) °mi fai anche qua°? gli ho tolto pel:i
 PSB091	gli ho messo un po' di cipria capito?
-PSB091	arriva {P} arriva la figlia veniva:: sempre >alle undici di mattina<
+PSB091	arriva (.) arriva la figlia veniva:: sempre >alle undici di mattina<
 PSB091	arriva la figlia
 PSB091	e nonna tutta bella sul poltrona con capelli fatti ho messo anche I BIGODINI E TUT[TO NO]?
-PSB005	{ride}
+PSB005	((ride))
 PSB005	[°sì sì sì°]
 PSB091	°la gua:rda°
 PSB091	e lei fa
 PSB091	PUOI ANDARE VIA
 PSB091	NON MI SERVI PIÙ MI FA TUTTO ADESSO
-PSB005	{ride}
+PSB005	((ride))
 PSB091	e poi poveretta hanno messo a casa di riposo io andavo a trovarla se::mpre una volta a settima:na dome::nica
 PSB091	e lei °>piangendo<° mi porti a casa tu::a
 PSB091	p~ [perché abbiamo detto] che dovevano fare lavori in quella ca:sa e per quello lei temporaneamente [doveva stare]
@@ -1509,14 +1509,14 @@ PSB091	[poi] mi ha guarda una volta ho litigato con di brutto °(sia~)° di brut
 PSB091	perché lui ogni tanto veniva passava capito? io perché c'era il giardi:no
 PSB091	>lui diceva< nonna io sto qua al giardino sto qua con con ragazzo >°a lei dicevo°< con ragazzo
 PSB091	e::: lei visto che lui non veniva non veniva lei fa
-PSB091	dov'è quello con faccina {P} quella bella dov'è lui? >io ho detto<
+PSB091	dov'è quello con faccina (.) quella bella dov'è lui? >io ho detto<
 PSB091	non c'è più basta abbiamo litigato
 PSB091	e lei
 PSB091	perché io ho anche pianto capito? perché sono stata male perché abbiamo litigato e lei
 PSB091	°a::h ecco perché tu hai pianto°
 PSB091	fammi il numero suo io lo voglio eh [voglio parlare]
 PSB005	[e hanno parlato]?
-PSB091	{ride} sì
+PSB091	((ride)) sì
 PSB091	è mascalzo:ne
 PSB091	fa piangere mia capito? lei è troppo buona fa piangere mia
 PSB091	non si fa così adesso gli dico quattro eh
@@ -1524,14 +1524,14 @@ PSB091	gli dico eh fai il nuemro gli dico no nonna non voglio sentire
 PSB091	fa::mmi il numero t~ ha insistito
 PSB091	chiama lui fa
 PSB091	vieni qua noi ti aspettiamo che facciamo TORTE::LLINI fa a lui
-PSB005	{ride} beh dai
+PSB005	((ride)) beh dai
 PSB091	LUI È <VENUTO lui [è venu]to c(io)è lui m::h
 PSB005	[infatti]
 PSB091	pure arrabbiato capito? ma non voleva fare il passo prima a lui capi[to? co]sì nonna ci ha fatto fare pace
 PSB005	[°mhmh°]
 PSB005	dai vedi? [che x] meno male
 PSB091	[sì]
-PSB091	{ride}
+PSB091	((ride))
 PSB005	meno male
 PSB005	no adesso i miei nonni: ho due nonni ancora sono vivi [sono a] lecce giù
 PSB091	[giù]
@@ -1539,11 +1539,11 @@ PSB005	mio nonno ha novant'anni mia nonna ne ha ottanta:::cinque quasi
 PSB005	però per adesso
 PSB091	da soli ancora?
 PSB005	sì e::::hm
-PSB005	non hanno neanche nessuno che fa le pulizie [{P}] fanno tutto loro
+PSB005	non hanno neanche nessuno che fa le pulizie [(.)] fanno tutto loro
 PSB091	[per fortuna]
 PSB005	c(io)è tutto mia nonna
 PSB091	°madonna°
-PSB005	mi sembra che per adesso: {P} perché mia nonna perde un pochino la memoria
+PSB005	mi sembra che per adesso: (.) perché mia nonna perde un pochino la memoria
 PSB091	a:[::h]
 PSB005	[e:::] però per adesso sembra che non fa niente di pericoloso diciamo c(io)è si [dimentica]
 PSB091	[se c'è il nonno] almeno [capito]?
@@ -1553,7 +1553,7 @@ PSB005	ma no:::n il gas e:::h queste cose pericolose::: per adesso no
 PSB005	e::h li ho chiamati l'altro giorno erano contenti mia nonna ha whatsapp e mi fa le videochiamate
 PSB091	a::::h
 PSB005	>sì sì<
-PSB091	{ride}
+PSB091	((ride))
 PSB005	quindi:::
 PSB005	per adesso tut~ tutto regolare poi vanno al mare in estate::
 PSB005	e:: li portano
@@ -1574,18 +1574,18 @@ PSB091	[°s::::ì] sì°
 PSB005	praticamente adesso non so [quanto]
 PSB091	[era usanza] che era [usanza così]
 PSB005	[e:::h sì] sì sì perché l'hanno comprata che mia mamma era piccola quindi:::
-PSB005	ma {P} almeno hanno due
+PSB005	ma (.) almeno hanno due
 PSB005	la casa di città è molto piccolina così
 PSB005	si arrangiano::[:]
 PSB091	°[ce]rto°
 PSB005	poi la casa al mare è più grande così stanno un po' separati
-PSB091	{ride} [ah okay sì {ride} a::h]
+PSB091	((ride)) [ah okay sì ((ride)) a::h]
 PSB005	perché ha [capito] sono molto::: una [convivenza molto]
-PSB091	cane e gatto {ride} [è normale:] è [normale:]
+PSB091	cane e gatto ((ride)) [è normale:] è [normale:]
 PSB005	sì un po' sì
 PSB005	[sì sì]
-PSB005	quindi in estate si riposano un po' {P} almeno
-PSB005	vediamo ma {P} per adesso stanno bene quindi::
+PSB005	quindi in estate si riposano un po' (.) almeno
+PSB005	vediamo ma (.) per adesso stanno bene quindi::
 PSB005	sì
 PSB091	°questo è importante
 PSB005	sì sì infatti
@@ -1593,7 +1593,7 @@ PSB005	ma adesso la mamma prossimo weekend va::: da loro
 PSB005	e io vado con mio papà in montagna così non sta da solo
 PSB005	°>sì sì sì<°
 PSB091	le sorelle no?
-PSB005	eh vi~ [son] fuori casa {P} sì sì
+PSB005	eh vi~ [son] fuori casa (.) sì sì
 PSB091	[no]
 PSB005	no mia sorella::: più più grande insomma non è più grande però l~
 PSB091	°la media diciamo°
@@ -1601,7 +1601,7 @@ PSB005	la: media fa il medico e:: questo:: [mese ha detto] che lavora tutti i we
 PSB091	[°a::h°]
 PSB005	°quindi no:n m::h°
 PSB005	io stranamente
-PSB005	c(io)è io ho un sacco di lavoro arretrato veramente dovrei lavorare nel weekend però {P} se no {P} non faccio mai niente
+PSB005	c(io)è io ho un sacco di lavoro arretrato veramente dovrei lavorare nel weekend però (.) se no (.) non faccio mai niente
 PSB091	°certo°
 PSB005	quindi::: mi ha chiesto se [lo accompagno lo accompagno poi:::]
 PSB091	[bisogna anche xxxx brava:]
@@ -1611,14 +1611,14 @@ PSB005	°sì sì°
 PSB091	°perché sai bisogna gode~ >c(io)è< tu hai ancora giovani i genitori però bisogna godersi [godersi°] capito?
 PSB005	[be:::h]
 PSB005	mio padre sessan::totto
-PSB091	°be(ne) [{P}] è ancora giovane° [dai]
+PSB091	°be(ne) [(.)] è ancora giovane° [dai]
 PSB005	[°e:h°]
 PSB005	>[sì sì]< però
 PSB091	°il mio è morto a cinquantott'anni giovane [è morto°]
 PSB005	[°e:h però°
 PSB091	°ah però:°
 PSB091	se mio padre era un lavorato~ perché noi di una famiglia c(io)è s~ i miei genitori erano poveri tutti e due
-PSB091	quindi per costruire:: {P} tutto quello che avevano:
+PSB091	quindi per costruire:: (.) tutto quello che avevano:
 PSB091	hanno lavorato sodo [capito]?
 PSB005	[mhm::h]
 PSB091	e mio padre non è mai stato allo stadio a veder una partita
@@ -1632,11 +1632,11 @@ PSB091	mia mamma si ammala di tumore capito? quindi tutto tutto tutto insieme qu
 PSB091	sono dovuta andare in italia per lavorare per mantenere
 PSB091	per pagare:: anche::: l'ospedale pagare::: le cure dei miei genitori
 PSB091	e io ho detto guarda papà guadagno un po' di soldi vengo e ti::: ti porto allo stadio e lui lui tifava #shakhtar #donetsk °che è una squadra ucraina°
-PSB091	°non è mai stato {P} io non ho fatto in tempo cioè lui è morto quando io stavo qua°
+PSB091	°non è mai stato (.) io non ho fatto in tempo cioè lui è morto quando io stavo qua°
 PSB091	quindi goditi i tuoi [genitori]
 PSB005	[sì sì] infatti no ma m~
 PSB005	io sono stata un po' di anni fuori per studiare:::
-PSB005	però::: comunque::: {P} non mi lamento perché
+PSB005	però::: comunque::: (.) non mi lamento perché
 PSB005	fi~ fi~ fino a che ero abbastanza grande >finché non mi sono sposata< l'anno scor~ due anni fa tre anni fa ho fatto vacanze con loro
 PSB005	[sai sai quei raga]zzi che appena hanno sedici diciassette anni non vanno più [ma] non è stato il nostro [caso]
 PSB091	[°(brava brava)°]
@@ -1647,7 +1647,7 @@ PSB091	[°tutti°]
 PSB091	[°bellissimo°]
 PSB005	quindi::: poi da quando mi son sposata::: m:::h
 PSB005	un po' di meno però:::: un po' mi dispiace
-PSB005	perché {P} andavamo tutti gli anni una settimana in vacanza [per natale:::] a sciare
+PSB005	perché (.) andavamo tutti gli anni una settimana in vacanza [per natale:::] a sciare
 PSB091	[°insieme°]
 PSB091	°bello [(bello)°]
 PSB005	[ma] gli ultimi due tre anni io non sono andata:::
@@ -1669,13 +1669,13 @@ PSB005	mhmh
 PSB091	>e gli ho detto< mamma sto un anno::
 PSB091	perché ha fatto mia m~ allora
 PSB091	io lavoravo in ospedale no?
-PSB091	{schiocca_la_lingua}
+PSB091	((schiocca_la_lingua))
 PSB091	però a noi non pagavano stipendi
 PSB091	trattenevano stipendi perché i tutti tutti:::
 PSB091	quelli:: che lavoravano per lo stato era veramente un casino [un casino]
 PSB005	[sì sì immagino] sì sì
-PSB091	invece mia zia {P} e:::h era commercialista
-PSB091	lavorava già {P} al [proprio e gua]dagnava un sacco di soldi no?
+PSB091	invece mia zia (.) e:::h era commercialista
+PSB091	lavorava già (.) al [proprio e gua]dagnava un sacco di soldi no?
 PSB005	[°mhmh°]
 PSB091	e quindi noi stavamo male:
 PSB091	perché mio padre eh si è ammala::to, mia ma::mma non stava be:ne
@@ -1695,21 +1695,21 @@ PSB091	quindi io da una cosa passo
 PSB091	[ah a] un'altra
 PSB005	[mhmh]
 PSB091	faccio la la triennale
-PSB091	{schioco_di_lingua}
-PSB091	prendiamo {P} la laurea sia io che mia cugina
+PSB091	((schioco_di_lingua))
+PSB091	prendiamo (.) la laurea sia io che mia cugina
 PSB091	mia zia trova lavoro subito a mia cugina e io rimango fuori
 PSB091	però
-PSB091	lì d~ {P} quando ho studiato ho conosciuto una ragazza molto più giovane di me
-PSB091	{tossisce} erano tutti giovani ero più più grande di loro
-PSB091	{schiocco_di_lingua}
+PSB091	lì d~ (.) quando ho studiato ho conosciuto una ragazza molto più giovane di me
+PSB091	((tossisce)) erano tutti giovani ero più più grande di loro
+PSB091	((schiocco_di_lingua))
 PSB091	e::::: che il suo ragazzo faceva ucraina italia
 PSB091	ucrai~ [ucraina] fi~ a::ndava:a da centregross [a centergross]
 PSB005	[m..h.]
 PSB005	[(pi~) okay]
 PSB091	co:n: camion era camionista
 PSB091	a lui hanno propsto di restare in italia:::
-PSB091	e lui {P} noi abbiam finito studi e lui l'ha portata in italia
-PSB091	e quindi le::i {P} era tanto legata a me che mi chiama::va
+PSB091	e lui (.) noi abbiam finito studi e lui l'ha portata in italia
+PSB091	e quindi le::i (.) era tanto legata a me che mi chiama::va
 PSB091	ogni due giorni ogni tre giorni mi chiamava >perché a parte che lei soffriva<
 PSB091	la solitudine lui [andava a lavo]rare e [lei rimane]va
 PSB005	[certo sì]
@@ -1724,8 +1724,8 @@ PSB005	[sì sì]
 PSB091	°e se no come [facciamo]? c(io)è° moriamo di fame? ma veramente?
 PSB005	[°mhmh°]
 PSB005	eh ma dev'essere
-PSB005	q~ e quindi era un po' prima del duemila c(io)è era tipo il [duemila {P} sì]
-PSB091	[eh io sono] arriva:ta:: {P} nel duemiladue
+PSB005	q~ e quindi era un po' prima del duemila c(io)è era tipo il [duemila (.) sì]
+PSB091	[eh io sono] arriva:ta:: (.) nel duemiladue
 PSB005	eh ma anche la mia::: #dada è venuta in quel perio[do lì] e::h
 PSB091	[sì]
 PSB005	quindi d~ è quello il brutto [periodo è stato quello]
@@ -1742,7 +1742,7 @@ PSB005	[c'è stata] l'onda[ta di mi]grazioni [sì] sì
 PSB091	[sì]
 PSB091	[sì]
 PSB005	sì sì
-PSB005	tornano i conti diciamo [{P} sì sì]
+PSB005	tornano i conti diciamo [(.) sì sì]
 PSB091	[°mamma mia mamma] mia°guarda mia<°
 PSB091	tu credi io andavo a lavora:re
 PSB091	perché alcune nostre: diciamo::
@@ -1755,10 +1755,10 @@ PSB005	[sì sì sì]
 PSB091	con acqua
 PSB091	capito a casa mia cavoli patate [ma:mma]
 PSB005	°[sì sì] mi immagino sì sì°
-PSB091	{sospira}
-PSB005	ma {P} scusami cambio argomento ma pe::r l'evento dei tatari
+PSB091	((sospira))
+PSB005	ma (.) scusami cambio argomento ma pe::r l'evento dei tatari
 PSB005	voi dovete cucinare anche?
-PSB091	{tossisce} sì
+PSB091	((tossisce)) sì
 PSB005	ecco perché se vuoi: che cos'è sabato o domenica?
 PSB091	e:::h domenica
 PSB005	eh [meglio per me]
@@ -1772,7 +1772,7 @@ PSB005	mhmh
 PSB091	tipo andiamo a fare a granarolo i dolci andiamo a [cucinare un] pochino là [capito]?
 PSB005	[okay]
 PSB005	[mhmh]
-PSB091	poi magari apparecchiare i ta:voli: [queste un po' qua {P} questo]
+PSB091	poi magari apparecchiare i ta:voli: [queste un po' qua (.) questo]
 PSB005	[sì queste cose qua sì]
 PSB005	[ed è a granarolo] l'evento?
 PSB091	[sì più quello]
@@ -1791,9 +1791,9 @@ PSB005	sì sì scusami ho fatto una parentesi m~ [che mi] veniva in mente::
 PSB091	[°sì°]
 PSB005	perché parlavamo [di cibo] e mi è venuto in [mente]
 PSB091	[xxx]
-PSB091	°[s:e] {P} magari per appare[cchiare lì così°]
-PSB005	[sì {P} sì sì] volentieri io sì sì
-PSB005	e è::: una domenica sera {P} quindi?
+PSB091	°[s:e] (.) magari per appare[cchiare lì così°]
+PSB005	[sì (.) sì sì] volentieri io sì sì
+PSB005	e è::: una domenica sera (.) quindi?
 PSB091	allora evento inizia alle cinque perché loro [faranno] questo
 PSB005	[okay]
 PSB091	fanno vedere [matrimonio] tataro [capito]? quin[di]
@@ -1801,7 +1801,7 @@ PSB005	[questo::]
 PSB005	[sì]
 PSB005	[mh]mh
 PSB091	sarà un pochino lu:ngo capito::?
-PSB091	[due o]rette {P} ci ci [sarà da da] vedere le cose {ride}
+PSB091	[due o]rette (.) ci ci [sarà da da] vedere le cose ((ride))
 PSB005	[okay]
 PSB005	[okay okay]
 PSB091	ah
@@ -1812,7 +1812,7 @@ PSB005	o magari::: vengo un po' più tardi cioè se non posso venire [proprio tu
 PSB091	[va bene va bene]
 PSB005	[sì sì]
 PSB091	[°sì°]
-PSB005	scusami [son passata] stavi raccontando una storia bella e io sono passata a [questi argomenti più] {ride}
+PSB005	scusami [son passata] stavi raccontando una storia bella e io sono passata a [questi argomenti più] ((ride))
 PSB091	[°(tranqui~)°]
 PSB091	[no no ma::]
 PSB005	[sì:]
@@ -1821,7 +1821,7 @@ PSB005	beh °mhmh° emozio[nante]
 PSB091	[lascia]re tua [figlia::]: °non è stato tanto [bello no]°
 PSB005	[sì sì]
 PSB005	[immagino]
-PSB005	però {P} mi sembra che:: avete:: lo stesso::
+PSB005	però (.) mi sembra che:: avete:: lo stesso::
 PSB091	abbiam passato anche i brutti periodi dove lei mi diceva tu mi hai lasc[iato::]
 PSB005	[aha::h]
 PSB091	tutte i: mamme venivano a scuola con le bambine:: perché io l'ho rivista dopo cinque anni
@@ -1838,7 +1838,7 @@ PSB091	il padre se n'è andato e la m~ c(io)è lei è cresciuta
 PSB091	coi miei genitori fin da piccolina [°capito]? quindi°
 PSB005	[°mhmh°]
 PSB005	sì sì sono delle cose che noi non ci possiamo immaginare °proprio°
-PSB005	speriamo che: {P} perché {P} io sto cominciando a pensare che succederà qualcosa
+PSB005	speriamo che: (.) perché (.) io sto cominciando a pensare che succederà qualcosa
 PSB005	scoppierà: il mondo
 PSB091	dici?
 PSB005	beh insomma la situazione::
@@ -1850,7 +1850,7 @@ PSB091	[no]
 PSB091	°quanche di più una cosa più più grossa? [più bru]tta?°
 PSB005	[m:h]
 PSB005	no bomba atomica spero di no
-PSB005	però [{P}] che ci sia::: una situazione di recessione grossa o:::
+PSB005	però [(.)] che ci sia::: una situazione di recessione grossa o:::
 PSB091	[no]
 PSB005	[non mi stupirei sì]
 PSB091	[tu vedi che che l'europa] va ca::uta capito?
@@ -1863,7 +1863,7 @@ PSB005	però io [ho pau::ra eh °eh lo so sì°]
 PSB091	[ma almeno da avvicina::rmi capito]?
 PSB091	cioè noi abbiam già capito chi è con i soldati non non interviene [mai] e::h
 PSB005	[mhmh]
-???	{batte_le_mani} è l'eu[ropa]
+???	((batte_le_mani)) è l'eu[ropa]
 PSB005	[sì]
 PSB091	però date più le cose capito?
 PSB005	°eh lo so°
@@ -1883,11 +1883,11 @@ PSB091	che non c'erano i::: per per per e::h
 PSB091	anche lì no? per per andare ci sono de:I: °di:: col cambio marcia° [anche tutto era] tutto
 PSB005	[mhmh]
 PSB091	son tutta rotta che i nostri fortuna che i nostri soldati sono maggior parte sono contadi::ni sono::
-PSB091	e:h mh {tossisce} operai quin[di sanno] aggiustare capito? hanno inventato
+PSB091	e:h mh ((tossisce)) operai quin[di sanno] aggiustare capito? hanno inventato
 PSB005	[sanno]
 PSB091	delle [cose a]ssurde
 PSB005	[mhmh]
-PSB091	perché il papà di di mia figlia {P} anche lui è
+PSB091	perché il papà di di mia figlia (.) anche lui è
 PSB091	quando è andato
 PSB091	lui sa saldare capito? fa[ceva il saldato~] c(io)è come passione faceva saldatore quindi lì
 PSB005	[sì]
@@ -1902,15 +1902,15 @@ PSB091	°compreso suo padre capito? perché dopo perché anche padre suo non è 
 PSB091	prima si è avvicinato quando lei aveva [quattordici anni]
 PSB005	[°mh mh mh°]
 PSB091	poi di nuovo ha ha trovato un'altra donna e l'ha mollata capito
-PSB091	poi quando gli è nato figlio:: {P} un po' si è avvicinato
+PSB091	poi quando gli è nato figlio:: (.) un po' si è avvicinato
 PSB091	poi di nuovo l'ha la~ °c(io)è neanche al matrimonio è venuto°
 PSB091	°c(io)è°
-PSB091	°per dirti {P} capito?°
-PSB091	quindi lei tutto {P} e quando è [scoppiata la guerra]
-PSB005	{schiocca_la_lingua} [complicato]
+PSB091	°per dirti (.) capito?°
+PSB091	quindi lei tutto (.) e quando è [scoppiata la guerra]
+PSB005	((schiocca_la_lingua)) [complicato]
 PSB091	lei ha saputo che lui è andato °o e:::hm°
 PSB091	°lei l'ha cercata capito? neanche lui°
-PSB091	°però {P} sai com'è°
+PSB091	°però (.) sai com'è°
 PSB091	per quanto sia gra::nde per quanto::: uhmh non lo so è sua famiglia::
 PSB091	°lei sempre pensa [(all'affetto)]°
 PSB005	[eh certo] c(io)è é è una cosa:: grossa
@@ -1922,29 +1922,29 @@ PSB091	°e tu cerchi tuo pa~ perché mi sono un po' anche innervosita [(eh)]°
 PSB005	[ma] ma è normale sì °cosa vuoi?°
 PSB091	poi dopo >gli ho de~ io gli ho detto<
 PSB091	no scusami ero nervosa per per altre cose mi son sfogata con te che tu non c'entri niente
-PSB005	eh ma è sempre così con le persone a cui vogliamo bene {P} siamo i peggiori no?
-PSB005	sì sì perché ci permettiamo di::: [{P}] sì
+PSB005	eh ma è sempre così con le persone a cui vogliamo bene (.) siamo i peggiori no?
+PSB005	sì sì perché ci permettiamo di::: [(.)] sì
 PSB091	[esatto]
 PSB091	>mi son sentita non lo so come::: m::h c(io)è<
 PSB091	scusa io ho fatto tutto per te però tu adesso alla fine::
 PSB091	lui che non non ha m ha fatto mai niente per lei niente
-PSB091	è arrivato quando lei ave:va {P} quattordici anni e gli ha portato un peluche e una bottiglia di cocacola
+PSB091	è arrivato quando lei ave:va (.) quattordici anni e gli ha portato un peluche e una bottiglia di cocacola
 PSB091	°peluche a quattordici anni°
 PSB005	°sì sì infatti°
-PSB005	eh ma::: {P} bisogna avere pazienza {P} [molta]
+PSB005	eh ma::: (.) bisogna avere pazienza (.) [molta]
 PSB091	[sì]
-PSB005	proprio::: bisogna cercarla: ovunque {ride}
+PSB005	proprio::: bisogna cercarla: ovunque ((ride))
 PSB091	°no no°
 PSB091	non lo so >mi son domandata come f~ come< mh
 PSB091	sei chilometri lui viveva in centro e noi un po' fuori °e:: viviamo°
 PSB091	come vai a letto sapendo che lì c'è tua [figlia]?
 PSB005	[sì sì] °infatti°
-PSB005	>ah io n-< {P} io sai non ho figli quindi:::
+PSB005	>ah io n-< (.) io sai non ho figli quindi:::
 PSB005	secondo me non me lo immagino davvero
-PSB005	è difficile {ride}
+PSB005	è difficile ((ride))
 PSB091	°c(io)è::°
 PSB005	°sì::°
-PSB091	>io ho de-< io gli ho detto perché una volta quando sono {P} arrivata dall'italia
+PSB091	>io ho de-< io gli ho detto perché una volta quando sono (.) arrivata dall'italia
 PSB091	l'ho chiamato e ho detto parliamo
 PSB005	mhmh
 PSB091	>e io ho detto< ma come fa::i tu lui dice eh ma lei non ha non ha bisogno di niente
@@ -1954,16 +1954,16 @@ PSB091	[però tu] che sei il padre che gli puoi dare l'a:ffetto
 PSB005	[°eh sì°]
 PSB091	[l'amo:]re quello che non gli posso dare io io vorrei ma non posso [perché son lontana °capito°]?
 PSB005	[°eh certo° come non ne ha bisogno] certo che ha bisogno vive coi nonni >°e~ eh cioè°<
-PSB091	c(io)è per fortuna che i miei genito:ri lei lei dice sempre mamma non ti offendere però {P} io è come se ne avessi due mamme
+PSB091	c(io)è per fortuna che i miei genito:ri lei lei dice sempre mamma non ti offendere però (.) io è come se ne avessi due mamme
 PSB005	[eh certo ma me~ meglio ancora più è ancora più bello °sì°]
-PSB091	[amore io ho detto assolutamente no {P} assolutamente non mi offendo]
-PSB091	°certo [{P}] anzi son [felice che]°
+PSB091	[amore io ho detto assolutamente no (.) assolutamente non mi offendo]
+PSB091	°certo [(.)] anzi son [felice che]°
 PSB005	[sì sì]
 PSB005	[sì sì]
-PSB091	quando io non c'ero {P} lei {P} l'amore l'ha avuto [capito? lei] {P} era molto amata
+PSB091	quando io non c'ero (.) lei (.) l'amore l'ha avuto [capito? lei] (.) era molto amata
 PSB005	[°mhmh sì sì°]
 PSB091	dai nonni poi prima era prima nipotina lei quindi::
-PSB091	mio padre poi per lei mamma [{P}] impazziva
+PSB091	mio padre poi per lei mamma [(.)] impazziva
 PSB005	[immagino sì]
 PSB005	ma [io me li vedevo] i miei nonni e::h cioè sono sempre impazziti per tutti anche adesso::
 PSB091	[impazziva]
@@ -1972,7 +1972,7 @@ PSB005	[sì] sì
 PSB091	così [è]
 PSB005	[mh]
 PSB005	dai va~ vado è è abbastanza tardi
-PSB091	{ride}
+PSB091	((ride))
 PSB005	sono molto contenta:: di [averti visto comunque]
 PSB091	[anch'io anch'io]
-PSB091	{sospira}
+PSB091	((sospira))

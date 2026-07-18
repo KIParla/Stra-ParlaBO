@@ -4,10 +4,10 @@ PSB078	a:h >sì sì< sono stato::: ultimamente:: qualche mese in cina. esatto
 PSB005	com~ come mai? per:
 PSB005	[per eh]
 PSB078	[mah per vacan]za per e::h sai vedere i: parenti:
-PSB078	che abbiamo {P} che ne abbiamo abbastanza in cina insomma
+PSB078	che abbiamo (.) che ne abbiamo abbastanza in cina insomma
 PSB005	mhmh
 PSB005	sei stato fermo in un posto? o [hai: girato]?
-PSB078	[e:h] boh girato un po' sono stato {P} sia a pechino: nanchino::
+PSB078	[e:h] boh girato un po' sono stato (.) sia a pechino: nanchino::
 PSB078	diverse città
 PSB078	in questi: in questi ultimi mesi
 PSB005	mhmh
@@ -16,26 +16,26 @@ PSB078	[ehm >no no no< giusto] da visitare: [dicia]mo facciamo u:n
 PSB005	[okay]
 PSB078	turista in cina [toh]
 PSB005	>[sì] sì sì< è stato un bel viaggio?
-PSB078	e::h viaggio: lungo:: {P} sì bello
-PSB078	è un {P} periodo che in cina fa molto caldo:
+PSB078	e::h viaggio: lungo:: (.) sì bello
+PSB078	è un (.) periodo che in cina fa molto caldo:
 PSB078	diciamo che mh
-PSB078	a parte:: mh {P} quel motivo lì
+PSB078	a parte:: mh (.) quel motivo lì
 PSB078	mh la cina è molto bella
 PSB005	ma eri già stato in questi posti o no?
-PSB078	e:hm {P} pechino ci sono stato:
+PSB078	e:hm (.) pechino ci sono stato:
 PSB078	<tanti> anni fa
 PSB078	quando ne avevo::
 PSB078	tredici quattordici anni
-PSB078	quindi parliamo di {P} vent'anni fa ed è
+PSB078	quindi parliamo di (.) vent'anni fa ed è
 PSB078	sì pechi~ a::h a parte pechino le altre le altre città la prima volta
 PSB005	°okay°
 PSB078	°mh°
 PSB005	e pechino l'hai trovata diversa?
-PSB078	pechino adesso è molto: molto diversa c'è {P} tanta gente nel senso tanti turisti
-PSB078	e: la città: veramente: {P} è cambiata tanto: dal punto di vista
+PSB078	pechino adesso è molto: molto diversa c'è (.) tanta gente nel senso tanti turisti
+PSB078	e: la città: veramente: (.) è cambiata tanto: dal punto di vista
 PSB078	mh
 PSB078	turistica: economica: e::hm::: moderna
-PSB078	è diventata {P} una città enorme (perché) man mano che:: ingrandisci
+PSB078	è diventata (.) una città enorme (perché) man mano che:: ingrandisci
 PSB078	popolazione ingrandisce anche la città
 PSB005	mhmh
 PSB078	espande: tanto
@@ -44,17 +44,17 @@ PSB078	[rispetto a::]
 PSB078	è cambiato tanto
 PSB005	hanno [cos]truito tantissimo
 PSB078	[mh]
-PSB078	hanno costruito tanto: veramente son state {P} case abbattute {P} sono:
+PSB078	hanno costruito tanto: veramente son state (.) case abbattute (.) sono:
 PSB078	m:h tanti cambiamenti esatto
 PSB005	mhmh
 PSB078	da tanti punti di vista
 PSB005	e ti sembra meglio adesso o:?
-PSB078	è difficile dire: {P} meglio e peggio:
+PSB078	è difficile dire: (.) meglio e peggio:
 PSB078	però diciamo che viaggio mi è piaciuto
-PSB005	e se dovessi far~ dare un consiglio a un turista: che {P} co~ [cosa consiglieresti]?
+PSB005	e se dovessi far~ dare un consiglio a un turista: che (.) co~ [cosa consiglieresti]?
 PSB078	[e::h]
 PSB078	nel senso andare a pechi~ a visitare pechino?
-PSB005	in {P} qual è la zona che ti è piaciuta di più? co~
+PSB005	in (.) qual è la zona che ti è piaciuta di più? co~
 PSB078	ah eh e:h pechino è molto grande noi in realtà abbiamo fatto giusto: le tappe
 PSB078	di un turista qualunqu[e:]
 PSB005	[mhmh]
@@ -62,14 +62,14 @@ PSB078	ci potrebbe andare quindi io
 PSB078	e::h sicuramente::
 PSB078	m:h cina imperiale,
 PSB078	quale del~
-PSB078	bisogna: prenotare: almeno una settimana prima {P} se no non trovi [posto sì]
+PSB078	bisogna: prenotare: almeno una settimana prima (.) se no non trovi [posto sì]
 PSB005	[wow]
 PSB078	sì è: un posto veramente: molto molto visitato ehm
-PSB078	bisogna: {ride} m:h >insomma<
+PSB078	bisogna: ((ride)) m:h >insomma<
 PSB078	progettare [ecco]
 PSB005	[mhmh]
 PSB078	prima di and[arci]
-PSB005	[certo {P}] sì
+PSB005	[certo (.)] sì
 PSB078	e:: poi sono: le altre: altri musei,
 PSB078	ci sono: delle piazze piazza tienanmen, ci sono:
 PSB078	e::h
@@ -81,14 +81,14 @@ PSB078	forse
 PSB078	ah faccio fatica a dire nome perché [non non me lo] [>sinceramente< non mi] ricordo [perché]
 PSB005	[no non ti preoccupare]
 PSB005	[>no no no<]
-PSB005	[figura]ti {P} [ci man]cherebbe >sì [sì<]
+PSB005	[figura]ti (.) [ci man]cherebbe >sì [sì<]
 PSB078	[poi p~]
 PSB078	[poi] tradurre in italiano è
 PSB005	[>no no no< ma ci] mancherebbe e invece di altre città ti s~
 PSB078	[non è facile]
 PSB005	le altre città che hai vi[sto]?
 PSB078	[altre città] eh son(o) stato a nanchino
-PSB078	m::h nanchino è un po' più {P} un po' più a sud
+PSB078	m::h nanchino è un po' più (.) un po' più a sud
 PSB078	e:h (doppio) caldo va più:
 PSB078	più vicino: casa mia
 PSB078	e: quindi le culture si assomigliano di più
@@ -149,9 +149,9 @@ PSB078	[con la condiziona]ta
 PSB078	in cina è:: veramente: ce l'abbiamo d'ovunque
 PSB005	mhmh >sì sì sì<
 PSB005	sì qualcuno mi aveva raccontato questa cosa che:
-PSB005	secondo me una mia collega anni fa mi >aveva< detto ma perché le case a bologna non hanno l'aria condiziona~? {ride}
+PSB005	secondo me una mia collega anni fa mi >aveva< detto ma perché le case a bologna non hanno l'aria condiziona~? ((ride))
 PSB078	sì e:hm
-PSB078	boh >secondo me< fa parte {P} della cultura
+PSB078	boh >secondo me< fa parte (.) della cultura
 PSB078	perché noi
 PSB078	forse perché la so~ il sole da noi
 PSB078	e anche umidità
@@ -161,7 +161,7 @@ PSB005	sì
 PSB078	rispetto:: in europa in ge[nerale]
 PSB005	[>sì sì sì<]
 PSB078	da noi veramente rischi di ammalarti dopo
-PSB078	cinque minuti [senza] {P} senza senza coprirti sotto sotto il sole
+PSB078	cinque minuti [senza] (.) senza senza coprirti sotto sotto il sole
 PSB005	[>sì sì sì<]
 PSB078	ed è un [proble]ma
 PSB005	[certo]
@@ -185,7 +185,7 @@ PSB078	essere bianchi:
 PSB078	insomma la pelle mh la la pelle m:h
 PSB078	la pelle più chiara
 PSB005	mhmh
-PSB078	è {P} è una forma di bellezza
+PSB078	è (.) è una forma di bellezza
 PSB005	[°sì sì sì°]
 PSB078	[diciamo]
 PSB005	sì c'è questa differenza [sì secon~]
@@ -193,7 +193,7 @@ PSB078	[esatto e]satto esa[tto]
 PSB005	[sì] l'ho già sentita [questa] cosa
 PSB078	[mh]?
 PSB005	la vostra zona qual è? della tua fami[glia]
-PSB078	[noi] siamo {P} sud est della cina siamo nella regione di zhejiang
+PSB078	[noi] siamo (.) sud est della cina siamo nella regione di zhejiang
 PSB005	mhmh
 PSB078	dove:::
 PSB078	eh noi siamo vicini mare
@@ -209,45 +209,45 @@ PSB005	[mhmh]
 PSB005	[okay okay]
 PSB078	[quindi non]
 PSB078	non ci sono
-PSB078	tanti {P} turisti
+PSB078	tanti (.) turisti
 PSB078	che vanno per
 PSB078	le spiagge cinesi [perché]
 PSB005	[mhmh]
 PSB078	alla fine c'è soltanto una
 PSB005	okay okay
-PSB005	e la {P} vostra zona ci sono {P} montagne, [fiumi:]?
+PSB005	e la (.) vostra zona ci sono (.) montagne, [fiumi:]?
 PSB078	[sì] sì montagne, fiumi: ovunque
 PSB078	fiumi piccoli, laghi: davvero in cina: ne abbiamo: tanti
 PSB078	anche in anche a casa abbiamo: diverse montagne proprio
-PSB078	circum~ {P} s~ siamo circon[dati dalle] montagne
+PSB078	circum~ (.) s~ siamo circon[dati dalle] montagne
 PSB005	[bello]
 PSB078	è bello [è bello è bello è bello be]llo infatti
 PSB005	[bellissimo sì]
-PSB078	non me lo ricordavo {P} così:
+PSB078	non me lo ricordavo (.) così:
 PSB078	ora che siamo più: ora che sono più maturo più grande più vecchio
 PSB078	riesco
 PSB078	percepire e guardare un po' di più
 PSB078	e:: godermi: di natura ecco
-PSB005	bellissimo a me {P} mi piacerebbe andare anche a [me] {ride}
-PSB078	[sì] sì ma: ma sai {P} sei giovane hai: {P} tutto il [tempo]
+PSB005	bellissimo a me (.) mi piacerebbe andare anche a [me] ((ride))
+PSB078	[sì] sì ma: ma sai (.) sei giovane hai: (.) tutto il [tempo]
 PSB005	[sì]
 PSB005	>sì sì sì< infatti
 PSB005	chissà un giorno forse farò un viaggio [in cina mi pia]cerebbe sì
 PSB078	[sicuramente]
 PSB078	poi cina
-PSB078	tanti {P} anche tante altre città:
+PSB078	tanti (.) anche tante altre città:
 PSB078	dell'asia voglio dire
 PSB005	mhmh eh
 PSB078	soprattutto::
-PSB078	<sud est> dell'asia {P} sud est dell'asia non
+PSB078	<sud est> dell'asia (.) sud est dell'asia non
 PSB005	eh sarà bello
-PSB005	io [non sono] proprio mai andata {P} verso est diciamo
+PSB005	io [non sono] proprio mai andata (.) verso est diciamo
 PSB078	[mhmh]
 PSB078	sì
 PSB005	eh mi dicevi il cibo del~ eh del~ la cucina della tua zona,
 PSB078	sì in [cina:] e::h
 PSB005	[com'è]?
-PSB078	sì dicevo: da nord a sud sì {P} l'ovest est sono:
+PSB078	sì dicevo: da nord a sud sì (.) l'ovest est sono:
 PSB078	cambia tanto [la varietà]
 PSB005	[mhmh]
 PSB078	però in genere
@@ -261,8 +261,8 @@ PSB078	centro
 PSB078	dal centro:
 PSB078	nord
 PSB078	in su:
-PSB078	sono {P} molto abituati a mangiare piccante tanto tanto peperoncini e:
-PSB078	si dice {P} la leggenda {ride}
+PSB078	sono (.) molto abituati a mangiare piccante tanto tanto peperoncini e:
+PSB078	si dice (.) la leggenda ((ride))
 PSB078	spiega che: se vai a mangiare in ristorante: a nord della cina
 PSB078	il piatto è piccante anche se gli dici guarda
 PSB078	sono allergi[co]
@@ -300,7 +300,7 @@ PSB005	[sì sì]
 PSB078	[che son] un po' diverse quell~ da quelle francesi da quelle italiane
 PSB005	okay un tipo di luma~ eh io non le ho mai mangiate
 PSB078	>no no no< ma tanto voglio dire non mh
-PSB005	di [terra]? {P} o di mare?
+PSB005	di [terra]? (.) o di mare?
 PSB078	[per noi di]
 PSB078	di <mare>
 PSB005	oka[y]
@@ -312,12 +312,12 @@ PSB005	[°giusto giusto°]
 PSB078	ma
 PSB078	fiumi e:: mare
 PSB078	sono:
-PSB078	due gusti diversi {P} [uno è salato] uno è dolc[e quindi:]
+PSB078	due gusti diversi (.) [uno è salato] uno è dolc[e quindi:]
 PSB005	[certo]
 PSB005	[no no certo]
 PSB005	sì sì
 PSB078	spesso: si dice:
-PSB078	c(io)è io {P} dico che sono vicino al mare
+PSB078	c(io)è io (.) dico che sono vicino al mare
 PSB078	mangiamo di più perché ci sono: anche altre provenien[ze]
 PSB005	[mh] mh
 PSB078	ma
@@ -332,14 +332,14 @@ PSB078	c'ha::
 PSB078	adesso >sinceramente< non mi ricordo ma tanti c'ha di tanti dia~ [dialetti] diversi
 PSB005	[>sì sì sì<]
 PSB078	e: noi parliamo un dialetto:: $bastanza difficile
-PSB078	penso che tant~ tut~ tanti {P} tutti i dialetti son(o) son(o) difficili
-PSB078	però {P} maggior parte
-PSB078	cambiano magari un po' gli accenti {P} un po':
+PSB078	penso che tant~ tut~ tanti (.) tutti i dialetti son(o) son(o) difficili
+PSB078	però (.) maggior parte
+PSB078	cambiano magari un po' gli accenti (.) un po':
 PSB078	la nostra invece è un'altra lingua
 PSB005	ri~ rispetto al ci[nese dici]?
 PSB078	[rispetto il cine~] [rispet]to mandarino [diciamo]
 PSB005	[sì sì]
-PSB005	[mhmh] {P} mhmh
+PSB005	[mhmh] (.) mhmh
 PSB078	e::h riusciamo a leggere, risuciamo a parlare, riusciamo
 PSB078	a: comunicar(si) tra noi
 PSB078	però è una: è un dialetto molto difficile anche per
@@ -353,7 +353,7 @@ PSB005	con gli altri [cine]si parlate mandarino
 PSB078	[città]
 PSB078	parliamo [in mandari]no esatto
 PSB005	[sì]
-PSB005	eh sì {P} tu con la mamma?
+PSB005	eh sì (.) tu con la mamma?
 PSB005	[cosa parlate]?
 PSB078	[no noi:] io sono: uno che piace parlare molto: dialetto
 PSB005	okay
@@ -374,22 +374,22 @@ PSB078	però diciamo che posso parlare
 PSB078	solo dia[letto:]::
 PSB005	[mhmh]
 PSB078	senza usare: ma[gari (probabilmente) la mamma:]
-PSB005	[okay {P} sì sì]
+PSB005	[okay (.) sì sì]
 PSB005	sì sì
 PSB078	anche lei
 PSB005	con tua sorella?
-PSB078	ah {P} mia sorella
+PSB078	ah (.) mia sorella
 PSB078	parliamo ecco con lei parliamo: m:h mischiamo
 PSB078	parliamo m~ sia mandarino che:
 PSB078	che che dialet[to]
 PSB005	[oka]y okay
 PSB005	eh molto interes[sante]
-PSB078	[mh] {P} oi
+PSB078	[mh] (.) oi
 PSB005	e:hm invece
 PSB005	tu vivi qui
 PSB005	da quando sei piccolo? sei nato [qui]?
 PSB078	[a:h] io vivo qui da quando avevo:
-PSB078	tredici: dodici tredici anni {P} [s]ì
+PSB078	tredici: dodici tredici anni (.) [s]ì
 PSB005	[okay]
 PSB005	okay
 PSB005	quindi ti vi siete trasferiti che tu eri abbastanza grande
@@ -406,14 +406,14 @@ PSB078	e: e ho smesso diciamo e poi ho [comincia]to a lavora[re:]
 PSB005	[mhmh]
 PSB005	[mhmh]
 PSB078	full time al bar
-PSB005	avete {P} eh vissuto sempre qui?
+PSB005	avete (.) eh vissuto sempre qui?
 PSB005	[sempre a bologna]?
 PSB078	[quasi sempre a bolo]gna esatto ho vissuto un paio d'anni a roma
 PSB005	o[kay]
-PSB078	[da] dallo zio {P} [dove aveva un] negozio e:
+PSB078	[da] dallo zio (.) [dove aveva un] negozio e:
 PSB005	[okay okay]
 PSB078	>insomma< ho vissuto un paio d'anni: a roma quando::
-PSB078	quando avevo, {P} sedici diciassette anni
+PSB078	quando avevo, (.) sedici diciassette anni
 PSB078	eh forse tre anni perché sono tornato dopo
 PSB078	avere compiuti venti ventidu~ ven~ ventuno ventidue
 PSB005	okay
@@ -433,10 +433,10 @@ PSB078	ovviamente
 PSB078	per turisti: è la città bellissima cioè
 PSB078	voglio dire anche per me
 PSB078	roma è una città bellissima però viverci:
-PSB078	m:h se~ in mezzo {P} sempre in mezzo traffico: fa(i) fatica a trovare parcheggi[o:]
+PSB078	m:h se~ in mezzo (.) sempre in mezzo traffico: fa(i) fatica a trovare parcheggi[o:]
 PSB005	[ah sì]
 PSB078	lavor(o) a casa:
-PSB078	insomma {P} se non pre~ {P} finché non prendi metro io
+PSB078	insomma (.) se non pre~ (.) finché non prendi metro io
 PSB005	sì [sì]
 PSB078	[penso che] m:h
 PSB078	e::h
@@ -452,14 +452,14 @@ PSB078	è un via di mezzo
 PSB078	tra città grande e un paesino pic[colo]
 PSB005	[mh]mh
 PSB005	>sì sì sì<
-PSB005	>sì sì< infatti anch'io {P} [sono abbastanza d'accor~]
+PSB005	>sì sì< infatti anch'io (.) [sono abbastanza d'accor~]
 PSB078	[almeno dal mio punto di vista]
 PSB005	>no no< ma anch'io sono abbastanza d'accordo
 PSB005	c(io)è io ho vissuto anche in una città un po' più pi[ccola] e
 PSB078	[m:h]
-PSB005	stavo abbastanza bene però qui {P} c'è più vita
-PSB078	sì {P} [esatto c'è un po' più vi]ta e:
-PSB005	[ecco {P} sì]
+PSB005	stavo abbastanza bene però qui (.) c'è più vita
+PSB078	sì (.) [esatto c'è un po' più vi]ta e:
+PSB005	[ecco (.) sì]
 PSB078	o forse perché comunque e::h
 PSB078	crescendo maturando::
 PSB078	cominciato appr~ apprezzare di più
@@ -473,7 +473,7 @@ PSB005	[poi gli gli spo]stamenti
 PSB078	[mi piace]
 PSB005	sicuramente prendono un sacco di tempo in[vece q]ui tutto sommato
 PSB078	[mh]
-PSB005	[in fre]tta raggiungi tanti {P} tante [parti no]?
+PSB005	[in fre]tta raggiungi tanti (.) tante [parti no]?
 PSB078	[>sì sì sì<]
 PSB078	[esatto esat]to esatto e tutto quello che hai bisogno:
 PSB005	mhmh
@@ -492,7 +492,7 @@ PSB005	okay
 PSB005	c'è qualcosa che miglioreresti:?
 PSB078	e::h
 PSB005	se potessi fare una magia
-PSB078	ah {ride} no no guarda io lascerei [così] anche per[ché]
+PSB078	ah ((ride)) no no guarda io lascerei [così] anche per[ché]
 PSB005	[okay]
 PSB005	[okay]
 PSB078	non sempre: le cose
@@ -503,8 +503,8 @@ PSB005	infatti infatti
 PSB005	e e invece lav~ eh lavorate
 PSB005	qui
 PSB078	mh
-PSB005	però non {P} preferisci
-PSB005	vivere: in un quartiere {P} periferico piuttosto che in centro
+PSB005	però non (.) preferisci
+PSB005	vivere: in un quartiere (.) periferico piuttosto che in centro
 PSB005	oppure vivestri anche qui: [vicino]?
 PSB078	[ora:] come ora sì
 PSB078	ora come ora:: <sì>
@@ -515,7 +515,7 @@ PSB005	okay
 PSB078	(sinceramente)
 PSB005	sì questa zona è abbastanza movimentata devo dire
 PSB078	e:h
-PSB078	noi siamo qui da {P} già già da tanti anni: e sinceramente prima era ancora
+PSB078	noi siamo qui da (.) già già da tanti anni: e sinceramente prima era ancora
 PSB078	più
 PSB078	frequentata
 PSB005	mh
@@ -539,14 +539,14 @@ PSB078	molto prima di covid
 PSB078	parlo gl~ gli anni: duemila:
 PSB078	tredici quattordici
 PSB078	lì la crisi economica [non non la crisi:]
-PSB005	[mhmh {P} okay okay]
+PSB005	[mhmh (.) okay okay]
 PSB005	>sì sì sì<
-PSB005	quindi [c'è stato un] calo {P} [okay]
+PSB005	quindi [c'è stato un] calo (.) [okay]
 PSB078	[sì molti]
-PSB078	[sì mol]ti dei clienti abituali hanno dovuto cambiare {P} zona perché gli affitti:
+PSB078	[sì mol]ti dei clienti abituali hanno dovuto cambiare (.) zona perché gli affitti:
 PSB078	diventavano alti no~ non riuscivano a sopportare
 PSB005	mhmh
-PSB078	tutta la spesa vita viaggio: hanno: {P} preferito: un commercialista che può: lavorare a casa
+PSB078	tutta la spesa vita viaggio: hanno: (.) preferito: un commercialista che può: lavorare a casa
 PSB078	avere ufficio fuori città dove pagano metà affit[to]
 PSB005	[mh]mh
 PSB078	hanno voluto cambiare hanno dovuto cambiare per e:h
@@ -567,12 +567,12 @@ PSB005	[>sì sì sì<]
 PSB078	[son(o) saliti tan]ti non solo per covid ma penso che
 PSB078	la guerra c'entri:
 PSB005	m:h
-PSB078	c'entri {P} c'entri abbastanza
+PSB078	c'entri (.) c'entri abbastanza
 PSB005	mh[mh]
 PSB078	[m]:h
 PSB005	sì è giusto [sì]
 PSB078	[mh]
-PSB005	sì non ci penso ma {P} ef[fettivamente]
+PSB005	sì non ci penso ma (.) ef[fettivamente]
 PSB078	[>no no no no<] è così è così infatti
 PSB005	certo
 PSB005	okay e:hm
@@ -581,7 +581,7 @@ PSB078	e::hm sì e::h
 PSB005	hai [qualche hobby]?
 PSB078	[xx prima lavoravo] prima lavoravo al più:
 PSB078	hobby: ci sono ma ultimamente:
-PSB078	pratico sempre di [meno] {P} prima:
+PSB078	pratico sempre di [meno] (.) prima:
 PSB005	[mh]
 PSB078	sai quand~ quando eri più giovane anche quando avevi tempo quando avevi più energia: andavi in giro: giocare basket con gli amici andavi:
 PSB078	andavi lì al~ nel locale a bere:
@@ -594,14 +594,14 @@ PSB078	ora un po' di meno >perché comunque< sai::
 PSB078	hai meno tempo: perché lavori:
 PSB078	gli amici hanno meno tem[po perché an]che hanno famiglia loro:
 PSB005	[mhmh]
-PSB078	tutti siamo poi costretti a: {P} uscire di meno
+PSB078	tutti siamo poi costretti a: (.) uscire di meno
 PSB005	mhmh
 PSB005	e giocavi a basket?
 PSB078	giocavo::: ma una cosa:: tra amici quindi nes~ nie~ [niente di impe]gnativa
 PSB005	[okay okay]
 PSB078	sì comunque è un hobby che pia~ [a me piace al campe]tto [esatto esatto]
 PSB005	[al campetto diciamo]
-PSB005	[sì {P} sì]
+PSB005	[sì (.) sì]
 PSB078	e:[:h]
 PSB005	[dov'è il campe]tto?
 PSB005	c(io)è [che campetti:]?
@@ -609,7 +609,7 @@ PSB078	[giocavamo::] gli anni fa spesso nel~ in piazza unità
 PSB005	okay
 PSB005	>sì sì sì<
 PSB005	ho [presente sì]
-PSB078	[diciamo è an]che la mi~ è anche il m~ mio quartiere quindi voglio dire {P} [la mia zo]na
+PSB078	[diciamo è an]che la mi~ è anche il m~ mio quartiere quindi voglio dire (.) [la mia zo]na
 PSB005	[certo]
 PSB005	e adesso non hai più tanto tempo
 PSB078	adesso: un po' sì un po' tra~ vogli~ tr~ meno voglia, tempo:
@@ -619,7 +619,7 @@ PSB005	come sport diciamo in tivù una [squadra, così]?
 PSB078	[m::h]
 PSB078	adesso di meno
 PSB078	prima:
-PSB078	sai {P} tutti:
+PSB078	sai (.) tutti:
 PSB078	tutti appassionati:
 PSB078	guardiamo en bi ei, guardiamo: ogni tanto lega italiana [ma più]
 PSB005	[mhmh]
@@ -637,12 +637,12 @@ PSB078	[sì:] l'italia infatti:
 PSB078	m:h è meno pubblicizzata: diciamo la lega interne
 PSB078	eh le leghe interne
 PSB078	siamo::
-PSB078	più {P} bombardati dalle notizie di calcio
+PSB078	più (.) bombardati dalle notizie di calcio
 PSB005	[mhmh mh vero]
-PSB078	[e basta {P} diciamo] {P} qui è molto::
+PSB078	[e basta (.) diciamo] (.) qui è molto::
 PSB005	beh a bologna c'è abbastanza il basket
 PSB078	beh [bologna:] infatti: era basket city
-PSB005	[sì {P} >sì sì<]
+PSB005	[sì (.) >sì sì<]
 PSB005	mh[mh]
 PSB078	[però] in questi ultimi anni:
 PSB078	ne parla molto meno
@@ -657,7 +657,7 @@ PSB005	eh trentadue
 PSB078	ah beh dai
 PSB005	[quindi f~]
 PSB078	[sono:] tre quattro anni più più grande
-PSB005	okay {P} non so se tu
+PSB005	okay (.) non so se tu
 PSB005	c'eri già nel
 PSB005	<duemila:uno>?
 PSB005	duemila, [duemilauno, duemiladue]?
@@ -668,9 +668,9 @@ PSB005	[un anno ha vinto tutto]
 PSB078	bologna tra virtus e [fortitudo:]
 PSB005	[mhmh]
 PSB005	quindi io ho avuto un anno di passione:
-PSB005	[quando avevo dieci anni circa {P} sì]
-PSB078	[assolutamente {P} assolutamente]
-PSB078	[infatti sì penso] che se {P} per una ragazzo ragazza
+PSB005	[quando avevo dieci anni circa (.) sì]
+PSB078	[assolutamente (.) assolutamente]
+PSB078	[infatti sì penso] che se (.) per una ragazzo ragazza
 PSB005	[>sì sì sì<]
 PSB078	che:: abituata andare::
 PSB078	vedere partite dal vivo:
@@ -683,14 +683,14 @@ PSB005	e:h si vedono bene i giocatori da vicino invece gli st~ gli stadi del cal
 PSB078	[enormi: sì]
 PSB005	que[sta cosa mi pia]ceva molto sì
 PSB078	[si fa fatica]
-PSB078	esatto {P} forse: se uno è fortunato ha {P} pure possibilità di:
+PSB078	esatto (.) forse: se uno è fortunato ha (.) pure possibilità di:
 PSB078	di comunica~ di parlare anche con
 PSB078	con i giocatori veri
 PSB005	mhmh
 PSB078	diciamo
-PSB005	>sì sì sì< {P} >sì sì<
+PSB005	>sì sì sì< (.) >sì sì<
 PSB078	[xxxx]
-PSB005	[e {P} non s]ei mai andato al campo::
+PSB005	[e (.) non s]ei mai andato al campo::
 PSB005	ai giardini margherita al playground?
 PSB078	e::h ci sono stato ma m:h
 PSB078	ricordo: vago:
@@ -706,7 +706,7 @@ PSB005	[mhmh] mh
 PSB078	con m::h
 PSB078	tan~ ecco è: stato una cosa: molto bella:
 PSB078	che adesso non la fanno più poi oh
-PSB078	que[ste organizzazioni] questi {P} queste partite tra
+PSB078	que[ste organizzazioni] questi (.) queste partite tra
 PSB005	[°peccato°]
 PSB078	tra tra ragazzi tra:
 PSB005	bellissimo
@@ -721,7 +721,7 @@ PSB078	e:[:h]
 PSB005	[o] se no fuori centro?
 PSB078	fuori centro::
 PSB078	per noi:: una volta andavamo:
-PSB078	a giocare {P} bowling giocavamo: un po':
+PSB078	a giocare (.) bowling giocavamo: un po':
 PSB078	a bilia[rdo:]
 PSB005	[a san laz]zaro?
 PSB078	a san lazzaro una volta c'era anche: mh a:h m:h
@@ -733,13 +733,13 @@ PSB078	e::h
 PSB005	a casalecchio non so e:h
 PSB005	[quello di san lazzaro] c'è il [bowling sì]
 PSB078	[sì a casalecchio]
-PSB078	[sì: sì] per lazzaro mi sa che l'hanno pure cal~ {P} rinnovato:, cambiato:
+PSB078	[sì: sì] per lazzaro mi sa che l'hanno pure cal~ (.) rinnovato:, cambiato:
 PSB078	hanno fatto
 PSB078	[xxxxx]
-PSB005	[sì è molto frequenta]to >sì [sì< {P} >sì sì<]
+PSB005	[sì è molto frequenta]to >sì [sì< (.) >sì sì<]
 PSB078	[sì direi di sì]
 PSB005	ah okay [okay]
-PSB078	[poi spes]so ci sono ragazzi {P} molto giovani giovanissimi:
+PSB078	[poi spes]so ci sono ragazzi (.) molto giovani giovanissimi:
 PSB078	quindici sedici anni
 PSB005	mhmh
 PSB078	e::h
@@ -754,18 +754,18 @@ PSB078	mo~ per mol~
 PSB078	ragazzi molto [giovani]
 PSB005	[mhmh]
 PSB078	magari papà mamma::
-PSB078	eh che ha un~ che ha un~ che ha un'automobile può {P} può lasciare i propri figli
+PSB078	eh che ha un~ che ha un~ che ha un'automobile può (.) può lasciare i propri figli
 PSB078	di quell'età teenager
 PSB005	mhmh
 PSB005	sì sì [sì]
-PSB078	[tutta] la sera poi puoi andare {P} [a pre]nderli quando
+PSB078	[tutta] la sera poi puoi andare (.) [a pre]nderli quando
 PSB005	[mhmh]
 PSB005	mhmh
 PSB078	fine serata ecco
 PSB005	ah io non ci vado da un secolo però ho degli amici che vanno a giocare a flipper
-PSB078	sì {ride} #so[ccia fli]pper
+PSB078	sì ((ride)) #so[ccia fli]pper
 PSB005	[sì]
-PSB005	{ride} sì
+PSB005	((ride)) sì
 PSB005	p[ensa]
 PSB078	[ah scu]sami non sapevo se se #soccia si pot~ dovesse dire:
 PSB078	non è una bella parola
@@ -775,12 +775,12 @@ PSB078	una parolaccia in bolo~ [mh ah okay]
 PSB005	[ah no no]
 PSB005	figurati
 PSB078	bene bene
-PSB005	no non è molto {P} non è molto grave >no [no no<]
+PSB005	no non è molto (.) non è molto grave >no [no no<]
 PSB078	[okay] infatti
 PSB005	eh m:h
 PSB005	ma il tu~ tu hai un gruppo di ami~ c(io)è ne~ negli anni insomma che sei stato qua [hai] avuto un gruppo di amici:
 PSB078	[sì]
-PSB005	soprattutto di {P} ragazzi cinesi, ragazzi italiani, [misto: {P} di altri paesi]
+PSB005	soprattutto di (.) ragazzi cinesi, ragazzi italiani, [misto: (.) di altri paesi]
 PSB078	[e::h all'ini]zio avevo solo: gli amici: italiani
 PSB078	poi crescendo ho cominciato
 PSB078	frequentare anche degli altri ragazzi:
@@ -797,7 +797,7 @@ PSB005	[mh]
 PSB005	[okay ah okay]
 PSB078	[parliamo di:] ormai vent'anni fa
 PSB005	c(io)è [a bologna c'erano meno stra]nie~ [okay]
-PSB078	[quando ho comincia~ {P} a bologna]
+PSB078	[quando ho comincia~ (.) a bologna]
 PSB078	[quando] ho comin[ciato:] diciamo andare a scuola
 PSB005	[mhmh]
 PSB078	soprattutto le medie
@@ -815,10 +815,10 @@ PSB005	mhmh
 PSB005	e adesso sono aumentati?
 PSB078	mh sì adess[o::] sì numericamente sì
 PSB005	[sì]
-PSB005	mhmh {P} mhmh
-PSB005	quindi hai conosciuto più {P} persone anche di [al~ sì]
+PSB005	mhmh (.) mhmh
+PSB005	quindi hai conosciuto più (.) persone anche di [al~ sì]
 PSB078	[hai conosciu~ sì]
-PSB078	forse anche da quel punto di vista lì conosciuto insomma {P} ragazzi
+PSB078	forse anche da quel punto di vista lì conosciuto insomma (.) ragazzi
 PSB078	che frequentavo
 PSB078	dopo:
 PSB078	comincia~ hanno cominciato ad uscire anche loro e quindi da lì magari sono usciti [o al] campetto o:
@@ -836,8 +836,8 @@ PSB005	qual è stata la differenza più: grande che hai no[tato]?
 PSB078	[beh sicura]mente:: lingua:
 PSB078	poi cibo
 PSB078	e::h
-PSB078	c(io)è {P} per me:
-PSB078	cambiamento: {P} era
+PSB078	c(io)è (.) per me:
+PSB078	cambiamento: (.) era
 PSB078	grave era forte
 PSB078	ma sopportabile nel senso:
 PSB078	quando sei costretto a:: vivere questa vita
@@ -860,7 +860,7 @@ PSB078	o::
 PSB078	o:: dei educatori che venivano da fuori [e: da fuori]
 PSB005	[beh ci sarà stato un] po' di tutto [forse]
 PSB078	[può essere]
-PSB005	sì {P} penso
+PSB005	sì (.) penso
 PSB078	che mi davano >addirittura< lezione uno a [uno::]
 PSB005	[mhmh]
 PSB078	due uno:
@@ -871,21 +871,21 @@ PSB005	sì ci sarà stato un po' di tutto forse ma[ga]ri un anno lo faceva una p
 PSB078	[sì]
 PSB078	[sì può essere]
 PSB005	sì sì
-PSB005	no perché io non {P} e:h c(io)è
+PSB005	no perché io non (.) e:h c(io)è
 PSB005	parli
-PSB005	<perfettissimissimamente> italiano {ride} [eh sì]
-PSB078	{ride} [grazie >ma perché< ci vivo:]
+PSB005	<perfettissimissimamente> italiano ((ride)) [eh sì]
+PSB078	((ride)) [grazie >ma perché< ci vivo:]
 PSB005	eh sì
 PSB078	vivo qui da tanti anni
 PSB005	sì sì sì
-PSB005	ma hai anche {P} c(io)è magari: guardi anche film molto in italiano [{P} soprattutto quando eri]
+PSB005	ma hai anche (.) c(io)è magari: guardi anche film molto in italiano [(.) soprattutto quando eri]
 PSB078	[e::h]
 PSB005	[più piccolo]
-PSB078	[guarda] {P} sì guardavo: $bastanza film in italiano:: cartone animat[o::]
+PSB078	[guarda] (.) sì guardavo: $bastanza film in italiano:: cartone animat[o::]
 PSB005	[mhmh]
 PSB078	manga in italiano
 PSB078	e::h sì poi
-PSB078	a studiare {P} sei costretto [parli: quando par]li italiano profe[ssori] con m:h con compagni di classe
+PSB078	a studiare (.) sei costretto [parli: quando par]li italiano profe[ssori] con m:h con compagni di classe
 PSB005	[sì sì sì certo]
 PSB005	[mhmh]
 PSB078	e:::h quindi sì
@@ -902,16 +902,16 @@ PSB005	[mhmh]
 PSB078	poi: da secon~ secondo anno son stato: a roma terzo a r[oma]
 PSB005	[mhmh]
 PSB078	son tornato: a bologna:
-PSB078	ho cominciato: mi sono inserito nella scuola: {P} professionale
+PSB078	ho cominciato: mi sono inserito nella scuola: (.) professionale
 PSB078	diciamo non nella scuola::
 PSB078	quello::
 PSB078	eh
 PSB078	c(io)è era non era:
-PSB078	proprio una scuola molto considerata ecco era un [professionale] {P} e si chiama
+PSB078	proprio una scuola molto considerata ecco era un [professionale] (.) e si chiama
 PSB005	[okay okay]
 PSB005	ah [sì no] non è [molto considerata no no]
 PSB078	[eh]
-PSB078	[non ha tanto {P} esa]tto [esatto]
+PSB078	[non ha tanto (.) esa]tto [esatto]
 PSB005	[>no no no<]
 PSB005	ho pres[ente sì]
 PSB078	[diciamo]
@@ -937,17 +937,17 @@ PSB005	[okay]
 PSB078	[°sì quello°] ho cambiato tan~ tante scuole ho cambiato tanti[:]
 PSB005	[sì]
 PSB005	eh un po' sì
-PSB078	tanti {ride} sì
-PSB005	{ride} sì
-PSB005	e e quando {P} vai in cina adesso che sei appena stato?
+PSB078	tanti ((ride)) sì
+PSB005	((ride)) sì
+PSB005	e e quando (.) vai in cina adesso che sei appena stato?
 PSB005	la lingua che parlano le persone la ri~
 PSB005	c(io)è ti [ritrovi]?
 PSB078	[sì certo] cinese [è (vicino) la lin~]
-PSB005	[non {P} nessuna:]
+PSB005	[non (.) nessuna:]
 PSB078	cinese è la mia ma~ madre lingua
 PSB005	sì okay
-PSB078	quindi non ho {P} non ho problemi con il cinese
-PSB078	anzi {P} io penso che: un ragazzo:
+PSB078	quindi non ho (.) non ho problemi con il cinese
+PSB078	anzi (.) io penso che: un ragazzo:
 PSB078	mh cinese nato cresciuto
 PSB078	>anche se fosse< nato e c~ nato e cresciuto in italia
 PSB078	non m:h
@@ -957,7 +957,7 @@ PSB078	con poco o niente di
 PSB078	impegno riesce comun[que:]
 PSB005	[>sì sì sì<]
 PSB078	prendersi o riprendersi parlare cinese manda~ almeno mandarino
-PSB005	sì sì ma {P} mi chiedevo perché
+PSB005	sì sì ma (.) mi chiedevo perché
 PSB005	le lingue cambiano negli anni allora magari se uno manca per un po' di anni quando [torna ci sono pa]role [nuove],
 PSB078	[certo certo]
 PSB078	[sì sì] >sì sì sì sì sì< ci sono gli slang che [m:h] che magari m:h non c'era(no) una volta
@@ -1014,10 +1014,10 @@ PSB078	da dove proveniamo
 PSB005	mhmh
 PSB005	[ah °no certo capisco sì°]
 PSB078	[quindi io sono molto:]
-PSB005	quindi pensi che se adesso magari {P} ma[gari non è il tuo caso]
+PSB005	quindi pensi che se adesso magari (.) ma[gari non è il tuo caso]
 PSB078	[penso che sia eh importante]
 PSB005	però
-PSB005	c(io)è è giusto che le famiglie che {P} dei
+PSB005	c(io)è è giusto che le famiglie che (.) dei
 PSB078	assoluta[mente sì]
 PSB005	[quei ragazzi] che abitano qua insegnano anche [cinese]
 PSB078	[assolutame]nte sì
@@ -1029,8 +1029,8 @@ PSB078	per me: è molto importante:
 PSB078	non solo per nostra cultura
 PSB078	proprio: riesce
 PSB078	riesce aprire:
-PSB078	molti orizzonti {P} [riesci a capire:]
-PSB005	[mh {P} eh sì]
+PSB078	molti orizzonti (.) [riesci a capire:]
+PSB005	[mh (.) eh sì]
 PSB078	tante altre [cose che m~ una volta magari] lo:
 PSB005	[°eh sì sicuramente°]
 PSB078	trascuravi ecco
@@ -1062,17 +1062,17 @@ PSB078	cioè da lì capisci
 PSB078	tra l'altro adesso u~
 PSB078	l'ideogram~
 PSB078	mi che scriviamo ora
-PSB078	è quella aggiornata {P} semplificata
+PSB078	è quella aggiornata (.) semplificata
 PSB078	che è già
 PSB078	più facile da memorizzare da scrivere
 PSB078	visi~ rispetto:: vecchi ideogrammi
 PSB078	che sono ancora più difficili da memorizzare insomma più:
 PSB078	m:::h
-PSB078	più {P} più (cose) da scrivere
+PSB078	più (.) più (cose) da scrivere
 PSB005	>sì sì sì sì<
 PSB078	e::h per farti un esempio se volessi scrivere:: bambù
-PSB005	vuo~ [vuoi sc~ {P} vuoi una penna]?
-PSB078	[abbiamo {P} sì ti fac]cio ti faccio ti faccio vedere come::
+PSB005	vuo~ [vuoi sc~ (.) vuoi una penna]?
+PSB078	[abbiamo (.) sì ti fac]cio ti faccio ti faccio vedere come::
 PSB078	proprio
 PSB078	con [la scritta forse riuscia]mo a capirci meglio
 PSB005	[sì magari]
@@ -1081,13 +1081,13 @@ PSB005	scrivi scrivi
 PSB078	è un posto dove posso scrivere?
 PSB005	sì sì sì scrivi
 PSB078	se volessi scrivere persona
-PSB078	ecco questa è la {P} questa ideogramma per persona
+PSB078	ecco questa è la (.) questa ideogramma per persona
 PSB078	testa corpo con due: con due gambe
 PSB005	gambe sì
 PSB078	è uno dei è uno dei ideogrammi più più semplici da scrivere
 PSB078	e:::h la nostra cultura viene da lì
 PSB078	viene dalla: viene dalla
-PSB078	dalla persona {P} dal e:h dagli animali
+PSB078	dalla persona (.) dal e:h dagli animali
 PSB078	se volessi scrivere
 PSB078	e::hm capra
 PSB078	metto
@@ -1096,7 +1096,7 @@ PSB078	e questa è la capra
 PSB005	mhmh
 PSB005	[bellissimo]
 PSB078	[insomma]
-PSB078	forse {P} spiegandoti così {P} non è: mh
+PSB078	forse (.) spiegandoti così (.) non è: mh
 PSB078	una somiglianza assoluta perché
 PSB078	questa
 PSB078	ripeto questa è la
@@ -1106,12 +1106,12 @@ PSB078	una volta scrivevano molto più vicino veramente
 PSB078	facevano quasi
 PSB078	sembrare
 PSB078	un animale
-PSB005	nei [disegni {P} sì]
+PSB005	nei [disegni (.) sì]
 PSB078	[ora: dei dis]egni esatto poi richiedevano più:
 PSB078	tempi più: memoria più:
 PSB078	e:::hm
 PSB078	addirittura
-PSB078	e:::h livello tecnico sul disegno [ma ora] {P} sinceramente:
+PSB078	e:::h livello tecnico sul disegno [ma ora] (.) sinceramente:
 PSB005	[°sì sì certo°]
 PSB078	ecco [da: da da] sì da: da nord sud [cambiavano] anche xxx tante cose
 PSB005	[adesso no]?
@@ -1126,7 +1126,7 @@ PSB078	c'era poca gente
 PSB078	conosceva la scrittura in cina
 PSB078	ma ma questo parlo di:
 PSB078	fino cent'anni [fa]
-PSB005	[sì] come qui anche gli italiani {P} sì
+PSB005	[sì] come qui anche gli italiani (.) sì
 PSB078	be::h vabbè italiani eravate comunque molto più avanti
 PSB078	nel senso
 PSB078	siamo in tanti: maggior parte dei cinesi era(va)mo
@@ -1148,7 +1148,7 @@ PSB078	impari per forza
 PSB005	[>sì sì sì<]
 PSB078	[xxxxx]x
 PSB005	[c(io)è adesso è obbligatorio]
-PSB078	[forse anche {P} qua voglio dire]
+PSB078	[forse anche (.) qua voglio dire]
 PSB005	sì [sì come qua]
 PSB078	[io penso ades]so
 PSB078	se no maggior parte del mondo
@@ -1196,7 +1196,7 @@ PSB005	certo certo
 PSB005	aspetta fammi vedere
 PSB005	e:
 PSB005	hai cinque minuti o ehm [o devi andare]?
-PSB078	[a:h e::hm] no penso che: cinque minuti {P} possiamo possiamo andare [av~]
+PSB078	[a:h e::hm] no penso che: cinque minuti (.) possiamo possiamo andare [av~]
 PSB005	[oka]y okay
 PSB005	ehm
 PSB005	volevo chiederti se: voi in famiglia avet~ festeggiate delle festività tradizionali
@@ -1206,7 +1206,7 @@ PSB078	italia:
 PSB078	m:h ora facciamo tutte le cose abbastanza xxxx
 PSB078	festeggiamo:
 PSB078	e:h per esempio::: e::hm:
-PSB078	festa del {P} del luna piena,
+PSB078	festa del (.) del luna piena,
 PSB005	mhmh
 PSB078	che::
 PSB078	inglese:
@@ -1234,12 +1234,12 @@ PSB078	chi ha l'uovo sodo più: più duro:
 PSB078	fanno: scontri tra: t~ t~ t~ tra l'uovo sodo per ve~
 PSB078	per vedere chi ha
 PSB078	chi ha l'uovo migliore [è un gioco] un gioco
-PSB005	[bellissimo] {ride}
-PSB005	{ride} [bellissimo]
+PSB005	[bellissimo] ((ride))
+PSB005	((ride)) [bellissimo]
 PSB078	[un gioco diver]tentissimo
 PSB078	da ragazzo: (i)nsomma
-PSB005	bellis[simo non l'avevo mai sentito] {ride}
-PSB078	[godevi di più queste {P} queste cose] cose qua
+PSB005	bellis[simo non l'avevo mai sentito] ((ride))
+PSB078	[godevi di più queste (.) queste cose] cose qua
 PSB078	e::h si possono managiare anche tante altre cose ma:
 PSB078	qui::
 PSB078	[facciamo meno]
@@ -1247,7 +1247,7 @@ PSB005	[ma i dolcetti li] preparate in casa o: [si comprano]?
 PSB078	[i dolce]tti: sono: son~
 PSB078	penso che siano pre~ perché io non li so fare
 PSB005	okay
-PSB078	quindi li andiamo a comprare dai {P} #china #market dai negozi cinesi
+PSB078	quindi li andiamo a comprare dai (.) #china #market dai negozi cinesi
 PSB005	no sai io non so bene come sono magari sono difficilis[simi non so]
 PSB078	[>no no no< son ton]de:
 PSB078	secondo me non sono neanche tanto difficili
@@ -1261,7 +1261,7 @@ PSB078	si trovano qui::
 PSB078	due tre settimane:: di: di festeggiame~ c(io)è anche [se il gio]rno è uno
 PSB005	[okay okay]
 PSB005	il pe[riodo si trovano sì]
-PSB078	[ma quel periodo {P} esa]tto periodo di: di $festimenti e poi andare prendere il primo dopo
+PSB078	[ma quel periodo (.) esa]tto periodo di: di $festimenti e poi andare prendere il primo dopo
 PSB005	è come il panettone che si trova [solo durante natale sì sì]
 PSB078	[brava brava brava brava brava] brava
 PSB078	ri[mangono ma] ci sono ecco
@@ -1310,7 +1310,7 @@ PSB078	m:::h noi:
 PSB078	siamo una famiglia
 PSB078	diciamo piccola nel senso siamo un pochi membri
 PSB078	siamo: io mamma sorella
-PSB078	ora con la mia: con con la mia compagna siamo in quattro quindi mangiamo insieme è una cosa molto {P} famigliare molto
+PSB078	ora con la mia: con con la mia compagna siamo in quattro quindi mangiamo insieme è una cosa molto (.) famigliare molto
 PSB078	molt~
 PSB078	molto piccolo
 PSB005	>sì sì sì<
@@ -1333,10 +1333,10 @@ PSB005	certo [sì]
 PSB078	[qui]
 PSB005	immagino sì sì
 PSB005	la tua compagna anche è cinese
-PSB078	lei eh sì {P} anche lei è cinese: è na~
+PSB078	lei eh sì (.) anche lei è cinese: è na~
 PSB078	mh più o meno come me è nata: è nata cresciuta in cina:
 PSB078	arrivata in italia::
-PSB078	all'età di {P} dieci undici anni
+PSB078	all'età di (.) dieci undici anni
 PSB005	okay
 PSB078	in teoria:
 PSB078	e:h
@@ -1344,11 +1344,11 @@ PSB005	sì circa circa [come la tua situazione]
 PSB078	[sì eh >sì sì sì sì] sì<
 PSB005	è della stessa zona? [o: no]?
 PSB078	[e:h s]iamo nella z~
-PSB078	vicino {P} diciamo nel s~ nella stessa {P} regione
+PSB078	vicino (.) diciamo nel s~ nella stessa (.) regione
 PSB078	ma non e:h
 PSB078	province diverse [dicia]mo
 PSB005	[mhmh]
-PSB005	[voi {P} sono] curiosa scusami se {P} [se] è una domanda[: tro]ppo privata
+PSB005	[voi (.) sono] curiosa scusami se (.) [se] è una domanda[: tro]ppo privata
 PSB078	[xxxxx così]
 PSB078	[mh]
 PSB078	[xx sì]
@@ -1359,11 +1359,11 @@ PSB078	<principalmente::> mandarino
 PSB078	siccome lei parla anche lei dialetto:
 PSB078	simile al nostro
 PSB078	possiam(o) parlare sia del dialetto, italiano o mandarino:
-PSB005	[okay {P} okay]
+PSB005	[okay (.) okay]
 PSB078	[quello che vogliamo diciamo]
 PSB005	mischiate tutto
 PSB078	mischiamo tutto poi dipende da compagnia:
-PSB078	fuori {P} quando usciamo magari parliamo anche un po' in italiano coi
+PSB078	fuori (.) quando usciamo magari parliamo anche un po' in italiano coi
 PSB078	tra raga~ coi ragazzi: magari che sono: nati cresciuti qua
 PSB005	si beh
 PSB005	certo [sì]

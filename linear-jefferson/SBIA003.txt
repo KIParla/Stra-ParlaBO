@@ -25,13 +25,13 @@ PSB023	duemila e dieci
 PSB005	ah da tant[o]
 PSB023	[s]ì
 PSB005	da tanto
-PSB023	si trova benissimo a bologna {P} [sì]
+PSB023	si trova benissimo a bologna (.) [sì]
 PSB005	°[eh] bene°
 PSB005	eh ti non ti piaceva di più modena?
 PSB005	ti piace di più [bologna]
 PSB023	[no no no] bo~ bologna:: a:h
 PSB023	a me a città che
-PSB023	per me: non: non lo cambio mai {ride}
+PSB023	per me: non: non lo cambio mai ((ride))
 PSB005	ah ah mh dimmi come mai
 PSB023	sì ho trovato qua ho fatto la famiglia i miei figli sono cresciuti qua:
 PSB023	poi c(io)è::: anche:::
@@ -71,7 +71,7 @@ PSB005	[mhmh]
 PSB005	ma eh e forse è un po' più: c'è un po' più di confusione: risp~
 PSB023	no: [e:h]
 PSB005	[anche] in eh
-PSB023	no però {P} dove ci sto io lì [c(io)è] si sta ben[e]:
+PSB023	no però (.) dove ci sto io lì [c(io)è] si sta ben[e]:
 PSB005	[a:h]
 PSB005	[c'è] il mercato [no]?
 PSB023	[sì sì] dove c'è il merc[ato]
@@ -79,15 +79,15 @@ PSB005	[mh]mh
 PSB023	però non sono proprio a
 PSB005	[sì sì]
 PSB023	[io quan]do esco da casa
-PSB023	giro sempre verso al centro {ride}
+PSB023	giro sempre verso al centro ((ride))
 PSB005	okay
-PSB023	(andato a sinistra) {ride}
+PSB023	(andato a sinistra) ((ride))
 PSB005	eh sono andata un po' di volte al mercato perché alla sera
 PSB005	e:[::h]
 PSB023	[sì cioè lì] ci fanno:
 PSB005	es[atto]
 PSB023	[aperi~] e:::h aperitivi sì
-PSB005	eh sì {P} sì sì sì ci lavorava anche un mio amico in uno dei::: sc~ [stand] {P} adesso cred~ adesso credo: di no
+PSB005	eh sì (.) sì sì sì ci lavorava anche un mio amico in uno dei::: sc~ [stand] (.) adesso cred~ adesso credo: di no
 PSB023	[mh]
 PSB005	ehm::
 PSB005	quindi preferisci fuori centro rispetto:: al [centro]
@@ -102,7 +102,7 @@ PSB005	impossibi[le]
 PSB023	[de]vi es[sere se]mpre due ore girare a cercare parcheg[gio]
 PSB024	[°mh°]
 PSB005	[sì sì] sì sì
-PSB023	adesso: grazie a dio che c'è la {P} [casa] col garage
+PSB023	adesso: grazie a dio che c'è la (.) [casa] col garage
 PSB005	[°sì sì°]
 PSB023	arrivi e $entr(e) [senza pro]blemi
 PSB005	[mhmh]
@@ -110,7 +110,7 @@ PSB005	eh io ho cercato un po' casa
 PSB005	negli anni scorsi e:h i garage costano sempre
 PSB023	°ecco°
 PSB005	<delle cifre>
-PSB024	sì {P} che non puoi immaginare
+PSB024	sì (.) che non puoi immaginare
 PSB005	paurose [sì per]ché non c'è disponibili[tà]
 PSB023	°[xx]°
 PSB023	[m]:h
@@ -128,7 +128,7 @@ PSB024	anche li affittano per [(uhm detto)]
 PSB005	[eh sì] è [vero]
 PSB023	[come] un [apparta]mento
 PSB024	[xxx]
-PSB023	sì::: [vanno a (ve) {P} eh]
+PSB023	sì::: [vanno a (ve) (.) eh]
 PSB024	[uno usano come i garage] lo usano come eh [ah]
 PSB023	[per]ché adesso hanno problema di [affitto a bologna] non c'è più ap[parta]menti [qua]
 PSB024	[come loro legge]
@@ -153,11 +153,11 @@ PSB005	[mh]mh
 PSB023	va~ fanno in base li~ isee ce tu~
 PSB023	allora quando è arrivato momento mi hanno chiamato oh [grazie a] dio e:h
 PSB005	[certo]
-PSB005	per fortuna {P} e i [bimbi] son piccolini?
+PSB005	per fortuna (.) e i [bimbi] son piccolini?
 PSB023	[sì]
 PSB023	il più grande ha dodici anni sì
 PSB005	okay
-PSB023	e il resto:: otto {P} cinque
+PSB023	e il resto:: otto (.) cinque
 PSB005	maschi?
 PSB023	no due femmine e il maschio
 PSB023	il grand~ eh il piccolo un maschio
@@ -175,10 +175,10 @@ PSB005	mhmh
 PSB023	sto facendo quella scuola lì quando $trasferto la~ lasciato sempre [lì e::h]
 PSB005	[sì sì sì]
 PSB023	sì
-PSB005	a:::h okay {P} okay
+PSB005	a:::h okay (.) okay
 PSB023	[°sì sì x°]
 PSB005	ed è comodo accompagnarli a scuola
-PSB023	sì sì {P} c'è una
+PSB023	sì sì (.) c'è una
 PSB023	quando l'ho
 PSB023	si sta bene con tempo fai ponti xx stazione già è lì
 PSB005	mhmh
@@ -208,7 +208,7 @@ PSB024	poi parliamo sempre il lavoro c'è
 PSB024	l'unico problema che abbiamo noi stranieri qua su(l) territori(o) italiani,
 PSB024	è l'affitto
 PSB024	è una cosa che è diventata come miracolo se trovi un affitto come [uno che entra in paradiso eh]
-PSB023	[sì co~ veramente] {ride}
+PSB023	[sì co~ veramente] ((ride))
 PSB024	è una cosa che è assurda lì in tutta l'europa
 PSB024	e solo in italia che non vogliono affittare a stranieri
 PSB005	°mhmh°
@@ -219,8 +219,8 @@ PSB024	e trovano l'affitto [subito] e io ho fatto fatica
 PSB023	[subito]
 PSB024	non l'ho trovato finora eh ti dico già che
 PSB024	dal novantasei che sono in italia soffro di questa cosa qua
-PSB024	o vado al dormitorio o vado a dormire {P} a un affitto un posto letto °vado°
-PSB024	sono la merda {P} io ti dico la verità
+PSB024	o vado al dormitorio o vado a dormire (.) a un affitto un posto letto °vado°
+PSB024	sono la merda (.) io ti dico la verità
 PSB023	[sì: è vero (certo)]
 PSB024	°[(non dico qualcosa che)]°
 PSB024	devo tro~ prendere
@@ -247,7 +247,7 @@ PSB005	e:h lo so
 PSB024	quindi è uno problema che tu devi affrontarla
 PSB024	meno male che abbiamo adesso sangue freddo perché
 PSB024	dove vai a bussare ti dicono proprietario non vuole ma
-PSB005	ma {P} quando u[no] non trova cosa fa?
+PSB005	ma (.) quando u[no] non trova cosa fa?
 PSB024	[non hai]
 PSB024	e:h ecco e:h dobbiamo ce~ vivere così
 PSB024	come siamo me~ come siamo adesso
@@ -279,7 +279,7 @@ PSB024	lo straniero è uno ch[e:]
 PSB023	[e] anche (lo) [paga le tas]se ce
 PSB024	[ti aiuta]
 PSB024	[ma straniero] è uno che la[vora]
-PSB023	[e:h e:h e:h] {ride}
+PSB023	[e:h e:h e:h] ((ride))
 PSB023	[la]vora
 PSB024	che [ti aiuta a pagare tua] pensio[ne]
 PSB023	[fa: fa tutto]
@@ -305,7 +305,7 @@ PSB024	[non abbiamo] nessun
 PSB024	siamo uguali come tutti
 PSB023	sì
 PSB024	arrivi al punto da f~ da casa,
-PSB024	schiacciano il bottone rosso {P} [allerta] $a(lli) stranieri
+PSB024	schiacciano il bottone rosso (.) [allerta] $a(lli) stranieri
 PSB005	[°mhmh°]
 PSB024	ma stranieri non è che ti ha fatto qualcosa di male straniero,
 PSB024	è uno che viene qua ha un sogno da $riasiare
@@ -316,10 +316,10 @@ PSB024	apposta da uno ch[e non] so
 PSB005	[mhmh]
 PSB005	mhmh
 PSB005	ma la tua famiglia non è qui
-PSB024	non è qui: io sto facendo {ride}
+PSB024	non è qui: io sto facendo ((ride))
 PSB023	(lui) sta facendo così (perché [li vuole portare)]
 PSB024	[ma guarda io voglio dare anche] diecimila di caparra
-PSB005	{ride}
+PSB005	((ride))
 PSB024	mio datore di lavoro ha detto che fa~ faccio io la mia firma
 PSB024	basta che trovi
 PSB024	ma lo dicono guarda eh
@@ -337,15 +337,15 @@ PSB005	[mh]mh
 PSB024	non abbiamo detto il contrario
 PSB024	viviamo bene in italia
 PSB024	abbiamo [i diritti umani] abbiamo tutte cose che ci servono
-PSB005	[°ciao {P} certo°]
-PSB024	arriviamo al punto di affitto {P} schiacciano l'allerta rossa
+PSB005	[°ciao (.) certo°]
+PSB024	arriviamo al punto di affitto (.) schiacciano l'allerta rossa
 PSB024	psss tu
 PSB024	puoi rimanere anche fuori a dormire non me ne frega un cavolo a nessuno
 ???	ti posso [(stai) è un'intervista] scusami eh
 PSB005	[sì sì sì]
 PSB005	no ma [interrompo un secondo]
 ???	[è solo per un iniziativ~]
-???	{interruzione}
+???	((interruzione))
 PSB005	okay
 PSB005	ci siamo
 PSB024	sì va bene adesso come abbiamo detto
@@ -363,7 +363,7 @@ PSB024	che lavo~ con lavoro si aprono tutti le porte
 PSB023	eh certo
 PSB005	mh[mh]
 PSB024	[e no]i siamo stati fortunati qua in nord italia quindi:
-PSB005	e {P} avete delle esperienze di vostri amici che invece nel sud
+PSB005	e (.) avete delle esperienze di vostri amici che invece nel sud
 PSB005	hanno avuto più difficol[tà]?
 PSB024	[sì]::: ma io conosco una marea sì sì eh ma la quel[li che sono arri]vati
 PSB023	[io]
@@ -399,7 +399,7 @@ PSB005	ehm: ma mi dicevate che comunque
 PSB005	c(io)è voi siete venuti in età abbastanza adulta
 PSB005	qui
 PSB024	sì sì io:: sono arrivato co(n) ventisei anni
-PSB024	quindi {P} è un po'
+PSB024	quindi (.) è un po'
 PSB005	c(io)è non da bambini insom[ma]
 PSB024	[sì] [sì no no]
 PSB023	[no no] io
@@ -410,7 +410,7 @@ PSB023	sì °duemila°
 PSB005	e:h
 PSB023	°(dal duemila) sono qua°
 PSB023	°(penso) quasi diciotto diciotto anni [insomma]°
-PSB005	[ah eh okay] {P} okay
+PSB005	[ah eh okay] (.) okay
 PSB005	beh sì comunque da~ [da giova]ni [però da grandi]
 PSB024	[sì:]
 PSB023	[sì:::]
@@ -434,7 +434,7 @@ PSB023	l'inizio è difficile
 PSB005	mh
 PSB023	per partire è difficile
 PSB023	poi anche trovi una:
-PSB023	quando sono arrivato a:: a {P} treviso lì
+PSB023	quando sono arrivato a:: a (.) treviso lì
 PSB023	però grazie a dio che quando sono arrivato io sono arrivato con contratto di l~ di lavoro
 PSB023	almeno quelli due mesi
 PSB023	quello il pa~ ehm:: e::h datore di lavoro che mi ha portato
@@ -460,7 +460,7 @@ PSB005	mhmh
 PSB023	qui è difficile per trovare lavoro
 PSB023	quel periodo eh
 PSB005	m:h
-PSB023	difficili {P} diffic[ile trova~]
+PSB023	difficili (.) diffic[ile trova~]
 PSB005	[ma è un po]sto piccolo [anche]?
 PSB023	[sì]:
 PSB005	°fo[rse°]
@@ -475,12 +475,12 @@ PSB024	[mhmh]
 PSB005	e:h
 PSB023	il crisi [sì già stanno chiudendo]
 PSB024	[(xxx) duemila sei]
-PSB023	quando sono arrivato qua quando: {P} primo lavoro che ho trovato
+PSB023	quando sono arrivato qua quando: (.) primo lavoro che ho trovato
 PSB023	a ristoranti
 PSB023	lavapiatti
 PSB023	(si) an[diamo]
 PSB024	[xx]x
-PSB023	{ride} la partenza
+PSB023	((ride)) la partenza
 PSB005	mhmh
 PSB023	dopo sono
 PSB023	quasi fatto un anno di lavapiatti dopo sono fatto aiuto cuoco
@@ -488,7 +488,7 @@ PSB023	e dopo ho cambiato lavoro da: a::h
 PSB023	logistica
 PSB023	e dopo rimasto in logisti[ca]
 PSB005	[o]kay
-PSB005	okay {P} quindi guidi?
+PSB005	okay (.) quindi guidi?
 PSB023	sì faccio il $tratterista s[ì]
 PSB005	[mh]mh okay okay
 PSB005	ma a parte il lavoro dico nel nel resto della giornata avete tempo per fare altre cose:::
@@ -499,7 +499,7 @@ PSB023	tre gi~ tre volte al:::la settima[na]
 PSB005	[mh]mh
 PSB023	porto anche miei figli fanno::
 PSB023	piccolo porto a calcio e:h
-PSB023	l~ l~ l~ l'altra {P} farà:::
+PSB023	l~ l~ l~ l'altra (.) farà:::
 PSB023	nuoto
 PSB023	così: e::h sabato domenica
 PSB023	$sempie sempre fuori:: porto mia fa~ famiglia con me fuori facciamo un giro
@@ -532,7 +532,7 @@ PSB023	[no no no no]
 PSB023	marocchi[na]
 PSB005	[maroc][china] okay ma in famiglia sono curiosa si se mescolate le lingue
 PSB023	[sì s]ì
-PSB005	se parl[ate] dialetto {P} e an[che it]alia[no]
+PSB005	se parl[ate] dialetto (.) e an[che it]alia[no]
 PSB023	[sì]
 PSB023	[sì]
 PSB023	[no] beh i miei figli parlano marocchino
@@ -541,9 +541,9 @@ PSB005	okay
 PSB005	ok[ay]
 PSB023	[sì] perché è una cosa importante
 PSB023	x x x
-PSB023	l'italiano loro {P} lo parla~ lo parlano
+PSB023	l'italiano loro (.) lo parla~ lo parlano
 PSB023	cento per cento però se tu non
-PSB023	parli con loro marocchino [dopo] lo perdono {P} [l'ara]bo
+PSB023	parli con loro marocchino [dopo] lo perdono (.) [l'ara]bo
 PSB005	[mhmh]
 PSB005	[eh sì]
 PSB023	quando vanno giù:
@@ -559,7 +559,7 @@ PSB005	e dov'è la scuola araba?
 PSB023	è sempre a:h vicino::
 PSB023	e::h vicino vi(e):: e::h
 PSB005	sì [sì]
-PSB023	[quella sc]uola lì {P} [(come no)]
+PSB023	[quella sc]uola lì (.) [(come no)]
 PSB005	[eh c(io)è] sem[pre in bolo]gnina [insomma]
 PSB023	[sì]
 PSB023	[sì sì bolo][gnes]e
@@ -570,7 +570,7 @@ PSB023	sì::: [(quasi) sì]
 PSB005	[e scrivono] anche?
 PSB023	un po'
 PSB023	stan[no imparare]
-PSB005	[un po' {P} vabbè] son piccolini gi[usto? sì sì]
+PSB005	[un po' (.) vabbè] son piccolini gi[usto? sì sì]
 PSB023	[sì sì ancora >picc]olo<
 PSB005	certo certo
 PSB023	è una cosa difficile per lo per studiare l'arabo devi stare o paesi arabo o:::h
@@ -620,7 +620,7 @@ PSB005	okay oka[y]
 PSB023	[daci]- dieci chilometri da casablanca
 PSB005	mhmh
 PSB023	si sta bene anche do~ la mia città se::: è una bella città °non è:::°
-PSB005	ah io non ho visitato: e invece tu di {P} che città [sei]?
+PSB005	ah io non ho visitato: e invece tu di (.) che città [sei]?
 PSB024	[io] sono di casablanca
 PSB005	AH lo stesso circa
 PSB023	sì sì sì sia[mo vici]ni [sì]
@@ -704,17 +704,17 @@ PSB005	mhmh
 PSB024	allora questi qua: questi cose qua dobbiamo trovare un modo di
 PSB005	ma [quali sono gli episodi]
 PSB024	[non non tutti]
-PSB024	non tutti ma trovi sempre nei posti dove lavori una persona o due che {ride}
+PSB024	non tutti ma trovi sempre nei posti dove lavori una persona o due che ((ride))
 PSB005	ma
 PSB024	ti ODIANO finché non puoi immaginare
 PSB005	°okay°
-PSB005	ma [vi arriva da] motivi linguistici c(io)è di comunicazione che magari: i lavoratori stranieri fanno più fatica:: {P} e~ a parlare
+PSB005	ma [vi arriva da] motivi linguistici c(io)è di comunicazione che magari: i lavoratori stranieri fanno più fatica:: (.) e~ a parlare
 PSB024	[dimmi]
 PSB005	da da che cosa?
 PSB005	[secondo voi]
-PSB023	[secondo m]e::: {ride}
+PSB023	[secondo m]e::: ((ride))
 PSB023	proprio parlo di marocchini: secondo me un po' svegli
-PSB023	perché {ride} [sì] {ride}
+PSB023	perché ((ride)) [sì] ((ride))
 PSB024	sì::: ci sono [quelli] che
 PSB024	fanno pas[sare]
 PSB023	[cap]ito la: a:h che:::
@@ -756,7 +756,7 @@ PSB024	questi due tre persona
 PSB024	hanno iniziato a cacciarli uno dietro l'altro
 PSB024	e io non ero ancora delegato
 PSB024	ho visto queste cose non mi piacciono
-PSB024	perché ci mettono d'accordo fra datore di lavoro fra loro ci uniscono {P} per
+PSB024	perché ci mettono d'accordo fra datore di lavoro fra loro ci uniscono (.) per
 PSB024	allora lì
 PSB024	e:::h
 PSB024	l'allerta la la l'allerta è e:::h
@@ -767,8 +767,8 @@ PSB005	m:h
 PSB023	p[ari diritti]
 PSB005	[no sì]
 PSB005	quindi sanno
-PSB023	sì {P} pari diritti
-PSB023	prima ci sono però non lo sanno cosa f[are] {P} °come si di[ce]°
+PSB023	sì (.) pari diritti
+PSB023	prima ci sono però non lo sanno cosa f[are] (.) °come si di[ce]°
 PSB024	[s]ì:
 PSB005	[sì sì] [sì]
 PSB024	[uno va a] cer[care per sapere]
@@ -813,11 +813,11 @@ PSB024	è il peggio del lavoro che esiste in azienda
 PSB024	l'ultima (coda)
 PSB005	povero
 PSB023	si ma [anche da no]- anche da noi eh
-PSB005	[che disastro] {ride}
+PSB005	[che disastro] ((ride))
 PSB024	e [po]i:: l'unica problema non è che come ha detto lui che
 PSB023	[c'è:]
 PSB024	sono: siamo: una comunità un po' sveglia
-PSB024	PIANO PIANO {P} si [apre l'occhio e inizia a im]parare
+PSB024	PIANO PIANO (.) si [apre l'occhio e inizia a im]parare
 PSB023	[sì dopo: sì]
 PSB023	e [dopo sì] in[fatti]
 PSB024	[perché]
@@ -832,19 +832,19 @@ PSB024	possiam fare diecimila consegna
 PSB024	possono arrivare quindicimila PACCHI
 PSB024	io butto in tre ore di quindicimila pacchi
 PSB024	che quando mi vedi
-PSB024	ero tutto sudato come un maiale {ride}
+PSB024	ero tutto sudato come un maiale ((ride))
 PSB005	certo sì sì [imm~]
-PSB024	[e:h] piano pian~ non mi vogliono non vogliono farmi imparare {P} eh muletto non vogliono fare imparare vespino
+PSB024	[e:h] piano pian~ non mi vogliono non vogliono farmi imparare (.) eh muletto non vogliono fare imparare vespino
 PSB024	non vogliono farmi imparare il pack master non >voglio-<
 PSB005	[sol]o a~
 PSB024	[io o:h]
 PSB024	ho preso io questo [impegno] da solo
 PSB005	[solo a mano]
 PSB024	vengo là [piano piano e dopo]
-PSB023	[sì e:h piano piano uno] sì {ride}
+PSB023	[sì e:h piano piano uno] sì ((ride))
 PSB024	che hanno scoperto che io che ho imparato hanno iniziato a lamentar~ a:
 PSB024	a: attaccarmi
-PSB024	come {P} questo è una situazione che te racconto che
+PSB024	come (.) questo è una situazione che te racconto che
 PSB024	vale per [tutti i raga]z[zi]
 PSB023	[(°certamente°)]
 PSB023	[sì] l'inizio [sempre (xxx)]
@@ -875,7 +875,7 @@ PSB005	[sì sì sì]
 PSB023	[però bo~ oh]
 PSB023	eh diciamo come uno un po':
 PSB023	c(io)è un po' sveglio devi
-PSB023	cercare {P} [devi cercare] come
+PSB023	cercare (.) [devi cercare] come
 PSB024	[xxx (inizi)]
 PSB023	parlare come persone
 PSB023	eh io quando sono arrivato
@@ -886,27 +886,27 @@ PSB023	siamo andati: un fatto un lavoretto di pulizia:
 PSB023	dopo c'è un:: datore di la~ e::h
 PSB023	quella:
 PSB023	ufficio lì che sta parlando con noi
-PSB023	io faccio finta che {P} capisco tutto [fa~] capito?
+PSB023	io faccio finta che (.) capisco tutto [fa~] capito?
 PSB024	[sì:]
-PSB023	[devi fare così] se no {ride}
+PSB023	[devi fare così] se no ((ride))
 PSB024	[però]
-PSB024	{ride}
+PSB024	((ride))
 PSB024	non ti fanno lavorare
-PSB023	e dopo faccio spiegare a ragazzi [che io] {ride}
+PSB023	e dopo faccio spiegare a ragazzi [che io] ((ride))
 PSB024	[abbiamo passa]to
 PSB005	sì sì sì
-PSB023	capito che fa [(xxx xxx xxx)] {ride}
+PSB023	capito che fa [(xxx xxx xxx)] ((ride))
 PSB024	[abbiamo passato tutto questo]
 PSB024	eh
 PSB023	però [o:h]
 PSB024	[sì sì] sì poi alla f[ine]
 PSB023	[va be]ne
-PSB023	{ride}
+PSB023	((ride))
 PSB024	e andiamo chiedere là a ragazzi co[sì (vede)]
-PSB023	[e dopo] solo parlare con loro in arabo {ride}
-PSB024	{ride}
+PSB023	[e dopo] solo parlare con loro in arabo ((ride))
+PSB024	((ride))
 PSB024	ti dicono cosa ha detto perché se no non
-PSB023	{ride}
+PSB023	((ride))
 PSB024	non (ha) lavorare [eh]
 PSB023	[e]h
 PSB005	eh no certo ma come avete fatto a imparare?
@@ -932,7 +932,7 @@ PSB005	mhmh
 PSB023	quando vai a: per esempio [eh]
 PSB005	[ti]po un gloss[ario] s[ì sì]
 PSB023	[sì]
-PSB023	[vai] {P} prendi il biglietto: vai [ba:r] vai a spesa
+PSB023	[vai] (.) prendi il biglietto: vai [ba:r] vai a spesa
 PSB005	[mhmh]
 PSB023	e piano piano un se::
 PSB005	e non ti ha insegnato nessuno hai imparato da solo
@@ -946,7 +946,7 @@ PSB005	mhmh
 PSB024	so affrontare nei posti di lavoro
 PSB024	qu[ando vai]
 PSB005	[e voi] parlate più italiano o più arabo durante il giorno?
-PSB024	e:h la maggior parte ti dico già {P} [più] italiano che arabo
+PSB024	e:h la maggior parte ti dico già (.) [più] italiano che arabo
 PSB023	[(io)]
 PSB005	m:h
 PSB023	e:[:h]
@@ -958,7 +958,7 @@ PSB024	[s:ì]
 PSB005	ok[ay] okay
 PSB024	[sì]
 PSB023	lavoro parliamo in arabo do[po:]
-PSB024	[anche s]e fra noi parliamo marocchino ma saltiamo se~ sempre [finiscono sempre {P} di] parole [italiane]
+PSB024	[anche s]e fra noi parliamo marocchino ma saltiamo se~ sempre [finiscono sempre (.) di] parole [italiane]
 PSB023	[sempre qualche parola in italiano]
 PSB023	[anche] adesso quando va giù al marocco
 PSB024	[che noi]
@@ -978,7 +978,7 @@ PSB005	a:h più [sì]
 PSB024	[ah ormai] sì
 PSB005	niente
 PSB023	quando vedono qualcuno devi:
-PSB023	capito giù al marocco [se vuoi] {P} sì
+PSB023	capito giù al marocco [se vuoi] (.) sì
 PSB005	[ripensarci]
 PSB005	s[ì sì]
 PSB024	[però] la strada più facile è imparare l'it~ la lingua italiana
@@ -990,11 +990,11 @@ PSB024	[io] sono stato uno di quelli fortunati perché
 PSB024	quando mi sono messo qua ero avevo ventisei anni mi sono:
 PSB024	s~
 PSB024	ho giocato calcio con una squadra italiana
-PSB024	quindi {P} mi sono entrato propr[io]
+PSB024	quindi (.) mi sono entrato propr[io]
 PSB005	[giu]sto
 PSB024	dopo due tre mesi sono già: a:h lì
 PSB024	che devo imparare poi anche quando vado a lavorare
-PSB024	lì ci sono tutti {ride} ma~ ah marocco
+PSB024	lì ci sono tutti ((ride)) ma~ ah marocco
 PSB024	devo parlare però la mia fortuna è che ho avuto perché
 PSB024	quando finiamo le partite andiamo a mangiare insieme andiamo qua là
 PSB024	e ha fatto un gruppo di giovani quindi lì lui ha imparato subito
@@ -1011,7 +1011,7 @@ PSB024	[sì]
 PSB005	sì sì sì sì
 PSB005	ma eh invece in c(io)è vedete non so la televisione: in [italia]:n[o::]
 PSB023	[sì:]
-PSB023	[(io la vedo sì)] {P} [(tele-telegiornale aiuta)]
+PSB023	[(io la vedo sì)] (.) [(tele-telegiornale aiuta)]
 PSB024	[quella è la prima cosa che (xx) aiut]are
 PSB023	sempre $ver telegiornale [(per capire)]
 PSB024	[quella è] la prima cosa che deve [aiutare]
@@ -1041,23 +1041,23 @@ PSB023	[sì]
 PSB023	no io metà metà [xxx]
 PSB024	[però] la mia identità la mia identità sono
 PSB024	arabo musulmano quella non me lo toglie nessuno
-PSB005	mh[mh {P} mhmh]
+PSB005	mh[mh (.) mhmh]
 PSB024	[e:::h]
 PSB005	no xxx parliamo ancora un pochino
 PSB024	okay va bene ormai sono [xxx]
-PSB005	{ride}
+PSB005	((ride))
 PSB005	[no] ehm:::
 PSB005	sono sono curiosa di::: di abitudini alimentari:::
 PSB024	(s[ì)]
-PSB005	[se]:: [cuci]nate {P} cibo italiano
+PSB005	[se]:: [cuci]nate (.) cibo italiano
 PSB024	[ecco]
 PSB005	perché avete imparato [qui]
 PSB023	[allo][ra]: guarda a me
 PSB005	[se]:::
-PSB024	{ride}
+PSB024	((ride))
 PSB023	l'unica cosa che non mi piace è cucinare però
 PSB023	per fortuna sono sposato a una::::
-PSB023	mia moglie {P} lei già fa la cuoca qua a::: ristora[nte:]
+PSB023	mia moglie (.) lei già fa la cuoca qua a::: ristora[nte:]
 PSB005	[ah]: okay
 PSB023	poi::: cucina in arabo perfetto
 PSB023	ade~ io a me m:::h
@@ -1065,22 +1065,22 @@ PSB023	mangiare mai trovato problemi di:::
 PSB023	però a me se rimango da solo vado
 PSB023	comprare la pizza
 PSB023	panino
-PSB023	non riesco a cucinare da solo {ride}
-PSB005	si assomiglia questa cosa [con] gli stereotipi italiani degl[i uo]mini {ride} [anche e quindi] {ride}
+PSB023	non riesco a cucinare da solo ((ride))
+PSB005	si assomiglia questa cosa [con] gli stereotipi italiani degl[i uo]mini ((ride)) [anche e quindi] ((ride))
 PSB023	[mh]
 PSB023	[m:h]
 PSB023	[sì io: quan]do: perché (se no vedo) anche giù
-PSB023	perché: mia madre (:) non ci lascia mai fare qualcosa sempre hai capito {P} faccio io
+PSB023	perché: mia madre (:) non ci lascia mai fare qualcosa sempre hai capito (.) faccio io
 PSB023	allora quando sono arrivato qua:
 PSB023	trovato: o:::h
 PSB023	fatica per cuc~
 PSB023	io dico quando
 PSB023	sto con miei amici
 PSB023	voi cucinate io lavo i~
-PSB023	lavo: i piatti {ride}
-PSB024	{ride} [pulisco la casa sì sì] anch[io]
+PSB023	lavo: i piatti ((ride))
+PSB024	((ride)) [pulisco la casa sì sì] anch[io]
 PSB005	io [lavo i pia~]
-PSB023	[(pulisco) la casa] {ride}
+PSB023	[(pulisco) la casa] ((ride))
 PSB023	[pe]rò
 PSB023	a cucinare
 PSB005	no
@@ -1089,7 +1089,7 @@ PSB005	ma è come: come i ragazzi italiani
 PSB023	s[ì:]
 PSB005	[la stessa cosa]
 PSB023	[non so perché a me cos~ sono] così
-PSB005	{ride} [sì]
+PSB005	((ride)) [sì]
 PSB023	però
 PSB023	io
 PSB023	voglio fare qualcosa però
@@ -1098,7 +1098,7 @@ PSB023	piatto di pa:sta::
 PSB023	sto imparando
 PSB023	però prima facevo voglio imparare a fare anche il pa:ne
 PSB023	però non è uscito a farla
-PSB024	è difficile {ride}
+PSB024	è difficile ((ride))
 PSB005	troppo lun[go]
 PSB023	[s]ì
 PSB005	io non ho tempo d[i::: di dedicarmi]
@@ -1142,7 +1142,7 @@ PSB024	e:::h la pasta
 PSB024	anche miei figli sono marocco
 PSB024	il primo pia:- paia piatto che loro li piacciono è la pasta
 PSB005	i mah quindi [i due]
-PSB024	[anche] sono già di {P} [ma gli pia]cciono perché
+PSB024	[anche] sono già di (.) [ma gli pia]cciono perché
 PSB005	[sì]
 PSB024	io lo mando tutti i mesi una spesa di [pasta, pomodoro], eh mando col pullman
 PSB005	°[ah okay okay]°
@@ -1158,7 +1158,7 @@ PSB024	sc(u)ola privata:: vestiti
 PSB024	io divido non è che divido la maggior parte si prende va l[oro]
 PSB005	[mh]mh
 PSB024	e quello che mi rimane m'arrangio qua
-PSB024	anche se vado in debito: {P} da qualche amico qua là
+PSB024	anche se vado in debito: (.) da qualche amico qua là
 PSB024	però l'importante per me è la famiglia che sta bene
 PSB005	mhmh
 PSB024	(ecco) non voglio
@@ -1170,7 +1170,7 @@ PSB024	l[oro mah] piacciono
 PSB005	[mhmh]
 PSB024	ai miei amici piacciono piatto couscous ma quando: eh
 PSB005	e tu lo prepari tu?
-PSB024	e lo fa io non ho a dire la verità come lui {ride}
+PSB024	e lo fa io non ho a dire la verità come lui ((ride))
 PSB005	no:?
 PSB024	so fare
 PSB024	so fare qua~ io cucino da solo (non) mi piace mangiare fuori
@@ -1226,7 +1226,7 @@ PSB023	[eh]
 PSB024	lascio a [stazio]ne di imola e
 PSB023	[mh]
 PSB023	[li] c'[è treno:::]
-PSB005	[eh sì {P} certo sì]
+PSB005	[eh sì (.) certo sì]
 PSB023	comodo per andare a imola °s[ì]°
 PSB024	[lavori] a castel san pietro?
 PSB023	[sì] a
@@ -1241,7 +1241,7 @@ PSB024	[perché] sentito che °[ci] sono problemi°
 PSB023	[°sì°]
 PSB024	°okay°
 PSB024	°importante che°
-PSB005	eh il centro è carino di imola no[n:] {P} non [c'è ma][le]
+PSB005	eh il centro è carino di imola no[n:] (.) non [c'è ma][le]
 PSB024	[sì sì è carino] [no no non] c'è male non c'è [°male°]
 PSB005	[sì]
 PSB005	[però] l'autostrada per andare
@@ -1253,7 +1253,7 @@ PSB023	[la strada xx imola:]
 PSB023	sempre:::
 PSB023	pie(no)
 PSB023	una vo~ perché io, allora
-PSB023	perché dal lavoro {P} da~ stazione del treno
+PSB023	perché dal lavoro (.) da~ stazione del treno
 PSB023	a lavoro e::h lavoro c'è tre chilometri
 PSB005	[mh]
 PSB023	[i](o) cosa faccio
@@ -1264,7 +1264,7 @@ PSB023	[tutto] la setti[mana]
 PSB005	[giu][sto]
 PSB024	[a]a:h
 PSB023	[s]ì per arri[vare stazione] hai capito
-PSB024	[sì {P} venerdì]
+PSB024	[sì (.) venerdì]
 PSB005	si giusto
 PSB023	e:h da lavoro a stazione ci vuole la macchina
 PSB005	giusto
@@ -1278,14 +1278,14 @@ PSB023	sempre me~
 PSB023	mette il ritardo
 PSB023	quando vado col treno,
 PSB024	sì:
-PSB023	esco dalle cinque {P} [alle cinque] e [nove minuti prendo] il treno,
+PSB023	esco dalle cinque (.) [alle cinque] e [nove minuti prendo] il treno,
 PSB005	(°[eh sì sì]°)
 PSB024	[sì sì (xxx)]
 PSB023	alle [cinque e venticin]que già sono [a bologna]
 PSB024	[è più comodo]
 PSB024	[quando] c'è possibilità [di arrivare (xxx)]
 PSB023	[con la macchina fino alle] sei: [e:h per arrivare a bologna ci metto un'ore]tta
-PSB024	[con {P} il treno è meglio]
+PSB024	[con (.) il treno è meglio]
 PSB005	eh no lo so sì
 PSB005	eh io ogni tanto andavo in macchina perché: eh a~ alcune volte iniziavo presto la mattina [mol]to
 PSB023	[m:h]
@@ -1361,7 +1361,7 @@ PSB024	stipendio che c'è l'ho speso per prendere un'altra macchina
 PSB024	due mesi fa
 PSB024	andavo sbo~ e:::h
 PSB024	è scoppiata la gomma dei cuscinetti eh
-PSB024	e {applaude} la macchina eh dovuto stare un altro mese a casa
+PSB024	e ((applaude)) la macchina eh dovuto stare un altro mese a casa
 PSB024	dopo ho comprato un'altra macchina
 PSB024	(xxx) scoperto che me una truffa quello che venduta
 PSB024	eh dopo due giorni la frizione:: e:h le freni >allora ho detto<
@@ -1373,7 +1373,7 @@ PSB023	[no sei fu]ori sì
 PSB024	all[ora]
 PSB005	[cioè] perché a conselice eri riuscito ad avere un appartamento
 PSB024	sì ma:: ah è un [appartamento piccolo]
-PSB023	[eh (la) trovi xxx] {ride}
+PSB023	[eh (la) trovi xxx] ((ride))
 PSB024	quando sono andato per fare eh eh li documenti per la mia famiglia mi hanno detto guarda che non è abilitata [quella] casa lì
 PSB023	[a:::h]
 PSB024	allora mi sono [trovato]
@@ -1412,7 +1412,7 @@ PSB005	[sì sì sì]
 PSB024	appena che ho trovato un posto a imola
 PSB024	no: a imola almeno se mi sento vivo
 PSB024	ma li mi sento morto
-PSB005	{ride} [abbastanza sì]
+PSB005	((ride)) [abbastanza sì]
 PSB024	[no e:h ma ti dico] la verità mi sento morto
 PSB024	[così muo](io)
 PSB023	[sì ma] anche [bologna è una città] anche
@@ -1423,7 +1423,7 @@ PSB024	o devi tornare a dormire >ho de-< mi sono ingrassato quando sono arrivato
 PSB024	adesso
 PSB024	mi sono dimagri~
 PSB024	avevo cento venticinque chili eh dormo e mangio
-PSB005	{ride}
+PSB005	((ride))
 PSB024	tutto weekend
 PSB024	poi io che inizio alle due fino a non riesco a far~ muovermi
 PSB023	e:h
@@ -1451,7 +1451,7 @@ PSB023	bologna
 PSB024	no no [bologna]
 PSB023	[anche sono] andato a [belgio francia]
 PSB024	[è la città dei] $musisis [$musiziani] quindi è vi[va]
-PSB023	[no bologna] {ride}
+PSB023	[no bologna] ((ride))
 PSB023	sì:: [infatti]
 PSB024	[è una città] viva [dai (non] c'è da ridere)
 PSB005	[molto bello]

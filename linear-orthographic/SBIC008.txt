@@ -411,7 +411,7 @@ PSB005	sì sì sì facciamo la seconda parte
 PSB005	perché ci hai raccontato tante cose prima
 PSB038	allora dimmi
 PSB005	no e~ dicev~ ci dicevi del tuo lavoro qui nel bar
-PSB038	all~ fammi pens~ devo riformulare bene la frase
+PSB038	all~ ride fammi pens~ devo riformulare bene la frase
 PSB038	ehm stai registrando
 PSB005	sì sì
 PSB038	allora ehm diciamo che

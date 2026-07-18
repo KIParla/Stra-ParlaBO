@@ -20,7 +20,7 @@ PSB093	questo scemo non mi ha spiegava niente io che chiedevo
 PSB093	dottore posso chiedere xx domanda che cosa
 PSB093	e poi quando doveva fare proprio: questo buco dentro
 PSB005	mh
-PSB093	mi doveva preparare guardi {P} [quando io (g)li spin]go {P} lei sentira così
+PSB093	mi doveva preparare guardi (.) [quando io (g)li spin]go (.) lei sentira così
 PSB005	[m:h]
 PSB093	non dice niente perché
 PSB093	è nomale quando
@@ -33,9 +33,9 @@ PSB093	ha fatto uno
 PSB093	mi sono: mh automaticamente
 PSB093	diventata >così< A:::H perché l'ha fatto [così]
 PSB005	[no] no:
-PSB093	(>guarda<) mi sono proprio: {schiocca_la_lingua}
+PSB093	(>guarda<) mi sono proprio: ((schiocca_la_lingua))
 PSB005	ma era: all'ospedale normale di[ciamo sì]
-PSB093	[ospedale ma]ggior[e dove] li fanno {P} c[entinaia] per[ò io] non sono anziana
+PSB093	[ospedale ma]ggior[e dove] li fanno (.) c[entinaia] per[ò io] non sono anziana
 PSB005	[sì sì]
 PSB005	[mhmh]
 PSB005	[mhmh]
@@ -44,9 +44,9 @@ PSB093	se non mi prepari [come fai]
 PSB005	[ah certo]
 PSB093	°che tipo di dottore so[no ques:~]°
 PSB005	[ma è durato mol]to?
-PSB093	no dieci minu[ti {P} di]eci minuti quarto d'ora però
+PSB093	no dieci minu[ti (.) di]eci minuti quarto d'ora però
 PSB005	[mh]
-PSB093	mi ero proprio: arrabbiatissima di queste [cose] {ride}
+PSB093	mi ero proprio: arrabbiatissima di queste [cose] ((ride))
 PSB005	[m:h]
 PSB005	mhmh
 PSB005	a parte questo poi dopo
@@ -62,21 +62,21 @@ PSB005	[m:]:h
 PSB093	e poi io come andato dal m:h
 PSB093	dal privato
 PSB093	perciò eh l'intervento mi è costato [sessantanove]
-PSB005	[ah qui~ quindi] {P} quindi l'intervento anche era privato
+PSB005	[ah qui~ quindi] (.) quindi l'intervento anche era privato
 PSB005	[ah]
-PSB093	[no non è] [privato però] {P} come non ho {P} eh l'esenzio[ne]
+PSB093	[no non è] [privato però] (.) come non ho (.) eh l'esenzio[ne]
 PSB005	[ah non è privato okay]
 PSB005	[eh sì]
 PSB093	per cui ho dovuto pagare anche questo ciò
 PSB093	vabbè va bene non non è che mi dispiace che se mi faceva almeno
 PSB093	spiegava [queste cose qua]
-PSB005	[°no certo {P} sì] sì sì
+PSB005	[°no certo (.) sì] sì sì
 PSB005	ma non ti hanno addormentato per niente?
 PSB093	[e:h no bu]co e [le gocce] eh [le ha me]sso dentro
 PSB005	[un po']
 PSB005	[locale sì]
 PSB005	[sì]
-PSB093	{ride}
+PSB093	((ride))
 PSB093	sto facendo tro:ppi loro con piano piano
 PSB093	scontato che dev~ [dovrebbe]ro spiegare queste [cose sì]
 PSB005	[sì sì]
@@ -84,43 +84,43 @@ PSB005	[mhmh ma non hai fa]tto una visita prima?
 PSB093	con lui no
 PSB005	ah no
 PSB093	no no non mi ha neanche f~ mh
-PSB093	conosci hai capito tu metti {P} tuoi tue mani nel nel mio occhio
+PSB093	conosci hai capito tu metti (.) tuoi tue mani nel nel mio occhio
 PSB093	e non mi spieghi scusami eh
 PSB005	no mh sì non bellissimo sì
 PSB093	no
 PSB093	i mean it's so surprising
 PSB005	mhmh
-PSB093	per me proprio {P} a:h perché
+PSB093	per me proprio (.) a:h perché
 PSB093	non mi dici neanche cosa stai facendo dentro i miei occhi
 PSB005	sì sì infatti
 PSB093	e nonostante che io chiedo
 PSB005	sì sì certo
 PSB093	non mi prepara guarda
-PSB005	comunque sei stata {P} per poco tempo lì all'ospedale dopo sei [tornata a casa subito]
-PSB093	[s:ì sì sì po]i: un {P} quaranta minuti: cinquanta minuti mi h[a: detto] di aspettare
+PSB005	comunque sei stata (.) per poco tempo lì all'ospedale dopo sei [tornata a casa subito]
+PSB093	[s:ì sì sì po]i: un (.) quaranta minuti: cinquanta minuti mi h[a: detto] di aspettare
 PSB005	[mhmh]
 PSB093	poi: sono arrivata
 PSB093	e:h sì
 PSB005	qualcuno ti ha accompagnato a [casa]
 PSB093	[sì s]ì sì sì [sì sì] sì sì
 PSB005	[okay]
-PSB093	mio marito era con me [{P} °perciò°]
+PSB093	mio marito era con me [(.) °perciò°]
 PSB005	[okay okay]
 PSB005	quindi eri in buone mani okay
-PSB093	{ride}
-PSB005	{ride} okay
+PSB093	((ride))
+PSB005	((ride)) okay
 PSB005	tuo marito anche è de~ è del bangladesh sì?
-PSB093	°sì mio mari[to è del ba]ngladesh pe[rò po]veretto: ° {porzione_rimossa_per_privacy}
+PSB093	°sì mio mari[to è del ba]ngladesh pe[rò po]veretto: ° ((porzione_rimossa_per_privacy))
 PSB005	[okay]
 PSB005	[okay]
 PSB005	oh no:
 PSB093	°otto anni e mezzo quasi nove anni lui ha:°
-PSB093	nove anni quasi {P} che ha:
-PSB093	{porzione_rimossa_per_privacy}
+PSB093	nove anni quasi (.) che ha:
+PSB093	((porzione_rimossa_per_privacy))
 PSB005	oh no:
-PSB093	{porzione_rimossa_per_privacy} {P} lui è bravo
-PSB005	no non lo sapevo [scusami] {ride}
-PSB093	[xx] {ride}
+PSB093	((porzione_rimossa_per_privacy)) (.) lui è bravo
+PSB005	no non lo sapevo [scusami] ((ride))
+PSB093	[xx] ((ride))
 PSB005	non lo sapevo
 PSB005	e invece la tua nipotina come sta?
 PSB093	o::h lei
@@ -129,12 +129,12 @@ PSB005	quanto ha adesso?
 PSB093	un anno:
 PSB093	e quattro mesi appena finito
 PSB093	°guarda°
-PSB093	è una cosa che {P} mi:
+PSB093	è una cosa che (.) mi:
 PSB093	mi: mette
 PSB093	fa ridere da morire
 PSB093	guarda
-PSB093	mangia #burek {ride}
-PSB005	{ride}
+PSB093	mangia #burek ((ride))
+PSB005	((ride))
 PSB093	bellissi[ma]
 PSB005	[mo]lto
 PSB093	e [poi sopra]ttutto
@@ -144,20 +144,20 @@ PSB005	[eh sì]
 PSB005	certo
 PSB093	quanti hanni hai
 PSB093	un anno
-PSB093	EH CHE CHE un anno {ride}
+PSB093	EH CHE CHE un anno ((ride))
 PSB005	che meraviglia
 PSB005	e poi cosa dice dice [mamma]
 PSB093	[tu]tto
 PSB093	tutto come ti chiami? #what #is #your #name? in inglese:
 PSB093	fa vedere tutti i denti
 PSB093	poi: mh il dieci era il compleanno di mio marito
-PSB093	e: arrivato {P} m:h allora la visto la torta
-PSB093	{soffia}
+PSB093	e: arrivato (.) m:h allora la visto la torta
+PSB093	((soffia))
 PSB093	me mh dice
-PSB093	{soffia}
+PSB093	((soffia))
 PSB093	non riescre a dire le cand[ele]
 PSB005	[mh]mh
-PSB093	dice di mettere le cande[le >hai ca]pito< {ride}
+PSB093	dice di mettere le cande[le >hai ca]pito< ((ride))
 PSB005	[certo]
 PSB005	c(io)è comunica molto sì sì
 PSB005	[ho capito sì]
@@ -171,35 +171,35 @@ PSB093	ieri ha visto mio marito
 PSB093	e chiama con nome
 PSB093	lui si chiama
 PSB005	okay
-PSB093	lei non riesce pronunciare dice {ride}
-PSB005	{ride}
+PSB093	lei non riesce pronunciare dice ((ride))
+PSB005	((ride))
 PSB005	ma non chiama nonno
 PSB093	prima chiamato nonno
 PSB005	a[desso]
-PSB093	[adesso] che imparato [nome] adesso dice con nome {ride}
+PSB093	[adesso] che imparato [nome] adesso dice con nome ((ride))
 PSB005	[nome]
-PSB005	{ride}
-PSB093	dice {P} {P} auguri {ride}
-PSB005	{ride}
+PSB005	((ride))
+PSB093	dice (.) (.) auguri ((ride))
+PSB005	((ride))
 PSB005	avete fatto una festa una festicciola?
 PSB093	sì no solo a ca[sa la] sua mamma ha portato una torta io ho fatto uno
 PSB005	[ah]
 PSB093	così abbiamo mangiato solo la pizza a casa [insieme]
 PSB005	°[ah okay okay]°
 PSB093	però il per lei il tagliare la torta
-PSB093	con candele: è questo è la festa {ride}
+PSB093	con candele: è questo è la festa ((ride))
 PSB005	eh certo beh sì immagino
 PSB093	xx [xx]
 PSB005	[ma per il suo] compleanno invece della bimba anche avevate fatto una fe[sta]?
-PSB093	[sì] sì sì sì avevamo fatto una festa {ride}
+PSB093	[sì] sì sì sì avevamo fatto una festa ((ride))
 PSB005	[che qua~ se è] quattro mesi fa vuol dire che e[ra]?
 PSB093	[xx]
-PSB093	[no]vembre {P} [°lei è nata a no]vembre°
+PSB093	[no]vembre (.) [°lei è nata a no]vembre°
 PSB005	[°ah okay sì°]
 PSB005	chissà come era contenta
 PSB093	eh
 PSB093	quel giorno non era molto contenta perché
-PSB093	e:hm è stata: a scuola {P} tutto il giorno:
+PSB093	e:hm è stata: a scuola (.) tutto il giorno:
 PSB093	poi c'era quel giorno al pomeriggio c'era questo compleanno verso verso la sera
 PSB093	perciò era <st[anca]> e era ancora piccol[a:]
 PSB005	[°okay°]
@@ -237,11 +237,11 @@ PSB093	[non rie]sce copiare
 PSB005	[mhmh]
 PSB005	o[kay]
 PSB093	[(ecco)] ancora
-PSB093	però {P} guardando questi alfabeto cono[sce]
+PSB093	però (.) guardando questi alfabeto cono[sce]
 PSB005	[mhmh]
 PSB005	beh sì se uno le insegna: di sicuro sì [sì]
 PSB093	[per]ché
-PSB093	vuole scrive[re le]i no {P} allora noi scriviamo e poi {P} imparato dei nomi
+PSB093	vuole scrive[re le]i no (.) allora noi scriviamo e poi (.) imparato dei nomi
 PSB005	[mhmh]
 PSB093	come
 PSB093	tu nonna no l'altra nonna
@@ -249,15 +249,15 @@ PSB093	inizia con d
 PSB005	mhmh
 PSB093	perciò conosce d
 PSB005	ah okay
-PSB093	[tutte] le alfabeto ch[e ini]zia {P} conosce
+PSB093	[tutte] le alfabeto ch[e ini]zia (.) conosce
 PSB005	[mhmh]
 PSB005	[mhmh]
 PSB005	sì sì sì sì
-PSB005	tua figlia mi dicevi che fa l'ar~ {P} architetto vero?
+PSB005	tua figlia mi dicevi che fa l'ar~ (.) architetto vero?
 PSB093	sì sì
 PSB005	okay okay
 ???	buongiorno
-PSB005	{ride}
+PSB005	((ride))
 PSB093	chi volevate fare questo della richiesta per bonus::
 PSB093	as[ilo]
 ???	[per il] cen[tro estivo]?
@@ -273,12 +273,12 @@ PSB093	così vedete an[che voi] [con]
 ???	[va be]nissimo
 PSB005	ah ho visto che la mamma
 PSB005	albanese la mamma
-PSB005	c'ha un altro {P} aspetta un altro bimbo
+PSB005	c'ha un altro (.) aspetta un altro bimbo
 PSB093	°non lo so guarda°
 PSB093	noi sappiamo che non vive con suo marito
 PSB093	però adesso è inc[inta]?
 PSB005	°[eh sì]°
-PSB005	sì l'ho vista adesso {P} c(io)è [si vede adesso]
+PSB005	sì l'ho vista adesso (.) c(io)è [si vede adesso]
 PSB093	[°a:][:h°]
 PSB005	[sì]
 PSB005	hanno molti bimbi loro no?
@@ -298,14 +298,14 @@ PSB093	o:h o:h o:h questo bene
 ???	è stato: doloroso?
 PSB093	quando sparato mi:
 PSB093	proprio nel nella nel cervello pum pum sembrava che dava pistola °quindi°
-PSB005	{ride}
+PSB005	((ride))
 PSB093	faceva xx
 PSB093	poi passato
 PSB093	però questo dolore ancora c'è mi sembra toccando sento questo dolore
 PSB093	buo[ngiorno]
 ??	[vedo che sono tutti a] posto
 ???	buongiorno
-PSB093	{ride}
+PSB093	((ride))
 ??	io ho fatto un po' tardi perché ho dovuto far benzina e tutto
 PSB093	[°s::- s::~°]
 ??	[non so vengo martedì]?
@@ -323,16 +323,16 @@ PSB093	[perché no]n scrivi: non ha non hai scritto nel chat?
 ??	[ah]
 PSB093	[potevi]
 ??	[no]
-PSB093	[potresti] già aggiungere {P} nel chat suo nu[mero così]
+PSB093	[potresti] già aggiungere (.) nel chat suo nu[mero così]
 ??	[c(io)è io]
-??	[no ma ce l'ho] ce l'ho {P} [sì sì]
-PSB093	[ce l'ho allora bi]sogna scrivere {P} nel chat
-PSB093	oggi avete bisogno: {P} [così noi possia]mo dire
+??	[no ma ce l'ho] ce l'ho (.) [sì sì]
+PSB093	[ce l'ho allora bi]sogna scrivere (.) nel chat
+PSB093	oggi avete bisogno: (.) [così noi possia]mo dire
 ??	[ah okay]
 PSB093	se ci sono meno studenti o no
 ??	ah va bene
 PSB093	okay?
-??	okay {P} grazie {P} [ciao]
+??	okay (.) grazie (.) [ciao]
 ???	[grazi]e
 PSB093	buona giornata [buon fine settimana] gra[zie ancora]
 ??	[grazie altrettanto]
@@ -340,13 +340,13 @@ PSB093	buona giornata [buon fine settimana] gra[zie ancora]
 PSB093	e:h dopo
 PSB093	ehm: facciamo questo programma okay?
 ???	sì sì sì
-PSB093	{ride}
+PSB093	((ride))
 ???	e:h tra l'altro [penso che] una formazione che dobbiamo fare la dobbiamo fare tutte insieme
 PSB093	[mh]
 ???	c(io)è nel senso la dobb:iamo fare tutte con te
 ???	un modu[lo]
-PSB093	[lo]ro hanno {P} hanno già [fatto]
-PSB095	[no è che] {P} c(io)è mi sono un po' [confusa perché] ci s~
+PSB093	[lo]ro hanno (.) hanno già [fatto]
+PSB095	[no è che] (.) c(io)è mi sono un po' [confusa perché] ci s~
 ???	[modulo uno]
 PSB093	ot[to ore è quello che ave]vamo già fatto
 PSB095	[xx xx]
@@ -379,7 +379,7 @@ PSB095	eh sì era qu[esto ventuno] novembre,
 PSB095	poi
 PSB095	c(io)è [non so se abbiamo]
 PSB093	[quella settimana do]po le avevamo fatto l'altro
-PSB095	no sì ma quello lo abbiamo fatto soltanto che non capiamo cosa {P} cosa siano queste ehm c(io)è
+PSB095	no sì ma quello lo abbiamo fatto soltanto che non capiamo cosa (.) cosa siano queste ehm c(io)è
 PSB093	aspetta che li guardiamo dopo in[sieme guardiamo e]:hm
 ???	[è meglio guardiamo insieme]
 PSB093	se non avete fatto io lo scrivo
@@ -394,23 +394,23 @@ PSB093	otto ore [hanno fa]tto
 ???	[okay]
 PSB093	perciò de[vono vedere se]
 ???	[va bene dopo vedia]mo
-PSB093	te l'ha~ hanno fatto quattro ore [loro {P} devo fa]re io altre quattro ore
+PSB093	te l'ha~ hanno fatto quattro ore [loro (.) devo fa]re io altre quattro ore
 ???	[sì:]
-???	vab~ dopo [vediamo meglio magari] {ride} [okay]
+???	vab~ dopo [vediamo meglio magari] ((ride)) [okay]
 PSB093	[dopo dopo dopo dopo]
 PSB093	[there's no] [xx]
 PSB005	[come è] andato con lo spid della: signora [marocchina]?
-???	[male:] eh tra~ tragico {P} non abbiamo capito
+???	[male:] eh tra~ tragico (.) non abbiamo capito
 PSB093	perché?
 ???	perché è arrivata una email
-???	a questa signora che diceva {P} la sua richiesta non è possibile: presentarla in quanto {P} lo spid è già stato revocato
+???	a questa signora che diceva (.) la sua richiesta non è possibile: presentarla in quanto (.) lo spid è già stato revocato
 ???	al che abbiamo provato a farne un altro nuovo
 PSB093	eh
 ???	e diceva
 ???	il codice è già presente
 ???	e quindi cosa dobbiamo fare?
 PSB093	chiamare chia[mare]
-PSB095	[ho chia][mato pe]rò {P} c(io)è ci rispondo tipo in:
+PSB095	[ho chia][mato pe]rò (.) c(io)è ci rispondo tipo in:
 ???	[eh]
 ???	c(io)è non [ci rispondono (per otto ore)]
 PSB093	[xx macchina però c'è:] c'è anche un numero dire~ eh con zero sei
@@ -428,7 +428,7 @@ PSB093	beh [l'assistenza avete s]critto
 ???	[però non so se:]
 ???	[sì]
 PSB095	[sì]
-PSB093	come {P} [hai già revocato se hai re]vocato cosa vuol dire revocato vuol dire che è chiuso
+PSB093	come (.) [hai già revocato se hai re]vocato cosa vuol dire revocato vuol dire che è chiuso
 ???	[però non sappiamo se le ha risposto]
 ???	eh esatto però se poi
 ???	proviamo ad aprirne uno nuovo
@@ -454,9 +454,9 @@ PSB093	perché ab[biamo solo suo indiri]zzo e: registrazione e basta
 ???	[non lo so scusa]
 PSB093	[avete] registrato no?
 PSB095	[sì]
-PSB095	sì {P} pe[rò]
-PSB093	[se] li {P} chiamate soltanto chiedere la co~ il codice fiscale che se riesce mandare così dopo
-PSB093	noi possiamo {P} e:h provare sentire
+PSB095	sì (.) pe[rò]
+PSB093	[se] li (.) chiamate soltanto chiedere la co~ il codice fiscale che se riesce mandare così dopo
+PSB093	noi possiamo (.) e:h provare sentire
 PSB093	con que~ [questo]
 ???	[ti ricor]di qual'era?
 ???	magari c'era[vamo salvate qualcosa noi]
@@ -465,12 +465,12 @@ PSB095	[sì]
 PSB093	avete registrato qui nel foglio
 PSB095	°mh sì°
 PSB093	mhmh
-PSB093	{ride}
-PSB005	era rimasto {P} questa curiosità di sapere come era an[data a finire] {ride}
-PSB093	[sì:] {P} guarda {P} propr[io °questo°]
+PSB093	((ride))
+PSB005	era rimasto (.) questa curiosità di sapere come era an[data a finire] ((ride))
+PSB093	[sì:] (.) guarda (.) propr[io °questo°]
 ???	[fallimentare]
 PSB093	dici
-PSB095	{ride}
+PSB095	((ride))
 PSB093	per la burocrazia
 PSB093	ridurre
 PSB093	>che le facciamo questo< faccio proprio di ridere
@@ -484,19 +484,19 @@ PSB093	tre mesi fa quasi
 PSB093	ho cambaito la residen[za]
 PSB005	[mhmh]
 PSB093	perché
-PSB093	cambio residenza c'è anche {P} una cosa
+PSB093	cambio residenza c'è anche (.) una cosa
 PSB093	e:h che può fare insieme
 PSB093	chi conviven[te] marito [insie]me
 PSB005	[mh]
 PSB005	[mhmh]
-PSB093	se una persona io {P} ho {P} faccio la domanda
+PSB093	se una persona io (.) ho (.) faccio la domanda
 PSB093	posso fare anche per il mio [con]vivente
 PSB005	[sì]
 PSB093	ho fatto
 PSB093	lì non serviva sua firma non dice che deve [>doveva< firma]re
 PSB005	[niente]
 PSB005	basta dir[lo]
-???	[ade]sso xx [xx] {ride}
+???	[ade]sso xx [xx] ((ride))
 PSB093	[okay]
 PSB005	[eh]
 PSB093	tornato in[dietro] dicendo dopo u:- un mese [torna]to indietro dicendo
@@ -504,11 +504,11 @@ PSB005	[mh]
 PSB005	[mh]
 PSB093	ah
 PSB093	[n:o]n ave~ lui non aveva <firmato> questo
-PSB093	[ho detto] {P} guarda va [bene]
+PSB093	[ho detto] (.) guarda va [bene]
 PSB093	ho rifatto: con la domanda
 PSB093	[in]tanto [dal ministero quello >della residenza< è arrivato che]
 PSB005	[sì]
-PSB093	è scaduto il tempo che perché lì c'è {P} un tot tempo [che lo]ro [tie]ne:
+PSB093	è scaduto il tempo che perché lì c'è (.) un tot tempo [che lo]ro [tie]ne:
 PSB005	[mhmh]
 PSB005	[okay]
 PSB005	dopo devi rifarl[la]
@@ -522,7 +522,7 @@ PSB093	un'altra volta per il mi[nist][ero]
 PSB005	[mhmh]
 PSB093	con la firma tutto quanto
 PSB093	venti marzo
-PSB005	siamo {P} quasi un mese sì
+PSB005	siamo (.) quasi un mese sì
 PSB093	un mese
 PSB093	io
 PSB093	questi giorno ho telefonato ho riscritto che punto siamo
@@ -546,7 +546,7 @@ PSB093	e:h non risponde[va e ho] s~ manda~ rimandato l'email c(io)è
 PSB005	[mhmh]
 PSB093	>allora< ha detto che: eh scri~ e:h mh ho mandato mio marito
 PSB093	e non ha ricevuto dice senza appuntamento oggi no vieni domani
-PSB093	allora {P} ieri è andato di nuovo
+PSB093	allora (.) ieri è andato di nuovo
 PSB093	<senza guardare la pratica>
 PSB093	dice
 PSB093	ah
@@ -554,7 +554,7 @@ PSB093	e: sua pratica: mh adesso non c'è niente
 PSB093	non: non abbiamo nes[sun do]cumentazione
 PSB005	[niente]
 PSB093	COSA non avete più nessun documentazione
-PSB093	mia moglie è già tre mesi adesso già residente {P} il mio cos'è successo
+PSB093	mia moglie è già tre mesi adesso già residente (.) il mio cos'è successo
 PSB093	guardate
 PSB093	lui che insistito
 PSB093	poi alla fine ha guardato
@@ -567,7 +567,7 @@ PSB005	e poi?
 PSB093	ha det~ ieri [perciò adesso] devo aspettare e vedere che cosa](succede)]
 PSB005	[ah ieri okay]
 ???	e:h [abbiamo]la carta d'identità della signora
-PSB005	{starnutisce} [scusa]
+PSB005	((starnutisce)) [scusa]
 ???	m[a:]
 PSB093	[°e] codice [fisca]leok?ay°
 ???	[sì sì]
@@ -594,7 +594,7 @@ PSB093	[abbasta]nza solo una vol[ta tu fai] riconoscimento facciale è già a po
 ???	[mh]
 ???	[eh sì]
 ???	okay perché possiamo se no: riprovare magari
-???	non lo so {P} se ri~ provare ora
+???	non lo so (.) se ri~ provare ora
 ???	e vedere se dà ancora che il suo codice fiscale [è già]
 PSB093	[s:]ì
 ???	magari facciamo [questa prova]
@@ -603,13 +603,13 @@ PSB093	però avete codice [fisca]le
 ???	[sì]
 PSB093	tutte e due i documen[ti con i xx]
 ???	[sì tessera sanita]ria e carta d'identità
-PSB093	okay riprovate e vedete {ride}
-???	{ride}
+PSB093	okay riprovate e vedete ((ride))
+???	((ride))
 ???	mi dispiace avere questi dati in realtà però:
 PSB093	no [quando abbiamo fatto: normalmente lo possiamo cancella:re]
 ???	[magari possiamo rifarla ancora e poi cancelliamo tutto]
 PSB005	[secondo me la signora]
-???	{ride}
+???	((ride))
 PSB005	non si preoccupa se riuscite soprattut[to]
 ???	[spe]ria[mo]
 PSB005	[°no] infatti°
@@ -620,7 +620,7 @@ PSB005	okay
 PSB093	stata male poi dopo non lo so a~ adesso che cosa è successo dovrebbero arrivare
 PSB005	mhmh
 PSB093	possiamo senti[re]
-PSB005	[no se: a]rrivano io ci sto volentieri con loro che {P} secondo me la ragazza grande è più contenta di stare con me
+PSB005	[no se: a]rrivano io ci sto volentieri con loro che (.) secondo me la ragazza grande è più contenta di stare con me
 PSB093	°bra:va questi°
 PSB005	sì
 PSB093	°sono bravissimi° bravissimi in senso che
@@ -636,7 +636,7 @@ PSB093	[no no]
 PSB093	[sì sì sì s]ì sì abbiamo cercato di risolvere quante fatiche abbiamo fatto con questo insegnante abbiamo fatto quante riunioni
 PSB093	con l'assistente socia:le
 PSB093	educatore:, segrereterie:
-PSB093	{sospira}
+PSB093	((sospira))
 PSB005	<che persone che ci sono in giro>
 PSB005	c(io)è [ma poi un insegna~]
 PSB093	[e poi xx un insegna]n[te è] questo che mi preoccupa
@@ -698,7 +698,7 @@ PSB093	secondo me
 PSB005	boh non lo [so]
 PSB093	[so] chi sono alle dieci arrivati ad[esso xx]
 PSB005	[con calma]
-PSB093	ho già mandato via {ride}
+PSB093	ho già mandato via ((ride))
 PSB005	eh vabbè ma adesso vado io se c'è bisogno tu cosa fai oggi?
 PSB093	oggi adesso lo scrivo perché loro hanno: m:h creato nuovo laboratorio di:
 PSB093	e:h intelligenza artificiale
@@ -726,8 +726,8 @@ PSB005	[o:h no:]
 ???	tre
 PSB093	dio mi:o,
 PSB005	e come te che sei andata anche lei è andata all'ospedale
-PSB005	{ride} tutti quanti
-PSB093	{ride}
+PSB005	((ride)) tutti quanti
+PSB093	((ride))
 PSB005	adesso stai meglio?
 ???	sì
 PSB093	adesso arriva l:'insegnante che vi: aiuta que[sto xx]
@@ -740,14 +740,14 @@ PSB093	ah
 PSB005	andate a chiedere sì
 PSB093	a:h queste sono le [tematiche]
 PSB005	[ah wo]w
-PSB093	le tematiche che: trattiamo {P} m:h in scuo[la]
-PSB005	[mh]mh ma {P} questo me lo immaginavo un po' ah ma forse mi avevi detto sai
-PSB005	ah [il] {P} #land #grabbing
+PSB093	le tematiche che: trattiamo (.) m:h in scuo[la]
+PSB005	[mh]mh ma (.) questo me lo immaginavo un po' ah ma forse mi avevi detto sai
+PSB005	ah [il] (.) #land #grabbing
 PSB093	[ah]
 PSB005	però la intelligenza artificiale non no no non lo sapevo c(io)è fate [anche un laboratorio] sull'intelligenza artificiale
 PSB093	[adesso adesso]
 PSB093	nuovo che abbiamo creato adesso
-PSB005	e [come] {P} l~ lo dovete ancora sperimentare però {P} è n[uovo]
+PSB005	e [come] (.) l~ lo dovete ancora sperimentare però (.) è n[uovo]
 PSB093	[xx]
 PSB093	[e:h] quest~ eh settimana: di maggio
 PSB005	mhmh
@@ -767,10 +767,10 @@ PSB005	sono insegnanti degli adulti
 PSB093	ah ah
 PSB005	quelli che lavorano al ci pi a
 PSB093	okay ok[ay]
-PSB005	[ho fatto] {P} un c~ ah ma te l'avevo detto for[se ho fatto un corso e un] giorno abbiamo guardato:
+PSB005	[ho fatto] (.) un c~ ah ma te l'avevo detto for[se ho fatto un corso e un] giorno abbiamo guardato:
 PSB093	[sì sì sì]
 PSB005	abbiamo parlato del dell'intelligenza artificiale
-PSB093	perciò noi abbiamo creato {P} [ques]to
+PSB093	perciò noi abbiamo creato (.) [ques]to
 PSB005	[mhmh]
 PSB093	e:h se lo leggi que[sto] riesci un attimo forse capire
 PSB005	[sì]
@@ -789,14 +789,14 @@ PSB093	riesci legge[re:]?
 PSB005	[sì sì sì]
 PSB005	sì sì
 PSB005	bello
-PSB005	ah #mind e #machine è quello sul {P} [sull'ei] ai [ho capito]
+PSB005	ah #mind e #machine è quello sul (.) [sull'ei] ai [ho capito]
 PSB093	[noi abbiamo]
 PSB093	[chiama a]bbiamo chiamato
 PSB005	bellissimo
-PSB093	{ride}
+PSB093	((ride))
 PSB093	doppio senso
 PSB005	certo
-PSB093	{ride}
+PSB093	((ride))
 PSB005	<bellissimo il titolo>
 PSB093	eh
 PSB005	non avevo capito sì
@@ -843,7 +843,7 @@ PSB093	tanti::ssimi alunni
 PSB005	che bel[lo però]
 PSB093	[tantis]simi
 PSB005	e sono contenti? sì [sicuramente]
-PSB093	[oh sì:] {ride}
+PSB093	[oh sì:] ((ride))
 PSB093	[i pro]fessori che: da tanti anni l~ loro che contattano a noi
 PSB005	[xx]
 PSB005	mhmh eh sì ormai ci credo sì
@@ -862,18 +862,18 @@ PSB093	e altri che lo scrivo per programmare
 PSB005	ma lo fate proprio nell'orario scolasti[co]?
 PSB093	[sì] sì [sì sì sì sì]
 PSB005	[sì non extra]
-PSB093	no no no no {P} [no] no
+PSB093	no no no no (.) [no] no
 PSB005	[okay]
 PSB093	in classe
 PSB005	sì sì
-PSB005	nelle ore {P} di solito i docenti quali sono che vi chiamano di italiano di storia:
+PSB005	nelle ore (.) di solito i docenti quali sono che vi chiamano di italiano di storia:
 PSB093	eh dipende [non è] neces[sario]
 PSB005	[okay]
 PSB005	[okay]
 PSB005	°okay okay°
 PSB005	bello
-PSB093	{ride}
-PSB005	va bene allora ti lascio lavo[rare {P} vado a vedere se c'è]bisogno di là
+PSB093	((ride))
+PSB005	va bene allora ti lascio lavo[rare (.) vado a vedere se c'è]bisogno di là
 PSB093	[sì grazie]
 PSB005	[okay]
 PSB093	[sì xx] xx questi nuovi che sono arri[vati]
@@ -887,7 +887,7 @@ PSB005	[per colazione]
 PSB005	[no ma no no guarda]
 PSB005	[ho fi~ no ma ho fatto colazio~] dopo dopo quando: quando faccio coi bambini [prendo]
 PSB093	[tu lo sa]i che c'è tutto di più perciò prendi xx [assolutamente]
-PSB005	[grazie {ride} grazie gra][zie]
+PSB005	[grazie ((ride)) grazie gra][zie]
 PSB093	[se]nza anche chiedere
 PSB093	questi sono le cose apposta lasciato qui
 PSB005	va bene vado allora

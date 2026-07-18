@@ -874,7 +874,7 @@ PSB005	volontaria
 PSB018	e quando lei
 PSB018	mh ha
 PSB018	ehm eh
-PSB018	saw . pass
+PSB018	saw (.) pass
 PSB005	visto
 PSB018	visto s~ sì sì visto
 PSB018	lei mi ha chiesto se noi abbiamo un luogo per vivere
@@ -992,7 +992,7 @@ PSB005	~ato
 PSB018	l'altro
 PSB005	eh non lo so
 PSB018	no non mi ricordo come
-PSB005	non lo so neanche io
+PSB005	non lo so neanche io ride
 PSB018	e basta ma tutti questi nomi lo stess~ eh un tipo di vino ma e se eh ma pro~ è prodotto produ~
 PSB005	mhmh
 PSB018	qui o lì o puglia io o bologna o non so da dove sicilia
@@ -1391,7 +1391,7 @@ PSB018	mhmh
 PSB005	e non so se magari ci sono delle cose simili perché è al confine ho mangiato soprattutto un tipo di
 PSB018	sì ci sono ci sono
 PSB005	delle specie di ravioli
-PSB018	pirožki ride
+PSB018	pirožki ((ride))
 PSB005	sì esatto sì sono buoni mi piacciono molto
 PSB018	mh sì
 PSB018	e

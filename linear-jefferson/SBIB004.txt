@@ -1,7 +1,7 @@
 PSB005	>okay<
 PSB005	allora mi stavi dicendo che sei qui da undici anni che fai questo lavoro?
 PSB041	sì
-PSB005	[eh >no no< ma non] {P} no non fa niente >no no<
+PSB005	[eh >no no< ma non] (.) no non fa niente >no no<
 ???	[°se n'è andata°]
 PSB005	>okay<
 PSB005	e:h
@@ -10,12 +10,12 @@ PSB041	sì, piace
 PSB005	sei bravo?
 PSB041	certo che bravo
 PSB005	ma hai fatto una scuola per imparare?
-PSB041	e:h i~ già paese io imparato da paese qua arrivato {P} così
+PSB041	e:h i~ già paese io imparato da paese qua arrivato (.) così
 PSB041	preso questo la[voro], però non è andato:
 PSB005	[(>okay<)]
 PSB041	scuola qui però: già
 PSB005	ed [è dif~]
-PSB041	[lavorato]:: {P} sempre qui
+PSB041	[lavorato]:: (.) sempre qui
 PSB005	mhmh
 PSB041	tredici quattordici anni::
 PSB041	b~ bologna facendo barbiere
@@ -32,10 +32,10 @@ PSB005	<°ah, capito°>
 PSB005	ma adesso non c'è più?
 PSB041	c'è
 PSB005	ah [(c'è ancora)]
-PSB041	[questo non è mio] io lì {P} fatto dipendente: [lavorato] {P} altri
+PSB041	[questo non è mio] io lì (.) fatto dipendente: [lavorato] (.) altri
 PSB005	>[sì sì sì sì] sì<
 PSB005	certo certo
-PSB005	io e~ sono di bologna {P} e:h però non me lo ricordo adesso il negozio in via del pratello ma
+PSB005	io e~ sono di bologna (.) e:h però non me lo ricordo adesso il negozio in via del pratello ma
 PSB005	sicuramente c'è
 PSB005	ehm
 PSB005	quindi sei qui da tanti anni?
@@ -50,7 +50,7 @@ PSB041	è molto bene poi anche questa quartiere e::h san vitale: (no è) adesso 
 PSB005	qui [x]
 PSB041	[pri]ma::: un po' casino, però adesso
 PSB005	ah, [okay]
-PSB041	[molto tra]nquillo {P} lavorando non è problema (nessuno)
+PSB041	[molto tra]nquillo (.) lavorando non è problema (nessuno)
 PSB005	quindi è cambiato in tanti anni?
 PSB041	sì:
 PSB005	il quartiere
@@ -60,7 +60,7 @@ PSB041	poi anche:
 PSB041	gente bravi, tutti br[avi bo]logna quando trovo
 PSB005	[okay]
 PSB041	(ab)bastanza tutti bravi
-PSB005	mhmh {P} e:
+PSB005	mhmh (.) e:
 PSB005	vengono tante persone qui?
 PSB041	sì
 PSB041	vengono tutto $bangalese, pakistano, indiano, pak~ italiano, altri xx inglese
@@ -87,8 +87,8 @@ PSB005	[mh]mh come hai fatto a imparare?
 PSB041	così
 PSB041	io imparato (più chi::) fatto lavoro
 PSB005	mhmh
-PSB041	io facendo {P} barbiere >uno uno<
-PSB041	stavo là a sentire {P} eh
+PSB041	io facendo (.) barbiere >uno uno<
+PSB041	stavo là a sentire (.) eh
 PSB005	>mhmh<
 PSB005	[anche] con i colleghi o?
 PSB041	[(preso)]
@@ -113,7 +113,7 @@ PSB041	basta
 PSB005	e perché parli tante lingue?
 PSB041	ah perché quanto: c'è mio paese seconda lingua è inglese
 PSB005	mhmh
-PSB041	poi {P} primo bangla
+PSB041	poi (.) primo bangla
 PSB041	poi qua: c'è vicino india
 PSB041	perché io nato frontiera proprio frontiera [india]
 PSB005	[okay]
@@ -135,27 +135,27 @@ PSB005	°mhmh°
 PSB041	settanta uno già separato[::] da
 PSB005	[certo]
 PSB041	però
-PSB041	hindi {P} urdu somiglia
+PSB041	hindi (.) urdu somiglia
 PSB005	°okay°
 PSB041	certe x tanta somiglia, quindi
 PSB041	capiamo:
 PSB005	[certo]
 PSB041	[(ab)bastanza]
-PSB005	mamma {P} siete bravissimi, io parlo solo italiano {ride}
+PSB005	mamma (.) siete bravissimi, io parlo solo italiano ((ride))
 PSB041	(sì certo)
 PSB041	così
 PSB041	poi qua arriva tanti
 PSB041	inglese, anche filippini, anche:::
-PSB041	srilankese, {P} tutti
+PSB041	srilankese, (.) tutti
 PSB005	mhmh
 PSB041	quale c'è: tutto il mondo arriva qua italia va
 PSB041	girare inglese anche arriva turisti
 PSB005	°mhmh°
 PSB041	ogni tanto anche qui entra turisti fare barba, capelli
 PSB005	>°sì sì sì sì sì°<
-PSB041	così anche parla un po' pochino inglese {ride}
+PSB041	così anche parla un po' pochino inglese ((ride))
 PSB005	sì sì
-PSB041	(sai) {P} andando
+PSB041	(sai) (.) andando
 PSB005	[certo ce]rto certo
 PSB041	[xxxx]
 PSB005	non hai fatto una scuola di italiano?
@@ -169,7 +169,7 @@ PSB005	[mhmh] mhmh
 PSB041	senza soldi non puoi vivire
 PSB005	no:, no:
 PSB005	certo
-PSB041	così {P} poco scuola, però
+PSB041	così (.) poco scuola, però
 PSB041	più che lavorato così imparato bene
 PSB005	°mhmh°
 PSB041	un po'
@@ -178,9 +178,9 @@ PSB041	[°per lavoro°]
 PSB041	per me no
 PSB041	pe~ perché io inizio
 PSB041	entrato
-PSB041	due tre giorni fatto pulizia {P} di: scala
+PSB041	due tre giorni fatto pulizia (.) di: scala
 PSB041	c'è mio zio
-PSB041	con~ fatto contratto lui {P} però
+PSB041	con~ fatto contratto lui (.) però
 PSB041	non è piaciuto
 PSB041	già lui ce l'ho:: xxxxx capito?
 PSB005	mhmh
@@ -195,13 +195,13 @@ PSB041	[un] po':
 PSB041	io già prima barbiere
 PSB005	mhmh
 PSB041	paese zio det~ io detto zio
-PSB041	io {P} devo cercare mio lavoro, io capisco barbieri bene
+PSB041	io (.) devo cercare mio lavoro, io capisco barbieri bene
 PSB005	mhmh
 PSB041	me li (ritrovo) bene io tranquillo
 PSB005	mh
-PSB041	>dopo h(o) detto< {P} cerca io s~
+PSB041	>dopo h(o) detto< (.) cerca io s~
 PSB041	primo giorni parlato, secondo giorni parlato con una
-PSB041	(fatto) prova {P} fatto xxxx lavorando
+PSB041	(fatto) prova (.) fatto xxxx lavorando
 PSB041	così
 PSB005	subito
 PSB041	s~ subito:
@@ -221,7 +221,7 @@ PSB005	[e]
 PSB041	adesso lavorando tranquillo
 PSB005	bene
 PSB041	c'è anche qua famiglia
-PSB041	c'è: {P} sì sì
+PSB041	c'è: (.) sì sì
 PSB041	figlio
 PSB041	due
 PSB041	figlia, figlio
@@ -233,7 +233,7 @@ PSB041	così, una che otto anni
 PSB005	°mhmh°
 PSB041	due figli
 PSB005	mhmh [e]
-PSB041	[u]na {P} maschio e femmina
+PSB041	[u]na (.) maschio e femmina
 PSB005	maschio e femmina, e abitate qui vicino? [o:]
 PSB041	[no] abitiamo: lontano: a via::
 PSB041	zona savena
@@ -243,24 +243,24 @@ PSB041	via
 PSB005	ah sì sì sì e vi piace la zona savena?
 PSB041	molto bella
 PSB041	s:ilenzio:so
-PSB005	avete cambiato {P} [zo:na] o sempre siete [sempre lì]?
+PSB005	avete cambiato (.) [zo:na] o sempre siete [sempre lì]?
 PSB041	[e~]
 PSB041	[<no>], no, cambiato perché prima abitava:: san donato
 PSB005	mh
 PSB041	via
 PSB005	mh[mh]
-PSB041	[però] a otto anni {P} dopo:
+PSB041	[però] a otto anni (.) dopo:
 PSB041	contratto finito
 PSB005	[°hai cambiato, sì°]
 PSB041	[presi lì:]
 PSB041	xx
 PSB041	(clienti)
 PSB041	xx
-PSB041	{suona_il_cellulare}
+PSB041	((suona_il_cellulare))
 PSB005	se c'è bisogno rispondi
-PSB005	[>aspetta<] {P} stoppo un attimo
+PSB005	[>aspetta<] (.) stoppo un attimo
 PSB041	[(dai)]
-PSB005	{registrazione_interrotta}
+PSB005	((registrazione_interrotta))
 PSB005	aspetta mi stavi dicendo che abitavi in via in san in san donato,
 PSB041	sì sì
 PSB005	e ti piace di più la zona savena?
@@ -277,7 +277,7 @@ PSB041	molto passano macchine anche
 PSB005	ah sì sì sì
 PSB005	[certo, certo]
 PSB041	[x lì]:
-PSB041	zona savena {P} più tranquillo così anche c'è casa vicino $giardina
+PSB041	zona savena (.) più tranquillo così anche c'è casa vicino $giardina
 PSB005	mhmh, è vero sì
 PSB041	qua la xx casa tutto il parte $giardina
 PSB041	anche:
@@ -285,7 +285,7 @@ PSB041	PULITO
 PSB005	mhmh
 PSB041	una cosa:
 PSB005	mhmh
-PSB041	più tranquillo, [{P} ba]mbini gioca
+PSB041	più tranquillo, [(.) ba]mbini gioca
 PSB005	[mhmh]
 PSB041	finisci scuola, vai là
 PSB041	fare $monopatti, fai bici
@@ -296,7 +296,7 @@ PSB041	mangiare, dopo esco
 PSB041	da nove a dieci
 PSB005	mhmh
 PSB041	mezz'ora, quaranta minuti cammina io, bambini
-PSB041	gioca {P} [$mo]nopatti oppure bici {P} bici
+PSB041	gioca (.) [$mo]nopatti oppure bici (.) bici
 PSB005	[mh]
 PSB005	mhmh
 PSB041	io $moglia, girare
@@ -352,7 +352,7 @@ PSB005	quindi aveva fatto amicizia?
 PSB041	eh
 PSB005	sì
 PSB041	così adesso
-PSB041	maschio già va prima media quindi devo cambiare forza {ride}
+PSB041	maschio già va prima media quindi devo cambiare forza ((ride))
 PSB005	eh certo sì, per forza
 PSB041	[eh si è tro]vato vicino casa [questa volta] fortunato
 PSB005	[sì sì]
@@ -361,17 +361,17 @@ PSB005	[e lui] è contento?
 PSB041	[xx]
 PSB041	sì
 PSB005	ha accettato?
-PSB041	no {P} già deve cambiare x[x e:h e:h]
+PSB041	no (.) già deve cambiare x[x e:h e:h]
 PSB005	[°eh sì°]
 PSB041	deve cambiare u~ u~ una volta parlando papà
 PSB041	mio questi amici va lì eh: vicino (fiera)
 PSB041	xx papà
-PSB041	lo sai {P} un'o:ra
-PSB041	un'ora {P} prima
+PSB041	lo sai (.) un'o:ra
+PSB041	un'ora (.) prima
 PSB041	alzare un'ora un'ora e mezzo prima devi partire da casa, autobus un giorni sciopero, un giorni
 PSB041	casino
 PSB005	mhmh
-PSB041	dopo {P} ho detto ba~ [basta]
+PSB041	dopo (.) ho detto ba~ [basta]
 PSB005	[mhmh]
 PSB005	può andare a piedi adess~
 PSB041	xx sì, cinque min[uti, s]ette minuti
@@ -391,7 +391,7 @@ PSB005	[bene]
 PSB005	bene, e voi con loro che lingua parlate?
 PSB041	lo[ro]
 PSB005	[ora] (sai tu)
-PSB041	>allora< {P} parlate più italiano
+PSB041	>allora< (.) parlate più italiano
 PSB005	mhmh
 PSB041	pochino già: parlato, imparato bangla, pochino
 PSB005	m[h]
@@ -405,7 +405,7 @@ PSB005	e un pochino
 PSB041	pochino bangla
 PSB041	metà metà, come: io parla italiano non parla bene,
 PSB005	[>mhmh<]
-PSB041	[>allora<] {P} italiano bene
+PSB041	[>allora<] (.) italiano bene
 PSB005	mhmh
 PSB041	e st~ e studiare qua, no? [nato qua, tutt'e due nato] qua
 PSB005	[eh sì, certamente]
@@ -429,7 +429,7 @@ PSB041	papà non devi parlar così
 PSB041	capito? [ha visto:]
 PSB005	[tremendi], tremendi
 PSB041	<sì:>, devo adesso imparare bene figli (dici)
-PSB005	{ride}
+PSB005	((ride))
 PSB005	mhmh ma e la lingua bengalese è difficile da [imparare]?
 PSB041	[u:h, >°certo°<]
 PSB041	per qua difficile, per me no diffi[cile]
@@ -438,7 +438,7 @@ PSB041	[eh] come io italiano difficile, non capisco tutto
 PSB005	mh[mh]
 PSB041	[p]erò
 PSB005	mhmh ho visto che la scrittu[ra è:]
-PSB041	[e:h] è un po' difficile {ride}
+PSB041	[e:h] è un po' difficile ((ride))
 PSB005	è bella però
 PSB041	ma sì
 PSB005	mhmh, okay
@@ -457,7 +457,7 @@ PSB041	però amici loro
 PSB041	buoni
 PSB005	mhmh
 PSB041	io vedo ogni tanto (loro) parla al cellulare
-PSB041	vai giocare: {ride} eh [sì::]:
+PSB041	vai giocare: ((ride)) eh [sì::]:
 PSB005	[xxxx sì sì]
 PSB005	ma voi riuscite
 PSB005	per esempio su internet a guardare:
@@ -478,7 +478,7 @@ PSB005	mhmh
 PSB041	lui piace troppo geografia
 PSB005	a:h sì?
 PSB005	e quindi guarda [d~]?
-PSB041	[E]::H lui vede tutto il mondo quale g~ geografia {P} quale paese
+PSB041	[E]::H lui vede tutto il mondo quale g~ geografia (.) quale paese
 PSB005	bello
 PSB005	ma è
 PSB005	siete riu[sciti a]?
@@ -495,7 +495,7 @@ PSB005	che bello
 PSB005	ma che bravo
 PSB005	non è
 PSB041	e:h
-PSB005	non è come al solito dici[amo, non è] frequente ecco {ride}
+PSB005	non è come al solito dici[amo, non è] frequente ecco ((ride))
 PSB041	[no, no]
 PSB041	no
 PSB041	no io prima inizio:
@@ -528,7 +528,7 @@ PSB005	[sì sì sì sì]
 PSB041	ad[esso:]
 PSB005	[abita vici]no a casa vostra?
 PSB041	no
-PSB041	san donato [però] c'è la macchina [vai {P} °casa°]
+PSB041	san donato [però] c'è la macchina [vai (.) °casa°]
 PSB005	[a:h]
 PSB005	[o::kay]
 PSB005	°okay°
@@ -549,7 +549,7 @@ PSB041	vai casa, $moglia, parlare, così
 PSB041	una ragazza [brava, molto bra]va
 PSB005	[bene bene]
 PSB005	ma siete mai tornati in bangladesh?
-PSB041	sì sì, ogni: {P} ogni due anni
+PSB041	sì sì, ogni: (.) ogni due anni
 PSB005	[°ah okay°]
 PSB041	[torno un po'] ma c'è mamma papà
 PSB005	a[h]
@@ -557,14 +557,14 @@ PSB041	[p]apà non c'è, mamma c'è
 PSB005	°mh[mh°]
 PSB041	[c'è s]orella, nipote
 PSB041	[c'è parenti]
-PSB005	[mh {P} mh]mh
+PSB005	[mh (.) mh]mh
 PSB005	certo
 PSB005	co~ ma è un viaggio lungo per and[are]?
 PSB041	[sì]
 PSB005	che [che via]ggio bisogna fare?
 PSB041	[aereo]
-PSB041	eh viaggio: {P} fare:
-PSB041	°e::h° {P} quale volo prendo io?
+PSB041	eh viaggio: (.) fare:
+PSB041	°e::h° (.) quale volo prendo io?
 PSB005	mh
 PSB041	volo
 PSB041	prendo: turkish
@@ -586,10 +586,10 @@ PSB005	tantiss[imo]
 PSB041	[ven]titré, ventiquattro
 PSB005	mh
 PSB005	[sì sì]
-PSB041	[perché c'è] cambio: {P} passa tempo
+PSB041	[perché c'è] cambio: (.) passa tempo
 PSB005	mhmh
 PSB005	ed è molto diverso il
-PSB005	bangladesh dall'i~ {P} [da bolo]gna? {ride}
+PSB005	bangladesh dall'i~ (.) [da bolo]gna? ((ride))
 PSB041	[<sì>]
 PSB041	molto diverso
 PSB041	bangladesh c'è sacco di $genti, paese piccolo
@@ -604,7 +604,7 @@ PSB005	mh
 PSB041	tu vai di qua::
 PSB041	due chilometri anche tre ora a fermare per traffico così
 PSB041	pieno genti
-PSB041	{ride} [pieno ma]cchina c'è piano (otto)
+PSB041	((ride)) [pieno ma]cchina c'è piano (otto)
 PSB005	[perché]
 PSB041	non puoi muovere, [così]
 PSB005	[°sì sì] sì sì°
@@ -612,15 +612,15 @@ PSB005	ho capito sì, e
 PSB005	il clima è diverso?
 PSB041	eh sì
 PSB041	qua::
-PSB041	un po' freddo {P} quando inverno
-PSB041	caldo {P} non c'è umidità qua, meno umidità, paese c'è
+PSB041	un po' freddo (.) quando inverno
+PSB041	caldo (.) non c'è umidità qua, meno umidità, paese c'è
 PSB041	caldo
 PSB041	molta umi[dità]
 PSB005	[mhmh]
-PSB041	sudare {P} troppo
+PSB041	sudare (.) troppo
 PSB005	anche a bologna sta diventando un [po' cos]ì
 PSB041	[no]
-PSB005	{ride}
+PSB005	((ride))
 PSB041	però ancora va bene bologna
 PSB005	[sì sì]
 PSB041	[però]
@@ -628,12 +628,12 @@ PSB005	[sì sì]
 PSB041	[ora] quaranta gradi eh bangladesh, quaranta quarantacinque
 PSB041	caldo [eh]
 PSB005	[tra] un po' arriva anche qui
-PSB005	{ride}
-PSB041	gi[à:] {P} ieri parlando
+PSB005	((ride))
+PSB041	gi[à:] (.) ieri parlando
 PSB005	[sì sì]
 PSB041	xx
 PSB041	(morire) anche, corrente problema
-PSB005	ah {P} per[ché]?
+PSB005	ah (.) per[ché]?
 PSB041	[co]rrente:: qua qua mai
 PSB041	cade corrente
 PSB005	mh
@@ -652,12 +652,12 @@ PSB041	diverso un po' x
 PSB005	sì sì
 PSB041	però quando non c'è corrente non è non puoi avere s~ mantenere casa
 PSB005	certo
-PSB005	che disastro {ride}
+PSB005	che disastro ((ride))
 PSB041	però io fortunato c'è::
 PSB041	campagna casa, non è città
 PSB005	okay
 PSB005	okay
-PSB041	c'è alberi lì {P} sotto metti
+PSB041	c'è alberi lì (.) sotto metti
 PSB041	sedia, qualcosa
 PSB041	per riposare, bere [acqua]
 PSB005	[mhmh]
@@ -686,16 +686,16 @@ PSB041	lavorava tutta bologna
 PSB005	okay, °okay°
 PSB005	sì [sì]
 PSB041	[mio] fratello c'è cuoco
-PSB041	fare lavoro cuo[co] {P} zio c'è lavoro alberghi
+PSB041	fare lavoro cuo[co] (.) zio c'è lavoro alberghi
 PSB005	[okay]
 PSB041	(un altri) c'è
 PSB041	c'è impresa (edile)
 PSB041	fare::
 PSB041	condomini
 PSB005	[mhmh]
-PSB041	[c'è] {P} tutti che lavoro
+PSB041	[c'è] (.) tutti che lavoro
 PSB005	sì sì sì
-PSB005	e tu sei venuto da solo e poi è venuta la tua {P} moglie o siete venuti insi[eme]?
+PSB005	e tu sei venuto da solo e poi è venuta la tua (.) moglie o siete venuti insi[eme]?
 PSB041	[venuto] solo
 PSB005	okay
 PSB041	solo dopo:

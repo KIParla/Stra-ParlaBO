@@ -953,7 +953,7 @@ PSB007	io ho studiato in russo
 PSB007	russo in russo
 PSB007	per me in russo sì
 PSB005	sì
-PSB005	e poi c'era una materia che si chiamava ucraino e imparavate l' ucraino okay
+PSB005	e poi c'era una materia che si chiamava ucraino e imparavate l'ucraino okay
 PSB007	certo lingua ucraina e
 PSB005	sì
 PSB007	c'era anche la materia lingua russa

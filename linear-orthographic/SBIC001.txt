@@ -383,7 +383,7 @@ PSB005	per niente
 PSB001	ma voi sap~ sapete quella la fac~ la fa~ la faticoltà si chiama
 PSB001	ah fisico eh
 PSB001	eh
-PSB001	tiān wén xué . zǎ shuō de a
+PSB001	tiān wén xué (.) zǎ shuō de a
 PSB001	fisico
 PSB002	ah
 PSB002	astronomia
@@ -965,8 +965,8 @@ PSB002	ah
 PSB001	scusa
 PSB005	no no no prego prego prego
 PSB002	xx nǐ shuō
-PSB001	jiù shì . jiù shì tā
-PSB001	jiù shì lù dì . rán hòu wài miàn yǒu yī quān hé yǒu
+PSB001	jiù shì (.) jiù shì tā
+PSB001	jiù shì lù dì (.) rán hòu wài miàn yǒu yī quān hé yǒu
 PSB002	ah
 PSB001	rán hòu yòu yī quān lù dì rán hòu yòu yī quān hé yǒu
 PSB001	io cerco di circ~ circonda
@@ -1216,14 +1216,14 @@ PSB005	mhmh
 PSB001	modi
 PSB001	ah cucinare
 PSB002	sì
-PSB001	suàn ma . bā zhǒng zuò fǎ
+PSB001	suàn ma (.) bā zhǒng zuò fǎ
 PSB002	a bā zhǒng wǒ yǐ wéi nǐ shuō
 PSB002	cài xì
 PSB001	duì acài xì wǒ xiǎng shuō cài xì dàn wǒ bù zhī dào zěn me qù fān yì
 PSB002	duì a
 PSB001	mh
 PSB002	sì
-PSB001	bā zhǒng zuò fǎ . yīng gāi yě bù shì zuòfǎ
+PSB001	bā zhǒng zuò fǎ (.) yīng gāi yě bù shì zuòfǎ
 PSB002	otto filoni di
 PSB005	mhmh
 PSB002	cioè di cucina
@@ -1306,7 +1306,7 @@ PSB002	sì
 PSB002	duò jiāo yú tóu sì
 PSB005	ma è una zuppa o è un
 PSB002	no con la testa di pesce
-PSB001	sì
+PSB001	sì ride
 PSB005	okay
 PSB001	solo la testa di pesce
 PSB002	sì
@@ -1375,6 +1375,7 @@ PSB001	sì
 PSB005	io sono andata una volta per comprare l'olio di cocco
 PSB002	sì
 PSB005	per mettermelo nei capelli
+PSB001	ride
 PSB005	sì
 PSB005	ma
 PSB005	ci ho provato
@@ -1538,7 +1539,7 @@ PSB001	e
 PSB002	sud o nord
 PSB002	della piazza verde
 PSB005	eh qua ci devo pensare anch'io
-PSB001	ride dōng shì shén me lái zhe
+PSB001	((ride)) dōng shì shén me lái zhe
 PSB005	verso la stazione
 PSB002	est
 PSB002	est
@@ -2151,7 +2152,7 @@ PSB001	sì
 PSB001	e invece
 PSB001	il mio dialetto è simile con
 PSB001	wu hàn sì chuān
-PSB001	è un' altra due l'altra mh provincia
+PSB001	è un'altra due l'altra mh provincia
 PSB005	mhmh
 PSB005	okay
 PSB001	sì
@@ -2337,7 +2338,7 @@ PSB005	sì
 PSB005	ti capita
 PSB005	di leggere
 PSB001	ah
-PSB002	kàn bào zhǐ zhī lèi de . xīn wén
+PSB002	kàn bào zhǐ zhī lèi de (.) xīn wén
 PSB001	hǎo xiàng
 PSB001	no no
 PSB005	no no okay no no ma non c'è niente di male eh non

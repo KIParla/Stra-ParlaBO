@@ -97,7 +97,7 @@ PSB102	eh sì sì
 PSB103	e ti sta piacendo studiare qui in italia
 PSB102	eh perché eh
 PSB054	ti piace stare qui
-PSB103	nǐ xǐ . nǐ xǐ huān zài . zhè
+PSB103	nǐ xǐ (.) nǐ xǐ huān zài (.) zhè
 PSB102	s- ah sì sì sì sì
 PSB103	no zhè lǐ
 PSB102	se~ secondo me sì perché da piccola mi piace eh
@@ -196,7 +196,7 @@ PSB102	xx
 PSB101	da quando sei arrivata italia non sei mai tornata in cina
 PSB103	esatto
 PSB102	eh
-PSB101	jiù shì nǐ . e jiù shì zì cóng lái le yì dà lì zhī hòu nǐ jiù zài yě méi yǒu huí qù guò ma
+PSB101	jiù shì nǐ (.) e jiù shì zì cóng lái le yì dà lì zhī hòu nǐ jiù zài yě méi yǒu huí qù guò ma
 PSB102	ah no no no eh c'è una volte c'è una volta ho visto a cina
 PSB054	ah
 PSB054	okay
@@ -276,7 +276,7 @@ PSB101	capodanno
 PSB103	esatto per il capodanno il suo gatto mi ha graffiato è rimasto attaccato alla mia spalla
 PSB101	perché sei antipatico perché sei antipatico
 PSB054	tu sei andato a dargli fastidio e quindi
-PSB103	jiàn ren . bì zuǐ
+PSB103	jiàn ren (.) bì zuǐ
 PSB054	sì anche la mia mi mi riempie per bene di graffi è un po' agitata
 PSB054	vuole giocare
 PSB101	ma da ma quanti anni ha i tuoi il tuo gatto
@@ -435,7 +435,7 @@ PSB102	sì sì
 PSB054	sì alla fine sì sì sì
 PSB103	e la casa si è allagata
 PSB054	e lì
-PSB101	nǐ jiù shì nà gè qián jǐ tiān . xià dà yǔ de shí hòu nǐ men jiā yǒu shén me . wèn tí . nǐ gēn wǒ shuō nǐ men jiā yǒu . yǒu yī diǎn wèn tí
+PSB101	nǐ jiù shì nà gè qián jǐ tiān (.) xià dà yǔ de shí hòu nǐ men jiā yǒu shén me (.) wèn tí (.) nǐ gēn wǒ shuō nǐ men jiā yǒu (.) yǒu yī diǎn wèn tí
 PSB102	ah
 PSB102	il eh il mula il mura il muro nel nel mio s~ stanza eh dopo piove ci muffa
 PSB101	muro
@@ -1030,7 +1030,7 @@ PSB101	ah
 PSB103	e l'altra silvia
 PSB103	silvia è l'altra
 PSB102	tā men shuō de shì nǐ shì you
-PSB101	bù shì bù shì tā . shì shì nèi gè ē jiā lì fú ní yà dà xué de . liú xué shēng
+PSB101	bù shì bù shì tā (.) shì shì nèi gè ē jiā lì fú ní yà dà xué de (.) liú xué shēng
 PSB103	silvia tang
 PSB102	eh eh okay okay
 PSB054	scopriamo che sono loro
@@ -1159,8 +1159,8 @@ PSB054	il mochi è cinese
 PSB101	che mochi è giapponese
 PSB054	ah è giapponese okay
 PSB103	sì
-PSB102	shì . shì shá
-PSB101	mochi jiù shì nà ge . má shǔ . a jiào má shǔ ma hǎo xiàng shì jiào má shǔ ba . āo dà fú dà fú . duì dà fú
+PSB102	shì (.) shì shá
+PSB101	mochi jiù shì nà ge (.) má shǔ (.) a jiào má shǔ ma hǎo xiàng shì jiào má shǔ ba (.) āo dà fú dà fú . duì dà fú
 PSB102	ah
 PSB102	dà fú
 PSB102	okay
@@ -1264,7 +1264,7 @@ PSB101	quindi asp~ adesso conto eh
 PSB102	tā tā líng er nián de shǔ shǔ shén me a
 PSB101	shǔ niú tù
 PSB103	io duemiladue dovrei essere l'anno del maiale
-PSB101	lóng shé . tù lóng shé guò le shì shén me a
+PSB101	lóng shé (.) tù lóng shé guò le shì shén me a
 PSB102	hǔ tù niú hái shì hǔ niú tù chén lóng sì shé wǔ mǎ
 PSB101	tù lóng shé
 PSB101	mǎ
@@ -1637,14 +1637,14 @@ PSB054	e invece tu
 PSB103	e invece a te piace l'italiano
 PSB102	eh forse eh secondo me italiano è una è una linguaggio è u~ eh è simile con cinese
 PSB102	perché secondo me c'è una mh eh c~ c'è una s~ significa~
-PSB102	eh shēn dù yào zěn me shuō . jiù shì
+PSB102	eh shēn dù yào zěn me shuō (.) jiù shì
 PSB101	la profondità
 PSB102	sì sì
 PSB102	eh quindi quando ho usare ho studiare italiano eh eh s~ secondo me il eh
 PSB102	bāng wǒ fān yì yí xià . eh jiù shì wǒ jué de yì dà lì yǔ de cí yǔ shì shì hěn hǎo yòng de
 PSB101	ah
 PSB101	ha detto che le parole italiane sono molto utili
-PSB102	ehm ehm yīn wéi . dāng wǒ zài f~ ehm lǐ jiě yì dà lì yǔ de shí hòu kěyǐ zài zhōng wén zhōng zhǎo dào yī xiē jiù shì xiāng duì tā men de ehm gèng xì jié de yí gè xiāng duìyìng de fān yì
+PSB102	ehm ehm yīn wéi (.) dāng wǒ zài f~ ehm lǐ jiě yì dà lì yǔ de shí hòu kěyǐ zài zhōng wén zhōng zhǎo dào yī xiē jiù shì xiāng duì tā men de ehm gèng xì jié de yí gè xiāng duìyìng de fān yì
 PSB101	ha detto che quando studia italiano poi riesce a trovare una parola eh corrisponde a quello italiano quindi ehm le parole cinese e le parole italiani hanno il significato molto simili
 PSB054	okay okay
 PSB103	mhmh e sono anche diciamo due lingue simili dal punto di vista ehm grammaticale perché sono entrambe due lingue esse vu o soggetto verbo oggetto
@@ -1691,10 +1691,10 @@ PSB054	parlate cinese okay okay
 PSB054	quindi ma qualche dialetto oppure
 PSB054	cioè vengono da altre zone della cina rispetto
 PSB054	cioè c~ come voi due parlate
-PSB101	tā men liǎ shì nǎ de rén . nǐ hé tāmen shuō~
+PSB101	tā men liǎ shì nǎ de rén (.) nǐ hé tāmen shuō~
 PSB102	ah
 PSB103	glielo volevo chiedere io
-PSB101	shuō fāng yán hái shì shuō eh . pǔ tōng huà
+PSB101	shuō fāng yán hái shì shuō eh (.) pǔ tōng huà
 PSB103	tā men shì bei jīng rén ma
 PSB102	eh xx no
 PSB102	eh
@@ -1728,7 +1728,7 @@ PSB103	chen è di quella zona
 PSB101	no chen è del vicino ma no~ non proprio
 PSB103	mh okay
 PSB101	xx
-PSB102	wo bú tài què dìng ride
+PSB102	wo bú tài què dìng ((ride))
 PSB101	sì comunque è un po' misteriosa una persona
 PSB102	sì sì
 PSB103	e invece maria
@@ -1797,7 +1797,7 @@ PSB101	comunque
 PSB101	wǒ jué de yīng gāi shì huáng hé
 PSB101	che sopra il fiume giallo non va molto bene per vivere per la questione dell'ambiente
 PSB101	perché in inverno
-PSB101	nǐ men shì . dōng tiān yǒu shā chén bào . duì ba
+PSB101	nǐ men shì (.) dōng tiān yǒu shā chén bào (.) duì ba
 PSB102	mh
 PSB101	perché c'è una sabbia molto forte a inverno
 PSB103	ma dove da dove arriva dal deserto del gobi

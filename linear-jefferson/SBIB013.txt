@@ -1,4 +1,4 @@
-PSB005	allora aspettate {P} facciamo così
+PSB005	allora aspettate (.) facciamo così
 PSB005	così
 PSB005	°non disturba°
 PSB005	e:hm: e~ e raccontami questa cosa sì
@@ -7,40 +7,40 @@ PSB075	[ah oka]y [e:hm] sì sì sì
 PSB005	[se vuoi eh sì]
 PSB075	ehm praticamente secondo:
 PSB075	c(io)è diciamo second~ visto che:
-PSB075	parlando dell'induismo no comunque {P} più che una religione è tipo una mezza filosofia
+PSB075	parlando dell'induismo no comunque (.) più che una religione è tipo una mezza filosofia
 PSB075	cioè una filosofia di vita cioè non non: non si considerava neanche come religione fin~ fino all'arrivo degli inglesi no
-PSB075	e:h perché gli inglesi sono arrivati lì {P} hanno detto tutta questa popolazione segue dei certi rituali li identifichiamo come: indù
-PSB075	però {P} originariamente questo non era il nome con cui si identificava[no le] persone del posto
+PSB075	e:h perché gli inglesi sono arrivati lì (.) hanno detto tutta questa popolazione segue dei certi rituali li identifichiamo come: indù
+PSB075	però (.) originariamente questo non era il nome con cui si identificava[no le] persone del posto
 PSB005	[mhmh]
 PSB075	però comunque parlando dell'alimentazione e:h degli induisti
-PSB075	è una alimentazione {P} eh diciamo che a base: vegetariana
+PSB075	è una alimentazione (.) eh diciamo che a base: vegetariana
 PSB075	però di~ eh differisce a seconda del contesto culturale::
 PSB005	[mhmh]
 PSB075	[dei] di~ dei diversi popoli diciamo
 PSB075	e::
 PSB075	tipo
-PSB075	per quanto riguarda la {P} classe dei sacerdoti
-PSB075	loro solitamente sono {P} rigorosamente [vegetaria]ni
+PSB075	per quanto riguarda la (.) classe dei sacerdoti
+PSB075	loro solitamente sono (.) rigorosamente [vegetaria]ni
 PSB005	[okay]
-PSB075	però se {P} già andiamo {P} nelle altre classi {P} sociali diciamo: oppure nelle: ne~ con le altre persone loro sono molto più aperte
-PSB075	non mangiano ovviamente {P} il l~ la vacca {P} o la mucca cioè l~ il manzo proprio la categoria
-PSB075	quello della mucca diciamo {P} perché comunque è ritenuto un animale sacro
+PSB075	però se (.) già andiamo (.) nelle altre classi (.) sociali diciamo: oppure nelle: ne~ con le altre persone loro sono molto più aperte
+PSB075	non mangiano ovviamente (.) il l~ la vacca (.) o la mucca cioè l~ il manzo proprio la categoria
+PSB075	quello della mucca diciamo (.) perché comunque è ritenuto un animale sacro
 PSB075	però a parte quello che ne so e::h
 PSB075	il pollo
 PSB005	mhmh
-PSB075	l'agnello {P} [c(io)è {P} io] tipo per esempio anche il prosciutt[o c(io)è nel sen]so
+PSB075	l'agnello (.) [c(io)è (.) io] tipo per esempio anche il prosciutt[o c(io)è nel sen]so
 PSB076	[agnello anch'io:]
 PSB076	[e::h sì]
-PSB076	{sospira} [sì sì sì]
-PSB075	[no non è] e:h vietat~ c(io)è almeno {P} non sarebbe vietato così esplicitamente come {P} per loro
+PSB076	((sospira)) [sì sì sì]
+PSB075	[no non è] e:h vietat~ c(io)è almeno (.) non sarebbe vietato così esplicitamente come (.) per loro
 PSB075	e: quindi è questa l'alimentazione diciamo:
 PSB005	mhmh
 PSB075	eh cioè eh quel[la:]
 PSB005	°[sì] sì sì° e e ci sono dei piatti
-PSB005	sacri {P} cioè m::h per esempio quello che abbiamo mangiato alla festa:
+PSB005	sacri (.) cioè m::h per esempio quello che abbiamo mangiato alla festa:
 PSB076	[m:h]
-PSB005	[che co]s'è {P} com'è fatto
-PSB076	ah questo: len~ {P} eh quello gruppo di lenticchie
+PSB005	[che co]s'è (.) com'è fatto
+PSB076	ah questo: len~ (.) eh quello gruppo di lenticchie
 PSB005	mhmh
 PSB076	lenticchie anche riso: la curcuma
 PSB076	anche tante cose (quelle) verdure:
@@ -49,19 +49,19 @@ PSB076	anche: una cosa dolce
 PSB076	e anche tan~ non è una cosa tante cose dolce anche
 PSB076	sì anche: una una cosa nome di (luci) quello:
 PSB076	solo per e:hm
-PSB076	e:hm {P} farina
+PSB076	e:hm (.) farina
 PSB076	acqua
-PSB076	e {P} sale
+PSB076	e (.) sale
 PSB005	okay
 PSB005	[oka~]
 PSB076	[anche fri]tta quello dentro (olio)
 PSB005	okay sì >[sì] sì sì sì<
 PSB076	[olio]
 PSB076	>quello< (sì) si chiama luci
-PSB005	okay {P} >okay<
+PSB005	okay (.) >okay<
 PSB005	sì ma mi sembra che [abbiamo (già)]
 PSB076	[anche fru]tta tan[te sì]
-PSB005	[mhmh {P}] ah sì c'era anche la frutta [x]
+PSB005	[mhmh (.)] ah sì c'era anche la frutta [x]
 PSB076	[fru]tta [sì]
 PSB005	[sì] sì
 PSB075	diciamo che non esiste un: c(io)è
@@ -81,12 +81,12 @@ PSB005	mhmh
 PSB076	#durga #puja
 PSB005	mhmh
 PSB076	quello grande nostro pa~ nostra regione >quello< grande festeggia quello nome
-PSB005	e che cosa {P} che cos'è cosa si festeggia
+PSB005	e che cosa (.) che cos'è cosa si festeggia
 PSB076	m::h
 PSB075	si festeggia la l~ la: diciamo la vittoria del bene contro il male in sos[tanza quello è il s~]
 PSB005	[okay w]ow [wow]
-PSB075	[il significato del be~] c(io)è {P} base
-PSB076	{ride}
+PSB075	[il significato del be~] c(io)è (.) base
+PSB076	((ride))
 PSB075	però comunque le festività (del)l'induismo sono: parti[colari nel sen]so che:
 PSB076	[#krishna]
 PSB075	essendo una religione comunque politeista no
@@ -94,13 +94,13 @@ PSB075	c(io)è che d~ c(io)è ha un modo di vedere un po' particolare rispetto a
 PSB075	ehm::
 PSB075	c'abbiamo tante festività
 PSB005	mhmh
-PSB075	c(io)è volendo ce ne abbiamo una ogni giorno perché ogni giorno è dedicato [ad una {P} °(al)m]eno° una divinità
+PSB075	c(io)è volendo ce ne abbiamo una ogni giorno perché ogni giorno è dedicato [ad una (.) °(al)m]eno° una divinità
 PSB005	[sì sì sì]
 PSB005	sì sì
-PSB075	quelle prevalenti {P} almeno per quanto riguarda la comunità bengalese {P} è que~ è #durga #puja
-PSB005	okay {P} [che è in:] autunno? [in ottobre]?
+PSB075	quelle prevalenti (.) almeno per quanto riguarda la comunità bengalese (.) è que~ è #durga #puja
+PSB005	okay (.) [che è in:] autunno? [in ottobre]?
 PSB075	[che sare~]
-PSB075	[sì] sì [{P} esatto]
+PSB075	[sì] sì [(.) esatto]
 PSB076	[sì: ot~] o~ dipende ottobre: settembre: [dipende] novembre: [dipende]
 PSB075	[novembre]
 PSB075	[seguono un ca]lendario partico[lare]
@@ -109,40 +109,40 @@ PSB005	[okay]
 PSB005	mhmh
 PSB075	e: si tratta appunto de: praticamente
 PSB075	c'è questa dea che sta al centro
-PSB075	che {P} xx {P} c(io)è {P} >probabilmente ti avrà già detto il sacerdote un po' no come funzio[na< però]:
+PSB075	che (.) xx (.) c(io)è (.) >probabilmente ti avrà già detto il sacerdote un po' no come funzio[na< però]:
 PSB005	[no:] ma non bene
 PSB005	no no [racco]ntatemi pure sì sì
 PSB075	[okay]
 PSB075	e:hm
-PSB075	praticamente rappresenta l~ >appunto< la madre: divina la madre suprema in {P} sostanza
+PSB075	praticamente rappresenta l~ >appunto< la madre: divina la madre suprema in (.) sostanza
 PSB075	che ha combattuto contro
-PSB075	e:h quelli che si chiamano demoni >(in so~)< c(io)è {P} che possono esser {P} tradotti come demoni
+PSB075	e:h quelli che si chiamano demoni >(in so~)< c(io)è (.) che possono esser (.) tradotti come demoni
 PSB075	e: ha sconfitto appunto perché ogni volta
 PSB075	second~ e: nel concetto dell'induismo c'è il concetto di avatar no,
-PSB075	quin[di o]gni volta che c'è {P} un male nella terra
+PSB075	quin[di o]gni volta che c'è (.) un male nella terra
 PSB075	la divinità appare nella veste di qualcuno
-PSB075	e e: {P} sconfigge {P} il male
-PSB075	e: {P} [e:h]
+PSB075	e e: (.) sconfigge (.) il male
+PSB075	e: (.) [e:h]
 PSB005	ho capi[to sì]
 PSB075	sconfigge
 PSB075	il il male
-PSB075	e {P} in quella occasione {P} lei
-PSB075	c(io)è {P} la madre {P} era venuta nella forma di #durga
-PSB075	p[er] {P} sconfiggere {P} quel determinato de[mone]
+PSB075	e (.) in quella occasione (.) lei
+PSB075	c(io)è (.) la madre (.) era venuta nella forma di #durga
+PSB075	p[er] (.) sconfiggere (.) quel determinato de[mone]
 PSB005	[m:h]
 PSB005	[m]hmh
-PSB075	perché {P} come sappiamo:
+PSB075	perché (.) come sappiamo:
 PSB075	c(io)è l'induismo c'ha tante divinità
 PSB075	ma alla fine il concetto base è che ognuno è una rappresentazione dello stesso
-PSB005	[sì: ho] capito sì {P} questo me l'ha spiegato sì
+PSB005	[sì: ho] capito sì (.) questo me l'ha spiegato sì
 PSB075	[quindi]
 PSB005	sì sì
 PSB075	eh quindi è quello il concetto di
 PSB005	mhmh
 PSB075	base no
-PSB075	e: {P} c'è questo pantheon dove c'è lei {P} e i suoi quattro figli
+PSB075	e: (.) c'è questo pantheon dove c'è lei (.) e i suoi quattro figli
 PSB075	e::
-PSB075	poi in verità ci sarebbe anche suo marito con: >però< {P} solitamente non viene raffigurato in quell'occasione lì
+PSB075	poi in verità ci sarebbe anche suo marito con: >però< (.) solitamente non viene raffigurato in quell'occasione lì
 PSB075	e: i quattro figli sono
 PSB075	la dea della scrittura,
 PSB075	la dea della ricchezza,
@@ -165,9 +165,9 @@ PSB076	[>quattr~] eh< una settimana
 PSB005	mhmh
 PSB075	sarebbe di dieci giorni in [verità però: è] ridot[to]
 PSB076	[di dieci giorni]
-PSB076	[pe]rò: [qua noi] nostro {P} (noi qua) cinque giorni
+PSB076	[pe]rò: [qua noi] nostro (.) (noi qua) cinque giorni
 PSB075	[(è rido~)]
-PSB005	okay okay {P} [e:] {P} è alla sera alla mattina °che°
+PSB005	okay okay (.) [e:] (.) è alla sera alla mattina °che°
 PSB076	[sì]
 PSB076	SÌ
 PSB076	tutte le giorni tutte le quattro [tutte le] cinque giorni tutte la sera (l)a mattina sera x la notte
@@ -177,7 +177,7 @@ PSB005	>mhmh< wow
 PSB075	perché si segue proprio un calendario in cui lei ha fatto questo lei ha fatto questo dopo è successo questo fino (a) arrivare all'ultimo giorno in cui ha: vinto
 PSB005	bel[lissimo]
 PSB075	[diciamo] (quindi)
-PSB076	{ride}
+PSB076	((ride))
 PSB005	bellissi[mo]
 PSB075	[qu]indi è questa:
 PSB075	c(io)è (si segue) proprio il suo:
@@ -187,7 +187,7 @@ PSB075	di come come è successo in quel periodo °eccetera°.
 PSB005	e vi vestite in un modo particolare?
 PSB076	vestiti:
 PSB005	avete dei vestiti speciali
-PSB076	>sì sì< speciali c~ {P} (m:h)
+PSB076	>sì sì< speciali c~ (.) (m:h)
 PSB076	speciali sì anche: costa anche un
 PSB005	°molto°
 PSB076	mo:lto
@@ -206,14 +206,14 @@ PSB076	perché: non riesci andare tutte le volte
 PSB005	certo
 PSB076	però: io quando andata però compro un po' più
 PSB005	mhmh
-PSB005	e {P} es~
+PSB005	e (.) es~
 PSB005	ci sono dei negozi
 PSB005	con i vestiti già pronti [o li] cu~
 PSB076	[sì]
 PSB005	ve li [fanno]
 PSB076	[>no no] no< pronte
 PSB005	pron[ti]
-PSB076	[(sono] tutte le pronte) ANCHE {P} io anche ogni tanto compro qua {P} italia
+PSB076	[(sono] tutte le pronte) ANCHE (.) io anche ogni tanto compro qua (.) italia
 PSB005	mhmh
 PSB076	(p)erché qualcuno: qua c'è: >quello:<
 PSB076	qua~ ho portato qua
@@ -245,7 +245,7 @@ PSB005	[cia]o
 PSB076	ciao
 PSB076	tutto bene?
 ???	tutto a posto voi tutto a posto?
-PSB076	>sì sì tutto [posto] tutto posto< {ride}
+PSB076	>sì sì tutto [posto] tutto posto< ((ride))
 PSB075	[bene]
 PSB075	hai visto
 PSB076	dove vai?
@@ -254,8 +254,8 @@ PSB075	salu(ta)
 ??	[l'ho già salu]tata
 PSB076	a:h
 PSB076	xx?
-PSB076	°x {P} xxx°
-???	facevamo un giro due passi {P} c(io)è
+PSB076	°x (.) xxx°
+???	facevamo un giro due passi (.) c(io)è
 PSB076	sì?
 ???	prima che arriva il ca:ldo
 PSB076	a:h
@@ -277,14 +277,14 @@ PSB076	[dov'è]:?
 PSB076	[a:h ban]diera °>sì sì<° alla [bandi]era si vicino que[llo]
 ???	[qua]
 ???	[sì] con la [(navetta)]
-PSB076	[°sì° {P} do]po (quello credo) °sì°
+PSB076	[°sì° (.) do]po (quello credo) °sì°
 ???	basta
 PSB076	(bene)
 ???	va be:ne
 PSB076	v[a bene] ci[a:o]
 ???	[cia:o]
 PSB075	[ci]ao
-PSB076	{ride_e_prende_fiato}
+PSB076	((ride_e_prende_fiato))
 PSB005	ci[ao]
 PSB075	[ci]a[o]
 PSB076	[ci]ao ci]ao
@@ -297,26 +297,26 @@ PSB076	[>compagno<]
 PSB075	compagno di classe
 PSB005	okay sì
 PSB005	e: ma
-PSB005	non capisco dal viso {P} di dove sono
+PSB005	non capisco dal viso (.) di dove sono
 PSB075	a::h suo padre è italiano
 PSB005	okay
 PSB075	invece la madre: penso che abbia origini:
-PSB075	oddio {P} [e:h re]pubblica domi[nicana]
+PSB075	oddio (.) [e:h re]pubblica domi[nicana]
 PSB076	[xx]
 PSB005	[repubblic~] sì: sono
 PSB076	xx di repubblica dominica[na]
-PSB005	[c'ave]vo pensato infatti {P} sì
+PSB005	[c'ave]vo pensato infatti (.) sì
 PSB005	c(io)è non sono della vostra comunità non [mi sembra]no
 PSB076	[>no no no no no<]
 PSB075	[>no no no no<]
 PSB076	no no
 PSB005	e ci sono tanti ragazzi:
-PSB005	tante famiglie del bangladesh qui {P} a s[an gior]gio?
+PSB005	tante famiglie del bangladesh qui (.) a s[an gior]gio?
 PSB076	[sì]
 PSB076	sì sì
 PSB075	abbastanza sì [per essere un comune pic]colo:
 PSB076	[sì (è una città)]
-PSB075	secondo me dopo bologna {ride} è san giorgio quella che[::]
+PSB075	secondo me dopo bologna ((ride)) è san giorgio quella che[::]
 PSB005	[il s]econdo
 PSB076	°seco[ndo]°
 PSB075	>[secondo] me< sì
@@ -326,7 +326,7 @@ PSB075	san giorgio:
 PSB075	e san pietro in [casale]
 PSB076	[san pietro] (c)asale
 PSB005	o[kay]
-PSB075	[questi] due: dove ci sono più {P} per[sone]
+PSB075	[questi] due: dove ci sono più (.) per[sone]
 PSB005	[m:h]
 PSB075	proprio per un motivo di lavoro secondo me si [ce~]
 PSB076	[a]nche cento?
@@ -335,7 +335,7 @@ PSB076	m:hmh
 PSB005	mh[mh]
 PSB075	[p]uò darsi però:
 PSB005	o[kay]
-PSB075	[però] cento è già ferrara {ride} e [(vuole)]
+PSB075	[però] cento è già ferrara ((ride)) e [(vuole)]
 PSB005	[sì] cento è già ferrara [sì sì]
 PSB076	[ferrara]
 PSB075	(sì sì)
@@ -352,25 +352,25 @@ PSB075	mhmh
 PSB005	com'è è grande piccolo com~
 PSB005	è tranquillo come vi trovate
 PSB076	no no ho trovato bene tranquillo eh tranquillità anche bene anche (ab)bastanza va bene
-PSB076	no no io piaciuto tanto {P} io tanti anni qua
+PSB076	no no io piaciuto tanto (.) io tanti anni qua
 PSB005	mhmh
 PSB076	quasi quasi diciotto anni poi io
 PSB005	okay
 PSB076	io mai (stanco più)
 PSB005	okay
 PSB076	sì
-PSB005	quindi: non avete vissuto {P} altrove
+PSB005	quindi: non avete vissuto (.) altrove
 PSB005	x non avete vissu[to a bo]logna o in altri: comuni:
 PSB075	[>mio papà<]
 PSB075	mio papà sì noi no
 PSB075	noi da sempre: qui
 PSB075	a san giorgio
-PSB076	{suoneria_del_cellulare}
+PSB076	((suoneria_del_cellulare))
 PSB005	ok[ay]
 PSB075	[s]ì
 PSB005	guarda pu[re]
 PSB076	[n]o: m:h
-PSB076	noi sempre qua {P} però mio marito tanti (anni) prima abito roma:
+PSB076	noi sempre qua (.) però mio marito tanti (anni) prima abito roma:
 PSB005	okay
 PSB076	anche: varese:
 PSB005	mhmh
@@ -381,15 +381,15 @@ PSB076	[>per un<] sì lavoro però qua adesso m:io anche mio marito ha tanti ann
 PSB005	°mhmh sì sì°
 PSB005	e: i e secondo te è cambiato in questi anni o è sempre uguale
 PSB076	°sempre uguale°
-PSB005	okay {ride}
+PSB005	okay ((ride))
 PSB076	(uguale)
 PSB005	la la le persone: non sono cambiate sono: simili
 PSB076	no no no simili anche:
 PSB076	se qualcuno anche prima abiti tante persone
-PSB076	però: {P} $qualcuni è andato quello inghilterra
+PSB076	però: (.) $qualcuni è andato quello inghilterra
 PSB005	mhmh
-PSB076	quando ho preso passaporto >quello< italiano loro {P} anche piaciu~ andato
-PSB076	però io piace io noi: noi {P} piace qua
+PSB076	quando ho preso passaporto >quello< italiano loro (.) anche piaciu~ andato
+PSB076	però io piace io noi: noi (.) piace qua
 PSB005	mh[mh]
 PSB076	[io] sempre abito qua
 PSB005	bene
@@ -409,10 +409,10 @@ PSB005	in quale periodo dell'anno
 PSB076	giugno
 PSB075	la prima settimana di giugno e il s[abato] solitamente
 PSB076	[sabato]
-PSB075	se piove {P} spostato più: n~
+PSB075	se piove (.) spostato più: n~
 PSB075	nel sabato do[po]
 PSB005	[m]hmh
-PSB075	quello diciamo è la festa {P} tipica di san giorgio dove passano i carri allegorici no {P} è tipo carnevale però fa[tto d'estate]
+PSB075	quello diciamo è la festa (.) tipica di san giorgio dove passano i carri allegorici no (.) è tipo carnevale però fa[tto d'estate]
 PSB076	[è un carn~] sì:
 PSB005	[okay]
 PSB005	°o[kay]°
@@ -422,19 +422,19 @@ PSB076	fiori e an[che pup]azz(e:)
 PSB075	[e:]
 PSB076	tante cose sì:
 PSB005	sì sì
-PSB005	{ride}
-PSB005	(c(io)è) si sente il rimbalzo {P} della palla
-PSB076	{ride}
+PSB005	((ride))
+PSB005	(c(io)è) si sente il rimbalzo (.) della palla
+PSB076	((ride))
 PSB075	sì
-PSB075	no {P} comunque dicevamo
-PSB075	c(io)è non {P} >quanto xx ha detto [mia mamma]< comunque san giorgio
+PSB075	no (.) comunque dicevamo
+PSB075	c(io)è non (.) >quanto xx ha detto [mia mamma]< comunque san giorgio
 ???	[°mh?°]
 ??	xx[xx]
 PSB075	[pure essendo] un paese: piccolino
 PSB005	mhmh
-PSB075	c(io)è di dimensioni veramente {P} ridotte
+PSB075	c(io)è di dimensioni veramente (.) ridotte
 PSB075	c'ha veramente molte cose
-PSB075	c[(io)è] è collegata bene {P} parlando di traspor[ti]
+PSB075	c[(io)è] è collegata bene (.) parlando di traspor[ti]
 PSB005	[EH]
 PSB005	[m]hmh
 PSB075	e::h
@@ -453,24 +453,24 @@ PSB075	[no] q[uello è (a)] settembre
 PSB076	[no]
 PSB076	s[ettembre]
 PSB005	ah okay
-PSB075	che tipo: c~ ci sono ri~ tipo è il lunapark {P} per i bambini piccoli dall'altra parte c'è la lotteria
+PSB075	che tipo: c~ ci sono ri~ tipo è il lunapark (.) per i bambini piccoli dall'altra parte c'è la lotteria
 PSB075	°e:° v:ai poi ci sono i: diversi stand dove tu puoi mangiare eccetera
 PSB075	poi[: vabbè]
 PSB005	[e voi part]ecipate alle [feste quando ci sono]
 PSB075	[sì sì]
-PSB076	sì sì certo [{P} sì]
+PSB076	sì sì certo [(.) sì]
 PSB075	[sì sì]
 PSB075	ma no organizzano tantissime cose c(io)è no: veramente
-PSB075	m:h dicevo che {P} per essere un comune
+PSB075	m:h dicevo che (.) per essere un comune
 PSB075	picc[olo fa moltissime (cos]e)
 PSB076	jonno to hoy]
 PSB075	poi ci sono le gare di corsa ogni tanto che organizzano:
 PSB005	e tu hai fatto le gare?
 PSB075	io n~ da piccolo una volta
 PSB075	°sì°
-PSB075	però: per il resto no {ride}
+PSB075	però: per il resto no ((ride))
 PSB005	okay
-PSB075	ma proprio quando ero piccolo piccolo c'avevo la sua età tipo {ride}
+PSB075	ma proprio quando ero piccolo piccolo c'avevo la sua età tipo ((ride))
 PSB075	e: poi: vabbè ci sono:
 PSB075	c'è il carro che passa durante carnevale,
 PSB075	per i bambini piccoli
@@ -496,9 +496,9 @@ PSB075	>comunque:< il centro di san giorgio c'ha anche i portici no che ricordan
 PSB005	[bolognes]e:
 PSB075	°sì sì°
 PSB005	e:hm: cosa vi volevo chiedere NO mi diceva la tua mamma che non è cambiato molto negli anni è sempre rimasto uguale tu hai invece notato qualche differenza
-PSB075	m:h {P} no
+PSB075	m:h (.) no
 PSB075	devo dire: di no
-PSB075	anche con: il numero della popolazione secondo me è rimasto: {P} [c(io)è]
+PSB075	anche con: il numero della popolazione secondo me è rimasto: (.) [c(io)è]
 PSB005	[mh]mh
 PSB075	più o meno invariato come:
 PSB075	numero di cose <fatte:> okay sì c(io)è hanno fatto qualche palestra nuova di qua e di l~ però comunque:
@@ -506,14 +506,14 @@ PSB075	come comune è rimasto sempre: il san giorgio: che conoscevamo: tanti ann
 PSB005	[o]kay
 PSB076	xxxx
 PSB075	ah sì
-PSB075	l'unica cosa che abbiam notato che stanno costruendo tantissim[e case] {P} tante tante tante
+PSB075	l'unica cosa che abbiam notato che stanno costruendo tantissim[e case] (.) tante tante tante
 PSB076	[tante case]
 PSB076	nuovo nuovo
 PSB075	perché si vede che la gente
 PSB075	a bologna
 PSB005	vu[ole usc]ire
 PSB076	[mh]
-PSB075	[sta] venendo sempre di più qua: e quindi {P} e d~ ah ma questo da molti anni non solo ora
+PSB075	[sta] venendo sempre di più qua: e quindi (.) e d~ ah ma questo da molti anni non solo ora
 PSB076	[sì]
 PSB075	quindi: >tipo<
 PSB075	se già andiamo >tipo:< ai limiti di san [giorgio]
@@ -565,7 +565,7 @@ PSB075	[mhmh]
 PSB076	[tanti ves]titi e anche tanti person(e) anche tal~
 PSB076	son(o) anche italiani >na-< tante persone c'è qua
 PSB005	mh[mh]
-PSB075	([tocc]a) [anche vedere {P} eh]
+PSB075	([tocc]a) [anche vedere (.) eh]
 PSB076	[ragazzi s]ì
 PSB075	è prop~ c(io)è (un po') anche a prova di bambino quindi
 PSB075	c(io)è nel sen[so:]
@@ -578,7 +578,7 @@ PSB005	[mhmh]
 PSB075	almeno per quanto riguarda questo paese può veramente spostarsi
 PSB075	con l'autobus in treno:
 PSB075	la bicicletta:
-PSB075	l[e macchine] {ride}
+PSB075	l[e macchine] ((ride))
 PSB076	[monopat]tino sì:
 PSB075	con un po' di tutto
 PSB005	e tu vai a bologna qu~
@@ -591,10 +591,10 @@ PSB076	sì sì [tutte cose:]
 PSB005	[per fare una pas]seggiat[a:]
 PSB076	[sì] tutte cose
 PSB076	io (ce[rca)]
-PSB075	[quando (c'è] la) festività {ride}
+PSB075	[quando (c'è] la) festività ((ride))
 PSB076	sì sì
 PSB005	giusto
-PSB076	{ride}
+PSB076	((ride))
 PSB005	giusto sì
 PSB005	sì sì
 PSB005	e p~ ti piace bologna?
@@ -645,7 +645,7 @@ PSB076	anche quello castel maggiore anche (macdonalds) xx lui piace tanto:
 PSB005	mhmh
 PSB076	io: vengo:
 PSB005	andate in giro [sì]
-PSB076	[sì] {P} sempre
+PSB076	[sì] (.) sempre
 PSB005	>sì [sì sì sì]<
 PSB076	°[sempre (a) bolo]gna°
 PSB005	okay
@@ -654,7 +654,7 @@ PSB075	mo[lte]
 PSB005	[pi]scina:
 PSB076	sì anche ha [fatto] pisci[na lu~]
 PSB075	[>lui<]
-PSB075	[lui]: per due anni ha fatto piscina {ride} [>poi<]
+PSB075	[lui]: per due anni ha fatto piscina ((ride)) [>poi<]
 PSB005	[okay]
 PSB076	[tant]i anche[: karat]e
 PSB075	[un anno karate]
@@ -664,7 +664,7 @@ PSB076	s[ì tut]to qui san giorgio
 PSB075	[tutto qui]
 PSB075	[x c'è] anche campetto di:
 PSB005	[°okay°]
-PSB075	calcio {P} basket: {P} pallavolo:
+PSB075	calcio (.) basket: (.) pallavolo:
 PSB076	il campo estivo [xx xx]
 PSB075	[non so se c'è an]che il tennis però: non mi ricordo quello
 PSB075	beh poi karate:
@@ -686,7 +686,7 @@ PSB005	quindi tu hai fatto scuole qui?
 PSB075	sì
 PSB076	°(sì)°
 PSB076	([non] lo era per te)
-PSB075	[fino alle medie] e poi poi: {P} mi son trasferito
+PSB075	[fino alle medie] e poi poi: (.) mi son trasferito
 PSB075	[a] bolo~ c(io)è
 PSB005	[a]
 PSB005	a bol[ogna]
@@ -711,12 +711,12 @@ PSB005	[°okay°]
 PSB005	e sei:
 PSB005	hai fatto amicizia con le altre mamme
 PSB076	CE(r)to
-PSB076	certo {P} (l)ui hai solo visto ([funziona l]ei)
+PSB076	certo (.) (l)ui hai solo visto ([funziona l]ei)
 PSB005	[è vero sì]
 PSB076	anche tanti persone: piaciuto per me v~ tanto
 PSB076	anche: a loro anche piaciuto tanto tanto
 PSB076	anche
-PSB076	ogni tanto qua~ adesso fina {P} quando finisce scuola quest'anno
+PSB076	ogni tanto qua~ adesso fina (.) quando finisce scuola quest'anno
 PSB005	mhmh
 PSB076	noi
 PSB076	mamme
@@ -734,14 +734,14 @@ PSB005	e:hm:
 PSB005	>e< e:
 PSB005	v~ voi vi siete trasferiti qui che tu:
 PSB005	c(io)è tu sei nato qui o eri na[to]
-PSB075	[io] no {P} lui è nato qui
+PSB075	[io] no (.) lui è nato qui
 PSB005	okay
 PSB075	io
 PSB075	son nato
-PSB075	in bangladesh {P} però sono venuto qui quando avevo cinque anni
+PSB075	in bangladesh (.) però sono venuto qui quando avevo cinque anni
 PSB005	e hai qualche ricordo?
 PSB075	sì >sì sì<
-PSB075	beh {P} finché hai cinque anni un po': [un po' di ric]ordi ti riman[gono]
+PSB075	beh (.) finché hai cinque anni un po': [un po' di ric]ordi ti riman[gono]
 PSB005	[sì sì]
 PSB005	[m]hmh
 PSB075	poi:
@@ -755,13 +755,13 @@ PSB076	[(non ricordo)] quello
 PSB075	no questo lo posso dire perché comunque lì la prima elementare comincia prima
 PSB005	[mhmh]
 PSB075	[c(io)è un anno pri]ma
-PSB075	c(io)è comincia a cinque anni quindi: avendo fatto {P} la prima elementare lì
-PSB075	poi ho cominciato tutto {P} quanto qui posso dire almeno {P} la piccola differenz[a da una pa~]
+PSB075	c(io)è comincia a cinque anni quindi: avendo fatto (.) la prima elementare lì
+PSB075	poi ho cominciato tutto (.) quanto qui posso dire almeno (.) la piccola differenz[a da una pa~]
 PSB005	[eh che] cosa: hai notato
 PSB075	positivo o negativo cominciamo?
 PSB005	beh com~ come vuoi sì
-PSB075	{ride}
-PSB076	{ride}
+PSB075	((ride))
+PSB076	((ride))
 PSB075	e:hm
 PSB075	positivo c'è d~ allora
 PSB075	positivo
@@ -795,13 +795,13 @@ PSB075	mi piace molto di più lì
 PSB075	l'inglese
 PSB075	c(io)è lì[:]
 PSB005	[o]kay
-PSB075	l'ingles~ c(io)è {P} ormai l'inglese
+PSB075	l'ingles~ c(io)è (.) ormai l'inglese
 PSB075	è una lingua internazionale:
 PSB075	se vuoi fare qualcosa
 PSB075	devi sape[rlo più] o meno
 PSB005	[mhmh]
 PSB075	e qui purtroppo in italia l'inglese è un po' sottovalutato
-PSB075	c(io)è ci sta il patriottismo {ride} tutto quanto però: io questa cosa l'ho un po' sempre percepita così nel sen[so:]
+PSB075	c(io)è ci sta il patriottismo ((ride)) tutto quanto però: io questa cosa l'ho un po' sempre percepita così nel sen[so:]
 PSB005	[mh]mh
 PSB075	non so xx te che fai lingue
 PSB005	sì sì
@@ -812,7 +812,7 @@ PSB075	almeno per quanto riguarda l'inglese perché:
 PSB005	mhmh
 PSB075	ti serve
 PSB005	e tu hai fatto liceo linguistic[o]?
-PSB075	{ride}
+PSB075	((ride))
 PSB075	[n]o scientifico
 PSB005	scientifico [okay]
 PSB075	[ho fatto scien]tifico: tradizionale
@@ -823,7 +823,7 @@ PSB075	s[ì]
 PSB005	[s]ì
 PSB075	te: hai fatto [il:]
 PSB005	[io ho] fatto il
-PSB075	[a]:h {P} ah [sì]
+PSB075	[a]:h (.) ah [sì]
 PSB005	[sì]
 PSB075	al c'è il linguistico?
 PSB005	>no no n[o]<
@@ -880,14 +880,14 @@ PSB076	>no< anche piccolo bravo
 PSB005	sei bravo
 PSB076	gentile anche:
 ???	molto
-PSB076	molto {ride}
-PSB005	{ride}
+PSB076	molto ((ride))
+PSB005	((ride))
 PSB005	°sì sì sì° ed era bravo anche quando era c(io)è ha sempre studiato tanto quindi anche quando era più picc[olo]
 PSB076	[sì s]ì lu:i è sempre
 PSB076	lui sempre
 PSB076	PERò: piccolino
-PSB076	ba~ {P} bravo però quando io dico
-PSB076	vai studi studi {P} adesso no dopo {P} però quando dopo fai subito xxx
+PSB076	ba~ (.) bravo però quando io dico
+PSB076	vai studi studi (.) adesso no dopo (.) però quando dopo fai subito xxx
 PSB005	>quindi< un p[o' gioco e un]
 PSB076	[(prima lo xx) un p]o' gioco sì
 PSB005	un po' giocare e un po' studiare
@@ -897,11 +897,11 @@ PSB005	okay oka~ e com'è la scuola in bangladesh
 PSB076	bangladesh an[che: bel~]
 PSB075	[>forse< ti può risp]ondere meglio lei [perché:]
 PSB005	[sì come fu]nziona è diverso da qui
-PSB076	sì {P} diverso
+PSB076	sì (.) diverso
 PSB076	°è diverso° anche tanti persone anche: a scuola anche tanti
 PSB076	anche diverso cose:
-PSB076	anche prima quando era an~ io noi {P} andati sc(u)ola
-PSB076	mia mamma ah {P} genitori tutti tranquilla
+PSB076	anche prima quando era an~ io noi (.) andati sc(u)ola
+PSB076	mia mamma ah (.) genitori tutti tranquilla
 PSB076	noi andato sola >tu andato sola<
 PSB005	m:hmh
 PSB076	adesso un po' difficile
@@ -911,17 +911,17 @@ PSB076	anche con
 PSB076	suo
 PSB076	genitori
 PSB076	quando è entrato (in) scuola
-PSB076	loro anche {P} fuori aspettando
-PSB076	quando è fine {P} dopo porto insi[eme]
+PSB076	loro anche (.) fuori aspettando
+PSB076	quando è fine (.) dopo porto insi[eme]
 PSB005	[mh]mh
 PSB076	però: tante cose divers[e]
 PSB075	[hai] presente tipo: il giappone no che i bambini son lasciati da soli [fin dalle pri]m~
 PSB005	[sì sì]
 PSB075	primi momenti no?
 PSB075	essendo comunque un paese asiatico no
-PSB075	c'e[ra que]lla: >c(io)è questo l'ho visto veramente< {P} l'ho visto anch'io >c(io)è< anch'io da piccolo facevo così no
+PSB075	c'e[ra que]lla: >c(io)è questo l'ho visto veramente< (.) l'ho visto anch'io >c(io)è< anch'io da piccolo facevo così no
 PSB005	[>mh<]
-PSB075	andavi a scuola da solo {P} ma
+PSB075	andavi a scuola da solo (.) ma
 PSB075	già a cinque o quattro an[ni]
 PSB005	[ma er]a vicino a casa
 PSB075	nea[nche troppo]
@@ -936,14 +936,14 @@ PSB075	invece qui[::]
 PSB076	[sul grupp]o però
 PSB075	invece qui:
 PSB075	venti trenta già troppo
-PSB005	eh {P} le maestre
+PSB005	eh (.) le maestre
 PSB076	le maestre anche e[:h]
 PSB075	[m]a infatti lì non fanno le verifiche fanno gli esami finali quindi
 PSB075	loro spiegano
 PSB075	poi
 PSB075	se vai male andrai male all'e[same x]
 PSB005	[sì però i bam]bini
-PSB005	sì vi~ {P} forse sono molto:
+PSB005	sì vi~ (.) forse sono molto:
 PSB005	edu[cati]
 PSB076	[sì mo~] molto educati tanti [LORO sempre studi] gara
 PSB005	[si comportano bene]?
@@ -951,7 +951,7 @@ PSB076	sempre gara loro vuole sempre gara
 PSB076	chi è
 PSB075	[c'han proprio la mentalità:]
 PSB076	[vinto prima sì è la ste]sse c[ose]
-PSB075	[asi]atica {ride} pro[prio quella lì]
+PSB075	[asi]atica ((ride)) pro[prio quella lì]
 PSB005	[terri]bile
 PSB075	quella lì proprio asiatica >c(io)è proprio< x fine:
 PSB005	eh io [lo asso]cio magari alla cina: al giappone ma non:
@@ -960,7 +960,7 @@ PSB005	non ho pensato magari [a m::h]
 PSB075	[no no ma è pro]prio una questione asiatica >c(io)è anche<
 PSB075	c(io)è adesso lo può confermare anche lei quando una volta che tu hai finito l'università no
 PSB075	tipo per: quei paesi lì no
-PSB075	esiste medicina {P} esiste ingegneria °fini~°
+PSB075	esiste medicina (.) esiste ingegneria °fini~°
 PSB075	>c(io)è< [hai finito]
 PSB005	[mhmh] mhmh
 PSB075	quelle due sono le categorie: >top< che infatti loro non vole~ c(io)è volevano tantissimo che io facessi medicina però poi ho scelto un'altra via:
@@ -969,7 +969,7 @@ PSB075	e[sa~]
 PSB076	[la t]ua scelta: e:h
 PSB075	la mentalità è [quella]
 PSB076	[noi] piace quale è meglio per lui vabbè
-PSB075	c(io)è per loro {P} quei due sono
+PSB075	c(io)è per loro (.) quei due sono
 PSB075	gli e~ uniche [>c(io)è uniche<] due: categorie esistenti
 PSB005	[certo]
 PSB075	[e:h sì]
@@ -983,7 +983,7 @@ PSB005	la tua [ci]ttà o: originaria
 PSB076	[bah]
 PSB076	o::riginaria >quello:<
 PSB076	#(shiragbunch)
-PSB005	okay {P} è [una città] piccola una città grande:
+PSB005	okay (.) è [una città] piccola una città grande:
 PSB076	[#(shiragbunch)]
 PSB076	m::h no no grande
 PSB076	>no no< non (ho) piccola media
@@ -1002,7 +1002,7 @@ PSB075	[invece] da parte di mio papà si chiama #pabna
 PSB005	o[kay]
 PSB075	[quel]la è la cit~
 PSB075	che comunque non sono molt~ c(io)è
-PSB075	è tipo: facciamo {P} finta che la capitale è roma
+PSB075	è tipo: facciamo (.) finta che la capitale è roma
 PSB005	sì
 PSB075	è distante come roma:
 PSB075	napoli
@@ -1014,7 +1014,7 @@ PSB076	[(no)]
 PSB075	[neanch]e troppo vicino
 PSB005	è più [vici]no
 PSB076	[sì]
-PSB076	sì sì più di vicin[o non lo so {P} eh]
+PSB076	sì sì più di vicin[o non lo so (.) eh]
 PSB075	[e: non troppo] in veri~ c(io)è
 PSB075	non è troppo vicino alla capitale però comunque per dire che non siamo neanche troppo distanti dalla capitale <quelle:>
 PSB075	sono quelle città lì
@@ -1037,8 +1037,8 @@ PSB075	che è una città grande
 PSB075	per grande noi intendiamo quaranta milioni di persone
 PSB005	sì sì
 PSB075	che è quasi tutta l'ita~ quasi eh
-PSB076	{ride}
-PSB075	{ride}
+PSB076	((ride))
+PSB075	((ride))
 PSB075	quindi
 PSB005	metà
 PSB076	e:h metà
@@ -1046,7 +1046,7 @@ PSB005	[più di] metà
 PSB075	[sì]
 PSB075	più di metà
 PSB005	mhmh
-PSB075	invece per media: probabilmente si intende: venti milioni in media {P} piccola
+PSB075	invece per media: probabilmente si intende: venti milioni in media (.) piccola
 PSB075	meno milioni
 PSB005	ma quindi
 PSB005	c(io)è
@@ -1056,22 +1056,22 @@ PSB005	c'è tantissima gente
 PSB076	c'è tantissimo però non è come adesso:
 PSB076	però tranquillità
 PSB005	[mhmh]
-PSB076	[c'è tant]i persone però {P} tranquillità
-PSB076	non è come adesso {P} però adesso più più più più
+PSB076	[c'è tant]i persone però (.) tranquillità
+PSB076	non è come adesso (.) però adesso più più più più
 PSB005	°mh°
 PSB075	che [vabbè]
 PSB076	[tanti] per[sone] anche in [tan~]
 PSB075	[>vabbè<]
 PSB075	[lei sta parlan]do di ventimi~ venti anni fa quindi venti anni fa ovviamente [c'era meno gente]
 PSB005	[è vero m:h]
-PSB075	adesso {P} si è triplica[ta quin~]
-PSB076	[ad]esso sempre il traffico quando se {P} mi serve due minuti
+PSB075	adesso (.) si è triplica[ta quin~]
+PSB076	[ad]esso sempre il traffico quando se (.) mi serve due minuti
 PSB076	strada
 PSB076	mi serve mezz'ora
 PSB076	sono:
 PSB076	tantissimi tantissimi
 PSB005	°mhmh°
-PSB005	sì {P} ma me l'hanno detto quasi tu(tti)
+PSB005	sì (.) ma me l'hanno detto quasi tu(tti)
 PSB076	adesso fare anche: clacson mio paese >adesso<
 PSB076	tanti clacson mamma mia sempre:
 PSB076	perché i~ io adesso
@@ -1084,7 +1084,7 @@ PSB005	cer[to]
 PSB076	[e:h]
 PSB075	[che p]oi lì il caldo è tremendo
 PSB076	eh
-PSB005	mh {P} più ca~ fa più cal[do]
+PSB005	mh (.) più ca~ fa più cal[do]
 PSB076	[s]ì più caldo
 PSB075	non c'è lì: non non ci si sta c(io)è dive~ è proprio un forno a cielo aperto: quindi:
 PSB005	°mhmh°
@@ -1092,8 +1092,8 @@ PSB076	quattri mesi solo caldo
 PSB005	mh[mh]
 PSB076	[(il) n]ostro paese
 PSB076	nove mesi
-PSB076	dieci mesi così {P} ca[ldo]
-PSB075	[e] dire che c'ha {P} [sei sta]gio~ eh c(io)è sei stagioni
+PSB076	dieci mesi così (.) ca[ldo]
+PSB075	[e] dire che c'ha (.) [sei sta]gio~ eh c(io)è sei stagioni
 PSB076	[solo due me~]
 PSB075	è
 PSB075	più stagione di qua
@@ -1117,25 +1117,25 @@ PSB076	[un mes~] eh no: non è un febbraio fine febbraio io anda[to to]rnato cin
 PSB005	[mhmh]
 PSB005	[mhmh]
 PSB076	°(sempre un po'[:])°
-PSB005	>[o]kay< HAI {P} vai a visitar la tua famiglia?
+PSB005	>[o]kay< HAI (.) vai a visitar la tua famiglia?
 PSB076	sì famiglia anche: suo mh e:h mio
 PSB076	(marito) papà di mio marito
 PSB005	[°mhmh°]
 PSB076	[per]ò: non è tanti persone >quello<
-PSB076	tanti persone qua >famiglia< di mio marito {P} [par]te del {P} lui
+PSB076	tanti persone qua >famiglia< di mio marito (.) [par]te del (.) lui
 PSB005	[°mhmh°]
-PSB076	lo qua {P} tanto
+PSB076	lo qua (.) tanto
 PSB005	mh
 PSB076	però mio: parte del mia
 PSB076	solo
 PSB076	solo il mio fratello
 PSB076	tre: sorelle
-PSB076	anche tanti cugine anche tanti {P} sono io andato tante parte
+PSB076	anche tanti cugine anche tanti (.) sono io andato tante parte
 PSB005	certo
 PSB076	(però)
 PSB076	sì
 PSB076	tanti tanti parti del bangla~ a:h fatto festeggiato per lui compleanno di lui
-PSB005	mhmh a:h {P} e siete andati là a f[arlo]?
+PSB005	mhmh a:h (.) e siete andati là a f[arlo]?
 PSB076	[sì]
 PSB005	e come[:]
 PSB076	[propr]io tempo x [là]
@@ -1152,7 +1152,7 @@ PSB076	[no:] anche tanti persone io: invitare tanti persone anche <insieme con l
 PSB076	>tanto tanto tanto:<
 PSB076	(che [ridere)]
 PSB005	[è stato] bello?
-PSB076	e:h sì {P} è [stato tanto bello]
+PSB076	e:h sì (.) è [stato tanto bello]
 PSB005	[quanti a~ quan]ti anni hai compiuto?
 ???	no[ve]
 PSB076	[n]ove
@@ -1172,19 +1172,19 @@ PSB076	è bellissimo
 PSB076	io piaciuto tanto
 PSB076	tanto tanto mi è pia[ciuto]
 ???	[no]: que~
-PSB076	#k[ashmiri {P} mh]
+PSB076	#k[ashmiri (.) mh]
 PSB075	[c(io)è lei erano andati loro tre] io ero rimasto [qui]
 PSB005	[o]kay [okay]
 PSB076	[sì l]ui non è andato perché lui: [non (poteva)]
 PSB075	[c(io)è per questa vol]ta però: le altre volte tipo noi quattro andiamo c(io)è [insieme]
 PSB076	[insieme]
 PSB005	andate?
-PSB075	>°sì [sì sì°< {P} però ogn]i
+PSB075	>°sì [sì sì°< (.) però ogn]i
 PSB076	[sì sì andate insieme]
 PSB075	tot anni
 PSB075	dopo quattro o cinque anni
 PSB005	mhmh
-PSB076	però {P} io quando venuto qua
+PSB076	però (.) io quando venuto qua
 PSB076	prima volta io andato quando aperte sc(u)ola solo
 PSB076	perché prima io non è andato x quando si è aperte scuola non (io) andato
 PSB005	mhmh
@@ -1193,14 +1193,14 @@ PSB005	okay
 PSB076	xxx [un me~ un mese]
 PSB005	[un un un caso part]icolare °sì°
 PSB076	sì
-PSB075	quindi per questo lu(i) ha dovuto mancare un atti~ {P} un un mesetto di scuola an[che quest'a]nno
+PSB075	quindi per questo lu(i) ha dovuto mancare un atti~ (.) un un mesetto di scuola an[che quest'a]nno
 ???	[e:h]
 PSB076	[io non] piace io non [piace quando c'è scuola a]perta io non voglio andare io non è piace
 PSB005	[e:h]
 ???	[in realtà due mesi]
 PSB075	(perché non giochi)
 ???	eh
-PSB076	quan[do chiu]sa [va be]ne però: quando a {P} chiu[sa]
+PSB076	quan[do chiu]sa [va be]ne però: quando a (.) chiu[sa]
 PSB075	[gioca]
 ???	[xx]
 PSB075	[xx]
@@ -1230,13 +1230,13 @@ PSB005	[a::h ok]a[y]
 PSB076	[du]e giorni sempre lascia[to x flebo]
 PSB075	[quindi se tu compr]i
 PSB075	che ne so
-PSB075	se tu compri anche una {P} mela
+PSB075	se tu compri anche una (.) mela
 PSB005	sì s[ì]
 PSB075	[°e]:h° chissà cosa c'hanno messo dentro
 PSB005	sì sì okay
 PSB005	qu[indi] qui
 PSB075	[sì]
-PSB005	il cibo è più {P} controllato
+PSB005	il cibo è più (.) controllato
 PSB075	sì [sì] eh sì moltissi[mo]
 PSB076	[sì]
 PSB076	[m]olti~ [moltissi~]
@@ -1248,19 +1248,19 @@ PSB075	così
 PSB005	okay oka[y]
 PSB075	[le] norme non fun~ c(io)è pu~ eh anche se ci sono: non è che vengono sempre rispettate
 PSB005	okay
-PSB075	infatti dopo lo ve~ eh c(io)è capiamo perché quando tu {P} bevi l'acqua
-PSB075	da una bottiglia comprata pensando che >effettivamente< quell'acqua è {P} è buona ec[cetera]
+PSB075	infatti dopo lo ve~ eh c(io)è capiamo perché quando tu (.) bevi l'acqua
+PSB075	da una bottiglia comprata pensando che >effettivamente< quell'acqua è (.) è buona ec[cetera]
 PSB005	[e:h] non è sufficie(nte)
 PSB075	una settimana ti passa la seconda settimana la $diarria
 PSB075	c(io)è
 PSB005	(o)kay
 PSB075	è inevitabile
 PSB005	okay
-PSB075	e l'acqua n~ eh la devi bere {ride} c(io)e [e:h]
+PSB075	e l'acqua n~ eh la devi bere ((ride)) c(io)e [e:h]
 PSB005	[eh eh] s[ì]
 PSB075	[qu]indi
 PSB076	e:h
-PSB005	{ride} cer[to]
+PSB005	((ride)) cer[to]
 PSB075	[no]n puoi neanche dire no quel quel cibo non lo bev~ e:h no non lo mangio: perché tanto: no so che è fatto male
 PSB005	complicato
 PSB005	>sì sì sì<
@@ -1283,17 +1283,17 @@ PSB076	[per]ché
 PSB076	anche: lui anche l:- lui no però lui un po' sì perché lui è sempre parla qua italiano
 PSB005	mhmh
 PSB076	<poi quando andato mio paese:> un po' difficile
-PSB076	anche metà italiano {ride} anche metà bangla non è un metà bangla {P} meno
+PSB076	anche metà italiano ((ride)) anche metà bangla non è un metà bangla (.) meno
 PSB005	mhmh
 PSB076	però tanti persone anche:
 PSB076	mio sorelle
 PSB076	>tutti persone ha detto< fai parla un po' bangla io noi capisce subito bene
 PSB005	mhmh
-PSB076	però lui prova {P} però quest'anno {P} andato bene
+PSB076	però lui prova (.) però quest'anno (.) andato bene
 PSB005	okay
-PSB005	beh {P} sta impar[ando]
-PSB076	[un po' (per)] sì imparando un po' {P} però:
-PSB076	imparando un po' {P} però:
+PSB005	beh (.) sta impar[ando]
+PSB076	[un po' (per)] sì imparando un po' (.) però:
+PSB076	imparando un po' (.) però:
 PSB076	è difficile
 PSB005	però per te no
 PSB076	no n[o no]
@@ -1308,7 +1308,7 @@ PSB076	[°e:h°]
 PSB005	non ti vengon delle parole in italiano
 PSB076	sì ogni tanto sì
 PSB076	no molto perché io pensato quando io parlo prima di parlare io penso
-PSB076	non parlo italiano perché loro non capisce {P} però quando io parlo
+PSB076	non parlo italiano perché loro non capisce (.) però quando io parlo
 PSB076	loro $capisciono
 PSB076	io per moda di quando io andato a italia quando io parlo parl~ italiano però:
 PSB076	io non piace così io sempre penso (che) non dico io
@@ -1319,13 +1319,13 @@ PSB005	[mh]mh
 PSB076	anche loro:
 PSB076	piaciuto tanto
 ???	anche a casa par[li]
-PSB075	[n]o ogni tanto le capita che: c'è qualche parola in italiano gli dici ma guarda che loro non ti capiscono se dici quello {ride}
+PSB075	[n]o ogni tanto le capita che: c'è qualche parola in italiano gli dici ma guarda che loro non ti capiscono se dici quello ((ride))
 PSB005	eh beh
 PSB075	c(io)è è ve~ ogni tanto viene naturale qualcosa[: °c(io)è°]
 PSB005	[cert]o
 PSB076	sì:
-PSB005	sì sì ma {P} io conosco un po' la sensazione sì
-PSB076	ma quando io parlo italiano loro pensando oh io {P} adesso andato italia
+PSB005	sì sì ma (.) io conosco un po' la sensazione sì
+PSB076	ma quando io parlo italiano loro pensando oh io (.) adesso andato italia
 PSB076	forse io moda anche: (ricca) tutte cose diverse o fa
 PSB076	io non interessa parlare però:
 PSB076	io non piace co[sì]
@@ -1344,22 +1344,22 @@ PSB005	°[sì] sì sì°
 PSB005	e invece voi
 PSB005	tu come va con la lingua:
 PSB075	io non ho problemi
-PSB075	c(io)è[: {P}] perché comunque avendo fatto fino {P} cinque anni lì:
+PSB075	c(io)è[: (.)] perché comunque avendo fatto fino (.) cinque anni lì:
 PSB005	[okay]
-PSB075	c(io)è eh {P} sono mezzo fortunato che comunque: le lingue non ho problemi a: comprenderle sia
+PSB075	c(io)è eh (.) sono mezzo fortunato che comunque: le lingue non ho problemi a: comprenderle sia
 PSB005	mh[mh]
 PSB075	[q]uello che quello
 PSB075	c(io)è
 PSB075	che qu[ello che questo] quindi
 PSB005	[sì sì sì]
 PSB075	alla fine per me non ci son problemi
-PSB075	il problema è appunto con lui {P} che
+PSB075	il problema è appunto con lui (.) che
 PSB005	con c[alma]
 PSB075	[nato e] cresciuto qui
-PSB075	il bengalese lo sente a casa però: è molto più: {P} sull'italiano
+PSB075	il bengalese lo sente a casa però: è molto più: (.) sull'italiano
 PSB005	mhmh
 PSB075	ottanta percento ita[liano]
-PSB005	[voi {P} vo]i a casa parlate:
+PSB005	[voi (.) vo]i a casa parlate:
 PSB075	fra noi due italiano
 PSB005	okay
 PSB075	con il resto:
@@ -1369,16 +1369,16 @@ PSB076	[però:] anche io parlav~ (un)
 PSB076	a:h metà ingle~ e:h italiano metà bangla [però l]ui quando io dico bangla lui capisce qualcosa qualcosa non capisce dopo io dico subito
 PSB005	[okay]
 PSB005	mhmh
-PSB076	la v~ {P} fai fai così fai (così così)
+PSB076	la v~ (.) fai fai così fai (così così)
 PSB076	xx [xx (così così)]
 PSB005	[sì sì sì c]erto
 PSB005	sì sì ma
 PSB075	(quindi)
-PSB005	e: non ci sono delle scuole {P} o dei non so delle:
+PSB005	e: non ci sono delle scuole (.) o dei non so delle:
 PSB005	n:- delle organizza~ n:on c'è un'organizzazione all'interno della comunità bengalese
-PSB005	per fare {P} lezioni {P} scuola di bengalese
+PSB005	per fare (.) lezioni (.) scuola di bengalese
 PSB005	scuola di ba[ngla]
-PSB076	[qua] {P} qua no
+PSB076	[qua] (.) qua no
 PSB075	che io sappia no [non (c'è) niente]
 PSB076	[qualcuno qualcuno] pensato comprato:
 PSB076	forse hanno dato >quello< qualcosa libro pe:(r)
@@ -1396,24 +1396,24 @@ PSB075	e: loro appunto:
 PSB075	fanno questi corsi (con) lei
 PSB075	poi tipo:
 PSB005	e sei andata tu mai al corso di italiano?
-PSB076	sì prima volta quando venuta prima >quello< di settem~ diciassett'anni fa quando {P} prima volta (che io ero) venuta
+PSB076	sì prima volta quando venuta prima >quello< di settem~ diciassett'anni fa quando (.) prima volta (che io ero) venuta
 PSB076	dopo io ho iniziato due tre mesi
 PSB076	dopo io a: iniziato subito lavoro
 PSB005	mhmh
-PSB076	do[po {P}] (prossima) volta non ero andata
+PSB076	do[po (.)] (prossima) volta non ero andata
 PSB005	[certo]
-PSB076	{ride}
+PSB076	((ride))
 PSB005	°sì sì sì°
 PSB005	eh però
-PSB005	all'inizio l'hai seguito [{P} c'erano] già {P} [diciassette anni fa]
+PSB005	all'inizio l'hai seguito [(.) c'erano] già (.) [diciassette anni fa]
 PSB076	[>sì sì sì sì<]
-PSB076	[sì sì sì {P}] sì sì
+PSB076	[sì sì sì (.)] sì sì
 PSB075	sì sì [sì]
 PSB076	[anche] pre[so io] certificato quando si è fatto esame
 PSB075	[(sì sì)]
 PSB005	bene
 PSB005	bene bene
-PSB005	però co~ {P} corsi di lingua bangla no
+PSB005	però co~ (.) corsi di lingua bangla no
 PSB075	c(io)è però q~ m:h no
 PSB076	no
 PSB075	no: non [penso]
@@ -1426,7 +1426,7 @@ PSB005	no bi[sogna: organizzarlo]
 PSB076	[solo è vi~ solo è vis]to $iutubux qual[cuno ne (insegna)]
 PSB075	[e su poi youtu]be: ci sono persone che[:]
 PSB076	[e]:h
-PSB075	infatti mia mamma ha anche un x dai aprilo anche (a zia) {ride} [come fai:]
+PSB075	infatti mia mamma ha anche un x dai aprilo anche (a zia) ((ride)) [come fai:]
 PSB005	[sì sì E]:H
 PSB005	dobbiamo
 PSB005	eh [possiam] farlo
@@ -1458,14 +1458,14 @@ PSB005	e la~ e scrivi anche?
 PSB075	e[:h a]l~
 PSB076	[qualcosa sì]
 PSB075	male
-PSB005	ma perché la scrittura {P} c(io)è il fatto che ha un'altra scrittura: [co]mplica tutto molti[ssimo]
+PSB005	ma perché la scrittura (.) c(io)è il fatto che ha un'altra scrittura: [co]mplica tutto molti[ssimo]
 PSB075	[sì]
 PSB076	[un po' diffi]cile[:]
 PSB075	[so leg~]
 PSB075	[s]o leggere abbastanza bene
 PSB005	mhmh
 PSB075	c(io)è lentamente però ci arrivo
-PSB075	perché {P} ho fatto comunque la prima elementare lì
+PSB075	perché (.) ho fatto comunque la prima elementare lì
 PSB075	però la scrittura non non no
 PSB005	no:?
 PSB005	e voi vi scrivete su whatsapp:
@@ -1476,11 +1476,11 @@ PSB076	bah io io [usa]te sempre bangla perché
 PSB075	[io]
 PSB076	quando io ho scritto:
 PSB076	ma: voce bangla però scritto inglese
-PSB076	però io non è {P} piace tanto
+PSB076	però io non è (.) piace tanto
 PSB005	mh[mh]
 PSB076	[io no]n è piaciuto tanto
 PSB076	quando io scrivo inglese
-PSB076	tutti persone {P} mi scrivi inglese però io non è piaciuto
+PSB076	tutti persone (.) mi scrivi inglese però io non è piaciuto
 PSB005	mhmh
 PSB076	quando io scrivo
 PSB076	inglese
@@ -1516,12 +1516,12 @@ PSB075	però
 PSB075	parlando in bengale[se]
 PSB005	[sì] sì
 PSB005	certo
-PSB075	{ride}
-PSB076	{ride}
+PSB075	((ride))
+PSB076	((ride))
 PSB005	(capis~)
 PSB005	sì sì [sì]
 PSB076	[ca][pito]
-PSB075	[quindi] è {P} è quello che suc[cede]
+PSB075	[quindi] è (.) è quello che suc[cede]
 PSB005	[s]i riesce si riesce comunque
 PSB075	sì sì sì
 PSB005	okay
@@ -1535,10 +1535,10 @@ PSB075	lei mi scrive così con le lettere bengalesi io invece con [bengal~] c(io
 PSB005	[sì sì]
 PSB076	[capito però] non [sai scri]vi dopo p~ manda le vo~ vo[cale]
 PSB005	[xxx]
-PSB075	{ride}
+PSB075	((ride))
 PSB075	[°quindi°]
 PSB005	[un vo]cale
-PSB076	{ride}
+PSB076	((ride))
 PSB005	sì certo eh i messaggi vocali aiutano molto eh
 PSB075	[mhmh]
 PSB076	[sì:]
@@ -1562,12 +1562,12 @@ PSB076	[xx xx]
 PSB005	bolognese [c(io)è tipo di]
 PSB075	[(allora) >sì sì sì<]
 PSB076	[sì cu]cina bolognes[e]
-PSB005	[cuci]na tradizionale: [qua {P} di qua]
+PSB005	[cuci]na tradizionale: [qua (.) di qua]
 PSB075	[ades~]
 PSB075	[sì]
 PSB076	[sì ades]so hanno cambiato >quello<
 PSB075	adesso hanno cambiato
-PSB075	perché: la titolare è andata tipo in pensione hanno cambi[ato co]munque hanno [{P}] chiuso
+PSB075	perché: la titolare è andata tipo in pensione hanno cambi[ato co]munque hanno [(.)] chiuso
 PSB005	[mhmh]
 PSB075	c'è un nuovo titolare
 PSB075	che [comunque:] cambiato pure nome:
@@ -1585,7 +1585,7 @@ PSB005	bengalese o italiano [o:]
 PSB076	[ma tu]tte e due
 PSB005	mh[mh]
 PSB076	[tutte] e due
-PSB075	tu [dici] c(io)è ti[po pra]nzo: è più {P} sull'italiano
+PSB075	tu [dici] c(io)è ti[po pra]nzo: è più (.) sull'italiano
 PSB076	[tutt~]
 PSB076	[anche]
 PSB005	mhmh
@@ -1610,26 +1610,26 @@ PSB075	cucina e il marito no
 PSB005	cucinate chi c'è
 PSB075	e[satto]
 PSB005	[dicia]mo
-PSB075	sì molt[o {P} molt]o liberi da quel punto di [vista]
+PSB075	sì molt[o (.) molt]o liberi da quel punto di [vista]
 PSB005	[sì sì]
-PSB005	[no in] casa mia mio padre {P} zero
-PSB076	{ride}
+PSB005	[no in] casa mia mio padre (.) zero
+PSB076	((ride))
 PSB076	(eh)
 PSB075	no:
 PSB005	ze[ro ze]ro zero
 PSB076	[e:h]
-PSB005	{ride}
+PSB005	((ride))
 PSB075	(mh[mh)]
-PSB076	[sono] sempre la io quei quando c'è aiutare sempre aiutare anche lui {P} anche lui
+PSB076	[sono] sempre la io quei quando c'è aiutare sempre aiutare anche lui (.) anche lui
 PSB075	po(i) io ogni tanto sperimento
-PSB075	{ride}
+PSB075	((ride))
 PSB005	okay o[kay]
 PSB076	[anch]e lui
 PSB005	mhmh
 PSB075	non che mi escano delle cose magnifiche però sperimento (tipo) dai pro~ proviamo a cucinare sta cosa e: vediamo cosa esce
 PSB005	mhmh
 PSB076	mh
-PSB005	eh {P} io la cucina c(io)è sono andata qualche volta al ristorante indiano però n[on so se è] la stessa c[osa]
+PSB005	eh (.) io la cucina c(io)è sono andata qualche volta al ristorante indiano però n[on so se è] la stessa c[osa]
 PSB076	[sì]
 PSB076	[sì bologna tant]issimi con
 PSB075	[(certo) xx]
@@ -1644,7 +1644,7 @@ PSB075	[sì]
 PSB075	con qualche variante piccola però è quel[la lì]
 PSB005	[mh]mh
 PSB075	°sì°
-PSB005	okay o[kay] e quale {P} ne consigliate qualcuno?
+PSB005	okay o[kay] e quale (.) ne consigliate qualcuno?
 PSB076	[>sì sì<]
 PSB005	di ristorante indiano: in città
 PSB075	sì
@@ -1680,8 +1680,8 @@ PSB076	mhmh
 PSB075	mhmh
 PSB076	n~
 PSB076	sì san vit[ale anche tanti sì]
-PSB005	[a:h {P} buo]no sì
-PSB076	>sì sì< anche san vitale {P} sì
+PSB005	[a:h (.) buo]no sì
+PSB076	>sì sì< anche san vitale (.) sì
 PSB005	anche perché io credo che la persona che lavora è del bangla[desh]
 PSB076	[b]ang(l)adesh
 PSB005	n[on cre]do che siano indiani
@@ -1698,7 +1698,7 @@ PSB005	mi sembrava:
 PSB075	ma più che altro perché: non c'è tutta quella distinzione:
 PSB005	mhmh
 PSB075	quindi alla fine
-PSB075	anche se son bengalesi {P} cucinano indiano
+PSB075	anche se son bengalesi (.) cucinano indiano
 PSB075	c(io)[è]
 PSB005	[>s]ì sì sì<
 PSB075	non esiste il cibo indiano perché comunque
@@ -1711,18 +1711,18 @@ PSB075	poi ad un certo punto li hanno separati quindi
 PSB075	è per quello
 PSB075	per varie ragioni
 PSB005	mhmh
-PSB075	però alla fine quelle {P} le cose: di base son rimaste
+PSB075	però alla fine quelle (.) le cose: di base son rimaste
 PSB005	>sì sì sì<
-PSB005	e invece i vostri: parenti insomma i vostri cugini {P} mi hanno detto
+PSB005	e invece i vostri: parenti insomma i vostri cugini (.) mi hanno detto
 PSB005	uno in via massarenti
 PSB075	ce n'è uno in via <m[assarenti:>]
 PSB005	[piccolo e:ra mol]to con~ eran molto contenti
-PSB005	{ride}
+PSB005	((ride))
 PSB005	gli è piaciuto molto
 PSB075	e: adesso sto cercando il no[me]
 PSB005	[m~] eh vabbe non non fa niente non. e voi cosa mi consigliate di
 PSB005	mangiare
-PSB005	quando vado {P} se vado a mangiare indiano {P} quali sono i piatti più: buoni
+PSB005	quando vado (.) se vado a mangiare indiano (.) quali sono i piatti più: buoni
 PSB075	>secondo me i do[lci<]
 PSB076	[ci] son tante cose: anche: #biryani anche #chicken #biryani anche:
 PSB076	m:h #kacchi a:h #kacchi #biryani
@@ -1757,9 +1757,9 @@ PSB005	quando lo mangiate in bangladesh è diverso
 PSB076	no:n è diverso india bangladesh quasi uguale
 PSB005	ma mh c(io)è rispetto a quello dei ristoranti qui
 PSB076	sì:
-PSB005	è lo {P} c(io)è
+PSB005	è lo (.) c(io)è
 PSB005	(mi) spiego meglio
-PSB075	no no c(io)è [xx {P} xx]
+PSB075	no no c(io)è [xx (.) xx]
 PSB005	[quando andate qui al] ristorante il cibo che mangiate
 PSB005	è uguale a quello che cucinano in bangladesh o
 PSB005	e c'è molta differenza
@@ -1778,7 +1778,7 @@ PSB005	[okay]
 PSB005	mh
 PSB076	come
 PSB076	io qua
-PSB076	tante persone qua {P} anche {P} bangladesh indiana
+PSB076	tante persone qua (.) anche (.) bangladesh indiana
 PSB076	anche loro mangiano tanto piccante molto piccante
 PSB076	noi famiglia
 PSB076	meno
@@ -1792,16 +1792,16 @@ PSB005	un pochino
 PSB076	>però<
 PSB076	mangiato
 PSB005	>sì sì<
-PSB076	mangio mangio sempre piccante però: {P} tutti i giorni
+PSB076	mangio mangio sempre piccante però: (.) tutti i giorni
 PSB005	e trovi: tutti gli ingredienti per cucinare qui?
-PSB076	sì qua: anche i~ anche trovo qua {P} anche quando {P} io andato mio paese
+PSB076	sì qua: anche i~ anche trovo qua (.) anche quando (.) io andato mio paese
 PSB076	anche io portato qua
 PSB005	certo
 PSB076	p[erch]é qua: un po' costa
 PSB005	[sì sì]
 PSB005	mhmh
 PSB076	quando io andato là
-PSB076	io: {P} quando possibilità un po' un po'
+PSB076	io: (.) quando possibilità un po' un po'
 PSB076	porto tutte c[ose]
 PSB005	[>sì] sì sì< nella valigia
 PSB076	sì:
@@ -1818,15 +1818,15 @@ PSB005	[e ti] durano per tanti anni
 PSB076	[o:h]
 PSB076	e[:h sì]
 PSB005	[finché n]on torni
-PSB076	sì due tre anni {P} minimo due tre anni
-PSB076	quattro anni dopo io {P} io sempre andare {P} tre anni quattro anni cinque anni
-PSB076	{tossisce}
+PSB076	sì due tre anni (.) minimo due tre anni
+PSB076	quattro anni dopo io (.) io sempre andare (.) tre anni quattro anni cinque anni
+PSB076	((tossisce))
 PSB076	mi dispiace
 PSB005	niente °nie~°
 PSB076	quattro cinque anni: io quando andare
 PSB076	dopo io compra
 PSB005	>sì sì sì<
-PSB075	tanto [le spezie] non si rovinano {P} quindi
+PSB075	tanto [le spezie] non si rovinano (.) quindi
 PSB076	[xx]
 PSB005	è cert[o]
 PSB075	[q]uind[i]
@@ -1842,7 +1842,7 @@ PSB076	il nostro paese guarda
 PSB005	eh sì
 PSB005	eh sì sì
 PSB005	>sì sì sì<
-PSB076	loro sempre vengono qua {P} è pomeriggio
+PSB076	loro sempre vengono qua (.) è pomeriggio
 PSB005	mhmh
 PSB076	tante persone qua meglio
 PSB076	piace $giardina
@@ -1857,21 +1857,21 @@ PSB076	ekhon kemon?
 PSB076	beshi hoy nato
 PSB076	o:h
 PSB076	dactare bola lagto
-PSB076	{ride}
+PSB076	((ride))
 PSB076	oh accha baire gechilen naki
 PSB076	oh
 PSB005	sono:
-PSB076	(sì) e:hm {P} lei è xxx
+PSB076	(sì) e:hm (.) lei è xxx
 PSB005	okay
 PSB076	altro giorno ieri
-PSB076	ieri no altro ieri ha dett~ quando >se v(ole)te< {P} noi insieme
-PSB076	ha detto guarda qua {P} <un poco male> {P} ieri sera un po' male
+PSB076	ieri no altro ieri ha dett~ quando >se v(ole)te< (.) noi insieme
+PSB076	ha detto guarda qua (.) <un poco male> (.) ieri sera un po' male
 PSB076	perché: ha visto vicino °que[llo dell'(a]ltra:)°
 PSB005	[mhmh]
 PSB005	°sì sì°
 PSB076	dopo domani ieri ieri ho: suo marito io chiesto come va lei ha detto >no no< va bene va be[ne]
 PSB005	[>m]h< okay
-PSB076	poi adesso io chiedo se tu bene adesso sì {P} ha >detto< male però (girando) sempre
+PSB076	poi adesso io chiedo se tu bene adesso sì (.) ha >detto< male però (girando) sempre
 PSB005	eh beh
 PSB005	ha una pancia grossa [sì]
 PSB076	[s]ì:
@@ -1881,7 +1881,7 @@ PSB005	[so]no[: del]
 PSB076	[>fine] me-< fine mese [xx]
 PSB005	[mhmh]
 PSB005	sono r~ signore del bangladesh
-PSB076	sì {P} [ba]ngladesh
+PSB076	sì (.) [ba]ngladesh
 PSB005	[ah]
 PSB076	>tutte e due tutte e due<
 PSB005	mh
@@ -1894,7 +1894,7 @@ PSB076	musul[mani]?
 PSB005	[però ha]nno questo fazzol[etto ma non] non è tanto:
 PSB076	[velo]
 PSB076	velo
-PSB005	si m[a n~ {P}] non non copre tutto:
+PSB005	si m[a n~ (.)] non non copre tutto:
 PSB075	[m:h]
 PSB075	ma[:]
 PSB076	[no] coprono però qua:
@@ -1903,12 +1903,12 @@ PSB075	c(io)è in v[erità]
 PSB076	[anche in] nostro paese
 PSB075	ma in verità in bangladesh sono molto:
 PSB005	m:h
-PSB075	liber[i {P} c(io)è] almeno anche
+PSB075	liber[i (.) c(io)è] almeno anche
 PSB005	[così]
-PSB075	ovviamente c(io)è eh {P} parlando di venti anni fa erano molto più liberi:
-PSB075	c(io)è nel senso le donne {P} [gira]vano un po' così
+PSB075	ovviamente c(io)è eh (.) parlando di venti anni fa erano molto più liberi:
+PSB075	c(io)è nel senso le donne (.) [gira]vano un po' così
 PSB005	[mhmh]
-PSB075	adesso {P} si è un pochino più chiusa
+PSB075	adesso (.) si è un pochino più chiusa
 PSB075	soprattutto per quanto riguarda la religione islami[ca]
 PSB005	[mhmh]
 PSB075	son diventati un po' più tradizionali quindi adesso portano più: diciamo il velo e:
@@ -1921,21 +1921,21 @@ PSB005	[come nei paesi a]rabi sì
 PSB075	no no esatto
 PSB005	[mhmh]
 PSB075	[non si è] mai sentito quell'obbligo di portarlo assolutamente eccetera
-PSB075	sono: {P} infatti una {P} caratteristica no del bangladesh eccetera >poi<
+PSB075	sono: (.) infatti una (.) caratteristica no del bangladesh eccetera >poi<
 PSB075	almeno questo
 PSB075	un tempo quando (ero) piccolo anch'io no
 PSB075	che c'era molta diversità religiosa
 PSB005	mhmh
-PSB076	{tossisce}
+PSB076	((tossisce))
 PSB075	e: questa cosa si sta un po' andando a perdere no?
-PSB075	quindi c'erano benga~ {P} c(io)è eran tutti bengalesi però c'erano ben~ bengalesi islamici bengalesi induisti bengalesi buddisti
+PSB075	quindi c'erano benga~ (.) c(io)è eran tutti bengalesi però c'erano ben~ bengalesi islamici bengalesi induisti bengalesi buddisti
 PSB075	eccetera
 PSB075	bengalesi cristiani anche perché: con gli inglesi c'è stato anche: una derivazione cristia[na]
 PSB005	[>s]ì sì sì sì<
 PSB075	ma an[che prima de]gli inglesi in verità
 ???	[mamma]
 PSB075	i missi[onari c'erano già]
-???	[mi va la x]x {P} te [che dici]
+???	[mi va la x]x (.) te [che dici]
 PSB075	[da tem]po
 PSB075	e:hm
 PSB075	ora si è un pochino ridotta
@@ -1951,13 +1951,13 @@ PSB075	[per cui]
 PSB005	sì sì certo
 PSB005	e si vede
 PSB005	chi è che m~
-PSB005	qualcun di v~ m:h qualche altra persona mi ha detto che proprio {P} quando cammini per {P} in strada
-PSB005	[dici]amo {P} i~ in bangladesh {P} si vede
+PSB005	qualcun di v~ m:h qualche altra persona mi ha detto che proprio (.) quando cammini per (.) in strada
+PSB005	[dici]amo (.) i~ in bangladesh (.) si vede
 PSB075	[mhmh]
 PSB005	da come la gente si veste se sono
 PSB005	induisti o se sono: musulmani
 PSB075	eh c(io)è
-PSB075	se vedi una persona tipo loro >può anc-< {P} [con il velo o con:]
+PSB075	se vedi una persona tipo loro >può anc-< (.) [con il velo o con:]
 PSB076	[loro sempre velo #b]urqa
 PSB075	o [con il] #burqa
 PSB005	[°mhmh°]
@@ -1970,7 +1970,7 @@ PSB076	[anche]
 PSB076	[anche qualc]uno anche come:: uguale come per induista
 PSB076	per[ché quando metti]
 PSB075	[che poi in verità (c'ha] le)
-PSB076	nella ve~ vestiti metti anche come: {P} noi
+PSB076	nella ve~ vestiti metti anche come: (.) noi
 PSB005	mh[mh]
 PSB076	[an]che loro anche però
 PSB075	che poi in verità il #sari non è proprio induista è [conve]nzi~ perché lo mettono anche i musulmani c(io)è proprio un vesti~ >(di)ciam-<
@@ -1983,11 +1983,11 @@ PSB075	la gente di là
 PSB005	mhmh
 PSB075	>quindi<
 PSB005	sì sì certo
-PSB005	e poi {P} ho visto anche questo:
+PSB005	e poi (.) ho visto anche questo:
 PSB005	C(IO)È
 PSB075	p[unti]no rosso?
 PSB005	[mh]
-PSB005	puntino rosso che è forse {P} forse legato alla reli[gione]?
+PSB005	puntino rosso che è forse (.) forse legato alla reli[gione]?
 PSB075	[quello]
 PSB075	quello [sì]
 PSB005	[sì]
@@ -1999,10 +1999,10 @@ PSB076	quando io poggio dopo io:
 PSB005	ok[ay]
 PSB076	[r]esto questo quando io poggio
 PSB076	zona del (poso) questo:
-PSB076	anche quello {P} anche ques[to]
+PSB076	anche quello (.) anche ques[to]
 PSB005	[°o]kay°
 PSB005	b[ello]
-PSB076	[>quelle<] tutte cose: mi serve come {P} italiano
+PSB076	[>quelle<] tutte cose: mi serve come (.) italiano
 PSB076	tutti per[so]ne quando anulare
 PSB005	[°sì°]
 PSB005	°>sì sì<°
@@ -2012,7 +2012,7 @@ PSB076	tutte e tre
 PSB005	ok[ay]
 PSB076	[q]uello [questo]
 PSB005	[anello] bra[ccialetto]
-PSB076	[anello bracci]aletto e anche {P} [questo] sì
+PSB076	[anello bracci]aletto e anche (.) [questo] sì
 PSB005	[questo]
 PSB005	[ma que]sto qui è
 PSB076	[quello]
@@ -2031,10 +2031,10 @@ PSB075	che rappresenta proprio che la donna è sposata con u~
 PSB075	e c'ha un marito
 PSB005	[>sì sì sì<]
 PSB075	[c(io)è significa] quello
-PSB005	ma non è un tatuaggio c(io)è {P} [lo fai tutti i giorni]
+PSB005	ma non è un tatuaggio c(io)è (.) [lo fai tutti i giorni]
 PSB075	[no no no]
 PSB076	[no no no sì] tutti giorni io anche lavo anche metto
-PSB076	come: come: e:h talco {P} talco bianco?
+PSB076	come: come: e:h talco (.) talco bianco?
 PSB005	mhmh
 PSB076	quello gruppo di talco quel [talco] bianco [quel xxx ros]so polvere [ro~]
 PSB005	[>sì sì<]
@@ -2045,10 +2045,10 @@ PSB005	o[kay]
 PSB076	[sì] tutti i giorni io uso <quando io doccia>
 PSB076	dopo io tolto
 PSB076	perché quando io non tolto tutte le parte rossa non va bene anche
-PSB076	messo ieri {P} però quando io lavato faccia
+PSB076	messo ieri (.) però quando io lavato faccia
 PSB076	visto un pochino
 PSB075	hai presente: tipo #holi #holi #holi festival?
-PSB005	no {P} $holi?
+PSB005	no (.) $holi?
 PSB075	$holi
 PSB075	non hai present~
 PSB005	no
@@ -2057,13 +2057,13 @@ PSB005	[sono ignora]nte e [mol]to
 PSB075	[okay]
 PSB076	[anche bolo]gna ha fatto
 PSB075	[ti faccio vedere]
-PSB005	a [di~ {P} no {P}] raccontatemi no non lo so
+PSB005	a [di~ (.) no (.)] raccontatemi no non lo so
 PSB076	[tutti li volte]
 PSB075	no perché:
 PSB075	hai presente quelle feste dove si spargono di colori:
 PSB075	che [è una cosa]
-PSB005	[sì {P}] c(io)è {P} io ho visto tipo la #color #run però
-PSB005	non è [c(io)è] {P} è un'altra cosa
+PSB005	[sì (.)] c(io)è (.) io ho visto tipo la #color #run però
+PSB005	non è [c(io)è] (.) è un'altra cosa
 PSB075	[mhmh]
 PSB005	°sì°
 PSB075	sì praticamente questo:
@@ -2072,14 +2072,14 @@ PSB075	tecnicamente l'inizio della primavera
 PSB075	però combacia anche con: e:hm:
 PSB075	diciamo con una storia di krishna che sarebbe [una delle divinità]
 PSB076	[dio dio] c'è piccola
-PSB075	e {P} durante la festività le gente si riempie di colori [con queste] polveri
+PSB075	e (.) durante la festività le gente si riempie di colori [con queste] polveri
 PSB005	[m:h]
 PSB075	e la polvere rossa se la mett[ono an]che sulla fronte:
 PSB005	[°mh°]
 PSB076	[tan]te co~ tante colori °(io se [n'è andata via)°]
 PSB075	[(per)ché il] rosso ha un significato particolare no
 PSB075	quindi
-PSB075	il rosso è più {P} il colore per le donne
+PSB075	il rosso è più (.) il colore per le donne
 PSB075	che si sono s[posa(te)]
 PSB005	[(s)po]sate
 PSB075	in[vece u]na volta che purtroppo il marito non c'è è più il bianco
@@ -2093,7 +2093,7 @@ PSB075	l~ eh simbolo di purezza o
 PSB075	della pace che raggiungi dopo che
 PSB075	non ci sei
 PSB075	per questo è il è più il bianco
-PSB075	invece il rosso è più {P} il colore delle spose
+PSB075	invece il rosso è più (.) il colore delle spose
 PSB005	okay
 PSB005	e: prima di sposarsi
 PSB005	niente
@@ -2103,12 +2103,12 @@ PSB076	[(>no no no< niente)]
 PSB005	[no:] no
 PSB075	le spose si vestono de: di rosso
 PSB005	che [bello]
-PSB076	[ma tanto ta]nto tanto piace io [(guarda {P} ah)]
+PSB076	[ma tanto ta]nto tanto piace io [(guarda (.) ah)]
 PSB075	[tipo qui si vestono di] bianco
 PSB005	mh[mh]
-PSB075	[u]n po' anche gli islamici si vestono di bianco {P} non quelli bengalesi
+PSB075	[u]n po' anche gli islamici si vestono di bianco (.) non quelli bengalesi
 PSB075	perché quelli bengalesi c'hanno:
-PSB075	c'hanno un'influenza induista {P} possiamo dirlo
+PSB075	c'hanno un'influenza induista (.) possiamo dirlo
 PSB075	e quindi si vestono di giallo
 PSB075	si vestono di rosso [anche loro]
 PSB005	[mhmh]
@@ -2133,7 +2133,7 @@ PSB075	[che] poi x[xx lì (l'abbiamo visto una vol~)] c(io)è
 PSB076	[tanto bello bellissimo]
 PSB075	sono molto lunghi
 PSB075	c(io)è nel sen[so usano molti (cosi)]
-PSB076	[sì: {P} dodici]
+PSB076	[sì: (.) dodici]
 PSB076	dodici mano
 PSB075	mh
 PSB075	sì
@@ -2159,7 +2159,7 @@ PSB005	[ah però]
 PSB076	[>no ma adesso< adesso] più adesso più adesso una gio~ una festeggia una festeggia tutte cose
 PSB005	>sì s[ì<]
 PSB076	[n]on è messo [insieme]
-PSB075	[>è vero< e] si seguono sempre [quelle regole che è successo questo è success]o quello quind[i] {ride}
+PSB075	[>è vero< e] si seguono sempre [quelle regole che è successo questo è success]o quello quind[i] ((ride))
 PSB076	[>tutte< le volte si fa la (separata)]
 PSB076	tante [cose]
 PSB075	[ah sì] sì
@@ -2172,9 +2172,9 @@ PSB075	[(mhmh)]
 PSB076	sì venticinque [anni]
 PSB005	[okay]
 PSB005	[EH]
-PSB005	[e si] festeggia {P} si fa u:na festa per
+PSB005	[e si] festeggia (.) si fa u:na festa per
 PSB076	festa (vuo[le:) qua]
-PSB075	[festa (di [anniversario]) nor[male] {ride}
+PSB075	[festa (di [anniversario]) nor[male] ((ride))
 PSB005	[s]ì normal[e]
 PSB076	[sì] è nor[male norma]le
 PSB005	[sì okay]
@@ -2183,16 +2183,16 @@ PSB005	sì
 PSB005	>sì sì [sì<]
 PSB076	[quan]do io[: qualcuna]
 PSB075	[(pr)endiamo una torta]
-PSB075	buon anniver[sario] {ridendo}
-PSB005	[sì: eh] mi sembra {P} una [festicciola in] famiglia sì sì okay
+PSB075	buon anniver[sario] ((ridendo))
+PSB005	[sì: eh] mi sembra (.) una [festicciola in] famiglia sì sì okay
 PSB075	[(questo è chiaro)]
 PSB076	[(loca]le)
-PSB076	perché qua ci ho: venuto mio: {P} suocera
+PSB076	perché qua ci ho: venuto mio: (.) suocera
 PSB076	an[che co]gnato
 PSB005	[mh]
 PSB076	tutto parte del mio marito
 PSB076	tutto qua
-PSB005	mhmh [{P} °oka~°]
+PSB005	mhmh [(.) °oka~°]
 PSB076	[san giorgio] bologna tutti
 PSB005	okay okay
 PSB005	ah io son sposata da tre anni
@@ -2202,7 +2202,7 @@ PSB075	mh
 PSB005	e: ho provato il vestito della mia mamma
 PSB076	sì
 PSB005	ma
-PSB005	era {P} già {P} il vestito della nonna
+PSB005	era (.) già (.) il vestito della nonna
 PSB076	a:h o[kay]
 PSB075	[quindi è il ve]stito della nonn(a)
 PSB005	quindi [s'e]ra
@@ -2213,11 +2213,11 @@ PSB005	[era troppo rov]in[ato perch]é era
 PSB076	[°ah okay°]
 PSB076	[(anche per me)]
 PSB076	tan[ti anni >quello lì<]
-PSB005	[di {P} più] di sessant'anni fa
+PSB005	[di (.) più] di sessant'anni fa
 PSB076	a[:h okay]
 PSB005	[sì sessan]tacinque anni fa
 PSB005	era
-PSB005	era già giallo {P} [si era] ingialli[to il co]lore °n[on°]
+PSB005	era già giallo (.) [si era] ingialli[to il co]lore °n[on°]
 PSB076	[sì]
 PSB076	[tanta]
 PSB076	[<a]:h oka[y>]
@@ -2239,7 +2239,7 @@ PSB005	[sì]
 PSB076	[sì] sì ca[sa]
 PSB005	[>sì] sì< certo
 PSB076	io lascia[ta]
-PSB075	[quin]di non sappiamo neanche le condizioni in cui sono {ride}
+PSB075	[quin]di non sappiamo neanche le condizioni in cui sono ((ride))
 PSB076	anche anche quando io poso
 PSB076	anche mia mia mamma ha regalato
 PSB076	>quello:< tutte:
@@ -2250,12 +2250,12 @@ PSB075	[delle cose di argen]teria diciamo [xxx °poi:°]
 PSB005	[sì sì oka~]
 PSB076	[sia >sì sì<] lo piatto però: non ne ho: $ceramico non ne ho: acciaio
 PSB076	kashat ki koy?
-PSB075	e:hm {P} di un altro materiale
+PSB075	e:hm (.) di un altro materiale
 PSB076	un mate[riale]
 PSB005	[pre]zio[so]
 PSB076	[sì] sì prezioso >quello<
 PSB076	pesante
-???	{suoneria}
+???	((suoneria))
 PSB076	però famoso >quello:< o:h
 PSB076	m~ mia mamma regalato
 PSB076	mh
@@ -2272,7 +2272,7 @@ PSB076	non è quello fondine >quello:<
 PSB076	come di[te]
 PSB005	[s]on tipo delle
 PSB005	ciotole?
-PSB076	s[ì le] ciotole anch[e grande] grande >quello< piatto {P} non è piatto però {P} >però< grande
+PSB076	s[ì le] ciotole anch[e grande] grande >quello< piatto (.) non è piatto però (.) >però< grande
 PSB005	[delle]
 PSB005	[delle tazze]?
 PSB076	tu tante cose dato per me
@@ -2287,7 +2287,7 @@ PSB005	mh[mh]
 PSB076	[d]opo io porto [qua]
 PSB005	[mh]mh
 PSB076	perché ade~ poi le tanti anni fa
-PSB076	tanti mia mamma {P} °adesso non c'è mia mamma {P} morta°
+PSB076	tanti mia mamma (.) °adesso non c'è mia mamma (.) morta°
 PSB076	però: tanti anni
 PSB076	quasi quasi più di cento anni
 PSB076	più di cen[to anni c]ento anni più di cento [an]ni
@@ -2299,7 +2299,7 @@ PSB005	[°mh°]
 PSB005	sì:
 PSB076	i[o la]sciato te
 PSB075	[quattro ge~]
-PSB075	quattro generazioni {ride} [°>quindi<°]
+PSB075	quattro generazioni ((ride)) [°>quindi<°]
 PSB005	[devi] portarli
 PSB076	sì: io por[to] dopo io lasciato: però dopo porto porto
 PSB075	[mh]
@@ -2307,10 +2307,10 @@ PSB075	ah e ora ti dico che c'è [una cosa]
 PSB076	[an]che un'altra cosa mio ciotola dato regalato per me
 PSB076	QUAndo mio marito c'era piccola
 PSB076	suo nonna ha dato: una cosa
-PSB076	l:ei lasciato dopo quando io poso dopo lei dato {P} per me
+PSB076	l:ei lasciato dopo quando io poso dopo lei dato (.) per me
 PSB075	come un ricordo
 PSB076	c'è tante cose anche io lasciato dentro
-PSB075	{ride}
+PSB075	((ride))
 PSB076	ha detto guarda quando suo tuo:
 PSB076	nato sia tuo figlio anche figlia
 PSB076	tu fai dare a loro
@@ -2320,7 +2320,7 @@ PSB075	no ora ti dico questa: cosa particolare perché ne è uscita fuori visto 
 PSB075	mia nonna
 PSB075	c(io)è sua mamma
 PSB075	è: venuta a mancare qualche anno fa no?
-PSB075	e:h nella religione induista {P} almeno per quanto riguarda {P} la comunità bengalese non so le al~ da altre parti
+PSB075	e:h nella religione induista (.) almeno per quanto riguarda (.) la comunità bengalese non so le al~ da altre parti
 PSB075	se la donna muore prima del marito,
 PSB075	il giorno del suo funerale
 PSB075	e:h la si: veste di rosso
@@ -2338,11 +2338,11 @@ PSB075	però questo succede °c(io)è°
 PSB005	interessante
 PSB005	inte[ress]ante °sì [sì°]
 PSB076	[m:h]
-PSB075	[c(io)è che]: ti riprende lo stesso vestito {P} >tipo< il [giorno pri]ma che:
+PSB075	[c(io)è che]: ti riprende lo stesso vestito (.) >tipo< il [giorno pri]ma che:
 PSB076	[nuovo]
 PSB005	[ok][ay]
 PSB075	[che]
-PSB076	[tutte] cose quando morto (>quelle<) tutte cose nuovo anche dare >come< {P} come sposare
+PSB076	[tutte] cose quando morto (>quelle<) tutte cose nuovo anche dare >come< (.) come sposare
 PSB005	mhmh
 PSB075	[che poi]
 PSB076	[anche tut~] quelli: marito dare quelle tutte cose però:
@@ -2354,7 +2354,7 @@ PSB005	mhmh
 PSB076	dito di
 PSB076	quello mano
 PSB076	quando morto
-PSB076	dare quello e:h {P} quello dito >quello< che nome quello dito?
+PSB076	dare quello e:h (.) quello dito >quello< che nome quello dito?
 PSB075	alluce?
 PSB076	allu[ce]
 PSB005	[mh]mh
@@ -2371,7 +2371,7 @@ PSB076	[sì]
 PSB005	[sì]
 PSB075	>sicuramente< il sacerdote potrebbe spie[garlo meglio] però
 PSB005	[vabbè sì]
-PSB076	no tu {P} [come ca]pisci tu [non xxx] ni[ente]
+PSB076	no tu (.) [come ca]pisci tu [non xxx] ni[ente]
 PSB075	[m:hmh]
 PSB075	[si fa così]
 PSB075	[(una tra]dizione) si fa così e:
@@ -2381,14 +2381,14 @@ PSB075	se
 PSB075	muore il marito
 PSB075	prima
 PSB075	e
-PSB075	le perso~ cioè le donne {P} che erano un tempo sposate non si mettono più il braccialetto
+PSB075	le perso~ cioè le donne (.) che erano un tempo sposate non si mettono più il braccialetto
 PSB005	mh
 PSB075	non si mettono più qu[elle ro]s(se)
 PSB005	[tu]
 PSB076	tutte [cos~] tutte cose [tolgono]
 PSB075	[eh]
 PSB005	[ah oka]y
-PSB076	però adesso un po' diverso adesso qua anche {P} tutte mondo anche cambiato
+PSB076	però adesso un po' diverso adesso qua anche (.) tutte mondo anche cambiato
 PSB076	capisci tante cose de >quello< leggere un po' tanti anni f[a]
 PSB075	[che] è un >ti[po un xx<]
 PSB076	[tra adesso] cambi[o adesso xxx]
@@ -2403,8 +2403,8 @@ PSB076	[mor]to
 PSB075	m:h
 PSB075	datate no °[(come us]o) quindi tipo >(no co[munque)<°]
 PSB005	[mhmh]
-PSB076	[anche {P}] anche quando morto prima di >quello< m:arito
-PSB076	anche il loro {P} sempre usano vestito bianco
+PSB076	[anche (.)] anche quando morto prima di >quello< m:arito
+PSB076	anche il loro (.) sempre usano vestito bianco
 PSB075	adesso no
 PSB076	adesso no
 PSB076	adesso tante cose ca~ eh capito [c~ ca]mbiato tante cose adesso tutto normale
@@ -2422,7 +2422,7 @@ PSB075	mhmh
 PSB005	era giovane aveva ven[ticinque a]nni così
 PSB076	[(posato)]
 PSB005	e:h
-PSB005	la sua mamma era {P} morta da poco {P} e lei si è ve~ sposata vestita di nero
+PSB005	la sua mamma era (.) morta da poco (.) e lei si è ve~ sposata vestita di nero
 PSB076	mhmh
 PSB005	perché era in lu[tto]
 PSB076	[è in] lutto °sì:°
@@ -2444,12 +2444,12 @@ PSB075	è diven~ c(io)è
 PSB075	con il eh cambiare del tempo: eh
 PSB005	sì[:]
 PSB075	[an]che molte us[anze sono cadute in disuso]
-PSB076	[sì: {P} cambia tante] co(se)
+PSB076	[sì: (.) cambia tante] co(se)
 PSB005	beh certo °s[ì sì°]
 PSB075	[perché dic]ono vabbè: alla tua epoca si faceva cos[ì ma an]che:
 PSB005	[mhmh]
 PSB075	e: adesso
-PSB075	{ride}
+PSB075	((ride))
 PSB075	c(io)è se fai una cosa [così] è un po': [così strana]
 PSB076	[°>sì sì<°]
 PSB076	[fa tanti] tanti anni fa tanti anni fa
@@ -2458,10 +2458,10 @@ PSB076	anche insieme fanno tutti e due quando vivere moglie
 PSB076	fanno [insieme]
 PSB075	[sì ma quello è di] tanto tempo f[a eh]
 PSB076	[che] tanti tanti
-PSB075	c(io)è [{P} probabilment]e:
+PSB075	c(io)è [(.) probabilment]e:
 PSB076	[(°tempo fa°)]
 PSB076	e:h
-PSB075	il nonno {P} c(io)è la no[nna della nonna di mia nonna c(io)è nel se]nso eh lì in quei tempi:
+PSB075	il nonno (.) c(io)è la no[nna della nonna di mia nonna c(io)è nel se]nso eh lì in quei tempi:
 PSB076	[(ascoltando) x (nonna) e:h]
 PSB075	diciamo che se mo~ se moriva il marito moriva c(io)è [°si ucc~°] si uccideva la la moglie (an[che)]
 PSB005	[mhmh]
@@ -2480,13 +2480,13 @@ PSB005	[come an]che
 PSB005	[qua (o)]
 PSB075	[e da quell]o si è passato (decisamente) a no
 PSB075	eh no e si veste di bianco
-PSB075	e da quello oggi si è passato no la donna si veste come vuole vive: fa la sua vita {P} senza quei simboli che indicano che è sposa[ta]
+PSB075	e da quello oggi si è passato no la donna si veste come vuole vive: fa la sua vita (.) senza quei simboli che indicano che è sposa[ta]
 PSB005	[m]hmh
 PSB075	c(io)è vedi lo step do~ do[ve si è arrivato °qui°]
 PSB005	[>sì sì sì<]
 PSB075	°quindi:°
 PSB005	certo
-PSB075	e po[i:] la cosa che {P} nel funerale da noi non ci son le tombe no?
+PSB075	e po[i:] la cosa che (.) nel funerale da noi non ci son le tombe no?
 PSB005	[°sì sì°]
 PSB075	sai che c'è il rogo
 PSB075	quindi[:] e:hm
@@ -2527,7 +2527,7 @@ PSB075	e::
 PSB075	c'è questa idea
 PSB005	°>sì [sì s]ì<°]
 PSB075	[no]?
-PSB005	>sì sì< questa è una cosa: {P} cioè si sa insomma
+PSB005	>sì sì< questa è una cosa: (.) cioè si sa insomma
 PSB075	mh[mh]
 PSB005	[m]e la ricordavo s[ì]
 PSB076	[e] anche quando io ho [visto un:]
@@ -2539,13 +2539,13 @@ PSB076	lavori titolare lui morto
 PSB076	il visto: su cremato
 PSB005	mh[mh]
 PSB076	[p]erò un altro signora io conosciuta le:i:
-PSB076	quando morto {P} io visto >quello< cimitero
+PSB076	quando morto (.) io visto >quello< cimitero
 PSB076	lasciata dentro quello
 PSB005	mhmh
 PSB076	posto di le tomba
 PSB005	è una scelta: della persona
 PSB076	sì anche l~ anche: marito di lei
-PSB076	eh {P} lui anche comprato quello posto del suo
+PSB076	eh (.) lui anche comprato quello posto del suo
 PSB076	fianco quello[:]
 PSB005	[es]atto
 PSB076	lui lasciato che °anche di (costruisse)°
@@ -2563,7 +2563,7 @@ PSB005	l'idea che c'è che un giorno
 PSB075	mhmh
 PSB005	tornerà:
 PSB005	e:h
-PSB005	gesù cristo insomma tornerà e {P} ci sarà la resurrezione anche del corpo
+PSB005	gesù cristo insomma tornerà e (.) ci sarà la resurrezione anche del corpo
 PSB075	ah okay
 PSB005	quindi <eh> quindi
 PSB005	secondo me fino a pochi an~ pochi anni fa
@@ -2576,8 +2576,8 @@ PSB075	mhmh
 PSB005	per me è abbastanza agghiacciante >quindi<
 PSB076	ma [anche anche~] anch'io sentito:
 PSB005	[con le (mani)]
-PSB076	a:h {P} quando fatto quel titolare chiamato
-PSB076	lei {P} dopo dare loro: quello un assegno quello: lasciato do~ {P} una:
+PSB076	a:h (.) quando fatto quel titolare chiamato
+PSB076	lei (.) dopo dare loro: quello un assegno quello: lasciato do~ (.) una:
 PSB076	botti~ non è bottiglia un:
 PSB076	una contenitore
 PSB005	mhmh
@@ -2586,7 +2586,7 @@ PSB005	[sì]
 PSB075	tipo un piccolo vaset[to:],
 PSB005	[sì] ma[:]
 PSB076	[sì] vasetto sì
-PSB005	anche questo io faccio un po' di fatica un [po' impre]ssione [sì {P} sì]
+PSB005	anche questo io faccio un po' di fatica un [po' impre]ssione [sì (.) sì]
 PSB075	[ma anch'io]
 PSB076	[anche anche an~]
 PSB076	noi non è lui eh noi n:on è lasciato così
@@ -2597,7 +2597,7 @@ PSB005	[>sì sì] sì:<
 PSB076	sì:
 PSB005	c[erto]
 PSB076	[anch]e: [anche]
-PSB075	[(di)cevo che] sia ma~ {P} dev'esser qualcosa di acqua quindi: o che sia mare un [fiu]me un lago:
+PSB075	[(di)cevo che] sia ma~ (.) dev'esser qualcosa di acqua quindi: o che sia mare un [fiu]me un lago:
 PSB005	[mh]
 PSB075	(quello si ver~) [c(io)]è
 PSB005	[°mh°]
@@ -2605,7 +2605,7 @@ PSB075	è inquinante si potrebbe dire al giorno [d'oggi]
 PSB005	[>beh< va]bbè
 PSB075	però
 PSB075	tipo se tu vai a dire alla gente lì
-PSB075	che {P} tipo versano i corpi ogni giorno [centinaia d]i migliaia nel gange
+PSB075	che (.) tipo versano i corpi ogni giorno [centinaia d]i migliaia nel gange
 PSB076	[e:h >loro<]
 PSB075	ti dicono
 PSB075	chi s[e ne frega]
@@ -2623,14 +2623,14 @@ PSB075	[scappa l'anima insieme]
 PSB076	va bene però:
 PSB076	atta ki koy?
 PSB075	anima
-PSB076	anima {P} anima quello: vola sempre anche nato un altro (palazzo) >quello< {P} quando io m~ {P} metto io chiuso non va bene
+PSB076	anima (.) anima quello: vola sempre anche nato un altro (palazzo) >quello< (.) quando io m~ (.) metto io chiuso non va bene
 PSB005	cert[o]
 PSB075	[ch]e la reincarnazione non vuol dire quello che tu ti reincarni
 PSB075	in un essere umano
 PSB005	mhmh
-PSB075	da noi vuol dire proprio che tu ti puoi reinc~ c(io)è {P} se ti [sei co]mportato bene ti puoi reincarnare in qualcosa di superiore
+PSB075	da noi vuol dire proprio che tu ti puoi reinc~ c(io)è (.) se ti [sei co]mportato bene ti puoi reincarnare in qualcosa di superiore
 PSB005	[ah]
-PSB075	se ti {P} hai {P} sei comportato male ti puoi reincarnare in qualcosa di più basso quindi
+PSB075	se ti (.) hai (.) sei comportato male ti puoi reincarnare in qualcosa di più basso quindi
 PSB075	potrebbe essere
 PSB075	che ti reincarni in un ramoscello di un albero
 PSB075	come in una lumaca
@@ -2644,12 +2644,12 @@ PSB076	nato bello
 PSB076	qualcuno non: lavoro non: lavori bene
 PSB076	°un po' diver[so xxx]
 PSB075	[e si collega] anche al [concetto di karma no che] so[no tutti] concetti dell'induismo e:h lì:
-PSB076	[chiedo (così) {P} così]
+PSB076	[chiedo (così) (.) così]
 PSB005	[mhmh]
 PSB005	>sì sì<
 PSB076	anche quando morto tante cose dop~ dopo serve tante cose
-PSB076	anche all'amore {P} (e a cuore)
-PSB075	[xx c'ha dei ri]tuali molto: {P} lunghi per ogni cosa
+PSB076	anche all'amore (.) (e a cuore)
+PSB075	[xx c'ha dei ri]tuali molto: (.) lunghi per ogni cosa
 PSB076	ah ah
 PSB076	ta[nte co(se)]
 PSB005	[mh (o)kay]
@@ -2661,13 +2661,13 @@ PSB005	[mhmh]
 PSB075	c'è: questo rituale particolare qui: dove:
 PSB075	e:h
 PSB075	non mi ricordo se <i maschi> nei mesi pari le femmine nei mesi dispari non mi ricordo che dopo ti fan~
-PSB075	dopo un {P} una certa no,
+PSB075	dopo un (.) una certa no,
 PSB075	ti dicono che dal~
-PSB075	<dal {P} c(io)è dal:> perché i bambini quando nascono sono ancora rappresentazione di dio tipo da noi
+PSB075	<dal (.) c(io)è dal:> perché i bambini quando nascono sono ancora rappresentazione di dio tipo da noi
 PSB075	quindi c'è questo concetto quindi
-PSB075	per portarli nel mondo umano {P} gli si dà {P} gli si dà un chicco di riso
+PSB075	per portarli nel mondo umano (.) gli si dà (.) gli si dà un chicco di riso
 PSB005	wow
-PSB075	e {P} c'è questa cerimonia no del chicco di riso e poi:
+PSB075	e (.) c'è questa cerimonia no del chicco di riso e poi:
 PSB075	in quell'occasione lì
 PSB075	ti portano un piatto
 PSB075	dove
@@ -2677,8 +2677,8 @@ PSB075	che rappresenta la scrittura
 PSB075	c'è un pezzo di terra
 PSB075	che rappresenta le proprietà [terrene]
 PSB076	[i so]ldi
-PSB075	ci sono i soldi {P} E
-PSB075	il bambino o la bambina la prima cosa che prende {P} si crede che quello sarà il suo destino
+PSB075	ci sono i soldi (.) E
+PSB075	il bambino o la bambina la prima cosa che prende (.) si crede che quello sarà il suo destino
 PSB075	c(io)è:
 PSB075	sarà la sua via
 PSB075	se sceglierà che ne so la penna
@@ -2694,21 +2694,21 @@ PSB075	[(quindi è)]
 PSB075	c'è questa cosa:
 PSB005	e l'han[no fa]tta anche loro?
 PSB075	[(e:hm)]
-PSB076	sì [sì {P} an]che fatto loro
+PSB076	sì [sì (.) an]che fatto loro
 PSB075	[sì °sì sì°]
 PSB075	[anch]e lei
 PSB075	(quand'er[a piccola)]
-PSB076	[sì {P}] sì quand'ero piccola
-PSB005	certo {P} >sì sì<
+PSB076	[sì (.)] sì quand'ero piccola
+PSB005	certo (.) >sì sì<
 PSB075	[e so e:h]
 PSB076	[>no ma anc-<] anche quando fatto a: lui ha preso: penna e >quello< fo~ foglio
 PSB076	anche anche lui preso foglio penna anche terra tutti e tre insieme [comunque tutti insie]me
-PSB005	[tutto? {P} ah]
-PSB075	{ride}
+PSB005	[tutto? (.) ah]
+PSB075	((ride))
 PSB005	quindi forse un po' indeciso
-PSB075	{ride}
+PSB075	((ride))
 PSB005	vediamo
-PSB076	{ride}
+PSB076	((ride))
 PSB076	sì vediamo
 PSB005	bel[lissimo]
 PSB075	[(mamma) poi] c'è questa cosa
@@ -2741,7 +2741,7 @@ PSB005	[sì >dimmi dimmi<]
 PSB005	[dimm(i)]
 PSB075	[pur sa]pendo certe cos~
 PSB075	che differenza c'è
-PSB075	tra comunione {P} [e]
+PSB075	tra comunione (.) [e]
 PSB005	[e cr]es~
 PSB005	[e] cresima
 PSB075	[(sì)]
@@ -2749,8 +2749,8 @@ PSB005	[c'è una grossa di]ffere[nza]
 PSB075	[>c(io)è non ho capito poi cosa<]
 PSB075	[o]kay
 PSB005	sì sì c'è una grossa differenza praticamente
-PSB005	eh ah {P} sono abbastanza preparata
-PSB005	mh {P} fortuna[tame]nte sì eh {ride}
+PSB005	eh ah (.) sono abbastanza preparata
+PSB005	mh (.) fortuna[tame]nte sì eh ((ride))
 PSB075	[okay]
 PSB005	praticamen[te la]: m:h
 PSB075	[°mhmh°]
@@ -2771,9 +2771,9 @@ PSB075	[>sì sì<]
 PSB076	[(il niente)]
 PSB075	mhmh
 PSB005	[pane]
-PSB076	[x anche {P}] anche io un prima vol[ta]
+PSB076	[x anche (.)] anche io un prima vol[ta]
 PSB075	[a]:h
-PSB075	ma dopo ti diciamo questa cosa qua be~ {P} intanto ti facciamo finire dopo ti diciamo que[sta]
+PSB075	ma dopo ti diciamo questa cosa qua be~ (.) intanto ti facciamo finire dopo ti diciamo que[sta]
 PSB005	[A]:H
 PSB005	e: [sono] bre~ fa~ sarò breve [c(io)è]
 PSB075	[sì sì]
@@ -2797,7 +2797,7 @@ PSB075	[(okay)]
 PSB076	[sì anche visto] io [prete] un pochino bevu[to cos]ì dato un altre persone
 PSB005	[sì:]
 PSB005	[sì sì]
-PSB005	di soli[to le]: l'assemblea no: ma {P} è più che altro una
+PSB005	di soli[to le]: l'assemblea no: ma (.) è più che altro una
 PSB076	[sì]
 PSB005	un'abitudi[ne ogni] tanto si fa ogni [tan~]
 PSB075	[ah okay]
@@ -2812,13 +2812,13 @@ PSB005	tu
 PSB005	e::hm
 PSB005	decidi di diventare
 PSB005	una parte attiva della della comunità essere~ si dice un soldato di cristo.
-PSB075	quindi la la cresima serve prop~ proprio per identificarti come {P} cristiano no?
+PSB075	quindi la la cresima serve prop~ proprio per identificarti come (.) cristiano no?
 PSB005	allora il battesimo è l'ide~ [l'identificazione come] cristiano sì
 PSB075	[eh okay il battesimo]
-PSB005	però tu in quel momento diventi {P} scelto {P} prescelto {P} da dio {P} per {P} dif[fondere] {P} [la sua] parola la:
+PSB005	però tu in quel momento diventi (.) scelto (.) prescelto (.) da dio (.) per (.) dif[fondere] (.) [la sua] parola la:
 PSB075	[ah okay]
 PSB075	[°okay°]
-PSB005	>quindi< in realtà è una cosa [molto importante] e {P} io {P} lo farei
+PSB005	>quindi< in realtà è una cosa [molto importante] e (.) io (.) lo farei
 PSB076	[°molto importante°]
 PSB005	mol~ con i ragazzi molto più grandi invece si fa con i ragazzini di undici dodici >[anni]< secondo me invece è sbagliatissimo cioè io lo farei a: [a qui]ndici a se[dici]
 PSB076	[xx]
@@ -2828,10 +2828,10 @@ PSB005	[sì sì] perché è un momento molto~ dovrebbe essere un momento molto [
 PSB075	[quindi ah okay] quindi tipo da quel che ho capito la comunione è come dire tu sei parte di cristo no?
 PSB005	sì
 PSB075	e invece la cresima è come dire tu diffondi la [parola di cristo okay]
-PSB005	[sì sì sì {P} sì]
+PSB005	[sì sì sì (.) sì]
 PSB076	rohd laktasena
 PSB075	ti sta venendo il sole [se vuoi ci spostiamo:]
-PSB005	[no no {P} v~ va bene]
+PSB005	[no no (.) v~ va bene]
 PSB005	[no no per me va bene]
 PSB076	[xx] onek rhod lage
 PSB075	se:- se vuoi possiamo spostarci [x~]
@@ -2840,17 +2840,17 @@ PSB075	ok[ay]
 PSB005	[sì sì] [per adesso:] va bene sì sì
 PSB076	[okay]
 PSB076	[ah okay]
-PSB075	[ora] {P} ti diciamo questo aneddoto picco[lo:]
+PSB075	[ora] (.) ti diciamo questo aneddoto picco[lo:]
 PSB005	[eh] sentiamo sì
 PSB075	per quanto riguarda l'ostia no quella lì
 PSB005	sì
 PSB075	e:hm
-PSB075	allora {P} pa~ ce~
-PSB075	cioè che sempre nella nostra credenza no tipo {P} come ti dicevo [ogni~ ogni rappresentazione divina è sempre xx rappresentzaione dello stesso xx no]?
+PSB075	allora (.) pa~ ce~
+PSB075	cioè che sempre nella nostra credenza no tipo (.) come ti dicevo [ogni~ ogni rappresentazione divina è sempre xx rappresentzaione dello stesso xx no]?
 ???	[non puoi parlare xxx xxx pomeriggio xx]
 ??	[no]
-PSB075	e {P} come avrai capito siamo molto attaccati alla natura al terreno eccetera
-PSB075	>proprio< però è solo un tramite con cui: parlare con diciamo questa è (l'azione) con cui [parlare con] {P} l'altra parte
+PSB075	e (.) come avrai capito siamo molto attaccati alla natura al terreno eccetera
+PSB075	>proprio< però è solo un tramite con cui: parlare con diciamo questa è (l'azione) con cui [parlare con] (.) l'altra parte
 PSB005	[mhmh]
 PSB075	e all'inizio quando no~ c(io)è io e mia mamma eravamo quando tipo non c'erano tutte queste comunità bengalesi ma proprio perché noi eravamo v~ c(io)è siamo da tanto tempo che [siamo qui],
 PSB005	[okay]
@@ -2863,10 +2863,10 @@ PSB076	emni tarpore rhobibar chuti shater ischooler [xxx]
 PSB075	[ecco eravamo curiosi ecco] vero era domenica eravamo curiosi di vedere un po' come: funzionava dentro alla chiesa
 PSB076	[tutti i giorni mattina] io cam[mino tanto con lui xxx xxx]
 PSB075	[le campane e n~ eravamo curiosi] eravamo lì dentro ci siamo seduti
-PSB075	ad un certo punto vediamo tutti che si alzano si mettono in fila {ride}
+PSB075	ad un certo punto vediamo tutti che si alzano si mettono in fila ((ride))
 PSB076	non è capito come [mai]
 PSB075	[noi] ci siamo messi [in fila ci siamo alzati],
-PSB076	[visto tutti] che sono alzati xx {ride}
+PSB076	[visto tutti] che sono alzati xx ((ride))
 PSB005	[che bello] avete fatto benissimo
 PSB075	e~ e~ e:hm il prete ci ha dato questa: questa ostia >e poi< noi l'abbiam mangiata assaggiamolo che cos'è vedia[mo]
 PSB005	[ma] sì:
@@ -2878,36 +2878,36 @@ PSB005	[per me] avete fatto benissi[mo]
 PSB075	[erava]mo curiosi di vedere cosa c'era lì de~ come funzionavano le [(cose)]
 PSB005	[e tu eri] piccolo?
 PSB075	ero moto pi~ cioè avevo [la sua età]
-PSB076	[sì come inizio] quello: [no non è età] {P} cinque sei anni
+PSB076	[sì come inizio] quello: [no non è età] (.) cinque sei anni
 PSB075	[ma proprio i primi anni]
 PSB075	[eh vabbè] i primi [anni]
 PSB076	[xx] primo anno primo anno che [xxx]
-PSB005	[tanto~] tanto anche i bambini {P} abbastanza pi[ccoli]:,
+PSB005	[tanto~] tanto anche i bambini (.) abbastanza pi[ccoli]:,
 PSB075	[x]
 PSB076	[sì a me] a~ anche io qualche~ qualche volta e hai anche aiutato anche chiedere per chiesa
-PSB076	anche io piaciuto {P} perché quando loro parlano anche tutte cose io vado via che [xxx {P} sì per xx]
+PSB076	anche io piaciuto (.) perché quando loro parlano anche tutte cose io vado via che [xxx (.) sì per xx]
 PSB005	[ah okay]
 PSB075	[x è tanto per noi]?
-PSB075	[cioè è come~] come dire che anche {P} che ne so cristo è semplicemente una figura [di un'altra divinità],
+PSB075	[cioè è come~] come dire che anche (.) che ne so cristo è semplicemente una figura [di un'altra divinità],
 PSB005	[mhmh sì] sì
 PSB075	c(io)è
-PSB075	che: comunque rappresen~ la sostanza è quella quindi è sempre per raggiungere {P} quella cosa che tu vuoi però con un altra {P} trami[te]
+PSB075	che: comunque rappresen~ la sostanza è quella quindi è sempre per raggiungere (.) quella cosa che tu vuoi però con un altra (.) trami[te]
 PSB005	[mhmh]
 PSB076	anche ogni tanto quando io visto qualcuno conosciuta:,
-PSB076	per me {P} anche <qualcuno> morto dopo entrato chiesa {P} anche io quando c'è tempo io anche entrare in [xxx]
+PSB076	per me (.) anche <qualcuno> morto dopo entrato chiesa (.) anche io quando c'è tempo io anche entrare in [xxx]
 PSB075	[no ma:] cioè non~ non ci facciamo tanti problemi dicia[mo xx]
 PSB005	[no ma fate benissi]mo [per me]
 PSB075	[xxx siamo molto aperti xx]
 PSB076	[però quando prima volta] quando io entro io pensato io pensato,
-PSB076	forse a~ forse andare o no {P} forse andare o no io: dubbio
+PSB076	forse a~ forse andare o no (.) forse andare o no io: dubbio
 PSB005	sì [sì]
-PSB076	[io] forse è permesso che io $ando o no io andare o no {P} dopo qualcuno ha detto tu quando interessa vieni con [me che] dopo io entrata adesso io [tranquilla io andare]
+PSB076	[io] forse è permesso che io $ando o no io andare o no (.) dopo qualcuno ha detto tu quando interessa vieni con [me che] dopo io entrata adesso io [tranquilla io andare]
 PSB005	[sì sì]
 PSB005	[sì sì]
-PSB075	no ma tipo {P} semplicemente anche tipo nelle moschee no? non è che è sempre permesso entrare
+PSB075	no ma tipo (.) semplicemente anche tipo nelle moschee no? non è che è sempre permesso entrare
 PSB005	[no è vero sì]
 PSB076	[e:h]
-PSB075	[ma par]lando anche di templi induisti no? eh alcuni sono {P} considerati particolarmente sacri quindi:
+PSB075	[ma par]lando anche di templi induisti no? eh alcuni sono (.) considerati particolarmente sacri quindi:
 PSB005	[è vero]
 PSB075	ovviamente per una persona di un'altra fede: forse ti diranno no
 PSB075	cioè questo è riservato
@@ -2917,7 +2917,7 @@ PSB005	[no no secondo] me in chiesa [p~] potete entrare poi [io non so] se ci so
 PSB075	[sì]
 PSB076	[xxx]
 PSB076	[xx]
-PSB005	ma io {P} se lo chiedete a me
+PSB005	ma io (.) se lo chiedete a me
 PSB075	no
 PSB005	fate [benissimo]
 PSB075	[no no] ma infatti anche nei tem[pli c(io)è]
@@ -2925,56 +2925,56 @@ PSB076	[ma qui] pro:[prio] prima volta io un pochino paura già quando io entro 
 PSB005	[sì]
 PSB005	ok[ay]
 PSB076	[vuoi] prima sap~ quel~ e: sapere dopo io entro meglio così
-PSB076	dopo quando qualcuno signora ha detto vieni {P} quando xx {P} ah tu vuoi entrare tu vedi quello come {P} sì sì sì sì sì
+PSB076	dopo quando qualcuno signora ha detto vieni (.) quando xx (.) ah tu vuoi entrare tu vedi quello come (.) sì sì sì sì sì
 PSB076	dopo [xxx (vieni)]
-PSB075	[poi in verità] quando giriamo nelle città no durante le vacanze {P} una delle prime cose che tu vai va~ vedi nelle città italiane sono appunto le chiese che sono [fatte] molto bene
+PSB075	[poi in verità] quando giriamo nelle città no durante le vacanze (.) una delle prime cose che tu vai va~ vedi nelle città italiane sono appunto le chiese che sono [fatte] molto bene
 PSB005	[mhmh]
 PSB005	sì [sì]
-PSB075	[c(io)è] [quindi {P} tu] entri {P} per vedere {P} quindi
+PSB075	[c(io)è] [quindi (.) tu] entri (.) per vedere (.) quindi
 PSB076	[(anche quello)]
 PSB005	certo [no ma] in chiesa si può entrare
 PSB075	[(eh)]
 PSB076	sì sì
 PSB005	in qualsiasi [momento]
 PSB075	[no però là all'inizio c'era quel dubbio lì e]
-PSB076	[solo solo nome] {P} secondo me {P} solo nome per~ eh cambiato
+PSB076	[solo solo nome] (.) secondo me (.) solo nome per~ eh cambiato
 PSB076	però dio tutti uguale
 PSB005	mhmh
-PSB075	no ma c'è da [noi] c'è proprio questa credenza di base quindi alla [fine:] {P} °è così°
+PSB075	no ma c'è da [noi] c'è proprio questa credenza di base quindi alla [fine:] (.) °è così°
 PSB076	[capito]?
 PSB005	[sì sì]
 PSB005	io non conosco bene: le altre confessioni: cristiane però sono andata certe volte perché tanto:
-PSB005	cioè se c'è la messa la domenica {P} anche se sono metti: protestanti o: più o meno alla fine
+PSB005	cioè se c'è la messa la domenica (.) anche se sono metti: protestanti o: più o meno alla fine
 PSB005	la [l'idea è quella]
-PSB076	[ma anch'io visto] qua {P} aperta tutti i giorni quella chiesa [aperta] tutti i giorni tanti persone mattina già andav[a:n]
+PSB076	[ma anch'io visto] qua (.) aperta tutti i giorni quella chiesa [aperta] tutti i giorni tanti persone mattina già andav[a:n]
 PSB005	[mhmh]
 PSB075	[che] poi adesso [non:]
 PSB076	[an]che pomeriggio ho visto [io]
-PSB075	[poi] {P} mi è sembrato di capire sempre che tipo i protestanti o comunque le altre reli~ a parte gli ortodossi
+PSB075	[poi] (.) mi è sembrato di capire sempre che tipo i protestanti o comunque le altre reli~ a parte gli ortodossi
 PSB005	mh[mh]
-PSB075	[c(io)è] i protestanti siano un po' più: {P} e:hm non sono così rigidi come i cattolici nelle regole?
+PSB075	[c(io)è] i protestanti siano un po' più: (.) e:hm non sono così rigidi come i cattolici nelle regole?
 PSB005	mh
 PSB075	invece gli ortodossi sono più: rigidi dei cattolici con le regole cioè n:
 PSB005	allora sugli ortodossi no~ non so proprio dirti:
 PSB005	gl~ però i~ nei protesta:nti
 PSB075	mhmh
-PSB005	ci sono alcuni {P} che sono molto rigidi invece
+PSB005	ci sono alcuni (.) che sono molto rigidi invece
 PSB075	ah sì? okay
 PSB005	sì secondo me non so
 PSB005	e~ a volte c'è questa idea [però] io no~ non [sono sicura che sia corretta]
 PSB075	[m:h]
 PSB075	[perché (io) li vedo sempre come ste]p:
 PSB005	no
-PSB005	tu li vedi come {P} de~ degli sviluppi {P} [del]le progressioni {P} come se ci fosse del progresso
+PSB005	tu li vedi come (.) de~ degli sviluppi (.) [del]le progressioni (.) come se ci fosse del progresso
 PSB075	[sì sì]
 PSB075	[ma anche] in storia si è sem[pre vista questa cosa:]
 PSB005	[PERò]
-PSB005	[eh lo so però p~] io non~ s~ cioè anch'io ho pensato così per tanto però ultimamente {P} ultima[mente] no però insomma {P} negli ultimi anni
+PSB005	[eh lo so però p~] io non~ s~ cioè anch'io ho pensato così per tanto però ultimamente (.) ultima[mente] no però insomma (.) negli ultimi anni
 PSB075	[mhmh]
 PSB005	mi è capitato di conoscere più da vicino alcuni gruppi alcune confe[ssioni:] cristiane ma non cattoliche >e< in realtà
 PSB075	[mhmh]
 PSB005	i cattolici specialmente nel mondo occidentale
-PSB005	cioè abbiamo perso tantissime di quelle {P} usanze tipo non mangiare la carne il venerdì:
+PSB005	cioè abbiamo perso tantissime di quelle (.) usanze tipo non mangiare la carne il venerdì:
 PSB005	oppure no [oppure digiunare] prima della pasqua [cioè oppure] anche cose più più private della vita:
 PSB076	[S:ì xxx xx]
 PSB076	[xx]
@@ -2985,42 +2985,42 @@ PSB076	mhmh
 PSB005	tutte queste cose proprio stanno andando
 PSB075	[mhmh]
 PSB005	[stanno spa]rendo completamente,
-PSB005	invece ci sono delle confessioni: {P} protestanti {P} che sono molto
+PSB005	invece ci sono delle confessioni: (.) protestanti (.) che sono molto
 PSB005	molto attente a delle: mh
 PSB005	abitudini alimentari a non:: bere il caffè a:
-PSB005	e poi i protestanti passano molto più tempo insieme tipo al sabato o la~ >insomma< [la dome]nica dipende da le~ {P} dai gruppi,
+PSB005	e poi i protestanti passano molto più tempo insieme tipo al sabato o la~ >insomma< [la dome]nica dipende da le~ (.) dai gruppi,
 PSB075	[mhmh]
-PSB005	delle volte passano davvero tutto il giorno insieme {P} non si può lavorare o:
+PSB005	delle volte passano davvero tutto il giorno insieme (.) non si può lavorare o:
 PSB075	ok[ay]
 PSB005	[in]vece i cattolici,
-PSB075	a me quelli più: un pochino così diciamo più rigidi no? {P} i testimoni di geova mi sono [sembrati così]
-PSB005	[sì ma non sono] all'interno della chiesa cristiana sono: non sono riconosciuti {P} sai?
-PSB075	e c(io)è sapevo che erano cristiani però non {P} sapevo che non erano cattolici inso~ e~ [erano testimoni dei geova però:]
+PSB075	a me quelli più: un pochino così diciamo più rigidi no? (.) i testimoni di geova mi sono [sembrati così]
+PSB005	[sì ma non sono] all'interno della chiesa cristiana sono: non sono riconosciuti (.) sai?
+PSB075	e c(io)è sapevo che erano cristiani però non (.) sapevo che non erano cattolici inso~ e~ [erano testimoni dei geova però:]
 PSB005	[NO ma la c(io)è] c'è comunque un'unità dei cristiani,
 PSB075	mhmh
-PSB005	che comprende tutte le confessioni e c(io)è {P} no~ non è che puoi inventarti una chiesa tua e~ e già sei [parte]
+PSB005	che comprende tutte le confessioni e c(io)è (.) no~ non è che puoi inventarti una chiesa tua e~ e già sei [parte]
 PSB075	[e loro s~] [non sono] [riconosciuti]?
 PSB005	[di:]
 PSB005	[no] no
 PSB075	ah okay
-PSB005	no~ n~ oddio {P} verifica diciamo?
+PSB005	no~ n~ oddio (.) verifica diciamo?
 PSB075	okay
-PSB005	però non credo proprio invece tutti {P} tutti i vari protestanti metodisti: mh
+PSB005	però non credo proprio invece tutti (.) tutti i vari protestanti metodisti: mh
 PSB005	tre[mila] tipi che ci sono:
 PSB075	[mhmh]
 PSB075	mh[mh]
-PSB005	[so]no tutti riconosciuti come {P} [all'interno] della chiesa cristiana {P} °di tutti [i cristiani]° ma i testimoni di geon~ di geova no,
+PSB005	[so]no tutti riconosciuti come (.) [all'interno] della chiesa cristiana (.) °di tutti [i cristiani]° ma i testimoni di geon~ di geova no,
 PSB075	[okay]
 PSB075	[okay]
-PSB005	hanno sono {P} molto particolari hanno delle credenze mo:lto [molto molto particolari diciamo quindi:
+PSB005	hanno sono (.) molto particolari hanno delle credenze mo:lto [molto molto particolari diciamo quindi:
 PSB075	[mhmh]
-PSB075	e poi hai io facendo xxx ci sono ogni tanto no quei {P} casi che ti dicono:
+PSB075	e poi hai io facendo xxx ci sono ogni tanto no quei (.) casi che ti dicono:
 PSB075	in ospedale con [(diritto) questo (diritto) quello] fare quale [prevale] quale no
-PSB005	[mh {P} sì sì]
+PSB005	[mh (.) sì sì]
 PSB005	[infatti]
 PSB075	c(io)è
 PSB005	è col~ m~ ma i testimoni di geova poi hanno secondo me del:
-PSB005	delle °convinz~° no non non non {P} non non dico perché non sono sicura però anche delle cose sulla salute quali interventi possono fare quali non:
+PSB005	delle °convinz~° no non non non (.) non non dico perché non sono sicura però anche delle cose sulla salute quali interventi possono fare quali non:
 PSB005	sono molto particolari sì
 PSB075	[esatto]
 PSB005	[comunque] io non sono esper[ta in] verità eh
@@ -3028,10 +3028,10 @@ PSB075	[>okay okay okay<]
 PSB005	quindi
 PSB075	mhmh
 PSB005	e::hm: no molto interessante questa questa discussione: sulle sulle religioni molto
-PSB005	sono curiosa di sapere quando specialmente quando tu eri piccolo oppure {P} anche adesso con il tuo fratellino,
+PSB005	sono curiosa di sapere quando specialmente quando tu eri piccolo oppure (.) anche adesso con il tuo fratellino,
 PSB005	certe feste tipo il natale no?
 PSB075	mhmh
-PSB005	che qui {P} hanno molto quell'aspetto dei regali babbo natale
+PSB005	che qui (.) hanno molto quell'aspetto dei regali babbo natale
 PSB075	ah okay
 PSB005	come
 PSB005	voi fate qualcosa in famiglia lo stesso [o:]?
@@ -3043,46 +3043,46 @@ PSB076	albero albero anche faccio [xx comprare]
 PSB005	[certo]
 PSB075	[poi anche non ci diamo i regali però è è sempre carino fare l'albero]
 PSB076	[compra]
-PSB005	però no:n vi date regali no? {P} [no] no
+PSB005	però no:n vi date regali no? (.) [no] no
 PSB075	[no no]
 PSB075	[xx no]
 PSB076	[no io]
-PSB076	quando lui era piccolo io {P} eh dato regalo per quello {P} piccolo piccolo (che) {P} pupazzo #ghula
+PSB076	quando lui era piccolo io (.) eh dato regalo per quello (.) piccolo piccolo (che) (.) pupazzo #ghula
 PSB075	vabbè: gli addobbi le palle e pal[line xx]
 PSB005	[okay okay] un [regalino sì]
 PSB076	[xxxx]
 PSB076	ANCHE [anche] adesso che: lui [xx]
 PSB075	(non lo so)
-PSB075	[ma perché è bello fare] l'albero in [generale] {ride}
+PSB075	[ma perché è bello fare] l'albero in [generale] ((ride))
 PSB076	[però quando]
 PSB005	[beh]
-PSB076	sì sì sì {P} (mh) [(lo facciamo)] {P} mhmh
+PSB076	sì sì sì (.) (mh) [(lo facciamo)] (.) mhmh
 PSB075	[colorato cioè]
-PSB005	perché {P} penso magari a scuola tutti i bambini parlano del [natale] così allora,
+PSB005	perché (.) penso magari a scuola tutti i bambini parlano del [natale] così allora,
 PSB076	[sì sì]
-PSB005	[magari viene a casa] e lo chiede {P} [non so]
+PSB005	[magari viene a casa] e lo chiede (.) [non so]
 PSB075	[sì sì sì]
-PSB076	[SI a:nche] [qualcosa] qualcosa con la tivu qualcosa {P} [con] xxx
+PSB076	[SI a:nche] [qualcosa] qualcosa con la tivu qualcosa (.) [con] xxx
 PSB075	[xx]
 PSB005	[mh]
 PSB005	mh
 PSB005	okay
 PSB075	i regali solitamente tipo durante il #durga #puja
 PSB075	solitamente i:
-PSB075	diciamo negli adul~ cioè neanche gli adulti {P} cioè sì m~ [regali nel senso] {P} chi vuole
+PSB075	diciamo negli adul~ cioè neanche gli adulti (.) cioè sì m~ [regali nel senso] (.) chi vuole
 PSB076	[tutti tutti]
-PSB005	sì {P} [vi] scambiate dei regali durante questa festa [sì sì]
+PSB005	sì (.) [vi] scambiate dei regali durante questa festa [sì sì]
 PSB075	[non è:]
 PSB075	[sì sì]
 PSB076	[come:] come: lo:ro
-PSB076	solo: mh prima di natale {P} regali (presenti)
+PSB076	solo: mh prima di natale (.) regali (presenti)
 PSB005	mhmh
 PSB076	anche nostro >quello< quando c'è xx festeggiando dio >quello< #durga
 PSB005	mhmh
 PSB076	anche no:i anche tanti persone io dare rega[li]
 PSB005	[okay] quindi assomiglia un po' a ques[ta:]
 PSB076	[sì:]
-PSB075	sì sul punto dei regali {P} [fo]rse troviamo questa somiglianza pe[rò:]
+PSB075	sì sul punto dei regali (.) [fo]rse troviamo questa somiglianza pe[rò:]
 PSB005	[certo]
 PSB005	[sì sì] sì
 PSB005	[e:h]m
@@ -3090,28 +3090,28 @@ PSB076	[(poi)]
 PSB076	[questo] questo settembre eh questo anno andato se e:h fine: agosto sette~ primo settembre,
 PSB005	[dimmi dimmi]
 PSB076	>quello< principale dio quello krishna è compleanno di krishna
-PSB005	okay {P} ah okay
-PSB076	forse magari questa agosto {P} agosto: settembre fine settembre
+PSB005	okay (.) ah okay
+PSB076	forse magari questa agosto (.) agosto: settembre fine settembre
 PSB076	fine sette~ [fine ago]sto: p~ primo se[ttembre]
 PSB075	[ah okay]
-PSB075	[di festività] ogni m~ cioè n~ no~ non c'è limite {ride}
+PSB075	[di festività] ogni m~ cioè n~ no~ non c'è limite ((ride))
 PSB005	eh be~ [be~ be~ è bello] giusto?
 PSB075	[quindi xx]
 PSB005	beh sì noi con i santi un po':
 PSB005	certi: in certi [paesi] si festeggia un santo perché è il santo protettore:
 PSB075	[mh]
-PSB005	[anche i cattolici] sono un po' politeisti un pochino {ride} [sì]
+PSB005	[anche i cattolici] sono un po' politeisti un pochino ((ride)) [sì]
 PSB075	[m:h]
 PSB076	[sempre]
 PSB076	[a:h sì]
 PSB075	[ma] perché: cioè studiando un po' storia si capisce sempre che vabbè
-PSB075	che i romani erano pagani {P} e poi [c'erano] quelli che loro definivano pagani,
+PSB075	che i romani erano pagani (.) e poi [c'erano] quelli che loro definivano pagani,
 PSB005	[sì esatto]
 PSB075	e
-PSB075	per {P} cristianizzarli hanno comunque cercato di trovare in qualche modo un [compromesso].
+PSB075	per (.) cristianizzarli hanno comunque cercato di trovare in qualche modo un [compromesso].
 PSB005	[esatto]
-PSB075	quindi hanno {P} assorbito diciamo quelle concezioni: {P} [lì]
-PSB005	[sì] sì sì {P} sì sì certo certo
-PSB005	>allora< fatemi guardare un momento {P} eh {P} l'ora
-PSB005	okay {P} allora {P} se
+PSB075	quindi hanno (.) assorbito diciamo quelle concezioni: (.) [lì]
+PSB005	[sì] sì sì (.) sì sì certo certo
+PSB005	>allora< fatemi guardare un momento (.) eh (.) l'ora
+PSB005	okay (.) allora (.) se
 PSB005	vediamo un attimo

@@ -10,7 +10,7 @@ PSB162	e allora
 PSB161	t'apposto tutt'apposto
 PSB161	te
 PSB161	ma fai
-PSB162	ghadda . ghadda ghādi n-sawb lī-k xx⟨?⟩
+PSB162	ghadda (.) ghadda ghādi n-sawb lī-k xx⟨?⟩
 PSB161	fai
 PSB161	eh vedi e si è rotto
 PSB162	an sawb lī-k sì sì an sawb lī-k
@@ -321,7 +321,7 @@ PSB162	ah
 PSB161	oh ma hai fatto tutto da dio
 PSB163	cosa
 PSB161	e la xx
-PSB161	jamais vu la toilette comme ça ride
+PSB161	jamais vu la toilette comme ça ((ride))
 PSB162	no
 PSB162	no ma che ridi
 PSB161	no veramente

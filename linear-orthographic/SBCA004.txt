@@ -195,7 +195,7 @@ PSB100	eh
 PSB099	eh eh eh
 PSB100	eh mica parlo francese
 PSB100	eh ao non c'ho mica questa fortuna che come te eh non c'ho mica questa fortuna come te che sai molte lingue io
-PSB099	je suis désolée . je suis désolée mais ride
+PSB099	je suis désolée (.) je suis désolée mais ((ride))
 PSB099	quando la gente stava studia' tu che stavi a fa'
 PSB100	già tanto
 PSB100	io

@@ -3,11 +3,11 @@ PSB014	posso?
 PSB033	°me lhai mandato°
 PSB014	poggio qua
 PSB035	a:h
-???	{musica}
+???	((musica))
 PSB014	ehm:
 PSB014	vai
 PSB014	[vai tu]?
-PSB033	[vai {P} vai tu]? inizia tu
+PSB033	[vai (.) vai tu]? inizia tu
 PSB014	ehm: vi piace questa zona di bolo[gna]?
 PSB035	[sì] molto piace a me
 PSB014	°vi pia[ce]°
@@ -17,21 +17,21 @@ PSB035	sì vivete qua: vicino qua
 PSB014	ah
 PSB035	piedi cinque minuti °[qui]°
 PSB014	[ah]
-PSB014	ehm {P} quindi vi spostate sempre a piedi?
+PSB014	ehm (.) quindi vi spostate sempre a piedi?
 PSB035	ehm: quasi sempr~ viene a lavorare: sempre piedi
-PSB014	ah okay {P} l'autobus lo prendete [mai]?
-PSB035	[ehm:] no {P} qua perché {P} cinquecento me[tri] senza {P} con autobus {P} [piedi],
+PSB014	ah okay (.) l'autobus lo prendete [mai]?
+PSB035	[ehm:] no (.) qua perché (.) cinquecento me[tri] senza (.) con autobus (.) [piedi],
 PSB014	[ah]
 PSB014	[okay]
 PSB014	e: ci sono delle cose che non vi piacciono di questa zona?
-PSB035	ehm: per me: {P} ehm:
-PSB035	va bene perché quella zona {P} per me piace
+PSB035	ehm: per me: (.) ehm:
+PSB035	va bene perché quella zona (.) per me piace
 PSB014	mhmh
-PSB035	qua non è: tanto casino {P} quello no
+PSB035	qua non è: tanto casino (.) quello no
 PSB014	okay
 PSB035	sempre silenzio: tranquillo qui
 PSB014	okay
-PSB014	e bologna {P} come città vi piace?
+PSB014	e bologna (.) come città vi piace?
 PSB035	eh piace piace
 PSB033	°scusami°
 PSB035	ehm
@@ -71,32 +71,32 @@ PSB014	ehm:
 PSB014	pa~ allora
 PSB014	stavo pensan[do]
 PSB035	[ah]
-PSB014	qualche cibo {P} che le manca della cina e che non riesce a trovare qua a bologna?
-PSB035	ehm: cina {P} cosa non capito qual
+PSB014	qualche cibo (.) che le manca della cina e che non riesce a trovare qua a bologna?
+PSB035	ehm: cina (.) cosa non capito qual
 PSB014	cibo
 PSB035	cibo [ah]
 PSB014	[cibo] preferito della cina
-PSB035	ah in cina: portare qui: quello: {P} supermercato:
+PSB035	ah in cina: portare qui: quello: (.) supermercato:
 PSB035	in cinese tanto quello: cibo per mangiare tanti la [cina]
 PSB014	[mh]mh
-PSB035	solo noi: paese {P} quel cinese quello: {P} ehm: quello: supermer[cato]
+PSB035	solo noi: paese (.) quel cinese quello: (.) ehm: quello: supermer[cato]
 PSB014	[okay] trovate quindi [qua le] cos[e]?
 PSB035	[sì]
 PSB035	[sì] sì tanti
-PSB035	ah perché in via ferrese anche tre {P} negozio {P} [grande]
+PSB035	ah perché in via ferrese anche tre (.) negozio (.) [grande]
 PSB014	[sì] aha
 PSB033	sì sì [sì]
-PSB035	[però] cinese {P} però
+PSB035	[però] cinese (.) però
 PSB014	[ah]
 PSB035	[quel]
 PSB033	[okay]
-PSB033	sì {P} sì sì sì
+PSB033	sì (.) sì sì sì
 PSB014	°uhm°
-PSB033	e quanti anni avevi quando sei venuto qua {P} quindi?
-PSB035	eh qua bologna [{P}] ehm: quasi otto anni
+PSB033	e quanti anni avevi quando sei venuto qua (.) quindi?
+PSB035	eh qua bologna [(.)] ehm: quasi otto anni
 PSB033	[tu]
 PSB035	bologna otto [anni]
-PSB033	[otto] anni a bologna, prima? {P} [a venezia]?
+PSB033	[otto] anni a bologna, prima? (.) [a venezia]?
 PSB035	[prima]
 PSB035	venezia: quasi: otto anni: dopo treviso cinque [anni]
 PSB033	[ah] tre[viso]
@@ -108,43 +108,43 @@ PSB033	°[mhmh]°
 PSB035	perché guadagna di più [da] qui anche lavo:ro: in cina differenza tanto
 PSB014	[okay]
 PSB014	okay
-PSB035	per quello motivo noi anche tanti parenti: venuto qua tanti anni {P} [ora]
+PSB035	per quello motivo noi anche tanti parenti: venuto qua tanti anni (.) [ora]
 PSB033	[okay]
-PSB014	e: quando è venuto qua: ehm: lo sapeva già l'italiano {P} o l'hai imparato qua?
+PSB014	e: quando è venuto qua: ehm: lo sapeva già l'italiano (.) o l'hai imparato qua?
 PSB035	io imparato qui
 PSB014	okay
 PSB014	è difficile secondo [lei]?
 PSB035	[eh] per me è difficile eh
-PSB035	anche io molto piace [eh] {ride}
+PSB035	anche io molto piace [eh] ((ride))
 PSB014	[ah]
-PSB035	tanti: quasi: centottanta ore {P} fatto corso [italiano]
+PSB035	tanti: quasi: centottanta ore (.) fatto corso [italiano]
 PSB014	[ah]
 PSB033	ah
-PSB035	però ogni: volta: tre mese {P} sessanta ore
+PSB035	però ogni: volta: tre mese (.) sessanta ore
 PSB014	[ah]
 PSB033	[ah]
-PSB035	[io] ho fatto [{P} fa]tto sessanta ore tre
+PSB035	[io] ho fatto [(.) fa]tto sessanta ore tre
 PSB033	[okay]
-PSB035	un anno e mezzo quasi {P} quasi fatto corso: italiano °quello°
+PSB035	un anno e mezzo quasi (.) quasi fatto corso: italiano °quello°
 PSB033	okay
-PSB014	e imparare a scrivere {P} è difficile?
-PSB035	eh per me va bene °sì° anche {P} io anche {P} io quando parlare anche si può scrivere eh
+PSB014	e imparare a scrivere (.) è difficile?
+PSB035	eh per me va bene °sì° anche (.) io anche (.) io quando parlare anche si può scrivere eh
 PSB014	[ah]
 PSB033	[ah] okay
 PSB035	ah
 PSB014	[sì]
 PSB033	[eh] però italiano è molto diverso dal [cinese]
-PSB035	[ehm:] molto diverso eh {P} molto diverso
+PSB035	[ehm:] molto diverso eh (.) molto diverso
 PSB014	okay
 PSB033	per esempio noi è difficile [cinese]
 PSB035	[eh] è [uguale e:h] ci vuole tanto tempo [e:h] quando imparare cinese minimo
-PSB014	{ride} [infatti]
+PSB014	((ride)) [infatti]
 PSB014	[tanto tempo]
 PSB033	[eh sì]
 PSB035	tre anni: [cinque] anni: co[sì do]po scrivere una: articoli così [imparare e:hm]
 PSB033	[sì]
 PSB033	[sì]
-PSB014	[eh infatti] sì sì {P} dfficile
+PSB014	[eh infatti] sì sì (.) dfficile
 PSB033	[infatti]
 PSB035	ehm: [minimo]
 PSB033	[sì]
@@ -156,33 +156,33 @@ PSB033	[oppure] più cinesi
 PSB035	ehm: noi tanto cinese [qua]
 PSB033	[tanti] cinesi
 PSB014	[okay]
-PSB035	anche noi clienti: cè anche qualche boh {P} molto buono aiutare: qualcosa cè italiano [°anche°]
+PSB035	anche noi clienti: cè anche qualche boh (.) molto buono aiutare: qualcosa cè italiano [°anche°]
 PSB033	[uhm]
 PSB035	°ehm°
 PSB014	°è vero°
 PSB033	okay invece la cucina tradizionale di bologna:?
 PSB014	le [piace]?
-PSB035	[ehm]: molto piace eh {P} [però:]
+PSB035	[ehm]: molto piace eh (.) [però:]
 PSB014	[sì]
 PSB033	[sì]
 PSB033	[torte]lli:[ni]
 PSB035	[ehm:] tortellini, lasagna: bolognese, buonissime
-PSB014	{ride} buono {P} morta[della]
+PSB014	((ride)) buono (.) morta[della]
 PSB035	[ehm:] mortadella io piace tanto xx
 PSB014	sì
 PSB033	sì sì
 PSB033	quella è difficile da fare anche
-PSB035	eh [{P}] sì difficile [eh]
+PSB035	eh [(.)] sì difficile [eh]
 PSB014	[eh sì]
 PSB033	[sì sì] sì
-PSB035	io piace (anche) imparare {P} italiano [però] spaghetti con ragù
+PSB035	io piace (anche) imparare (.) italiano [però] spaghetti con ragù
 PSB014	[uhm]
 PSB014	[okay]
 PSB033	[okay]
 PSB035	eh con quell[o:] tante cos[e]
 PSB014	[okay]
 PSB014	[o]kay
-PSB033	[u]hm e lei quindi parla man~ {P} cinese italiano
+PSB033	[u]hm e lei quindi parla man~ (.) cinese italiano
 PSB035	e:h [sì] sì
 PSB033	[sì]
 PSB035	[eh]
@@ -204,7 +204,7 @@ PSB035	[vicino a:]
 PSB014	[sud nord]
 PSB035	ehm:
 PSB035	eh noi sono: sud
-PSB014	[sud] [{P} °sud] su[d]°
+PSB014	[sud] [(.) °sud] su[d]°
 PSB033	[ah okay]
 PSB035	[mhmh]
 PSB035	[mh]mh
@@ -213,9 +213,9 @@ PSB035	[e::h] sì un po differenza sì
 PSB014	un po diverso?
 PSB035	sì sì un po' di diver~ in cina perché: quan~ tante lingua eh
 PSB014	tanti diver~ tanti dialetti ci sono?
-PSB035	sì sì molt~ molto tante lingua {P} in cina poi tremilla lin[gua e:h] una cosa:
+PSB035	sì sì molt~ molto tante lingua (.) in cina poi tremilla lin[gua e:h] una cosa:
 PSB014	[e:h]
-PSB035	quando ti {P} quando ti stampa cinquanta me~ cinquanta chilometri forse lingua [diversa (un po')]
+PSB035	quando ti (.) quando ti stampa cinquanta me~ cinquanta chilometri forse lingua [diversa (un po')]
 PSB033	[diversa]
 PSB014	[sì] sì sì [sì]
 PSB035	[in cina] poi è grande
@@ -223,8 +223,8 @@ PSB014	ehm
 PSB035	tante lingua
 PSB014	è [vero]
 PSB033	[okay] però anche bologna ha un dialetto particolare
-PSB035	e:h bologna differenza po[co {P}] è quasi uguale eh
-PSB014	{ride}
+PSB035	e:h bologna differenza po[co (.)] è quasi uguale eh
+PSB014	((ride))
 PSB033	[EH]
 PSB014	è un po' [difficile anche di xx]
 PSB035	[eh qua forse] bologna con napoli lingua un po' [differenza]
@@ -236,7 +236,7 @@ PSB033	[sì sì sì]
 PSB033	[è stato] al sud >anche<? ehm: anche?
 PSB033	[sud] d'italia?
 PSB035	[e:h]
-PSB035	eh {P} io sempre: qua: no mai napoli latino {P} no io sempre venezia qui sono: [due:] due zona qui
+PSB035	eh (.) io sempre: qua: no mai napoli latino (.) no io sempre venezia qui sono: [due:] due zona qui
 PSB014	ah okay
 PSB033	[okay]
 PSB014	mhmh
@@ -248,29 +248,29 @@ PSB033	sì
 PSB014	okay
 PSB035	(quando::)
 PSB014	[sì]
-PSB035	[(°solo°)] cinese tanto [italiano] perché {P} non tanto capisce
+PSB035	[(°solo°)] cinese tanto [italiano] perché (.) non tanto capisce
 PSB014	[okay]
 PSB014	[eh]: difficile sì sì
 PSB033	[no] xx
-PSB035	{ride}
+PSB035	((ride))
 PSB014	quindi anche la televisione immagi[no]
 PSB035	[a:h] #duì #duì televisione sì eh [che] qua [abbiam~]
 PSB033	[AH]
 PSB014	[in] italiano?
 PSB035	sì anche poco non tan[to]
 PSB014	[poco] ok[ay]
-PSB035	[ah] {P} non tanto {P} vede°re°
+PSB035	[ah] (.) non tanto (.) vede°re°
 PSB014	°(okay)°
 PSB014	e:h e lavoro ha sempre fatto il parrucchiere?
-PSB035	e:h no io prima: lavoro {P} con italiano
+PSB035	e:h no io prima: lavoro (.) con italiano
 PSB014	okay
 PSB035	sono (soli) fuori $cantire
 PSB014	okay
-PSB035	passa otto anni con $cantire: fuori {P} fare casa:
+PSB035	passa otto anni con $cantire: fuori (.) fare casa:
 PSB033	aha okay
-PSB035	tutti: muratore xx xx {P} tanti otto [anni]
+PSB035	tutti: muratore xx xx (.) tanti otto [anni]
 PSB014	[ah ok]ay
-PSB035	dopo cambiare {P} [parruchiere]
+PSB035	dopo cambiare (.) [parruchiere]
 PSB014	[ha cambiato] e le piace fare [parruchiere]?
 PSB035	[eh] piace
 PSB014	piace?
@@ -279,43 +279,43 @@ PSB014	[eh]
 PSB014	sì
 PSB035	ehm
 PSB014	certo
-PSB033	sì però lavora tanto immagino {P} qua
+PSB033	sì però lavora tanto immagino (.) qua
 PSB035	a:h
 PSB014	sì
-PSB035	adesso qui eh {ride}
-PSB014	{ride}
-PSB033	pero {P} è difficile oppure le piace?
-PSB035	ehm: difficile sì per me {P} piace però:
-PSB035	ehm meglio qua: dentro lavoro [{P}] perché fuori troppo caldo eh quando lavoro {P} molto sole: quando estate: [molto] molto caldo
+PSB035	adesso qui eh ((ride))
+PSB014	((ride))
+PSB033	pero (.) è difficile oppure le piace?
+PSB035	ehm: difficile sì per me (.) piace però:
+PSB035	ehm meglio qua: dentro lavoro [(.)] perché fuori troppo caldo eh quando lavoro (.) molto sole: quando estate: [molto] molto caldo
 PSB014	[°mhmh°]
 PSB014	[eh]
 PSB014	[è difficile]
 PSB014	d'estate qua fa cal[do]
 PSB035	[e:h] anche tutti giorno lavoro: qua [sudare:] tanto eh eh eh
-PSB014	[sudare anche] {ride}
+PSB014	[sudare anche] ((ride))
 PSB014	è vero è [ver~]
-PSB035	[per] me fuori eh {P} per me anche piace
+PSB035	[per] me fuori eh (.) per me anche piace
 PSB033	aha
 PSB033	[sì]
-PSB035	[per]ché mangia bene: tutti giorno {P} mangiare ristorante noi quando fuor~ $cantire lavora tutto mangia ristorante [{P}] ogni giorno [così]
+PSB035	[per]ché mangia bene: tutti giorno (.) mangiare ristorante noi quando fuor~ $cantire lavora tutto mangia ristorante [(.)] ogni giorno [così]
 PSB014	[°mhmh°]
 PSB014	[°ehm°]
 PSB014	ah okay [okay okay]
-PSB035	[anche a me] piace noi uomo eh {P} piace {P} [fuori]
-PSB014	{ride}
+PSB035	[anche a me] piace noi uomo eh (.) piace (.) [fuori]
+PSB014	((ride))
 PSB033	[cer]to
 PSB014	ma eh eh in cina fa fa più caldo o più freddo di [qua]?
 PSB035	[e:h] quasi: più caldo
 PSB014	[più caldo?]
 PSB033	[più caldo?]
-PSB035	[xx] in cina caldo dopo qui {P} differenza un po
+PSB035	[xx] in cina caldo dopo qui (.) differenza un po
 PSB033	mhmh
 PSB035	in cina un po' umido
 PSB014	eh
-PSB035	noi paese {P} tanto piove
+PSB035	noi paese (.) tanto piove
 PSB014	[okay]
 PSB033	[okay]
-PSB035	perché quando xxx {P} piove anche {P} un mese [eh] [sem]pre no ferm(o)
+PSB035	perché quando xxx (.) piove anche (.) un mese [eh] [sem]pre no ferm(o)
 PSB014	[ah]
 PSB033	[mh]
 PSB014	[okay]
@@ -329,7 +329,7 @@ PSB033	[xx]
 PSB033	mhmh
 PSB014	sì
 PSB014	e:h posso chiederle lei è qua sua con sua famiglia?
-PSB035	eh sì [{P}] eh {P} io [tengo] moglie qui {P} bambino in cina
+PSB035	eh sì [(.)] eh (.) io [tengo] moglie qui (.) bambino in cina
 PSB014	[xx]
 PSB014	[xx]
 PSB033	ah
@@ -341,7 +341,7 @@ PSB014	[okay]
 PSB035	ah
 PSB033	bello bello
 PSB014	e torna spesso in cina?
-PSB035	eh io sì {P} lei sempre: quasi due anni vado una volta
+PSB035	eh io sì (.) lei sempre: quasi due anni vado una volta
 PSB033	okay
 PSB035	io tanti anni non andato [cina]
 PSB033	[a]:h
@@ -350,7 +350,7 @@ PSB035	eh perché io bisogno stare qua negozio [perché::]
 PSB014	[certo]
 PSB033	[giustamente]
 PSB033	sì
-PSB035	io però {P} (per) parlare lingua: cosa quale fare qualcosa bisogna io andare
+PSB035	io però (.) (per) parlare lingua: cosa quale fare qualcosa bisogna io andare
 PSB033	mhmh
 PSB035	eh per quello motivo otto anni: [non andato] cina
 PSB033	[ehm]
@@ -360,21 +360,21 @@ PSB033	[°okay okay°]
 PSB035	[sì]
 PSB033	eh il °suo° tempo libero cosa fa?
 PSB033	quando non lavora
-PSB035	eh {P} ehm li[bero:] io anche: un po di imparare italia[no]
+PSB035	eh (.) ehm li[bero:] io anche: un po di imparare italia[no]
 PSB033	[xx]
 PSB014	[o]kay
 PSB033	°ok[ay]°
 PSB035	a[:h]
 PSB014	[online]?
-PSB035	[xx]: no:: no anche online: anche qua da: noi: però: {P} ehm: quello: io xx xxx xx maestro insegna italia:no [come] noi anche piace {P} guardare
+PSB035	[xx]: no:: no anche online: anche qua da: noi: però: (.) ehm: quello: io xx xxx xx maestro insegna italia:no [come] noi anche piace (.) guardare
 PSB014	[aha]
 PSB014	ah
 PSB035	°ehm°
-PSB033	eh segue qualche sport? {P} qua a bologna?
+PSB033	eh segue qualche sport? (.) qua a bologna?
 PSB035	ehm: [°shuō shá°?]
 PSB014	[calcio:]
 PSB035	ehm: °beh° io no però
-PSB035	{ride} io io io non cè tempo [perché]
+PSB035	((ride)) io io io non cè tempo [perché]
 PSB014	no?
 PSB014	[ehm:]
 PSB033	[°ehm°]
@@ -383,33 +383,33 @@ PSB014	[sì]
 PSB033	[okay]
 PSB033	[°okay°]
 PSB035	[poi] sera: vai casa: tanto
-PSB035	xx del xxone anche se tornare a {P} [casa]
+PSB035	xx del xxone anche se tornare a (.) [casa]
 PSB033	[°ehm°]
 PSB035	ci vuole tanto tempo
 PSB033	ok[ay]
 PSB014	[okay]ay
-PSB033	>per esempio< in italia {P} noi guardiamo molto calcio {P} in cina cosa guardate tanto?
+PSB033	>per esempio< in italia (.) noi guardiamo molto calcio (.) in cina cosa guardate tanto?
 PSB035	ehm[:]
 PSB033	[di] sport
 PSB035	in cina anche adesso [cal~]
 PSB033	[°calcio°]
-PSB035	calcio poco forse {P} però bambino piace
+PSB035	calcio poco forse (.) però bambino piace
 PSB014	[ah piace]
 PSB033	[okay]
 PSB035	perché noi xx come noi età: >perché< prima non cè quello calcio eh quello:
-PSB035	quello sport grande {P} per quello moti[vo]
+PSB035	quello sport grande (.) per quello moti[vo]
 PSB033	[mh]mh
 PSB035	adesso in cina perché il suo
 PSB035	sviluppato tan[to], (politica) ogni città:
 PSB033	[sì]
-PSB035	cè grande quello: {P} sport [quel~] quel calcio
+PSB035	cè grande quello: (.) sport [quel~] quel calcio
 PSB033	[okay]
 PSB033	°sì sì [sì°]
 PSB035	°[mhmh]°
 PSB033	ehm:
 PSB033	per quanto riguarda la musica invece?
 PSB035	eh musica in cinese [ah] cinese musica io io con quello sempre con cellulare per [xxx]
-PSB033	{ride}
+PSB033	((ride))
 PSB014	[sì]
 PSB014	[a:h] mette il [telefono]
 PSB035	[eh eh] telefono quello mi piace [tanto]
@@ -417,36 +417,36 @@ PSB033	[le] piace
 PSB014	°sì°
 PSB035	°eh noi°con noi: paese quella musica
 PSB033	mhmh
-PSB035	anche italiano ha bella musica [per] noi anche {P} anche cellulare: trovare italiano {P} a:h musica
+PSB035	anche italiano ha bella musica [per] noi anche (.) anche cellulare: trovare italiano (.) a:h musica
 PSB014	[sì]
 PSB014	mhmh
 PSB033	quindi tutte e due
 PSB035	tutte e due [e:h]
 PSB014	[okay]
-PSB035	quando c'è cliente tanto {P} musica °in° italiano °anche°
+PSB035	quando c'è cliente tanto (.) musica °in° italiano °anche°
 PSB033	okay
 PSB035	°ehm°
-PSB033	°qualcosa sulle feste?° [{P}] ehm:::
+PSB033	°qualcosa sulle feste?° [(.)] ehm:::
 PSB014	[sì x]
 PSB033	qua in italia noi abbiamo tante feste il: [nata]le, pasqua, le festeggia anche [lei]?
 PSB035	[eh]
 PSB035	[eh] anche [noi] sì
 PSB033	[sì]
 PSB014	sì
-PSB035	anche qui noi anche quando fai xx fuori mangiare qualcosa come italiano eh {ride}
-PSB033	{ride}
+PSB035	anche qui noi anche quando fai xx fuori mangiare qualcosa come italiano eh ((ride))
+PSB033	((ride))
 PSB014	[sì]
 PSB035	[eh] piace [°noi°]
 PSB033	[°piace°]
 PSB014	[e] invece quando c'è stato: il periodo del capodanno cinese avete festeggiato [qua]?
-PSB035	[eh] sì [{P}] anche noi bisogna mangiare come cina uguale
+PSB035	[eh] sì [(.)] anche noi bisogna mangiare come cina uguale
 PSB014	[sì]
 PSB033	ah [okay]
 PSB014	[come si festeggia]?
 PSB035	[come cibo:]
 PSB033	°cosa [cosa mangiate°]
 PSB035	[come cibo]
-PSB035	eh qui: cina perché è un po' speciale {P} ravioli, [xx], anche: carne, pesce, quello stesso [poi]
+PSB035	eh qui: cina perché è un po' speciale (.) ravioli, [xx], anche: carne, pesce, quello stesso [poi]
 PSB033	[°ravioli°]
 PSB033	[°sì°]
 PSB033	okay
@@ -466,7 +466,7 @@ PSB014	°ehm°
 PSB035	°ehm° giusto (quello)
 PSB014	°anche°
 PSB033	a casa quindi usa: il cinese come lingua?
-PSB035	[a casa quando] >parlare in casa< sì quasi perché noi tutti {P} [e:h ah] paesano eh parla ci[nese]
+PSB035	[a casa quando] >parlare in casa< sì quasi perché noi tutti (.) [e:h ah] paesano eh parla ci[nese]
 PSB014	[°quando a casa sì°]
 PSB014	[xx°siete tutti°]
 PSB033	[okay] okay
@@ -476,30 +476,30 @@ PSB033	[italiani]? bello bello
 PSB033	okay
 PSB014	[ehm:]
 PSB033	[ehm:]
-PSB014	°ehm°: ti capita mai mentre parli magari di unire le due lingue cinesi e italiano {P} poi magari {P} pensi una parola ti viene in mente l'italiano non so
+PSB014	°ehm°: ti capita mai mentre parli magari di unire le due lingue cinesi e italiano (.) poi magari (.) pensi una parola ti viene in mente l'italiano non so
 PSB035	ehm eh quello °non so° [no no] no
 PSB014	[no esatto]
 PSB014	°okay°
 PSB014	[okay]
 PSB033	[ci sta] ci sta
 PSB033	ehm:
-PSB033	il corso quindi il corso di italiano com'era {P} all'inizio?
+PSB033	il corso quindi il corso di italiano com'era (.) all'inizio?
 PSB033	era [difficile]?
-PSB035	[eh] {P} eh di~ diffici[le]
+PSB035	[eh] (.) eh di~ diffici[le]
 PSB033	[avete] fatto l'alfabeto prima immagino:
 PSB035	a:h sì sì per me: va bene anche: Io piace perché quello [motivo]
 PSB014	[ah]
-PSB035	quando io vai scuola vai (>sola una volta<)xx fatto [l'esame] {P} venezia {P} loro detto maestri lì {P} già livello a due [xx]
+PSB035	quando io vai scuola vai (>sola una volta<)xx fatto [l'esame] (.) venezia (.) loro detto maestri lì (.) già livello a due [xx]
 PSB014	[aha]
 PSB014	[a due]
 PSB035	a due
 PSB033	a:h
-PSB035	maestro di~ io {P} maestro dice: tu si può fare negozio {P} anche dice cosi eh
-PSB014	{ride}
+PSB035	maestro di~ io (.) maestro dice: tu si può fare negozio (.) anche dice cosi eh
+PSB014	((ride))
 PSB035	eh
-PSB014	{risata}
+PSB014	((risata))
 PSB033	°perfetto°
-PSB014	eh e pensi di essere migliorato quindi pian pianino a~ [{P}] °me~° è andata meglio?
+PSB014	eh e pensi di essere migliorato quindi pian pianino a~ [(.)] °me~° è andata meglio?
 PSB035	[eh]
 PSB035	è megli[o]
 PSB014	[me]gl[io]
@@ -508,8 +508,8 @@ PSB014	°di quando: okay°
 PSB035	°uhm°
 PSB033	°e:h ehm:°
 PSB014	°ehm°
-PSB033	cucini mai anche {P} cibi italiani in casa?
-PSB035	e:h [se no:] {P} quello pasta sì
+PSB033	cucini mai anche (.) cibi italiani in casa?
+PSB035	e:h [se no:] (.) quello pasta sì
 PSB033	[pasta]
 PSB033	pasta [sì]
 PSB035	[cucinare] eh
@@ -517,38 +517,38 @@ PSB033	eh
 PSB035	io con cipolla quello cucinato [carne]
 PSB033	[uhm]
 PSB033	sì
-PSB035	con u~ un po di burro: (medie) xx fatto quello spaghetti [xx] {P} ehm ragù
+PSB035	con u~ un po di burro: (medie) xx fatto quello spaghetti [xx] (.) ehm ragù
 PSB033	e ragù
-PSB035	xx [io] {P} io fatto {P} sempre fatto quello [eh]
+PSB035	xx [io] (.) io fatto (.) sempre fatto quello [eh]
 PSB033	[dopo tutto]
 PSB033	[xx]
 PSB014	è bravo in cucina?
 PSB035	°anche buono eh io fatto°
-PSB035	fatto bene perché io {P} prima lavorato [cucina: tre anni]
+PSB035	fatto bene perché io (.) prima lavorato [cucina: tre anni]
 PSB014	[ah]
 PSB033	[ah]
 PSB014	okay
-PSB033	okay {P} quindi >hai< fatto anche [cuoco]
-PSB035	[ehm:] qua fatto fatto cuo:co non è an~ non è ancora un po' {P} ehm: su °cuo~° cuoco {P} [io] pe~ em io pe~ perché io cucina piace anche [già] tre anni {P} prima fatto
+PSB033	okay (.) quindi >hai< fatto anche [cuoco]
+PSB035	[ehm:] qua fatto fatto cuo:co non è an~ non è ancora un po' (.) ehm: su °cuo~° cuoco (.) [io] pe~ em io pe~ perché io cucina piace anche [già] tre anni (.) prima fatto
 PSB033	°okay°
 PSB033	[°uhm°]
 PSB014	°ho [capito]°
-PSB033	[ehm]: okay {P} le piacerebbe visitare un altro paese? dove è stato nel mondo?
+PSB033	[ehm]: okay (.) le piacerebbe visitare un altro paese? dove è stato nel mondo?
 PSB035	[x]
 PSB035	mon:do prima olanda
 PSB033	[olanda]?
 PSB014	°[a:h]°
-PSB035	sì olanda {P} due anni [sei] mesi
+PSB035	sì olanda (.) due anni [sei] mesi
 PSB033	°[ah]°
 PSB033	°[ah]°
 PSB014	[A:h]
-PSB035	dopo {P} italia fatt[o:] italia fatto documento per permesso >soggiorno< [venuto] qui
+PSB035	dopo (.) italia fatt[o:] italia fatto documento per permesso >soggiorno< [venuto] qui
 PSB033	°[tutto il giro]°
 PSB033	[okay]
 PSB033	ah okay
 PSB035	sì
 PSB033	e e quale preferisce olanda o italia?
-PSB035	ehm perché piace°pia~° [italia] {P} >per-< là non c'è quello permesso soggiorno [non:] non [posso]
+PSB035	ehm perché piace°pia~° [italia] (.) >per-< là non c'è quello permesso soggiorno [non:] non [posso]
 PSB014	[okay]
 PSB033	[italia]
 PSB014	[ah okay]
@@ -558,11 +558,11 @@ PSB035	[per] quello anche paura quando [$venì:] polizia: [ti chiede] non (c'ho)
 PSB033	[sì certo]
 PSB033	°[controlli]°
 PSB014	ehm: è vero [°vero°]
-PSB035	[qua]ndo vieni qua {P} fatto tutto regolare: tranquillo [{P}] lavoro [così]
+PSB035	[qua]ndo vieni qua (.) fatto tutto regolare: tranquillo [(.)] lavoro [così]
 PSB033	[okay]
 PSB033	[okay]
-PSB033	e c'è qualche paese che vorrebbe visitare nel futuro magari {P} nel [mondo]?
-PSB035	[aha] {ride} mondo
+PSB033	e c'è qualche paese che vorrebbe visitare nel futuro magari (.) nel [mondo]?
+PSB035	[aha] ((ride)) mondo
 PSB035	sono qua italia io vai giro un po' sì
 PSB033	sì?
 PSB035	anche francia [°fran°cia]
@@ -573,13 +573,13 @@ PSB033	[sì]
 PSB033	[spa:gna]
 PSB035	[slovenia:] anche quando vai°in° giro con [macchina] [così]
 PSB014	[ah ah]
-PSB033	[sì] {P} tutto vicine [°insomma°]
+PSB033	[sì] (.) tutto vicine [°insomma°]
 PSB035	[eh] qua vicino
 PSB033	in europa tanto
-PSB035	ehm: europa {ride}
-PSB014	{ride}
+PSB035	ehm: europa ((ride))
+PSB014	((ride))
 PSB033	[poi] sa l'i~ l'italiano quindi anche il spagnolo è vicino
-PSB035	{ride} [sì] quando vai là {P} a slovenia loro anche parla italiano noi loro capisce [°tutto eh°]
+PSB035	((ride)) [sì] quando vai là (.) a slovenia loro anche parla italiano noi loro capisce [°tutto eh°]
 PSB033	°[ormai]°
 PSB033	[a:h] perfetto
 PSB014	[a:h]
@@ -596,14 +596,14 @@ PSB033	[rimini:]
 PSB033	[jesolo:]
 PSB033	[°certo°]
 PSB014	[eh]
-PSB035	eh sempre ogni {P} un anno minimo tre volte quattro volte [andare:]
+PSB035	eh sempre ogni (.) un anno minimo tre volte quattro volte [andare:]
 PSB014	[e le] piace?
-PSB035	piac[e spia]ggia eh {P} bella [eh]
+PSB035	piac[e spia]ggia eh (.) bella [eh]
 PSB014	[°piace°]
-PSB014	{ride}
+PSB014	((ride))
 PSB033	ma preferisce mare o montagna?
-PSB035	ehm {P} ehm
-PSB035	di solito per me anche {P} mare {P} [montagna] anche {P} piac[e]
+PSB035	ehm (.) ehm
+PSB035	di solito per me anche (.) mare (.) [montagna] anche (.) piac[e]
 PSB014	[mare]
 PSB014	[o]kay
 PSB035	cortina io tante volta [andare] a cortina
@@ -616,7 +616,7 @@ PSB014	[sali]
 PSB035	otto ottocen~ andata ritorno ottocento [chilometri:]
 PSB014	[uhm]
 PSB033	bello
-PSB035	vai là {P} funi~ funivia su [xxx]
+PSB035	vai là (.) funi~ funivia su [xxx]
 PSB014	[scia]?
 PSB014	poi [scia]?
 PSB035	[scia] sci~
@@ -633,10 +633,10 @@ PSB014	°bello bello°
 PSB035	°uhm°
 PSB033	ehm: ehm:
 PSB014	°x cose: [siamo a posto: vediamo°]
-PSB033	[°okay {P}] vediamo quanto abbiamo fatto?°
+PSB033	[°okay (.)] vediamo quanto abbiamo fatto?°
 PSB035	quindici [minuti]?
 PSB014	[sì] quindici minuti
-???	{ride}
+???	((ride))
 PSB033	va bene
 PSB014	[e::h sì], noi siamo a [posto]
 PSB035	[xxx]

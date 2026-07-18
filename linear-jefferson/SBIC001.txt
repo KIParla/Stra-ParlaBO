@@ -21,7 +21,7 @@ PSB005	[ch]e nazionalità:, sono.
 PSB001	na~ nazionalità?
 PSB005	hai detto cinesi, e,
 PSB001	e:,
-PSB001	{schiocco_lingua} quasi quasi
+PSB001	((schiocco_lingua)) quasi quasi
 PSB005	quasi, [tutti].
 PSB001	[sì qua]si sì
 PSB005	okay,
@@ -57,10 +57,10 @@ PSB005	s[ì]
 PSB001	[a]nche,
 PSB001	°sì° anche studiano,
 PSB005	e sono bravi?
-PSB001	eh, {ride}
+PSB001	eh, ((ride))
 PSB001	e:hm qual~ qualcuno sì
 PSB005	okay
-PSB001	sì {ride}
+PSB001	sì ((ride))
 PSB005	non tutti,
 PSB001	sì non tutti
 PSB005	non tutti
@@ -91,7 +91,7 @@ PSB001	e:h stare con
 PSB001	i bimbi
 PSB005	okay,
 PSB001	sì,
-PSB001	e:h poi anche, {schiocco_lingua} ehm
+PSB001	e:h poi anche, ((schiocco_lingua)) ehm
 PSB001	adesso i~ io insegno, pinyin
 PSB005	okay,
 PSB001	a:h ai bimbi,
@@ -103,7 +103,7 @@ PSB001	sì,
 PSB005	°sì°
 PSB001	e poi:,
 PSB001	m:h
-PSB001	{schiocca_lingua} comunque:,
+PSB001	((schiocca_lingua)) comunque:,
 PSB001	eh ah come si dice >ma comunque<, mi mi mi piace [molto],
 PSB005	[okay] okay [eh dev']essere molto difficile, secondo me,
 PSB001	[sì]
@@ -144,10 +144,10 @@ PSB005	[la tua] scuola è qui a bologna?
 PSB001	sì
 PSB001	°mh[mh°]
 PSB005	[eh] chissà se è la stessa
-PSB001	{ride}
+PSB001	((ride))
 PSB005	conosci una ragazza che si chiama
 PSB001	[forse, forse, conosco:],
-PSB005	[eh forse {P} sì]
+PSB005	[eh forse (.) sì]
 PSB001	sì ma, e:h lei studia, le~ letteratura,
 PSB001	°oppur[e:],°
 PSB005	[m]::h
@@ -180,7 +180,7 @@ PSB005	okay
 PSB001	quindi,
 PSB001	mhmh
 PSB005	okay ho capito okay
-PSB005	no, perché >anche lei mi ha detto< che, quindi penso, {P} che ci sono molte scuole?
+PSB005	no, perché >anche lei mi ha detto< che, quindi penso, (.) che ci sono molte scuole?
 PSB001	°mh°
 PSB005	di cinese, [di comunità], o o:: no?
 PSB001	[xxx]
@@ -192,7 +192,7 @@ PSB001	[°sì°]
 PSB001	s[ì]
 PSB002	[a][:h]
 PSB005	[°ah°] [ok]ay
-PSB001	una, più grande e la nostra:, scuola più piccola, {ride}
+PSB001	una, più grande e la nostra:, scuola più piccola, ((ride))
 PSB005	ah okay,
 PSB002	eh
 PSB005	okay,
@@ -200,13 +200,13 @@ PSB001	sì
 PSB005	°okay ho capito° [sì]
 PSB001	[mhmh]
 PSB005	e:h io non non sapevo neanche che esistevano: che esistevano queste: scuole, quindi:,
-PSB001	{ride}
+PSB001	((ride))
 PSB005	ah è bello comunque,
 PSB005	[è interes]sante
 PSB001	°[sì sì]°
 PSB001	e:hm:
 PSB005	mh va bene questo era, così in più
-PSB001	{ride}
+PSB001	((ride))
 PSB005	ehm: io >ti volevo chiedere< a tutte e due e:h[m:]:
 PSB002	°[sì]°
 PSB005	voi mi raccomando, parlate,
@@ -237,12 +237,12 @@ PSB002	da quanto [tempo],
 PSB005	[da quanto te]mpo vivi a bologna, sì
 PSB001	°prima tu,°
 PSB002	no: ah
-PSB001	{ride}
+PSB001	((ride))
 PSB002	ah [okay allora], ini[zio io]
 PSB005	[>come volete<, puoi inizia]re tu, sì [sì]
 PSB002	[vivo:] sì da vicino ai giardini di margherita,
 PSB005	mhmh
-PSB002	da: tre, {P} tre anni,
+PSB002	da: tre, (.) tre anni,
 PSB002	più o meno,
 PSB002	[sì]
 PSB005	[okay] ma tu vive[vi, se]i, hai già vissuto in italia giusto pri[ma, di:]
@@ -267,7 +267,7 @@ PSB005	eh eh ti è piaciuta la città e poi hai deciso [di tornare]?
 PSB002	[sì eh esat]to,
 PSB002	proprio perché, mi sono innamorata di bologna e quindi,
 PSB005	ecco ved[i],
-PSB002	[s]ì {ride}
+PSB002	[s]ì ((ride))
 PSB005	mhmh
 PSB002	deciso di tornare,
 PSB002	°[sì]°
@@ -288,20 +288,20 @@ PSB002	cioè ehm è: un posto sicuro per me,
 PSB005	wow [che]
 PSB002	[sì] sì, cioè come casa,
 PSB005	ho capito vabbé interessante
-PSB002	{ride}
-PSB005	e: all'inizio hai, hai avuto, {P} cioè ti sei dovuta un po' abituare, ambientare, [a: la città o]:
+PSB002	((ride))
+PSB005	e: all'inizio hai, hai avuto, (.) cioè ti sei dovuta un po' abituare, ambientare, [a: la città o]:
 PSB002	[sì certo però]
 PSB002	sì
 PSB002	no proprio un mondo,
 PSB002	diverso, diver[sissimo] dalla cina,
 PSB005	[okay]
-PSB002	cioè come, dieci anni fa, forse adesso, un po' meno {ride}
+PSB002	cioè come, dieci anni fa, forse adesso, un po' meno ((ride))
 PSB002	però dieci anni fa, cioè mh sì
 PSB005	perché dici che adesso, un po' meno?
 PSB002	eh non lo so
 PSB002	forse,
 PSB002	forse la cina (è) sviluppato un po'
-PSB002	{ride}
+PSB002	((ride))
 PSB005	mh o[kay],
 PSB002	[non lo s]o, >comunque dieci anni fa<,
 PSB002	per me:, proprio:,
@@ -358,8 +358,8 @@ PSB005	sì
 PSB001	navile sì
 PSB001	e poi::,
 PSB001	e:hm
-PSB001	{ride}
-PSB001	penso, {ride}
+PSB001	((ride))
+PSB001	penso, ((ride))
 PSB001	e:h
 PSB001	dietro:,
 PSB001	al:
@@ -371,7 +371,7 @@ PSB001	io: vivo:: in centro,
 PSB001	comunque vicino,
 PSB001	a piazza maggiore °ma[ggiore] sì°
 PSB005	[ah okay]
-PSB005	eh, quale zona, {P} ti piace di più?
+PSB005	eh, quale zona, (.) ti piace di più?
 PSB001	e::h
 PSB001	navile
 PSB005	[ah]
@@ -379,11 +379,11 @@ PSB001	[più] tranquillo,
 PSB005	perché? ah [okay]
 PSB001	[mhmh]
 PSB005	okay
-PSB001	è che, {P} vicino là c'è un grande, parco
+PSB001	è che, (.) vicino là c'è un grande, parco
 PSB005	mhmh
 PSB001	anche c'è un: fiume,
 PSB001	quindi è molto,
-PSB002	non ci sono mai stata. {ride}
+PSB002	non ci sono mai stata. ((ride))
 PSB005	eh anch'io, è una zona che non:: non conos[co]
 PSB001	°[sì]°
 PSB005	per niente,
@@ -402,16 +402,16 @@ PSB005	ah forse sì
 PSB001	°sì°
 PSB005	°okay sì°
 PSB002	°xxxx°
-PSB001	{ride}
+PSB001	((ride))
 PSB005	eh no io, abito:
-PSB001	{ride}
+PSB001	((ride))
 PSB005	io sono nata qui,
 PSB001	ah, ah?
 PSB005	s[ì]
 PSB001	[b]olognese,
 PSB005	bolo[gne]se sì °sì°
 PSB001	[sì]
-PSB001	{ride}
+PSB001	((ride))
 PSB005	e:hm:
 PSB005	ho cambiato casa >con i miei genitori< qualche volta,
 PSB005	però:, circa,
@@ -423,10 +423,10 @@ PSB005	e:hm murri, mazzini:,
 PSB001	wow
 PSB005	e:h
 PSB005	[sì]
-PSB001	[solo], i ricci abitano, {P} [xxx]
-PSB002	{ride}
+PSB001	[solo], i ricci abitano, (.) [xxx]
+PSB002	((ride))
 PSB005	[e:h infatti] sì
-PSB001	{ride}
+PSB001	((ride))
 PSB005	è vero,
 PSB005	e:h sì
 PSB005	è una, una zona bella,
@@ -438,7 +438,7 @@ PSB005	>comprato una casa< più grande,
 PSB005	e adesso, e: con mio marito, abito:: m:h
 PSB005	in zona mazzini, levante.
 PSB005	emilia levante,
-PSB005	forse non {P} è proprio:, dall'altra parte,
+PSB005	forse non (.) è proprio:, dall'altra parte,
 PSB001	ah okay
 PSB005	rispetto a dove::
 PSB005	hai abitato tu,
@@ -449,14 +449,14 @@ PSB001	mh[mh]
 PSB002	[s][ì]
 PSB005	[e]:: >e la zona del navile proprio<,
 PSB005	non la conosco per nien[te no],
-PSB001	{ride}
+PSB001	((ride))
 PSB002	[sì nea]nch'io,
 PSB002	°[mol]to,°
 PSB005	[no no],
 PSB005	PERÒ, ti sei trasferita in cent~ >come mai allora<, ti sei trasferita in centro perché?
 PSB005	ti sei trasferita in centro?
 PSB001	e:hm
-PSB001	mh {schiocco_lingua} proprio c'è un:'occasione, {P} perché prima,
+PSB001	mh ((schiocco_lingua)) proprio c'è un:'occasione, (.) perché prima,
 PSB001	e:hm
 PSB001	la terza, volta, io: abitavo, con una famiglia cine[se],
 PSB005	[mhmh]
@@ -477,13 +477,13 @@ PSB005	[certo],
 PSB002	[mh][mh]
 PSB005	[sì]
 PSB001	quindi:
-PSB001	io volevo, sì {P} $[trasferm]armi,
+PSB001	io volevo, sì (.) $[trasferm]armi,
 PSB005	[sì sì]
 PSB001	ma,
 PSB001	e::h
 PSB001	io,
-PSB001	mh com~ mh {P} sì u~ >comunque c'era<, una volta. ho visto, su in~ su su internet,
-PSB001	e:hm quel sito si chiama, casa punto it {ride}
+PSB001	mh com~ mh (.) sì u~ >comunque c'era<, una volta. ho visto, su in~ su su internet,
+PSB001	e:hm quel sito si chiama, casa punto it ((ride))
 PSB005	mhmh
 PSB001	quindi,
 PSB001	ho visto, c'è una, informazione.
@@ -508,7 +508,7 @@ PSB001	sì una altro ragazzo, [°sì°]
 PSB005	[ok]ay
 PSB001	mhmh
 PSB005	e:hm
-PSB002	cosa fa? {ride} cosa
+PSB002	cosa fa? ((ride)) cosa
 PSB001	e: anche:.
 PSB001	lui, studia anche, è studente.
 PSB001	eh studia:
@@ -547,23 +547,23 @@ PSB001	°[cinese sì]°
 PSB005	quindid,iciamo che, in casa, tu parli cinese.
 PSB001	ah, ah,
 PSB005	di solito,
-PSB001	io sempre, parlo cine[se] {ride}
+PSB001	io sempre, parlo cine[se] ((ride))
 PSB005	[ok]ay
-PSB005	{ride}
-PSB001	{ride}
+PSB005	((ride))
+PSB001	((ride))
 PSB001	son sempre, col cinese,
-PSB005	{ride}
-PSB001	{ride}
+PSB005	((ride))
+PSB001	((ride))
 PSB005	perché? e: ah, [perché d]ici così?
 PSB001	[mhmh]
 PSB001	e::hm
-PSB001	non lo so, {ride} e:h
-PSB001	forse è il, destino, {ride}
-PSB005	okay, {P} okay
+PSB001	non lo so, ((ride)) e:h
+PSB001	forse è il, destino, ((ride))
+PSB005	okay, (.) okay
 PSB005	quindi hai, un coinquilino cinese, e hai anche amici:
 PSB001	mhmh
 PSB005	cinesi,
-PSB001	cinesi {ride}
+PSB001	cinesi ((ride))
 PSB005	sempre, e dove, per~ dove vi siete conosciuti,
 PSB001	m::h
 PSB001	qualche:, eh,
@@ -576,12 +576,12 @@ PSB001	we chat è: un
 PSB001	u:n
 PSB001	comunque::
 PSB001	conosciamo nel, suo,
-PSB001	que~ quella: applicazio[ne], {ride}
+PSB001	que~ quella: applicazio[ne], ((ride))
 PSB005	[sì]
 PSB005	o[kay],
 PSB001	[qui]ndi, e poi:, usciamo:
 PSB001	m:h facciamo divertente,
-PSB001	quindi conosciamo, {ride}
+PSB001	quindi conosciamo, ((ride))
 PSB005	ho capito, >[sì s]ì sì sì< quindi avete tipo un canale:,
 PSB001	[xx]
 PSB005	un gruppo di we chat, non so come si chiamano:
@@ -609,14 +609,14 @@ PSB005	[sì]
 PSB005	o:: o: altri,
 PSB005	social,
 PSB002	io non lo so,
-PSB001	anche io, non lo so [io solo], so we chat {ride}
+PSB001	anche io, non lo so [io solo], so we chat ((ride))
 PSB005	[quindi],
 PSB005	principalmente we ch[at],
 PSB002	[sì]
 PSB005	e [okay okay],
 PSB001	[sì sì]
 PSB005	sì sì sì [ho capito °okay°]
-PSB001	{ride}
+PSB001	((ride))
 PSB002	[sì è l'app più] utilizzata,
 PSB005	sì sì
 PSB005	invece tu, non vivi con un: vivi con una coinquilina ma non cinese gius[to]?
@@ -639,7 +639,7 @@ PSB001	perché: io ho, scelgo: bologna,
 PSB005	sì o:[: l'i]talia, [perché hai scelt]o italia sì
 PSB001	[°okay°]
 PSB001	°>[perché italia],<°
-PSB001	perché io studio: la musica, {ride} e quin[di]
+PSB001	perché io studio: la musica, ((ride)) e quin[di]
 PSB005	[o]kay,
 PSB001	sì italia:, °mh° famoso.
 PSB005	mh[mh]
@@ -652,7 +652,7 @@ PSB001	perché::
 PSB001	un una, degli amici di::
 PSB001	del del~ della mio:, zia,
 PSB005	mhmh
-PSB001	quindi, {P} le:
+PSB001	quindi, (.) le:
 PSB001	la sua, figlia:,
 PSB001	studia: ar~ l'arte,
 PSB005	sì
@@ -662,19 +662,19 @@ PSB001	m:h co~ come si dice,
 PSB001	sua madre,
 PSB001	ha detto: a mia [zi]a:,
 PSB005	[mhmh]
-PSB001	e poi:, mia zia, {ride} mi ha detto
+PSB001	e poi:, mia zia, ((ride)) mi ha detto
 PSB005	certo sì
 PSB001	sì quindi,
 PSB001	penso uhm, va bene
-PSB001	non è male {ride}
+PSB001	non è male ((ride))
 PSB005	giusto
-PSB001	{ride}
+PSB001	((ride))
 PSB005	e: e, ti sei trovata, ti piace?
 PSB001	sì, certo [sì]
 PSB005	>[vivere] qui<,
 PSB001	mhmh
 PSB005	okay
-PSB001	°molto sì {ride} °
+PSB001	°molto sì ((ride)) °
 PSB005	e:hm:
 PSB005	quando, eh, hai studiato, italiano solo: a firenze
 PSB001	mhmh
@@ -698,12 +698,12 @@ PSB001	[sì]
 PSB005	sì sì
 PSB001	sì
 PSB005	e poi:, sei venuta, e hai studiato a firenze
-PSB001	e:h sì {P} e poi sì
+PSB001	e:h sì (.) e poi sì
 PSB005	e poi sei, >ti ti sei trasferita qui<,
 PSB001	sì sì s~
 PSB005	mhmh [e:] e qui, che cosa: fai?
 PSB001	[mhmh]
-PSB001	e::h frequen~ (fre)quento, l'universi[tà] {ride}
+PSB001	e::h frequen~ (fre)quento, l'universi[tà] ((ride))
 PSB005	[mhmh]
 PSB001	e poi:,
 PSB001	faccio,
@@ -722,7 +722,7 @@ PSB005	[okay]
 PSB001	[col] dams
 PSB001	così
 PSB005	al dams [okay]
-PSB001	[sì al] °[dams]° sì {ride}
+PSB001	[sì al] °[dams]° sì ((ride))
 PSB005	[a:h bello],
 PSB005	ah eh, io ho studiato un po' di musica
 PSB001	a[:h]
@@ -751,11 +751,11 @@ PSB002	°[sì]°
 PSB005	però, mi piace la musica, e:hm
 PSB001	mh[mh]
 PSB005	>[mi inte]ressa< molto [sì]
-PSB001	[no] comunque la musica:, ha: {P} piantato, un: semi,
+PSB001	[no] comunque la musica:, ha: (.) piantato, un: semi,
 PSB005	mhmh
 PSB001	nel tuo:, cuo[re],
-PSB005	[un] po' sì, sì sì sì {P} sì sì
-PSB001	{ride}
+PSB005	[un] po' sì, sì sì sì (.) sì sì
+PSB001	((ride))
 PSB005	e: non, adesso non ho molto tempo,
 PSB002	[mh]
 PSB005	[qui]ndi non sto facendo niente,
@@ -775,7 +775,7 @@ PSB001	solo,
 PSB001	studio la teoria,
 PSB005	mhmh
 PSB001	quindi, per me,
-PSB001	{ride}
+PSB001	((ride))
 PSB001	così così, così
 PSB005	e ti manca un po'?
 PSB001	sì, sì, sì.
@@ -786,9 +786,9 @@ PSB001	stu~ studi~ u:hm
 PSB001	la pratica,
 PSB001	più, la teoria,
 PSB005	mhmh
-PSB001	insieme, {P} meglio [così],
+PSB001	insieme, (.) meglio [così],
 PSB005	[eh sì]
-PSB001	ma:, università invece, solo la teoria, {ride}
+PSB001	ma:, università invece, solo la teoria, ((ride))
 PSB005	eh sì
 PSB001	sì, quindi qualcuno:,
 PSB001	se qualcuno: volesse studiare:,
@@ -802,9 +802,9 @@ PSB005	e, hai pensato di andarci?
 PSB001	e:h volevo, ma:,
 PSB001	non riesco
 PSB005	è diffi[cile]?
-PSB001	{ride} [xx]
+PSB001	((ride)) [xx]
 PSB005	[sì] sì sì
-PSB001	[sì:] {ride}
+PSB001	[sì:] ((ride))
 PSB005	eh, >mi avevi detto che il tuo strumento< è il sassofono,
 PSB001	sì sì, sì sì, sì,
 PSB005	e hai, sus~ studiato, anche altri strumenti?
@@ -826,7 +826,7 @@ PSB001	ah okay
 PSB005	secondo me sì
 PSB001	°sì sì°
 PSB005	se non è cambiato, niente. non lo so,
-PSB002	{ride}
+PSB002	((ride))
 PSB005	e:hm
 PSB005	io c'avevo, pensato a un certo punto, quand'ero piccolina ma:
 PSB005	la, quando avevo tredici anni così
@@ -838,9 +838,9 @@ PSB005	incoraggiato:
 PSB005	e:hm
 PSB002	>per quello [non hai],< insistito a:
 PSB005	[niente]
-PSB005	ma, eh, è stato bene così, {P} sì sì, meglio così,
-PSB002	{ride}
-PSB005	dopo, sono andata a scuola, ho studiato: [già] facevo abbastanza: {P} studio per la scuola diciamo. quindi,
+PSB005	ma, eh, è stato bene così, (.) sì sì, meglio così,
+PSB002	((ride))
+PSB005	dopo, sono andata a scuola, ho studiato: [già] facevo abbastanza: (.) studio per la scuola diciamo. quindi,
 PSB002	°[sì]°
 PSB005	però, mi piaceva adesso,
 PSB005	penso che:, quan:- magari quando ho un po' di tempo,
@@ -858,7 +858,7 @@ PSB002	ah,
 PSB005	>non so [se tu<, ca]nti anche, o: no,
 PSB002	>[non lo so],<
 PSB001	no,
-PSB001	{ride}
+PSB001	((ride))
 PSB005	no okay, NO, il coro qui, è molto serio, cioè, m:h
 PSB005	si trovano, due volte alla settimana:,
 PSB005	e:, fanno, vannoi,n giro:
@@ -867,9 +867,9 @@ PSB002	mh[mh a:h]
 PSB005	>[per fare i co]ncer[ti]:<,
 PSB002	[sì]
 PSB005	e:: ehm
-PSB005	no, {ride} è troppo impegnativo, no.
-PSB002	{ride}
-PSB001	{ride}
+PSB005	no, ((ride)) è troppo impegnativo, no.
+PSB002	((ride))
+PSB001	((ride))
 PSB005	non ho mai, non c'ho pensato.
 PSB005	okay, m:h >va bene tutto molto< interessante,
 PSB005	comunque.
@@ -886,11 +886,11 @@ PSB005	[è avete pensato di trasfe]rirvi in altri [paesi] [o]: oppure no?
 PSB002	[no:],
 PSB002	[no],
 PSB002	no, io no,
-PSB001	{ride}
-PSB001	{ride} prima no, adesso sì
+PSB001	((ride))
+PSB001	((ride)) prima no, adesso sì
 PSB002	[perché]?
 PSB005	[perché]?
-PSB001	{ride}
+PSB001	((ride))
 PSB001	e:hm
 PSB001	forse o:, io sono:, vi~ vissuto qua,
 PSB001	tanto tempo, >quindi volevo<,
@@ -921,7 +921,7 @@ PSB001	sì una volta,
 PSB001	e poi:,
 PSB001	m:h comunque,
 PSB001	quella volta:,
-PSB001	mi sono, im~ {P} pre~ sione.
+PSB001	mi sono, im~ (.) pre~ sione.
 PSB005	mhmh, [mh],
 PSB001	>[mi sono] im[pres]<
 PSB005	(im)[pre]ssionata],
@@ -931,29 +931,29 @@ PSB001	[im]pressio[nata],
 PSB005	[ok]ay
 PSB001	quindi:,
 PSB002	quale città?
-PSB001	e:h ams~ {P} [ams~] {P} am[sterdam], sì
-PSB002	>[amsterd]am<, {P} [°okay°]
-PSB001	quindi, {ride}
+PSB001	e:h ams~ (.) [ams~] (.) am[sterdam], sì
+PSB002	>[amsterd]am<, (.) [°okay°]
+PSB001	quindi, ((ride))
 PSB001	nonostante,
 PSB001	e:h, e:h,
-PSB001	pieno di:: >come si< drago {ride}
+PSB001	pieno di:: >come si< drago ((ride))
 PSB001	anche, quella:
-PSB001	{ride}
+PSB001	((ride))
 PSB002	°cosa?°
-PSB001	{ride} [$cosi] di sesso,
+PSB001	((ride)) [$cosi] di sesso,
 PSB005	sì sì sì
-PSB001	{ride}
+PSB001	((ride))
 PSB001	sì
 PSB002	a:h okay,
 PSB001	quindi:,
 PSB001	m:h
-PSB001	e:h non lo {P} >comunque<, m~ mi piace,
+PSB001	e:h non lo (.) >comunque<, m~ mi piace,
 PSB001	no no no non mi piace, que~ quello,
 PSB005	sì ho capito, sì sì, [la] città [c'(io)è ti è piaciu]ta, [sì sì]
-PSB001	{ride}
+PSB001	((ride))
 PSB001	[sì]
 PSB002	[come, come],
-PSB001	[sì:], piaciuta sì anche, con la: con la: {P} m:h
+PSB001	[sì:], piaciuta sì anche, con la: con la: (.) m:h
 PSB001	e:h come si di:- la situazione,
 PSB001	zhè gè dì li
 PSB001	wèi zhì
@@ -964,7 +964,7 @@ PSB005	[mhmh]
 PSB001	°[geografica],°
 PSB005	[che è, su~ sul ma~] cioè
 PSB002	°certo,°
-PSB005	che ci sono i fiumi, ch[e:: {P} okay],
+PSB005	che ci sono i fiumi, ch[e:: (.) okay],
 PSB001	[sì, sì sì, come un],
 PSB001	come, [$nete],
 PSB002	[ah, x]
@@ -990,11 +990,11 @@ PSB001	circo,
 PSB002	yī quān shén me
 PSB001	yī quān hé yī quān
 PSB002	yī quān hé
-PSB001	{ride}
+PSB001	((ride))
 PSB001	wǒ bù zhī dào zěn me shuō
 PSB001	jiù shì tā nèi gè zhī zhū wǎng
 PSB002	ah
-PSB001	scusa, {ride}
+PSB001	scusa, ((ride))
 PSB005	>no no no, [prego, pr]ego, prego<,
 PSB002	[xx] nǐ shuō
 PSB001	jiù shì (.) jiù shì tā
@@ -1005,9 +1005,9 @@ PSB001	>°io cerco di circ~ [circonda],°<
 PSB002	[ah la terra], è circondata, da dai fi[umi, i fiumi] è circ[ond]ata dalla terra, così
 PSB005	[ah] o[kay],
 PSB001	[s~]
-PSB001	{ride}
+PSB001	((ride))
 PSB005	oh [sì sì],
-PSB001	[é inte]ressante {ride} [sì]
+PSB001	[é inte]ressante ((ride)) [sì]
 PSB005	[ok]ay, sì sì, im[mag]ino. sì
 PSB001	[sì:]
 PSB002	sì
@@ -1024,14 +1024,14 @@ PSB002	sì
 PSB005	o[kay]
 PSB001	[mh][mh]
 PSB002	[sì]
-PSB005	e: ci stai pensando seriamente? {P} di and~ di di cambiare città?
-PSB005	stai, {P} programmando:
+PSB005	e: ci stai pensando seriamente? (.) di and~ di di cambiare città?
+PSB005	stai, (.) programmando:
 PSB001	mhmh adesso,
 PSB005	realmente, di: cambiare, o: oppure no?
 PSB001	no solo:, solo, penso, pe~ [pens]ieri,
 PSB005	[okay],
 PSB005	okay. okay, okay,
-PSB001	{ride}
+PSB001	((ride))
 PSB005	quanto ti manca, di: st~ per studiare? per finire di studiare,
 PSB001	m:h prima,
 PSB001	io ho: f~ faccio, fatto:,
@@ -1059,7 +1059,7 @@ PSB005	sì
 PSB001	quindi, devo: mh
 PSB001	fino, fino a:
 PSB002	[luglio]
-PSB001	>[fino a lu]glio<, {P} luglio:, {P} >[ho visto],< luglio [sì]
+PSB001	>[fino a lu]glio<, (.) luglio:, (.) >[ho visto],< luglio [sì]
 PSB005	[mhmh]
 PSB005	[mhmh]
 PSB002	[mhmh]
@@ -1067,8 +1067,8 @@ PSB005	[okay],
 PSB005	eh, dopo, pu~ forse puoi cercare:
 PSB002	la[voro],
 PSB005	[un la]voro ad amsterdam,
-PSB001	e::h sì vedremo, {ride}
-PSB005	sì, {P} sì,
+PSB001	e::h sì vedremo, ((ride))
+PSB005	sì, (.) sì,
 PSB005	°sì° e::h
 PSB005	io, ho una: m:h
 PSB005	la sorella di una mia amica,
@@ -1116,13 +1116,13 @@ PSB002	bell[o],
 PSB005	[s]ì
 PSB005	sì sì,
 PSB005	eh
-PSB005	è molto specifico, però sì {ride} sì
-PSB002	{ride}
+PSB005	è molto specifico, però sì ((ride)) sì
+PSB002	((ride))
 PSB005	sì sì sì, adesso vive: in olanda >non mi ricordo la città<,
-PSB001	{ride}
+PSB001	((ride))
 PSB001	°u:h°
 PSB005	e::hm okay però,
-PSB005	che, l~ tu, sai l'inglese, anche, oltre l'italiano, o:: {P} o no?
+PSB005	che, l~ tu, sai l'inglese, anche, oltre l'italiano, o:: (.) o no?
 PSB001	e:h inglese:, sì
 PSB001	so, ma:,
 PSB001	comunque: di solito:
@@ -1142,8 +1142,8 @@ PSB005	[p]erò, pens~ parlano molto inglese, cioè: m:h
 PSB002	°sì°
 PSB005	secondo me, l'olandese: [non impo]rta,
 PSB001	[mhmh]
-PSB005	non serve, {ride}
-PSB001	{ride}
+PSB005	non serve, ((ride))
+PSB001	((ride))
 PSB005	penso,
 PSB005	e e quindi tu, oltre a studiare, lavori anche,
 PSB001	sì
@@ -1159,7 +1159,7 @@ PSB002	[sì è ve][ro],
 PSB001	[eh] [sì], online
 PSB001	co~ comun[que],
 PSB005	>[me l'hai] già< detto, sì sì sì, hai ragione, sì sì, [scu]sami non ho: non ho collegato,
-PSB001	{ride}
+PSB001	((ride))
 PSB001	[sì:]
 PSB005	>okay no no, va bene [me l'hai già de]tto<, sì sì,
 PSB001	[xxx]
@@ -1169,11 +1169,11 @@ PSB005	vuoi sta[re qua]?
 PSB001	[mhmh]
 PSB002	sì
 PSB005	bene,
-PSB001	{ride}
+PSB001	((ride))
 PSB002	a bologna, specificament[e],
-PSB005	{ride}
+PSB005	((ride))
 PSB005	[ch]e bello, a:h ma sono contenta,
-PSB002	{ride}
+PSB002	((ride))
 PSB005	e:hm i bolognesi,
 PSB005	molte volte,
 PSB005	non si vogliono spostare da qui,
@@ -1193,10 +1193,10 @@ PSB001	[la]sagna,
 PSB005	eh
 PSB001	anche, tortellini.
 PSB005	hai provato mai, a: cucinarli
-PSB001	mai, {ride}
+PSB001	mai, ((ride))
 PSB005	a prepararli tu?
 PSB005	ne~ neanch'io, il ragù neanch'io
-PSB001	{ride}
+PSB001	((ride))
 PSB005	sì
 PSB002	sì forse io, sì
 PSB002	credo una vol[ta, sì. sì ragù, no rag]ù:, sì
@@ -1205,8 +1205,8 @@ PSB002	[sì]
 PSB005	[e:] come: è andata?
 PSB002	eh, per me è buono, eh non so per voi,
 PSB005	no, sicuramente, sì sì.
-PSB002	{ride}
-PSB002	{ride}
+PSB002	((ride))
+PSB002	((ride))
 PSB005	>sì sì<, sicuramente, sicuramente, MA, m:h
 PSB005	e: quindi, vi piace: il cibo italiano,
 PSB002	sì
@@ -1215,8 +1215,8 @@ PSB001	°[sì mo]lto,°
 PSB002	sì,
 PSB005	o preferite il cibo cinese,
 PSB002	mh
-PSB001	e::h {ride}
-PSB002	sono, {P} due tipi diversi, [for]se,
+PSB001	e::h ((ride))
+PSB002	sono, (.) due tipi diversi, [for]se,
 PSB005	[mhmh]
 PSB002	>quindi non<,
 PSB002	cioè, non è che mi piace:,
@@ -1232,18 +1232,18 @@ PSB005	[oppure], non cucinate, non so,
 PSB001	[oppure]?
 PSB002	sì cu~
 PSB002	cucino i~ sì
-PSB002	a tutti e due, {P} sì
+PSB002	a tutti e due, (.) sì
 PSB005	okay,
 PSB001	a:h
 PSB002	f~ forse, per i piatti cinesi, mi s:erve più tempo,
 PSB005	mh[mh]
 PSB002	[s]ì:
-PSB002	mentre: la pasta, cose più: {P} si fa più veloce.
+PSB002	mentre: la pasta, cose più: (.) si fa più veloce.
 PSB005	sì
 PSB002	sì
 PSB001	mhmh
 PSB001	x, invece io:
-PSB001	cucino di più cinese, {ride}
+PSB001	cucino di più cinese, ((ride))
 PSB005	ok[ay],
 PSB001	>[sì ci]bi cinesi<,
 PSB001	e:hm anche,
@@ -1251,7 +1251,7 @@ PSB001	m:h
 PSB001	>come si dice<,
 PSB001	cin~ cina, ci sono,
 PSB001	otto,
-PSB001	{ride} sistemi,
+PSB001	((ride)) sistemi,
 PSB002	a:h sì
 PSB001	di::
 PSB001	come si dice,
@@ -1297,9 +1297,9 @@ PSB001	>[quin]di<,
 PSB001	la mia città si trova:
 PSB001	vicino quella pancia,
 PSB005	okay
-PSB001	{ride}
+PSB001	((ride))
 PSB005	okay
-PSB002	{ride}
+PSB002	((ride))
 PSB001	xxxxx
 PSB005	come si chiama la città?
 PSB001	hú nán provincia di,
@@ -1316,13 +1316,13 @@ PSB001	tante montagne,
 PSB005	okay,
 PSB001	<quindi>,
 PSB001	è più: m:h
-PSB001	è più, {P} umido,
+PSB001	è più, (.) umido,
 PSB005	mhmh
 PSB001	quindi sì, umido, allora,
 PSB001	e:h si mangia di più, peperoncini
-PSB005	a:h o[kay], {ride}
+PSB005	a:h o[kay], ((ride))
 PSB001	°[sì sì],°
-PSB001	{ride}
+PSB001	((ride))
 PSB002	è molto picc[ante],
 PSB005	>[quindi è],< una zona picca[nte],
 PSB001	[sì]
@@ -1331,9 +1331,9 @@ PSB005	[una zo]na, di cu[cina pi]c[cant]e,
 PSB002	[sì s~]
 PSB001	[sì:],
 PSB005	[a:h okay],
-PSB001	[sì, molto] picca~ {P} sì come,
+PSB001	[sì, molto] picca~ (.) sì come,
 PSB001	come, >forse come sud< italia,
-PSB005	okay [sì sì, {P} sì sì],
+PSB005	okay [sì sì, (.) sì sì],
 PSB002	[come la calabria] sì
 PSB001	x[x]
 PSB002	[s]ì,
@@ -1344,28 +1344,28 @@ PSB002	cioè, si cucina con:
 PSB002	con pesce,
 PSB001	pesce, [sì] anche [pesce sì]
 PSB002	[sì]
-PSB002	[sì s]ì {P} >molto piccante, molto famoso<. cioè un piatto famossisimo in cin[a],
+PSB002	[sì s]ì (.) >molto piccante, molto famoso<. cioè un piatto famossisimo in cin[a],
 PSB005	[o]kay
 PSB001	[duò jiāo] yú tóu
 PSB002	[sì]
 PSB002	sì
-PSB001	{ride}
+PSB001	((ride))
 PSB002	sì
 PSB002	duò jiāo yú tóu [sì]
 PSB005	[ma], è una zuppa o è un:
-PSB002	{ride}
-PSB002	no {P} con la testa di pesce
-PSB001	sì {ride)
+PSB002	((ride))
+PSB002	no (.) con la testa di pesce
+PSB001	sì ((ride)
 PSB005	okay
 PSB001	solo [la tes]ta di pesce
 PSB002	[sì:],
-PSB005	sì {P} w[ow]
+PSB005	sì (.) w[ow]
 PSB001	[sì], >ma, comunque quello tipo di pesce<,
 PSB001	ha, grande,
 PSB001	gra~ grande la testa,
 PSB005	[mhmh]
 PSB002	[sì la testa] gra[n~]
-PSB001	[s][ì:] sì la tes~ {P} [sì]
+PSB001	[s][ì:] sì la tes~ (.) [sì]
 PSB005	[okay]
 PSB002	[sì]
 PSB005	immaginavo sì,
@@ -1377,7 +1377,7 @@ PSB005	[mhmh]
 PSB002	[sì:]
 PSB005	ah è giusto, [sì],
 PSB002	[sì]
-PSB001	{ride}
+PSB001	((ride))
 PSB005	e tu TROVI, i prodotti:,
 PSB001	mhmh
 PSB005	per cucinare::: la tua cucina, della, della, tua zona qui?
@@ -1386,7 +1386,7 @@ PSB005	>[lo riesc]i a trovare< qui a bologna? o: è difficile,
 PSB001	[mhmh]
 PSB001	e::[:h]
 PSB005	[per co]mprarlo?
-PSB001	sì è faci~ {P} e: comprar~ è facile comprar~
+PSB001	sì è faci~ (.) e: comprar~ è facile comprar~
 PSB005	ok[ay]
 PSB001	[sì]
 PSB001	[perché] ci sono mar[ket] cinese °sì°
@@ -1423,25 +1423,25 @@ PSB005	[giu]sto sì [sì] sì
 PSB001	[sì]
 PSB001	sì
 PSB005	io sono andata una volta, per comprare: l'olio di cocco,
-PSB002	{ride} sì
+PSB002	((ride)) sì
 PSB005	per mettermelo: >nei capelli<
-PSB002	{ride}
-PSB005	{ride}
-PSB001	{ride)
+PSB002	((ride))
+PSB005	((ride))
+PSB001	((ride)
 PSB005	sì
 PSB005	ma,
 PSB005	ci ho [prova]to,
 PSB002	[xx]
 PSB005	BEH, non lo so, m~ le mie amiche mi avevano detto che: faceva: era:
-PSB001	{ride}
-PSB001	{ride}
+PSB001	((ride))
+PSB001	((ride))
 PSB001	[mh]
 PSB005	>[come] dire<, un nutriente,
 PSB002	ah sì?
 PSB005	[per nutrir]e:
 PSB001	a:h
 PSB005	sì ma no,
-PSB001	{ride}
+PSB001	((ride))
 PSB002	>perché io so, si usa< olio di: ricino.
 PSB005	ah,
 PSB002	>sì [capito]?<
@@ -1454,11 +1454,11 @@ PSB002	ah [sì]
 PSB005	[poi] aspettar[e:, tante ore],
 PSB002	[sì sì, sì sì sì],
 PSB005	poi man~ no no no,
-PSB002	{ride}
-PSB001	{ride}
+PSB002	((ride))
+PSB001	((ride))
 PSB005	l'ho fatto poche volte sì
-PSB002	{ride}
-PSB001	{ride}
+PSB002	((ride))
+PSB001	((ride))
 PSB005	sì
 PSB005	E poi con, c(io)è diventa, subito:: solido,
 PSB001	mhmh
@@ -1467,14 +1467,14 @@ PSB005	[ap]pena fa un po' freddo,
 PSB002	ah sì?
 PSB005	e::: es~ è dentro una bottiglia,
 PSB002	s[ì:]
-PSB005	>[e di]venta< solido, e non lo riesci più, [cioè non], {ride} non viene più fuori, sì
+PSB005	>[e di]venta< solido, e non lo riesci più, [cioè non], ((ride)) non viene più fuori, sì
 PSB002	[a:h]
 PSB005	okay
 PSB005	okay, v~ u:hm questa parte su: il cibo, è interessante.
 PSB005	E, i ristoranti cinesi qui, vi piacciono?
 PSB001	°s~°
 PSB005	o son troppo diversi da:: la tu~ la vostra cucina?
-PSB001	°m:h beh mh° {ride}
+PSB001	°m:h beh mh° ((ride))
 PSB002	no, è molto diverso da, dalla mia,
 PSB005	mhmh
 PSB002	c(io)è perché,
@@ -1492,7 +1492,7 @@ PSB002	m:h poi fanno sì abbastanza:, piccante, cioè sono stata con e: i suoi a
 PSB002	il capodanno cine[se],
 PSB005	[mh]mh
 PSB002	e::
-PSB002	sì abbiamo es~ esagerato, {P} molto, cioè, >abbiamo preso un sacco< di: cibi piccanti {P} sì
+PSB002	sì abbiamo es~ esagerato, (.) molto, cioè, >abbiamo preso un sacco< di: cibi piccanti (.) sì
 PSB002	e poi mi hanno:,
 PSB002	regalato anche,
 PSB002	la grappa, cinese,
@@ -1510,18 +1510,18 @@ PSB005	[qual è] il migliore, ristorante cinese: a bologna,
 PSB002	[amole],
 PSB005	[secondo] voi?
 PSB002	amo[le],
-PSB001	[amo]le sì {ride}
+PSB001	[amo]le sì ((ride))
 PSB002	>sì amole per me<, s[ì]
 PSB005	[o]kay,
 PSB001	o[ka]~
 PSB002	[per] te?
 PSB001	per [me:], è,
 PSB002	[xx]
-PSB001	don bei {ride}
+PSB001	don bei ((ride))
 PSB002	ah don bei sì, è quella: dove, ci siamo stati noi
-PSB001	{ride}
+PSB001	((ride))
 PSB005	ah, ecco okay
-PSB001	s[ì:] {ride}
+PSB001	s[ì:] ((ride))
 PSB002	[ok]ay
 PSB002	[perché], perché a te piace
 PSB005	[perché]?
@@ -1536,8 +1536,8 @@ PSB001	la mia città
 PSB001	e: quindi,
 PSB001	anche
 PSB001	m:h
-PSB001	come si dice, {P} perché, nel nella mia ca~, sì,
-PSB001	di solito posso, cucinare, {P} i cibi:,
+PSB001	come si dice, (.) perché, nel nella mia ca~, sì,
+PSB001	di solito posso, cucinare, (.) i cibi:,
 PSB001	piccante,
 PSB001	da me stessa
 PSB005	mh[mh]
@@ -1574,7 +1574,7 @@ PSB002	[xxx]
 PSB002	mh preferito?
 PSB002	che si chiama, arcimboldo
 PSB005	okay
-PSB002	{ride}
+PSB002	((ride))
 PSB005	e:h >[credo di] aver<capito sì
 PSB002	°[sì]°
 PSB002	s~ m:h e:h cioé non è molto lontano, dal centro
@@ -1594,13 +1594,13 @@ PSB001	m:::h vicino quella,
 PSB001	piazza verde,
 PSB005	[mhmh]
 PSB001	[ma non] no, non, anima~
-PSB001	°no° {P} no esa~ dove #jiù #shì
+PSB001	°no° (.) no esa~ dove #jiù #shì
 PSB005	mhmh
 PSB001	e::
 PSB002	sud o nord?
-PSB005	{ride}
+PSB005	((ride))
 PSB002	della piazza, verde,
-PSB001	{ride}
+PSB001	((ride))
 PSB005	eh qua, ci devo pensare anch'io
 PSB001	((ride)) dōng shì shén me lái zhe?
 PSB005	VERSO la [stazio]ne?
@@ -1615,10 +1615,10 @@ PSB002	no sta, dicendo, forse a::
 PSB001	>no comunque c'è là<,
 PSB005	ah sì è [VERO]
 PSB001	[ah for]se è lì
-PSB001	{ride}
+PSB001	((ride))
 PSB005	>possiamo prenderla, una<, ce ne sono anche delle altre, asp~
-PSB002	{ride}
-PSB001	{ride}
+PSB002	((ride))
+PSB001	((ride))
 PSB005	ce ne sono [anche, di °di qua,°]
 PSB002	[dōng dōng-dōng] nán biān
 PSB002	bú shì[°xx°]
@@ -1632,7 +1632,7 @@ PSB001	a [zhè er zhè er]
 PSB002	>[qua], abbiamo [trova]to<
 PSB001	[okay]
 PSB005	ve la posso anche dare. se volete,
-PSB001	{ride}
+PSB001	((ride))
 PSB005	dov'è?
 PSB005	allora, piazza verdi,
 PSB001	m:::h piazza verdi, si trova mh [qua],
@@ -1651,7 +1651,7 @@ PSB001	[mhmh]
 PSB005	eh io: non lo so, qual è il mio preferito. perché la cucina bolognese non::
 PSB002	casa tua?
 PSB005	non è, non mi pia~, no: ma neanche perché la mia mamma:, la mia mamma non è di bologna
-PSB002	{ride}
+PSB002	((ride))
 PSB001	a:h
 PSB005	è [del sud],
 PSB002	[mi sa di] sì
@@ -1664,7 +1664,7 @@ PSB005	tantissimo quindi::,
 PSB005	preferisco il pesce: e non,
 PSB005	non sono molto appassionata di:
 PSB005	mi piacciono i dolci
-PSB001	{ride}
+PSB001	((ride))
 PSB005	bolognesi, molto,
 PSB001	[mhmh]
 PSB005	[sì:],
@@ -1691,7 +1691,7 @@ PSB002	ah, non sapevo, [perché] >[si chiama zuppa i]ngl[ese]?<
 PSB005	[sì sì]
 PSB001	[°>io nemmeno<,°]
 PSB005	[EH], vabbè ma [perché],
-PSB002	{ride}
+PSB002	((ride))
 PSB001	[zuppa], inglese
 PSB005	c'è un dolce inglese, che si chiama #trifle
 PSB002	a:h,
@@ -1736,7 +1736,7 @@ PSB001	[mh]
 PSB005	al posto: di comprare i [biscotti dici]amo
 PSB002	[sì sì sì]
 PSB005	e::h
-PSB005	vab[bè], {P} a me, >mi pia[ce molti]ssimo questa<
+PSB005	vab[bè], (.) a me, >mi pia[ce molti]ssimo questa<
 PSB001	[mhmh]
 PSB001	°[e:h]°
 PSB005	>per esempio]. mi piaccio anche tipo, i b-<
@@ -1746,7 +1746,7 @@ PSB002	[ah sì]
 PSB005	abbastanza tipico, in[somma non proprio tipi~]
 PSB002	[ah non sape]vo,
 PSB005	ma sì,
-PSB002	{ride}
+PSB002	((ride))
 PSB005	però la mia nonna, per natale, fa il crème caramel
 PSB002	mh okay
 PSB005	da sempre, da tutta la vita
@@ -1775,7 +1775,7 @@ PSB002	°[bene],°
 PSB001	festeggiare insieme,
 PSB001	e:h abbiamo,
 PSB001	cucinato, quasi:,
-PSB001	{ride} e: cinque, cinque, piatti,
+PSB001	((ride)) e: cinque, cinque, piatti,
 PSB005	mh ok[ay],
 PSB001	[e po]i, anche facciamo,
 PSB001	e:h
@@ -1792,7 +1792,7 @@ PSB002	il pro[gramma]
 PSB001	[°anche°] sì, [programma] di:,
 PSB002	[xxx]
 PSB001	x
-PSB002	[sì], {P} sì, il programma:, >cinese, che si fa:< ogni,
+PSB002	[sì], (.) sì, il programma:, >cinese, che si fa:< ogni,
 PSB002	ogni anno, [c'(io)è]
 PSB005	[ogni anno], sì
 PSB001	sì
@@ -1819,11 +1819,11 @@ PSB005	e:h, quando, abitavate in cina,
 PSB005	facevate,
 PSB005	qualche cosa di specifico per, capodanno,
 PSB001	°mhmh°
-PSB005	e:h qualcosa di speciale, {P} per capodanno, {P} quand'eravate in cina, adesso,
+PSB005	e:h qualcosa di speciale, (.) per capodanno, (.) quand'eravate in cina, adesso,
 PSB005	riuscite a fare la stessa cosa, o::
 PSB002	forse, sì sì ho capito
 PSB005	i~ non >[non mi sono spiegata< per niente],
-PSB002	[eh, {ride} no fo]rse,
+PSB002	[eh, ((ride)) no fo]rse,
 PSB002	da noi, potevamo fare: tipo fuo~ fuochi d'artificio
 PSB005	mhmh
 PSB002	ma forse qua,
@@ -1841,10 +1841,10 @@ PSB002	°sì°
 PSB005	si possono fare, anche qui
 PSB002	mh
 PSB001	°mhmh° si forse,
-PSB002	{ride}
+PSB002	((ride))
 PSB005	sì sì,
-PSB001	{ride}
-PSB002	forse sì, però non ho pro~ {P} mai provato, sì
+PSB001	((ride))
+PSB002	forse sì, però non ho pro~ (.) mai provato, sì
 PSB001	°mhmh°
 PSB005	eh, ma anche in cina tu, ti,
 PSB005	ti trovavi, con i tuoi amici per cucinare::
@@ -1859,7 +1859,7 @@ PSB001	è: diverso,
 PSB002	sì è [dive]rso, [°sì°]
 PSB005	[mh]
 PSB001	[sì]:
-PSB001	in, di solito {P} nella nos~, nella mia famiglia,
+PSB001	in, di solito (.) nella nos~, nella mia famiglia,
 PSB001	e:hm
 PSB001	in que~ qu~ in questo giorno,
 PSB001	per me, sì
@@ -1867,7 +1867,7 @@ PSB001	e: cucini cucina,
 PSB001	cuciniamo:: dodici, piatti
 PSB005	ah o[ka~]
 PSB001	[per]ché un piatto:,
-PSB002	{ride}
+PSB002	((ride))
 PSB001	rappresenta, un mese
 PSB005	ok[ay]
 PSB001	[ma] [anche, co]sì [per un]
@@ -1875,10 +1875,10 @@ PSB002	[okay]
 PSB002	[°(ah uh)°]
 PSB001	cos[ì:],
 PSB002	[pe]r
-PSB001	fa così, {P} puo~ potrebbe, portare, benedetto
+PSB001	fa così, (.) puo~ potrebbe, portare, benedetto
 PSB005	mh [ok][ay]
 PSB002	[°sì°]
-PSB001	[sì]: {ride}
+PSB001	[sì]: ((ride))
 PSB005	giu[sto]
 PSB001	[sì, an][che, ogni] piatto,
 PSB002	[°>anche se<°]
@@ -1890,11 +1890,11 @@ PSB001	[sì], così
 PSB005	okay
 PSB005	e ades~ e in italia no?
 PSB002	°appun~°
-PSB001	{ride} sì {ride}
-PSB005	{ride}
-PSB005	è [troppo, troppo] lavoro, sì, {ride}
-PSB001	[è limxx] {ride}
-PSB001	{ride}
+PSB001	((ride)) sì ((ride))
+PSB005	((ride))
+PSB005	è [troppo, troppo] lavoro, sì, ((ride))
+PSB001	[è limxx] ((ride))
+PSB001	((ride))
 PSB005	okay okay
 PSB002	°sì°
 PSB005	e lo passavi con la tua famiglia?
@@ -1903,7 +1903,7 @@ PSB001	con i miei amici
 PSB005	>con i tuoi amici< [°okay°]
 PSB001	[mhmh]
 PSB005	>sì [sì sì],<
-PSB002	[no], {P} perché io, {P} forse, festeggio, sempre con la famiglia
+PSB002	[no], (.) perché io, (.) forse, festeggio, sempre con la famiglia
 PSB005	ok[ay]
 PSB002	[mai co]n gli amici, in cina,
 PSB001	in [cina s]ì, °così°
@@ -1916,7 +1916,7 @@ PSB001	°[m]hmh°
 PSB005	okay,
 PSB001	come: come, na~ natale,
 PSB002	sì
-PSB001	ital~ come il nata[le {P} sì:]
+PSB001	ital~ come il nata[le (.) sì:]
 PSB005	[okay, okay]
 PSB002	°>come il natale< [sì]°
 PSB001	°[sì]:°
@@ -1928,7 +1928,7 @@ PSB005	[fra il nostro natale:, °e il vostro,°] okay
 PSB001	°[mhmh]°
 PSB002	[sì] esatto, sì
 PSB005	come importanza per la [famiglia>,se ho c]apito< sì
-PSB002	[sì {P} sì],
+PSB002	[sì (.) sì],
 PSB002	°sì°
 PSB005	sì sì
 PSB005	NO, per noi, per noi capodanno é:
@@ -1937,18 +1937,18 @@ PSB002	sì, puoi festeggiare come:
 PSB005	[sì]
 PSB002	[co]n chi vuoi,
 PSB005	esatto sì
-PSB002	{ride} °sì°
-PSB001	{ride}
+PSB002	((ride)) °sì°
+PSB001	((ride))
 PSB005	sì, sì,
 PSB005	>e il capodanno italiano, avete fatto qualche cosa<?
 PSB001	capodanno italia[no],
 PSB005	[sì]
 PSB001	in
-PSB002	no, io no, {P} forse? [no],
+PSB002	no, io no, (.) forse? [no],
 PSB001	[sì] eh, okay
 PSB001	in que~ quel tempo,
-PSB002	{ride}
-PSB001	ah {P} e:hm
+PSB002	((ride))
+PSB001	ah (.) e:hm
 PSB001	siamo: usciti, e poi:,
 PSB001	s~ e:hm
 PSB001	°e~°
@@ -1988,17 +1988,17 @@ PSB002	>cioè perché<, troppa gent[e::],
 PSB005	[mhmh]
 PSB002	sì
 PSB005	IO NON SONO MAI STATA,
-PSB005	in centro, {P} per capodanno
-PSB001	{ride}
+PSB005	in centro, (.) per capodanno
+PSB001	((ride))
 PSB002	m:h
 PSB005	M[AI],
-PSB001	[fai be]ne, {ride}
+PSB001	[fai be]ne, ((ride))
 PSB005	mai, [mai] sì
 PSB002	[bene],
-PSB001	{ride}
+PSB001	((ride))
 PSB001	be[ne no],
 PSB005	[mai]
-PSB001	{ride} sì
+PSB001	((ride)) sì
 PSB005	>sì sì sì<,
 PSB005	okay, eh oka~ vabbé però,
 PSB005	almeno si festeggia un po'
@@ -2015,7 +2015,7 @@ PSB001	mi mi mi ero sì,
 PSB001	la prim~ i~ il primo,
 PSB001	e:h il primo: capoda~
 PSB001	capodanno,
-PSB001	io, io, {P} come si io, ho fa~ ho passato,
+PSB001	io, io, (.) come si io, ho fa~ ho passato,
 PSB005	mhmh
 PSB001	[a:- a~ °a bologna,°] >sì a [bolo]gna sì<
 PSB002	[in italia, a, bologna],
@@ -2025,35 +2025,35 @@ PSB001	e:h con
 PSB001	un'amica, e poi noi due,
 PSB001	e:hm sì, noi due::,
 PSB001	ve~ venu~ sì siamo venute:, in centro,
-PSB001	e poi:, {P} quasi, vicino,
+PSB001	e poi:, (.) quasi, vicino,
 PSB001	a:h
-PSB001	il contare, {P} co~ co~ contare,
+PSB001	il contare, (.) co~ co~ contare,
 PSB005	mhmh,
 PSB002	mh [m::h]
 PSB001	[vicino co~ a] con[tare],
 PSB005	[sì:],
-PSB001	e:h la mia, amica, fa male, la sua pancia, {ride}
+PSB001	e:h la mia, amica, fa male, la sua pancia, ((ride))
 PSB002	[no:]
-PSB001	[qui]ndi, sì {ride} sì {ride}
-PSB002	{ride}
+PSB001	[qui]ndi, sì ((ride)) sì ((ride))
+PSB002	((ride))
 PSB001	e: lei,
 PSB001	e:hm sono andata,
 PSB001	in a, a, alla stazione,
 PSB002	sì
-PSB001	per {ride} sì, per: {P} sì, per andare al bagno,
+PSB001	per ((ride)) sì, per: (.) sì, per andare al bagno,
 PSB005	poverin[a],
 PSB001	[s]ì,
-PSB001	e io, da sola, {ride}
+PSB001	e io, da sola, ((ride))
 PSB005	>[hai pa]ssato il ca~< [no:],
 PSB001	°[sì]°
-PSB001	[da so]la, {P} in in ci~ [quello momento], sì
+PSB001	[da so]la, (.) in in ci~ [quello momento], sì
 PSB002	[°ah sì? a:h°]
-PSB005	{ride}
+PSB005	((ride))
 PSB001	e quindi, a:h sono,
-PSB001	molto molto, solitudine, {ride}
+PSB001	molto molto, solitudine, ((ride))
 PSB005	un po', sì,
 PSB005	eh, io una volta, m:h >avevo fatto una cena<,
-PSB001	{ride}
+PSB001	((ride))
 PSB001	mh
 PSB005	e, con: amici,
 PSB005	e poi, siam~ abbiamo preso la macchina, e volevamo andare in piazza
@@ -2070,18 +2070,18 @@ PSB005	[per]
 PSB001	[per] [tutto],
 PSB002	[e sì]
 PSB005	per stappare:: lo spumante e il [vino],
-PSB002	{ride}
+PSB002	((ride))
 PSB002	okay,
 PSB001	ah, ah,
 PSB005	per[ché >er]a<, praticamente correva[mo],
 PSB001	[sì]
 PSB002	[sì] sì,
 PSB005	verso la piazza, e abbiamo stappato: mentre correvamo, perché era,
-PSB001	{ride}
+PSB001	((ride))
 PSB005	era tardi
-PSB002	sì {ride}
-PSB005	{ride}
-PSB001	{ride}
+PSB002	sì ((ride))
+PSB005	((ride))
+PSB001	((ride))
 PSB005	povera,
 PSB005	okay, okay okay, m::h
 PSB005	allora, abbiamo già parlato un po' del: m:h
@@ -2097,7 +2097,7 @@ PSB001	tu?
 PSB002	m~ e: parlavo, sì, ma in famiglia, no,
 PSB005	o[kay]
 PSB002	>[cioè co~] con i genitori no<, e:h
-PSB002	però fuori, {P} sì
+PSB002	però fuori, (.) sì
 PSB005	>c(io)è [qual è il tuo dia]letto<?
 PSB002	[xx]
 PSB002	no e:h cioè, siam~ sono di zhèn jiāng
@@ -2108,7 +2108,7 @@ PSB002	c(io)è vicino a::
 PSB002	nán jīng huà
 PSB005	IO, >[comunque non conosco io non so<,nu]lla,
 PSB002	[e:h di nanchino cioè il dialetto],
-PSB001	{ride}
+PSB001	((ride))
 PSB005	okay, quindi, [spiegatemi tutto sì]
 PSB002	[vici~ vicin]o:,
 PSB002	sì, come, come, il il dialetto di nanchino
@@ -2124,7 +2124,7 @@ PSB002	[sì]
 PSB002	[sì con con] miei amici, o: anche, al mercato,
 PSB002	c(io)è comunque fuori la [casa],
 PSB005	[mhmh]
-PSB002	però, i miei genitori non sono nati lì quindi, {P} loro non parlano,
+PSB002	però, i miei genitori non sono nati lì quindi, (.) loro non parlano,
 PSB005	[okay]
 PSB002	>[il diale]tto lì< quindi,
 PSB002	sì a casa solo mandarin[o. sì]
@@ -2135,7 +2135,7 @@ PSB005	[okay],
 PSB005	eh, e hai i nonni?
 PSB002	sì
 PSB005	e con, i nonni?
-PSB002	coi nonni perché {P} allora,
+PSB002	coi nonni perché (.) allora,
 PSB002	allora, perché ognuno è nato in in un [posto diverso, quindi],
 PSB005	[un posto diverso sì]
 PSB002	sì quindi:,
@@ -2150,7 +2150,7 @@ PSB002	[capis]co,
 PSB005	capisco
 PSB002	sì sì
 PSB005	succede anche in italia, [questa cosa sì, sì],
-PSB002	{ride}
+PSB002	((ride))
 PSB002	[sì, >c(io)è è perché<] è un po' difficile perc~ davvero, ognuno, è nato, in un posto diverso è cresciuto, in un posto [diverso qui]ndi,
 PSB005	[mhmh]
 PSB002	sì
@@ -2162,11 +2162,11 @@ PSB002	[sì:],
 PSB002	sì esatto, sì
 PSB005	m~ >è [intere]ssante<,
 PSB002	[sì]
-PSB002	{ride}
+PSB002	((ride))
 PSB002	sì sì,
-PSB002	sì, {P} si fa il contrario, cioè rispe[tto ag]li altri, sì
+PSB002	sì, (.) si fa il contrario, cioè rispe[tto ag]li altri, sì
 PSB005	[esatto],
-PSB005	{ride}
+PSB005	((ride))
 PSB002	sì
 PSB005	>e [ti pia]ceva parlare:<,
 PSB002	[e:h]
@@ -2191,9 +2191,9 @@ PSB001	di solito:, sì parliam~ ehm sì parliamo:,
 PSB001	dia~ [dialogo, il] dia,-
 PSB002	°[dialetto]°
 PSB002	dia[letto],
-PSB001	[sì dia]l~ ah sì dia[letto] {ride}
+PSB001	[sì dia]l~ ah sì dia[letto] ((ride))
 PSB002	[dialetto],
-PSB001	dialetto [sì diale]tto, {ride}
+PSB001	dialetto [sì diale]tto, ((ride))
 PSB002	[xx]
 PSB001	sì, e,
 PSB001	in, (,) in scuola,
@@ -2217,7 +2217,7 @@ PSB001	[diale]tto
 PSB005	[mhmh]
 PSB001	[diale]tti], sì dialetti, [sì]
 PSB002	[(dia)letti],
-PSB002	{ride}
+PSB002	((ride))
 PSB005	[mhmh]
 PSB002	ah sì? ah sì?
 PSB001	sì
@@ -2226,7 +2226,7 @@ PSB002	ma sono simili, o sono molto diversi
 PSB001	molto diversi
 PSB002	ah, ma per[ché],
 PSB005	>[co]me si chiamano<?
-PSB001	e:h come chiamano, {ride} se na~ la mia,
+PSB001	e:h come chiamano, ((ride)) se na~ la mia,
 PSB001	e::hm
 PSB001	il di~ qu~ quello, dialetto:,
 PSB001	che,
@@ -2237,14 +2237,14 @@ PSB001	ehm huá róng huà
 PSB005	mhmh
 PSB001	un'altra, è, si chiama, ehm
 PSB001	eh
-PSB001	come si dice {ride}
+PSB001	come si dice ((ride))
 PSB001	ehm nán biān huà
 PSB005	okay
 PSB001	sì
 PSB001	e invece,
 PSB001	il mio, dialetto:, è simile, con
 PSB001	wu hàn sì chuān
-PSB001	è un' altra, {P} due, l'altra:, mh provincia,
+PSB001	è un'altra, (.) due, l'altra:, mh provincia,
 PSB005	mhmh
 PSB005	o[kay]
 PSB001	[sì]
@@ -2253,7 +2253,7 @@ PSB005	[oka]y
 PSB001	e: invece, nán biān huà, un altro dia~ diale~ ade~ dialetto,
 PSB001	è similie con:
 PSB001	il,
-PSB001	capo #wǒ #kě #yǐ #shuō #nèi #gè {P} #wǒ #men
+PSB001	capo #wǒ #kě #yǐ #shuō #nèi #gè (.) #wǒ #men
 PSB001	hú nán de
 PSB001	shěng huì chéng shì
 PSB002	capoluogo, cioè la: [il dia]le[tto s]ì,
@@ -2270,7 +2270,7 @@ PSB001	sì
 PSB005	s[ì]
 PSB002	>[sì] sì<
 PSB001	mhmh
-PSB002	ma perché esistono due, dialetti {P} da voi,
+PSB002	ma perché esistono due, dialetti (.) da voi,
 PSB001	forse:,
 PSB001	è più vicino, forse due, due città è più vicino
 PSB001	[quindi],
@@ -2285,7 +2285,7 @@ PSB005	>[forse], sì ho ca[pito] okay<,
 PSB001	°[sì]°
 PSB002	[mh (o)k]ay
 PSB001	[sì]
-PSB005	è molto complicato, {ride} [sì]
+PSB005	è molto complicato, ((ride)) [sì]
 PSB002	[sì]
 PSB001	io qualcuno, tra loro,
 PSB001	può: parlare due, dialett[i],
@@ -2304,11 +2304,11 @@ PSB001	sì dialetto sì
 PSB005	va bene okay, e, m:h
 PSB005	studiar l'italiano, è stato difficile per te?
 PSB001	sì
-PSB005	{ride}
-PSB001	{ride} molto
-PSB002	{ride}
-PSB005	molto, {ride}
-PSB001	{ride} sì
+PSB005	((ride))
+PSB001	((ride)) molto
+PSB002	((ride))
+PSB005	molto, ((ride))
+PSB001	((ride)) sì
 PSB005	cos'è, la cosa più difficle per te?
 PSB001	all'inizio è, coniu~ coniugare
 PSB005	o[ka]y
@@ -2331,7 +2331,7 @@ PSB005	[ah, a capire],
 PSB002	sì
 PSB001	per esempio,
 PSB001	e:hm
-PSB001	ci, {P} ha, {P} capito
+PSB001	ci, (.) ha, (.) capito
 PSB005	mhmh
 PSB001	>ci ha capi[to],<
 PSB005	[sì] sì
@@ -2342,12 +2342,12 @@ PSB005	certo,
 PSB002	[sì]
 PSB001	[sì]
 PSB005	sì ho capito >sì sì<
-PSB001	{ride}
+PSB001	((ride))
 PSB005	comunque, parli benissimo quindi [non],
 PSB001	°[sì]xx°
-PSB005	{ride} non ti preoccupare,
+PSB005	((ride)) non ti preoccupare,
 PSB005	e::hm ma, m::h
-PSB005	come, hai fatto a imparare: l'i~ {P} l'italiano. hai studiato,
+PSB005	come, hai fatto a imparare: l'i~ (.) l'italiano. hai studiato,
 PSB001	mhmh
 PSB005	hai guardato i film, hai ascoltato musica italiana che, m:h
 PSB001	e:h
@@ -2359,7 +2359,7 @@ PSB001	la programmatica, e poi,
 PSB001	e:hm
 PSB001	in quel momento, anche stavo in cina,
 PSB001	e:
-PSB001	non, {P} come si dice,
+PSB001	non, (.) come si dice,
 PSB001	forse per, pe~ so~ solo per per me,
 PSB001	io non, non non
 PSB001	non, ho trovato: tanti film
@@ -2395,23 +2395,23 @@ PSB001	provo: a ascoltare, radio,
 PSB001	anche i film
 PSB005	mhmh
 PSB001	e:h comunque sì
-PSB001	{ride}
+PSB001	((ride))
 PSB005	la radio, è difficile secondo me,
 PSB002	sì [sì sì]:
 PSB001	>[sì sì]<
 PSB005	[sì]
 PSB001	no, non sì
-PSB001	eh non non riesco a capire, {ride}
+PSB001	eh non non riesco a capire, ((ride))
 PSB005	>no la radio<,
-PSB001	{ride}
+PSB001	((ride))
 PSB002	sì
 PSB005	[la radio],>[non so se è una bu]ona idea<,
 PSB002	°[sì sì]°
 PSB001	°[ah sì sì]°
-PSB005	{ride} io non la consiglio no {ride}
-PSB002	{ride}
-PSB001	{ride}
-PSB001	{ride}
+PSB005	((ride)) io non la consiglio no ((ride))
+PSB002	((ride))
+PSB001	((ride))
+PSB001	((ride))
 PSB002	>troppo veloce<, °insom[ma]°
 PSB005	[sì]
 PSB001	sì [sì]
@@ -2442,36 +2442,36 @@ PSB002	kàn bào zhǐ zhī lèi de (.) xīn wén
 PSB001	hǎo xiàng
 PSB001	no n[o]
 PSB005	[no] no, okay, no no, ma non c'è niente di male, eh, non,
-PSB001	{ride}
-PSB002	{ride}
+PSB001	((ride))
+PSB002	((ride))
 PSB005	sì sì no non c'è niente di male
-PSB005	e: invece, {P} tu?
+PSB005	e: invece, (.) tu?
 PSB002	sì, guardavo spesso:
 PSB002	sì una serie tivù,
 PSB005	mhmh
 PSB005	per esempio? quali?
-PSB001	{ride}
+PSB001	((ride))
 PSB002	e:h skam tipo,
 PSB005	ah [okay, okay, o]kay,
 PSB002	>[non è non è un]<
-PSB001	{ride}
+PSB001	((ride))
 PSB005	stavo pensando tipo, un posto al sole, non:
 PSB002	no:
 PSB005	ci sono delle brutte,
-PSB005	brutte, serie tivù italiane [quindi], {ride}
+PSB005	brutte, serie tivù italiane [quindi], ((ride))
 PSB002	[eh sì],
 PSB001	tipo?
 PSB005	tipo un posto al [sole]
-PSB002	[sì]: {ride}
+PSB002	[sì]: ((ride))
 PSB005	sì
-PSB005	{ride}
+PSB005	((ride))
 PSB001	posto?
 PSB005	un [posto al sole],
 PSB002	[posto al sole]
 PSB001	ah un posto al sol[e]
 PSB005	[o]ppure c'è: tipo:: don matteo,
 PSB002	m::h [xxx]
-PSB005	[NO ma, per] fortuna, {ride}
+PSB005	[NO ma, per] fortuna, ((ride))
 PSB002	no no
 PSB005	no no, per fortuna,
 PSB002	eh sì
@@ -2499,16 +2499,16 @@ PSB002	se~ sette anni
 PSB002	cioè
 PSB002	sì ho suonato, per sette [anni sì]
 PSB005	[beh, è ta]nto
-PSB002	sì {P} però:
+PSB002	sì (.) però:
 PSB002	e poi, adesso no, niente,
 PSB002	>[perché io],< volevo, riprendere,
 PSB005	[okay]
 PSB002	queste due cose,
 PSB005	sì
 PSB002	quando sarò in pensione
-PSB002	{ride}
+PSB002	((ride))
 PSB005	NO, NO, puoi riprenderle adesso
-PSB001	{ride}
+PSB001	((ride))
 PSB005	ah, io, una chitarra te l~ ce l'ho da darti, se [vuoi]
 PSB002	[sì] ah [sì]?
 PSB005	[cre]do,
@@ -2527,11 +2527,11 @@ PSB002	[s]ì
 PSB005	io suono, malissimo
 PSB002	anch'[io],
 PSB005	[io] suono un pochino, ma malissimo
-PSB001	{ride}
+PSB001	((ride))
 PSB002	anch'io,
 PSB005	e:h[m] >la chitarra sì< non
 PSB002	[sì]
-PSB002	non ho molto talento, {ride}
+PSB002	non ho molto talento, ((ride))
 PSB002	sì
 PSB005	MA, i~ io, non è quello è che non suono quindi non:
 PSB005	non è che si impara per magia,
@@ -2566,12 +2566,12 @@ PSB005	[sì]
 PSB005	[mhmh]
 PSB002	amici, amici, sì
 PSB005	okay okay
-PSB002	°quindi sì° anche se non, non vivono:, in: a bologna, però ci, {P} sentiamo:, e ci scrivi[amo sì]
+PSB002	°quindi sì° anche se non, non vivono:, in: a bologna, però ci, (.) sentiamo:, e ci scrivi[amo sì]
 PSB005	[okay] okay sì quindi, >ovviamente non ti, non e:hm non posso chiederti se<, cioè, parlate italiano sono amici ita[liani],
 PSB002	[a:h, >s]ì sì sì< certo
 PSB005	eh [quindi:],
 PSB002	[>sono italia]ni sì<
-PSB005	sì {P} [okay]
+PSB005	sì (.) [okay]
 PSB002	[sì]
 PSB005	cioè, non:
 PSB005	non [s~]
@@ -2583,8 +2583,8 @@ PSB002	[sì sì sì, cinese],
 PSB002	cos~ si,
 PSB002	si sbaglia molto sui toni
 PSB005	[oka~]
-PSB002	>[mentre p]oi<, se se sbagli sui toni, non si capisce, più, {P} niente {ride}
-PSB001	{ride}
+PSB002	>[mentre p]oi<, se se sbagli sui toni, non si capisce, più, (.) niente ((ride))
+PSB001	((ride))
 PSB005	°poveri noi,°
 PSB002	sì
 PSB002	e c'è tipo, >una volta un mio amico<, pro~ provava a dirmi,
@@ -2593,7 +2593,7 @@ PSB002	e:h °cosa°
 PSB002	una ma~ malattia,
 PSB005	mhmh
 PSB002	eh come si chiama,
-PSB002	[co]nvocazi~ non è convocazione {P} è:
+PSB002	[co]nvocazi~ non è convocazione (.) è:
 PSB005	[x]
 PSB005	ah,
 PSB002	è difficile, eh non,
@@ -2602,7 +2602,7 @@ PSB002	[com~ s]ì comunque voleva,
 PSB002	voleva dirmi una malattia, [però]
 PSB005	[mhmh]
 PSB002	poi ha detto cavo,
-PSB005	{ride} okay {ride} e [quindi],
+PSB005	((ride)) okay ((ride)) e [quindi],
 PSB002	sì
 PSB002	[quindi] è il cavo, che non capivo
 PSB005	sì sì okay
@@ -2622,8 +2622,8 @@ PSB005	allora, possiamo anche chiudere:: qui,
 PSB005	mi sembra di aver già parlato di molte cose va bene,
 PSB005	speriamo che,
 PSB001	cosa anche,
-PSB002	sì {P} vai,
-PSB001	{ride} sì, un'altra cosa,
+PSB002	sì (.) vai,
+PSB001	((ride)) sì, un'altra cosa,
 PSB001	e::hm
 PSB001	e pe~ pe~ per, nel nella, nel processo::
 PSB001	di: studio,
@@ -2634,7 +2634,7 @@ PSB005	[mhmh]
 PSB002	sì
 PSB001	sì
 PSB001	è molto, im~
-PSB001	ba~ {P} ra~,
+PSB001	ba~ (.) ra~,
 PSB001	(imbaraz)zant[e],
 PSB005	[m]hmh
 PSB005	mhmh sì,
@@ -2646,7 +2646,7 @@ PSB001	[sì] è imbaraz[za]nte sì è imbarazzante sì,
 PSB002	[sì]
 PSB001	e:hm
 PSB001	c~ c~ c'era una volta,
-PSB001	io, {ride} chiesto,
+PSB001	io, ((ride)) chiesto,
 PSB001	a:hm
 PSB001	a a a un, profes~ ah il maestro,
 PSB005	mhmh
@@ -2660,16 +2660,16 @@ PSB001	volevo, imprestare:,
 PSB001	una penna,
 PSB005	mhmh
 PSB002	mh
-PSB001	e poi, {ride}
-PSB001	ho detto {ride}
+PSB001	e poi, ((ride))
+PSB001	ho detto ((ride))
 PSB001	posso:, imprestare,
-PSB001	e: la la la pene {ride}
-PSB005	mhmh certo, {ride}
-PSB002	{ride}
-PSB001	{ride} sì perché
-PSB005	{ride} avevo già capito, {ride}
+PSB001	e: la la la pene ((ride))
+PSB005	mhmh certo, ((ride))
+PSB002	((ride))
+PSB001	((ride)) sì perché
+PSB005	((ride)) avevo già capito, ((ride))
 PSB005	sì [sì]
-PSB001	[qu]indi, {ride}
+PSB001	[qu]indi, ((ride))
 PSB001	è: molto, imba[raz]zante,
 PSB002	[sì]
 PSB005	mh[mh]
@@ -2701,7 +2701,7 @@ PSB001	(antro)pologia,
 PSB005	sì
 PSB001	sì an[trop]ologia,
 PSB002	[mh]
-PSB001	e ha, sc~ ha scelto un:: un corso {P} cinese, {P} [che stu]dia, cinese [sì]
+PSB001	e ha, sc~ ha scelto un:: un corso (.) cinese, (.) [che stu]dia, cinese [sì]
 PSB005	[okay]
 PSB005	[a:h],
 PSB001	quindi,
@@ -2716,8 +2716,8 @@ PSB005	ho ca[pito] sì sì
 PSB001	°[sì]°
 PSB001	°sì°
 PSB005	va bene,
-PSB005	va bene basta {P} okay
-PSB001	{ride}
+PSB005	va bene basta (.) okay
+PSB001	((ride))
 PSB005	e::hm direi che possiamo salutarci qui,
 PSB005	oka~ sì sì sì
 PSB005	va bene, grazie, grazie mille

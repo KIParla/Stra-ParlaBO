@@ -224,7 +224,7 @@ PSB146	tu la stessa cosa o
 PSB145	per me no no no per
 PSB144	è la è la prima perché è nuova nuova di sposare
 PSB145	vici~ i vici~
-PSB144	xx xx solo
+PSB144	xx xx solo ride
 PSB145	no per me perché io eh sono venuta al periodo del covid
 PSB146	ah
 PSB145	eh
@@ -522,7 +522,7 @@ PSB146	ci son sta da poco e confermo
 PSB144	anche i marocchini i
 PSB144	cucinare troppo
 PSB146	eh troppo
-PSB144	sì
+PSB144	sì ride
 PSB144	qua modenese no
 PSB144	non cucinare ma cucinare ma non hai come sud
 PSB146	eh no al sud molto di più

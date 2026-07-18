@@ -112,7 +112,7 @@ PSB005	ma tu che cosa fai qui e
 PSB039	ah ancora niente studio le lingue e ancora studio il mio college in ucraina
 PSB005	mhmh
 PSB039	quindi quando eh
-PSB039	when i will . know
+PSB039	when i will (.) know
 PSB005	mhmh
 PSB039	a bit more
 PSB005	mhmh
@@ -280,7 +280,7 @@ PSB005	mh
 PSB005	mhmh
 PSB039	it's kinda bad
 PSB005	mhmh
-PSB039	but if you try to translate . from english to italian is . much better
+PSB039	but if you try to translate (.) from english to italian is (.) much better
 PSB005	mhmh
 PSB005	eh sì
 PSB005	è una cosa tipica
@@ -339,7 +339,7 @@ PSB005	mhmh sì sì no certo sì sì sì capisco
 PSB005	ma la voi siete venuti qua insieme o la mamma abitava già qui
 PSB039	ehm la la mamma sono stato in in italia prima
 PSB039	ehm ehm già mh già lo sa
-PSB039	already . already knew
+PSB039	already (.) already knew
 PSB005	sì sì s~ giusto era giusto sì
 PSB039	la lingua
 PSB039	sì ehm la lingua e quindi
@@ -358,7 +358,7 @@ PSB005	e come mai perché
 PSB039	ehm
 PSB039	in europa c'è ehm un gran problema
 PSB039	ehm
-PSB039	you have to ehm . have to have like ehm tons of documents per for everything
+PSB039	you have to ehm (.) have to have like ehm tons of documents per for everything
 PSB005	mhmh
 PSB039	ehm in uk~ in ucraina è molto più semplice
 PSB039	ehm anche più semplice aprire un business o qualcosa
@@ -413,7 +413,7 @@ PSB039	mh
 PSB039	dipende how many time you have to spend
 PSB005	mh
 PSB005	mhmh
-PSB039	ehm if it's a bit ehm . larger periods of time
+PSB039	ehm if it's a bit ehm (.) larger periods of time
 PSB039	ehm montagne
 PSB039	se shorter ehm then ehm spiagge
 PSB005	mhmh
@@ -525,7 +525,7 @@ PSB039	mh non so non so
 PSB005	no no non lo so infatti non lo so neanch'io scusami
 PSB005	ehm
 PSB039	italia non è ehm non è ehm nat~
-PSB039	this country which is . like to put a lot of money to improve ehm like progra~ mh
+PSB039	this country which is (.) like to put a lot of money to improve ehm like progra~ mh
 PSB005	mhmh
 PSB039	pro~ program education and stuff it's n~ it's not country for start-up or something
 PSB005	mh

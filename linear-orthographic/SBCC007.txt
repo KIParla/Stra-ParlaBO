@@ -556,7 +556,7 @@ PSB113	yí jiě
 PSB113	dà jiě yí mèi yí xiǎo yí zǐ
 PSB113	xiǎo gū zǐ xiǎo yí zǐ
 PSB113	esatto
-PSB113	xiōng yǔ fū . qī yǔ fū zhī dì
+PSB113	xiōng yǔ fū (.) qī yǔ fū zhī dì
 PSB114	shén me
 PSB113	allora sono sedici in cinese
 PSB113	perché

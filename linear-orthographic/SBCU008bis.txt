@@ -826,6 +826,7 @@ PSB005	sì sì
 PSB005	sì sì sì
 PSB091	no no assolutamente
 PSB091	guarda ti dico guarda io li baciavo dappertutto capito
+PSB005	ride
 PSB091	nel culetto nei piedi erano i miei loro proprio quando mi vedevano
 PSB091	dada dada
 PSB091	cioè troppo b~ troppo belli troppo mamma mia
@@ -1146,7 +1147,7 @@ PSB091	i miei tutti i miei ucraini com~ compaesani
 PSB005	vai dopo vado giuro che dopo vado
 PSB091	sì
 PSB091	da
-PSB091	peresilaju . peresilaju
+PSB091	peresilaju (.) peresilaju
 PSB091	davaj
 PSB005	no ma adesso vado dai
 PSB091	sì gli giro gli giro

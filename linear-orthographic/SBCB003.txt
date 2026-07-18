@@ -357,7 +357,7 @@ PSB118	al check-in
 PSB118	io
 PSB118	your passport
 PSB095	lo fa
-PSB118	ride of course your passport
+PSB118	((ride)) of course your passport
 PSB118	quello
 PSB118	quello vibe
 PSB118	no vabbè ora fallimento nel senso che
@@ -665,7 +665,7 @@ PSB118	would you like some chips
 PSB095	esa~
 PSB118	some chips
 PSB095	you want some chips
-PSB095	oh thank you ride
+PSB095	oh thank you ((ride))
 PSB118	oddio
 PSB095	why you so sweet
 PSB095	oh are you american

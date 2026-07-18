@@ -1,4 +1,4 @@
-PSB091	sono, {P} igiene
+PSB091	sono, (.) igiene
 PSB128	°igie[ne]°
 PSB005	[mh]mh esat[to]
 PSB091	[la]vare bene le mani,
@@ -6,7 +6,7 @@ PSB091	tenere i capelli lega[ti],
 PSB036	[xxx]
 PSB130	[eh io non ce] li ho eh mi sono dimenticata: [di racco]gliere
 PSB091	[okay]
-PSB091	va bene [{P} per s~] per stavolta [sì]
+PSB091	va bene [(.) per s~] per stavolta [sì]
 PSB130	[posso fare così]?
 PSB128	[sì sì] sì sì
 PSB091	per stavolta
@@ -19,7 +19,7 @@ PSB128	quando fate a casa i tortellini,
 PSB128	fate lo stesso
 PSB130	sì infatti ieri sera ho cucinato con i capelli sciolti
 PSB005	ma io non so [come fai]
-PSB130	[ho cucinato] con cape~ {ride}
+PSB130	[ho cucinato] con cape~ ((ride))
 PSB005	io non so come fai perché io: non riesco mi: mi vanno dapper~ cioè non li sopporto dopo un po' sono molto[:]
 PSB130	[be]h e si s~ poi puoi ridarmelo? perché ho toccato il microfono non so:
 PSB130	[>sembrava<] appiccicaticcio
@@ -33,8 +33,8 @@ PSB036	va bene dai va bene
 PSB005	[no volevano i guanti sì]
 PSB091	[x x di un pentolino]?
 PSB036	vuoi tu il grembiule]?
-PSB036	{P} vuoi tu il gremb]iule?
-PSB005	[sì {P} possiamo anche mettere i guanti]
+PSB036	(.) vuoi tu il gremb]iule?
+PSB005	[sì (.) possiamo anche mettere i guanti]
 PSB130	[sì]
 PSB036	[perché] tan[to:]
 PSB130	[ah no] beh tiello tu se [vuoi]
@@ -47,7 +47,7 @@ PSB086	a::h pensavo che vuoi
 PSB091	io ho preso gli strofinacci quindi
 PSB130	[io adesso entro in modalità professione professionista te lo dico]
 PSB036	[sono: sono xxxx praticamente]
-PSB129	{ride}
+PSB129	((ride))
 PSB128	davaj vkazivky
 PSB036	[no problem]
 PSB128	xxxx
@@ -57,7 +57,7 @@ PSB091	[quando già sarà l'impasto pronto comincerei xx fa]cciamo vede[re ai ra
 PSB129	[sì::]
 PSB091	possiamo chiudere la porta del bagno? °vabbè grazie°
 PSB129	sì
-PSB128	è come tortellini {ride}
+PSB128	è come tortellini ((ride))
 PSB091	al[lora]
 PSB129	[cosa cuci]niamo cosa cucin[iamo]?
 PSB005	[vediamo]
@@ -82,14 +82,14 @@ PSB086	la mia regione dicono come si fa le paste
 PSB086	[la stessa cosa un po' modifica]ta sì
 PSB091	[chi vuole impastare]?
 PSB129	[la stessa cosa]
-PSB091	m::h voi va bene se noi {P} impastiamo facciamo poi anche mangiamo un po'? vi [va]?
+PSB091	m::h voi va bene se noi (.) impastiamo facciamo poi anche mangiamo un po'? vi [va]?
 PSB129	[certo]
 PSB005	[sì sì]
 PSB129	noi siamo venuti apposta
-PSB129	c(io)è {ride}
+PSB129	c(io)è ((ride))
 PSB130	[xx venuti a mangiare]
 PSB129	[il nostro obietti]vo è mangiare
-PSB129	{ride}
+PSB129	((ride))
 PSB128	c'è qua
 PSB091	[lasciamo un po']
 PSB086	[xx xxx]
@@ -110,12 +110,12 @@ PSB086	[ma le] viene cuc[ito::]
 PSB091	[sì per legare bene]
 PSB127	xx[xxx]
 PSB129	[xx con le strisce:]
-PSB128	[io {P} io non m]etto uovo
+PSB128	[io (.) io non m]etto uovo
 PSB091	io metto che diventano belle gia:lle
 PSB091	metti quattro
 PSB130	che è una decorazi[one]
 PSB128	e [sai perché]?
-PSB086	[sì {P} sì] [sì]
+PSB086	[sì (.) sì] [sì]
 PSB005	[mi ri]metto quest[i]?
 PSB129	[per]ché come i merli sai quelli tipo dei castelli [quelli fatti]
 PSB091	[facciamo con acqua] calda [no xx]
@@ -135,7 +135,7 @@ PSB128	e un uova
 PSB128	e qua
 PSB128	[come facciamo]
 PSB091	[adesso]
-PSB005	{ride}
+PSB005	((ride))
 PSB091	noi facciamo io faccio tutto a occhio
 PSB005	eh [ma infatti]
 PSB091	[noi facciamo]
@@ -154,7 +154,7 @@ PSB128	mhmh mh
 PSB128	la maggior parte di ucraina non mettono
 PSB130	ma cosa::[:]
 PSB128	[qua]lcuno me[tte un uo]vo
-PSB130	[eh {P} acqua]?
+PSB130	[eh (.) acqua]?
 PSB128	[solo a]cqua tiepida,
 PSB091	[acqua]
 PSB091	[chi mette tiepida, chi mette acqua] calda calda boll[ente],
@@ -165,7 +165,7 @@ PSB091	[perché con acqua bollente diventano più] morbidi invece uovo lega m~ m
 PSB128	[eh]
 PSB091	intanto bisogna lavorare bene,
 PSB091	in modo che non
-PSB005	quattro {P} [sì]
+PSB005	quattro (.) [sì]
 PSB091	[sì]
 PSB128	mhmh
 PSB091	un pizzico di sale,
@@ -188,7 +188,7 @@ PSB005	volevo solo metterlo contro:
 PSB128	ladno
 PSB005	sì grazie eh
 PSB128	nel'zja
-PSB005	il gel eventualmente è dentro la tasca esterna {ride}
+PSB005	il gel eventualmente è dentro la tasca esterna ((ride))
 PSB036	x x x x
 PSB005	sì
 PSB036	(non sto qua) a mettere il gel ogni volta
@@ -206,8 +206,8 @@ PSB130	cioè quante persone tipo
 PSB091	allora in ucraina cosa bella
 PSB091	che n~ noi non facciamo per quante persone
 PSB091	noi le facciamo tanti li congeliamo quello che rimane si congela e si mangia
-PSB129	{ride}
-PSB005	{ride}
+PSB129	((ride))
+PSB005	((ride))
 PSB086	domani
 PSB086	meglio se [rimane]
 PSB128	[facciamo tutto]
@@ -218,7 +218,7 @@ PSB091	le quantità
 PSB086	spesso c'è un marito che vuole bis
 PSB091	[bis]?
 PSB086	[oppure u]na merenda
-PSB086	xxx {ride}
+PSB086	xxx ((ride))
 PSB130	giusto
 PSB129	anche da noi si [fa così veramente]
 PSB091	[(nado čutočku eščë)]
@@ -240,7 +240,7 @@ PSB091	dyvysja ne roblju tak davaj
 PSB130	quindi adesso ci >insegna< anche a chiuderli?
 PSB091	[eščë eščë eščë]
 PSB005	[>eh< secondo me noi principalmente li chiuderemo]
-PSB091	esatto {ride}
+PSB091	esatto ((ride))
 PSB091	forse
 PSB005	eh [no]
 PSB130	[non so se] apriranno fors~
@@ -277,13 +277,13 @@ PSB128	°lo stesso°
 PSB091	vai adesso,
 PSB127	c'è anche la ricetta con eh con lievito
 PSB127	c'è la ricetta però non eh non è tutti sono:
-PSB091	vedi {P} [ogni re]gione fa: [{P} suo]
+PSB091	vedi (.) [ogni re]gione fa: [(.) suo]
 PSB127	[eh xx]
 PSB127	[sì le sue i suoi]
 PSB127	r~ c'è anche con lievito giusto?
 PSB127	tipo quelli più grandi eh [a vapore]
 PSB086	[e:h eh vapore]
-PSB130	[eh {P}] però crescono
+PSB130	[eh (.)] però crescono
 PSB127	[sì]
 PSB086	[x x x x x] [e:h cos'è:] con amarena?
 PSB127	[sì di più]
@@ -331,15 +331,15 @@ PSB091	[sì]
 PSB091	[sì]
 PSB129	c'era aneto ovunque [cioè]
 PSB091	[sì]
-PSB129	qualsiasi piatto {ride} con [l'ane]to che a me [pia]ce tantissimo era buono però veramente
+PSB129	qualsiasi piatto ((ride)) con [l'ane]to che a me [pia]ce tantissimo era buono però veramente
 PSB091	[sì]
 PSB091	[sì]
 PSB130	eh io >son anda[ta< in svezia anche in svezia]
 PSB129	[onnipresente]
 PSB091	[vado io avanti]?
 PSB086	[ah sì]?
-PSB128	[dal {P}] dal
-PSB130	sì {P} [soprattutto col salmo]ne sempre [aneto]
+PSB128	[dal (.)] dal
+PSB130	sì (.) [soprattutto col salmo]ne sempre [aneto]
 PSB091	[vado io]?
 PSB091	[chočeš? na]
 PSB091	ne pytaju
@@ -350,7 +350,7 @@ PSB086	[xx] salmone
 PSB086	solo l'ane[to]
 PSB128	[xx]
 PSB128	xx
-PSB130	che l'aneto non è [una {P} cioè in italia non lo usa: più:]
+PSB130	che l'aneto non è [una (.) cioè in italia non lo usa: più:]
 PSB128	[xxxx]
 PSB130	basili[co, il prezzemolo],
 PSB091	xxxx
@@ -372,20 +372,20 @@ PSB091	sì sì a posto
 PSB128	ragazze non s~ [fa]
 PSB091	[non] [riesce con guanti tol~]
 PSB129	[io farei senza] [guanti]
-PSB005	[eh ma] [infatti {P} sì]
+PSB005	[eh ma] [infatti (.) sì]
 PSB128	[questo non è questi]
 PSB128	non è [questi]
 PSB091	[togli togli] togli
 PSB129	[ma sì]
 PSB128	[però]
-PSB128	le mani {P} sono puliti guardate
+PSB128	le mani (.) sono puliti guardate
 PSB129	ma
 PSB130	sì: sì sì
 PSB130	°non c'è problema°
-PSB005	figurati [sì ci mancherebbe] {ride}
+PSB005	figurati [sì ci mancherebbe] ((ride))
 PSB129	[ma infatti]
-PSB005	non avevo neanche capito perché {ride}
-PSB128	no [perché {P} quando si {P} no]
+PSB005	non avevo neanche capito perché ((ride))
+PSB128	no [perché (.) quando si (.) no]
 PSB091	[sì è eh è dif~ difficile a~ r~ lavorare]
 PSB128	[perché]
 PSB128	[per]ché
@@ -393,7 +393,7 @@ PSB128	per eh se eh prepariamo per
 PSB128	altri persone
 PSB128	eh tutto deve essere
 PSB091	[perfetto]
-PSB129	[certo {P} sì]
+PSB129	[certo (.) sì]
 PSB005	[sì sì]
 PSB091	noi che facciamo spesso le cene: di solidarietà
 PSB091	che quindi dobbiamo stare a mille o~ perché tu dai da mangiare alle pers[one capito quindi noi siamo sempre a mille occhi] capi[to]
@@ -419,7 +419,7 @@ PSB130	[ho fa~ ho fatto] una [volta la pas]ta,
 PSB091	[che non de~]
 PSB130	°basta ho sudato°
 PSB005	hai fatto la pasta una vol[ta]?
-PSB130	[sì] ma infatti dopo l'ho data al mio ragazzo che [poi si è perché io non ce la faccio] {ride}
+PSB130	[sì] ma infatti dopo l'ho data al mio ragazzo che [poi si è perché io non ce la faccio] ((ride))
 PSB091	[sì la pasta vostra più dura perché] è solo [uova e farina] quindi è dura dura
 PSB129	[solo uova]
 PSB036	ma poi l'hai tirata a mattarello?
@@ -437,9 +437,9 @@ PSB091	[non sanno fare]
 PSB128	[ja vam rozkažu ja vam rozkažu odnu bajku]
 PSB086	[non sanno niente sì]
 PSB086	perché fa [la mamma perché fa marito],
-PSB091	[in italiano {P} in italiano]
-PSB128	[no {P} no scusa]
-PSB005	[NO NO NO NO {P} NO FIGURATI NO NO NO NO]
+PSB091	[in italiano (.) in italiano]
+PSB128	[no (.) no scusa]
+PSB005	[NO NO NO NO (.) NO FIGURATI NO NO NO NO]
 PSB130	[NO NO NO]
 PSB005	parlate come [volete]
 PSB091	[io tradu~] traduco
@@ -466,7 +466,7 @@ PSB128	non c'era nessuno °a casa allora°
 PSB005	mhmh
 PSB128	posso fare quello che [voglio]
 PSB005	[mhmh]
-PSB005	finalmente {ride}
+PSB005	finalmente ((ride))
 PSB129	come la voglio io
 PSB129	esatto
 PSB005	[ah io se]
@@ -478,21 +478,21 @@ PSB128	<non ho capito>
 PSB128	perché cosa non dovevate dare
 PSB128	<dare fare a me>
 PSB128	ma <semplice>
-PSB128	ma perché viene sempre qualche discorso {P} <ma che cosa serve>?
-PSB005	{ride}
+PSB128	ma perché viene sempre qualche discorso (.) <ma che cosa serve>?
+PSB005	((ride))
 PSB128	ma da:i
-PSB128	ho {P} preparato la polenta prima volta,
+PSB128	ho (.) preparato la polenta prima volta,
 PSB128	a trenta anni
-PSB005	{ride}
+PSB005	((ride))
 PSB005	io sono stata sabato, domenica, lunedì e martedì a casa dei miei nonni questo weekend
 PSB005	quan~ martedì ero così
-PSB129	{ride}
+PSB129	((ride))
 PSB129	no io invece ho
 PSB129	per f~ cioè
 PSB129	per fortuna o per sfortuna non lo so non ho mai avuto nonne, a nessuna delle mie nonne piaceva cucinare
 PSB129	quind[i]
 PSB091	[credo] che è a posto
-PSB129	loro non erano molto:: [{P} cioè hanno sempre delegato molto in cucina]
+PSB129	loro non erano molto:: [(.) cioè hanno sempre delegato molto in cucina]
 PSB128	[chočeš šče, či ne treba? tomu ščo nu bažano čut' čut' ščob vono vse]
 PSB005	[okay ah no]
 PSB036	bellino il mattarello blu
@@ -512,16 +512,16 @@ PSB005	proviamo
 PSB091	°provate°
 PSB005	io
 PSB005	ques~ quando io ho iniziato questa cosa qua~ la prima volta che io mi sono tolta gli anelli per impastare,
-PSB005	ho sentito la vecchi~ la vecchiaia {ride}
+PSB005	ho sentito la vecchi~ la vecchiaia ((ride))
 PSB129	è co~
-PSB129	è c~ {P} come la nonna
-PSB005	[sì {P} sì]
+PSB129	è c~ (.) come la nonna
+PSB005	[sì (.) sì]
 PSB129	[che li toglieva sì]
-PSB005	cioè la la frase {P} mi mi togli un attimo che {ride}
+PSB005	cioè la la frase (.) mi mi togli un attimo che ((ride))
 PSB005	eh perché non è
 PSB005	morbida
 PSB005	abbastanza
-PSB128	perciò {P} uova quando si [fa senz]a uova
+PSB128	perciò (.) uova quando si [fa senz]a uova
 PSB005	[EH]
 PSB128	un po' diverso
 PSB005	è più morbido?
@@ -552,26 +552,26 @@ PSB128	COME NONNI BRA[VA]
 PSB129	[PERCHÉ LA MIA NONNA ERA ROMAGNO:LA]
 PSB091	[SICURA DI ESSERE XXX]?
 PSB128	[sì sì] sì
-PSB128	{ride} si vede si vede
+PSB128	((ride)) si vede si vede
 PSB129	la mia nonna era romagnola sì
 PSB005	davvero?
 PSB129	sì
 PSB005	ah quindi sei rientrata [in]
-PSB129	[sono] {P} solo solo mia nonna però di [tutta:] la mia [famiglia]
+PSB129	[sono] (.) solo solo mia nonna però di [tutta:] la mia [famiglia]
 PSB005	[okay]
 PSB005	[ma di di] del mare o de[lla]
 PSB129	[di cattolica del mare]
 PSB091	[NEL] FRATTEMPO CHE VOI AVETE FATTO L'IMPASTO IO HO PREPARATO RIPIENO >GUARDA COME SON BRAVA<
 PSB005	[PER] MAGIA
 PSB091	VISTO?
-PSB005	{ride} È USCITO
+PSB005	((ride)) È USCITO
 PSB091	purè di patate,
 PSB036	ah ah
 PSB005	sì
 PSB091	con soffritto un po' di cipolla,
 PSB005	mhmh
 PSB091	e il pepe
-PSB091	sale {P} ba[sta]
+PSB091	sale (.) ba[sta]
 PSB129	[okay]
 PSB091	c'è chi mette aneto prezzemolo io non ho messo perché magari a:d alcuni non piace no?
 PSB005	ma il purè con cosa lo fai col latte?
@@ -615,7 +615,7 @@ PSB005	sì
 PSB005	°facciamo così°
 PSB091	poi mentre
 PSB091	tira la sfoglia,
-PSB091	io comincio preparare già il condimento {P} [così]
+PSB091	io comincio preparare già il condimento (.) [così]
 PSB130	[giusto]
 PSB091	[andiamo avanti]
 PSB005	[okay]
@@ -629,7 +629,7 @@ PSB129	sì [eh]
 PSB036	[eh sì]
 PSB005	okay
 PSB091	perché adesso
-PSB005	[sì {P} e]
+PSB005	[sì (.) e]
 PSB091	[avrete da fare]
 PSB005	perché adesso li chiudi[amo]
 PSB091	[sì]
@@ -670,11 +670,11 @@ PSB005	[ah quindi si tira voglio] vederla lo spessore perché
 PSB005	è importante
 PSB129	è un po' più spessa di [come la °facciamo noi°]
 PSB091	[sì facciamo un po' più spessa perché dopo quando mettiamo]
-PSB005	[la pasta {P} bisogna tirarla molto] sì
+PSB005	[la pasta (.) bisogna tirarla molto] sì
 PSB036	[x x x x]
 PSB129	io >mi ricordo< m~ mia: mia nonna diceva che ci devi leggere il giorna[le]
-PSB005	[no] devi guard~ devi veder san luca [si dice] {ride}
-PSB129	[eh] {ride}
+PSB005	[no] devi guard~ devi veder san luca [si dice] ((ride))
+PSB129	[eh] ((ride))
 PSB091	cosa devi?
 PSB129	[sì però da] cattolica non si vedeva san [luca]
 PSB005	[cioè] attraverso la pasta dei [tortellini devi] veder san luca
@@ -691,42 +691,42 @@ PSB005	[sì eh sì]
 PSB091	[dopo capirete perché] noi facciamo
 PSB130	[sì però:]
 PSB130	solo per chi è davvero bravo
-PSB129	{ride}
+PSB129	((ride))
 PSB005	sì ma infatti abbiamo la mac[chinetta]
 PSB130	[>io ho fatto<] i tortellini a pasta [grossa]
 PSB005	[usiamo la ma]cchinetta non m:h
-PSB091	per chiu~ per chiudere come {P} la macchinett[a]?
-PSB005	[no] no per [stenderla {P} >no] no per chiudere no<
+PSB091	per chiu~ per chiudere come (.) la macchinett[a]?
+PSB005	[no] no per [stenderla (.) >no] no per chiudere no<
 PSB091	[A:H per s~]
 PSB091	mamma [mia]
 PSB005	[chiu]dere [io li so chiudere]
 PSB086	[per stendere la] macchinetta racconta?
-PSB005	no per stenderla {P} ab[biamo una macchinetta],
-PSB086	[sì {P} ah quelle che: sì sì sì che]
+PSB005	no per stenderla (.) ab[biamo una macchinetta],
+PSB086	[sì (.) ah quelle che: sì sì sì che]
 PSB005	[sì]
 PSB130	[che la fa:]
 PSB005	[sì]
-PSB086	[pa]ssi ripassì [sì {P} ma anche] lì c'è e:h
+PSB086	[pa]ssi ripassì [sì (.) ma anche] lì c'è e:h
 PSB005	[esatto]
 PSB129	c'è [la:]
 PSB036	[c'è la: (cosa)]
 PSB086	[due tre da re~] [regolare sì]?
-PSB005	[sì sì] {P} [sì]
+PSB005	[sì sì] (.) [sì]
 PSB086	[sì]
 PSB129	[sì]
-PSB005	i rulli sono [più vicini], {P} no? o più lontani?
+PSB005	i rulli sono [più vicini], (.) no? o più lontani?
 PSB086	[i rulli sì sì sì]
 PSB005	eh okay
-PSB086	per le lasagne usano [{P} pasta fresca sì]
+PSB086	per le lasagne usano [(.) pasta fresca sì]
 PSB005	[sì per tutto sì sì] sì sì
 PSB091	[prendete rip]ieno,
 PSB005	[allora]
-PSB127	sì, {P} dove?
+PSB127	sì, (.) dove?
 PSB128	(pro[va)]
 PSB130	e[::hm]
 PSB091	[sopra]
 PSB127	ah okay,
-PSB129	que[sto] qualcuno l'ha già pulito? {P} no
+PSB129	que[sto] qualcuno l'ha già pulito? (.) no
 PSB127	[sì],
 PSB127	nam malen'ki ložečky najty da?
 PSB036	faccio io?
@@ -741,7 +741,7 @@ PSB036	eh esa[tto]
 PSB128	[può esse]re anche un po' di [più]
 PSB091	[sì °an]che°
 PSB091	ah
-PSB086	il tavolo con [la {P} da] pulire?
+PSB086	il tavolo con [la (.) da] pulire?
 PSB036	[per e:h]
 PSB036	[c'è un disin~]
 PSB091	[pulia]mo sì sì
@@ -749,7 +749,7 @@ PSB036	c'è un disinfettante un e:h
 PSB091	guarda io ho disinfettato prima stracci xx con candeggina
 PSB128	xxx
 PSB036	ah va bene okay xxx candeg[gina]
-PSB127	[faccio: faccio un po' di foto {P} per la memoria]
+PSB127	[faccio: faccio un po' di foto (.) per la memoria]
 PSB091	[sì:] sì sì sì
 PSB128	[per chi]?
 PSB130	[x x x] x x
@@ -758,7 +758,7 @@ PSB129	per per ricordarci
 PSB005	okay
 PSB091	io metterei anche un altro po' di più così
 PSB005	ah [tanto]?
-PSB091	[perché noi possia~] perché noi [possiamo ritirare {P} sì]
+PSB091	[perché noi possia~] perché noi [possiamo ritirare (.) sì]
 PSB129	[poi si allarga okay]
 PSB005	allora adesso [guardo]
 PSB091	[fai co]sì:
@@ -785,26 +785,26 @@ PSB091	lì dobbiamo stare attenti
 PSB127	l'impasto è abbastanza elasti[cizzato]?
 PSB130	[scusate] che non riesco [qua]
 PSB091	[sì]::
-PSB130	e là {P} sto facendo
-PSB005	così {P} giusto?
+PSB130	e là (.) sto facendo
+PSB005	così (.) giusto?
 PSB091	sì
 PSB091	xx
 PSB091	devi [proprio]
 PSB130	[okay adesso mi sono capita]
-PSB005	[schiacciare molto] {P} [molto di più sì]
+PSB005	[schiacciare molto] (.) [molto di più sì]
 PSB091	°[premi premi premi] sì bene°
 PSB005	okay
 PSB091	fa così
 PSB127	due tr[e volte giusto]?
 PSB091	[maledetti ru]ssi maledetti russi
-PSB005	{ride}
-PSB127	{ride}
-PSB129	{ride}
+PSB005	((ride))
+PSB127	((ride))
+PSB129	((ride))
 PSB129	va bene? ognuno maledica chi vuo[le]
 PSB130	[ognuno] ma~ [esatto]
 PSB129	[sceglie]te in li[bertà]
 PSB091	[un eh] motivo per essere cattivi
-PSB129	scegliete il vostro {ride} target di maledizione
+PSB129	scegliete il vostro ((ride)) target di maledizione
 PSB005	sì infatti] eh vai
 PSB036	[provo a chiuderne uno anch'io]?
 PSB129	[vai
@@ -835,13 +835,13 @@ PSB127	cer[to]
 PSB130	[po]sso?
 PSB091	faccio
 PSB130	così va bene?
-PSB091	guarda io per {P} fai la pallina almeno non ti esce capito non ti esc[e:]
+PSB091	guarda io per (.) fai la pallina almeno non ti esce capito non ti esc[e:]
 PSB036	[°carino°]
 PSB005	molto
 PSB129	passatemi un po' [di]
-PSB005	[così] ma {P} voi guarda come è bello questo
+PSB005	[così] ma (.) voi guarda come è bello questo
 PSB005	guarda che brutto il mio
-PSB005	{ride}
+PSB005	((ride))
 PSB091	allora io ti:
 PSB091	consiglio di mettere un [altro po' di ripie]no
 PSB036	[esatto]
@@ -849,7 +849,7 @@ PSB086	un po' di fa[rina] che così non [si attacca]
 PSB005	[EH]
 PSB005	[e:h c'a]bbiamo metà:
 PSB005	pasta per stenderla di là?
-PSB091	per [{P} sì]
+PSB091	per [(.) sì]
 PSB005	[o:] questa è tutta no?
 PSB036	[no]
 PSB091	[no no]
@@ -887,7 +887,7 @@ PSB086	hai trattato bene sta xxx
 PSB129	grazie
 PSB005	allora oggi ti dico cosa ho pranzato [ho:]
 PSB086	[xxx] (la forza?)
-PSB005	ora ti dico cosa ho pranzato oggi ho mangiato il [panettone che] aveva portato che è: {P} xxx [lei]
+PSB005	ora ti dico cosa ho pranzato oggi ho mangiato il [panettone che] aveva portato che è: (.) xxx [lei]
 PSB128	[è una altra vo~]
 PSB128	[è altro faccio quattro]
 PSB129	[sì ti]po
@@ -901,8 +901,8 @@ PSB130	[che be]llo
 PSB005	ma tuo figlio come va?
 PSB005	la scuola?
 PSB086	eh dai
-PSB086	combina {P} qualcosina,
-PSB005	{ride} [no come qualco]sina
+PSB086	combina (.) qualcosina,
+PSB005	((ride)) [no come qualco]sina
 PSB130	[allora]
 PSB091	°xxxxx°
 PSB127	è un piacere lavorare con impasto gius[to]?
@@ -921,17 +921,17 @@ PSB128	tutto che avete messo dentro,
 PSB130	sì:
 PSB128	perché adesso
 PSB128	fanno tutto per morire
-PSB129	no ma poi è bello <cucinare> dà s~ cioè è proprio più soddisfacente quando mangi una cosa {P} che hai fatto tu
+PSB129	no ma poi è bello <cucinare> dà s~ cioè è proprio più soddisfacente quando mangi una cosa (.) che hai fatto tu
 PSB128	ah la polenta?
-PSB036	{ride}
-PSB129	eh una sì: qualsiasi cosa dici ah l'ho fa~ cioè {P} l'ho fatta io capito so:
+PSB036	((ride))
+PSB129	eh una sì: qualsiasi cosa dici ah l'ho fa~ cioè (.) l'ho fatta io capito so:
 PSB129	tutti i pass[aggi],
 PSB091	[qua tro]ppo poco ripieno tro~
 PSB130	io prima ne avevo messo troppo
 PSB091	messo [troppo? ah okay]
 PSB130	[adesso è uscito un po']
 PSB091	tanto dopo uno prende mano
-PSB130	okay {ride}
+PSB130	okay ((ride))
 PSB086	°si è spaccata:°
 PSB086	guardo nell'armadio di mio figlio
 PSB036	vedia[mo se]
@@ -953,7 +953,7 @@ PSB091	[se] se avete troppo se voi vi sentite che c'è troppo ripieno togliete
 PSB036	togl~ certo
 PSB091	sì
 PSB086	aveva difficoltà
-PSB129	e questi si mangiano in un'occasione particolare o sempre? o {P} [scusa]
+PSB129	e questi si mangiano in un'occasione particolare o sempre? o (.) [scusa]
 PSB130	[scusa]
 PSB091	guarda[te se vi dico una cosa],
 PSB128	[no sempre]
@@ -962,24 +962,24 @@ PSB128	[sempre]
 PSB091	[che non che non] crederete alcuni mangiano anche per colazio[ne]
 PSB129	[per] colazion[e]?
 PSB130	[ma] io mang~ li mangerei [a col~]
-PSB128	[io {P} ma sa~ sapete che cosa fanno]?
+PSB128	[io (.) ma sa~ sapete che cosa fanno]?
 PSB036	[buo~ buoni scusate raga io]
 PSB130	[perché >se]condo me< sono energe[tici]
-PSB128	[per {P} e]:mh
-PSB128	no da qualche parte anche eh io aggiungo perché {P} eh [perché] per m:h
+PSB128	[per (.) e]:mh
+PSB128	no da qualche parte anche eh io aggiungo perché (.) eh [perché] per m:h
 PSB091	[vai vai]
 PSB128	colazione,
 PSB128	si può mettere e:h nella padella con un po' di burro con [un po' di] eh lardo
 PSB129	[sì]?
 PSB036	[mhmh]
 PSB128	e::h
-PSB129	friggere? [{P} sì]
+PSB129	friggere? [(.) sì]
 PSB128	[sì fri~] friggere
 PSB128	e diventa
 PSB129	buonissimo
 PSB091	mamma mia mi fai
 PSB036	colazione col ladro:: inter[essan~]
-PSB129	[vabbè alla fine è un french toast {P} cioè solo un po' più::]
+PSB129	[vabbè alla fine è un french toast (.) cioè solo un po' più::]
 PSB091	[lo so che per voi è:]
 PSB036	[french toast un po' più]
 PSB130	[no io preferisco salato a colazione]
@@ -991,9 +991,9 @@ PSB130	[cioè magari mangiare l'uov]o: mangiare
 PSB091	mio marito è italiano no eh lui prime volte che veniva in ucraina aveva gli occhi quadrati capito quando noi si mettevamo a mangiare tipo salame a colazione no
 PSB130	no: [buoni]
 PSB091	[>lui diceva< ma come f~]
-PSB091	ad~ adesso {P} [normale]
+PSB091	ad~ adesso (.) [normale]
 PSB129	[ha per]so ogni rit[egno ne~]
-PSB091	[sì adesso {P}] però primi
+PSB091	[sì adesso (.)] però primi
 PSB091	prime vo[lte]
 PSB129	[è quasi] venuto forse?
 PSB129	più o [meno]
@@ -1008,12 +1008,12 @@ PSB091	[brava]
 PSB129	giusto?
 PSB128	sì
 PSB130	adesso ci provo anch'io
-PSB127	c'è c'è le famiglie chi: lavorano tanto soprattutto a: a terra perciò loro mangiano [{P} più] pesante [e:h]
+PSB127	c'è c'è le famiglie chi: lavorano tanto soprattutto a: a terra perciò loro mangiano [(.) più] pesante [e:h]
 PSB130	[sì:]
 PSB036	[certo]
 PSB091	[sì]
 PSB130	certo sì [sì sì]
-PSB128	[ma] {P} una cosa
+PSB128	[ma] (.) una cosa
 PSB128	c'era giusta dalla $istoria
 PSB128	nostra
 PSB128	almeno
@@ -1022,11 +1022,11 @@ PSB128	e poi dopo una cosa giusta per il salute perché e:h
 PSB128	riesce uscire
 PSB128	perché è: stimola il f~ fegato [che cosa]
 PSB036	[fegato]?
-PSB129	sì sì [sì tipo le {P} le proteine, i grassi, sì sì sì]
+PSB129	sì sì [sì tipo le (.) le proteine, i grassi, sì sì sì]
 PSB128	[dal lardo]
 PSB091	[roba grassa]
 PSB128	[roba grassa]
-PSB128	ecco per stimolare e:h [il eh {P} $felice]
+PSB128	ecco per stimolare e:h [il eh (.) $felice]
 PSB091	[però li fai belli capito]?
 PSB091	okay
 PSB128	come si chia~ mh come si dice
@@ -1035,7 +1035,7 @@ PSB128	no [eh i] $felici dove c'è il e:h succo di $felice
 PSB129	[no]
 PSB129	[AH]
 PSB086	[bile]
-PSB128	[$FEL]ICA f~ {P} [come si chia]ma
+PSB128	[$FEL]ICA f~ (.) [come si chia]ma
 PSB086	[bile]
 PSB086	[žovčnyj]
 PSB128	[žovč]
@@ -1052,13 +1052,13 @@ PSB129	il fegato sì il fegato proprio
 PSB128	sotto il e:h [fegato c'è e:h]
 PSB036	[cistifellea]
 PSB129	[la ci]stifellea
-PSB036	{ride}
+PSB036	((ride))
 PSB129	grande
 PSB128	co~ colicistite quando [è grande]
 PSB129	[A::H]
 PSB128	per non venire colicistite è è questo si:
 PSB129	o[kay]
-PSB128	[megli]o mangiare {P} alla mattina
+PSB128	[megli]o mangiare (.) alla mattina
 PSB128	ma da nostra paese
 PSB128	vecchi vecchi mh anni
 PSB128	tanti anni fa
@@ -1068,11 +1068,11 @@ PSB130	non so [se l'ho fatto io]
 PSB128	[sì per mas~ e:h]
 PSB130	[forse] no [forse non]
 PSB086	[chef chef]
-PSB129	[per {P}] purificare
+PSB129	[per (.)] purificare
 PSB129	[sì sì sì]
 PSB086	[questo e questo questo xxx eh]
 PSB129	[bene la prossima volta] alla mia nutrizionista le dico
-PSB129	devo mangiare {P} le cose [{P} il] french toast la matti[na perché stimola la cistifellea]
+PSB129	devo mangiare (.) le cose [(.) il] french toast la matti[na perché stimola la cistifellea]
 PSB005	[come va]?
 PSB091	[poi in ucrai~ guarda adesso le cose sono] cambiate anche in ucraina però in
 PSB091	tanti anni fa in ucraina an~ antica no? quando vedevano donna magra dicevano che non [sta bene quindi] donne vuole essere per[ché loro lavo]rare sui campi capito
@@ -1081,7 +1081,7 @@ PSB129	[sì:]
 PSB036	eh certo
 PSB129	avere il latte a[nche per i bambini sì]
 PSB130	[ma infatti anche adesso cioè tendenzialmente]
-PSB130	quelle persone non stan bene [solo che {P} a]bbiamo sta ossessione
+PSB130	quelle persone non stan bene [solo che (.) a]bbiamo sta ossessione
 PSB129	[infatti sì]
 PSB036	e per >con che< condimento si fanno questi di solito?
 PSB036	con che condimento si fanno questi?
@@ -1089,9 +1089,9 @@ PSB036	che: sugo?
 PSB128	sul sugo?
 PSB036	eh
 PSB128	eh non lo so fa
-PSB036	ah {ride}
+PSB036	ah ((ride))
 PSB130	ma di solito? si [mangiano solo così o no]?
-PSB128	[A:H {P} NO:]
+PSB128	[A:H (.) NO:]
 PSB036	tanti suppongo
 ???	scusate devo guardare una [cosa]
 PSB036	[ah] sì sì [prego pre~]
@@ -1114,10 +1114,10 @@ PSB130	ah tipo:: pancetta queste cose [qua]
 PSB128	[sì] sì sì sì
 PSB128	con cipolla,
 PSB128	si fa passare
-PSB091	[adesso lavora solo] fino {P} là
+PSB091	[adesso lavora solo] fino (.) là
 PSB128	[si mette sopra]
 PSB005	ma e perché il mattarello è corto
-PSB128	e basta {ride}
+PSB128	e basta ((ride))
 PSB036	basta così de~
 PSB128	perché non [è dolce]
 PSB091	[vai guarda vai sia di là che di qua ti faccio vedere]
@@ -1148,23 +1148,23 @@ PSB005	(tiro:) ancora?
 PSB091	sì
 PSB129	ma dopo arriva anche qualcun altro a mangiare?
 PSB086	perché?
-PSB129	{ride} un po' tanti {ride}
+PSB129	((ride)) un po' tanti ((ride))
 PSB127	per tutta l'università
 PSB129	esatto abbiamo un po' forse esagerato con le dosi
 PSB130	vabbè io mangio
 PSB130	io adesso ho fame
 PSB129	li porto al mio ragazzo a casa non aspetta altro
 PSB091	sì fanno che mangi tre [e poi sei]
-PSB086	[sì {P} sì] {P} che mi ricorda la la mia [zia faceva:] xx che metti:
+PSB086	[sì (.) sì] (.) che mi ricorda la la mia [zia faceva:] xx che metti:
 PSB091	[soprattutto le nonne facevano]
 PSB128	gra[ssi]
 PSB086	[nel] brodo eh questa qua
 PSB129	sì sì sì
 PSB128	ho pensato che tu vuoi preparare [per queste persone che: sta]nno sedute su
 PSB086	[magari tu lavori tutta la mattina],
-PSB005	di là: {ride}
-PSB127	{ride}
-PSB128	{ride}
+PSB005	di là: ((ride))
+PSB127	((ride))
+PSB128	((ride))
 PSB129	a::h
 PSB005	tanto questo non [xxx eh]
 PSB128	[ma da::i]
@@ -1211,17 +1211,17 @@ PSB091	no no [non mi piace no no]
 PSB128	[no]?
 PSB128	[non ti piace]
 PSB091	vai
-PSB129	bocciata {P} proposta
+PSB129	bocciata (.) proposta
 PSB086	abbiamo iniziato a rondelle [quindi] siamo corretti quelli a zig zag
 PSB129	[sì]
 PSB086	triangolo,
-PSB091	l'impasto {P} qua
+PSB091	l'impasto (.) qua
 PSB005	ah niente quindi ci siam trasfe[riti qua]
 PSB091	[QUA],
 PSB091	qualcun altro viene tirare la sfo[glia chi voglia]
 PSB005	[ah va bene]
 PSB129	vai tiro io
-PSB005	eh {P} dai
+PSB005	eh (.) dai
 PSB005	allora prendo questo
 PSB005	allora io riempio?
 PSB091	dove hai messo sacchettino con la spazza[tura]?
@@ -1237,9 +1237,9 @@ PSB005	[cioè così è troppo]
 PSB129	[ti]raggio sfoglia
 PSB036	vediamo le origini roma[gnole]
 PSB129	[le or]igini ma questa però non vale come origine romagnola perché qua c'è l'a:cqua
-PSB036	{ride}
+PSB036	((ride))
 PSB129	tutto diverso
-PSB129	non è di se[mola, {P} sc]use
+PSB129	non è di se[mola, (.) sc]use
 PSB036	[scuse scuse]
 PSB005	°sì sì certo°
 PSB130	se vuoi il cambio: io: ci sono ma non garantisco
@@ -1248,14 +1248,14 @@ PSB130	anzi no ho già male alle braccia
 PSB129	ma in realtà
 PSB129	mia nonn~ cioè io anche a casa quando faccio la sfoglia dei tortellini ho un mattarello tipo largo così
 PSB129	perché[:]
-PSB130	[fai] {P} fai più [forza]
+PSB130	[fai] (.) fai più [forza]
 PSB129	[fa più forza]
-PSB036	[devo prendere per fare la] {P} cucina
+PSB036	[devo prendere per fare la] (.) cucina
 PSB130	[eh sì esatto]
-PSB005	ah eh {P} ah così
+PSB005	ah eh (.) ah così
 PSB129	<bene>
 PSB129	comunque devi venire anche te a questa cosa di programmazione che facciamo:
-PSB129	[stamattina a que]lla dove e:h {P} c'era anche stamattina
+PSB129	[stamattina a que]lla dove e:h (.) c'era anche stamattina
 PSB036	[a:h okay okay]
 PSB129	facciamo robe di:
 PSB129	dati così
@@ -1265,7 +1265,7 @@ PSB129	di solito il venerdì sì ora da g[ennaio dobbiamo scegliere una nuova] d
 PSB005	[si secca subito perché è molto sottile]
 PSB005	[quindi] ci vuole un[o]
 PSB129	[e: però:]
-PSB005	[che metta] il ripieno [e in {P} subito]
+PSB005	[che metta] il ripieno [e in (.) subito]
 PSB130	[ma posso o è una cosa del lilec]?
 PSB129	[certo]
 PSB129	[no no no puoi è aperto a tutti]
@@ -1288,7 +1288,7 @@ PSB129	e:h no comunque sì sì può ve[nire:]
 PSB130	[bionda con con gli]
 PSB129	[bionda sì]
 PSB130	[riccia]?
-PSB086	[e dobbiamo fare {P} qualche] {P} giro,
+PSB086	[e dobbiamo fare (.) qualche] (.) giro,
 PSB129	[m:h no],
 PSB005	e:h ci vuole un [sacco sì]
 PSB129	[però] la: la conosce
@@ -1297,16 +1297,16 @@ PSB005	[sì] ci vuol tanto sì
 PSB005	ma infatti io non li faccio
 PSB130	vabbè [comunque ci vengo volentieri]
 PSB129	[eh comunque sì sì sì eh cioè]
-PSB005	[dubito perché e:h {P} la tiri molto]
+PSB005	[dubito perché e:h (.) la tiri molto]
 PSB129	[cioè te lo dico senza ma perché può essere] un'occasione [anche per]
 PSB130	[ma assolutamente anche perché adesso sto iniziando a fare diciamo gli esperimenti] computaz[ionali]
-PSB005	[ed è solo uova e farina {P} non c'è altro]
+PSB005	[ed è solo uova e farina (.) non c'è altro]
 PSB005	[quindi la tiri molto è molto sottile e si secca subito]
 PSB129	[anche per lavorare insieme a qualcun] [altro:]
 PSB130	[quindi:::]
 PSB130	[esatto]
-PSB129	è divertente {P} >ah insomma<
-PSB129	cioè limitatamente a quanto può essere divertente programmare no io mi diverto molto {ride}
+PSB129	è divertente (.) >ah insomma<
+PSB129	cioè limitatamente a quanto può essere divertente programmare no io mi diverto molto ((ride))
 PSB086	io ho fatto
 PSB086	tante volte magari [xxxx]
 PSB036	[un'altra cosa],
@@ -1323,7 +1323,7 @@ PSB130	eh perché si restringe ogni:
 PSB130	[cioè]
 PSB091	[allora]
 PSB091	prendi ma[no brava e mettiamo un po' di farina] [qua],
-PSB129	[un po' di farina {P} vai]
+PSB129	[un po' di farina (.) vai]
 PSB036	[ci riprovo]
 PSB091	°vai° così,
 PSB091	brava,
@@ -1341,7 +1341,7 @@ PSB091	[sì: anche a casa mia si] fa
 PSB086	[e poi quello e:h]
 PSB129	è elastico
 PSB086	pasta bollita condisci [con eh burro] sì
-PSB130	[eh {P} esatto]
+PSB130	[eh (.) esatto]
 PSB127	sì
 PSB128	si può mettere xxxx
 PSB128	perché qua si può mettere [xxxx]
@@ -1351,14 +1351,14 @@ PSB036	no?
 PSB086	xx eh eh (colore) [e origano x x x non abbiamo]
 PSB130	[ma sai che io adesso sto pensando forse una volta ho fatto [una ri[cetta simile]
 PSB036	[no]?
-PSB086	adesso [secondo sì perché] moda eh dai [come {P} grandi che]f usano un rametto di rosmarino
+PSB086	adesso [secondo sì perché] moda eh dai [come (.) grandi che]f usano un rametto di rosmarino
 PSB036	[adesso sì però]
 PSB129	[qui c'è un] capello
 PSB005	[questo è troppo piccolo]
 PSB086	per fare [bello il piatto] però xxxx nessuno
 PSB129	[vabbè]
 PSB036	effettivamente: il rosmarino,
-PSB005	no ma la salvia no non pensa[vo che fosse: {P} mediterranea]
+PSB005	no ma la salvia no non pensa[vo che fosse: (.) mediterranea]
 PSB036	[eh pensavo anch'io pensavo fosse:]
 PSB086	[origano] origano neanche
 PSB127	anche timo
@@ -1372,7 +1372,7 @@ PSB127	ane[to]
 PSB086	[abbiamo l'ane~] sì
 PSB128	xx xx xx
 PSB005	beh la la s~ in effetti la menta non l'ammazza nessuno
-PSB005	io avevo una pianta di menta e cioè {P} è sopravvissuta a tutto
+PSB005	io avevo una pianta di menta e cioè (.) è sopravvissuta a tutto
 PSB005	tutto il clima tutti i climi [tutte le nevicate]
 PSB130	[che poi vedevo che tipo la] appiccicavano un po' così
 PSB086	[xx xx xx]
@@ -1382,7 +1382,7 @@ PSB127	xxxxx
 PSB127	usiamo tanto
 PSB086	ah anche quello sì
 PSB127	xx [xx]
-PSB130	ma io son qua ad osservarti ma perché è molto bello {ride}
+PSB130	ma io son qua ad osservarti ma perché è molto bello ((ride))
 PSB129	se vuoi ti do
 PSB129	ti:
 PSB129	ti lascio la scelta
@@ -1391,20 +1391,20 @@ PSB129	a me piace
 PSB130	vai vai fai fai che io:
 PSB130	mi stavo prendendo bene con la figura
 PSB129	eh ma ora
-PSB130	adesso ci ci siamo comunque fra un po' eh {P} cioè un'altra passatina magari ma
+PSB130	adesso ci ci siamo comunque fra un po' eh (.) cioè un'altra passatina magari ma
 PSB129	ho bisogno di una consu[lenza]
-PSB091	[arrivo] {P} arrivo
+PSB091	[arrivo] (.) arrivo
 PSB036	sono pessimo eh
 PSB036	no: a:h rompo tutto
 PSB091	bravi
 PSB005	vuoi far cam~ se vuoi far cambio xx
 PSB091	allora qua un pochino bordicino
-PSB091	madonna {P} °siete bravissi~°
+PSB091	madonna (.) °siete bravissi~°
 PSB129	va bene?
 PSB091	benissimo un pochino qua,
 PSB128	se vuoi raffreddore
 PSB091	°raffreddore°
-PSB129	inverno {ride}
+PSB129	inverno ((ride))
 PSB086	quando terminiamo con questo capolavoro facciamo una fo~ foto unica?
 PSB091	certo
 PSB086	un ricordo con [tutti]
@@ -1416,16 +1416,16 @@ PSB091	poi se vi è piaciuto di fare ravioli se magari volete fare qualcos'altro
 PSB129	quando vole[te:]
 PSB130	[perché no? volentieri]
 PSB091	[sì]?
-PSB129	sì: a me piace tantissimo {P} cucinare e imparare
+PSB129	sì: a me piace tantissimo (.) cucinare e imparare
 PSB129	cucine: [diverse piatti diversi]
 PSB091	[a me non a me non mi piace cucina]re mamma mia odio
 PSB129	però non sembra
-PSB129	cioè {ride}
+PSB129	cioè ((ride))
 PSB130	sei molto [brava in realtà]
 PSB129	[siete molto bra]ve sì infatti
 PSB091	direi i miei tempi [no]
 PSB086	[hai] spiegato il motivo perché se non era brava non sposava nessuno eh
-PSB129	{ride}
+PSB129	((ride))
 PSB091	sì infatti i tempi nostri
 PSB091	>la nonna sempre diceva< tu devi de~ saper tirare la fo~ la sfoglia devi saper fare questo se no non ti sposa nessuno
 PSB129	lo so lo so
@@ -1442,7 +1442,7 @@ PSB129	[tagliamo]
 PSB091	[sì]
 PSB086	[perché] abbiamo spiegato perché [x x x x]
 PSB091	[facciamo un vi fa vedere come si fa] [col coltello] che voleva:
-PSB005	ah no: {ride}
+PSB005	ah no: ((ride))
 PSB129	sì
 PSB086	[xxxxx] non l'hai mai sentito il discorso
 PSB005	no
@@ -1455,10 +1455,10 @@ PSB091	[mica prescritto il dottore che dovresti xxx]
 PSB128	[ma niente di che]
 PSB086	(fa) male [x senti (a disagio)] di certo xx negata
 PSB129	[va bene? lo spessore]?
-PSB128	{ride} non lo s~ non sono [l'esp~]
-PSB086	[io a ca]sa non [cucino xx mio marito] {P} tranquilla[mente]
-PSB129	[l'esper~? {P} andrà bene]
-PSB130	[va]bbè: am[en {P} al massimo vengono un po' più: spessi]
+PSB128	((ride)) non lo s~ non sono [l'esp~]
+PSB086	[io a ca]sa non [cucino xx mio marito] (.) tranquilla[mente]
+PSB129	[l'esper~? (.) andrà bene]
+PSB130	[va]bbè: am[en (.) al massimo vengono un po' più: spessi]
 PSB086	[ah sì sì cucino io lui cucino lei mangia insomma] [no]
 PSB005	[mh]mh
 PSB086	per me è una cosa un po' strana n[o]?
@@ -1470,7 +1470,7 @@ PSB005	[sì ma] è raro però
 PSB005	no non lo so nella mia impressione è abbastanza raro
 PSB086	ma eh eh poi:: ho detto che queste:
 PSB086	da noi una vuole non vuole per forza deve cavarsi in qualche modo se no non la sposa nessuno
-PSB127	{ride}
+PSB127	((ride))
 PSB091	ma lo sai che son cambiate ades[so: cos~]
 PSB086	[prima de li]
 PSB005	°ma sì°
@@ -1478,9 +1478,9 @@ PSB086	dici?
 PSB091	ma
 PSB086	mamma m[ia]
 PSB091	[ho] la figlia che non sa fare niente
-PSB005	{ride}
+PSB005	((ride))
 PSB086	ma dai con una mamma come te non sa fare [niente non è vero dai]
-PSB091	[no {P} e dice non]
+PSB091	[no (.) e dice non]
 PSB091	ti giuro mi dice non mi importa neanche mh mi importa
 PSB086	e ti
 PSB091	>e tuo ma~ tuo mari-< è sposata poi e dice tuo marito?
@@ -1541,19 +1541,19 @@ PSB091	perché una v~ una volta donne non lavoravano stavano a casa e cucinavano
 PSB127	da mattina fino a [sera]
 PSB129	[poi fai i riccioli anche] qui?
 PSB091	[sempre:]
-PSB091	al [fuoco ete]rno come diceva {ride} il fuoco eterno
+PSB091	al [fuoco ete]rno come diceva ((ride)) il fuoco eterno
 PSB128	[sì]
 PSB091	il fuoco era sempre acceso perché tu dovevi sempre cucinare
-PSB005	ma adesso mia nonna che ha ottanta: {P} cinque anni circa,
+PSB005	ma adesso mia nonna che ha ottanta: (.) cinque anni circa,
 PSB005	è in li~ lite costante con mio nonno,
 PSB005	che ne ha novanta
 PSB005	perché
 PSB005	improvvisamente, improvvisamente no negli ultimi vent'anni diciamo che però lei non si è ancora rassegna[ta]
 PSB127	[mh]
-PSB005	lui {P} c(io)è
+PSB005	lui (.) c(io)è
 PSB005	fa la spe~ [c(io)è] fa le decide che cosa si mangia, è in giro in casa, mette le cose nel eh nel fri[go lui],
 PSB129	[fa eh]
-PSB036	{ride}
+PSB036	((ride))
 PSB129	[c(io)è è in pensione]? [nel senso]
 PSB005	[sposta le cose, e ques]ta cosa mia nonna l'ha fatta impazzire,
 PSB005	perché prima decideva tutto lei no?
@@ -1573,9 +1573,9 @@ PSB130	[sì qua ne ho messo una #balocca gigante]
 PSB005	[sì]
 PSB005	[poi quando stavano meglio andavano anche in viaggi magari xxxx]
 PSB129	[una #balocca]?
-PSB130	{ride}
+PSB130	((ride))
 PSB129	[una #balocca non l'avevo mai sentito]
-PSB005	cioè {P} c'era più movimento da qual~
+PSB005	cioè (.) c'era più movimento da qual~
 PSB005	da dieci an[ni almeno sono sempre a ca]sa,
 PSB129	[una #balocca gigante]
 PSB005	perché non c(io)è
@@ -1586,7 +1586,7 @@ PSB130	[no::: eh io] son vene[ta::]
 PSB129	[e di dove sei? >ah non lo so io<]
 PSB129	[se~ scusa ora] mi è chiaro
 PSB005	[eh dieci anni fa]
-PSB129	da ora {ride}
+PSB129	da ora ((ride))
 PSB005	quindici [forse quindici sì]
 PSB130	[no ma dico perché]
 PSB130	c(io)è mi mi hai [stupita perché di solito tutti mi mi identificano subito dicono ma tu non sei] bolognese no
@@ -1594,7 +1594,7 @@ PSB005	[secondo me da quindici anni hanno cominciato a stare molto a casa]
 PSB129	[hai ragione]
 PSB086	[e si sono resi conto]
 PSB130	[no no io so]
-PSB130	m:h vicenza {P} [bassano del grappa]
+PSB130	m:h vicenza (.) [bassano del grappa]
 PSB005	[quindi xx x] [sì]
 PSB129	[ah okay]
 PSB086	[x x x x]
@@ -1602,14 +1602,14 @@ PSB129	[effettivamente dal cognome potevo] [arrivarci]
 PSB005	[sì sì] sì sì sì
 PSB129	c(io)è non era proprio un [cognome tipico]
 PSB005	[quindi mia nonna mi telefona] e piange: sì sì no gravissimo ma eh
-PSB130	{ride}
-PSB130	{ride}
+PSB130	((ride))
+PSB130	((ride))
 PSB086	[problemi del tipo]?
 PSB130	[no sì eh non sono] una veneta che mi sento proprio [e:h veneto come]
 PSB086	[spostato zucchero]?
 PSB005	[sì sì sì sì]
 PSB129	[no intendo] però [sai un sacco] di lessico bolo[gnese però]
-PSB130	[i veneti] {ride} [fatto]
+PSB130	[i veneti] ((ride)) [fatto]
 PSB036	[xx xx xx che sono andati entrambi in pensione e prima lavoravano] tutto il giorno [perciò si vedevano la se]ra e basta
 PSB128	[e quale eh piatto preferite]?
 PSB128	[in veneto]?
@@ -1621,7 +1621,7 @@ PSB036	[xxx ogni tanto a casa, quello che è a casa fa tutto che:]
 PSB130	[delle della zona diciamo che io em:h]
 PSB130	abito in pro~ cioè i miei ormai perché io non abito [più lì in provincia] di vicenza,
 PSB036	[terribile]
-PSB086	[xx xx] {ride}
+PSB086	[xx xx] ((ride))
 PSB130	va tanto [il baccalà alla vicentina]
 PSB036	[sì sì sì no perché poi cominciano a tirarmi dentro nelle loro cose xx] no
 PSB086	[°mhmh°]
@@ -1632,7 +1632,7 @@ PSB005	[cioè anche sei solo]?
 PSB130	[due tre giorni col latte e poi: è una cottura lenta]
 PSB005	[non hai fratelli]?
 PSB036	[no]
-PSB036	{ride}
+PSB036	((ride))
 PSB128	[con latte]?
 PSB086	a:h
 PSB036	no [son figlio unico]

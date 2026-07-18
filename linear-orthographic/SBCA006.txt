@@ -189,28 +189,28 @@ PSB126	è queste queste
 PSB126	non sappiamo ancora cosa succ~ cosa succede da qui fin
 PSB125	māmā hḍrī:: hḍrī 3ādi za3ma
 PSB126	eh ana kan ḥḍar 3ādi 3ādi
-PSB125	ma kat ḥaḍri-sh b-l-3arabiya bezzaf b-ṭalyāniyya bzzāf mn-i . kan kun ghir ana
+PSB125	ma kat ḥaḍri-sh b-l-3arabiya bezzaf b-ṭalyāniyya bzzāf mn-i (.) kan kun ghir ana
 PSB126	la ana kan ḥḍar ghīr b-ṭalyāniyya bzzāf
 PSB125	mh
 PSB126	_īwa huwa bnīt-i ma-bghīt-i-sh t-mshi ash-bghīt-i n-dīr lī-k
 PSB126	a me l'egitto
 PSB126	un'altra
-PSB126	inshāllāh . īla bghā llāḥ
+PSB126	inshāllāh (.) īla bghā llāḥ
 PSB126	li-anna t-qdar t-kūn lharb
 PSB125	vabbè
 PSB126	t-qdar t-kūn eh
 PSB125	in che senso scusa
 PSB126	guerra non sappiamo dicono così
 PSB126	dicono non sappiamo eh
-PSB126	ma3fnash wash bessah ula . ula ghir kdub ula ghir ki
+PSB126	ma3fnash wash bessah ula (.) ula ghir kdub ula ghir ki
 PSB126	ma 3rǝf-na-sh
 PSB126	w-mǝn tǝmma ihannīllāḥ
-PSB126	ana bghīt n-mshi m3ā-kum bghīt n-mshiw eh b-tlāta bī-na n-mshiw . inshāllāh l-maghrib . t-shūf-hu dār-kum . xxx fī-ha shwiya inshāllāh
+PSB126	ana bghīt n-mshi m3ā-kum bghīt n-mshiw eh b-tlāta bī-na n-mshiw (.) inshāllāh l-maghrib (.) t-shūf-hu dār-kum (.) xxx fī-ha shwiya inshāllāh
 PSB125	vabbè
 PSB126	eh sì īh lā ana ma ghan ghulsh li-kom tutti gli anni andiamo però īh lā
 PSB126	pure a īh due anni no
 PSB125	mh
-PSB126	īh w-ṣāfī . n-tmannāw mǝn llāḥ inshāllāh w . n- n-tmannāw mǝn llāḥ @lsaid ta-huwa y-zāwj . w-nti tanti zāwj-i inshāllāh mǝn t-kammli qirāy-tik īla kammalti-ha inshāllāh . w-t-xdmi
+PSB126	īh w-ṣāfī (.) n-tmannāw mǝn llāḥ inshāllāh w (.) n- n-tmannāw mǝn llāḥ @lsaid ta-huwa y-zāwj (.) w-nti tanti zāwj-i inshāllāh mǝn t-kammli qirāy-tik īla kammalti-ha inshāllāh (.) w-t-xdmi
 PSB126	dīrī ṭūmūbīl, dāwzī pīrmī dīrī ṭūmūbīl inshāllāh
 PSB125	kat hadri ma
 PSB126	mǝrra mǝrra dāba mǝnni zwǝjjat troppo impegnata mh
@@ -256,7 +256,7 @@ PSB125	inviti
 PSB126	è il ristorante non possiamo eh invitare tanta gente
 PSB126	è ristorante costa
 PSB126	eh non è come
-PSB126	_bḥāl l-3rǝs lli f-l-maghrib l-3rǝs lli kay-kūnu hnāya f-l-qā3a; nās kāmʿ-hā kat-ākul kat . qḍrī dī ṣḥāb-t-ek, qḍrī dī
+PSB126	_bḥāl l-3rǝs lli f-l-maghrib l-3rǝs lli kay-kūnu hnāya f-l-qā3a; nās kāmʿ-hā kat-ākul kat (.) qḍrī dī ṣḥāb-t-ek, qḍrī dī
 PSB126	amma l il ristorante costa alla persona
 PSB126	non p~ tu non puoi invitare più di venti uo~ venti venticinque persone
 PSB126	se no
@@ -471,7 +471,7 @@ PSB126	īh y-kūnu zwīnīn 3lāsh mā-l-hom
 PSB125	mah non lo so
 PSB126	@sara ma-bī-ha-sh
 PSB125	non lo so eh
-PSB126	@yussef ma-bi-h-sh . mh
+PSB126	@yussef ma-bi-h-sh (.) mh
 PSB125	con quelle con quei due nasoni
 PSB126	no xx no no no
 PSB125	allora già allora già tu~ tutta la fami~ allora no aspe~ aspe~
@@ -571,7 +571,7 @@ PSB126	stato
 PSB125	l'attestato
 PSB126	t-qādri t-xadmi bī-h
 PSB125	secondo te
-PSB126	kīma t-xdī-h bdāy . dfa3ī īla l-qīt l-xadma llāh y-sahhal 3lī-k
+PSB126	kīma t-xdī-h bdāy (.) dfa3ī īla l-qīt l-xadma llāh y-sahhal 3lī-k
 PSB125	vabbè ma
 PSB126	xadmi bāsh~ qray kammli qray ṭāl mǝn t-shiddī un posto
 PSB125	vabbè
@@ -588,7 +588,7 @@ PSB126	hādu-huma ṣḥābti
 PSB125	_wākhā
 PSB125	e quindi con tua sorella non non ti senti più
 PSB126	no
-PSB126	mǝrra mǝrra kan-n-3ayyǝt 3lī-ha . mǝrra mǝrra
+PSB126	mǝrra mǝrra kan-n-3ayyǝt 3lī-ha (.) mǝrra mǝrra
 PSB125	ma poi cioè che com'era il tuo rapporto con lei
 PSB126	īh kull wāḥed mdī-ha f-rās-o
 PSB125	no come mai cioè com'è st~ com'è com'è stato il tuo rapporto con lei crescendo

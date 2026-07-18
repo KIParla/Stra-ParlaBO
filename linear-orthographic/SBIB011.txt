@@ -14,7 +14,7 @@ PSB062	alcuni sacerdoti una chiesa e così eh un un parentesi dentro qui non c'�
 PSB005	sì ho capito
 PSB062	è religione come nell'europa
 PSB062	ma in realtà il nome originale dell'induismo sarebbe sanatana dharma
-PSB062	sana . tana . dharma . sanatan . dharma
+PSB062	sana (.) tana (.) dharma (.) sanatan (.) dharma
 PSB062	sanatan vuol dire esisteva esiste esisterà
 PSB062	eterno
 PSB062	perché non può essere che duemila anni fa o tremila anni fa o millecinquecento anni fa arriverà una persona e dice guarda queste sono religione dio mi mandato e vi do questa

@@ -1,7 +1,7 @@
 PSB054	okay
 PSB054	allora
 PSB133	dimmi
-PSB054	quindi ci stavi dicendo {P} che
+PSB054	quindi ci stavi dicendo (.) che
 PSB133	no dicevo c~ ecco sì [se riprendo il filo] del discorso che l'ho perso allora
 PSB054	[che lavori qui]
 PSB133	sì sto stavo lavorando lì e e ti ho detto che ehm:
@@ -31,20 +31,20 @@ PSB054	[°(beh [sì)°]
 PSB134	[il p]osto dove lavori fa: m:h c(io)è che tipo di piatti fa?
 PSB133	ah è una <pizzeria>
 PSB133	c(io)è guarda non ti voglio fare pubblicità perché non voglio che ci vai
-PSB054	{ride}
+PSB054	((ride))
 PSB133	non [voglio fare ti giuro] io non faccio anzi se lo scopri ti racconto anche altre cos~ però eh
 PSB134	[okay]
-PSB054	{ride}
+PSB054	((ride))
 PSB133	eh mh >n~ non [faccio pubblicità anzi<] quando vado a fare consegne dico guardi non ordinate più da loro perché la qualità vi dico è buona
 PSB054	[o:ka~]
-PSB054	{ride}
-PSB133	la qualità {P} >guarda< la pizza l'ho mangiata è buona qui[ndi xx >però<]
+PSB054	((ride))
+PSB133	la qualità (.) >guarda< la pizza l'ho mangiata è buona qui[ndi xx >però<]
 PSB054	[°mhmh m]h°
 PSB133	trattano male quindi se sostenete lo sfruttamento comprate da loro
-PSB054	{ride}
+PSB054	((ride))
 PSB134	m:h
 PSB133	e loro (in) quanti clienti che gli ho rovinato perché
-PSB133	(>secondo me<) io guarda non però se tu fai poi io sono c(io)è parecchio infame perché {P} non non si fa così
+PSB133	(>secondo me<) io guarda non però se tu fai poi io sono c(io)è parecchio infame perché (.) non non si fa così
 PSB133	[c(io)è: non si fa co]sì
 PSB054	[beh no se:]
 PSB133	è molto brutto che tu prepari
@@ -66,12 +66,12 @@ PSB133	cucina bolognese in pra~ è bravo guarda [ti dico] è bravo
 PSB054	[mh]
 PSB134	[mh]
 PSB133	su quello non t~ xx ha ingredienti di qualità e tutto però è uno stronzo uno stronzo di merda
-PSB054	{ride}
+PSB054	((ride))
 PSB054	ma sempre qua in bolognina?
 PSB133	bolognina
 PSB054	tu vivi qua [proprio:]?
-PSB133	[io sì sì] gua~ sai dove a: {P} ti giuro sono due minuti da °qui°
-PSB054	{ride}
+PSB133	[io sì sì] gua~ sai dove a: (.) ti giuro sono due minuti da °qui°
+PSB054	((ride))
 PSB054	s[ì ah]
 PSB133	[un minuto]
 PSB133	qui
@@ -79,9 +79,9 @@ PSB133	e:h infatti no xx (ero avev~) mi aveva dato un piccolo lavoretto mia mamm
 PSB054	°mh°
 PSB134	e ti piace la bolognina come quartiere?
 PSB133	hi: s:ì: ni: c(io)è nel senso
-PSB054	{ride}
+PSB054	((ride))
 PSB133	ha i suoi lati pro e contro nel senso che ti senti poco sicuro ogni tanto nel senso che la sera specialmente
-PSB133	anche c(io)è per dire {P} e:h {P} le mie amiche, insomma se devo invitare delle amiche qualc[uno]
+PSB133	anche c(io)è per dire (.) e:h (.) le mie amiche, insomma se devo invitare delle amiche qualc[uno]
 PSB054	[°m:h°]
 PSB133	c(io)è mi (sento) un po' insicuro c(io)è farle gi[rare] poi questo
 PSB054	[sì]
@@ -130,7 +130,7 @@ PSB133	no non sono interessato
 PSB133	io ho notato che tipo a molti miei amici anche se dicevano >non sono interessato loro insistevano [invece< con] me
 PSB054	[mh]
 PSB133	neanche me lo chiedevano ma perché forse mi hanno già visto e tutto e:
-PSB054	{ride}
+PSB054	((ride))
 PSB135	guarda anche per me l'ultimo periodo sai
 PSB133	sì?
 PSB135	beh forse comincio a frequentarle un po' di più la montagnola quelle (robe [lì)]
@@ -142,7 +142,7 @@ PSB054	[°mh°]
 PSB135	ma alla fine non è tanto la nazionalità ma l'ambiente che frequenti °quello che ho [notato] io cioè°
 PSB054	[mh]
 PSB054	okay
-PSB135	cioè sarò sincero io: st~ ho cominciato da {P} tre settimane a frequentare il e già molte facce le riconosco °loro [mi riconoscono]°
+PSB135	cioè sarò sincero io: st~ ho cominciato da (.) tre settimane a frequentare il e già molte facce le riconosco °loro [mi riconoscono]°
 PSB054	[m:h]
 PSB135	quindi quando cominci a: fare parte di: un certo ambiente inevitabilmente conosci [l'altra gente]
 PSB054	[certo]
@@ -195,7 +195,7 @@ PSB054	°mhmh°
 PSB135	difficile allora che lì ti mandano al
 PSB054	okay okay
 PSB135	e::hm
-PSB135	devo dire loro mi han detto: >ero lì in che un pochettino un po' più di ragazzi stanno arrivando {P} [anche di raga]zze ma [son sono] più i maschi [quelli che vanno al o:] robe simili
+PSB135	devo dire loro mi han detto: >ero lì in che un pochettino un po' più di ragazzi stanno arrivando (.) [anche di raga]zze ma [son sono] più i maschi [quelli che vanno al o:] robe simili
 PSB054	[mh]
 PSB054	[mhmh]
 PSB054	[m:h]
@@ -218,7 +218,7 @@ PSB054	okay
 PSB054	xx
 PSB133	secondo me specialmente in questo periodo come dice lui che stanno aumentando c(io)è
 PSB133	bisognerebbe c(io)è il governo
-PSB133	dovrebbe mettere più fondi {P} ma molti più fondi sulla:
+PSB133	dovrebbe mettere più fondi (.) ma molti più fondi sulla:
 PSB133	su posti come ci esse emme
 PSB054	s[:ì]
 PSB133	[oppure] dare tipo quei
@@ -237,12 +237,12 @@ PSB133	quella persona stia bene ma anche che
 PSB133	quella persona
 PSB133	per via
 PSB133	di: non so suoi problemi che ha: insomma personali che sta affrontando
-PSB133	magari non gli passi in testa di fare qualcosa [di {P} pericolo]so e c~ che causi un danno a una persona che io {P} ci tengo
+PSB133	magari non gli passi in testa di fare qualcosa [di (.) pericolo]so e c~ che causi un danno a una persona che io (.) ci tengo
 PSB054	[m:h]
 PSB054	[°sì°]
 PSB133	[qualche] giorno fa avevo sentito questa notizia di questo
 PSB133	e:hm
-PSB133	ragazzo che così {P} <dal nulla> non so se avete sentito che ha preso e ha ucciso così una rag[azza] e un suo fida~
+PSB133	ragazzo che così (.) <dal nulla> non so se avete sentito che ha preso e ha ucciso così una rag[azza] e un suo fida~
 PSB054	[m:h]
 PSB133	ma poi quando gli hanno chiesto ha detto così mi andava mi stavo annoiando e l'ho uc[cisa c(io)è cos~ e e]d era una era detto con la
 PSB054	[m:h]
@@ -251,14 +251,14 @@ PSB054	[m:h]
 PSB054	sì sì
 PSB133	e questo ti fa capire quanto
 PSB133	c(io)è la salute mentale al giorno d'oggi che
-PSB133	tra l'altro siamo {P} comunque in europa e {P} devo dire
+PSB133	tra l'altro siamo (.) comunque in europa e (.) devo dire
 PSB133	c(io)è comunque siamo anche fra >virgolette< messi meglio secondo me rispetto a posti come l'america seco[ndo me almeno ques]ta è una mia opinione
 PSB054	[m:h]
 PSB133	e già siamo messi così figuriamoci in posti come in america dove c(io)è per dire
-PSB133	la salute mentale è all'orlo e ci sono {P} come dire i #mass #shooting lì a scuola c(io)è per dirti
+PSB133	la salute mentale è all'orlo e ci sono (.) come dire i #mass #shooting lì a scuola c(io)è per dirti
 PSB054	sì sì [sì]
 PSB133	[c(io)è] questo è è è: il mondo:
-PSB133	secondo me {P} occidentale dove
+PSB133	secondo me (.) occidentale dove
 PSB133	noi abbiamo
 PSB133	secondo me
 PSB133	siamo a~
@@ -267,13 +267,13 @@ PSB054	[°mh°]
 PSB133	a livello: c(io)è di salute mentale e tutto c(io)è nel senso >secondo me< dovremmo:
 PSB133	poi vabbè per dire i paesi del terzo mondo hanno i loro problemi:
 PSB054	°mhmh°
-PSB133	poi secondo me loro: {P} hanno sì i problemi ps~ però non hanno forse tempo
+PSB133	poi secondo me loro: (.) hanno sì i problemi ps~ però non hanno forse tempo
 PSB133	secondo me [questo sto rip~] ripeto [tutto secondo me non è] un qualcosa di giusto o sbagli~
 PSB054	[m:h]
 PSB054	[sì sì sì]
 PSB133	non hanno proprio il tempo materiale per pensare a [questi proble]mi perché hanno altri tipo
 PSB054	[mh]
-PSB133	pensano più: a come trovare lavoro, [a come mantenere la] famiglia, a come portare il pane a casa perché {P} economicamente non stanno tanto bene quindi
+PSB133	pensano più: a come trovare lavoro, [a come mantenere la] famiglia, a come portare il pane a casa perché (.) economicamente non stanno tanto bene quindi
 PSB054	[m:h]
 PSB133	come paese non hanno una politica stabile mentre
 PSB133	in occidente che la politica è s~
@@ -307,7 +307,7 @@ PSB133	uno insomma mi puzza un po' [se non riesco] mai a:
 PSB054	[m:h]
 PSB133	vedere un: politico quindi:
 PSB133	sì
-PSB133	ovvio che però anche c(io)è i politici ci servono quindi non possiam per me non so {P} una cosa come l'anarchia non non c(io)è non può funzionare [quindi]
+PSB133	ovvio che però anche c(io)è i politici ci servono quindi non possiam per me non so (.) una cosa come l'anarchia non non c(io)è non può funzionare [quindi]
 PSB054	[m:h]
 PSB133	i politici servono:, la democrazia insomma queste cose qui servono °quindi sì°
 PSB054	[°va bene°]
@@ -394,7 +394,7 @@ PSB133	[ma tu]
 PSB135	[è] andata peggio lì vero?
 PSB134	si è mo[lto peggio:]
 PSB054	[m:h]
-PSB135	[dicono si]a andat[o: peggio lì anche] per la privatizzazione che non si capiva [bene] come coordinare queste: {P} [private]
+PSB135	[dicono si]a andat[o: peggio lì anche] per la privatizzazione che non si capiva [bene] come coordinare queste: (.) [private]
 PSB134	[cioè qua non fa~]
 PSB054	[eh]
 PSB134	[sì è un] problema [m:h]
@@ -430,8 +430,8 @@ PSB054	[m:h]
 PSB135	[°in questi centri°]
 PSB054	°sì°
 PSB054	°sì sì°
-PSB054	tu invece sei sei emiliano {P} se[i qui:]
-PSB135	[sì no] io so~ allora mio padre è americano ma: dalla seconda elementare in poi è tornato in america e non l'ho più {P} visto e sentito c[omunque]
+PSB054	tu invece sei sei emiliano (.) se[i qui:]
+PSB135	[sì no] io so~ allora mio padre è americano ma: dalla seconda elementare in poi è tornato in america e non l'ho più (.) visto e sentito c[omunque]
 PSB054	[mhmh]
 PSB135	però sì ho: sono italo-americano
 PSB054	okay o[kay]
@@ -450,15 +450,15 @@ PSB054	[mhmh]
 PSB054	okay
 PSB054	okay okay
 PSB054	e:hm:
-PSB054	tu lavori {P} invece?
+PSB054	tu lavori (.) invece?
 PSB135	e:h ora sto cercando lavoro perché ho finito la scuola due anni fa
 PSB054	ok[ay]
 PSB135	[ho fatto] un corso di sicurezza informatica che
 PSB054	ah
 PSB135	lo stage l'ho fatto non mi è piaciuto [perché mi hanno] x traumatizzato senza farmi fare nulla [allora]
 PSB054	[m:h]
-PSB054	[mamma m]ia {ride}
-PSB135	è una roba orribile non fare nulla fare stage perche non ti pagano e [poi sei] {P} non fai nulla
+PSB054	[mamma m]ia ((ride))
+PSB135	è una roba orribile non fare nulla fare stage perche non ti pagano e [poi sei] (.) non fai nulla
 PSB054	[eh certo]
 PSB135	>tra le due< polevano farmi pulire i pavimen[ti vabbe comun]que
 PSB054	[°s~°]
@@ -468,14 +468,14 @@ PSB054	[m:h]
 PSB133	ma cos'è che hai fatto lì scusami [non so]
 PSB135	[niente]
 PSB135	e:h davo una mano un po' a sistemare i computer ma alla fine [vedevo solo]
-PSB054	{ride}
+PSB054	((ride))
 PSB133	[cosa vuol dire] sistemare i computer
 PSB135	non si collega la stampante quindi [vengo da t]e
 PSB133	AH
 PSB135	raga
-PSB054	{ride}
+PSB054	((ride))
 PSB135	quelli lì e:h le robe complesse non me le facevano fare perché se no rischiavo di incasinare tutto
-PSB054	{ride}
+PSB054	((ride))
 PSB135	no vabbè poi m::h niente ho finito sto [corso]
 PSB133	[ma tu non glie]l'hai comunicato al tuo corso che qua [non mi fanno fare nie~]
 PSB135	[sì ma era diffi]cile cambiare comunque era una menata allora ho detto vabbè rimango lì chissene frega
@@ -488,7 +488,7 @@ PSB054	[m:h]
 PSB135	però magazziniere [un lavoro semplice perché] me l'hanno consigliato anche loro in questo momento qua non è una buona idea fare una roba molto complessa perché [metti caso] che non riesci a gestire
 PSB054	[m:h]
 PSB054	[m:h]
-PSB135	io xxxx il disegnatore meccanico però [è com]plesso come lavoro io {P} so usare i programmi
+PSB135	io xxxx il disegnatore meccanico però [è com]plesso come lavoro io (.) so usare i programmi
 PSB054	[m:h]
 PSB135	[è complica]to non è un prendi il [carico mettilo lì e sei] cos[ì non]
 PSB054	[ah]
@@ -504,7 +504,7 @@ PSB054	[m:h sì sì sì]
 PSB135	poi quando starò meglio invece cercherò altri lavori
 PSB054	[m:h]
 PSB135	[spero poi mi] sa che farò l'università in cinema cinema ci~ cinematografia la chiamo io ma [°è un po' diverso°]
-PSB054	[a:h] bello {P} tipo dams [o:]?
+PSB054	[a:h] bello (.) tipo dams [o:]?
 PSB135	[è una cost]ola del dams
 PSB134	[è il:]
 PSB054	[bello]
@@ -540,7 +540,7 @@ PSB135	[mhmh]
 PSB135	[sì esa]tto e[satto sì ci sono mil]le [corsi e:]
 PSB054	[e:h]
 PSB054	[sì][sì]
-PSB133	[il] [cad è bel]lo [il cad è vera]men~ secondo me se {P} te lo insegnano bene è bello [però]
+PSB133	[il] [cad è bel]lo [il cad è vera]men~ secondo me se (.) te lo insegnano bene è bello [però]
 PSB135	[bel lavoro]
 PSB054	[m:h]
 PSB054	[mh]
@@ -561,7 +561,7 @@ PSB135	[un motivo per cui vorrei fare il reg]ista è per quello è molto meno [m
 PSB133	[CIOè SE TI] SE TI PIACE
 PSB133	qualsiasi cosa diventa monotona c(io)è non esiste una cosa c(io)è se io:
 PSB133	>facciamo<
-PSB133	facciamo che il mio lavoro è {P} parlare con {P} una persona diversa a me piace parlare [però {P} se lo continuo]
+PSB133	facciamo che il mio lavoro è (.) parlare con (.) una persona diversa a me piace parlare [però (.) se lo continuo]
 PSB054	[mh sì certo]
 PSB133	c(io)è dopo il [millesimo due]millesimo non so come si dice io arriverò oh dio cioè
 PSB054	[alla lunga]
@@ -617,11 +617,11 @@ PSB133	[nu]lla di ciò mi ha affascinato così tan~ >[cioè forse] la magazziner
 PSB054	[mh]
 PSB054	[m:h]
 PSB054	e:h
-PSB133	del personale ti[po tre me]si {schiocca_la_lingua}
+PSB133	del personale ti[po tre me]si ((schiocca_la_lingua))
 PSB054	[sì]
 PSB133	e:h
 PSB134	e poi
-PSB133	licenziano e assumono altri {schiocca_la_lingua}
+PSB133	licenziano e assumono altri ((schiocca_la_lingua))
 PSB134	a[:h]
 PSB133	[e] così via
 PSB054	m[:h]
@@ -632,11 +632,11 @@ PSB133	[xxxxx]
 PSB135	[ma non c'era l'oss] prima
 PSB133	EH?
 PSB135	non c'era l'oss >°che ti era piaciuto di più?°<
-PSB133	mh {P} m:h
+PSB133	mh (.) m:h
 PSB133	m:h allora da un punto di vista:
 PSB133	se vogliamo metterla di stipendio colleghi e lavoro: era meglio amazon
 PSB133	però a~ da un punto di vista proprio di lavoro e basta era meglio forse l'oss
-PSB133	però i colleghi erano stronzi negli oss {P} era
+PSB133	però i colleghi erano stronzi negli oss (.) era
 PSB133	facevano
 PSB133	nonnismo
 PSB133	è il nonnismo che mi ha manda[to via da quel posto se no] io ho fatto quasi un anno
@@ -651,7 +651,7 @@ PSB054	[m:h]
 PSB133	capo e mi hanno mandato via
 PSB133	non me ne fr[ega niente se li vedo] per strada li mando a fanculo tutto qui non non
 PSB054	[xx]
-PSB054	{ride}
+PSB054	((ride))
 PSB054	[°sì io]:°
 PSB133	[e:h]
 PSB134	[quando fa]cevi l'oss cosa dovevi fare °esattamente°?
@@ -689,7 +689,7 @@ PSB054	però [non li possono: somministrare]
 PSB133	[a: a darlo lo devono fare le infer]miere [però]
 PSB054	[m:]h
 PSB133	non lo so perché l'ho scoperto dopo sono rimasto sorpreso >perché ho detto< va' che pezzi di merda perché
-PSB054	{ride}
+PSB054	((ride))
 PSB133	ti fanno
 PSB133	vabbè c[omunque]:
 PSB054	[mh]
@@ -697,7 +697,7 @@ PSB133	sì
 PSB133	e:hm
 PSB133	poi:
 PSB133	e:hm
-PSB133	insomma la pulizia {P} dico del letto [insomma de]i
+PSB133	insomma la pulizia (.) dico del letto [insomma de]i
 PSB054	[mh]
 PSB133	questo principalm[ente po]i:
 PSB054	[°sì°]
@@ -721,7 +721,7 @@ PSB133	e:hm nel senso:
 PSB133	dio mi darà la ricompensa [e se non lo] faccio va bene uguale però volevo la ricompensa da dio
 PSB054	[m:h]
 PSB133	mentre CHI
-PSB133	{ride}
+PSB133	((ride))
 PSB135	[cioè]
 PSB133	[no] perché ho raccontato una cosa a lui mi è venuto da ridere
 PSB133	e:h no perché c'erano allora
@@ -760,17 +760,17 @@ PSB133	[però tu ti affezioni tantissimo perché] io poi tra l'altro c(io)è alc
 PSB133	come era come avere dei fratelli e [sorelle picco]le non so [come di~ c(io)è] era proprio
 PSB054	[m:h]
 PSB054	[sì]
-PSB133	veni~ c'era questa ragazza che veniva da me perché io ero bravo a fare il codino {ride} [vabbè lo facevo] in un modo che a lei piac[eva e lei] cercava semp-~
+PSB133	veni~ c'era questa ragazza che veniva da me perché io ero bravo a fare il codino ((ride)) [vabbè lo facevo] in un modo che a lei piac[eva e lei] cercava semp-~
 PSB054	[a:h]
 PSB054	[mhmh]
 PSB133	una volta si era messa a urlare perché <io non ero in turno> [e lei voleva il codi]no come lo facevo io allora mi hanno chiamato da come si fa il codino >faccio< guarda gira e non sono r~
 PSB054	[mh]
-PSB054	{ride}
-PSB054	{ride}
+PSB054	((ride))
+PSB054	((ride))
 PSB133	e
 PSB133	poi quando dopo le ho fatt~ ha fatto parlare con me al telefono ho detto guarda quando arrivo te lo faccio e lei si è calm[ata >insomma<]
 PSB054	[m:h]
-PSB133	era proprio {P} una guarda era
+PSB133	era proprio (.) una guarda era
 PSB133	è <molto bello> c(io)è ti ti affezioni tanto inizialmente era molto spaventoso per[ché]
 PSB054	[m]:h
 PSB133	è un ambiente che <non> ti aspetti: che:
@@ -811,7 +811,7 @@ PSB133	quelle ragazze che
 PSB133	dici
 PSB133	che proprio ca~ c(io)è non so come descrivervelo
 PSB133	io
-PSB133	mi ricordo le~ lei {P} tutti che avevano paura del covid e vabbé non si avvicinavano
+PSB133	mi ricordo le~ lei (.) tutti che avevano paura del covid e vabbé non si avvicinavano
 PSB133	io: andavo lì dicevo mi offrivo sempre volont[ario per anda]re da lei per darle da mangiare
 PSB054	[mh]
 PSB133	tutto vestito m:h [stra~ astrona]uta lì [quella roba da] covid
@@ -841,33 +841,33 @@ PSB133	poi quella ragazza è stata male io entravo nella stan[za]
 PSB054	mh[mh]
 PSB133	[chiudevo] <mi chiudevo tutto la finestra e tutta la porta>
 PSB133	xxx oh non entrate che sta tossendo ah sì sì tranquillo non entro non entro sì ma tu mi raccomando eh
-PSB054	{ride}
-PSB134	{ride}
-PSB135	{ride}
+PSB054	((ride))
+PSB134	((ride))
+PSB135	((ride))
 PSB133	allora stai tu:? io ci penso qui fa sì [sì:]
-PSB054	{ride}
+PSB054	((ride))
 PSB135	[no ti toglie]vi [la t~]
-PSB133	[io e]ro lì io {P} ma [vaffancu]lo [mi toglievo] strappavo tutto
-PSB054	{ride}
+PSB133	[io e]ro lì io (.) ma [vaffancu]lo [mi toglievo] strappavo tutto
+PSB054	((ride))
 PSB135	[no:]
-PSB135	[xx no] {ride}
-PSB054	{ride}
+PSB135	[xx no] ((ride))
+PSB054	((ride))
 PSB133	aspe~ e
 PSB135	[se ti beccavano]
 PSB133	[perché no per] °non me ne fotte° allora prima di tutto mi chiudevo secon~ poi chi cazzo c'ha le palle di avvicinarsi alla porta era[no tutti:]
-PSB054	{ride}
-PSB054	{ride}
+PSB054	((ride))
+PSB054	((ride))
 PSB135	[eh vabbè] °sì°
-PSB133	m:h uh eh se~ se~ eh d~ c(io)è per {P} li capisco va bene rispetto pero m:h io
+PSB133	m:h uh eh se~ se~ eh d~ c(io)è per (.) li capisco va bene rispetto pero m:h io
 PSB133	c(io)è
 PSB135	sì [sì ho capito quello che dici]
 PSB133	[io non ci credo in queste robe (vabbè)] comunque
 PSB133	eh si avvicinavano
 PSB133	c(io)è nel senso ogni tanto fa d~ dopo mezz'ora un'ora tutto bene fa
 PSB133	sì aspetta è che ha vomitato fa <oh dio allora>
-PSB135	{ride}
-PSB054	{ride}
-PSB133	dopo passava un'altra ora {P} e no perché io entravo cosa facevo mi toglievo
+PSB135	((ride))
+PSB054	((ride))
+PSB133	dopo passava un'altra ora (.) e no perché io entravo cosa facevo mi toglievo
 PSB133	e
 PSB133	c(io)è lo vedevo che lei cazzo non pote~ c(io)è poi aveva aveva paura di [vederti lei no]n non potevi come fai a spiegarle una si[tuazione del genere]
 PSB054	[m:h]
@@ -897,7 +897,7 @@ PSB133	io: e e:h poi vabbè sì le persone tipo ad esempio che ci s~
 PSB133	nel senso erano
 PSB133	mentalmente comunque
 PSB133	come dire
-PSB133	indipendenti [non so come {P} de]finirlo
+PSB133	indipendenti [non so come (.) de]finirlo
 PSB054	[mhmh]
 PSB133	e:hm LORO per dire loro con le lo~ con loro la legge insomma era tutto in re~ >nel senso< con loro vabbè io rispettavo >nel senso< le distanze tutto
 PSB133	perché
@@ -916,14 +916,14 @@ PSB054	[mh]
 PSB135	[no per~ non è un non è un paragone giusto non è un paragone gius]to
 PSB133	tipo per dire tu o qualcuno c(io)è voi mi state parlando però io non so cosa passa per la vostra t[esta c(io)é ve lo dico] direttamente
 PSB054	[m:h]
-PSB133	o {P} voi non sapete cosa passa [per la mia testa però un a]nimale c(io)è è
+PSB133	o (.) voi non sapete cosa passa [per la mia testa però un a]nimale c(io)è è
 PSB054	[m:h]
 PSB133	uno è più difficile non so come dire anche
 PSB133	e:hm quella: ragazza insomma che ho aiutato
 PSB133	>che non ci sta<
 PSB133	lei se si arrabbia te lo mostra cioè [ti è è] diretta lei
 PSB054	[m:h]
-PSB133	anche tipo gli animali in genere son(o) {P} c(io)è loro non penso cioè ragionino ragionino in modo:
+PSB133	anche tipo gli animali in genere son(o) (.) c(io)è loro non penso cioè ragionino ragionino in modo:
 PSB135	[son più sem]plici vab[bè in poche parole]
 PSB133	[per questo
 PSB133	[sì e diretti la] la e: come dire hanno hai lo spe~ cioè [è: tras]parente
@@ -950,12 +950,12 @@ PSB054	[certo]
 PSB133	questo è
 PSB133	[scusa e:h] vabbè te infilati perché io se comincio a parlare [non]
 PSB054	[eh sì]
-PSB054	{ride}
+PSB054	((ride))
 PSB135	[no] eh sì è che non so cosa dire
-PSB054	{ride}
+PSB054	((ride))
 PSB133	no vabbè
 PSB135	ho detto te e andreste d'accordo
-PSB054	{ride}
+PSB054	((ride))
 PSB133	no un [mio amico che a]veva l'a di acca di e lui
 PSB054	[e:]
 PSB133	era sempre molto diretto tipo [mi offende]va
@@ -970,18 +970,18 @@ PSB054	[m:h]
 PSB133	[fa] eh xx sembri barbone cazzo sei
 PSB054	[ah]
 PSB133	povero come merda tipo
-PSB054	{ride}
+PSB054	((ride))
 PSB133	nel ge~ cos[e: molto ma c'ha delle cose che non posso] dire ora c(io)è già
 PSB135	[xxx]
-PSB054	{ride}
+PSB054	((ride))
 PSB133	sì è: e:h è molto anche come #black #hum[or politicamen]te scorretto quindi c'ha delle
 PSB054	[okay]
-PSB135	[gli piace (andare) al cas]sero dai {ride}
+PSB135	[gli piace (andare) al cas]sero dai ((ride))
 PSB133	no lui [no proprio] è diretti~ c(io)è non no ma ma lui ha rischiato di prendere a botte da uno perché
 PSB135	[xx]
 PSB133	offendeva questo ragazzo:
 PSB133	insomma
-PSB133	dell'est europa dicendo così {ride}
+PSB133	dell'est europa dicendo così ((ride))
 PSB133	perché lui usciva tipo: quindici minuti prima
 PSB133	e spesso allora lui niente arriva lì e:hm davanti a tutta la classe lui urla tra l'altro perché non pensa non lo dice a bassa lui pro~ [è dire~ è così]
 PSB054	[m:h]
@@ -990,40 +990,40 @@ PSB133	[te] lo urla senza
 PSB133	fa: tu perché esci la prima tu casa ce l'hai camper vieni qui c(io)è >nel senso diceva< cose: proprio
 PSB133	e: c(io)è il che il che e:hm
 PSB133	no no non pensa c(io)è che può offe~ [lui proprio così lo dice diret]to poi
-PSB054	[sì sì {P} sì sì sì]
+PSB054	[sì sì (.) sì sì sì]
 PSB133	infatti lui l'ha preso per il collo e l~ noi l'abbiamo fermato >ho detto< vecchio lascialo stare cioè
 PSB133	lo vedi com'è fatto e:
 PSB133	però era buono
 PSB054	[sì]
-PSB133	[poi tipo] io mi ricordo in matematica io gli chiedevo sempre una mano perché lui era molto intelligente [a livello]: {P} di materie scientifiche
+PSB133	[poi tipo] io mi ricordo in matematica io gli chiedevo sempre una mano perché lui era molto intelligente [a livello]: (.) di materie scientifiche
 PSB054	[mhmh]
 PSB133	e lui ogni volta che non capivo niente xx sei
 PSB133	stupido come merda non capisci mai cazzo tipo
-PSB054	{ride}
-PSB054	{ride}
+PSB054	((ride))
+PSB054	((ride))
 PSB133	e::hm >vabbè< però ti aiutava
 PSB133	[era l'unico che ti] aiutava però
 PSB054	[sì sì sì]
 PSB133	era diretto ma ti [uccideva con le] parole però
 PSB054	[mhmh]
-PSB054	{ride}
+PSB054	((ride))
 PSB133	era a differenza di tutti >quelli che eran(o)<
 PSB133	tutti
 PSB133	belli gentili
 PSB133	era l'unico però che [mi aiutava durante le] verifiche e tutto
 PSB054	[sì sì sì]
 PSB133	quindi:
-PSB054	{ride}
+PSB054	((ride))
 PSB054	[beh]
 PSB133	[cioè] sì °aveva i suoi contro°
 ???	s[cusa qui] c'è un bagno qua?
 PSB054	[ma]
 PSB133	e[::h]
-PSB135	[sì vai] di sotto lì {P} e poi dopo a [destra c'è una: porta]
+PSB135	[sì vai] di sotto lì (.) e poi dopo a [destra c'è una: porta]
 PSB133	[sì c'è: sì sì sì]
 ???	grazie
 PSB054	ma voi vi siete conosciuti a scuola? avete fatto le scuole [insieme o:]
-PSB133	{ride}
+PSB133	((ride))
 PSB135	[e:] xx che no [eravamo n]elle vacanze studio organizz[ate dal comu]ne in irlanda due settimane abbiam [fatto]
 PSB133	[no no]
 PSB054	[ah]
@@ -1032,14 +1032,14 @@ PSB133	[pure pas]sati sei anni [tipo]
 PSB135	[e:h sì secon]da elem~ no seconda elemen~ seconda [superiore]
 PSB054	[a:h]
 PSB133	[cazzo stai dicendo]
-PSB054	{ride}
+PSB054	((ride))
 PSB135	seconda: dalla fine durante l'estate della seconda superiore siamo an[dati in irlanda]
 PSB133	[duemiladiciannove tipo]
 PSB054	[ok]ay
 PSB135	ho: [conosciuto] lui altre due compagne un altro un altro [tizio che] non vediamo più per ovvie ragioni
 PSB133	[xx]
 PSB054	[mhmh]
-PSB054	{ride}
+PSB054	((ride))
 PSB133	non vediamo più nessuno alla fine la gen[te è così]
 PSB135	[vabbè sì] s[ì vabbè]
 PSB133	[ami]ci a[mici però poi °quando°]
@@ -1047,7 +1047,7 @@ PSB135	[giusto un'amica è rima]sta un po' però dop~ vabbè comunque ad ogni mo
 PSB133	[ah no alla fi]ne non è rimasto nessuno siamo rimasti solo io [e te c(io)è nel senso]
 PSB054	[m:h]
 PSB135	[sì sì sì] vabbè [però per dir~]
-PSB054	{ride}
+PSB054	((ride))
 PSB133	[il che a] me va bene guarda però: c(io)è nel senso
 PSB133	c(io)è c'è stata uno una ragazza che proprio l'ha detto direttamente [a me non pia]ce più uscire con voi
 PSB054	[m:h]
@@ -1067,24 +1067,24 @@ PSB133	no di okay
 PSB135	ah o[kay]
 PSB133	[la parlo de[lla
 PSB135	[sì sì] no no quella son d'accordo anche io
-PSB133	comunque {P} sì ma vabbè tan~ l'importante
+PSB133	comunque (.) sì ma vabbè tan~ l'importante
 PSB133	io con lui c(io)è per dire
 PSB133	sì sì ehm mi ricordo inizialmente non er~ non parlavam neanche tanto però poi quando
 PSB133	da l'irlanda siamo arrivati a bologna lì è nata un'amicizia c(io)è ehm è continuata è lui che poi
 PSB133	mi ha portato poi al cas[sero che: cioè è lu]i è lui che in generale
 PSB054	[mhmh]
 PSB133	ci [invita a boh girare raga andia]mo a xx qui oh va bene
-PSB054	[ti porta in giro] {ride}
+PSB054	[ti porta in giro] ((ride))
 PSB135	e ci credo non proponete mai nulla voi
-PSB054	{ride}
+PSB054	((ride))
 PSB133	io s~
 PSB135	tr[a kebab] e parchi dopo un po' ti rompi i maroni [°c(io)è nel senso°]
 PSB133	[non lo s~]
-PSB054	{ride}
+PSB054	((ride))
 PSB133	[no è vero] vero
-PSB133	oh cosa vuoi il kebabbaro è simpatico {P} [cazzo vuoi]
+PSB133	oh cosa vuoi il kebabbaro è simpatico (.) [cazzo vuoi]
 PSB135	[no no ho ca]pito
-PSB054	{ride}
+PSB054	((ride))
 PSB133	no ah boh ma io sì nel s~ oh dio no che cazzo dici io ti ho portato [anche tipo in moschea] xx
 PSB135	[no lo so scherzo]
 PSB133	io
@@ -1108,56 +1108,56 @@ PSB133	mh c(io)è rispetto reciproco lui ci viene
 PSB054	[mhmh]
 PSB133	[c(io)è qualsiasi] [posto dove xx]
 PSB135	[ma anche quelli dove] non c'è a me: incuriosisce tutto
-PSB054	{ride}
+PSB054	((ride))
 PSB135	sin[ceramente]
 PSB133	[no okay e >più che altro<] io c'ho la testa calda quindi nel senso che [se: mi fai incazzare] c(io)è nel senso:
-PSB054	{ride}
+PSB054	((ride))
 PSB135	[eh è per quello che ve~]
 PSB133	ehm è come c(io)è io soffro molto di: e:hm rabbia c(io)è nel [senso:]
 PSB054	[m:h]
 PSB133	[e:hm]
 PSB135	[°repres]sa°
-PSB133	non lo so se è represso più che altro minchia se xx questo è represso: c(io)è [nel senso] {P} c(io)è
-PSB054	{ride}
+PSB133	non lo so se è represso più che altro minchia se xx questo è represso: c(io)è [nel senso] (.) c(io)è
+PSB054	((ride))
 PSB135	[no no]
 PSB133	mh
 PSB133	comun~ non lo so c(io)è io ho tipo un po' di: >insomma comunque:< cose che devo scoprire di me quindi: evito comunque di f~ posti un po' ma
 PSB133	più che altro perché c(io)è poi io boh anche a livello [burocratico]
-PSB135	[no quello {P} anch'io] anch'io ti capi~ io di meno di te sono quello che sopporta fino alla tredicesima botta però alla quattordicesima
-PSB054	{ride}
+PSB135	[no quello (.) anch'io] anch'io ti capi~ io di meno di te sono quello che sopporta fino alla tredicesima botta però alla quattordicesima
+PSB054	((ride))
 PSB133	eh io mi sa che anche al terzo così c(io)è ma ma non è per per ho ho proprio questa co~ che poi me ne pento dico cazzo no: ma perché
-PSB054	{ride}
-PSB135	{ride}
+PSB054	((ride))
+PSB135	((ride))
 PSB054	però [lì sul momento: eh]
 PSB133	[però in quel momento sono prorio c(io)è] divento [una]
 PSB135	[sì una] xxxx
 PSB133	no no è ma~
 PSB133	°oddio sembrava eh comunque vabbè [>un mio amico<°] e:h
-PSB054	{ride}
-PSB135	{ride} [°xxx°]
+PSB054	((ride))
+PSB135	((ride)) [°xxx°]
 PSB133	no non c'entra il ma~ ma: m:h
 PSB133	non lo so è anche gen~ mio papà è molto così mio [papà è molto] (cas) su questa roba qua
 PSB054	[m:h]
-PSB133	l'ho eri~ ereditata e an[che:] {P} e:h
+PSB133	l'ho eri~ ereditata e an[che:] (.) e:h
 PSB054	[m:h]
 PSB133	però su questa cosa ci sto lavorando >il bello è che< lavorandoci sono arrivato a sto livello capito xx se non ci lavoravo [c(io)è nel senso]:
-PSB054	{ride}
-PSB133	(faccio) io guardo i video su youtube passo le se~ c(io)è son lì che sto a guardare guardare [ste robe] ma {P} io ho tante cose che {P} di me che
+PSB054	((ride))
+PSB133	(faccio) io guardo i video su youtube passo le se~ c(io)è son lì che sto a guardare guardare [ste robe] ma (.) io ho tante cose che (.) di me che
 PSB054	[mhmh]
 PSB133	non so e che vorrei scoprire e tutto c(io)[è e:]hm
 PSB054	[mhmh]
 PSB133	[°tutto qui°]
-PSB054	[beh è un bell'a]pproccio comunque c(io)è è fondamentale secondo me {P} quindi:
+PSB054	[beh è un bell'a]pproccio comunque c(io)è è fondamentale secondo me (.) quindi:
 PSB054	essere aperti [in generale quindi:]
 PSB133	[vabbè sì quello sì sì] sì
 PSB135	cioè [ma voi] siete gli educatori del per caso? [che:]
 PSB054	[la]
 PSB133	[>anch'io glielo avevo chies]to<
-PSB054	{ride}
+PSB054	((ride))
 PSB135	te?
 PSB133	xxxx
 PSB054	no non siamo: non siamo educatori siamo:
-PSB054	vo[lontari: che sì] {ride}
+PSB054	vo[lontari: che sì] ((ride))
 PSB133	[diseducatori]
 PSB135	[a:h okay]
 PSB135	[ma]: c'eravate anche al: quella volta do[ve c'era anche lui si ah okay]
@@ -1182,13 +1182,13 @@ PSB054	[m:h]
 PSB054	[m:h m][:h]
 PSB133	[vabbè ma] c'erano gli alcolici
 PSB135	s: appunto s: [ah]
-PSB054	{ride}
+PSB054	((ride))
 PSB133	[xx] oh che scemo vecchio a~ alla fine hanno dato via tipo una caraffa di spritz
-PSB054	{ride}
-PSB133	[non] sto scherzando {P} una caraffa di spritz [arriva lì e fa >arriva e fa<] due euro? u~ un euro? fa vabbè gratis? neanche gratis l'hanno [preso]
+PSB054	((ride))
+PSB133	[non] sto scherzando (.) una caraffa di spritz [arriva lì e fa >arriva e fa<] due euro? u~ un euro? fa vabbè gratis? neanche gratis l'hanno [preso]
 PSB135	[sì:]?
 PSB135	[eh ma vez e:h]
-PSB054	{ride}
+PSB054	((ride))
 PSB135	°[cazzo] [dici]°
 PSB133	c(io)è >[arrivavi] te< e te lo sco[lavi]
 PSB054	[xxx]
@@ -1201,7 +1201,7 @@ PSB134	[°il bottiglione°]
 PSB134	[°è vero°]
 PSB133	[sì l'ha] preso [non lo so]
 PSB054	[sì ne avevamo] fatto un po' trop[po perché era poca ge~]
-PSB133	[io io beh non bevo alcolic]i {P} anche un po' per motivi religio[si ma anche per] >insomma< ho s~ ho proprio motivi di salu[te e tutto quindi]
+PSB133	[io io beh non bevo alcolic]i (.) anche un po' per motivi religio[si ma anche per] >insomma< ho s~ ho proprio motivi di salu[te e tutto quindi]
 PSB054	[mhmh]
 PSB054	[mhmh]
 PSB135	[però ogni ta]nto ti può [capitare]
@@ -1211,12 +1211,12 @@ PSB135	vabbè beato te [°meglio così°]
 PSB133	[cerco di]: evitare
 PSB133	beh beato te ho altri miei mille problemi [quindi]
 PSB135	[no] ho [capi~]
-PSB054	{ride}
+PSB054	((ride))
 PSB133	[c(io)è] dammi: [c(io)è te hai que]sto io c'ho:
 PSB135	[beh oddio]
 PSB135	[xx] vabbè sì oka[y]
 PSB133	[x]x
-PSB134	[ma] voi come avete c(io)è {P} come hai saputo del cassero {P} [c(io)è:]
+PSB134	[ma] voi come avete c(io)è (.) come hai saputo del cassero (.) [c(io)è:]
 PSB135	[no aspetta] come sei?
 PSB134	come hai saputo del cassero?
 PSB135	allora io ho saputo del ca~ eh allora un po' grazie: a mio zio che lui lo frequenta da tempo per le serate principalmente che tra l'altro fan dei generi che piacciono a me quindi infatti ci andavo volentieri
@@ -1238,12 +1238,12 @@ PSB054	°okay°
 PSB135	[poi so]no tutti ambienti io: >io già che ho fatto il tecnico meccanico< come [lui:],
 PSB054	[ah]
 PSB054	[mh]mh
-PSB135	e: il sono tutti ambienti {P} pieni di maschi [è una roba: c(io)è davvero quasi]: nauseabondo dopo un [po']
+PSB135	e: il sono tutti ambienti (.) pieni di maschi [è una roba: c(io)è davvero quasi]: nauseabondo dopo un [po']
 PSB054	[m:h]
 PSB054	[m][:h]
 PSB133	[ma guarda] l'ambiente pieno di maschio ci sta c(io)è nel [senso a me va bene xx]
 PSB135	[ma: lì per me è troppo]
-PSB054	[pure il cassero] {ride}
+PSB054	[pure il cassero] ((ride))
 PSB135	eh no pero lì vez è troppo c(io)è [xx anche alla quindici]
 PSB134	[più che altro: c(io)è] a [me n~]
 PSB135	[c'era] un ragazzo c'era un ragazzo trans però anche lui era comunque: era passato da maschio a femm~ eh da femmina a maschio [quindi anche lui c(io)è]
@@ -1290,37 +1290,37 @@ PSB135	[sì] ho visto che c'era una guardia che mi ha guardato [male xxxx]
 PSB133	[no no <a me> no a te non c~] te te eri lì che camminavi
 PSB133	>pero dico a me< è arrivato da me e ha detto scusa perché sei: sei così sei entrato xx vabbè c'è il mio amico che sta male cosa vuoi che faccia voglio dire [(<ho risposto così>) c(io)è]
 PSB054	[m:h certo]
-PSB133	e:h e poi ah ho chie~ son~ mi~ sono entrato dentro {P} così [ho detto oh]
+PSB133	e:h e poi ah ho chie~ son~ mi~ sono entrato dentro (.) così [ho detto oh]
 PSB135	[questa non la sa]pevo non avevo notato [sai ero lì]
-PSB054	{ride}
+PSB054	((ride))
 PSB133	[ma come vaffa]n[culo xx ti ho anche imbo]ccato lì: con la [codeina come cazzo si chiama]
 PSB135	[no eh vez ero ero]
 PSB135	[sì ma non mi ricordo ero:] non ero me stesso c(io)è
 PSB133	e:h
 PSB133	no e e:h >mi sono incazzato perché<
-PSB133	mi sta sul cazzo c(io)è perché una persona sta male e tu così ti metti a ri~ non so {P} [come se niente fosse]
+PSB133	mi sta sul cazzo c(io)è perché una persona sta male e tu così ti metti a ri~ non so (.) [come se niente fosse]
 PSB054	[m:h sì] [sì]
 PSB133	[ma lui s]tava verame~ c(io)è era
 PSB135	ma perché loro pensavano fosse tipo la [fase inziale]
 PSB133	[eh ho allora gliel'ho do]vuto dire a modo mio poi infatti s~ appena (io) eh sì sì tranquillo vieni pure [ti hanno fatto] sedere lì
-PSB135	{ride} [è vero]
+PSB135	((ride)) [è vero]
 PSB133	perché sanno non vogliono proble~ anche le [guardie non c'hanno] sbatti di: star lì a:
 PSB054	[m:h]
-PSB133	non li pagano abbastanza allora io la so sta cosa quindi {P} ho proprio detto oh dai allora e ho cominciato a fa[re]
-PSB135	{ride}
+PSB133	non li pagano abbastanza allora io la so sta cosa quindi (.) ho proprio detto oh dai allora e ho cominciato a fa[re]
+PSB135	((ride))
 PSB054	[m]:h
-PSB133	a o: urlare: a fare {P} >allora< l'hanno fatto entrare prima di tutti e: l'hanno anche dimesso anche parecchio in fretta [e anzi]
+PSB133	a o: urlare: a fare (.) >allora< l'hanno fatto entrare prima di tutti e: l'hanno anche dimesso anche parecchio in fretta [e anzi]
 PSB054	[mhmh]
 PSB135	[sì mi hanno dato] mi hanno sedato con le goccine benzo: [una roba del be]nzo comunque vabbè
 PSB133	[non è ve~]
 PSB133	[non] so [cosa xx]
 PSB135	[roba digus]tosa tra l'altro e poi vabbè sono tornato a casa [e:]
 PSB054	[m:h] [m:h]
-PSB135	[poi ne ho avu]te altre no ne avrò ancora mi sa però: sono più leggere perché so gestirle adesso {P} ho capito un po' i trucchettini
+PSB135	[poi ne ho avu]te altre no ne avrò ancora mi sa però: sono più leggere perché so gestirle adesso (.) ho capito un po' i trucchettini
 PSB135	be~ bevi quando stai un po' male bevi un po' ti [fumi le canne] che anche di solito le canne: questo l'ho notato anche in molti che [un po' ho conosciu]to
 PSB054	[mh]
 PSB054	[m:h]
-PSB135	quando stanno male fumano {P} un canna [che ti dura] un'ora e mezza due
+PSB135	quando stanno male fumano (.) un canna [che ti dura] un'ora e mezza due
 PSB054	[sì]
 PSB135	dopo quelle due ore cominci già a sentire cominci tutto con un capogiro >i capogiri [sapete cosa so]no<
 PSB054	[m:h]
@@ -1336,7 +1336,7 @@ PSB135	proprio brutta come [sensazione infatti:] m:h io >non lo so< sono delle s
 PSB054	[°sì immagino°]
 PSB135	che devo dire tra tutti i dolori che ho provato m:h non mi dimenticherò mai almeno [per adesso]
 PSB054	[mhmh imma]gino
-PSB135	di fatti è: da da lì che la gente comincia a smettere [perché] {P} ci si rende conto che {P} bello bello: dimenticarsi dei problemi però a una cert[a:]
+PSB135	di fatti è: da da lì che la gente comincia a smettere [perché] (.) ci si rende conto che (.) bello bello: dimenticarsi dei problemi però a una cert[a:]
 PSB054	[mhmh]
 PSB054	[mh]mh
 PSB135	tra una cosa e l'altra è inevitabile
@@ -1353,8 +1353,8 @@ PSB054	[piano pia]no insomma
 PSB133	secondo c(io)è nel senso:
 PSB133	c(io)è nella vita di chiunque
 PSB133	mh se posso ripeto è una sempre una mia opinio[ne non è giusto quindi: c(io)è]
-PSB054	[sì sì {P} certo]
-PSB133	per me è giusto però dico {P} per qualcun'altro può essere non giusto
+PSB054	[sì sì (.) certo]
+PSB133	per me è giusto però dico (.) per qualcun'altro può essere non giusto
 PSB133	c(io)è serve un minimo di leggera sofferenza in qualcosa secondo [me]
 PSB054	[mh][mh]
 PSB133	[c(io)è al]meno io nella mia vi[ta un po' di soffe~]
@@ -1378,35 +1378,35 @@ PSB054	m[:h]
 PSB133	[un po'] poi ovviamamente
 PSB133	per dirti c(io)è
 PSB133	eh io:
-PSB133	c(io)è ho visto tipo per dire io sono molto pro palestina per di[re io] {P} sofferenze del genere non le sopporto
+PSB133	c(io)è ho visto tipo per dire io sono molto pro palestina per di[re io] (.) sofferenze del genere non le sopporto
 PSB054	[mhmh]
 PSB054	mhmh
-PSB133	sono molto contro israele lo dico proprio c(io)è me ne frego altamente di c(io)è me ne sbatto propri[o c(io)è che se] uno è pro {P} israele c(io)è nel senso:
+PSB133	sono molto contro israele lo dico proprio c(io)è me ne frego altamente di c(io)è me ne sbatto propri[o c(io)è che se] uno è pro (.) israele c(io)è nel senso:
 PSB054	[mhmh]
-PSB133	hai la tua opinione però io non ti rispetto [nel senso] c(io)è è come dire io sono pro: hitler c(io)è ov[vero ho la mia opinione però] {P} {ride} capisci [che]
+PSB133	hai la tua opinione però io non ti rispetto [nel senso] c(io)è è come dire io sono pro: hitler c(io)è ov[vero ho la mia opinione però] (.) ((ride)) capisci [che]
 PSB054	[mhmh]
 PSB054	[certo sì sì]
 PSB054	[sì] sì sì
 PSB133	eh quindi
 PSB133	e niente basta questo è
 PSB133	c(io)è io sono c(io)è nel senso
-PSB133	ho anche anch'io forse non se {P} non so se è a di acca di anch'io però io sono molto diretto nel [senso che]
+PSB133	ho anche anch'io forse non se (.) non so se è a di acca di anch'io però io sono molto diretto nel [senso che]
 PSB054	[mhmh]
 PSB133	lì mi dispiace un po' per la legge nel senso che sì potrei avere delle ripercussioni di legge però del resto se anche uno mi picchia me ne frego io ti continuo [a dire]
 PSB054	[mh]
 PSB135	eh anch'io credo di a[vere (una grande)]
-PSB133	[poi dopo puoi anche spacca]rmi la faccia però ti continuerò a dire {P} xx ci sputo sangue però [poi ti conitnuo a] dire quello che penso
+PSB133	[poi dopo puoi anche spacca]rmi la faccia però ti continuerò a dire (.) xx ci sputo sangue però [poi ti conitnuo a] dire quello che penso
 PSB054	[mh]
 PSB054	mh[mh]
 PSB133	[mi dis]piace un po' per la legge ma più che altro perché mio papà si è fatto un mazzo così per
 PSB133	lui si è fatto un mazzo così per farsi i documenti e tut[to quindi magari se]
 PSB054	[m:h beh]
-PSB133	a livello di legge {P} [e:h] insomma se mi succede quello è un problema però s[ì]
+PSB133	a livello di legge (.) [e:h] insomma se mi succede quello è un problema però s[ì]
 PSB054	[m:h]
 PSB054	[mh]mh
 PSB133	[questo è]
 PSB054	[e]
-PSB054	la: prima mi dicevi della moschea {P} [frequenta]te la moschea qui in bolognina sempre?
+PSB054	la: prima mi dicevi della moschea (.) [frequenta]te la moschea qui in bolognina sempre?
 PSB133	[sì]
 PSB133	ehm
 PSB135	un [po' di xx]
@@ -1419,23 +1419,23 @@ PSB133	abbia~ i a: bologna è [dif~]
 PSB135	[#strong #believer] qual è?
 PSB133	eh?
 PSB135	#strong #believer xx
-PSB133	no allora {P} allora arrivo arrivo
+PSB133	no allora (.) allora arrivo arrivo
 PSB133	e:hm c(io)è noi >abbiamo allora< a bologna la moschea ufficiale a livello burocra[tico è] si trova in via
 PSB054	[mhmh]
 PSB133	come cazzo °si chiamava (quella roba)° [e:h]
 PSB135	[zona]?
 PSB133	pal~ in via pallavicini
 PSB054	okay
-PSB133	e:d è vicino massarenti d[ove c'è il co]so di roveri [lì {P} eh] quella zona li
+PSB133	e:d è vicino massarenti d[ove c'è il co]so di roveri [lì (.) eh] quella zona li
 PSB054	[sì]
 PSB054	[sì sì sì]
-PSB133	men~ e ed è ufficilamente {P} una moschea a livello burocratico [mentre tu]tte quelle che vedi qui che {P} sono delle moschee sono dei centri cultura[li nella ca]rta
+PSB133	men~ e ed è ufficilamente (.) una moschea a livello burocratico [mentre tu]tte quelle che vedi qui che (.) sono delle moschee sono dei centri cultura[li nella ca]rta
 PSB054	[mhmh]
 PSB054	[mhmh]
 PSB054	°ok[ay°]
 PSB133	[tu] a nome >li chiami moschea< però ne~ nel senso come
 PSB133	nella se tu vai nella burocrazia c'è scritto
-PSB133	luogo cen[tro culturale] islamico oppure non so {P} [un centro] culturale non è una moschea
+PSB133	luogo cen[tro culturale] islamico oppure non so (.) [un centro] culturale non è una moschea
 PSB054	[xxxx]
 PSB054	[mhmh]
 PSB054	mhmh
@@ -1443,22 +1443,22 @@ PSB133	perché a livello di legge le: in italia non ci sono: (non) possono esser
 PSB054	[mhmh]
 PSB133	[e:h]
 PSB054	[okay]
-PSB133	e:h {sbuffa}
+PSB133	e:h ((sbuffa))
 PSB133	e:h noi andia~ io frequento principalmente una a corticella ma
-PSB133	vado anche a uno {P} qui vicino
+PSB133	vado anche a uno (.) qui vicino
 PSB133	c(io)è
-PSB133	abbiamo visto (alle aldini) ce n'è uno [{P} vi]cino al via jacopo di paolo
+PSB133	abbiamo visto (alle aldini) ce n'è uno [(.) vi]cino al via jacopo di paolo
 PSB054	[mh]
 PSB054	okay
-PSB133	e:hm {P} lì ce n'è uno lì spesso frequento
-PSB133	lì più che altro vado a fare le lezione insomma a imparare a fare domande e tutto [mentre {P} se] voglio fare solo la preghiera eccetera in congrega~
+PSB133	e:hm (.) lì ce n'è uno lì spesso frequento
+PSB133	lì più che altro vado a fare le lezione insomma a imparare a fare domande e tutto [mentre (.) se] voglio fare solo la preghiera eccetera in congrega~
 PSB054	[mhmh]
 PSB133	e:h congregazione
 PSB054	mhmh
-PSB133	che: insomma per noi musulmani {P} specialmente per i maschi è molto importante fare la preghiera in moschea nel [senso so]no cinque preghiere
+PSB133	che: insomma per noi musulmani (.) specialmente per i maschi è molto importante fare la preghiera in moschea nel [senso so]no cinque preghiere
 PSB054	[mhmh]
 PSB133	quella dell'alba
-PSB133	quella del {P} pomeriggio
+PSB133	quella del (.) pomeriggio
 PSB133	quello del
 PSB133	e:hm insomma dopo il pomeriggio quello del tramonto
 PSB133	e quello della sera
@@ -1466,8 +1466,8 @@ PSB135	vado a prendere un'altra birra arrivo [°subito°]
 PSB133	[certo certo]
 PSB054	[mhmh]
 PSB133	e:
-PSB133	per i maschi {P} nella: religione musulmana insomma: è molto {P} fortemente consigliato ma fortemente consigliato
-PSB133	e:h fare le preghiere in moschea allo[ra io quan]do {P} posso vado a questo qui vicino hai presente la pam di corticella?
+PSB133	per i maschi (.) nella: religione musulmana insomma: è molto (.) fortemente consigliato ma fortemente consigliato
+PSB133	e:h fare le preghiere in moschea allo[ra io quan]do (.) posso vado a questo qui vicino hai presente la pam di corticella?
 PSB054	[mhmh]
 PSB054	e:hm no c(io)è ho [presente cortic~ però ho frequentato poco]
 PSB133	[e:h inizio di via mage~ ambrogio magenta]
@@ -1483,13 +1483,13 @@ PSB054	[sì oka]y
 PSB133	oppure va~ ma ce ne sono vari [c'è uno in via s]talingrado
 PSB054	[mhmh]
 PSB054	okay ok[ay]
-PSB133	[ce] n'è uno {P} in via:
+PSB133	[ce] n'è uno (.) in via:
 PSB133	umberto terracini[: ce] n'è uno
 PSB054	[mhmh]
 PSB133	a:h in via dell'arcoveggio [c(io)è proprio] dove c'è il parco lì le:
 PSB054	[okay]
 PSB133	e:h lì l~ come cacchio si chiama
-PSB133	i giardini {P} lì come si chiama laghetti di corticel[la]
+PSB133	i giardini (.) lì come si chiama laghetti di corticel[la]
 PSB054	[ah] sui laghetti [sì sì sì]
 PSB133	[sì sì sì]
 PSB054	okay
@@ -1507,10 +1507,10 @@ PSB133	[>andiamo<]
 PSB054	[andate]: in famiglia, anda[te tutti], andate insieme?
 PSB133	[allora]
 PSB133	in famiglia >allora< mio papà va spesso
-PSB133	a quello di: vicino a jacopo di paolo vicino alle aldini mentre io vado {P} dove mi capita principalmente vado
+PSB133	a quello di: vicino a jacopo di paolo vicino alle aldini mentre io vado (.) dove mi capita principalmente vado
 PSB133	e:h a quello vicino: a casa mia quello più vicino che è vicino alla pam di corticella
 PSB133	mentre:
-PSB133	e:h sì {P} quando capita vado a quello vicino alle aldini però: sì
+PSB133	e:h sì (.) quando capita vado a quello vicino alle aldini però: sì
 PSB054	mhmh
 PSB133	e:h
 PSB133	c(io)è sì appunto è molto consigliato per: il maschio anche per la femmina però più per il mas[chio]
@@ -1518,9 +1518,9 @@ PSB054	[mh]mh
 PSB133	andare a fare la preghiera in congregazione e essere insomma sempre collegato insomma avere una connesione con la moschea
 PSB054	°sì sì°
 PSB133	e:
-PSB054	quindi sei andato anche tu ogni tanto {P} con [lui]
+PSB054	quindi sei andato anche tu ogni tanto (.) con [lui]
 PSB135	[sì] sì sì mi sono messo in una maniera anche imbarazzante a fare quello strano inchino o preghiera che fate voi
-PSB054	{ride}
+PSB054	((ride))
 PSB135	ma non perché sia imbarazzante quello ma per[ché io non ci s]tavo a dire un cavolo c(io)è
 PSB133	[no]
 PSB133	no ma lui [è andato:]
@@ -1539,7 +1539,7 @@ PSB135	[sì:] mh quei [ragazzi lì della] no~ nostra età
 PSB133	[sì sì sì]
 PSB133	sì sì [loro sì]
 PSB135	[ecco non ci manderei] quello più conservatore di tutti anziano
-PSB054	{ride}
+PSB054	((ride))
 PSB133	sì ecco esatto tip[o:]
 PSB135	[c(io)è eh] per dirti zuppi >se [vai a parla-<]
 PSB133	[chi è zuppi]
@@ -1548,7 +1548,7 @@ PSB135	fai [finta il zuppi] card~ di bologna: mh [versione c~] cristiana fai fai
 PSB133	[il vescovo]
 PSB133	[°ho capito°]
 PSB135	lui diciamo è [uno che ha la mente aperta xxxx]
-PSB133	[tra l'altro hanno espulso l'imam] {P} l'es~ l'imam quello di: via jacopo di paolo
+PSB133	[tra l'altro hanno espulso l'imam] (.) l'es~ l'imam quello di: via jacopo di paolo
 PSB054	sì
 PSB133	la meloni il governo: meloni al~ ha espulso:
 PSB133	governo salvi~ non so chi cazzo è stato comunque uno di destra
@@ -1566,7 +1566,7 @@ PSB133	andate a vedere che dopo vi mando il [link se volete]
 PSB054	[no sì sì sì]
 PSB135	[è diventato un po' famoso e lui è stato] cacciato per questa ragione qua l'ho [conosciuto anch'io]
 PSB054	[si ma ho sentito qua]lcosa (nei segui)
-PSB135	era comunque una persona che da come dicono [loro:] {P} è anche abbasanza di mentalità aperta di[ciamo che non sa pa]rlare bene l'italiano >non si è saputo< spiega[re bene ecco anche qu]esto lui [invece]
+PSB135	era comunque una persona che da come dicono [loro:] (.) è anche abbasanza di mentalità aperta di[ciamo che non sa pa]rlare bene l'italiano >non si è saputo< spiega[re bene ecco anche qu]esto lui [invece]
 PSB054	[mhmh]
 PSB054	[mhmh]
 PSB054	[mhmh]
@@ -1574,14 +1574,14 @@ PSB133	[no lui è mo]lto rispettoso però sì fa molta fatica con la lingua [ita
 PSB135	[e:h si vede nelle interviste]
 PSB054	[mhmh]
 PSB133	io se proprio devo consi~ perché molto spesso
-PSB133	perché lui {P} studia effettivamente l'islam molti dei musumani c(io)è non lo sanno {P} non sanno cosa dice il corano loro vanno a quello che hanno imparato dal nonno, quello che hanno imparato dal padre quindi
+PSB133	perché lui (.) studia effettivamente l'islam molti dei musumani c(io)è non lo sanno (.) non sanno cosa dice il corano loro vanno a quello che hanno imparato dal nonno, quello che hanno imparato dal padre quindi
 PSB133	vanno un po' a passaparola
 PSB054	beh co[me i catto]lici insomma [spesso:]
 PSB133	[il che]
 PSB135	[e:h sì esatto]
-PSB133	[non lo so come funzio]na {P} [vanno molto a passaparola] mentre
+PSB133	[non lo so come funzio]na (.) [vanno molto a passaparola] mentre
 PSB135	[no: neanch'io]
-PSB133	tipo persona {P} che è stata appunto espulso lui va proprio
+PSB133	tipo persona (.) che è stata appunto espulso lui va proprio
 PSB133	lui legge il corano [legge la tradu]zione e lui f~ si comporta in un determinato modo, ha rispetto lo vedi che proprio e poi vabbe ogni tanto sì si lascia un po' andare >nel senso che per certi versi< tipo
 PSB054	[mhmh]
 PSB133	lo ve~ c(io)è lui è molto mal compreso perché lui non è cattivo lui a volte alza il tono ma proprio [ha un suo modo di] fare caratteristico non è cattivo
@@ -1597,10 +1597,10 @@ PSB133	[eh]
 PSB133	[ma perché abbiamo fatto >praticamente< facciamo battute tra di] noi
 PSB133	e quando ci vediamo ci viene da ridere
 PSB133	allora ci sia~ ci siamo messi a ridere davanti a lui
-PSB133	e lui comunque poteva prenderla come un'offesa lui si è messo >e ha detto< tranquilli {P} non c'è nessun problema [per me]
+PSB133	e lui comunque poteva prenderla come un'offesa lui si è messo >e ha detto< tranquilli (.) non c'è nessun problema [per me]
 PSB135	[e poi guardavamo se]mpre perché mi sembrava una presa in giro [(invece che lo era) in realtà] però:diciamo che non ha non ha reagito non ha reagito male dai
 PSB054	[sì sì sì]
-PSB054	{ride}
+PSB054	((ride))
 PSB054	okay
 PSB054	ho capito
 PSB054	ma bello però
@@ -1613,12 +1613,12 @@ PSB135	mi pia:ce [ma anche andare a robe un po' (fascistoide) non mi dispiace ba
 PSB054	[no vabbè così per conoscenza e: sì sì]
 PSB133	[ma non è] detto c(io)è non è che se uno deve andare in un posto devi diventare di [c(io)è non so per dire se tu vai in una >mo]schea<
 PSB054	[no: certo è giusto]
-PSB133	tu mi dici guarda io sono interessato {P} voglio venire in una moschea a vedere
-PSB133	(>non è<) che {P} devi okay allora se vieni in cambio devi convertirti [oppure non lo so se io] vengo in chiesa devo: accetare [xx]
+PSB133	tu mi dici guarda io sono interessato (.) voglio venire in una moschea a vedere
+PSB133	(>non è<) che (.) devi okay allora se vieni in cambio devi convertirti [oppure non lo so se io] vengo in chiesa devo: accetare [xx]
 PSB054	[no: certo certo]
 PSB054	[ce]rto
 PSB133	c(io)è se non ci conosciamo non potremmo mai:
-PSB133	come dire no {P} poi ovviamente io se vado in una chiesa
+PSB133	come dire no (.) poi ovviamente io se vado in una chiesa
 PSB133	io non c(io)è nel senso per rispetto non vado: non lo so per dire se non so cos'è vietato in chiesa per dire io non vado lì
 PSB133	se io non sono uno che dice molte parolacce
 PSB133	io non vado in chiesa a urlare le parolac[ce io per rispe]tto
@@ -1638,16 +1638,16 @@ PSB133	io dico guarda io non sono cristiano però c(io)è non mi sembra molto ri
 PSB133	c(io)è f~
 PSB133	tu guarda tu magari tu puoi dire io non s~ non sono cristiano sono [xx]
 PSB135	[ha un senso] negli xx porno già lì ha più senso
-PSB054	{ride}
+PSB054	((ride))
 PSB133	ma guarda
 PSB135	no è [per dire che c'è ambiente e c'è ambie]nte non è [così]
 PSB133	[se tu se tu guarda]
-PSB054	{ride}
+PSB054	((ride))
 PSB133	[se tu va]i
-PSB133	va bene se tu vai a guardarti {P} non so la pornografia dove {P} lì c'è anche una fantasia del rompere il taboo
+PSB133	va bene se tu vai a guardarti (.) non so la pornografia dove (.) lì c'è anche una fantasia del rompere il taboo
 PSB133	e queste
 PSB133	lì c(io)è è come dire c(io)è cazzo se tu vuoi
-PSB133	e:h da:lla zona degli spacciatori {P} [pretendi che non ci sia] droga sei un [coglione c(io)è]
+PSB133	e:h da:lla zona degli spacciatori (.) [pretendi che non ci sia] droga sei un [coglione c(io)è]
 PSB135	[sì sì xxxx]
 PSB135	[no no è quello che vo]glio dire [io]
 PSB133	[però] se tu ecco appunto vai davanti a una chiesa e dentro una chiesa in biki[ni]
@@ -1660,7 +1660,7 @@ PSB133	[sì è vero è ve]ro [questo: vero vero]
 PSB135	[in america invece sono mol]to infanti[li anche nei fi]lm e nella violenza sono molto [infantili gli americani]
 PSB054	[mhmh]
 PSB133	[ma molto rispettosi c(io)è io non so]no cristiano però è molto rispetto~ c(Io)è io dico cazzo se lo facessero alla mia comunità mi incazzerei
-PSB133	ma anche se {P} qualsiasi religione qualsiasi comunità
+PSB133	ma anche se (.) qualsiasi religione qualsiasi comunità
 PSB133	c(io)è se io sono non sono in disaccordo con qualcosa c(io)è ti
 PSB133	>facciamo< si ha un dialogo costruttivo [si ha uno s]cambio di idee però
 PSB054	[certo]
@@ -1670,9 +1670,9 @@ PSB133	che
 PSB133	guarda
 PSB133	io lui molte volte c(io)è o io molte volte gli dico a lui tipo è buddista e ci prendiamo in giro ma [non ho mai xx] i monasteri o [lui li] mi fa ah brut~ fatti esplodere
 PSB135	[no no non è xx]
-PSB135	[(poi}]
-PSB133	c(io)è c'è una certa #black #humor [ma {P} perché c(io)è]
-PSB054	[sì sì va]bbè [c'è un rapporto {P} certo]
+PSB135	[(poi))]
+PSB133	c(io)è c'è una certa #black #humor [ma (.) perché c(io)è]
+PSB054	[sì sì va]bbè [c'è un rapporto (.) certo]
 PSB133	[se io mi fido di lui lui si fida di me] ma se
 PSB133	uno viene a dirmi qualcosa tipo oh brutto musulmano [ma vai]
 PSB054	[m:]h
@@ -1702,10 +1702,10 @@ PSB054	°infat[ti°]
 PSB133	[anche] c(io)è io:
 PSB133	io credo in questo c(io)è nel senso
 PSB133	puoi avere la tua idea
-PSB133	però {P} finche capito diventa:
+PSB133	però (.) finche capito diventa:
 PSB133	c(io)è finche no tu:
-PSB133	sei diverso da me allora io ti devo: non so tenere {P} sotto contro~ c(io)è non so picchiarti quelle robe non so per dire a me
-PSB133	io non sono contro gli ebrei però mi sta sul cazzo l'idea del sionismo che tu {P} per avere la tua terra {P} per dio devi lanciare i missili
+PSB133	sei diverso da me allora io ti devo: non so tenere (.) sotto contro~ c(io)è non so picchiarti quelle robe non so per dire a me
+PSB133	io non sono contro gli ebrei però mi sta sul cazzo l'idea del sionismo che tu (.) per avere la tua terra (.) per dio devi lanciare i missili
 PSB133	sì ha bisogno?
 ???	(e:h where reading xx?)
 PSB133	eh what?
@@ -1717,31 +1717,31 @@ PSB134	leggere? se vuoi puoi sederti lì se vuoi leggere
 PSB133	ah e:h i don't know e:h you can w~ see if there i~ it's here i don't know
 ???	[ah xx thank] you
 PSB133	[°io non lo so°]
-PSB054	{ride}
+PSB054	((ride))
 PSB133	ah welcome
 PSB133	e:hm
 PSB133	cos'è che stavo dicendo? ah si per dire che a me da fastidio che c(io)è l~ l'idea °estermi~ eh?°
 ???	(ah [niente scu]sa)
 PSB133	[ah no okay]
 PSB133	e:hm e:h per dire anche a me dà fastidio tipo
-PSB133	c(io)è {P} i~ io sono musulmano però l'idea tipo dell'iran, della: dell'afghanistan così a me sta sulla minchia per c(io)è è:
+PSB133	c(io)è (.) i~ io sono musulmano però l'idea tipo dell'iran, della: dell'afghanistan così a me sta sulla minchia per c(io)è è:
 PSB133	non mi piace perché non mi sembra un i:- islam c(io)è
 PSB133	è: è un islam estre~ qualsiasi cosa estremizzata mi [dà fastidio] c(io)è
 PSB054	[mhmh]
-PSB133	che toglie il suo: {P} la sua radice la:
+PSB133	che toglie il suo: (.) la sua radice la:
 PSB133	ci metti del tuo la:
-PSB133	la tua cultu~ c(io)è è brutto anche {P} co~ l~ l'israele cos'è? è è un e-un ebreo estremista
+PSB133	la tua cultu~ c(io)è è brutto anche (.) co~ l~ l'israele cos'è? è è un e-un ebreo estremista
 PSB133	c~ che e:h l'afghanistan o o: il i talebani oppure: l'iran, il governo dell'iran cos'è? è un islam estremizzato
 PSB133	il cristianesimo estremizzato non l'ho mai
-PSB133	visto che m:i ricordi {P} insomma
-PSB133	ecco i~ in india ora c'è {P} il io sono molto politico quindi se
-PSB133	a me piace tanto la politica [però non su]pporto nulla in parti~ però mi piace (interagire) {P} [tipo in india c'è] il governo bi jei pi
+PSB133	visto che m:i ricordi (.) insomma
+PSB133	ecco i~ in india ora c'è (.) il io sono molto politico quindi se
+PSB133	a me piace tanto la politica [però non su]pporto nulla in parti~ però mi piace (interagire) (.) [tipo in india c'è] il governo bi jei pi
 PSB054	[mhmh]
 PSB054	[sì sì]
 PSB133	che è il:
 PSB133	modi non so se conoscete che tra l'altro con la: [xx]
 PSB135	[quello che è andato] a pregare sott'acqua
-PSB133	sì ma: ma dico {P} [ma:] o~ ma scusa il senso credo io lo ris[petto]
+PSB133	sì ma: ma dico (.) [ma:] o~ ma scusa il senso credo io lo ris[petto]
 PSB135	[che trash]
 PSB135	[sì sì] sì [no però]
 PSB133	[però a me sta sul] cazzo per un'altra cosa lui non è che se vai sott'acqua a pregare
@@ -1750,11 +1750,11 @@ PSB135	[e:h]
 PSB135	[no lo so] lo so cosa [xx]
 PSB133	[c(io)è se se] tu credi che pregare [sott'acqua ti può aiutare fallo]
 PSB135	[sì sì no però è bu]ffa come co~ >vabbè lo so lascia stare vabbè<
-PSB054	{ride}
+PSB054	((ride))
 PSB133	eh per me è buffo che: non so e:h tu ti sei messo quel cappello capi[to c(io)è]
 PSB135	[no lo s]o [xx xx]
 PSB133	[E:H E:H E:H]
-PSB054	{ride}
+PSB054	((ride))
 PSB133	è [buffo (che mi hai invitato)]
 PSB135	[ma non sfottere] che due palle di un xx
 PSB133	eh?
@@ -1764,8 +1764,8 @@ PSB135	[ah non vabbè è ve]ro è vero
 PSB133	gli estremi[sti sì]
 PSB135	[no vabbè vab]bè è che [ci scherzi] sempre non si capi[sce mai]
 PSB133	[perché]?
-PSB054	{ride}
-PSB133	[no] {P} è vero no io no >vabbè< io vecchio uno lo faccio con qualsiasi cosa
+PSB054	((ride))
+PSB133	[no] (.) è vero no io no >vabbè< io vecchio uno lo faccio con qualsiasi cosa
 PSB133	che [cazzo c'entra]?
 PSB135	[no lo so lo] so
 PSB133	c(io)è faccio anche col: tuo non so com'è buddismo [però che cazzo c'entra no~ non è] che sono contro
@@ -1778,16 +1778,16 @@ PSB133	lui è bengalese e tipo lui per dire
 PSB133	mi sta molto più simpatico rispetto a molti musulmani [eppure]: è: di un'altra
 PSB054	[mhmh]
 PSB133	però c(io)è tipo per dire in india ci sono certi indù che per dire loro
-PSB133	non rispettano {P} le religioni altrui
-PSB133	c(io)è io ho visto che india c'è sta cosa ora che {P} c'è l'estrema destra
+PSB133	non rispettano (.) le religioni altrui
+PSB133	c(io)è io ho visto che india c'è sta cosa ora che (.) c'è l'estrema destra
 PSB054	mhmh
 PSB133	e è al potere
 PSB133	e:
 PSB133	danno priorità alle persone indù
-PSB133	rispetto a magari tipo: le minoranze cristiane specialmente musu~ sono molto presi di mira i musulmani che magari {P} consumano carne
+PSB133	rispetto a magari tipo: le minoranze cristiane specialmente musu~ sono molto presi di mira i musulmani che magari (.) consumano carne
 PSB133	di mucca e c~ e a loro la mucca è sacra [però capis]co che
 PSB054	[mhmh]
-PSB133	i musulmani dovrebbero rispettare sta cosa quindi magari {P} limitare però anche loro
+PSB133	i musulmani dovrebbero rispettare sta cosa quindi magari (.) limitare però anche loro
 PSB133	dovrebbero rispettare il fatto che noi musulmani
 PSB133	loro la mucca la possono mangiare quindi c(io)è capisci dovete venirvi un po' incont[ro]
 PSB054	[°ce]rto°
@@ -1803,15 +1803,15 @@ PSB054	sì
 PSB054	de[cisamente]
 PSB133	[scusate faccio f~ e] se se [se fa~ se] volete [parlare] con me io faccio sempre discorsi [molto c(io)è non sono be]lli o [sono xx]
 PSB054	[decisa~]
-PSB054	[no no] {ride}
+PSB054	[no no] ((ride))
 PSB054	[no no ma sono]
-PSB054	[sono {P} super i]nteressanti davvero quindi
-PSB133	vabbé [c(io)è non ti aspe]ttare qua~ se fai disco~ c(io)è non ti farò mai dei discorsi: è raro io sono {P} non so
+PSB054	[sono (.) super i]nteressanti davvero quindi
+PSB133	vabbé [c(io)è non ti aspe]ttare qua~ se fai disco~ c(io)è non ti farò mai dei discorsi: è raro io sono (.) non so
 PSB054	[figurati]
-PSB054	{ride}
+PSB054	((ride))
 PSB133	non riesco [poi sai capiterà che] faccio qualche battuta però
 PSB054	[m:h]
-PSB054	no [no ma è] {P} veramente interessante c(io)è appunto anche l'altra volta al abbiamo iniziato a parlare di: di queste cose e [e:h]
+PSB054	no [no ma è] (.) veramente interessante c(io)è appunto anche l'altra volta al abbiamo iniziato a parlare di: di queste cose e [e:h]
 PSB133	[sì]
 PSB133	[poi vabbè al cassero] ero un po' timido nel senso che mi sen[tivo un po']
 PSB135	[vabbè è un ambiente] mai frequen[tato]
@@ -1819,8 +1819,8 @@ PSB133	[fuori][: fuori: luogo non lo so]
 PSB054	[sì vabbè primo:]
 PSB135	[c(io)è noi che venia]mo (dall'iti), sono tutti machi, al: moschea, c(io)è sono proprio ambienti diversi [e:h]
 PSB133	[ma no ma più] che altro perché c(io)è nel senso
-PSB133	m:h no c(io)è nel senso {P} più che altro
-PSB133	non lo so magari {P} gli argomenti che toccava forse vedevo che non {P} interessavano molto forse [>forse< è una mi]a impressione [può essere però dico] eh [magari è una]
+PSB133	m:h no c(io)è nel senso (.) più che altro
+PSB133	non lo so magari (.) gli argomenti che toccava forse vedevo che non (.) interessavano molto forse [>forse< è una mi]a impressione [può essere però dico] eh [magari è una]
 PSB054	[mh]
 PSB054	[mhmh]
 PSB135	[non c'è quella] dove discutono di religione eccetera in gruppo lì
@@ -1830,11 +1830,11 @@ PSB135	[ah eri in quella a:h eri in quella]
 PSB133	[sì sì ero in quello ero] in quello io ti parlo]:
 PSB054	[sì sì sì era]
 PSB133	sì sì io sono rimasto in xx [perché non mi interessava:]
-PSB135	[ma quindi ha funzionato io ho tirato fuori un argo]mento era tipo gender fluid quella roba così {P} non [so se]
+PSB135	[ma quindi ha funzionato io ho tirato fuori un argo]mento era tipo gender fluid quella roba così (.) non [so se]
 PSB054	[ah nel sondaggio l'avevi]
 PSB133	[devo andare un attimo in bagno arrivo] su[bito]
-PSB135	[avevo tirato fuori] avevo scritto anche una roba più o meno lunghina {P} [però]:
-PSB054	[sì {P} sì sì]
+PSB135	[avevo tirato fuori] avevo scritto anche una roba più o meno lunghina (.) [però]:
+PSB054	[sì (.) sì sì]
 PSB054	[ah ah]
 PSB054	okay okay
 PSB054	sì okay allora ho capi[to:]
@@ -1853,11 +1853,11 @@ PSB135	[eh infatti volevo andare lì]
 PSB054	c(io)è appunto noi facciamo volo~ io sono: responsabile di settore lì: al settore giovani però siamo [volontari]
 PSB135	[a:h okay ma siete] voi che: gestite la pa[gina: instagram]
 PSB054	[sì: sì faccia]mo tutto noi c(io)è organizziamo pagine [>instagram> facciamo tutto]
-PSB135	[ma {P} ma voi non sie]te educatori quindi?
-PSB054	no {P} [no no no]
+PSB135	[ma (.) ma voi non sie]te educatori quindi?
+PSB054	no (.) [no no no]
 PSB135	[ah strano] non so [perché sembrava] xx l'intervista una roba un po' da psicologi educatori [xx]
 PSB054	[noi siamo]
-PSB054	{ride} [no abbia]mo no avevamo provato un format un po' diverso diciamo come evento però:
+PSB054	((ride)) [no abbia]mo no avevamo provato un format un po' diverso diciamo come evento però:
 PSB054	no siamo volontari [semplicemente ci sia~]
 PSB135	[ah okay c(io)è tipo social media] manager una via di mezzo tra: una cosa simile
 PSB054	e::h
@@ -1869,10 +1869,10 @@ PSB135	[un po' tutto]
 PSB135	[ah] dio mio
 PSB135	ma [come volo]ntari o anche proprio come
 PSB054	[mh]
-PSB054	volontar[i {P} volonta]ri sì [sì sì]
+PSB054	volontar[i (.) volonta]ri sì [sì sì]
 PSB135	[volontari]
 PSB135	[eh immagina]vo
-PSB054	sì poi ci sono {P} tanti gruppi ap[punto c(io)è]
+PSB054	sì poi ci sono (.) tanti gruppi ap[punto c(io)è]
 PSB135	[che anche io faccio volo]ntario per non ma] un servizio correlato che va in discoteca c'è il banchetto con tutte roba di: [xx] biglietti informativi sulle varie sostanze [xx vari]
 PSB054	[mhmh]
 PSB054	[mhmh]
@@ -1881,19 +1881,19 @@ PSB135	poi vai a dare l'acqua a tutte le persone messe ma~ peg[gio di di solito 
 PSB054	[m:h]
 PSB054	[mh]mh
 PSB135	gli dai l'acqua, la prendono, vai lì in mezzo un po'
-PSB135	diciamo che se non ti piaccciono {P} gli ambienti caldi pieni di [gente che spinge] è meglio di [no perché lì è uno spi]ntone [ovun]que
+PSB135	diciamo che se non ti piaccciono (.) gli ambienti caldi pieni di [gente che spinge] è meglio di [no perché lì è uno spi]ntone [ovun]que
 PSB054	[mhmh]
 PSB054	[okay]
 PSB054	[certo]
 PSB135	però alla fine sanno che sei lì per aiutarli
 PSB054	mhmh
-PSB135	sei diciamo {P} ti lasciano un po' passare
+PSB135	sei diciamo (.) ti lasciano un po' passare
 PSB054	mhmh
 PSB135	faccio quello però volevo fare un po' di volontariato anche un po' al cassero magari anche alla caritas fare [un po' e un] po' non so guarda quello che riesco a fare
 PSB054	[mhmh]
 PSB054	sì
 PSB135	ma si vedrà
-PSB135	[forse] più alla caritas [perché mi sento] {P} più vicino a ques[ti ambienti qui] più che
+PSB135	[forse] più alla caritas [perché mi sento] (.) più vicino a ques[ti ambienti qui] più che
 PSB054	[vabbè]
 PSB054	[mhmh]
 PSB054	[m:h]
@@ -1901,7 +1901,7 @@ PSB054	sì sì
 PSB135	s~ detto sinceramente lì s~ c(io)è: m:h mi sento più in sintonia [qua~ per ade]sso [ecco non so] infatti non sono entrato anche per quello perché mi sentivo distante
 PSB054	[mhmh]
 PSB054	[sì sì sì]
-PSB135	ho detto {P} già l'astinenza se [più ci metto anche] un ambiente che non conosco qui: [collasso e]:h
+PSB135	ho detto (.) già l'astinenza se [più ci metto anche] un ambiente che non conosco qui: [collasso e]:h
 PSB054	[m:h]
 PSB054	[no vabbé]
 PSB054	ci sta
@@ -1942,9 +1942,9 @@ PSB054	[sì]
 PSB054	sì
 PSB135	dipendenze varie o altre tematiche sociali che [magari]
 PSB054	[sì a~] abbiamo: sì
-PSB054	cioè cerchiamo un po' di: {P} spaziare ecco tendenzialamente il focus è sempre quello {P} del mondo queer diciamo
+PSB054	cioè cerchiamo un po' di: (.) spaziare ecco tendenzialamente il focus è sempre quello (.) del mondo queer diciamo
 PSB135	°[xx] [xx]°
-PSB054	[però] {P} ci sono {P} tante intersezioni no poi [tanti argomenti che si legano]
+PSB054	[però] (.) ci sono (.) tante intersezioni no poi [tanti argomenti che si legano]
 PSB135	[no perché a me una cosa che mi intere]ssa perché io ho aperto una pagina che parla di attivismo di queste temati[che qui ma] non solo
 PSB054	[mh]
 PSB135	e piaceva fare tipo un collegamento con non so: alcolismo problemi con [dipendenze va]rie:
@@ -1953,29 +1953,29 @@ PSB135	e:h che so: stupri, femminicidio altri [problemi così] perché ho scoper
 PSB054	[mhmh]
 PSB054	[mhmh]
 PSB054	mhmh
-PSB135	non è strano che una persona che è {P} predisposta ad uccidere faccia uso di sostanze anche {P} [se] in ambienti dove
+PSB135	non è strano che una persona che è (.) predisposta ad uccidere faccia uso di sostanze anche (.) [se] in ambienti dove
 PSB054	[sì]
 PSB135	vedere coltellate o cose sembri normale è anche più facile che magari preso da un raptus ammazzi il tuo amico, ammazi la tua fi~ [c(io)è]
 PSB054	[sì sì] sì
 PSB135	io ho notato molti casi del genere un: pochettino mi interesso di questi [temi qui]
 PSB054	[mhmh]
-PSB135	molte di ste persone magari si pentono anche {P} c(io)è anche il caso turetta secondo me adesso lui non era alcolizzato però di altri problemi ne aveva
+PSB135	molte di ste persone magari si pentono anche (.) c(io)è anche il caso turetta secondo me adesso lui non era alcolizzato però di altri problemi ne aveva
 PSB135	però so che molta gente l'avevo fatto anche sotto effetto di sostanze e [quando sei] sotto effetto di sostanze non sei pro~ c(io)è sei
 PSB054	[mhmh]
-PSB135	non sei prorprio cattivo ma {P} se sei una persona tendente diventi
+PSB135	non sei prorprio cattivo ma (.) se sei una persona tendente diventi
 PSB135	m:h non hai più i freni ini[bitori] quindi fai farai cazzate poi [finirai in prigione] poi te ne pentirai alla fine
 PSB054	[sì]
 PSB054	[mhmh]
 PSB135	e quando uscirai tutti quanti ti daranno: [quello che succede] non so se avete visto arancia meccanica un po' quel [concetto lì]
 PSB054	[mhmh]
-PSB054	[sì] {P} sì sì sì
+PSB054	[sì] (.) sì sì sì
 PSB135	e infatti è triste anche per quello c(io)è:
 PSB135	poi figurati le le carceri italiane non so neanche messe così tanto male così tanto bene quindi metti anche e sti qui [escono che]
 PSB054	[certo]
 PSB135	per questo a me piaceva anche parlare di questi argomenti perché si ricollegano anche a tematiche un po' più arcobaleno, più: femministe [robe]
 PSB054	[sì sì]
 PSB054	[sì sì] sì
-PSB135	[e dato che noto] che {P} da un lato vi capisco si parla di meno di queste tematiche qui più machiste [secondo me è meglio] parlarne perché poi
+PSB135	[e dato che noto] che (.) da un lato vi capisco si parla di meno di queste tematiche qui più machiste [secondo me è meglio] parlarne perché poi
 PSB054	[no ma è:]
 PSB054	[mhmh]
 PSB135	perché poi si lasciano questi discorsi anche a tanta gente che è meglio che non li faccia [tipo agli xx] o altri soggetti del genere che [non so quanto] sia positivo c(io)è
@@ -1984,9 +1984,9 @@ PSB054	[m:h]
 PSB054	sì
 PSB135	io vedevo un video di lui che si allenava mentre gli davano della vodka c(io)è non so sia bello come cosa c(io)è
 PSB054	mhmh
-PSB135	io meno male che {P} mh sto già storcere il naso da subito {P} dubitavo ma gente magari un po' più tendente verso quella parte ci crede e gli fai un fa~ agisce come: come lui
+PSB135	io meno male che (.) mh sto già storcere il naso da subito (.) dubitavo ma gente magari un po' più tendente verso quella parte ci crede e gli fai un fa~ agisce come: come lui
 PSB054	mhmh
-PSB133	no io [tipo lui] {P} lui è un deficiente posso c(io)è l'ho sempre [un po': visto su youtube però]
+PSB133	no io [tipo lui] (.) lui è un deficiente posso c(io)è l'ho sempre [un po': visto su youtube però]
 PSB135	[°quindi°]
 PSB135	[ma io all'inizio su certi aspetti] non è male è è anche [bravo a motivare però]
 PSB133	[però il fatto che io es]sendo religioso a me è piaciuto il fatto che lui ha sempre tirato fuori un lato: come dire della religione io: [sono xx]
@@ -1997,10 +1997,10 @@ PSB135	no ma neanche per me ma infatti lui è [(subdolo) e:h]
 PSB133	[vuole solo sta]re è è ricco: tra l'altro i soldi li ha fatti in modo lercissimo quindi non è una persona c(io)è non rispetto ste tipo di persone però
 PSB133	l'unica cosa positiva che ha fatto è portare un po' di religione insomma
 PSB133	e:h
-PSB133	le: tra i giovani però secondo me {P} anche lì c'è da dire
+PSB133	le: tra i giovani però secondo me (.) anche lì c'è da dire
 PSB135	sì il video dell'alcool che lo prende mentre [si allena è in giro ancora] però eh [te lo dico]
-PSB133	[no infatti {P} ti ho detto]
-PSB054	{ride}
+PSB133	[no infatti (.) ti ho detto]
+PSB054	((ride))
 PSB133	[c(io)è lui col]: è sempr[e col: lì]
 PSB135	[c(io)è è alcool] neanche da dire è xx
 PSB133	ma lui c(io)è solo pensa a come è diventato ricco c(io)è lui ha po~
@@ -2011,13 +2011,13 @@ PSB133	[no: ma che cazzo dici]
 PSB133	[no: ma:] ma ma no vabbè vabbè vabbè poi ti: [xx]
 PSB135	[però è vero è diventato] ricco [(facendo così)]
 PSB133	[non è un argomento] che mi: mi interessa parlare
-PSB054	°no no ma {P} [figuratevi] sì
+PSB054	°no no ma (.) [figuratevi] sì
 PSB133	[°ma che cazzo°]
 PSB135	vabbè [però è diventato ricco menan]do la gente a prescindere da: [traffico] in: [c(io)è]
-PSB054	[però sì {P} sì]
+PSB054	[però sì (.) sì]
 PSB133	[vabbé]
-PSB133	[sei convinto] tu {P} contenti tutti
-PSB054	{ride}
+PSB133	[sei convinto] tu (.) contenti tutti
+PSB054	((ride))
 PSB054	però sì se: se vi dovesse interessare fare qualcosa: [in collaborazione anche con l'associa~]
 PSB135	[no io prossimo mercoledì non so] cosa c'è un film che guarderete [vero]?
 PSB054	[sì no] dico con l'associazione anche: appunto per quello che dicevi tu per portare qualche tematica: [un po': più interessa]n[te]
@@ -2027,32 +2027,32 @@ PSB054	[mhmh]
 PSB054	[m:h]
 PSB054	[m:h]
 PSB135	dare un piccolo spazio dove ci sono i depliant eccetera quello almeno io so che
-PSB135	strano pensavo che: fossero forse nella parte più da adulti: ci sono i depliant di perché so che sono: {P} [in contatto]
+PSB135	strano pensavo che: fossero forse nella parte più da adulti: ci sono i depliant di perché so che sono: (.) [in contatto]
 PSB054	[sì sopra ci sono] tanti tanti depliant non so: [for~ è probabile che ci sono anche]
 PSB135	[allora mi è sembrato di averli visti secondo me lì ci sono]
-PSB135	non [sapevo che] {P} sopra c'era la parte più da adulti di sotto da [xx]
+PSB135	non [sapevo che] (.) sopra c'era la parte più da adulti di sotto da [xx]
 PSB054	[probabile]
 PSB054	[c'è sopra] ci sono gli uffici
 PSB054	pr[aticamente quindi] spesso gli incontri si fanno sotto perché c'è più spa[zio però ci sono:] gli uffici c'è il tesseramento sopra e:h
 PSB135	[eh esatto gli uffici]
 PSB135	[beh è meglio è più grande]
 PSB135	ma io ho scoperto che fate anche attività ricreative tipo videogiochi: [film:]
-PSB054	[sì c'è la che fa: giochi giochi da tavolo c'è il laboratorio di attivismo noi diciamo siamo un gruppo più di {P} socializzazione
+PSB054	[sì c'è la che fa: giochi giochi da tavolo c'è il laboratorio di attivismo noi diciamo siamo un gruppo più di (.) socializzazione
 PSB135	ah sì sì
 PSB133	[laboratorio di atti]vismo cos'è?
 PSB054	[c'è:]
 PSB135	e:h è interes[sante quello]
 PSB054	[fanno eh] adesso dovrebbero ri~ sono [stati fermi un] poì
 PSB133	[no ma cos'è]
-PSB054	fanno: loro organizzano attività da portare in piazza {P} spesso
-PSB054	e: che ne so per il venticinque aprile per delle ricorrenze e quindi diciamo {P} si preparano un po' per:
+PSB054	fanno: loro organizzano attività da portare in piazza (.) spesso
+PSB054	e: che ne so per il venticinque aprile per delle ricorrenze e quindi diciamo (.) si preparano un po' per:
 PSB054	fanno spesso formazioni e autoformazioni
 PSB054	quindi: mh si magari si focalizzano:
 PSB054	per qualche incontro su qualche argomento: ne parlano: mh si fa si vede qualche documentario si fa dibattito confronto e poi
 PSB135	mi sa che ci entrerò: un pochettino xxxx
 PSB135	[(menomale)]
 PSB054	[e:h]
-PSB135	ho no[tato che il è molto] organizzato {P} ha talmente poca gente che ci [va]
+PSB135	ho no[tato che il è molto] organizzato (.) ha talmente poca gente che ci [va]
 PSB054	[no è quello]
 PSB054	[mh]
 PSB135	soprattutto perché sono è un ambiente più maschile i maschi [tendono] di meno a chiedere aiuto e la solita [menata che ci sono poche perso]ne però è: è da da tempo che c'è sto servizio e mi stupisce che
@@ -2068,12 +2068,12 @@ PSB135	ah
 PSB134	sì
 PSB135	ah non anni novanta
 PSB134	no no [prima]
-PSB054	[no è da: sì {P} sì sì è da]
+PSB054	[no è da: sì (.) sì sì è da]
 PSB135	[a:h allora no come non detto allora ho sba]gliato io no vabbè allora okay posso capire però è comunque [è stra~]
 PSB054	[beh è ca]mbiato molto c(io)è come organigramma come struttura è cambiata molto negli anni
 PSB135	eh no però dico [come lo conosciamo adesso]
 PSB133	[tu quanto lo freque]nti?
-PSB054	io: da {P} dopo il covid quindi sarà {P} tre anni
+PSB054	io: da (.) dopo il covid quindi sarà (.) tre anni
 PSB133	[ma tu] sei di bologna? proprio [se posso chiedere]
 PSB054	[da]
 PSB054	[no io sono abru]zzese sono abruzzese sono venuta qu[a:]
@@ -2087,25 +2087,25 @@ PSB054	teramo
 PSB133	o[kay]
 PSB054	[e:h]
 PSB135	[terra degli or]si e del mare e della montagna
-PSB054	{ride}
+PSB054	((ride))
 PSB135	mai visto un orso?
-PSB054	n:o mai {ride}
+PSB054	n:o mai ((ride))
 PSB135	no: perché io lo vor[rei vede]re c(io)è m:h con un un fucile in mano possibilmente però lo vorrei vedere
-PSB054	[ma] {ride}
-PSB054	{ride}
+PSB054	[ma] ((ride))
+PSB054	((ride))
 PSB135	non si sa mai
 PSB133	(no prendi il [fuoco)]
 PSB135	[o anz]i con lo spray anti or~ che è tipo una bombola grossa così che va tipo da qui a: venti metri
-PSB054	{ride}
+PSB054	((ride))
 PSB054	e:hm
 PSB054	però sì insomma
 PSB054	se:
-PSB054	non mi ricordo cosa stavamo dicendo SI' eh sì tre anni {P} tre anni ades~ da quest'anno siamo: sono responsabile di settore insieme agli altri: due [ragazzi]
+PSB054	non mi ricordo cosa stavamo dicendo SI' eh sì tre anni (.) tre anni ades~ da quest'anno siamo: sono responsabile di settore insieme agli altri: due [ragazzi]
 PSB133	[ah tu hai] cominciato così come c(io)è nel senso non hai subito cominciato come volontaria ma
-PSB054	sì ho inizia~ sì ho iniziato come volontaria gli anni scorsi e poi quest'anno siamo diventati responsabili: {P} appunto di giovani
+PSB054	sì ho inizia~ sì ho iniziato come volontaria gli anni scorsi e poi quest'anno siamo diventati responsabili: (.) appunto di giovani
 PSB054	e:
 PSB054	però s~ sì prima in pieno covid insomma era c'era anche il gruppo:
-PSB054	il {P} che non so se lo co~ che prima era le[gato all'università però è morto:]
+PSB054	il (.) che non so se lo co~ che prima era le[gato all'università però è morto:]
 PSB135	[m:i sa di sì ho se~ >non mi ricordo< perché io] non conoscevo bene (st[ando un po' qua]:) mi informavo [un pochettino] qualche cosa l'ho sentito quel nome sì
 PSB054	[m:h]
 PSB054	[mhmh]
@@ -2114,46 +2114,46 @@ PSB054	e:
 PSB054	però sì no c(io)è noi abbiamo un po' il problema opposto nel senso è
 PSB054	veramente: ha un organigramma enorme siamo troppi
 PSB135	[certo]
-PSB054	[siamo tro]ppo staff troppi volontari: c(io)è no troppi volontari no {ride}
+PSB054	[siamo tro]ppo staff troppi volontari: c(io)è no troppi volontari no ((ride))
 PSB054	però e:h se~ siamo tanti gruppi siamo molt[o divisi <è un casino>]
-PSB135	[eh ho notato perché ho aperto il vostro sito io xx ho aper~] ho trovato si~ il sito che {P} c(io)è è un mo~ è pieno di attività infatti [dice]vo
+PSB135	[eh ho notato perché ho aperto il vostro sito io xx ho aper~] ho trovato si~ il sito che (.) c(io)è è un mo~ è pieno di attività infatti [dice]vo
 PSB054	[mhmh]
 PSB054	[sì]
 PSB135	mamma mia non solo i giochi da tavolo ma anche i videogiochi vuol dire che proprio di finanziamenti ne c(io)è ne avete comunque ho visto anche
 PSB135	i: [monitor]
 PSB054	[di~ dipen]de dai gruppi
 PSB135	>dipende dai gruppi< [però]
-PSB054	[la giu]lia ha un sacco di so~ è una macchina da [soldi] noi siamo veramente: {P} [risicati] {ride}
+PSB054	[la giu]lia ha un sacco di so~ è una macchina da [soldi] noi siamo veramente: (.) [risicati] ((ride))
 PSB135	[ah]
 PSB135	[eh però ve la rischiate perché]: [la parte giovane è importate secon]do [me °capisco°]
-PSB133	[ma {P} i fondi]
+PSB133	[ma (.) i fondi]
 PSB133	[se posso farvi una] domanda i fondi se po~ è una questione molto personale c(io)è da dove è il go~ il [governo che vi:]
 PSB135	[mezzi privati e pubblici] secondo me
 PSB054	al[lora]
 PSB135	[lo dico] senza saperlo
 PSB054	<il
-PSB054	io {P} quello che s~ allora il è un'associazione senza scopo di lucro [quindi loro] praticamente cercano di arrivare a fine anno sempre a un {P} bilancio zero
+PSB054	io (.) quello che s~ allora il è un'associazione senza scopo di lucro [quindi loro] praticamente cercano di arrivare a fine anno sempre a un (.) bilancio zero
 PSB133	[sì]
-PSB054	quindi {P} loro con le serate in discoteca {P} finanziano {P} i gruppi
+PSB054	quindi (.) loro con le serate in discoteca (.) finanziano (.) i gruppi
 PSB133	ah
 PSB135	[no è genia]le st'idea non ci avevo <pensato> [xx]
 PSB054	[e quindi si]
-PSB054	[e qui]ndi: hanno: insomma hanno i fondi per {P} mantenere un po' i gruppi
-PSB133	si ma come fanno a {P} c(io)è
-PSB133	c~ fare la serata {P} senza c(io)è [o il dj] [ah i volontari]
+PSB054	[e qui]ndi: hanno: insomma hanno i fondi per (.) mantenere un po' i gruppi
+PSB133	si ma come fanno a (.) c(io)è
+PSB133	c~ fare la serata (.) senza c(io)è [o il dj] [ah i volontari]
 PSB135	[che figo]
 PSB135	[fanno serate tra l'altro] gratuite quindi [guadagnano da]ll'(alcool) o comunque da quello che vendono ah interes[sante]
 PSB054	[no è se~]
-PSB054	[eh pero c'è] la tessera {P} loro [guadagnano un sacco con quella che co]sta [tipo tredici euro l'arcigay]
+PSB054	[eh pero c'è] la tessera (.) loro [guadagnano un sacco con quella che co]sta [tipo tredici euro l'arcigay]
 PSB135	[è vero c'è la te~ è vero]
 PSB135	[con la tessera è vero no è perché interessa] xx un sacco su sta roba qua guarda
 PSB054	sì quindi:
 PSB054	però sì hanno sia dipendenti che vol~ c(io)è tipo in serata lavorano: [sono dei io ci ho lavorato anche]
 PSB133	[c(io)è una un'associazione ti]po per dire io e lui decidiamo non so di aprire [che ne so]
-PSB135	[no io la a]pro te lo dico {P} mi ha già dato un'idea no no {ride}
-PSB054	{ride}
+PSB135	[no io la a]pro te lo dico (.) mi ha già dato un'idea no no ((ride))
+PSB054	((ride))
 PSB133	calmati calmati arrivo dico no so un'associazione che ne s~ o:
-PSB054	{ride}
+PSB054	((ride))
 PSB133	non so come dirla per: la
 PSB133	insomma persone che ha la hai hanno problemi con l'alcool [non so (qua]l è il problema)
 PSB054	[m:h]
@@ -2161,16 +2161,16 @@ PSB135	alcolisti
 PSB133	eh? ah va bene sì sì [e:h]
 PSB135	[anch'io avevo pensa]to alla discoteca perché attira [(un po' di più)]
 PSB133	[e:]
-PSB133	e tipo c(io)è se i~ io e lui vogliamo {P} se abbiamo i fondi {P} possiamo farlo [°c(io)è non so°]
-PSB135	[ma: anche se]nza fondi mio nonno ha dei contatti qui {ride} se vuoi
-PSB054	{ride}
+PSB133	e tipo c(io)è se i~ io e lui vogliamo (.) se abbiamo i fondi (.) possiamo farlo [°c(io)è non so°]
+PSB135	[ma: anche se]nza fondi mio nonno ha dei contatti qui ((ride)) se vuoi
+PSB054	((ride))
 PSB133	ah e:h
 PSB133	ah
 PSB133	[ah quindi sono de~] ah pensavo c(io)è nel senso
-PSB135	[ah {P} ah ah] {ride}
-PSB133	ah non è {P} una cosa del governo °quindi°
+PSB135	[ah (.) ah ah] ((ride))
+PSB133	ah non è (.) una cosa del governo °quindi°
 PSB133	non centra [col gove~]
-PSB054	[no gli] <spazi> lì della: la sono dati dal {P} sono del comune
+PSB054	[no gli] <spazi> lì della: la sono dati dal (.) sono del comune
 PSB054	li ha: dati in gestione al cre[do]
 PSB134	[non] sono proprio del o sono solo [(in gestione?)]
 PSB054	[eh no perché qua]ndo c'erano i lavori tipo
@@ -2179,16 +2179,16 @@ PSB134	[pensavo fosse]ro in comunità
 PSB054	che dà gli spazi [e:h]
 PSB135	[sì è ve]ro il comune gli ha dato gli spazi sono [m:h] credo negli anni duemila ha spostato la sede lì dove e:h si [trova adesso]
 PSB054	[quindi]
-PSB054	[sì che prima stava] in via saragozz[a quindi {P} sì]
-PSB135	[esatto (anche questo) non mi] ricordo perché però secondo me è meglio dove sta adesso perché {P} credo sia più grande xx
+PSB054	[sì che prima stava] in via saragozz[a quindi (.) sì]
+PSB135	[esatto (anche questo) non mi] ricordo perché però secondo me è meglio dove sta adesso perché (.) credo sia più grande xx
 PSB054	m:h [sì]
 PSB135	[non lo so]
 PSB134	sì saragozza è molto piccola
 PSB135	mh
 PSB135	ah ma [è rimasta la se]de oppure è proprio [caduto]
 PSB054	[infatti]
-PSB134	[no è diventa]to {P} un (museo) della madonna
-PSB135	ah {P} ho capi[to]
+PSB134	[no è diventa]to (.) un (museo) della madonna
+PSB135	ah (.) ho capi[to]
 PSB134	[le]tteralmente
 PSB054	veramente?
 PSB134	(museo) della madonna di san luca
@@ -2201,25 +2201,25 @@ PSB054	[e:h era lì]
 PSB135	[no: era lì il casse]ro
 PSB134	sì era uno spazio molto picco[lo]
 PSB054	[eh] infat[ti]
-PSB135	[no ca]volo >allora< {P} secono me hanno fatto bene a spostarlo
+PSB135	[no ca]volo >allora< (.) secono me hanno fatto bene a spostarlo
 PSB054	sì [poi i pro]blemi di spazio continuano s~ c(io)è ogni [assemblea se ne pa]rla per però sì si[curamente meglio]
 PSB135	[non è male]
 PSB135	[eh no allora]
-PSB135	[no poi a bologna vi di]co {P} ho notato [che movimenti del ge]nere ce ne sono e ne avrete bisogno [di nuovi spazi]
+PSB135	[no poi a bologna vi di]co (.) ho notato [che movimenti del ge]nere ce ne sono e ne avrete bisogno [di nuovi spazi]
 PSB054	[sì]
 PSB054	[s:ì s]ì sì
 PSB054	no infatti e:h c(io)è xx ci sono tantissime associazioni tantissimi collettivi e pochi: spazi
 PSB135	[no infatti bo]logna sia per quanto riguarda le questioni religiose ma anche non religiose ho notato che non è messa male eh
 PSB054	[però]
-PSB135	secondo me una #strong #believer n~ {P} al sud o comunque in altre zone anche del nord non la troviamo facilmente
+PSB135	secondo me una #strong #believer n~ (.) al sud o comunque in altre zone anche del nord non la troviamo facilmente
 PSB054	no vabbè bologna su certe cose è proprio u[n: mondo a pa]rte una bolla [lo:]
 PSB135	[eh sì]
-PSB135	[anche] di ne~ >ho notato< molti negozi aperti da giovani {P} dai trentacinque in giù [quindi della no]stra gen~ adesso non so [quanti anni avete però] {P} siete più o meno della nostra credo
+PSB135	[anche] di ne~ >ho notato< molti negozi aperti da giovani (.) dai trentacinque in giù [quindi della no]stra gen~ adesso non so [quanti anni avete però] (.) siete più o meno della nostra credo
 PSB054	[°sì°]
 PSB054	[°sì sì sì°]
 PSB135	[io c'ho ventun'anni e lui]:
 PSB054	[sì sì ma infatti]
-PSB135	quanti venti {P} tre?
+PSB135	quanti venti (.) tre?
 PSB133	sì
 PSB054	sì noi venticinque
 PSB134	ven[tisei]
@@ -2230,7 +2230,7 @@ PSB134	otto mesi
 PSB135	a:h anche tu c(io)è anche tu sei da poco comunque
 PSB134	sì io frequentavo prima arcigay milano
 PSB134	che si trov~
-PSB135	sì sì è simile ho capito sì m:h ho visto un po' sulle pagine instagram dei vari o simil in giro per {P} l'italia
+PSB135	sì sì è simile ho capito sì m:h ho visto un po' sulle pagine instagram dei vari o simil in giro per (.) l'italia
 PSB135	e:h
 PSB054	com'è sei solo
 PSB054	un [anno]
@@ -2240,7 +2240,7 @@ PSB134	fine aprile
 PSB054	il nostro
 PSB054	e:hm
 PSB054	ragazzi se volete io vi: vi libero
-PSB054	se volet[e che sono quasi le se]i è un bel po' che {ride}
+PSB054	se volet[e che sono quasi le se]i è un bel po' che ((ride))
 PSB133	[sì io quasi]
 PSB135	sì sì no ci sta ci sta
 PSB133	come vole~

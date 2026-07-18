@@ -529,11 +529,11 @@ PSB005	mhmh
 PSB091	a buttare
 PSB091	tipo con
 PSB005	si si
-PSB091	unu . doi . trei . patru
+PSB091	unu (.) doi (.) trei (.) patru
 PSB005	mhmh
 PSB005	ah
 PSB091	cinci
-PSB091	șase . șapte
+PSB091	șase (.) șapte
 PSB091	opt
 PSB091	nouă zece zece
 PSB005	ma quindi sai un po'

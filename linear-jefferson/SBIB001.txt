@@ -1,21 +1,21 @@
-PSB005	okay {P} sono curiosissima di sapere cosa fanno i ragazzi a scuola adesso {P} a bologna
+PSB005	okay (.) sono curiosissima di sapere cosa fanno i ragazzi a scuola adesso (.) a bologna
 PSB021	mhmh
 PSB021	allora se devo parlare in generale della sc[uola]
 PSB005	[sì] se ti va sì
 PSB021	in italia
 PSB005	della tua scuola
-PSB021	della mia scuola {P} [mh]
+PSB021	della mia scuola (.) [mh]
 PSB005	[sì]
 PSB021	cioè non è che mi piaccia tanto
 PSB005	m[:h]
 PSB021	<[s]inceramente>
-PSB021	perché comunque è una cosa: sbagliata {P} qua facciamo cinque anni di superiori no?
+PSB021	perché comunque è una cosa: sbagliata (.) qua facciamo cinque anni di superiori no?
 PSB021	prima seconda e:h, quinta
-PSB021	solo che {P} fanno scegliere l'indirizzo:
-PSB021	a {P} in terza superiore
+PSB021	solo che (.) fanno scegliere l'indirizzo:
+PSB021	a (.) in terza superiore
 PSB021	dove abbiamo dodici tredici anni
 PSB005	mhmh
-PSB021	e che, {P} noi a dodici tredici anni siamo ancora {P} ragazzini anzi bambini
+PSB021	e che, (.) noi a dodici tredici anni siamo ancora (.) ragazzini anzi bambini
 PSB021	quindi
 PSB021	non è che sappiamo: dove andare: che indirizzo prendere
 PSB021	io personalmente faccio la sia
@@ -85,7 +85,7 @@ PSB005	ma che cos'é l'erasmus per per le superiori? perché non sapevo che [esi
 PSB021	[allora]
 PSB021	l'eras~ allora
 PSB021	alle superiori dopo il terzo anno anzi si inizia dal terzo anno però dipende: che scuo~ g~ sc~
-PSB021	scuole varie scuole tipo la mia scuola ha iniziato dal quarto anno {P} perché c'era il covid
+PSB021	scuole varie scuole tipo la mia scuola ha iniziato dal quarto anno (.) perché c'era il covid
 PSB021	quindi
 PSB021	hanno: detto che vabbè visto che c'era il covid facciamo dal quarto anno
 PSB021	stage
@@ -104,14 +104,14 @@ PSB021	e io invece l'anno scorso sono andata in portogallo
 PSB021	è uscito il bando
 PSB021	io non vole~ cioè
 PSB021	volevo ma era una cosa da sola
-PSB021	con {P} altri studenti di altre scuole [di altre] città
+PSB021	con (.) altri studenti di altre scuole [di altre] città
 PSB005	[mhmh]
 PSB005	mhmh
 PSB021	quindi: io avevo
-PSB021	un botto paura però ho detto vabbè {P} esperienza è esperienza cioè: tanto
+PSB021	un botto paura però ho detto vabbè (.) esperienza è esperienza cioè: tanto
 PSB021	sì ma: e sono andata e ho lavorato lì per un mese
 PSB021	ho lavorato:
-PSB021	in un'azienda {P} e:h
+PSB021	in un'azienda (.) e:h
 PSB021	dove si basa tipo di informatica
 PSB021	quindi dovevo stare: sul computer tipo sei ore
 PSB021	a: su <facebook a creare le pagi[ne:>]
@@ -121,7 +121,7 @@ PSB021	e poi ci sono altri miei amici che hanno
 PSB021	lavorato giù con e:h come posso dire?
 PSB021	meccanica [quindi con] le macchine una cosa del genere
 PSB005	[mhmh]
-PSB021	°quindi::° {P} quindi sì ho fatto un mese questo lavoro e mi è piaciuto un botto [°ma un botto bell]issimo°
+PSB021	°quindi::° (.) quindi sì ho fatto un mese questo lavoro e mi è piaciuto un botto [°ma un botto bell]issimo°
 PSB005	[infatti bellissimo]
 PSB005	fantastico [xxx fantastico]
 PSB021	[volevo anche quest'anno] ma
@@ -140,12 +140,12 @@ PSB005	ma vi~ hai v~ hai fatto qualche gi:ta la domenica così o:[: n]o?
 PSB021	[ma beh]
 PSB021	allora in teoria,
 PSB021	noi quando dovevamo già andare in portogallo dovevamo
-PSB021	cioè {P} cioè riposare un giorno
+PSB021	cioè (.) cioè riposare un giorno
 PSB021	e il giorno dopo iniziare a lavorare
 PSB021	abbiamo riposato una <settimana>
 PSB021	abbiamo:[:] girato: cioè siamo andati al mare
 PSB005	[ah sì]
-PSB021	in spia~ {P} in spiaggia
+PSB021	in spia~ (.) in spiaggia
 PSB021	e:h
 PSB021	poi lisbona poi anche in altre città che adesso non mi viene il nome [cioè non mi ricordo pro]prio [°quindi:°]
 PSB005	[beh non ti preoccupare]
@@ -157,8 +157,8 @@ PSB021	poi anche per i motivi familiari cioè praticamente mia famiglia: non mi 
 PSB021	non mi farà uscire
 PSB021	di sera: alle otto e nove andare fuori con gli amici
 PSB005	invece in gita sì
-PSB021	in gita {ride} fino alle dodici ero fuori [quindi:]
-PSB005	{ride}
+PSB021	in gita ((ride)) fino alle dodici ero fuori [quindi:]
+PSB005	((ride))
 PSB005	[che be~] ma eravate accompagnati da un professore [così]
 PSB021	[sì] però anche la professore~ visto che era giovane
 PSB021	e:h
@@ -180,7 +180,7 @@ PSB005	[mhmh mh]
 PSB005	e qualche lato positivo della tua scuola?
 PSB021	ci devo pensare
 PSB005	comunque io sono molto d'accordo che: a tredici anni è molto presto
-PSB021	[anche tutt~ tutte] scuole non dico solo la mia questa in [generale] in tutte le scuole {P} tredici a~
+PSB021	[anche tutt~ tutte] scuole non dico solo la mia questa in [generale] in tutte le scuole (.) tredici a~
 PSB005	[ci penso sempre sì]
 PSB005	[mhmh]
 PSB021	io personalmente volevo diventare un dottore
@@ -189,7 +189,7 @@ PSB005	[beh] sei ancora in tem[po eh]
 PSB021	[ma]
 PSB021	secondo me non sì
 PSB005	teori[camente]
-PSB021	[solo che:] {P} tu devi iniziare tutto da ca~ anche per architettura
+PSB021	[solo che:] (.) tu devi iniziare tutto da ca~ anche per architettura
 PSB021	tutto da ca[po per]ché
 PSB005	[mhmh]
 PSB021	c'é matematica okay lì c'é tantissima matematica e ci sono delle materie che io
@@ -253,7 +253,7 @@ PSB021	non è che i miei
 PSB021	vietano anzi [no no] non mi vie~
 PSB005	[mhmh]
 PSB021	però: già a diciotto anni chiedere anco:ra: i soldi ai miei
-PSB021	poi all'università se vai male arriva {ride}
+PSB021	poi all'università se vai male arriva ((ride))
 PSB005	ma n[o comunque] non:
 PSB021	[xx che]
 PSB005	basta studiare insomma [m:h]
@@ -297,12 +297,12 @@ PSB005	[ma] anche il piccolo?
 PSB021	anche il pi[ccolo è]
 PSB005	[non fa un po' di]: n:[:o]
 PSB021	[no]
-PSB005	{ride}
+PSB005	((ride))
 PSB021	giocano con i nos~ loro giochi e se io devo studiare studio eh non mi [dicono niente]
 PSB005	[°ah okay xx°]
 PSB005	e vanno d'accordo? giocano anche tra di loro [un po']?
 PSB021	[sì sì]
-PSB021	vabbè no {P} non sempre alcune volte sì alcune volte no
+PSB021	vabbè no (.) non sempre alcune volte sì alcune volte no
 PSB021	la maggior parte no
 PSB005	e:h a te piace avere dei fratelli maschi perché sai io ho due frate~ due sorelle femmine quindi siamo:
 PSB005	tre femmine e no[n:]:
@@ -320,7 +320,7 @@ PSB005	mhmh
 PSB021	quindi da mangiare:
 PSB021	lo davo io andava a dormire con me anche adesso
 PSB021	quindi s:- sì
-PSB021	[°bello° {P} sì sì sì sì mo]lto legati però comunque preferirei avere
+PSB021	[°bello° (.) sì sì sì sì mo]lto legati però comunque preferirei avere
 PSB005	[quindi siete molto legati anche sicuramente]
 PSB021	un e:h fratello
 PSB005	non una sorella?
@@ -337,7 +337,7 @@ PSB005	quindi sono proprio cresciuta in mezzo
 PSB005	alle femmine solo e non mi riesco neanche a immaginare come sia avere un: [fratellino un frate]llo
 PSB021	[°sì esatto°]
 PSB005	ehm:
-PSB021	da: e:h dipende poi dipende poi dipende da tutto cioè [{P} io] dico sì
+PSB021	da: e:h dipende poi dipende poi dipende da tutto cioè [(.) io] dico sì
 PSB005	[sì sì sì]
 PSB021	buono bello perché ai miei: fratelli comportano bene con me: loro
 PSB021	poi se non: e:h non si comportavano bene o
@@ -364,7 +364,7 @@ PSB021	asia
 PSB021	sono veramente duri con lo studio quindi se~ se prendi anche un otto
 PSB021	perché hai preso otto e non nove?
 PSB005	mh
-PSB021	quindi {P} però i miei genitori piano piano hanno capito che
+PSB021	quindi (.) però i miei genitori piano piano hanno capito che
 PSB021	perché stu~ vedono che io studio sto ventiquattro ore sui libri
 PSB021	e ho spiegato che guarda mamma
 PSB021	forse quest'anno ma proprio moralmente
@@ -373,7 +373,7 @@ PSB021	cioè c~ c~ c~ c~ passo delle notti a piangere
 PSB021	proprio per stu~ cioè io studio così bene
 PSB021	vado alle interrogazioni o a~ nelle verifiche vado male
 PSB021	invece ci sono i miei compagni
-PSB021	che {P} loro copiando
+PSB021	che (.) loro copiando
 PSB021	prendono otto nove
 PSB021	e io ti dico:
 PSB021	ieri cos'è successo che ho fatto la verifica
@@ -381,7 +381,7 @@ PSB021	no ieri l'altro
 PSB021	studiato io e una mia amica abbiamo studiato tantissimo io non copio
 PSB021	sincera
 PSB021	anche se copio come facciamo? un bigliettino si fa [dai:]
-PSB005	[vabbè] [sì {P} non è] proprio copiare sì
+PSB005	[vabbè] [sì (.) non è] proprio copiare sì
 PSB021	[xx]
 PSB021	bigliettini
 PSB021	ma con apple watch
@@ -401,7 +401,7 @@ PSB005	[sì sì sì]
 PSB021	giusta
 PSB021	quindi io non lo so
 PSB021	quest'anno con la maturità se vado
-PSB021	c'é c'é mia mamma che non mollare si pensa in [positivo {P} se no]
+PSB021	c'é c'é mia mamma che non mollare si pensa in [positivo (.) se no]
 PSB005	[infatti ancora] c'é [tempo no]?
 PSB021	[vedrai]
 PSB021	c'è un mese anche i miei amici [dai vai] su
@@ -429,7 +429,7 @@ PSB021	se devo bocciare ho una: xxx
 PSB005	ma io penso di no dai
 PSB005	[vabbè]
 PSB021	[poi se] poi se vengo:
-PSB021	ho deciso ricomincio {P} da capo
+PSB021	ho deciso ricomincio (.) da capo
 PSB021	succede,
 PSB021	non è una co~ cioè é una cosa brutta però dall'altra parte non è che: (calato) il mondo
 PSB005	cioè non non muori non morirai [sì però speria]mo
@@ -480,9 +480,9 @@ PSB021	rega: deve avere almeno qua~
 PSB021	quattro ore per: diri~ dovete spendere le vostre quattro ore per [diritto]
 PSB005	[al gio]rno?
 PSB021	al giorno
-PSB005	e come si [fa]? {ride}
+PSB005	e come si [fa]? ((ride))
 PSB021	[io] dico ma come faccio
-PSB005	{ride} no [e le altre materie]?
+PSB005	((ride)) no [e le altre materie]?
 PSB021	[scusami quatt]ro ore e altre materie dove metto?
 PSB021	in terza superiore cosa facevo ho studiato sempre diritto e economia politica per avere
 PSB021	un voto alto lì perché prendevo solo quattro con lei perché voleva copia incolla a memoria <a memoria>
@@ -500,7 +500,7 @@ PSB021	tutto
 PSB021	tutto dobbiamo studiare
 PSB021	eh in un'ora
 PSB021	allo~ o~ ie~ oggi ho avuto due ore di diritto
-PSB021	quindi pensa: {ride}
+PSB021	quindi pensa: ((ride))
 PSB021	a sta~ a~ e:h un capitolo e me~ no un capitolo: anzi no due capitoli e mezzo ha spiegato
 PSB021	due capitoli e mezzo
 PSB005	tosto
@@ -524,7 +524,7 @@ PSB021	le prof di italiano sono sempre state buone
 PSB005	beh meno male:
 PSB005	e ti piace scrivere anche?
 PSB021	scrivere sì
-PSB005	cioè fate i~ i testi scritti in classe? [{P} come pro~ eh esatto]
+PSB005	cioè fate i~ i testi scritti in classe? [(.) come pro~ eh esatto]
 PSB021	[sì i temi? i temi i temi quelli] vado bene sì
 PSB005	e ti piace abbas[tanza]?
 PSB021	[a me piace] tipo ieri ho fatto la
@@ -538,8 +538,8 @@ PSB021	a: già da sessant'anni non non sono
 PSB021	io dico [perché]
 PSB005	[ah i miei geni]tori hanno più di sessant'a~
 PSB021	eh io dico
-PSB005	{ride}
-PSB021	è vero che {P} adesso sono inutili
+PSB005	((ride))
+PSB021	è vero che (.) adesso sono inutili
 PSB021	per la società in senso non possono lavorare
 PSB021	però
 PSB021	non possiamo ucci~
@@ -594,13 +594,13 @@ PSB021	la nonna è mor~ io lo chiamo non[na anche se]: era padrone è morta lei 
 PSB005	[mhmh]
 PSB005	oh [no]
 PSB021	[e] per me è stata una cosa terri~ cioè io:
-PSB021	non ho mai pianto neanche per i miei nonni che {P} lì giù in bangladesh ma solo per lei perché
+PSB021	non ho mai pianto neanche per i miei nonni che (.) lì giù in bangladesh ma solo per lei perché
 PSB021	è mia nonna [sì forse le per]sone dicono come fa a essere tua nonna e tu sei una straniera?
 PSB005	[eh certo]
 PSB005	[vabbè adottiva sì]
 PSB021	[e pure il: il] velo e [tutto]
 PSB005	[mhmh mh]
-PSB021	perché vi {P} fate queste domande ba~ perché io non posso mettere il velo così
+PSB021	perché vi (.) fate queste domande ba~ perché io non posso mettere il velo così
 PSB021	e non avere una nonna italiana? una così cioè
 PSB021	non capisco [che]
 PSB005	[sì] è che le persone non riflettono molto [prima di parlare sì]
@@ -613,10 +613,10 @@ PSB021	comunque lei:
 PSB021	ha: sessant'anni secondo me ancora giovane sessant'anni
 PSB005	eh sì mia mamma ne ha sessan[ta pensa]
 PSB021	[eh sessant'an]ni sì sessanta settant'anni [e va]bbè e:h
-PSB005	{ride}
+PSB005	((ride))
 PSB005	[sì]
 PSB021	mi ha
-PSB021	e:h lei mi ha insegnato {P} mi ha: andavo lei da studiare: mi ha insegnato:
+PSB021	e:h lei mi ha insegnato (.) mi ha: andavo lei da studiare: mi ha insegnato:
 PSB021	e:h d~ non so
 PSB021	come rispettare le persone come parlare con i pro:f e:h
 PSB021	tante cose e poi quando hai bisogno di qualcosa
@@ -633,8 +633,8 @@ PSB005	[mhmh]
 PSB005	[no no infatti]
 PSB021	a lavorare [orma]i non è poi colpa loro anch'io devo un giorno essere vecchia anche tu [xx]
 PSB005	[no no]
-PSB005	[speria]mo {ride} speriamo di [riposarci un po'] quando siamo vecchie {ride}
-PSB021	[esa~] {ride}
+PSB005	[speria]mo ((ride)) speriamo di [riposarci un po'] quando siamo vecchie ((ride))
+PSB021	[esa~] ((ride))
 PSB021	esatto
 PSB005	[ovviamente]
 PSB021	[cioè infatti] io non sono per niente infatti io ho scrit~ volevo scrivere tantissimo in questo tema solo che °non avevamo avuto°
@@ -682,7 +682,7 @@ PSB021	ritornata ho fatto l'esame quindi
 PSB021	se vedi
 PSB021	io sbaglio qui tanto con la grammatica perché mi mi manca tantissimo
 PSB005	ma non mi sembra proprio
-PSB021	{ride}
+PSB021	((ride))
 PSB005	parlando no poi non so quando scrivi però:
 PSB021	anche quando scr[ivo] cioè vado bene
 PSB005	[mh]
@@ -697,7 +697,7 @@ PSB005	che per me è proprio [un pa]ese sconosciuto quindi se
 PSB021	[mhmh]
 PSB005	mh se ti va di raccontarmi [qualsiasi co]sa:
 PSB021	[be:h]
-PSB021	allora se vado a viaggiare per stare per le vacanze {P} benissimo
+PSB021	allora se vado a viaggiare per stare per le vacanze (.) benissimo
 PSB005	com'è? com'è fatto? è caldo [è fre~]?
 PSB021	[caldissi]mo
 PSB005	mhmh
@@ -716,10 +716,10 @@ PSB021	(con le mani:) fanno diversi tipi di do[lci tante cose]
 PSB005	[°chissà che buoni°]
 PSB021	(°roba buo[nissima°) quindi:]
 PSB005	[io son molto golosa]
-PSB021	a~ anch'io {ride} anch'io tanto
+PSB021	a~ anch'io ((ride)) anch'io tanto
 PSB021	e:h m:h
 PSB021	e:h sì mi son trovata benissimo PErò
-PSB021	se {P} devo andare lì a studiare: no
+PSB021	se (.) devo andare lì a studiare: no
 PSB021	[perché] ci sono le persone lì
 PSB005	[mhmh]
 PSB021	tanti studenti che
@@ -789,7 +789,7 @@ PSB005	mhmh
 PSB005	[e inve]ce qui ti sembra più pulito?
 PSB021	[e:h]
 PSB005	perché anche qui ogni tanto
-PSB021	insomma {P} però [sì]
+PSB021	insomma (.) però [sì]
 PSB005	[mhmh]
 PSB021	vabbè eh rispetto al banglade~ in europa ci siamo
 PSB005	okay
@@ -842,7 +842,7 @@ PSB021	alla barca [esatto]
 PSB005	[okay]
 PSB021	mi piace più lì anche perché
 PSB021	sinceramente mh ci sono pochi stranieri
-PSB021	ci sono molti più italiani perché lì è una zona costosa {ride}
+PSB021	ci sono molti più italiani perché lì è una zona costosa ((ride))
 PSB021	molto
 PSB021	quindi:
 PSB021	q[uindi (sono:)] sì [sì]
@@ -886,7 +886,7 @@ PSB021	che era speciale
 PSB021	no e:h
 PSB021	wonder
 PSB005	AH infatti te lo stavo per dire
-PSB021	wo[nde]r {ride}
+PSB021	wo[nde]r ((ride))
 PSB005	[sì]
 PSB005	e: [qui]ndi lo consigl[i]?
 PSB021	[era]
@@ -946,13 +946,13 @@ PSB005	°[no infa~]°
 PSB005	son d'accor[do]
 PSB021	[infa]tti noi abbiamo fatto l'assemblea abbiamo detto no si chiama marco marco starà con noi
 PSB005	ma che bravi che siete
-PSB021	lu~ {P} c~ come compagni noi
+PSB021	lu~ (.) c~ come compagni noi
 PSB005	mhmh
 PSB021	ci odiamo tutti
 PSB021	però a vicenda ci aiutiamo
 PSB021	cioè: per esempio una mia prof
 PSB021	di economia aziendale
-PSB021	mi dice perché porto il velo {P} è inutile
+PSB021	mi dice perché porto il velo (.) è inutile
 PSB021	davanti a me
 PSB005	t~ ti di[ce] così?
 PSB021	[e]
@@ -964,7 +964,7 @@ PSB021	ha tutte: tutte le lauree eccetera è una commercialista
 PSB021	non [(puoi dir nulla)]
 PSB005	[ma è anzia]na o giovane?
 PSB021	ha
-PSB021	sessant'anni [{P}] pure lei [{P}] ma~ a~ meno di sess~
+PSB021	sessant'anni [(.)] pure lei [(.)] ma~ a~ meno di sess~
 PSB005	[mh]
 PSB005	[beh co~]
 PSB021	sessan[t'anni dai]
@@ -993,9 +993,9 @@ PSB021	che
 PSB021	non vi fa male non vi uccido [per questo qui]
 PSB005	[no si]curamente no
 PSB021	forse non non mi vedete i capelli
-PSB021	però {P} è come una parte cioè
+PSB021	però (.) è come una parte cioè
 PSB005	sì co[me]
-PSB021	[le cu]ro anche per anche i miei capelli li curo be:ne anche anche più o meno scusami {ride}
+PSB021	[le cu]ro anche per anche i miei capelli li curo be:ne anche anche più o meno scusami ((ride))
 PSB021	oggi ho messo questo domani metterò il giallo eccetera
 PSB021	però
 PSB021	mi dicono queste cose una mia amica si è alzata e dice
@@ -1003,7 +1003,7 @@ PSB021	come se~ e mi dicono andiamo dal vice preside lo dobbiamo di:re: si è co
 PSB021	tu[xxxx]
 PSB005	[e siete anda]ti a dirlo?
 PSB021	no alla fine no non v~ io ho detto non voglio fare i casini per favore
-PSB021	perché poi se ho un rapporto brutto con la prof poi nelle verifiche mi caccia s~ due {ride}
+PSB021	perché poi se ho un rapporto brutto con la prof poi nelle verifiche mi caccia s~ due ((ride))
 PSB005	[sì ma]
 PSB021	[e io dico s]
 PSB005	si è mai ripetuto o è stato solo una volta
@@ -1054,7 +1054,7 @@ PSB021	però do~ tutto dopo: °le verifiche le interrogazioni eccetera°
 PSB005	ah il mio compleanno è il ventisei
 PSB021	[ah~ tu~]
 PSB005	[quindi s]iamo vici[ne]
-PSB021	[tu]tte [vicine] {ride}
+PSB021	[tu]tte [vicine] ((ride))
 PSB005	[sì sì >sì sì sì<]
 PSB021	no no no quindi:
 PSB005	sì ma guarda che: io mi ricordo che la quinta:
@@ -1081,7 +1081,7 @@ PSB021	[a:h] [oka:~]
 PSB005	[sì sì]
 PSB005	mi ricordo bene mol~ vabbè ormai sono passati molti anni però delle volte scrivevamo anche dei cartelli,
 PSB005	con delle scritte grandi e comunicavamo:
-PSB005	{ride}
+PSB005	((ride))
 PSB021	questo adesso non c'é
 PSB005	non succede
 PSB005	okay
@@ -1164,8 +1164,8 @@ PSB021	e:h m:h e:h
 PSB021	anche con il pane
 PSB021	tutto mischiato e:h si fa: sì
 PSB005	eh io sono molto golosa quindi:
-PSB021	e:h ma anch'io cioè mi viene cioè {ride}
-PSB005	{ride} [anche a me infatti]
+PSB021	e:h ma anch'io cioè mi viene cioè ((ride))
+PSB005	((ride)) [anche a me infatti]
 PSB021	[quindi:]
 PSB021	è è veramente buona e mi piace un botto
 PSB005	[eh nella] e:h~ ei:
@@ -1236,7 +1236,7 @@ PSB021	[è una ti]po~ (co) marocchino
 PSB021	noi non centriamo però ha imparato
 PSB005	mh[mh]
 PSB021	[il cou]scous: e:h
-PSB021	e:h tante cose tanti tipi: di cibi ben~ {P} bengalesi
+PSB021	e:h tante cose tanti tipi: di cibi ben~ (.) bengalesi
 PSB021	che l'it~ sono gli italiani no perché abbiamo i parenti
 PSB021	più gli italiani proprio per:
 PSB021	per e:h
@@ -1324,7 +1324,7 @@ PSB005	[sì] perché quello~ quella cosa lì che fai tu
 PSB005	è un lavoro in realtà [ci sono delle] persone che studiano apposta e [invece]
 PSB021	[esatto]
 PSB021	[eh]
-PSB005	tu lo fai: [perché sei] già bravissima {ride}
+PSB005	tu lo fai: [perché sei] già bravissima ((ride))
 PSB021	[esa~]
 PSB005	e ho visto anche che ha una scrittura diversa
 PSB021	sì
@@ -1375,7 +1375,7 @@ PSB021	poi io in quinta superiore sto ancora: studiando #present continuos
 PSB021	#future [e:h]
 PSB005	[ma] perché così? così
 PSB005	siete così indietro?
-PSB021	perché i nostri prof non sanno: {ride}
+PSB021	perché i nostri prof non sanno: ((ride))
 PSB021	cioè io in prima superiore non avevamo avuto una prof decente che sa parlare non sa neanche
 PSB021	abbiamo cambiato
 PSB021	in seconda abbiamo cambiato non c'è il prof
@@ -1400,7 +1400,7 @@ PSB005	[ah]
 PSB021	da un'anno due anni che non riesco più a guardare niente
 PSB021	niente
 PSB021	ti giu[ro]
-PSB005	[non vor]rei mai tornare a quan~ [quando andavo scuola] {ride}
+PSB005	[non vor]rei mai tornare a quan~ [quando andavo scuola] ((ride))
 PSB021	[e:h]
 PSB021	eh anchio non vedo l'ora di
 PSB021	uscire
@@ -1409,18 +1409,18 @@ PSB021	[no]
 PSB021	tipo oggi ho
 PSB021	oggi in questo questo tempo se~
 PSB021	non veninvo mi mettevo a studiare
-PSB005	eh [tra poco ti libero infatti] {ride}
+PSB005	eh [tra poco ti libero infatti] ((ride))
 PSB021	[un po' e:h]
 PSB005	[(ma)]
 PSB021	[(tipo)] a me va bene a me piace comunque uscire:
 PSB021	però
-PSB021	{tosse}
+PSB021	((tosse))
 PSB021	qua non dico per me anche per le altre ragazze
 PSB021	che vuole studiare o che e:h non abbiamo tempo perché
 PSB021	io dico proprio in generale la scuola italiana è fatta veramente male
 PSB021	scusami che dico però proprio [veramen]te
 PSB005	[no ma perché]
-PSB005	io non centro niente con la scuola io non mi {ride} io non [sono responsabi]le
+PSB005	io non centro niente con la scuola io non mi ((ride)) io non [sono responsabi]le
 PSB021	[cioè:]
 PSB021	veramente male perché
 PSB021	ventiquattr'ore su ventiquattro sui libri dobbiamo stare
@@ -1477,12 +1477,12 @@ PSB005	sì
 PSB005	no guardiamo che ore sono che adesso
 PSB021	[no non] è non è tardi mia mamma tanto pronto mamma
 PSB021	dimmi
-PSB021	papà {P} ecco infatti: sì: sì mi ha mandato qualcosa papà
+PSB021	papà (.) ecco infatti: sì: sì mi ha mandato qualcosa papà
 PSB021	(non per)
 PSB005	guarda pure guarda pure
 PSB005	comunque tra uh due minuti [possiamo anche salutarci]
 PSB021	[ma no: tranquilla] tranquillissima
-PSB021	{registrazione_interrotta_per_motivi_di_privacy}
+PSB021	((registrazione_interrotta_per_motivi_di_privacy))
 PSB005	tutto okay?
 PSB021	sì sì tutto okay
 PSB021	come ti ho detto
@@ -1520,7 +1520,7 @@ PSB005	in [videochiamata]
 PSB021	[a:h] videochiamata °quindi°
 PSB005	e vi ca~ ti capita abbastanza sp[esso]?
 PSB021	[sì sì] tipo con la mia migliare amica
-PSB021	dispera:ti studiamo {ride}
+PSB021	dispera:ti studiamo ((ride))
 PSB005	e non vi vedete di?
 PSB021	[sì sì] [certo ci ve]diamo
 PSB005	[per~]
@@ -1560,7 +1560,7 @@ PSB021	[sì sì sì lo conosco] >sì sì sì<
 PSB005	e:h mh
 PSB005	ho cambiato un po' di case con i miei genitori perché i miei genitori sono un po':
 PSB005	inquieti
-PSB005	cambiano {ride} molto
+PSB005	cambiano ((ride)) molto
 PSB005	però: sono stata sempre in quella zona ho fatto il e quando ero al mi sembra sì
 PSB005	<e:h delle velote facevo un corso di pomeriggio di inglese e quindi uscivo di scuola avevo un po' di pausa
 PSB005	e mi fermavo a studiare in sala borsa e poi andavo:
@@ -1615,7 +1615,7 @@ PSB005	[eh]
 PSB005	>ah eh [c'era un dopo]scu~ [c'era un] doposcuola lì<?
 PSB021	[proprio],
 PSB021	[s~]
-PSB021	sì sì, si chiama tortuga, {P} mi ricordo
+PSB021	sì sì, si chiama tortuga, (.) mi ricordo
 PSB005	ah, ma sì ma ho capito qual è,
 PSB005	sì sì me lo ricordo, c'è anche una scuola mi sembra,
 PSB021	ah sì
@@ -1645,7 +1645,7 @@ PSB005	[credo],
 PSB005	credo >o mi sto con-<
 PSB005	>non lo so<,
 PSB005	>forse mi sto confondendo< lasciamo stare
-PSB005	{ride}
+PSB005	((ride))
 PSB021	°sì°
 PSB005	e::hm
 PSB005	NO, niente quindi::,
@@ -1662,7 +1662,7 @@ PSB005	[è una cos]a:,
 PSB005	che ti piace::? [che non ti piace],
 PSB021	>[eh non è< è, è un obbligo], che dobbiamo fare
 PSB005	okay
-PSB021	>è un obbligo, non è che dobbiamo odiare ma, lo facciamo con il nostro {P} cuore<,
+PSB021	>è un obbligo, non è che dobbiamo odiare ma, lo facciamo con il nostro (.) cuore<,
 PSB005	mhmh
 PSB021	è la nostra, religione
 PSB021	eh diciamo che è un giorno dove,
@@ -1672,7 +1672,7 @@ PSB021	MO, non so, >dire per bene< [però] ho sentito che,
 PSB005	[mhmh]
 PSB021	ci sono delle persone, che:
 PSB021	non riescono a mangiare, non hanno il cibo, non hanno queste,
-PSB021	quindi per rispettare, per {P} fare, una cosa, carin[a],
+PSB021	quindi per rispettare, per (.) fare, una cosa, carin[a],
 PSB005	[mh]mh
 PSB021	c(io)è, abbiamo questo di fare il ramada[n],
 PSB005	[m]hmh
@@ -1725,7 +1725,7 @@ PSB021	sì si può dire [anche] così
 PSB005	[okay]
 PSB005	non ne avevo mai:,
 PSB005	capito,
-PSB005	no, non mi hanno spiegato, bene {ride}
+PSB005	no, non mi hanno spiegato, bene ((ride))
 PSB005	perché, ovviamente io non no~ è un'abitudine che non: che non conosco,
 PSB005	°ah ho capito,° e dopo, avete fatto una festa alla [fine:]?
 PSB021	[una festa],
@@ -1739,7 +1739,7 @@ PSB021	insieme: alla famiglia >o con i cugini<, con i vestiti eleganti, perché 
 PSB021	di tradizione [no]?
 PSB005	>[chissà] come sono belli<,
 PSB021	insom~
-PSB021	però, {tossisce} in italia non si trovano, quindi io, >non so~ non sono riuscita a mettere il vestito<,
+PSB021	però, ((tossisce)) in italia non si trovano, quindi io, >non so~ non sono riuscita a mettere il vestito<,
 PSB021	tradizione molto bella,
 PSB021	quindi ho, comprato un vestito e me la sono messa,
 PSB021	però, e:h diciamo che: comunque >è andata, bene< mamma: ha cucinato tantissimo ri:so, manzo,
@@ -1800,7 +1800,7 @@ PSB021	>fanno una scusa, inventano una scusa, motivi famigliari<, queste, e se n
 PSB021	non dovete fare così
 PSB021	sì, >è vero che in italia ci sono delle persone<,
 PSB021	che, vi dicono ma: scusate state in italia, perché fate questa festa
-PSB021	poi io, il mio cervello sta in italia, perché è il mio cervello c'(io)è non è il tuo paese, {P} quindi,
+PSB021	poi io, il mio cervello sta in italia, perché è il mio cervello c'(io)è non è il tuo paese, (.) quindi,
 PSB021	sì ci sono,
 PSB021	però, fregatene, tu devi avere il tuo rispetto devi avere,
 PSB021	quindi, devi avere il tuo rispetto quindi, devi dire questa cosa qua,
@@ -1855,7 +1855,7 @@ PSB021	e poi, anche questa che, dovevo anche, finirlo,
 PSB005	che bel[la:],
 PSB021	[stavo pe]r fare, ma, dovevo an[che chiudere],
 PSB005	[e quanto du]rano?
-PSB021	{tossisce} una settimana, >poi se una persona lava tantissimo ore e ore, la mano<,
+PSB021	((tossisce)) una settimana, >poi se una persona lava tantissimo ore e ore, la mano<,
 PSB021	allora, si vanno anche:, in quattro cinque [giorni], però stanno
 PSB005	[mhmh]
 PSB005	quindi, hai comunque, delle: amiche, ragazze della tua età?
@@ -1869,7 +1869,7 @@ PSB021	questo,
 PSB005	figata,
 PSB021	e poi:,
 PSB021	cioè, questo, >per esempio era il mio vestito<,
-PSB021	che, mi ha, portato dal {P} dal [bangladesh]
+PSB021	che, mi ha, portato dal (.) dal [bangladesh]
 PSB005	[bello],
 PSB021	son questi,
 PSB021	e poi:,
@@ -1880,7 +1880,7 @@ PSB021	però non è il mio in senso è della mia mamma, [io], ho comprato di qua
 PSB005	[mh]
 PSB005	[mhmh]
 PSB021	[però:, a]lla fine mamma ha detto metti,
-PSB005	{ride} ma [sì],
+PSB005	((ride)) ma [sì],
 PSB021	[questa] invece, è la mia henné che ho fatto io,
 PSB005	mh[mh]
 PSB021	[nella mi]a mano,
@@ -1894,7 +1894,7 @@ PSB021	tradizio[nale],
 PSB005	[che figa]ta,
 PSB021	infatti sì è:
 PSB021	ah, e anche questo,
-PSB021	proprio tradizionale, tradizionale questo qua, ma vabbè che lei stava, {P} facendo tiktok
+PSB021	proprio tradizionale, tradizionale questo qua, ma vabbè che lei stava, (.) facendo tiktok
 PSB021	questo,
 PSB005	che figo,
 PSB021	LEI, è bellissima poi,
@@ -1906,7 +1906,7 @@ PSB021	okay
 PSB005	di solito, la collego più all'india però,
 PSB005	wow, ma, tu sei una di queste [giu~ no eh infa]tti,
 PSB021	[no, no no no],
-PSB005	[mi sembrava di n]o {ride}
+PSB005	[mi sembrava di n]o ((ride))
 PSB021	[io xxx]
 PSB021	no no,
 PSB005	e queste son le tue amiche?
@@ -1924,7 +1924,7 @@ PSB005	[okay]
 PSB021	terzo superiore
 PSB005	okay
 PSB021	e invece l'altra, è sempre scientifico:,
-PSB021	il: prima superiore, o, {P} sì prima, perché,
+PSB021	il: prima superiore, o, (.) sì prima, perché,
 PSB021	più una:, più [xx]
 PSB005	[più, pi]ù giovane, sì
 PSB021	sì sì più gio[vane],
@@ -1948,7 +1948,7 @@ PSB021	[c'(io)è:],
 PSB005	che vi ve[dete]?
 PSB021	[sì s]ì s[ì],
 PSB005	[e c]on loro, i~ sono curiosa in che lingua parli?
-PSB021	italia[no, poi e]:: >loro, manco capiscono bengalese<, anch'io, noi, {P} italian[o],
+PSB021	italia[no, poi e]:: >loro, manco capiscono bengalese<, anch'io, noi, (.) italian[o],
 PSB005	[in italiano],
 PSB005	[mh] okay,
 PSB021	perché:,

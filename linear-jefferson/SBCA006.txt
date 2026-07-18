@@ -39,16 +39,16 @@ PSB126	[no] però [xx lo me]tti tu
 PSB125	[uno perché]
 PSB125	non me ne frega niente perché non mi piace: c(io)è non mi piace lo stile quindi me ne metto uno a caso,
 PSB126	non ti piace il kaftano?
-PSB126	che gira {P} che gira [tutto il mon]do?
+PSB126	che gira (.) che gira [tutto il mon]do?
 PSB125	[non mi pia~]
-PSB125	no tipo quello marocchino non mi {P} c(io)è ci sono quelli, bel[li],
+PSB125	no tipo quello marocchino non mi (.) c(io)è ci sono quelli, bel[li],
 PSB126	[il kaf]tan[o #f-l-maghr[ib]
 PSB125	[no ci sono]
 PSB125	[ci] sono quelli belli che però costano tanto,
 PSB126	eh eh quelli costa[no]
 PSB125	[eh]
 PSB125	eh no ma quelli che mettiamo noi non costano tanto e non mi piacciono quelli tipo insomma::
-PSB125	#haute [{P} >non so come dire< #haute #couture? di moda],
+PSB125	#haute [(.) >non so come dire< #haute #couture? di moda],
 PSB126	[no basta xx è una cos]a sem[plice]
 PSB125	[que]lli son belli
 PSB125	quelli son belli li vedi nelle sfilate
@@ -68,7 +68,7 @@ PSB126	#mā [eh eh #qdar-sh] #n-shri #lī-k #dyāl mille euro
 PSB125	[però appunto]
 PSB125	MA NON NON non lo voglio neanche
 PSB125	non lo voglio neanche bisogna mettersi i kaftani ai matrimoni marocchini va bene
-PSB126	sei marocchi]na ti devi indossare [{P} la tua roba]
+PSB126	sei marocchi]na ti devi indossare [(.) la tua roba]
 PSB125	[però metto]
 PSB125	[ma se a me non mi] piace se a me non mi piace
 PSB125	che eh a a a parte il fatto che non è una: una regola una legge mettersi: il kaftano nei mat~ nei matrimoni
@@ -95,7 +95,7 @@ PSB125	c(io)è
 PSB125	me mi c(io)è mi frega ovviamente del matrimonio di mia cugina però del vestito, essendo che eh eh
 PSB125	non c(io)è eh
 PSB125	anche al matrimonio: anche il matrim~ matrimonio suo quello: che ha fatto qui in italia c(io)è eh eh
-PSB125	mi son messa quel {P} quel robo lì che mi hai comprato [non]
+PSB125	mi son messa quel (.) quel robo lì che mi hai comprato [non]
 PSB126	[quel]lo robo?
 PSB125	no
 PSB125	non era quello che mi avevi comprato te
@@ -133,8 +133,8 @@ PSB126	no non non fa p[arte] della famiglia [no n]o
 PSB125	[ah]
 PSB125	[no]
 PSB125	no infatti s[i vede]
-PSB126	[se tu] [consideri] così, {P} no
-PSB125	[c(io)è non eh] {ride}
+PSB126	[se tu] [consideri] così, (.) no
+PSB125	[c(io)è non eh] ((ride))
 PSB126	quello è miei figli come tu sei mia figlia
 PSB126	si[ete tutti e] due u[guali]
 PSB125	[°sì vabbè°]
@@ -148,14 +148,14 @@ PSB125	[spe~ spe][riamo]
 PSB126	[che sia molto ab]biamo ancora un anno intero
 PSB125	speriamo s[ì]
 PSB126	[sp]eriamo
-PSB126	eh {P} [si spera sempre]
+PSB126	eh (.) [si spera sempre]
 PSB125	[speriamo:] °eh°
 PSB125	[lu~]
 PSB126	mn llāḥ
 PSB125	LUI può non venire al matrimonio però [io sono obbligata]
 PSB126	[se tu non vuoi venire],
 PSB126	non
-PSB126	{suona_il_telefono}
+PSB126	((suona_il_telefono))
 PSB126	allo~ stai qua a casa
 PSB126	eh
 PSB126	cosa t[i dico]
@@ -256,7 +256,7 @@ PSB125	BEH
 PSB125	[inviti]
 PSB126	[è il ristora]nte non possiamo eh invitare tanta gente
 PSB126	è ristorante costa
-PSB126	eh {P} non è come
+PSB126	eh (.) non è come
 PSB126	#_bḥāl l-3rǝs lli f-l-maghrib, l-3rǝs lli kay-kūnu hnāya f-l-qā3a; nās kāmʿ-hā kat-ākul kat (.) qḍrī dī ṣḥāb-t-ek, qḍrī dī
 PSB126	#amma #l il ristorante costa alla persona
 PSB126	non p~ tu non puoi invitare più di venti uo~ venti venticinque persone
@@ -264,7 +264,7 @@ PSB126	se no,
 PSB126	un bordello
 PSB125	vabbè non è proprio un bordello c(io)è è per i soldi appunto
 PSB126	no è
-PSB126	mh sì {ride} è anche per i soldi perché non è solo il ristorante ci sono altre cose da pagare da [fare da sbrigare]
+PSB126	mh sì ((ride)) è anche per i soldi perché non è solo il ristorante ci sono altre cose da pagare da [fare da sbrigare]
 PSB125	[però avevamo mangiato bene]
 PSB125	[>avevamo< mangiato bene stra bene]
 PSB126	[però sì eh passato] bene, [con le xx]
@@ -284,7 +284,7 @@ PSB126	il giorno della chiesa,
 PSB126	quello più bello
 PSB125	[eh]?
 PSB126	[e:h] del comune mi sempre
-PSB126	mi confondo con la chiesa e il comune {ride}
+PSB126	mi confondo con la chiesa e il comune ((ride))
 PSB126	il giorno del comune:
 PSB126	shḥāl dāz zwīn 3and-ha w-kān hādāk nhār ṣabbat shta subḥānallāḥ
 PSB126	e::h
@@ -304,8 +304,8 @@ PSB125	[va]bbè no allo~ mh c(io)è allora
 PSB125	poi,
 PSB125	non lo so allora quando diventerà grande non lo so se s~
 PSB125	c(io)è spero per lei di sì però mamma mia c(io)è
-PSB125	mamma mia {P} c(io)è s~
-PSB125	no vabbè {P} che dio mi perdoni però:
+PSB125	mamma mia (.) c(io)è s~
+PSB125	no vabbè (.) che dio mi perdoni però:
 PSB126	no [no]
 PSB125	[ma aveva il mo]no~ il d~ eh il monociglio
 PSB125	ave~ i baffe[tti il monociglio era stra pelosa]
@@ -313,9 +313,9 @@ PSB126	[#xxxx xx tantii cap]elli #ma #ma #wlīdāt xx]
 PSB125	[eh]
 PSB125	[no vabbè lo so mi dispia]ce però era talmente
 PSB125	poco: °(in)somma°
-PSB125	che son~ c(io)è proprio {ride} no non ho potuto non guardare
+PSB125	che son~ c(io)è proprio ((ride)) no non ho potuto non guardare
 PSB125	perché g~ guardi guardi i bambini sia quelli: i c(io)è i neonati lo li guardi sia per quanto sono: belli,
-PSB125	però poi {P} c(io)è
+PSB125	però poi (.) c(io)è
 PSB126	ma non eh non]
 PSB125	[li guardi anche se sono particolarmente brutti]?
 PSB125	no allora mamma ci sono delle persone che da bambini sono brutti e poi [crescono] e s'aggius[tano va bene]
@@ -328,10 +328,10 @@ PSB125	cioè
 PSB126	assomi::- #kat-shbah b-bābā-ha
 PSB125	no la mamma
 PSB126	che mamma #kat-shbah b-bābā-ha
-PSB125	[ma {P} il il pa]pà era quello pelato?
+PSB125	[ma (.) il il pa]pà era quello pelato?
 PSB126	[è tutta suo padre]
-PSB126	no quello eh con {P} #xāl
-PSB125	ah {P} boh
+PSB126	no quello eh con (.) #xāl
+PSB125	ah (.) boh
 PSB125	perché c'era
 PSB125	[ah pen[savo fosse lui]
 PSB126	[no xxxx] non è quello ch[e]
@@ -373,16 +373,16 @@ PSB126	lo so tu stai parlando #gīlt-i #ki #shbhu l-persiani #gīlt-i #lī-k #h�
 PSB125	[ma no] allora m~
 PSB125	non sta in quello ti sto dicendo
 PSB126	no ma forse o~ capisco l'italiano forse
-PSB125	{ride} no [mamma ma ti sto dicendo nel senso che]
+PSB125	((ride)) no [mamma ma ti sto dicendo nel senso che]
 PSB126	[no no ma io xx lo capisco] eh
 PSB125	sembr[ano]
 PSB126	[non] sono ignorante [eh]
 PSB125	[ma]
 PSB125	pe~ per il fatto che appunto hanno i~ il naso che
 PSB125	be~ bene o male è è uguale per tutti nel senso che è grande e c'ha la g~ l~ il naso aquilino cioè la go[bba]
-PSB126	[mh {P}] mh
+PSB126	[mh (.)] mh
 PSB125	e gli occhi sono: sono gra:ndi poi
-PSB125	capelli nerissimi, {P} foltissimi,
+PSB125	capelli nerissimi, (.) foltissimi,
 PSB125	sono anche secondo me stra pelose perché:
 PSB125	c(io)è se[mbra:]
 PSB126	[eh lo fanno anche] il trattamento di capelli lo[ro]
@@ -399,11 +399,11 @@ PSB125	s~ mah un po' sì però c'è proprio quel look specifico,
 PSB125	mah ma
 PSB126	ma anche loro sono musulmani però sciiti
 PSB125	ma cos~ cosa significa che sono musulmani scusami
-PSB126	eh somigliamo come [{P} come gli europei]
-PSB125	[solo perché sono {P} ma scusa]mi allora e:h i: i senegalesi son musulmani asso[migliamo ai senegalesi ma cosa stai dicendo]?
+PSB126	eh somigliamo come [(.) come gli europei]
+PSB125	[solo perché sono (.) ma scusa]mi allora e:h i: i senegalesi son musulmani asso[migliamo ai senegalesi ma cosa stai dicendo]?
 PSB126	[no: no no intendevo no inte]ndevo per esempio gli europei tutti somigliano tra di lo[ro]
 PSB125	[ma] ci assomigliamo [perché è il medio oriente]
-PSB126	[gli uomini {P} capelli] s~ eh chi[ari, e] cape~ gli occhi chiari,
+PSB126	[gli uomini (.) capelli] s~ eh chi[ari, e] cape~ gli occhi chiari,
 PSB125	[eh]
 PSB126	no intendo quello
 PSB126	noi maggior parte gli arabi [musulmani ci somi]gliamo
@@ -421,11 +421,11 @@ PSB125	persiani so~ i persiani sono: gli abitanti dell'iran
 PSB126	era [e~ irani]ane, [io] capi~ io conosco delle iraniane come arabi
 PSB125	[punto]
 PSB125	[eh]
-PSB126	eh {P} [dopo]
+PSB126	eh (.) [dopo]
 PSB125	[ma sì] ci assomigliamo pe[rò],
-PSB126	[ci assomi]gliamo tanto con gli occhi neri, i capelli neri, [xx anche la] carnagio[ne {P} uguale]
+PSB126	[ci assomi]gliamo tanto con gli occhi neri, i capelli neri, [xx anche la] carnagio[ne (.) uguale]
 PSB125	[eh però]
-PSB125	[vabbè io ti sto di]cendo che loro mi sembrano {P} mi sembrano da da come: da com[e sembrano da da]
+PSB125	[vabbè io ti sto di]cendo che loro mi sembrano (.) mi sembrano da da come: da com[e sembrano da da]
 PSB126	[eh da come eh irania]ne sì
 PSB126	però sì ti
 PSB125	dalle f[attezze],
@@ -433,7 +433,7 @@ PSB126	gīlt lī-k ki t-shbhu]
 PSB125	[non mi sembrano]
 PSB125	ah
 PSB126	#mǝrra #tlaqīt iraniana #kunt #mshīt #l-mondo convenienze #l-cuzina #wāhda #xaddāma (#tim)
-PSB126	#ana #kunt #tsenna (#xǝrt) #nakhud trenta #w~ #bǝrka #f-l-fermata {P} #hiyya #ta-hiyya #xaddāma #tǝmma #xǝrjat (#kat-shīd) l-fermata
+PSB126	#ana #kunt #tsenna (#xǝrt) #nakhud trenta #w~ #bǝrka #f-l-fermata (.) #hiyya #ta-hiyya #xaddāma #tǝmma #xǝrjat (#kat-shīd) l-fermata
 PSB126	bqāt kat-shūf fī-ya
 PSB126	#_bqāt kat-shūf fī-ya gālǝt lī-ya
 PSB125	ha pensato che tu fossi persiana?
@@ -443,7 +443,7 @@ PSB126	#āh #gālǝt #lī-ya #āh #hnā #kull-na #zwīnīn #w~ #hiyya [#zwīna #
 PSB125	[vabbè ma perché c(io)è t'ha] visto [che c'hai:]
 PSB126	[gli occchi xx gra]nde, gli eh capelli gr~ neri,
 PSB126	una bella: una bella ra~ [una donna donna]
-PSB125	[ma perché t'ha {P} t'ha visto] che c'hai: c'avevi il velo quindi [°ha pensato°]
+PSB125	[ma perché t'ha (.) t'ha visto] che c'hai: c'avevi il velo quindi [°ha pensato°]
 PSB126	[sì eh]
 PSB126	i~ eh lo so che sono musulmana però da dove e::h
 PSB126	#gīlt-lī-ha #l-maghrib #āh #gālǝt #lī-ya anche il #maghrib siete belli siete così
@@ -483,11 +483,11 @@ PSB125	però devi mettere in co~ c(io)è devi:: m:h
 PSB125	devi capire che poi,
 PSB125	è l'unico con un naso
 PSB126	anche la #xxx #zwin]
-PSB125	[accettabile {P} aspe']
+PSB125	[accettabile (.) aspe']
 PSB125	è l'unico co~ nella sua famiglia,
 PSB125	nei suoi parenti,
 PSB125	con un naso più o meno accettabile
-PSB125	perché poi tutti {P} tutta la sua famiglia poi c'ha quel naso lì
+PSB125	perché poi tutti (.) tutta la sua famiglia poi c'ha quel naso lì
 PSB125	anche la
 PSB125	la
 PSB126	@sara 3and-ha n-ngda
@@ -500,13 +500,13 @@ PSB125	allora di naso non son messi bene poi può capitare che
 PSB125	okay magari nascerà con un naso,
 PSB125	bello
 PSB125	però già di naso
-PSB125	per quello che {P} c(io)è per [eh]
+PSB125	per quello che (.) c(io)è per [eh]
 PSB126	[ma ti] interessa solo naso?
 PSB125	NO vabbè ti sto solo dicendo secondo me di naso è un po' messo male perché (in)somma se ti guardi attorno
 PSB125	non è che
 PSB125	tra di loro ci siano chissà che bei nasi
 PSB125	°okay°
-PSB125	gli occhi, {P} gli occhi potrebbero essere grandi
+PSB125	gli occhi, (.) gli occhi potrebbero essere grandi
 PSB125	perché allora dalla parte di
 PSB125	non ha gli occhi grandi
 PSB125	#tata miri[am]
@@ -515,20 +515,20 @@ PSB125	[no non ha gli occhi grandi]
 PSB126	[eh xxx]
 PSB125	ma non ha gli occhi grandi
 PSB125	non ha gli occhi grandi
-PSB125	l'ho visto io qualche giorno fa l'ho {P} me me lo ricordo meglio io
+PSB125	l'ho visto io qualche giorno fa l'ho (.) me me lo ricordo meglio io
 PSB125	non ha gli occhi grandi
-PSB126	[abbastan~ {P} abbastanza] abbastanza
+PSB126	[abbastan~ (.) abbastanza] abbastanza
 PSB125	[TU hai gli occhi grandi IO ho gli occhi grandi]
 PSB125	vabbè
-PSB125	e:: la sara {P} non ha gli occhi grandi #tata miriam pure,
-PSB125	invece {P} tutta la famiglia {P} di °invece ha gli occhi grandi°
-PSB125	quindi avrà {P} nasone,
+PSB125	e:: la sara (.) non ha gli occhi grandi #tata miriam pure,
+PSB125	invece (.) tutta la famiglia (.) di °invece ha gli occhi grandi°
+PSB125	quindi avrà (.) nasone,
 PSB125	occhi grandi,
 PSB125	e labbra: normali insomma
 PSB125	la ce le ha carnose quindi potrebbe avere delle belle: delle grandi labbra
 PSB125	quindi io me la immagino se una:: sì potrebbe essere: sia maschio che femmina,
-PSB126	{ride}
-PSB125	con {P} occhi [grandi, scuri],
+PSB126	((ride))
+PSB125	con (.) occhi [grandi, scuri],
 PSB126	wāḥd ma-kī-3raf dak-shī kī-3raf] 3ī llāḥ
 PSB125	[spe~]
 PSB125	[occhi gr]andi, scuri,
@@ -540,10 +540,10 @@ PSB125	e,
 PSB125	°sì questo°
 PSB125	ma c(io)è
 PSB126	#kat #bqāy #t-fakkri [#fī #hād le piccole cose]
-PSB125	[la {P} la bambina] o bambino me lo immagino c[osì]
+PSB125	[la (.) la bambina] o bambino me lo immagino c[osì]
 PSB126	eh importante è che nasca
 PSB126	e::h [e:h]
-PSB125	[vabbè {P} in salu]te
+PSB125	[vabbè (.) in salu]te
 PSB126	in salute è quello l'importante
 PSB125	è ovvio c(io)[è]
 PSB126	[na]so dritto naso [gobbo eh gli occhi piccoli]
@@ -552,7 +552,7 @@ PSB126	[eh]
 PSB125	scontatissimo
 PSB125	ovvio
 PSB126	eh beh
-PSB126	adesso vediamo anche tu {P} #inshāllāh [#t-kammli #qrayt-ek #w~ #inshāllāh] {P} [#īmta #ghādi #dāwzi] #permit?
+PSB126	adesso vediamo anche tu (.) #inshāllāh [#t-kammli #qrayt-ek #w~ #inshāllāh] (.) [#īmta #ghādi #dāwzi] #permit?
 PSB125	[no mamma dai basta]
 PSB125	[no no bas~]
 PSB125	°non lo so°
@@ -575,20 +575,20 @@ PSB126	t-qādri t-xadmi bī-h?
 PSB125	secondo te?
 PSB126	kīma t-xdī-h bdāy (.) dfa3ī īla l-qīt l-xadma llāh y-sahhal 3lī-k
 PSB125	[vabbè ma::]
-PSB126	[#xadmi #bāsh~] #qray #kammli #qray {P} #ṭāl #mǝn #t-shiddī un posto
+PSB126	[#xadmi #bāsh~] #qray #kammli #qray (.) #ṭāl #mǝn #t-shiddī un posto
 PSB125	[vabbè]
 PSB125	ma scusami ma: m:h
 PSB125	s~ e::h
 PSB125	cosa ti volevo dire
 PSB126	mh
-PSB125	tu, {P} qui hai ancora qualche amica?
+PSB125	tu, (.) qui hai ancora qualche amica?
 PSB125	oltre a:
 PSB126	3and-i @latifa
 PSB126	3and-ī @latifa mammat ashraf w-3andī @souad ṣḥābt-ī
 PSB126	w~ ṣāfī
 PSB126	hādu-huma ṣḥābti
 PSB125	_wākhā
-PSB125	e: quindi con {P} tua sorella non non ti senti più?
+PSB125	e: quindi con (.) tua sorella non non ti senti più?
 PSB126	no
 PSB126	mǝrra mǝrra kan-n-3ayyǝt 3lī-ha (.) mǝrra mǝrra
 PSB125	ma poi c(io)è: che: com'era il tuo rapporto con lei?
@@ -601,10 +601,10 @@ PSB125	[a parte il fatto che] lei,
 PSB125	è la gemella secondo me son gemelle
 PSB125	co~ eh: di #tat~ di #tata f~ e:h
 PSB125	sono uguali
-PSB125	sono {P} UGUALI
+PSB125	sono (.) UGUALI
 PSB126	#sh kat-gūlī [cosa stai dicendo::]
 PSB125	[ma sì ma sono uguali]
-PSB125	ma {P} allora tra di voi le uniche due,
+PSB125	ma (.) allora tra di voi le uniche due,
 PSB125	che si assomigliano veramente
 PSB125	sono loro
 PSB125	sembrano due gocce d'acqua
@@ -617,7 +617,7 @@ PSB125	c(io)è proprio la città si chiama tetouan?
 PSB126	eh
 PSB125	e:::hm:::
 PSB125	tipo:
-PSB125	non so quanti anni avevo però ero {P} ero piccola avrò avuto quei undici anni dodici non mi ricordo,
+PSB125	non so quanti anni avevo però ero (.) ero piccola avrò avuto quei undici anni dodici non mi ricordo,
 PSB125	e tipo::
 PSB125	c(io)è lei non mi è mai particolarmente stata simpatica
 PSB126	māl-ha shnū dārǝt lī-k
@@ -627,18 +627,18 @@ PSB125	niente poi alla fine tipo:: dovevamo uscire lei doveva uscire a comprare 
 PSB125	far delle compere,
 PSB126	mh
 PSB125	e m'ha fatto uscire con lei,
-PSB125	e poi tipo: non so per farmi::: {P} non so per
+PSB125	e poi tipo: non so per farmi::: (.) non so per
 PSB125	tipo mi ha comprato una cosa,
 PSB125	non mi ricordo che cosa mi ha compra~ tipo un cerchietto: un:
 PSB125	una trousse con dentro delle robe non mi ricordo forse un cerchietto,
 PSB125	però era solo tipo per poter tornare a casa e dire
-PSB125	toh {P} ho preso a tua figlia qualcosa
+PSB125	toh (.) ho preso a tua figlia qualcosa
 PSB126	mh
 PSB125	c(io)è non c(io)è non l'ho sen~ quel gesto non è stato:
 PSB125	secondo me
-PSB125	genuino da parte sua {P} perché: da come lo ricordo io c(io)è
-PSB125	l'ha fatto solo per {P} per poterti dire:
-PSB125	guarda ho comprato qualcosa a {P} a tua figlia ma in realtà tipo non gliene fregava niente
+PSB125	genuino da parte sua (.) perché: da come lo ricordo io c(io)è
+PSB125	l'ha fatto solo per (.) per poterti dire:
+PSB125	guarda ho comprato qualcosa a (.) a tua figlia ma in realtà tipo non gliene fregava niente
 PSB126	quelle cose non eh
 PSB126	t-bqāy t-shūfī fī-hom b-hādīk ṭarīqa ṣāfī shrāt-lī-k una cosa::
 PSB125	[vabbè c(io)è] ci sta alla fine c(io)è ero anche una bambina,
@@ -647,7 +647,7 @@ PSB125	ci sta
 PSB125	però:: boh non so
 PSB125	c(io)è non:: non ho mai sentito::
 PSB125	che fosse una persona genuina nei miei confronti
-PSB125	poi c(io)è {P} m:h da quel poco che:
+PSB125	poi c(io)è (.) m:h da quel poco che:
 PSB125	da quel poco che: (in)somma: l'ho vissuta
 PSB126	ḥaqqāsh ma-kbrtī-sh [m3ā-ha w-3ashtī-sh m3ā-ha]
 PSB125	[eh appunto anche quello]
@@ -660,7 +660,7 @@ PSB126	kbar-nā: kbar-nā jmī3
 PSB126	però #hiyya #tjawjat ventidue anni
 PSB125	mamma mia
 PSB126	e::h msh[at~]
-PSB125	[con] suo cugino {P} tra l'altro
+PSB125	[con] suo cugino (.) tra l'altro
 PSB126	eh e:h
 PSB126	#hnā #wla #t-jāwjī #b-l-cugin[o]
 PSB125	bleah
@@ -672,7 +672,7 @@ PSB126	#huwa #w~ #hiyya #f-dār l-bayda ma che cosa
 PSB126	no
 PSB126	non erano insieme in casa poi cresciuti insieme e poi si sono sposati
 PSB125	<vabbè>
-PSB126	a:h ma dobbiamo andare giù a portare quel: quell'armadio in cantina dai su {P} (a)ndiamo
+PSB126	a:h ma dobbiamo andare giù a portare quel: quell'armadio in cantina dai su (.) (a)ndiamo
 PSB126	(a)ndiamo [xxx]
 PSB125	[sì] (u)n attimo aspetta ancora un po'
 PSB125	ma quindi dov'è?
@@ -680,7 +680,7 @@ PSB126	adesso īh #lī-h
 PSB126	hādāk īla ma-3ayyat-sh lī-h tāni
 PSB125	mh vabbè
 PSB125	allora scendiamo adesso così posso entrare in doccia
-PSB125	e: che devo: °insomma° {P} devo lavarmi i capelli e tutto
+PSB125	e: che devo: °insomma° (.) devo lavarmi i capelli e tutto
 PSB125	domani: [domani sono via qua]si tutto il giorno con il volontariato
 PSB126	basta basta che xxx]
 PSB125	[sì: mi riportano] loro in macchina
@@ -737,4 +737,4 @@ PSB125	ancora: buona?
 PSB126	ancora buona #f-tellaja
 PSB126	#fī-ha #bellāti #fī-ha l-avena
 PSB126	la polvere d'avena
-PSB126	l-avena {P} #fī-h eh
+PSB126	l-avena (.) #fī-h eh

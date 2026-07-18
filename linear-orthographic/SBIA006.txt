@@ -77,9 +77,9 @@ PSB034	tu non parli arabo
 PSB014	no allora io parlo il dialetto però n c~ non arabo tradizonale fuṣḥā capito
 PSB034	sì
 PSB014	no
-PSB034	dārija ride
+PSB034	dārija ((ride))
 PSB014	dārija bravo
-PSB034	dārija xx dārija ride
+PSB034	dārija xx dārija ((ride))
 PSB033	ehm e perché sei venuto qua se posso chiedere perché sei venuto qua a bologna
 PSB034	mh
 PSB014	per lavoro studio
@@ -248,12 +248,12 @@ PSB034	cosa cibo
 PSB033	cibo cibo
 PSB014	pizza pasta
 PSB033	pizza pasta o
-PSB034	tajine ride
+PSB034	tajine ((ride))
 PSB033	tajine eh
 PSB014	tajine e quindi preferisci quello marocchino
 PSB033	ta~ tajine o pizza
 PSB033	tajine
-PSB034	tajine tajine ride
+PSB034	tajine tajine ((ride))
 PSB033	meglio tajine più buono
 PSB014	eh lo so è un casino
 PSB033	e qua a bologna

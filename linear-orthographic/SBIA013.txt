@@ -555,7 +555,7 @@ PSB066	sì
 PSB066	sì
 PSB067	non siamo sottomissione di nostri mariti
 PSB005	ma io non l'avrei mai chiesto
-PSB067	no
+PSB067	no ride
 PSB067	no
 PSB069	xxx
 PSB005	io li so li so
@@ -1212,7 +1212,7 @@ PSB005	ah devo an~ devo andare assolutamente
 PSB067	però lì ci sono le persone
 PSB067	come devo dire high class
 PSB066	high class
-PSB005	okay cap~ a tanger okay
+PSB005	okay cap~ a tanger okay ride
 PSB067	hanno anche anche l'a~ il cento come parlano loro mamma mia è troppo
 PSB067	si vede più elegante
 PSB005	posh
@@ -2115,7 +2115,7 @@ PSB067	shkīkū
 PSB005	sì
 PSB067	xx shkīkū
 PSB068	xx
-PSB066	hna xx shkīkū ride
+PSB066	hna xx shkīkū ((ride))
 PSB005	sì sì
 PSB067	no io no
 PSB066	no

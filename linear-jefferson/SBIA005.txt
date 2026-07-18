@@ -1,6 +1,6 @@
-PSB005	va bene okay {P} e::hm dimmi che cosa hai studiato in marocco
+PSB005	va bene okay (.) e::hm dimmi che cosa hai studiato in marocco
 PSB027	ho studiato fisica e chimica
-PSB027	alluniversità: eh di una città che si chiama {P} el jadida
+PSB027	alluniversità: eh di una città che si chiama (.) el jadida
 PSB005	okay [e d~]
 PSB027	[la cit]tà si chiama el jadida ma: l'università si chiama chouaib doukkali
 PSB005	okay e [dove si trova]?
@@ -14,34 +14,34 @@ PSB027	ma: la zo~ z~ più vicino perché
 PSB027	tanti qua diciamo italiani non la conoscano
 PSB005	infat[ti]
 PSB027	[se] non hanno visitato il marocco
-PSB027	però ti posso dire che è più vicino a casablanca di {P} cento chilometri più o meno
-PSB027	è: tra {P} una città che si chiama {P} asafi e una città che si chiama casablanca
+PSB027	però ti posso dire che è più vicino a casablanca di (.) cento chilometri più o meno
+PSB027	è: tra (.) una città che si chiama (.) asafi e una città che si chiama casablanca
 PSB005	mh okay
 PSB027	è in mezzo
 PSB005	la [città di casablanca] l'ho sentita [nominare]
 PSB027	[non c'è il mare]
-PSB027	[e:h] l'università è stata costruita {P} fuori la città [un po' {P} quasi] {P} $quatr(e) {P} chilometri tre chilom~ perché ci sono sempre quelli scioperi che fa:nno studen~
+PSB027	[e:h] l'università è stata costruita (.) fuori la città [un po' (.) quasi] (.) $quatr(e) (.) chilometri tre chilom~ perché ci sono sempre quelli scioperi che fa:nno studen~
 PSB005	[mhmh okay]
 PSB005	o~ e [quindi preferiscono]
-PSB027	[allora è stata] {P} a ecco $fore
+PSB027	[allora è stata] (.) a ecco $fore
 PSB005	a:h [è per questo]
 PSB027	[così si dice (qualche)]
 PSB027	penso di sì
-PSB027	io ci parlo: e:h {P} anni fa
+PSB027	io ci parlo: e:h (.) anni fa
 PSB005	ma quindi è [abbastanza nuova]?
 PSB027	[anche adesso] anche adesso
-PSB027	non è nuova nuova ma adesso c'ha quasi: {P} di più di trent'anni
+PSB027	non è nuova nuova ma adesso c'ha quasi: (.) di più di trent'anni
 PSB027	[l'università di] più di trent'anni
 PSB005	[mh okay mh okay]
 PSB027	perché è l'unica che c'era:
 PSB027	diciamo lì
-PSB027	dove abitavo io: {P} si chiama sepatz la città
+PSB027	dove abitavo io: (.) si chiama sepatz la città
 PSB005	mhmh
-PSB027	ma {P} tutti quelle: {P} che diciamo
-PSB027	vanno a fare l'università o vanno a una città che si chiama marrakech, {P} o vanno a casablanca, o vanno a el jadida
+PSB027	ma (.) tutti quelle: (.) che diciamo
+PSB027	vanno a fare l'università o vanno a una città che si chiama marrakech, (.) o vanno a casablanca, o vanno a el jadida
 PSB005	okay
-PSB027	c'erano poche non è che c'erano adesso ci sono {P} tante università non è che
-PSB027	non è come una volta {P} [sai]
+PSB027	c'erano poche non è che c'erano adesso ci sono (.) tante università non è che
+PSB027	non è come una volta (.) [sai]
 PSB005	mhmh [mhmh]
 PSB005	e raccontami di questi scioperi degli studenti
 PSB027	e:h scioperi parlano sempre::
@@ -49,17 +49,17 @@ PSB027	delle: diciamo:
 PSB027	borse studio
 PSB005	mhmh
 PSB027	e:h
-PSB027	perché non {P} la difficoltà che hanno trovato {P} diciamo
-PSB027	che uno che {P} più lontano di sua casa {P} di genitori i genitori non è che c'hanno un lavoro {P} diciamo dove guadagnano
+PSB027	perché non (.) la difficoltà che hanno trovato (.) diciamo
+PSB027	che uno che (.) più lontano di sua casa (.) di genitori i genitori non è che c'hanno un lavoro (.) diciamo dove guadagnano
 PSB027	diciamo che una famiglia c'ha tre o quattro figli [tra ma]schi e femmine
 PSB005	[mhmh]
-PSB027	e devono andare a studia[re all'univer]sità {P} non è che c'hanno quel capitale per
+PSB027	e devono andare a studia[re all'univer]sità (.) non è che c'hanno quel capitale per
 PSB005	[mhmh]
 PSB005	mhmh
 PSB027	allora
 PSB027	ci vuole l'affitto
 PSB005	mhmh
-PSB027	ci vuole {P} vestiti c(io)è allora lì {P} a quel periodo ci vanno {P} per tre me~ per t~ tre mesi mi sa ti danno
+PSB027	ci vuole (.) vestiti c(io)è allora lì (.) a quel periodo ci vanno (.) per tre me~ per t~ tre mesi mi sa ti danno
 PSB027	quasi centoventi euro
 PSB005	mh mh mhmh
 PSB027	di[ciamo] centoventi centotrenta
@@ -71,18 +71,18 @@ PSB027	[>allora<]
 PSB027	se uno resisti
 PSB027	diciamo
 PSB027	io ci parlo non a studiare
-PSB027	ma a livello {P} [econo~] {P} può [stare due] anni dopo {P} va a trovare un altro la[voro]
+PSB027	ma a livello (.) [econo~] (.) può [stare due] anni dopo (.) va a trovare un altro la[voro]
 PSB005	[mhmh]
 PSB005	[certo]
 PSB005	[mhmh]
 PSB027	che non è il suo proprio
 PSB005	mhmh
-PSB027	e poi da lì è nata la storia {P} che uno {P} per crescere {P} o per {P} il suo futuro {P} deve uscire dal marocco
-PSB005	mh {P} okay
+PSB027	e poi da lì è nata la storia (.) che uno (.) per crescere (.) o per (.) il suo futuro (.) deve uscire dal marocco
+PSB005	mh (.) okay
 PSB027	non c'erano posti di lavoro
-PSB027	c'è chi va a francia, chi va a italia {P} la maggior parte vengono qui in italia
-PSB005	okay {P} [perché]?
-PSB027	[a lavorare] {P} a lavorare
+PSB027	c'è chi va a francia, chi va a italia (.) la maggior parte vengono qui in italia
+PSB005	okay (.) [perché]?
+PSB027	[a lavorare] (.) a lavorare
 PSB005	perché vengono qui in italia la maggior parte?
 PSB027	maggior parte vengano qui perché là anche se studi
 PSB027	io ti parlo prima del duemila
@@ -97,68 +97,68 @@ PSB027	lì non ti basta sei lontano da casa
 PSB027	[devi] pagare l'affi[tto],
 PSB005	[mhmh]
 PSB005	[mhmh]
-PSB027	e:h le spese {P} non ti bastano
+PSB027	e:h le spese (.) non ti bastano
 PSB005	mhmh
 PSB005	[e:]
-PSB027	[allora] uno pensa {P} perché vedi che suo amico {P} non ha studiato, è andato in italia, ha portato la macchina,
+PSB027	[allora] uno pensa (.) perché vedi che suo amico (.) non ha studiato, è andato in italia, ha portato la macchina,
 PSB027	i soldi, ha costruito la ca~
 PSB027	°allo~° che cazzo faccio io qui?
 PSB005	mhmh
 PSB027	non ha senso allora CAMBIO
 PSB005	okay [okay]
 PSB027	[questa] l'idea hai capito?
-PSB005	certo {P} ma risp[etto ad altri] paesi europei: {P} perché in italia?
+PSB005	certo (.) ma risp[etto ad altri] paesi europei: (.) perché in italia?
 PSB027	[ci sono tan~]
 PSB027	in italia: diciamo: non c'è differenza tra italia
-PSB027	e marocco (di) differenza che c'era {P} a livello econo[mico]
+PSB027	e marocco (di) differenza che c'era (.) a livello econo[mico]
 PSB005	[mhmh]
 PSB027	perché diciamo che a italia aperta hai capito o no?
 PSB005	mhmh
-PSB027	dove po:i diciamo {P} entrare subito: {P} se la gente è aperta: te~ {P} ti ra~
+PSB027	dove po:i diciamo (.) entrare subito: (.) se la gente è aperta: te~ (.) ti ra~
 PSB027	è quella
 PSB027	secondo me diversa di: <francia, spagna>
 PSB027	perché si tu
-PSB027	parliamo {P} a livello geografico diciamo
+PSB027	parliamo (.) a livello geografico diciamo
 PSB027	marocco, spagna ma la gente non va a spa[gna]
 PSB005	[mh]
-PSB027	anche: va spagna {P} pensa sempre di venire a in italia
+PSB027	anche: va spagna (.) pensa sempre di venire a in italia
 PSB027	la germania pensa sempre quel xx lì
 PSB005	mhmh
 PSB027	non è perché:
-PSB027	comunque è diverso italia {P} è diverso anche adesso per momento eh
+PSB027	comunque è diverso italia (.) è diverso anche adesso per momento eh
 PSB027	italia è diverso
 PSB027	ci sono della gente che hanno lavorato insomma delle persone, amici
-PSB027	che hanno lavorato con {P} noi
-PSB027	hanno: preso buona uscita sono andati a francia {P} [ma no:n] sono trovati bene
+PSB027	che hanno lavorato con (.) noi
+PSB027	hanno: preso buona uscita sono andati a francia (.) [ma no:n] sono trovati bene
 PSB005	[mhmh]
 PSB005	con le: persone?
 PSB027	con le perso:ne, con la cultura dive:rsa
-PSB027	qua un'altra cultura {P} diciamo più o meno
-PSB027	penso che è uguale n~ non c'è differenza [{P}] tra un italiano o un marocchino penso io la vedo così [xx]
+PSB027	qua un'altra cultura (.) diciamo più o meno
+PSB027	penso che è uguale n~ non c'è differenza [(.)] tra un italiano o un marocchino penso io la vedo così [xx]
 PSB005	[mhmh]
 PSB005	[tu] ti sei trovato così?
 PSB027	io ho di amici italia:ni ho:
 PSB027	n::on c'è differenza
 PSB027	basta che ti comporti bene
 PSB005	mhmh
-PSB027	ti col~ {P} [ca]pito? ti abbracciano
+PSB027	ti col~ (.) [ca]pito? ti abbracciano
 PSB005	mh[mh]
 PSB005	quindi tu ti sei trovato bene qui
-PSB027	io: mi son trovato bene: ce l'ho la famiglia qua, bimbi cresciuti qua, {P} studiano [qua]
+PSB027	io: mi son trovato bene: ce l'ho la famiglia qua, bimbi cresciuti qua, (.) studiano [qua]
 PSB005	[mhmh]
 PSB005	[so]no nati qua?
-PSB027	nati qua, [{P}] studiano qua
+PSB027	nati qua, [(.)] studiano qua
 PSB005	[mhmh]
-PSB027	{sospira} allora eh
-PSB027	adesso {P} non è che ce l'ho un'idea de: tornare anche se torni al marocco ma {P} non (pof~)
+PSB027	((sospira)) allora eh
+PSB027	adesso (.) non è che ce l'ho un'idea de: tornare anche se torni al marocco ma (.) non (pof~)
 PSB027	dopo un tot di anni
-PSB027	ma poi: diciamo tornare a marocco {P} per vivere lì
+PSB027	ma poi: diciamo tornare a marocco (.) per vivere lì
 PSB005	mh[mh mhmh]
 PSB027	[capito] no?
-PSB027	a fare che {P} non p(u)oi?
+PSB027	a fare che (.) non p(u)oi?
 PSB005	ti [sei am]bientato qui
 PSB027	[ades~]
-PSB027	no la differenza che c'è {P} che vedo io
+PSB027	no la differenza che c'è (.) che vedo io
 PSB027	io ti do un esempio
 PSB027	lì a marocco
 PSB027	se ti senti malato
@@ -168,9 +168,9 @@ PSB027	e paghi con tanti soldi non è che
 PSB027	e poi sei vai all'ospedale
 PSB027	devi pagare anche
 PSB027	non è come qua
-PSB027	qui in italia {P} se vai all'ospedale se capita
-PSB027	che ti: {P} senti malato
-PSB027	vai all'ospedale {P} diciamo
+PSB027	qui in italia (.) se vai all'ospedale se capita
+PSB027	che ti: (.) senti malato
+PSB027	vai all'ospedale (.) diciamo
 PSB027	è come una clinica
 PSB005	mhmh
 PSB027	lì al marocco la paghi
@@ -178,35 +178,35 @@ PSB005	mhmh
 PSB027	qua non la paghi se lavori
 PSB005	mhmh
 PSB005	cer[to]
-PSB027	[anche se] non lavori penso {P} , o disoccupato non la paghi
+PSB027	[anche se] non lavori penso (.) , o disoccupato non la paghi
 PSB005	penso anch'io sì
 PSB027	hai capito? è così la differenza
 PSB027	c'è,
-PSB027	non con la cu~ un'altra cultura diciamo {P} ma {P} le persone sono uguali sono aper[te]
+PSB027	non con la cu~ un'altra cultura diciamo (.) ma (.) le persone sono uguali sono aper[te]
 PSB005	[mh]
 PSB027	°>hai ca[pito]?<°
 PSB005	[mhmh]
 PSB027	e c'è diciamo
-PSB027	qui in italia {P} la legge è uguale per tutti
+PSB027	qui in italia (.) la legge è uguale per tutti
 PSB005	e in marocco no?
 PSB027	no
 PSB027	ti dico la verità
-PSB027	io sono {ride} italo marocchino ma
+PSB027	io sono ((ride)) italo marocchino ma
 PSB027	c'è una gran differenza
 PSB005	mh
 PSB027	una gran differenza
 PSB005	[e il cibo]?
 PSB027	[xxx] poi: dopo che ho studia:to:
-PSB027	sai {P} preso: la diploma
+PSB027	sai (.) preso: la diploma
 PSB027	allora
 PSB027	non avevo niente da fare
-PSB027	dopo anche se vai {P} a lavorare
+PSB027	dopo anche se vai (.) a lavorare
 PSB027	x come ti ho spiegato
 PSB027	la cifra
 PSB027	o lo stipendio che ti danno è quello lì
-PSB027	quattrocento {P} devi s~ soffire per anni {P} per salire >capito<? arrivare a ottocento o novecento
-PSB027	io ce l'ho una sorella che studia: che è {P} insegna l'inglese
-PSB027	prendi sul {P} novecento euro {P} novecento euro diciamo
+PSB027	quattrocento (.) devi s~ soffire per anni (.) per salire >capito<? arrivare a ottocento o novecento
+PSB027	io ce l'ho una sorella che studia: che è (.) insegna l'inglese
+PSB027	prendi sul (.) novecento euro (.) novecento euro diciamo
 PSB005	e si può vivere con novecento euro in marocco?
 PSB027	mah per una donna ragazza diciamo si p(u)ò
 PSB027	capito?
@@ -220,11 +220,11 @@ PSB027	[il m]antenimento che costa,
 PSB005	mhmh
 PSB027	le spese
 PSB005	mhmh
-PSB027	non puoi {P} lavorare con novecento euro e pensi di fare una macchina {P} °no°
-PSB027	e poi lì al marocco non è che {P} inizi a lavorare ventidue anni {P} ventitré
+PSB027	non puoi (.) lavorare con novecento euro e pensi di fare una macchina (.) °no°
+PSB027	e poi lì al marocco non è che (.) inizi a lavorare ventidue anni (.) ventitré
 PSB005	più tardi?
-PSB027	un po' più tardi capito? perché difficile {P} a trovare lavoro
-PSB005	mhmh mhmh {P} mhmh
+PSB027	un po' più tardi capito? perché difficile (.) a trovare lavoro
+PSB005	mhmh mhmh (.) mhmh
 PSB027	da noi ci vuole sempre come si dice? uno: di conoscenza
 PSB005	[m:h]
 PSB027	[che ti] spinge:: capito
@@ -241,39 +241,39 @@ PSB005	[quindi sta peggiorando]
 PSB027	[xxxx]
 PSB027	mh perché se un padrone non ti conosce
 PSB027	non ti p~ non può: farti lavorare
-PSB027	tramite un altro {P} che dà la sua parola, la sua {P} faccia diciamo che mette la sua faccia
+PSB027	tramite un altro (.) che dà la sua parola, la sua (.) faccia diciamo che mette la sua faccia
 PSB027	è lì
 PSB005	mhmh però quando sei arrivato sei riuscito a trovare il lavoro subito?
-PSB027	allora all'inizio {P} no
+PSB027	allora all'inizio (.) no
 PSB027	all'inizio c'erano posti x
 PSB027	esci oggi
 PSB027	domani lavori
 PSB005	mhmh
 PSB027	c'erano la~
 PSB005	mhmh
-PSB027	diciamo {P} ci sono le fabbriche, c'è cooperative hanno bisogno {P} [di lav]oratori
+PSB027	diciamo (.) ci sono le fabbriche, c'è cooperative hanno bisogno (.) [di lav]oratori
 PSB005	mh[mh]
 PSB027	adesso no
 PSB005	mh
-PSB027	ESCE OGGI {P} può darsi che trovi lavori dopo un anno
-PSB005	okay {P} quindi adesso è un po' {P} peggio la situazione
-PSB027	perché: {P} ci sono tanti stranieri
+PSB027	ESCE OGGI (.) può darsi che trovi lavori dopo un anno
+PSB005	okay (.) quindi adesso è un po' (.) peggio la situazione
+PSB027	perché: (.) ci sono tanti stranieri
 PSB005	°mh°
-PSB027	il problema che io vedo {P} che lo stato italiano
+PSB027	il problema che io vedo (.) che lo stato italiano
 PSB027	non studia bene
 PSB027	il bisogno
-PSB027	perché {P} diciamo con questa legge che è uscita mi sa a marzo
+PSB027	perché (.) diciamo con questa legge che è uscita mi sa a marzo
 PSB027	se hai un famigliare da porta:re:, [un ami~]
 PSB005	[mhmh]
 PSB027	ma tutti vogliono portare
 PSB027	però ma ci sono i posti di lavoro?
-PSB027	perché {P} se vuoi portare una persona lo stato okay {P} ti dà nullaosta
+PSB027	perché (.) se vuoi portare una persona lo stato okay (.) ti dà nullaosta
 PSB027	lui va all'ambasciata lì
 PSB027	prepara tutti documentazione
 PSB027	venga qua
 PSB027	però
 PSB027	per me:
-PSB027	devono {P} seguirlo, devono control[lare] se lavora o non lavora, se c'ha {P} un [locale], dove abita, dove dorme
+PSB027	devono (.) seguirlo, devono control[lare] se lavora o non lavora, se c'ha (.) un [locale], dove abita, dove dorme
 PSB005	[mhmh]
 PSB005	[certo]
 PSB027	non è che veng(o) qua apposta a presu~
@@ -285,17 +285,17 @@ PSB005	mhmh
 PSB005	eh sì non c'è
 PSB005	un percorso diciamo guidato
 PSB027	ec[co]
-PSB005	[n]on c'è {P} °cert[o]°
+PSB005	[n]on c'è (.) °cert[o]°
 PSB027	[de]vono s:tudiarla
 PSB027	diciamo un passo avanti
 PSB005	mhmh
 PSB027	non guardare solo limiti
 PSB027	ah io
-PSB027	leggi c'è {P} (portiamo) cento persone o[kay]?
+PSB027	leggi c'è (.) (portiamo) cento persone o[kay]?
 PSB005	[mhmh]
 PSB027	ma ci sono cento disoccupati?
 PSB005	[dovrebbero fare un'analisi più approfondita: °sì°]
-PSB027	[dici che portar~ <ecco>] {P} [ah ah]
+PSB027	[dici che portar~ <ecco>] (.) [ah ah]
 PSB027	tu ce l'hai GIÀ tanti disoccupati
 PSB005	mhmh
 PSB027	e poi fai portare altre
@@ -303,20 +303,20 @@ PSB005	sì sì sì
 PSB005	eh ma come: sarebbe la soluzione secondo t[e]?
 PSB027	[e] poi la gente non è che entra solo dal~ dall'africa: o dal [no] no
 PSB005	[no]
-PSB027	ci sono rume:ni, {P} [ch]e possono entrare senza {P} vi:[sto senza:]
+PSB027	ci sono rume:ni, (.) [ch]e possono entrare senza (.) vi:[sto senza:]
 PSB005	mh[mh]
 PSB005	[sì sì] sì
-PSB027	>(in senso)< {P} allora: {P} devono studiarla bene non è per me io la vedo così
-PSB005	e [non è] {P} sicuramente studiato bene no
+PSB027	>(in senso)< (.) allora: (.) devono studiarla bene non è per me io la vedo così
+PSB005	e [non è] (.) sicuramente studiato bene no
 PSB027	[po:i]
 PSB027	no la cosa non è studiata
-PSB027	io basta che vado all'inps {P} vedo
+PSB027	io basta che vado all'inps (.) vedo
 PSB027	apro la cart~
 PSB027	mille disoccupati, duemila, tremila
 PSB027	poi porto altri (mil~)
 PSB027	quando diventano
-PSB027	quatromila {P} poi il prossimo anno porta {P} no non è così
-PSB027	non lo so se lo stato guadagna su ques~ non lo so {P} io non posso:
+PSB027	quatromila (.) poi il prossimo anno porta (.) no non è così
+PSB027	non lo so se lo stato guadagna su ques~ non lo so (.) io non posso:
 PSB005	non credo
 PSB005	no non lo so:
 PSB027	non lo so
@@ -329,14 +329,14 @@ PSB005	mhmh
 PSB027	xx
 PSB005	xx [°chiudiamo°]
 PSB027	[°xx°]
-PSB005	non si parla {P} benissimo
+PSB005	non si parla (.) benissimo
 PSB005	e:hm cam~ parliamo di qualcos'altro
 PSB005	io sono stata in marocco
 PSB027	dove?
 PSB005	a: fes
-PSB027	a fes? {P} °ho capito dov'è°
-PSB005	[perch]é: m:h {P} mio marito studia: l'arabo
-PSB027	[°fes°] {P} °vai°
+PSB027	a fes? (.) °ho capito dov'è°
+PSB005	[perch]é: m:h (.) mio marito studia: l'arabo
+PSB027	[°fes°] (.) °vai°
 PSB027	italiano?
 PSB005	mio marito è italiano studia l'[arabo]
 PSB027	[okay]
@@ -344,15 +344,15 @@ PSB005	e quindi
 PSB005	e:hm: voleva fare un corso: all'università di fes
 PSB027	l'università di fes o[kay]
 PSB005	[mhmh]
-PSB005	e siamo andati per vacanza: poi dopo io sono tornata in italia lui è rimasto un altro mese {P} [per studiare arabo] no
+PSB005	e siamo andati per vacanza: poi dopo io sono tornata in italia lui è rimasto un altro mese (.) [per studiare arabo] no
 PSB027	[ancora lì]?
 PSB005	nel due~ mh qualche anno fa
-PSB027	{ride}
+PSB027	((ride))
 PSB027	[x]
 PSB005	[però] invece la: parte di dove sei tu non la conosco molto
 PSB005	com'è [com'è la zona]?
 PSB027	[okay (ti se~)] okay
-PSB027	ma te {P} sei stata {P} al marocco?
+PSB027	ma te (.) sei stata (.) al marocco?
 PSB005	sì
 PSB027	hai preso il volo da qui? da bologna?
 PSB005	da pisa
@@ -362,7 +362,7 @@ PSB005	di[re~]
 PSB027	[dire]ttamente a fes?
 PSB005	sì sì
 PSB027	a:h
-PSB027	allora per arrivare a mia città {P} devi fare i fes
+PSB027	allora per arrivare a mia città (.) devi fare i fes
 PSB027	mi s~ fes mi sa:
 PSB027	comunque la zona di kenitra: non la cono[sci te]
 PSB005	[mhmh]
@@ -370,13 +370,13 @@ PSB005	okay
 PSB027	è un po' dentro
 PSB005	mhmh
 PSB027	più lontano dal mare dove sei stata [te]
-PSB005	[mhmh] {P} [sì]
+PSB005	[mhmh] (.) [sì]
 PSB027	[è una] città diciamo:
 PSB027	c'ha un'altra cultura
 PSB005	mh perché?
 PSB027	è diversa della n~ nostra
 PSB027	fes e:h diciamo:
-PSB027	è una città {P} di quelli vecchi
+PSB027	è una città (.) di quelli vecchi
 PSB005	mhmh
 PSB027	se sei stata secondo me: hai vist~ hai visitato [la: fes]
 PSB005	[sì sì sì]
@@ -386,13 +386,13 @@ PSB005	mhmh
 PSB027	un po':
 PSB005	mhmh
 PSB027	°s~ sì°
-PSB005	in[vec]e {P} dalle tue parti sono più moderni?
+PSB005	in[vec]e (.) dalle tue parti sono più moderni?
 PSB027	[x]
 PSB027	casablanca:, jadida sì °un po' modern[o]
 PSB005	[o]kay
 PSB027	ma non è che fes non è moderna no
-PSB027	però {P} ancora: la cultura sai {P} la tua cultura non puoi:
-PSB027	dimenti[carla {P} non puoi] lasc~
+PSB027	però (.) ancora: la cultura sai (.) la tua cultura non puoi:
+PSB027	dimenti[carla (.) non puoi] lasc~
 PSB005	[mhmh mh]
 PSB005	mhmh
 PSB027	la vivi sempre
@@ -409,25 +409,25 @@ PSB027	mai
 PSB027	°mai°
 PSB005	che cosa è cultu~ cultu[ra s]econdo te?
 PSB027	[m:a]
-PSB027	e:h: la cultura {P} (ma)
-PSB027	diciamo se c'è una festa {P} la devo $fasseggiare per bene
+PSB027	e:h: la cultura (.) (ma)
+PSB027	diciamo se c'è una festa (.) la devo $fasseggiare per bene
 PSB005	mhmh
 PSB005	per esempio?
 PSB027	tipo: il ramadan
 PSB005	mhmh
-PSB027	i mesi del [ramadan de]vo fare il ramadan nei mesi del, non devo mangiare [sai {P}] >no<, devo fare del bene
+PSB027	i mesi del [ramadan de]vo fare il ramadan nei mesi del, non devo mangiare [sai (.)] >no<, devo fare del bene
 PSB005	[eh spiegami]
 PSB005	[mhmh]
 PSB005	mhmh
 PSB027	devo:
 PSB027	e:h
-PSB027	diciamo {P} insegnare ai miei figli {P} anche a fare il [ramadan]
+PSB027	diciamo (.) insegnare ai miei figli (.) anche a fare il [ramadan]
 PSB005	[mhmh]
-PSB027	che questa diciamo {P} la religione fa parte della cultura {P} [°eh°]
+PSB027	che questa diciamo (.) la religione fa parte della cultura (.) [°eh°]
 PSB005	s[ì]
 PSB005	[certo certo]
 PSB027	[fa parte della cultura]
-PSB027	allora {P} la rispettare
+PSB027	allora (.) la rispettare
 PSB005	mhmh
 PSB027	se al marocco o in italia
 PSB027	devo trattare le altre persone anche se non sono $musilmane devo trattarle per be[ne]
@@ -436,7 +436,7 @@ PSB027	perché il nostro: libro (#qur'ān)
 PSB027	ha parlato di queste cose qua
 PSB027	non c'è differenza da uno
 PSB005	mh
-PSB027	cristiano o uno $musilmano {P} solo la religione
+PSB027	cristiano o uno $musilmano (.) solo la religione
 PSB005	mhmh
 PSB027	>può darsi<
 PSB027	>diciamo se< io se ti chiedo
@@ -445,13 +445,13 @@ PSB027	credi di dio [no]
 PSB005	[mh]mh
 PSB027	anche io credo di [dio]
 PSB005	[sì] sì
-PSB027	però ci sono delle cose {P} che in passato
+PSB027	però ci sono delle cose (.) che in passato
 PSB027	han cambiato
 PSB027	i cristiani
 PSB005	mh
 PSB027	(secondo) me hai studiato bene
 PSB005	un po[chino]
-PSB027	[xx] {P} e[h]
+PSB027	[xx] (.) e[h]
 PSB005	[s]ì
 PSB005	no [però io con]osco la mia la la vostra non tanto bene
 PSB027	[xx]
@@ -459,25 +459,25 @@ PSB027	°ah°
 PSB005	quindi se vuoi spie[gare tu]tto
 ???	[posso]?
 PSB005	sì sì certo
-PSB005	voglio sapere tutto: del: ramadan {P} e del corano di tutto mi vuoi spiega[re tutto]
+PSB005	voglio sapere tutto: del: ramadan (.) e del corano di tutto mi vuoi spiega[re tutto]
 PSB027	[ramadan] un mese sacro per noi
 PSB005	mh[mh]
 PSB027	[un] mese:
 PSB027	dove diciamo:
 PSB027	non puoi fare ma
-PSB027	il bene {P} lo puoi fare tutto l'anno [tutta la tua] vita
+PSB027	il bene (.) lo puoi fare tutto l'anno [tutta la tua] vita
 PSB005	[mhmh]
 PSB027	capito?
-PSB027	però {P} sai
+PSB027	però (.) sai
 PSB027	adesso ti arriva quell'ide:a: esce fuori: può darsi che fai
-PSB027	però il mese del ramadan {P} un mese sacro {P} dove uno prega
-PSB027	e dove uno {P} diciamo
+PSB027	però il mese del ramadan (.) un mese sacro (.) dove uno prega
+PSB027	e dove uno (.) diciamo
 PSB027	prega dio
-PSB027	per quelle che cose {P} che ha fatto in passato
+PSB027	per quelle che cose (.) che ha fatto in passato
 PSB027	[almeno] ti fa scusare capito? [per quelle (cose)]
 PSB005	[mh]
 PSB005	[si chiede: il per]dono [sì sì]
-PSB027	[perdono] sempre devi chiederlo in [tutta la vi]ta >(il period~)< [{P}] il perdono {P} OGNI GIORNO DEVI CHIEDERLO
+PSB027	[perdono] sempre devi chiederlo in [tutta la vi]ta >(il period~)< [(.)] il perdono (.) OGNI GIORNO DEVI CHIEDERLO
 PSB005	[mhmh]
 PSB005	[mhmh]
 PSB027	non è che è: solo il mese di: [però] c'è tan~ c'è solo quel mese lì
@@ -485,29 +485,29 @@ PSB005	[mhmh]
 PSB027	hai capi[to]: ci sono tanti non:
 PSB005	[mhmh]
 PSB027	come da voi capito non è che tutti vanno alla chie:sa
-PSB027	ci sono comuni:sti, ci sono {P} °no°
+PSB027	ci sono comuni:sti, ci sono (.) °no°
 PSB005	non tutti
 PSB027	a:h [ecco]
 PSB005	[no] no no
-PSB027	anche da noi c'è quelli che non fanno ramadan {P} però non possono mangiare davanti te
-PSB027	$nascos(te) hai capito ci so:no {P} non è che non ci sono
+PSB027	anche da noi c'è quelli che non fanno ramadan (.) però non possono mangiare davanti te
+PSB027	$nascos(te) hai capito ci so:no (.) non è che non ci sono
 PSB005	°ho capito°
-PSB027	però {P} ci sono quelli praticanti
+PSB027	però (.) ci sono quelli praticanti
 PSB005	mhmh
 PSB027	°già°
-PSB005	e {P} quando dici che dovete fare del bene
+PSB005	e (.) quando dici che dovete fare del bene
 PSB005	per esempio?
 PSB027	del bene (n~) del bene qualsiasi cosa
 PSB005	mh
-PSB027	>dicia-< c'è bisogno diciamo {P} e io ce l'ho una cosa che d:evo aiutarti devo aiutarti
+PSB027	>dicia-< c'è bisogno diciamo (.) e io ce l'ho una cosa che d:evo aiutarti devo aiutarti
 PSB005	mh[mh]
-PSB027	[(ora)] {P} hai bisogno di un lavoro ti dò [il xx] (dell'isee)
+PSB027	[(ora)] (.) hai bisogno di un lavoro ti dò [il xx] (dell'isee)
 PSB005	[m:h]
-PSB027	e so già che l'azienda ha bisogno {P} io ti posso aiutare
+PSB027	e so già che l'azienda ha bisogno (.) io ti posso aiutare
 PSB005	°sì°
 PSB027	hai capito?
 PSB005	[ho] capito
-PSB027	hai bisogno, non c'hai {P} da mangiare {P} devo darti da man[giar]e
+PSB027	hai bisogno, non c'hai (.) da mangiare (.) devo darti da man[giar]e
 PSB005	[mhmh]
 PSB027	x[xx]
 PSB005	una cosa che non ho capito è [se voi] durante il ramadan
@@ -518,19 +518,19 @@ PSB005	fate una cena
 PSB027	[ah ah]
 PSB005	[alla sera] no?
 PSB027	ah ah
-PSB005	<e poi dopo mangiate {P} un'altra volta {P} la sera dopo>
-PSB027	n:o {P} allora
-PSB027	quando che puoi mangiare? {P} quando arriva il buio di[ciamo]
+PSB005	<e poi dopo mangiate (.) un'altra volta (.) la sera dopo>
+PSB027	n:o (.) allora
+PSB027	quando che puoi mangiare? (.) quando arriva il buio di[ciamo]
 PSB005	[mh]mh
 PSB027	tipo la colazione
 PSB005	o[kay]
 PSB027	[non puoi man]giare tanto perché lo stomaco è vuot~ non puoi man~
-PSB027	poi dopo {P} puoi fare la cena
+PSB027	poi dopo (.) puoi fare la cena
 PSB005	ok[ay]
 PSB027	[se] no
 PSB027	pri:ma
 PSB005	[che so:rge sì]
-PSB027	[che venga il sole la ma]ttina {P} [pres]to
+PSB027	[che venga il sole la ma]ttina (.) [pres]to
 PSB005	[sì]
 PSB027	devi mangiare qualcosina, [(devi) be]re un su:cco:
 PSB005	ah o[kay]
@@ -542,21 +542,21 @@ PSB027	perché non mangiare non è che: muori
 PSB005	n[o]
 PSB027	[o non ber~] hai capito [no anche] fa caldo non fa il caldo
 PSB005	[no certo]
-PSB027	però {P} fa bene alla salute
+PSB027	però (.) fa bene alla salute
 PSB005	mhmh
-PSB005	e {P} è stato pesante quest'anno:? oppure [no]?
-PSB027	[m:h] no {P} °no°
-PSB027	allora io ti dico {P} se uno praticante crede di dio
+PSB005	e (.) è stato pesante quest'anno:? oppure [no]?
+PSB027	[m:h] no (.) °no°
+PSB027	allora io ti dico (.) se uno praticante crede di dio
 PSB027	ma non è pesante per lui
 PSB005	mhmh
 PSB005	[ho capito sì]
 PSB027	[non lo s~ non] lo sente
 PSB005	sì sì sì
 PSB027	non pensa a mangiare o pensa a:
-PSB027	e puoi darsi che s~ se ti chie:do {P} oggi cos'hai mangiato? °>mi di-<° ah un caffè e un brioche
+PSB027	e puoi darsi che s~ se ti chie:do (.) oggi cos'hai mangiato? °>mi di-<° ah un caffè e un brioche
 PSB005	mh
 PSB027	ancora non hai mangiato giusto o no?
-PSB005	sì {P} solo stama[ttina]
+PSB005	sì (.) solo stama[ttina]
 PSB027	[ti senti] fame? no
 PSB005	n[o:]
 PSB027	[(ancora)]
@@ -571,33 +571,33 @@ PSB027	la festa la la fa tutto il mondo ara[bo]
 PSB005	[mh]mh
 PSB027	tutto il mondo diciamo che
 PSB027	ch(i) fa il ramadan
-PSB027	parlo a:rabo perché ci sono che ci sono diciamo de: {P} albanesi che non parlano arabo [ma so]no $musil[mani] {P} albanesi
+PSB027	parlo a:rabo perché ci sono che ci sono diciamo de: (.) albanesi che non parlano arabo [ma so]no $musil[mani] (.) albanesi
 PSB005	[mhmh]
 PSB005	[mhmh]
-PSB027	da tutti (il) part(i) del mondo {P} fanno questa festa qua
+PSB027	da tutti (il) part(i) del mondo (.) fanno questa festa qua
 PSB027	la mattina pre:gano, o vanno alla moschea, a pregare
-PSB027	poi do:po {P} vanno a casa a $farseggiare con i fami:glie
-PSB027	pra:nzo a:nche {P} quel giorno lì è un giorno sacro dicia[mo]
+PSB027	poi do:po (.) vanno a casa a $farseggiare con i fami:glie
+PSB027	pra:nzo a:nche (.) quel giorno lì è un giorno sacro dicia[mo]
 PSB005	[mh]mh
-PSB027	la fine del: mese {P} dove diciamo
-PSB027	dio {P} ci dà il tuo regalo tu non lo vedi
-PSB027	però {P} s(e) tu hai fatto un mese sa:cro come si deve
-PSB027	il giorno {P} io ti parlo quando uno muore
-PSB027	può vedere se quel mese lì {P} l'ha fatto per bene o no
+PSB027	la fine del: mese (.) dove diciamo
+PSB027	dio (.) ci dà il tuo regalo tu non lo vedi
+PSB027	però (.) s(e) tu hai fatto un mese sa:cro come si deve
+PSB027	il giorno (.) io ti parlo quando uno muore
+PSB027	può vedere se quel mese lì (.) l'ha fatto per bene o no
 PSB027	il regalo lì lo prende
 PSB005	certo certo
 PSB027	del bene
 PSB005	mhmh
 PSB027	capito?
-PSB005	e e riesci a festeggiare: {P} ci(o)è
-PSB005	il ramadan qui {P} [lo f~] lo riuscite a fare lo stesso: {P} come se foste in marocco: {P} [o: no]?
+PSB005	e e riesci a festeggiare: (.) ci(o)è
+PSB005	il ramadan qui (.) [lo f~] lo riuscite a fare lo stesso: (.) come se foste in marocco: (.) [o: no]?
 PSB027	[x]
 PSB027	[è: ugua:le:]
 PSB027	solo c'è una differenza al marocco
-PSB027	lo (sente) {P} lo e:h diciamo:
+PSB027	lo (sente) (.) lo e:h diciamo:
 PSB027	uno:
-PSB027	sa già che c'è il ramadan {P} hai cap~
-PSB027	di giorno: vede la ge:nte:, {P} sente: l~ diciamo la moschea:, {P} ima:m
+PSB027	sa già che c'è il ramadan (.) hai cap~
+PSB027	di giorno: vede la ge:nte:, (.) sente: l~ diciamo la moschea:, (.) ima:m
 PSB005	m:h [è vero] sì
 PSB027	[hai capito]?
 PSB027	qua no
@@ -612,8 +612,8 @@ PSB005	e tutti i giorni durante il ramadan sei andato alla moschea?
 PSB027	no
 PSB005	è [al venerdì]?
 PSB027	[perché:]
-PSB027	e:h {P} m:h
-PSB027	io ti dico la verità non è che {P} ogni giorno per:ché
+PSB027	e:h (.) m:h
+PSB027	io ti dico la verità non è che (.) ogni giorno per:ché
 PSB027	il mio problema è che io inizio alle due
 PSB027	finisco alle [dieci dieci e mez]za
 PSB005	[m:hmh]
@@ -628,19 +628,19 @@ PSB027	[per co]sa
 PSB005	sì sì
 PSB027	non sei malato [non puoi fare una mala]ttia
 PSB005	[no no chiaro]
-PSB005	no poi un mese {P} è è lungo: sì c[erto]
+PSB005	no poi un mese (.) è è lungo: sì c[erto]
 PSB027	eh
 PSB027	[a:nche] lo fai quest'anno e poi il prossimo an[no]?
 PSB005	[mh]mh
-PSB005	e poi: {P} però magari se hai un giorno [libero:]
+PSB005	e poi: (.) però magari se hai un giorno [libero:]
 PSB027	[SABATO DOME]N[ICA]
 PSB005	[sì:] certo
 PSB027	s[abato domen]ica
 PSB005	[sì sì]
 PSB005	sì sì [ma come:]
-PSB027	[sì] {P} vado
+PSB027	[sì] (.) vado
 PSB005	come tutti insomma [anche noi:]
-PSB027	[PERÓ CI SONO AL]TRE [{P}] che lavorano di giorn[o o:] dalle sei alle due
+PSB027	[PERÓ CI SONO AL]TRE [(.)] che lavorano di giorn[o o:] dalle sei alle due
 PSB005	[mhmh]
 PSB005	[mhmh]
 PSB027	quelli lì:
@@ -653,18 +653,18 @@ PSB005	[hai dei] bambini?
 PSB027	[s:ì]
 PSB027	due
 PSB005	sono gra:ndi sono piccoli[ni:]?
-PSB027	[u:no:] c'ha sedicianni e uno c'ha mh mh {P} dieci dieci anni
+PSB027	[u:no:] c'ha sedicianni e uno c'ha mh mh (.) dieci dieci anni
 PSB005	okay [okay] [e con] loro:
 PSB027	[dieci] [anni]
 PSB005	che lingua parlate in famiglia?
-PSB027	io gli parlo sempre arabo [{P}] a casa
+PSB027	io gli parlo sempre arabo [(.)] a casa
 PSB005	[mh]
 PSB005	mhmh e il dialetto marocchino:: [arabo stan~]
 PSB027	[diale~ no no] no dialetto marocchino
 PSB005	[°mhmh°]
-PSB027	[c'avevo:] {P} allora il più grande
+PSB027	[c'avevo:] (.) allora il più grande
 PSB027	sai quando aveva tre a:nni quattro a:nni
-PSB027	a:llora: {P} io lo metto davanti tivù
+PSB027	a:llora: (.) io lo metto davanti tivù
 PSB027	cartoni animati in ARABO
 PSB005	mhmh
 PSB027	parlano in arabo non dialetto
@@ -676,41 +676,41 @@ PSB005	sì [sì sì]
 PSB027	io lo parlo dialetto ma lui risponde arabo
 PSB005	oka:[y °okay°]
 PSB027	[a]rabo proprio
-PSB027	invece l'altro {P} cartoni animati da solo {P} inglese
+PSB027	invece l'altro (.) cartoni animati da solo (.) inglese
 PSB005	oka:y
-PSB027	imparato l'inglese {P} prima
+PSB027	imparato l'inglese (.) prima
 PSB005	che bravi
 PSB027	veramente imparato inglese
 PSB027	e poi da lì:
-PSB027	ho trovato un po' {P} l'altro no
+PSB027	ho trovato un po' (.) l'altro no
 PSB027	perché ha parlato l'arabo
 PSB027	ma questo qua il piccolino che c'ha dieci anni
-PSB027	ho trovato una difficoltà {P} per insegnarlo l'a:rabo {P} e italiano
+PSB027	ho trovato una difficoltà (.) per insegnarlo l'a:rabo (.) e italiano
 PSB027	non parlava
 PSB005	perché n[on:]
 PSB027	[poi] piano piano piano
-PSB005	forse era lui che era un po' più:: {P} timido °non lo so:°
-PSB027	n:o perché sente la lingua araba [{P} in]glese {P} poi italiano
+PSB005	forse era lui che era un po' più:: (.) timido °non lo so:°
+PSB027	n:o perché sente la lingua araba [(.) in]glese (.) poi italiano
 PSB005	[mh]
 PSB027	allor[a::] non può
 PSB005	[troppo]
 PSB027	troppo per un bambino di tre anni quattro anni
 PSB005	e ade[sso]?
 PSB027	[xx]
-PSB027	adesso parla a:rabo, {P} inglese, {P} e ital[iano]
+PSB027	adesso parla a:rabo, (.) inglese, (.) e ital[iano]
 PSB005	[mhmh]
 PSB027	una volta
 PSB027	mi ricordavo
 PSB027	quest'anno
-PSB027	sono andato a lavorare {P} mi ha chiamato: {P} la sua mamma
-PSB027	diceva guarda che lui è collegato {P} dal suo telefono dalla dal telefono {P} de mamma con una insegnante
+PSB027	sono andato a lavorare (.) mi ha chiamato: (.) la sua mamma
+PSB027	diceva guarda che lui è collegato (.) dal suo telefono dalla dal telefono (.) de mamma con una insegnante
 PSB027	detto no strano
 PSB027	parlava inglese
 PSB005	mh
 PSB027	fa colloquio con lei
 PSB027	detto è strano può darsi che è un gioco:
 PSB027	no no no
-PSB027	io: {P} non riesco a crede
+PSB027	io: (.) non riesco a crede
 PSB027	detto no lascialo stare può darsi
 PSB027	no ma io vedo che sta parlando c'è: il vide:o
 PSB027	collegato online
@@ -723,16 +723,16 @@ PSB027	eh
 PSB027	e mi diceva ma sei:
 PSB027	il bimbo si chiama
 PSB027	ho detto sì
-PSB027	io {P} ho detto sì
+PSB027	io (.) ho detto sì
 PSB027	perché?
 PSB027	no: perché:
 PSB027	adesso il colloquio che abbiam fatto l'ha supera:to è (inglese) xx
-PSB027	<adesso ci mando l> {P} diciamo le $tarifi
+PSB027	<adesso ci mando l> (.) diciamo le $tarifi
 PSB027	così lui studia online
 PSB005	eh
-PSB027	detto scusa {P} ma non sono io
+PSB027	detto scusa (.) ma non sono io
 PSB005	mh
-PSB027	questo è il mio figlio che c'h[a::] {P} nove a~ aveva nove anni
+PSB027	questo è il mio figlio che c'h[a::] (.) nove a~ aveva nove anni
 PSB005	[mhmh]
 PSB027	l'anno sco~ avevano quest'anno aveva nove an~ adesso (età) dieci anni
 PSB027	nove anni
@@ -749,7 +749,7 @@ PSB005	[eh wow]
 PSB027	[è una scuo]la online
 PSB027	e devi studiare ingle[se]
 PSB005	[sì] sì sì
-PSB005	che iniziativa {ride}
+PSB005	che iniziativa ((ride))
 PSB027	ah ve~ veramente
 PSB005	sì
 PSB027	adesso lui studia
@@ -763,11 +763,11 @@ PSB027	[(sempre)]
 PSB027	il grande no diverso
 PSB005	mhmh
 PSB027	perché andava al marocco stesso:
-PSB027	sta tre mesi quattro mesi una: una volta quando c'aveva {P} quattro o cinque anni è stato un anno
+PSB027	sta tre mesi quattro mesi una: una volta quando c'aveva (.) quattro o cinque anni è stato un anno
 PSB005	mhmh
-PSB027	un po' {P} ha trovato un po' difficoltà questo no
+PSB027	un po' (.) ha trovato un po' difficoltà questo no
 PSB005	okay ma
-PSB027	nove e [dieci] {ride}
+PSB027	nove e [dieci] ((ride))
 PSB005	[però i] ragazzi sono nati qui
 PSB027	però
 PSB027	eh?
@@ -782,15 +782,15 @@ PSB027	[devo mandar]li anche:
 PSB027	diciamo
 PSB027	non me interessa di risparmiare [capito]?
 PSB005	[mhmh]
-PSB027	ba[sta che (cerc~)] {P} biglietto, volo li mando
+PSB027	ba[sta che (cerc~)] (.) biglietto, volo li mando
 PSB005	[mhmh]
 PSB005	mhmh
 PSB027	bona
-PSB027	se no altrimenti {P} sai {P} dimenticano paese, [dimenticano tu]tto
+PSB027	se no altrimenti (.) sai (.) dimenticano paese, [dimenticano tu]tto
 PSB005	[ce:rto]
 PSB005	certo certo
 PSB027	i nonni dimenticano
-PSB005	i nonni {P} ci sono ancora sì
+PSB005	i nonni (.) ci sono ancora sì
 PSB005	[li vedono sì]
 PSB027	[ci sono sì]
 PSB005	[sì sì sì sì]
@@ -798,15 +798,15 @@ PSB027	[li vedono]
 PSB005	eh quindi parleranno arabo benissimo
 PSB027	s:ì
 PSB005	se par[lano con i nonni]
-PSB027	[perché:] se uno le conosce di~ non dice che: {P} sono nati qui in italia
-PSB005	mh {P} e:h okay
+PSB027	[perché:] se uno le conosce di~ non dice che: (.) sono nati qui in italia
+PSB005	mh (.) e:h okay
 PSB005	okay okay
-PSB027	diverso di altri che conosco {P} che parlano {P} tra i genitore {P} [ita]lia[no]
+PSB027	diverso di altri che conosco (.) che parlano (.) tra i genitore (.) [ita]lia[no]
 PSB005	mh[mh]
 PSB005	[mh]mh
-PSB027	ma io {P} sono contro a quella
-PSB005	okay {P} °okay°
-PSB027	italiano è una lingua {P} per me che la devono studiare in classe
+PSB027	ma io (.) sono contro a quella
+PSB005	okay (.) °okay°
+PSB027	italiano è una lingua (.) per me che la devono studiare in classe
 PSB005	certo
 PSB027	a scuola
 PSB005	mhmh
@@ -817,7 +817,7 @@ PSB027	la tua lingua origine madre
 PSB005	mhmh
 PSB005	ma non vanno in una s~ e:h no::n non vanno in una scuola per imparare anche l'arabo tipo di pomeriggio o qualcosa del genere no
 PSB027	prima sì
-PSB027	tutti [due] {P} adesso {P} quello grande non vuole andare m'ha detto no
+PSB027	tutti [due] (.) adesso (.) quello grande non vuole andare m'ha detto no
 PSB005	[mh]
 PSB027	basta
 PSB005	si è ribellato
@@ -830,16 +830,16 @@ PSB027	guarda i bimbi perché guarda la memoria è ancora vuota
 PSB005	certo
 PSB027	hai capi[to]?
 PSB005	[sì] sì
-PSB027	come come una carta memoria puoi {P} caricare i (conten~)
+PSB027	come come una carta memoria puoi (.) caricare i (conten~)
 PSB027	ma finché diventando grandi
 PSB027	voglia
 PSB005	[mh]
 PSB027	[non] l'avranno più
 PSB005	certo
 PSB005	tempo anche [°eh° sì sì] sì
-PSB027	[eh {P} sai]
+PSB027	[eh (.) sai]
 PSB027	uno: adolescente:
-PSB027	non pensa più {P} neanche a studiare le va, {P} un po' pesante
+PSB027	non pensa più (.) neanche a studiare le va, (.) un po' pesante
 PSB005	mh mhmh
 PSB027	allora:
 PSB005	mh mh mh
@@ -854,15 +854,15 @@ PSB027	tra
 PSB027	su(o)i paesani
 PSB005	mhmh
 PSB027	ma non imparano mai
-PSB005	°mh {P} eh lo so sì°
+PSB005	°mh (.) eh lo so sì°
 PSB027	mai mai
 PSB005	lo so [sì]
 PSB027	[sia] pachistani o marocchini
 PSB027	per imparare o devi entrare
 PSB005	m:h
-PSB027	almeno fai {P} diciamo due giorni al~ alla settimana o tre
+PSB027	almeno fai (.) diciamo due giorni al~ alla settimana o tre
 PSB027	o devi stare in mezzo a italiani
-PSB027	sentire {P} [puoi impa]rare
+PSB027	sentire (.) [puoi impa]rare
 PSB005	[mhmh]
 PSB005	mh
 PSB005	e la televisione se è per esempio se:rve
@@ -870,12 +870,12 @@ PSB027	la televisione SERVE
 PSB005	mh
 PSB027	però il contatto
 PSB005	mh
-PSB027	il contatto {P} tra italiani
+PSB027	il contatto (.) tra italiani
 PSB005	mhmh
 PSB027	hai capito?
 PSB027	[se no] non puoi imparare
 PSB005	[°so so°]
-PSB005	[so so so] {P} so so
+PSB005	[so so so] (.) so so
 PSB027	[non p(u)oi]
 PSB005	so so (questo)
 PSB027	anche s(e) senti non puoi
@@ -885,24 +885,24 @@ PSB027	all'inizio ma dopo no
 PSB005	mh
 PSB027	°non è difficile°
 PSB027	basta che: devi avere l'ORECCHIO
-PSB027	non è che {P} la $personta la persona diciamo davanti te
+PSB027	non è che (.) la $personta la persona diciamo davanti te
 PSB027	ti parlava
 PSB027	e poi:
 PSB027	tu non
 PSB027	devi ascoltarlo
 PSB005	°cer[to]°
-PSB027	°[per]ché:° {P} la lingua italiana
+PSB027	°[per]ché:° (.) la lingua italiana
 PSB027	è come tutte le lingue
 PSB027	il ve::rbo::
 PSB005	mhmh
 PSB027	devi ascoltare per bene
 PSB027	devi avere l'orecchio aperto
 PSB027	ascoltare
-PSB027	come rispo:ndi, {P} come ti fa le doma:nde
+PSB027	come rispo:ndi, (.) come ti fa le doma:nde
 PSB027	da lì impari >piano piano impari< con (gli) anni impari
-PSB005	mhmh {P} certo sì sì
+PSB005	mhmh (.) certo sì sì
 PSB005	ah io sono stata un po' all'estero per imparare:: l'inglese e lo spagnolo e:hm
-PSB005	succede la stessa cosa anche quando sono andata in spagna {P} solo italiani {P} incon[travo solo italia]ni {P} {ride}
+PSB005	succede la stessa cosa anche quando sono andata in spagna (.) solo italiani (.) incon[travo solo italia]ni (.) ((ride))
 PSB027	[sì ma ade~]
 PSB027	sì ma ade~ adesso
 PSB027	basta uno entra su google
@@ -923,7 +923,7 @@ PSB027	e impari
 PSB027	piano piano imp[ari]
 PSB005	[sì sì]
 PSB005	sì sono utili questi strumenti:: [che ci sono adesso]
-PSB027	[a:h {P} imparano] [impar(ano) {P} impa]r(ano)
+PSB027	[a:h (.) imparano] [impar(ano) (.) impa]r(ano)
 PSB005	[sì sì]
 PSB005	sì sì sì
 PSB005	ma mh tu in quale zona della città abiti circa?
@@ -941,13 +941,13 @@ PSB005	mhmh
 PSB027	per andare::
 PSB005	sì sì so dov'è [medicina sì]
 PSB027	[strada vi~] villanuo[:va::]
-PSB005	[san vita~] è la [san vitale sì] {P} sì sì
+PSB005	[san vita~] è la [san vitale sì] (.) sì sì
 PSB027	[san vita:le]
 PSB027	(ti) di dove sei?
 PSB005	io: a~ io bologna
 PSB027	bologna propri[o]?
 PSB005	[s]ì sono [proprio nata qui sì sì]
-PSB027	[(sei)] {P} [ah]
+PSB027	[(sei)] (.) [ah]
 PSB005	eh [sì]
 PSB027	[e] a medicina
 PSB005	e medicina com'è? perché non la conosco tant[o: bene]
@@ -955,17 +955,17 @@ PSB027	[ehm:] medicina è una zona tranquilla
 PSB005	mhmh
 PSB027	mi trovavo bene
 PSB027	e:h
-PSB027	diciamo {P} non c'è {P} come bologna
-PSB027	non senti: si tu diciamo {P} sei sta:nco
-PSB027	vuoi riposare dormire {P} un'ora due ore
+PSB027	diciamo (.) non c'è (.) come bologna
+PSB027	non senti: si tu diciamo (.) sei sta:nco
+PSB027	vuoi riposare dormire (.) un'ora due ore
 PSB027	dormi
 PSB027	non senti quel:
 PSB027	rumore di[ciamo]
 PSB005	[mhmhmh]
-PSB027	della stra:da {P} non lo puoi [sen~]
+PSB027	della stra:da (.) non lo puoi [sen~]
 PSB005	[sì] sì sì
 PSB027	una zona tranquilla ci so:(n)o:: paesi di~ diciamo
-PSB027	paesino: {P} piccolo ma:
+PSB027	paesino: (.) piccolo ma:
 PSB027	mi [trovavo (bene)]
 PSB005	[si sta be]ne
 PSB005	mh[mh]
@@ -980,16 +980,16 @@ PSB005	hanno degli amici che abitano nello stesso paes[e::]
 PSB027	[e:h] certo sì
 PSB005	mhmh
 PSB027	anche io non mi viene la voglia di
-PSB027	perché: {P} dal duemilaquattro che io s:ono lì a medicina
+PSB027	perché: (.) dal duemilaquattro che io s:ono lì a medicina
 PSB027	sono anni duemi[laquattro vent'a]nni
 PSB005	[(molto) sì]
 PSB005	sì sì sì
-PSB027	vent'anni non puo:i {P} vivere a bologna
+PSB027	vent'anni non puo:i (.) vivere a bologna
 PSB027	no
 PSB005	anche se è parecchio lontana comunque dalla città
 PSB027	eh che devo fare?
 PSB027	perché prima all'inizio
-PSB027	problema che abbiamo trovato qui {P} a bologna
+PSB027	problema che abbiamo trovato qui (.) a bologna
 PSB027	tu
 PSB027	vai
 PSB027	diciamo a un'agenzia
@@ -1000,7 +1000,7 @@ PSB027	forse ti chiedon ah ce n'è uno prima di te
 ???	posso fare (solo)?
 PSB005	sì sì
 PSB005	e:h
-???	{registrazione_interrotta}
+???	((registrazione_interrotta))
 PSB005	di: l'affitto?
 PSB027	sì per il e:h l'affitto
 PSB027	secondo me anche adesso c'è questa problema
@@ -1020,12 +1020,12 @@ PSB005	certo
 PSB027	ho comprato la casa
 PSB005	ah che bra:vo
 PSB027	comprato la casa però pagavo a rate
-PSB005	eh vab[bè però {P} sì]
-PSB027	[a:h non è che ce l'ho capi]tale per {ride}
+PSB005	eh vab[bè però (.) sì]
+PSB027	[a:h non è che ce l'ho capi]tale per ((ride))
 PSB005	eh vabbé [però] se sei riuscito bene
 PSB027	[xxx]
 PSB027	ancora sto pagando [non è che:]
-PSB005	[eh certo] {P} [sì sì]
+PSB005	[eh certo] (.) [sì sì]
 PSB027	[un po' ci vu]ole
 PSB005	sì sì
 PSB005	eh però
@@ -1036,10 +1036,10 @@ PSB027	almeno: il padrone non bussa a casa
 PSB005	°eh sì°
 PSB005	sì sì certo certo
 PSB005	a:h io sono in affitto
-PSB005	ma io {P} ho trovato affitto solo perché {P} ho degli amici che:: perché vivo qui sono di [qui]
+PSB005	ma io (.) ho trovato affitto solo perché (.) ho degli amici che:: perché vivo qui sono di [qui]
 PSB027	[è] quello che ti ho detto [prima]
 PSB005	[solo] per [quello sì]
-PSB027	[se hai] {P} conoscenz[a]
+PSB027	[se hai] (.) conoscenz[a]
 PSB005	[mh]mh
 PSB027	anche sul lavoro
 PSB005	e:hm okay
@@ -1047,19 +1047,19 @@ PSB027	hai ca[pito:]?
 PSB005	[sì sì]
 PSB005	certo
 PSB027	s:e no
-PSB027	questo periodo è diventato: difficil(i) dappertutto non è {P} solo l'affitto o il lavoro
+PSB027	questo periodo è diventato: difficil(i) dappertutto non è (.) solo l'affitto o il lavoro
 PSB005	mhmh
 PSB027	[no]
-PSB005	[quindi] è un {P} è un periodo c'è stato un peggioramento {P} [secondo] te
+PSB005	[quindi] è un (.) è un periodo c'è stato un peggioramento (.) [secondo] te
 PSB027	[mh]
 PSB027	e speriamo che più avanti si migliorano le cose [(per me:)]
 PSB005	[e secondo te] miglioreran[no o n:o]?
 PSB027	[(d)a::]
-PSB027	m::h {P} guarda
+PSB027	m::h (.) guarda
 PSB027	non penso
 PSB027	una volta prendevi l~ lo stipendio
-PSB027	pagavi diciamo l'assicurazio:ne, {P} le bolle:tte
-PSB027	e risparmiavi {P} ma adesso
+PSB027	pagavi diciamo l'assicurazio:ne, (.) le bolle:tte
+PSB027	e risparmiavi (.) ma adesso
 PSB027	uno non risparmia
 PSB005	mhmh
 PSB027	tutto aumentato
@@ -1076,29 +1076,29 @@ PSB005	mhmh
 PSB027	tutto aument[ato]
 PSB005	[sì] sì
 PSB005	sì sì sì
-PSB027	prima con cinquanta euro {P} io:
+PSB027	prima con cinquanta euro (.) io:
 PSB005	vai vai
 PSB005	se devi rispondere
-???	{registrazione_interrotta}
+???	((registrazione_interrotta))
 PSB027	ancora in e:h riunione x
-PSB005	a::h okay {P} è il tuo era un col~ tuo colle[ga]?
+PSB005	a::h okay (.) è il tuo era un col~ tuo colle[ga]?
 PSB027	[sì] sì è un amico diciamo come
 PSB005	mhmh
 PSB027	PER ME È UN FRATELLO
-PSB005	eh okay {P} okay
+PSB005	eh okay (.) okay
 PSB005	ed è sempre marocchino?
-PSB027	sempre marocchino ma: maro~ {P} marocchino italiano
-PSB005	o[kay {P} okay]
+PSB027	sempre marocchino ma: maro~ (.) marocchino italiano
+PSB005	o[kay (.) okay]
 PSB027	[°marocchino italiano°]
-PSB005	e volevo chiederti ma {P} tu hai un po' di tempo libero::? durante la giornata ti piace fare qualche cosa? hai un::
+PSB005	e volevo chiederti ma (.) tu hai un po' di tempo libero::? durante la giornata ti piace fare qualche cosa? hai un::
 PSB005	non lo so e::h guardi il calcio in televisione:[::]?
 PSB027	[il] calcio mi piace sì
 PSB005	mh
 PSB005	calci~ c'è una squadra che tifi?
 PSB005	e i tuoi due [figli] anche tifano una squadra? no
 PSB027	[no]
-PSB027	sì:: i miei figli sì uno real {P} madrid e l'altro {P} barcellona
-PSB005	così {ride}
+PSB027	sì:: i miei figli sì uno real (.) madrid e l'altro (.) barcellona
+PSB005	così ((ride))
 PSB027	quando c'è partita contro ba~ real madrid contro barcellona si litigano tra di loro
 PSB005	sì?
 PSB005	[(eh) l'han fatto appos]ta [l'ha scelto] apposta
@@ -1108,11 +1108,11 @@ PSB027	quando: diciamo real madrid fa il goal
 PSB005	mhmh
 PSB027	quello grande e:cco: ha xx
 PSB027	e l'altro piang(e)
-PSB005	{ride}
+PSB005	((ride))
 PSB027	e contrario anche l'altro
-PSB027	e:h {P} è così
+PSB027	e:h (.) è così
 PSB005	[e loro vanno d'accordo]?
-PSB027	[xx è diciamo] come {P} è come il gusto
+PSB027	[xx è diciamo] come (.) è come il gusto
 PSB027	[ognu]no c'ha il suo gusto
 PSB005	[mh]
 PSB005	certo sì
@@ -1121,7 +1121,7 @@ PSB005	[sì:]
 PSB027	[quando] si fini~ par~ finisce la partita: dopo sono fratelli e ami[ci]
 PSB005	[mhmh]
 PSB005	m:hmh mh
-PSB005	ma hai {P} ci sono delle squadre marocchine famose? no
+PSB005	ma hai (.) ci sono delle squadre marocchine famose? no
 PSB027	ci sono
 PSB005	quali sono per esempio?
 PSB027	e::h adesso c'è: casablanca
@@ -1131,9 +1131,9 @@ PSB005	mhmh
 PSB027	casablanca
 PSB027	e poi: ultimamente: prima c'era: una squadra che si chiama FAR
 PSB027	in arabo #ǧayš #al-malakī
-PSB027	e:: {P} c'era un'altra mi sa berkane
-PSB027	adesso le ultime {P} diciamo famose
-PSB005	okay {P} ma [e:]
+PSB027	e:: (.) c'era un'altra mi sa berkane
+PSB027	adesso le ultime (.) diciamo famose
+PSB005	okay (.) ma [e:]
 PSB027	[ma ci s]on~
 PSB005	però i ragazzi non seguono il calcio marocchino seguono il [calcio europe]o
 PSB027	[n:o]
@@ -1149,9 +1149,9 @@ PSB027	[no] no tifano marocco
 PSB005	tifano marocco?
 PSB027	°mar[occo°]
 PSB005	°[ah] okay okay°
-PSB005	ma anche fra di loro parlano in arabo? {P} secondo te?
+PSB005	ma anche fra di loro parlano in arabo? (.) secondo te?
 PSB005	quando li senti
-PSB027	ogni tanto una volta parlano arabo o italiano {P} [arabo e ita]liano
+PSB027	ogni tanto una volta parlano arabo o italiano (.) [arabo e ita]liano
 PSB005	[(a)h okay]
 PSB027	la maggior parte tra di loro è italiano
 PSB005	mh (o)kay ok[ay]
@@ -1177,4 +1177,4 @@ PSB005	[va bene] sì
 PSB005	okay
 PSB005	va bene grazie
 PSB027	ma grazie a te
-PSB005	e:hm {P} mh
+PSB005	e:hm (.) mh

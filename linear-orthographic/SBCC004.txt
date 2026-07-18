@@ -72,7 +72,7 @@ PSB105	e poi cioè volevo comprare una bottiglia d'acqua e poi cioè loro anche 
 PSB105	e quindi
 PSB105	e quindi ho detto
 PSB104	xx
-PSB105	eh je veux je v~ acheter eh l'eau ride
+PSB105	eh je veux je v~ acheter eh l'eau ((ride))
 PSB105	e poi mi hanno dato un litro d'acqua
 PSB105	eh no no no
 PSB104	ah
@@ -85,7 +85,7 @@ PSB105	strategia
 PSB104	beh e per beh gli hai chiesto effettivamente detto così come me l'hai detto tu gli v gli hai chiesto proprio gli hai chiesto proprio che volevi dell'acqua
 PSB104	perché se no eh dovevi chiedere
 PSB105	sì
-PSB104	je peux aller à la toilette . où se trouve la toilette
+PSB104	je peux aller à la toilette (.) où se trouve la toilette
 PSB105	sì ma dovevo comprare qualcosa per per poter usare
 PSB105	no
 PSB104	beh non necessariamente cioè sì è buon uso in realtà
@@ -1353,10 +1353,10 @@ PSB104	eh mh
 PSB104	carriera quindi ad esempio non so avere gli stessi titoli di studio e av~ a~ mh
 PSB104	avendo come ambizione la stessa posizione di lavoro
 PSB104	okay
-PSB105	glass ceiling ride
+PSB105	glass ceiling ((ride))
 PSB104	e
 PSB104	mh
-PSB105	glass . ceiling
+PSB105	glass (.) ceiling
 PSB104	il eh il eh il eh
 PSB104	come si dice
 PSB104	il soffitto a ve~

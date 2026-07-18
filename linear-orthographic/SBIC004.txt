@@ -223,7 +223,7 @@ PSB005	ehm
 PSB008	è piccola
 PSB005	eh ero in una città grande ma mh
 PSB005	e~ era come se tutti l'org~ gli eventi organizzati per eh per gli erasmus sono per gli erasmus e i lo~ i locali non vanno quindi io m~ mi ricordo di aver di essermi
-PSB008	local . locals
+PSB008	local (.) locals
 PSB008	esatto
 PSB005	come dire sforzata molto e alla fine avevo fatto amicizia e però è stata
 PSB008	esatto

@@ -251,7 +251,7 @@ PSB031	otto anni
 PSB005	okay ah tanto
 PSB005	sì sì sì
 PSB031	sì e adesso eh ho mh
-PSB031	i think stop again ride
+PSB031	i think stop again ((ride))
 PSB005	eh beh puoi provare puoi con calma
 PSB031	sì
 PSB005	puoi provare
@@ -410,7 +410,7 @@ PSB005	mhmh
 PSB031	o
 PSB030	come si chiama
 PSB030	ta po-moemu takže
-PSB031	ta kožnoho dnja novyj dyvymosja ride
+PSB031	ta kožnoho dnja novyj dyvymosja ((ride))
 PSB030	ah ogni giorno è nuovo
 PSB005	ah cioé sì sì sì tipo serie tivù anche forse
 PSB031	sì
@@ -653,7 +653,7 @@ PSB030	ehm anche dnipro circa milione
 PSB031	eh adesso ehm
 PSB031	più perché molte persone mh
 PSB031	movimente to mh
-PSB031	to safe place ride
+PSB031	to safe place ((ride))
 PSB005	sì sì sì certo e perché la tua città è più sicura
 PSB031	mh
 PSB005	di altre
@@ -922,7 +922,7 @@ PSB005	eh quindi
 PSB031	mhmh
 PSB005	è un po' più normale
 PSB005	avere due lingue
-PSB005	eh invece per me io in famiglia solo italiano solo italiano sempre sì sì
+PSB005	eh invece per me io in famiglia solo italiano solo italiano ride sempre sì sì
 PSB031	mhmh
 PSB005	ehm okay eh
 PSB030	qualche altri lingue tu conosci

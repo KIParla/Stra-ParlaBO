@@ -1999,6 +1999,7 @@ PSB045	non lo uso io
 PSB043	dhakiyya wa tharthara
 PSB043	okay
 PSB044	ah okay mi dici
+PSB043	ride
 PSB044	pure
 PSB044	hai capito
 PSB043	come non lo non lo uso io quindi cosa vuol dire

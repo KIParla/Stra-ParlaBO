@@ -68,7 +68,7 @@ PSB094	sì
 PSB093	ehm
 PSB093	there's no problem
 ???	xxx
-PSB093	eita haray jabena oikhane rekhegele ami to konodin jante parbona bhujteo parbona . oikhane rekegese ami ki niashbo naki khorbo
+PSB093	eita haray jabena oikhane rekhegele ami to konodin jante parbona bhujteo parbona (.) oikhane rekegese ami ki niashbo naki khorbo
 ???	eh
 ??	xxx
 ??	dorja khola ami to ante gechilam

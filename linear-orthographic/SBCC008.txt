@@ -445,7 +445,7 @@ PSB105	zhè běn er shū shì yǐ yí gè qiáng jiān kāi tóu de
 PSB119	ah
 PSB105	rán hòu wǒ zài fān yì de shí hòu wǒ jiù bú tài míng bái
 PSB119	nǐ de shū ma
-PSB105	jiù shì nà ge . wǒ men yào dú de nà ge shū
+PSB105	jiù shì nà ge (.) wǒ men yào dú de nà ge shū
 PSB119	come si chiama
 PSB104	come si dice ma come si direbbe c'è un titolo xxx in cinese per l'arte della gioia
 PSB105	no
@@ -504,7 +504,7 @@ PSB119	ehm un altro è sposato è sposato con fidanzato di quella attrice
 PSB119	no no no è sposato con quella
 PSB119	ehm fidanzato che era
 PSB119	fidanza~
-PSB119	no wǒ rén shǎ le . jiù shì . ehm tā gēn tā jiě jiě de . lǎo gōng jié . jiě jiě de qián nán yǒu . jié hūn le
+PSB119	no wǒ rén shǎ le (.) jiù shì (.) ehm tā gēn tā jiě jiě de (.) lǎo gōng jié (.) jiě jiě de qián nán yǒu (.) jié hūn le
 PSB105	ah
 PSB105	ah
 PSB105	è una ragazza si è sposata con il ex della sua sorella
@@ -585,7 +585,7 @@ PSB119	tí mò xī
 PSB105	timothée come si chiama in francese
 PSB104	xxx timothée
 PSB119	timothée
-PSB105	ehm . duì
+PSB105	ehm (.) duì
 PSB119	timothée xxx
 PSB104	lo chiamano tutti timoti
 PSB104	all'inglese però sarebbe timotè da quello che so
@@ -624,7 +624,7 @@ PSB104	chi
 PSB105	un attore di lolita
 PSB104	eh
 PSB104	scusate
-PSB119	ah . tiě tiě shū
+PSB119	ah (.) tiě tiě shū
 PSB105	duì duì duì duì duì duì
 PSB119	un attore inglese
 PSB119	gira sempre nel film molto
@@ -732,7 +732,7 @@ PSB104	ehm capisco ma tipo il sex symbol cinese tipo il classico tipo
 PSB105	secondo me hanno questa tendenza perché gli uomini asiatici
 PSB105	ehm sono più bassi e sono più deboli e ce li hanno più piccoli quindi per ri~
 PSB105	riuscire a a soddisfare una donna cioè
-PSB119	ride jiù mìng a
+PSB119	((ride)) jiù mìng a
 PSB105	devono trovare qualcuna più piccola e più
 PSB105	facile da
 PSB119	controllare
@@ -895,7 +895,7 @@ PSB104	no
 PSB119	unione c'è unione
 PSB119	lì c'è una sala di studio e
 PSB119	nèi ge
-PSB119	jiàn shēn fáng zěn me shuō ride
+PSB119	jiàn shēn fáng zěn me shuō ((ride))
 PSB105	ginnasti~
 PSB119	gi~
 PSB104	ah
@@ -1139,7 +1139,7 @@ PSB104	oh è maschio o una femmina
 PSB119	femmina
 PSB105	castrato
 PSB104	che castrato cioè ma poverina
-PSB119	duì . jué yù le
+PSB119	duì (.) jué yù le
 PSB105	ah castrato
 PSB119	appena
 PSB104	ma che amore che è
@@ -1204,7 +1204,7 @@ PSB104	ecco il mio eh quello di mia zia era metà tra quello che mi hai fatto de
 PSB119	ah
 PSB104	è un misto un misto dei due
 PSB104	infatti era era bellissimo poi poverina è morto ma è morto di vecchiaia quindi
-PSB119	chū bú qù le ride
+PSB119	chū bú qù le ((ride))
 PSB104	ehm
 PSB104	ah
 PSB119	wa cosa mangia
@@ -1236,7 +1236,7 @@ PSB104	io ho visto una ragazza in cina che mangiava degli scorpioni caramellati
 PSB105	ah
 PSB119	ah
 PSB119	shén me
-PSB105	tā shuō chī xiē zī . kàn dào yǒu rén chī xiē zi
+PSB105	tā shuō chī xiē zī (.) kàn dào yǒu rén chī xiē zi
 PSB104	anch'io l'ho guardato molto male
 PSB119	xxx
 PSB105	sì sì mia mamma mi aveva chiesto di provare s~ scorpione fritto
@@ -1315,9 +1315,9 @@ PSB104	ew
 PSB104	ma il piatto più strano che avete in cina qual è che proprio uno dice
 PSB105	ehm sai che alcuni cioè per risolvere i corpi umani lo fanno come cibi
 PSB119	ah
-PSB105	xiàng yún nán . jiù shì bèi chá chū lái . zuò rén ròu
+PSB105	xiàng yún nán (.) jiù shì bèi chá chū lái (.) zuò rén ròu
 PSB119	zhēn de jiǎ de ah
-PSB119	ride hǎo kǒng bù a
+PSB119	((ride)) hǎo kǒng bù a
 PSB104	cos'è che fanno con i corpi umani
 PSB105	ehm lo fanno come cibi
 PSB105	e li vendono
@@ -1339,7 +1339,7 @@ PSB105	ma a una provincia mangiano anche pipistrello perché in cinese
 PSB105	pipistrello si chiama fú
 PSB105	e fortuna si chiama fú quindi
 PSB104	ehm fú ehm infatti stavo dicendo sembrava fortuna
-PSB119	a . chī shén mo
+PSB119	a (.) chī shén mo
 PSB105	jiù shi hé nán hái shì hé bei tā men chī biān fú zài guò niàn de shí hou
 PSB105	jiù shì tā men jué de chī biān fú néng dài lái fú qì
 PSB119	zhēn de jia de
@@ -1358,7 +1358,7 @@ PSB119	xxx
 PSB104	io io rimango sul pollo
 PSB104	è buono quello
 PSB119	oh no
-PSB105	pollo . o polla
+PSB105	pollo (.) o polla
 PSB119	polla
 PSB119	di polla
 PSB104	ehm la vostra il vostro tipo di carne preferito spero siano pipistrelli perché sarebbe un po' strano però
@@ -1390,7 +1390,7 @@ PSB104	c'era questo pescatore che andava in giro per il mare e una cosa che face
 PSB104	cioè li pescava li schiacciava tra le mani e li mangiava che in realtà
 PSB104	se non hai uno stomaco molto potente è una cosa rischiosissima
 PSB105	ew
-PSB119	nǐ yǒu méi yǒu kàn guò gǎn hǎi shì pín ride
+PSB119	nǐ yǒu méi yǒu kàn guò gǎn hǎi shì pín ((ride))
 PSB105	něi ge
 PSB119	questi giorni sto guardando video così che che uomo va a pescare e poi prendi il pesce e poi mangiare
 PSB105	ew
@@ -2122,7 +2122,7 @@ PSB105	ehm se se lo fanno insieme o
 PSB104	sì sì
 PSB104	per me
 PSB105	nǐ men yào bú yào yí kuài er lái
-PSB119	kě yǐ ya ride
+PSB119	kě yǐ ya ((ride))
 PSB119	lái ya
 PSB104	cosa facciamo interrompiamo e ne facciamo un'altra
 PSB105	okay

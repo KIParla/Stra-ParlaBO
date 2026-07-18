@@ -72,7 +72,7 @@ PSB005	e ti scrivi con i tuoi colleghi che sono cinesi immagino
 PSB009	sì sì sì
 PSB005	okay
 PSB009	tutti sono cinesi
-PSB009	eh . at first i think at first i think we have seven hours difference
+PSB009	eh (.) at first i think at first i think we have seven hours difference
 PSB005	mhmh
 PSB005	sì ah giusto sì
 PSB009	it's gonna be a big problem

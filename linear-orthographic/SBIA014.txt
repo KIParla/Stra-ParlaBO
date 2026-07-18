@@ -48,7 +48,7 @@ PSB005	ehm
 PSB005	quindi tu trovi diciamo tutto nel tuo paesino o devi spostarti molto
 PSB079	sì per esempio per per andare a per fare la spesa quello solo problema perché io non ho l~ la patente
 PSB005	mhmh
-PSB079	devo sempre aspettare mio marito per per andare a fare la spesa è quello l~ l' unica problema
+PSB079	devo sempre aspettare mio marito per per andare a fare la spesa è quello l~ l'unica problema
 PSB005	mhmh
 PSB079	ma gli altri no abbiamo la scuola l~ la posta
 PSB079	tutto
@@ -684,7 +684,7 @@ PSB079	mito credo che è un clima mito
 PSB005	mhmh
 PSB005	sì
 PSB067	xxxxx
-PSB079	xxxx ride
+PSB079	xxxx ((ride))
 PSB067	awili io l'ho detto xxx ho detto studi studi
 PSB005	no ma no eh no no no
 PSB079	spontaneamente
@@ -821,7 +821,7 @@ PSB079	tradizioni
 PSB067	perché ognuno di noi cucina quello che
 PSB079	sì sì facciamo il cous cous eh compriamo
 PSB079	la frutta secca
-PSB080	trid . trid
+PSB080	trid (.) trid
 PSB079	eh fa~ fanno un un altro noi no noi invece facciamo il cous cous loro fanno un'altra cosa si chiama trid
 PSB080	trid
 PSB079	non lo so eh come si fa con
@@ -2202,7 +2202,7 @@ PSB079	sì sì
 PSB067	no sono berberi s~ ci sono due dialetti diversi
 PSB079	o tre
 PSB067	non erano quattro
-PSB067	tamazight tarifit w . tashelḥit tamazight tarifit
+PSB067	tamazight tarifit w (.) tashelḥit tamazight tarifit
 PSB079	safi tre
 PSB067	tre
 PSB079	tre ci sono tre

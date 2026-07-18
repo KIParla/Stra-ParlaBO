@@ -2,14 +2,14 @@ PSB149	inizio a registrare così poi ci scordiamo:
 PSB150	mh
 PSB149	che c'è il microfono acceso
 PSB150	mh
-PSB149	{ride}
+PSB149	((ride))
 PSB150	parolacce si dicono?
-PSB149	{mastica} si può dire tutto
-PSB149	ieri ero ehm: {P} andato a piedi no?
+PSB149	((mastica)) si può dire tutto
+PSB149	ieri ero ehm: (.) andato a piedi no?
 PSB149	ché gli altri dormivano tutti
 PSB149	ehm:
 PSB149	ho fatto le cinque e mezza
-PSB149	{ride}
+PSB149	((ride))
 PSB149	perché mi sono sveglia:to ho fatto ho pulito un po' casa così
 PSB149	i piatti eccetera
 PSB149	e sono andato: in centro
@@ -32,22 +32,22 @@ PSB149	bello bello
 PSB149	Il tempo che sono entrato a prendere i biscotti
 PSB150	mh
 PSB149	e sono uscito
-PSB149	le campane stavano: ancora suonando {ride}
+PSB149	le campane stavano: ancora suonando ((ride))
 PSB149	quindi sono entrato e uscito da: dal centro di monghidoro con le campane
 PSB149	su~ super medievale
 PSB150	ti hanno accompagnato nel tragitto
-PSB149	{inspira} bellissimo
+PSB149	((inspira)) bellissimo
 PSB150	questo xxxx qua?
 PSB149	per te
 PSB150	u menya krugloe litso
 PSB150	de tutto
-PSB149	{ride} kolobok
+PSB149	((ride)) kolobok
 PSB150	ehm
-PSB149	{ride}
+PSB149	((ride))
 PSB150	non è vero
 PSB149	come:
 PSB149	vabbè dai smetto
-PSB149	{ride}
+PSB149	((ride))
 PSB150	che?
 PSB150	fermati
 PSB150	non so (pensare a limite)
@@ -72,28 +72,28 @@ PSB150	mh?
 PSB149	ancora un anno
 PSB149	dopo sarai
 PSB149	peggio
-PSB150	xxx vuo:i {P} un pugno in mezzo alle corna?
+PSB150	xxx vuo:i (.) un pugno in mezzo alle corna?
 PSB149	no?
 PSB150	eh allora non dire le sciocchezze
 PSB149	non sono sciocchezze
-PSB149	sono previsioni {ride} statisticamente valide
+PSB149	sono previsioni ((ride)) statisticamente valide
 PSB149	por~
 PSB150	ti fa ridere?
 PSB149	no
 PSB149	[cioè]
 PSB150	[eh]
 PSB150	entro ancora nei pantaloni
-PSB149	mi fa ridere: come come cerchi di resistere alla verità eh {ride}
+PSB149	mi fa ridere: come come cerchi di resistere alla verità eh ((ride))
 PSB149	senza far niente sperando che non: funzioni nie~
-PSB150	{ride}
+PSB150	((ride))
 PSB150	eh vediamo
 PSB149	e:h cari~ guardiamo un altro po' di: geppi cucciari
 PSB150	sì sì
 PSB149	xxx
 PSB150	tu ha trovato il senso di pace
 PSB150	mi fa la tipa la: il medico di pa:~
-PSB150	e allora ti mh ti scrivo: facciamo i corsi io dico: {P} no:
-PSB150	troppa gente {P} troppo affollato
+PSB150	e allora ti mh ti scrivo: facciamo i corsi io dico: (.) no:
+PSB150	troppa gente (.) troppo affollato
 PSB150	ho io: ho detto io qua faccio gli ingressi per cavoli miei
 PSB149	ah beh corso dici: di freque~ no fai fai fai i tuoi esercizi da sola
 PSB150	sì sì
@@ -101,23 +101,23 @@ PSB149	ma che corsi ci sono là
 PSB150	acquagym
 PSB149	ah
 PSB150	pieno così di #sciure
-PSB149	mh {ride}
+PSB149	mh ((ride))
 PSB149	ma sono ovunque
 PSB150	eh no al erano meno
 PSB150	al c'è più spazio
 PSB150	l'acqua è più fredda quindi vai megl~ qua l'acqua:
 PSB150	è calda,
-PSB150	più sono {P} tantissimi
+PSB150	più sono (.) tantissimi
 PSB149	sì sudi troppo
-PSB150	musica: {P} bruttissima a palla
+PSB150	musica: (.) bruttissima a palla
 PSB150	che ti fa male la testa
 PSB149	su le mani u::h
 PSB150	sì tipo tipo co:- cos'è era tipo cos'è
-PSB150	una {P} almeno il nostro a
-PSB150	metteva la bella musica {P} quando facevamo il xxx
+PSB150	una (.) almeno il nostro a
+PSB150	metteva la bella musica (.) quando facevamo il xxx
 PSB150	questo è xx orribile
 PSB150	son scappata
-PSB150	fa palestra? {P} no {ride}
+PSB150	fa palestra? (.) no ((ride))
 PSB149	mh
 PSB149	ma sì fai: esercizi a casa e passeggiate tante
 PSB150	se avessi le tue gambe nuove sì
@@ -164,31 +164,31 @@ PSB150	°assolutamente°
 PSB150	e se io mangiassi: tre volte alla settima~ tre a settimana al giorno come fa
 PSB149	beh lei se se la tira però
 PSB150	s::- beh tanto è tonda lo stesso
-PSB149	{ride}
+PSB149	((ride))
 PSB149	m:h [buo~ buona forche]tta
 PSB150	[credo:]
-PSB150	l'unico magro è {P} tuo zio giacomo
+PSB150	l'unico magro è (.) tuo zio giacomo
 PSB149	e io
 PSB149	c'era paolo ieri o l'altro ieri
 PSB149	che si si lamentava della: qua~ della quantità del cibo che mangiavo no?
 PSB150	mh
-PSB149	{ride}
+PSB149	((ride))
 PSB149	ho mangiato la marg~ la mia pizza la stavo aspettando: la pizza della alessia che lei di solito non la finisce
 PSB150	mh
-PSB149	{ride}
+PSB149	((ride))
 PSB149	poi arriva la ciambella proprio un pezzo così
 PSB150	mhmh
 PSB149	e: di torta alle mele
 PSB149	fa guarda che stronzo
 PSB149	ma~ mangia
-PSB149	mangia la ciambella la pizza, {P} pizza degli altri,
+PSB149	mangia la ciambella la pizza, (.) pizza degli altri,
 PSB149	e c'ha l'addominale scolpito
 PSB150	come me a me mi odiavano come te io mangiavo sempre
 PSB149	me l'avevi detto però
-PSB150	tanto {P} ma classe a~ magra
+PSB150	tanto (.) ma classe a~ magra
 PSB150	mi insultavano sempre
 PSB149	mi fa be:h li mangiano e io faccio beh che te frega
-PSB149	{ride}
+PSB149	((ride))
 PSB150	eh xxx
 PSB149	tutto bene [mi fa]
 PSB150	[così i]ngrassa solo a respir[are]
@@ -221,11 +221,11 @@ PSB150	[sentire fre]ddo
 PSB149	lavo io non c'è
 PSB150	sì volevo solo sciacquare
 PSB150	cosa per i piatti [eh]
-PSB149	[o]kay {P} no non quello magari no
+PSB149	[o]kay (.) no non quello magari no
 PSB150	mh?
 PSB149	meno meno
 PSB149	no nel senso: mh boh
-PSB149	capisco: che lo vuole però {P} è anche un desiderio futile
+PSB149	capisco: che lo vuole però (.) è anche un desiderio futile
 PSB149	cioè u:n:
 PSB149	mh
 PSB150	ma non mh no
@@ -240,7 +240,7 @@ PSB149	non s~ non sai funziona~
 PSB150	ognuno di noi ha le sue priorità
 PSB150	quello che per te:
 PSB150	non è prioritario per lui sì
-PSB149	ma s~ {P} ma è una stronzata non è che mh
+PSB149	ma s~ (.) ma è una stronzata non è che mh
 PSB150	[stronz~ per te xxx]
 PSB149	[v~ avre~ eh no eh no: è no è] evidente
 PSB150	ma c'è roba
@@ -257,7 +257,7 @@ PSB150	[xxxxx]
 PSB149	e: ti trovi un problema comunque de~ che dici
 PSB150	sì si può ci pro~ [può e]ssere
 PSB149	[capito]
-PSB149	{ride}
+PSB149	((ride))
 PSB149	no no ma lo so benissimo perché poi
 PSB149	ognuno se li cerca i problemi
 PSB149	anch'io ero così pensavo: a:
@@ -268,13 +268,13 @@ PSB149	poi dopo che ti rendi conto che di sono tutte stronzate
 PSB149	cioè ci stai male inutilimente
 PSB149	cioè non sono cose per cui: star male ecco
 PSB150	sì io non mi sono mai sentita inferiore a
-PSB150	italiani {P} cioè non ho mai pensato che io sono immigrata xxx
+PSB150	italiani (.) cioè non ho mai pensato che io sono immigrata xxx
 PSB149	eh perché non hai fatto la scuola qua
 PSB150	beh
 PSB149	quan~ quando fai la scuola i bambini son cattivi ti:
 PSB150	ma che si fott(o)no i bambini cattivi io ho fatto [scuola]
 PSB149	[ti fanno] notare tutto
-PSB150	da noi cioè non so se {P} ho capito
+PSB150	da noi cioè non so se (.) ho capito
 PSB149	avevi l'uniforme a scuola tu
 PSB150	#gde #ja #v #školu #chodila eh da [noi menavano da noi $metava[no ti facevano saltare i denti i nasi altro che prenderti i~ in giro a parole
 PSB149	[ve lo ricordano]
@@ -302,7 +302,7 @@ PSB149	come ti vesti, guardano quello quello va::
 PSB150	beh non generalizzare con tutti
 PSB149	no no ogni singola scuola è così
 PSB149	gua~ ci sono i vestiti che vanno di moda,
-PSB150	ma anche da noi era così {P} cioè se tu avevi un vestito meglio di qualcun altro eri preso in giro
+PSB150	ma anche da noi era così (.) cioè se tu avevi un vestito meglio di qualcun altro eri preso in giro
 PSB150	ma non credere
 PSB150	è la stessa cosa
 PSB149	avevate le uniformi
@@ -330,11 +330,11 @@ PSB149	me~ a~ applicata al fatto che puzzi,
 PSB149	perché c'hai i vestiti che san di umido::
 PSB149	che vedi
 PSB150	xx seh
-PSB149	sotto casa {P} eh
+PSB149	sotto casa (.) eh
 PSB149	come:: come
 PSB149	che l~ lo prendevano in giro
 PSB150	mh
-PSB149	per i vestiti che puzzavano di umido {P} perché la casa sapeva di umido
+PSB149	per i vestiti che puzzavano di umido (.) perché la casa sapeva di umido
 PSB150	[xxxxxxx]
 PSB149	[ah e sei povero] sei immigrato sei quello guarda che c'è
 PSB150	ma che [si fotte]
@@ -348,7 +348,7 @@ PSB150	[ci sono anche bravi per]sone
 PSB149	[sì sì no per carità]
 PSB149	io io non sono sono un [esempio]
 PSB150	[eh]
-PSB149	però è {P} è pieno pieno alle superiori era così eh
+PSB149	però è (.) è pieno pieno alle superiori era così eh
 PSB150	se fossero (due) li avrei menati guarda
 PSB150	le~ non ha xx
 PSB149	eh
@@ -356,14 +356,14 @@ PSB150	ah ho messo nero
 PSB149	forse
 PSB150	mh?
 PSB149	forse
-PSB150	e vedrai che dopo avrebbero smesso perché sono tutti: {P} vigliacchi
+PSB150	e vedrai che dopo avrebbero smesso perché sono tutti: (.) vigliacchi
 PSB150	solo a parole grave xxxx
 PSB150	se li prendi uno per uno,
 PSB149	sì sì lo so
 PSB150	vedrai che li passa la paura
 PSB150	kohda rot otkroesh tebia vse boiatsia uzhe
 PSB149	ah quello sì
-PSB149	però ecco {P} sono stronzate che
+PSB149	però ecco (.) sono stronzate che
 PSB150	no
 PSB149	che possono far perdere la vita volendo
 PSB150	eh adesso
@@ -375,10 +375,10 @@ PSB150	se si va avanti e passano
 PSB150	allora
 PSB150	forno brisa che mi dici ti voglio bene
 PSB150	mh mi piace il loro sacchettino
-PSB149	{ride}
-PSB150	ti voglio tanto bene °dice° {ride}
+PSB149	((ride))
+PSB150	ti voglio tanto bene °dice° ((ride))
 PSB150	ah?
-PSB149	continua a darci tutti i tuoi soldi {ride}
+PSB149	continua a darci tutti i tuoi soldi ((ride))
 PSB150	volentieri
 PSB150	quattro euro speso benissimo
 PSB149	quattro euro? dio po'
@@ -403,16 +403,16 @@ PSB150	dove?
 PSB150	davaj pomazh'
 PSB150	oh no no no no no dov'è andato?
 PSB149	cosa è successo?
-PSB150	cascato la mia {P} vitamina
-PSB150	costa cento euro {P} il xx perciò [fai attenzione]
+PSB150	cascato la mia (.) vitamina
+PSB150	costa cento euro (.) il xx perciò [fai attenzione]
 PSB149	[eh lasciala in giro]
 PSB150	eh
-PSB149	{canta}
+PSB149	((canta))
 PSB150	davaj pa mazhem
-PSB149	{canta}
-PSB149	{canta}
+PSB149	((canta))
+PSB149	((canta))
 PSB150	xxxxx
-PSB149	stasera vado a suonare {P} con gli aristofatti
+PSB149	stasera vado a suonare (.) con gli aristofatti
 PSB149	ahia che male
 PSB149	mh
 PSB150	mazh v techenie mesia[tsa]

@@ -1,8 +1,8 @@
-PSB005	>okay< ma {P} ci sono molti clienti ancora o è c'è tro~ è già [troppo vacanze]?
+PSB005	>okay< ma (.) ci sono molti clienti ancora o è c'è tro~ è già [troppo vacanze]?
 PSB056	[no: no no no] a:h questo giorni non è molto cliente
 PSB005	mhmh
-PSB056	hai visto poco roba {P} qua questo chiosco va in
-PSB005	°oh° {P} c'è un altro chiosco in
+PSB056	hai visto poco roba (.) qua questo chiosco va in
+PSB005	°oh° (.) c'è un altro chiosco in
 PSB056	[no] questo porta: via là
 PSB005	ah [okay]
 PSB056	[per]ché: demolizione tus~ eh questo palazzo capito quindi
@@ -11,13 +11,13 @@ PSB005	[ma quando]?
 PSB056	ehm già iniziato lavoro sen[tito]
 PSB005	[mhmh]
 PSB056	allora probabilmente
-PSB056	quattro {P} luglio
+PSB056	quattro (.) luglio
 PSB005	°okay°
 PSB056	quattro eh cinque luglio mi portano: là entro questo due giorni
 PSB005	mhmh
 PSB056	perché quattro luglio vieni staccare corrente
 PSB005	okay
-PSB056	poi (si) [(do~) {P}] °devi por]tare là°
+PSB056	poi (si) [(do~) (.)] °devi por]tare là°
 PSB005	[°sì sì sì°]
 PSB005	ma il comune paga per lo spostamento?
 PSB056	no o~ solo loro spesa per portare là
@@ -26,12 +26,12 @@ PSB056	non mi danno nas~ ehm [io:]
 PSB005	[per il dis]turbo
 PSB005	n[o]
 PSB056	[mh] no no:
-PSB056	e per io ho anche chiesto tutti gente diceva tu vai chiedere {P} soldi perché
+PSB056	e per io ho anche chiesto tutti gente diceva tu vai chiedere (.) soldi perché
 PSB056	un'attività che andando tu dici me lo no puoi stare qua vado lì
 PSB005	mhmh
 PSB056	però devi dare $danneggio [capito]
 PSB005	[anche secondo m]e s[ì]
-PSB056	[e]:h a:h loro {P} ha detto noi $danneggio ah diamo
+PSB056	[e]:h a:h loro (.) ha detto noi $danneggio ah diamo
 PSB056	tu
 PSB056	da prendi da spesa tu hai tu prendi questo chiosco metti là
 PSB005	mhmh
@@ -43,10 +43,10 @@ PSB056	ehm °ho pr[eso bas]ta°
 PSB005	[sì sì sì]
 PSB005	però i clienti poi non ti [trovano]
 PSB056	[e:hm] no questo sì lo sai tu sei attività qua
-PSB056	conoscono tutti: bambini anche {P} anziani capito c(io)è [{P}] adesso:
+PSB056	conoscono tutti: bambini anche (.) anziani capito c(io)è [(.)] adesso:
 PSB005	[°sì°]
 PSB056	che devo fa'
-PSB005	[ah] niente {P} sì sì
+PSB005	[ah] niente (.) sì sì
 PSB005	[ma]
 PSB056	[un] po' moralmente perso capito [normal]mente questo è buon posizione capito beh proprio croce
 PSB005	[certo]
@@ -67,13 +67,13 @@ PSB005	°sì sì°
 PSB056	fatto
 PSB005	eh
 PSB056	però adesso mio dispera~ ma:
-PSB005	ma {P} tu potevi:
-PSB005	opporti? {P} [o no]?
+PSB005	ma (.) tu potevi:
+PSB005	opporti? (.) [o no]?
 PSB056	[e:h]m no io non posso
 PSB005	sì prego
 ???	al tuo amico rumeno potresti dirgli: magari stase~
-???	{registrazione_interrotta}
-PSB056	no perché {P} uscire camion
+???	((registrazione_interrotta))
+PSB056	no perché (.) uscire camion
 PSB005	mhmh
 PSB056	entrare camion
 PSB056	proprio ha messo punto
@@ -84,11 +84,11 @@ PSB056	[s]e loro voglio portare via xxx ha messo cartella eh
 PSB056	tu però
 PSB056	ha messo lì,
 PSB056	no va bene
-PSB005	certo {P} ma sono tanti anni che dicono
+PSB005	certo (.) ma sono tanti anni che dicono
 PSB056	sì tanti già molto anni
 PSB056	che dicono: demolire demolizione $molizione però
-PSB056	ventiquattro è {P} appunt[ato]
-PSB005	[è {P} è su]ccesso {ride} [sì] sì
+PSB056	ventiquattro è (.) appunt[ato]
+PSB005	[è (.) è su]ccesso ((ride)) [sì] sì
 PSB056	[eh sì]
 PSB005	ma dopo qui faranno di nuovo una costruzione:?
 PSB056	sì tre piani cultu~ e:h
@@ -98,7 +98,7 @@ PSB005	o[kay]
 PSB056	[sentivo] così
 PSB005	sì sì [vediamo]
 PSB056	[poi]
-PSB005	certo sì {P} e questa attività da quanti anni esiste?
+PSB005	certo sì (.) e questa attività da quanti anni esiste?
 PSB056	qui?
 PSB005	di fio[ri sì]
 PSB056	[io no]: io
@@ -109,9 +109,9 @@ PSB056	permesso di comune a loro cominciato da due
 PSB056	diciamo duemilaventi
 PSB005	oh okay
 PSB005	°oka[y]°
-PSB056	[du]emilaventi {P} ventuno ventidue venti[tré]
+PSB056	[du]emilaventi (.) ventuno ventidue venti[tré]
 PSB005	[°sì sì°]
-PSB056	quale {P} duemilaventi covid c'è chiuso due mese
+PSB056	quale (.) duemilaventi covid c'è chiuso due mese
 PSB005	mh[mh]
 PSB056	[p]oi: aperto maggio
 PSB056	prima di festa di mam[ma]
@@ -123,7 +123,7 @@ PSB056	oh madonna
 PSB056	c'è: fila svuotato un gio~
 PSB056	festa di mamma svuotato il negozio [proprio] un bel punto
 PSB005	[°sì sì sì°]
-PSB005	e {P} prima di avere i fiori?
+PSB005	e (.) prima di avere i fiori?
 PSB005	fa[cevi] un altro lavoro?
 PSB056	[eh]
 PSB056	sì primo di avere fiori io lavoravo cantiere marini
@@ -153,7 +153,7 @@ PSB056	e:h lei adesso un anno che padova
 PSB005	mhmh
 PSB056	eh studiano biomedicina #english #medium
 PSB005	ah wow okay
-PSB056	e: lei x piace #english #medium bologna no [allora ha do]vuto andare [{P} pa]dova
+PSB056	e: lei x piace #english #medium bologna no [allora ha do]vuto andare [(.) pa]dova
 PSB005	[°non c'è°]
 PSB005	[a pa~]
 PSB005	e vive là?
@@ -168,8 +168,8 @@ PSB005	mhmh
 PSB056	xx per esame andando esame
 PSB005	sì sì sì
 PSB005	però non si laurea ancora?
-PSB056	no no primo an[no {P} xx tre anni]
-PSB005	[ah è piccola sì {P} è p]iccina
+PSB056	no no primo an[no (.) xx tre anni]
+PSB005	[ah è piccola sì (.) è p]iccina
 PSB056	x se vuoi ancora studia altri due [anni] magistra~
 PSB005	[sì sì]
 PSB005	certo [sì sì]
@@ -184,7 +184,7 @@ PSB056	chimico
 PSB005	mhmh
 PSB005	ma dopo che lavoro vuole fare?
 PSB056	non lo so eh eh eh prima fai laureare poi vediamo
-PSB005	{ride}
+PSB005	((ride))
 PSB005	sì sì è l'altro m~ il maschio che cosa fa?
 PSB056	maschio: lavora
 PSB056	e da: lui è un tecnico
@@ -195,23 +195,23 @@ PSB005	°okay°
 PSB056	per danno linea: i[liad] vodafone
 PSB005	[°okay°]
 PSB005	sì sì sì
-PSB056	questo lui ogni tanto va {P} milano, bari,
+PSB056	questo lui ogni tanto va (.) milano, bari,
 PSB005	mh[mh]
 PSB056	[s]postati perché segnale no va bene loro [chiama uffic]io poi siste[ma]
 PSB005	[°okay°]
 PSB005	[fa] manutenzione
 PSB056	[sì]
 PSB005	[sì] sì sì sì
-PSB005	e {P} [e] t~ bologna {P} è meglio di roma, è megli[o]
+PSB005	e (.) [e] t~ bologna (.) è meglio di roma, è megli[o]
 PSB056	[sì]
 PSB056	[n]o molto molto
 PSB056	tranquillo uno
-PSB056	capito {P} no roma: troppo
+PSB056	capito (.) no roma: troppo
 PSB005	troppo casino
 PSB056	sì
 PSB005	sì sì
 PSB056	tu (è) stato roma?
-PSB005	sì ci son [stata] {P} ma solo per vacanza
+PSB005	sì ci son [stata] (.) ma solo per vacanza
 PSB056	[e]
 PSB056	a:h
 PSB005	sì
@@ -232,22 +232,22 @@ PSB056	bologna e:h
 PSB056	culturale capito attività studenti
 PSB056	quello è pieno di studenti tranquillo notte e giorno
 PSB005	mhmh
-PSB056	non è {P} se capita qualcosa capito non è che sempre
+PSB056	non è (.) se capita qualcosa capito non è che sempre
 PSB005	sì sì
-PSB056	$bossare non c'è bologna diciamo {ride}
+PSB056	$bossare non c'è bologna diciamo ((ride))
 PSB056	adesso è molto tranquillo sempre controllo
 PSB056	e::h vedo poliziotti [capito]
 PSB005	[mhmh]
 PSB056	notte e giorno tranquillo [adesso c(io)è] tranquillo anche mio collega (lavora)
 PSB005	[sì sì sì]
-PSB056	#hospital maggiore torna verso alle undici
+PSB056	#*hospital maggiore torna verso alle undici
 PSB056	autobu[s]
 PSB005	[mh]mh
 PSB056	e quindi: sì tranquillo [x]
 PSB005	[a]bitate lontano dall'ospe[dale]?
 PSB056	[no] pilastro [no] io abi~ eh da lavoro maggiore: [lontano]
 PSB005	[ah]
-PSB005	[è lontano {P}] sì
+PSB005	[è lontano (.)] sì
 PSB005	e il pilastro com'è?
 PSB056	pilastro va bene no sentiva così prima di arrivare
 PSB056	capito adesso tranquillo
@@ -267,11 +267,11 @@ PSB005	ma eh
 PSB005	[una cosa tranquilla]
 PSB056	[eh quello pilastro vi]cino supermarket conad?
 PSB005	sì forse sì
-PSB005	sì [{P} sì sì {P} sì] sì sì sì
+PSB005	sì [(.) sì sì (.) sì] sì sì sì
 PSB056	[eh quello: fattoria]
 PSB056	no no lì è: [è pieno]
-PSB005	[è pieno {P} pieno] pieno [sì sì]
-PSB056	[pieno pieno] {P} [sempre pizza pi~
+PSB005	[è pieno (.) pieno] pieno [sì sì]
+PSB056	[pieno pieno] (.) [sempre pizza pi~
 PSB005	[sì sì sì]
 PSB005	[mhmh]
 PSB056	[altro giorno] andato noi nostro famiglia tutti quanti
@@ -284,7 +284,7 @@ PSB056	[m:h ce]rto eh ormai:
 PSB056	capito no anche casa cucino come:
 PSB056	pesci mio bengal[esi], mangio
 PSB005	[mhmh]
-PSB056	anche {P} bambini: mio figlio figlia piace tutti
+PSB056	anche (.) bambini: mio figlio figlia piace tutti
 PSB056	eh questo cosa pizza,
 PSB005	pa[sta al ragù]
 PSB056	[spaghetti] no ogni tanto fatto faccio gli spaghetti
@@ -297,10 +297,10 @@ PSB005	°okay° e per parte bengalese?
 PSB056	la parte bengalese più cucina mio mogli[e]
 PSB005	[o]kay okay
 PSB005	e il gruppo di: m:h degli indù?
-PSB056	eh sì ecco {P} gruppo degli indù altro giorno andato
+PSB056	eh sì ecco (.) gruppo degli indù altro giorno andato
 PSB056	via xx tra e:h domenica scorso
 PSB005	mhmh
-PSB056	[x per] per tanti {P} persone
+PSB056	[x per] per tanti (.) persone
 PSB005	[dove s~]
 PSB005	dove?
 PSB056	eh pia~ eh giardino: come si chiama
@@ -312,10 +312,10 @@ PSB005	[lunetta] gamberini?
 PSB056	forse [sì]
 PSB005	[sì]
 PSB056	forse
-PSB005	perché io ho visto {P} [un gruppo {P} perché io abi]to lì
-PSB056	[eh {P} eh]
+PSB005	perché io ho visto (.) [un gruppo (.) perché io abi]to lì
+PSB056	[eh (.) eh]
 PSB056	a:h
-PSB005	allora forse erava[te vo~ {P} sì]
+PSB005	allora forse erava[te vo~ (.) sì]
 PSB056	[eh sì] domenica scor[so]
 PSB005	[sì]
 PSB005	[ah sì sì sì]
@@ -323,7 +323,7 @@ PSB056	[verso alle:] ci~ quattro me[zza cinque]
 PSB005	[sì sì sì]
 PSB056	cantava e girava [xxx lunghi] [lunghi]
 PSB005	[con vestiti lunghi]?
-PSB005	[ah erava]te {P} vi dovevo fermare vedi {ride}
+PSB005	[ah erava]te (.) vi dovevo fermare vedi ((ride))
 PSB056	sì
 PSB005	[ho sbaglia]to
 PSB056	[eh]
@@ -337,7 +337,7 @@ PSB056	[a:h]
 PSB056	[tuo:] genitori là?
 PSB005	mhmh
 PSB056	tu sei bolognese [bologne~ m:h]
-PSB005	[sì {P} sì sì sì]
+PSB005	[sì (.) sì sì sì]
 PSB005	sì sì
 PSB005	ho studiato fuori,
 PSB005	a trieste che è una città [al nor]d
@@ -350,7 +350,7 @@ PSB056	proprio porto di tries[te capi]to poi andato fare giro
 PSB005	[mhmh]
 PSB056	e:h piazzola,
 PSB005	mhmh ah okay sì
-PSB005	e {P} a
+PSB005	e (.) a
 PSB005	avete un po' di tempo libero andate in vacanza un po'?
 PSB056	sì: io: volevo andare e:h però
 PSB056	ho troppi impegni ho quest'anno
@@ -376,33 +376,33 @@ PSB056	[per fare] girare fare vacanza
 PSB005	sì [sì]
 PSB056	°[no]° anche qui ti parlando
 PSB056	come: devi sedere e:h se mi se[nti stan~]
-PSB005	[puoi sederti] {ride}
+PSB005	[puoi sederti] ((ride))
 PSB056	no ti dico: s~
 PSB056	stanco come: [xxx]
 PSB005	[mhmh]
 PSB005	sì sì certo sì eh ma hai lavorato molti anni
 PSB056	e:h
 PSB005	ma la pensione non:
-PSB005	{ride}
-PSB005	penso che {ride}
+PSB005	((ride))
+PSB005	penso che ((ride))
 PSB005	e:hm ho ho una domanda voi quale lingua parlate in ca[sa]?
 PSB056	[be]ngalese
 PSB005	è una lingua difficile?
 PSB056	no:
 PSB056	un po' difficile sì
 PSB056	però ci sono università studiano eh
-PSB056	eh eh sanscriti {P} [conosci sanscriti]?
-PSB005	[mhmh {P} sì sì]
+PSB056	eh eh sanscriti (.) [conosci sanscriti]?
+PSB005	[mhmh (.) sì sì]
 PSB056	d~ sanscriti che xx e:h venuto: bengale[se]
-PSB005	[mh]mh {P} è molto diverso?
-PSB056	sì {P} o o no se~ sempre:
-PSB056	senti: {P} io capisco,
+PSB005	[mh]mh (.) è molto diverso?
+PSB056	sì (.) o o no se~ sempre:
+PSB056	senti: (.) io capisco,
 PSB005	mhmh
 PSB056	#hindi come: xxx
 PSB056	eh lingua indiano #hindi
-PSB056	#urdu {P} capisco po[co po]co no non riesce fu~
+PSB056	#urdu (.) capisco po[co po]co no non riesce fu~
 PSB005	[mhmh]
-PSB056	#fluently {P} parlare [{P} mol]ti aspetti sfuggen[te] capito
+PSB056	#fluently (.) parlare [(.) mol]ti aspetti sfuggen[te] capito
 PSB005	[certo sì]
 PSB005	[mhmh]
 PSB005	mhmh
@@ -424,9 +424,9 @@ PSB005	[mhmh sì] sì
 PSB005	sì sì
 PSB005	e i tuoi figli: parlano bene benga[lese]?
 PSB056	[sì mio]
-PSB056	mio °arrivo eh {P} [stai qua°]
-PSB005	[sì sì] {P} sì sì
-PSB056	{registrazione_interrotta}
+PSB056	mio °arrivo eh (.) [stai qua°]
+PSB005	[sì sì] (.) sì sì
+PSB056	((registrazione_interrotta))
 PSB005	sì sì
 PSB005	secondo me mi stavi spiegando delle lingue
 PSB005	del bangladesh
@@ -445,17 +445,17 @@ PSB005	[p]erché si scrive: con le lettere diverse no?
 PSB056	sì
 PSB005	eh e:h
 PSB056	vuoi sedere [tu]?
-PSB005	[no] no no {P} no no no [io] s~ l'importante è che appoggi lo zaino {P} che c'ho i mattoni dentro {ride}
+PSB005	[no] no no (.) no no no [io] s~ l'importante è che appoggi lo zaino (.) che c'ho i mattoni dentro ((ride))
 PSB056	[x]
-PSB056	{ride}
+PSB056	((ride))
 PSB056	metti so:pra
 PSB005	no no sto bene sto bene non ti preoccupare
 PSB056	no un po' difficile
 PSB056	e:h [lin]gua bengalese
 PSB005	[eh]
-PSB056	non è facile anche iscri~ {ride}
+PSB056	non è facile anche iscri~ ((ride))
 PSB056	capito
-PSB005	per me la scrittura è {P} difficilis[sima]
+PSB005	per me la scrittura è (.) difficilis[sima]
 PSB056	[mh sì]
 PSB005	sì
 PSB005	e: e i tuoi figli dicevi che parlano bene bengalese?
@@ -471,7 +471,7 @@ PSB005	e in famiglia,
 PSB005	mescolate le lingue un po'?
 PSB005	con l'italiano oppure [quando entri in casa solo]
 PSB056	[sì no allora]
-PSB056	[molto] interesse uno cosa c(io)è che questo che {P} quando due
+PSB056	[molto] interesse uno cosa c(io)è che questo che (.) quando due
 PSB005	[mh]
 PSB056	e::h a::h fratello sorel[la] litigano no par~
 PSB005	[mhmh]
@@ -483,10 +483,10 @@ PSB005	°sempre sì°
 PSB005	quando cenate tutti insieme?
 PSB056	eh sì
 PSB056	insieme bengale[se °bengalese°]
-PSB005	°[sì sì {P} sì sì] sì°
+PSB005	°[sì sì (.) sì sì] sì°
 PSB005	e parlano abbastanza bene o sono un po' italiani loro?
-PSB056	no [italiani eh, {P} no no lo]ro perché nato qua [studia]to qua quindi
-PSB005	[ah {P} hanno un po' di accento italiano]?
+PSB056	no [italiani eh, (.) no no lo]ro perché nato qua [studia]to qua quindi
+PSB005	[ah (.) hanno un po' di accento italiano]?
 PSB005	[mhmh]
 PSB005	mhmh
 PSB056	imparato qua quindi:
@@ -498,21 +498,21 @@ PSB005	°eh certo°
 PSB056	è così
 PSB056	[è no]rmale
 PSB005	[che]
-PSB005	fetente {ride}
+PSB005	fetente ((ride))
 PSB056	loro studia nato qua studiano qua quindi [°div]erso°
 PSB005	[mhmh]
 PSB005	[mhmh]
 PSB005	[mhmh]
 PSB005	quando parlano bengalese loro però
 PSB005	c~ hanno un po' di accento italiano, o hanno
-PSB056	sì ogni tanto:: entrano dentro {ride}
+PSB056	sì ogni tanto:: entrano dentro ((ride))
 PSB056	[il po]che parola italiano [°capi~°]
 PSB005	[mhmh]
 PSB005	[esatto]
-PSB056	quando rabbia {P} capita rab[bia]
+PSB056	quando rabbia (.) capita rab[bia]
 PSB005	[°certo] [sì°]
 PSB056	[e allo]ra sì così
-PSB005	ma {P} an~ {P} sanno scrivere anche?
+PSB005	ma (.) an~ (.) sanno scrivere anche?
 PSB056	sì [sì]
 PSB005	[in] bengalese [an~] con le lettere proprio?
 PSB056	[sì]
@@ -539,11 +539,11 @@ PSB056	[°capito°]
 PSB005	°sì sì°
 PSB005	non ci sono
 PSB005	delle scuole:
-PSB005	di {P} lingua bengalese?
+PSB005	di (.) lingua bengalese?
 PSB005	qui
 PSB056	BOLOGNA: NO
 PSB056	quello che sappiamo ancora no voleva aprire: fatto riunione eccetera che però
-PSB056	non è: andato: {P} profondo [°capito°]
+PSB056	non è: andato: (.) profondo [°capito°]
 PSB005	[mhmh]
 PSB005	perché ci sono t~ tante perso[ne del bangladesh]
 PSB056	[sì sì molto] molto più che altri gli
@@ -551,34 +551,34 @@ PSB056	musulmani [tanti] °capi[to°]
 PSB005	[°mhmh°]
 PSB005	[°sì sì°]
 PSB056	induisti poco
-PSB056	{tossisce} però adesso
+PSB056	((tossisce)) però adesso
 PSB056	bene quando fatto brexit
 PSB056	tutti andato londra
 PSB005	°ah okay°
-PSB056	{tossisce} capito?
+PSB056	((tossisce)) capito?
 PSB005	°sì°
 PSB056	io anche andato però
 PSB056	non mi piace clima capito
-PSB056	no devi guardare {P} solo soldi
+PSB056	no devi guardare (.) solo soldi
 PSB005	mhmh
-PSB056	{tossisce}
-PSB005	certo {P} sì
+PSB056	((tossisce))
+PSB005	certo (.) sì
 PSB005	la qualità della vi[ta x]
 PSB056	[qua] eh eh qu~
 PSB056	mo:lto differenza
-PSB056	come vita da inglesi o italiani {P} qui mangiamo roba buona genuina
+PSB056	come vita da inglesi o italiani (.) qui mangiamo roba buona genuina
 PSB056	i i londra: non mi pi~ tu stato londra?
 PSB005	[son stata] un anno
 PSB056	[com'è]
 PSB056	com'era
-PSB005	ero no ero in un paese piccolo veramente {P} ero piccolina avevo diciassette anni
+PSB005	ero no ero in un paese piccolo veramente (.) ero piccolina avevo diciassette anni
 PSB056	ah
 PSB005	sì
 PSB056	non è diciassett'a~ tanti proprio bambina capi[to]
 PSB005	[no] eh ma adesso ne ho trentadue [quindi:] mi sem[bra che ero] molto piccola
 PSB056	[°mh°]
 PSB056	[m:h]
-PSB005	e ho fatto un po' di fatica ad {P} ad adattarmi
+PSB005	e ho fatto un po' di fatica ad (.) ad adattarmi
 PSB056	ah
 PSB005	perché ero troppo giovane secondo me
 PSB056	e lavoravi o [studi]?
@@ -587,18 +587,18 @@ PSB005	ma vivevo con una famiglia inglese
 PSB056	ah
 PSB005	e facevo un
 PSB056	patto erasmus co[me]?
-PSB005	[ti]po sì {P} sì
+PSB005	[ti]po sì (.) sì
 PSB056	tipo [così]
 PSB005	[esatto]
 PSB005	ma: ho fatto un po' di fatica
 PSB056	atteggiamento com'è inglesi?
-PSB056	un po' {P} noioso italiani per loro capito
+PSB056	un po' (.) noioso italiani per loro capito
 PSB005	mi sembrava che non ci capissimo
 PSB005	difficoltà di comunicazione
 PSB005	[c'era]
 PSB056	[sì]
 PSB056	sì un po': particolare capito
-PSB056	invece italia: no ade~ {P} ehm ehm ehm
+PSB056	invece italia: no ade~ (.) ehm ehm ehm
 PSB056	presente londra #east #london tutti stranieri
 PSB056	capito no: sono:
 PSB056	diciamo de~ bianchi [tu]tti fuori
@@ -619,14 +619,14 @@ PSB056	e fatto domanda pr~ e:h prima di brexit capito fare il documento però
 PSB056	già dieci giorni mi già rotto
 PSB056	mh capito allora no meglio torniamo italia ormai
 PSB056	trenta anni che capito inizia
-PSB056	lavoro clima, {P} eh
+PSB056	lavoro clima, (.) eh
 PSB056	pioggia
 PSB056	vento,
 PSB056	capito c(io)è non mi piace cli[ma]
 PSB005	[mh] mhmh
 PSB056	italia, beh (almeno)
 PSB056	mh
-PSB056	non mangio però {P} mangio {P} qualcosa {P} vivo bene clima bene
+PSB056	non mangio però (.) mangio (.) qualcosa (.) vivo bene clima bene
 PSB056	capito non è come:
 PSB005	sì sì sì [mi ricordo]
 PSB056	[m:h mh]
@@ -639,13 +639,13 @@ PSB056	[xx]
 PSB056	qui?
 PSB005	sì
 PSB056	italia sì
-PSB005	anche con la {P} pers[one]
+PSB005	anche con la (.) pers[one]
 PSB056	[eh] con le sì sì sì
 PSB005	°mhmh°
 PSB056	c(io)è capita capito c(io)è:
 PSB056	quello è normale
 PSB005	°sì sì°
-PSB056	eh però italia bene {P} mi piace
+PSB056	eh però italia bene (.) mi piace
 PSB005	mh[mh]
 PSB056	[e]cco perché tornato qui
 PSB056	eh
@@ -662,7 +662,7 @@ PSB005	che bisognerebbe risolvere:
 PSB056	perché eh
 PSB056	ci sono tanti disoccupati
 PSB056	e::h
-PSB056	tu lavori nero, capito {P} no pagano,
+PSB056	tu lavori nero, capito (.) no pagano,
 PSB056	non regola:, questo cosa qua questo molto $profittano
 PSB056	italiani eh
 PSB056	se: nero lavoro: ti pago sette euro l'ora o [cinque euro] l'ora capito questo è
@@ -689,10 +689,10 @@ PSB056	no: riesce guadagnare: niente non rimane niente
 PSB056	[capito]
 PSB005	[mhmh mh]
 PSB005	eh lo so sì è un grosso [problema questo sì sì]
-PSB056	[o questo questo] {P} grosso problema
+PSB056	[o questo questo] (.) grosso problema
 PSB056	per ehm
 PSB005	mhmh
-PSB056	se tu paghi regola {P} giustamente quello che quanto lavora fai tu paghi
+PSB056	se tu paghi regola (.) giustamente quello che quanto lavora fai tu paghi
 PSB056	però
 PSB056	quello che:
 PSB056	investito
@@ -703,10 +703,10 @@ PSB056	[non] c'è: °soldi°
 PSB005	no ma poi si sentono delle notizie terri:bili ogni [tanto]
 PSB056	[eh s::~] sì sì
 PSB005	ma
-PSB005	e {P} secondo te qual è la differenza più grande tra bologna {P} tra l'italia e il bangladesh?
+PSB005	e (.) secondo te qual è la differenza più grande tra bologna (.) tra l'italia e il bangladesh?
 PSB056	mo:lto
 PSB056	e:h a:h mo:lto più che altri
-PSB056	tu sei libertà {P} tu
+PSB056	tu sei libertà (.) tu
 PSB056	vuoi uscire alla notte l'una due torni casa non succede niente
 PSB005	mh
 PSB056	bangladesh
@@ -720,19 +720,19 @@ PSB056	[che] violentano sette otto anni una ragazzi~
 PSB056	capito xx xx
 PSB056	proprio:
 PSB056	che schifo
-PSB005	ma perché c'è {P} molta criminalità? [°quindi°]
+PSB005	ma perché c'è (.) molta criminalità? [°quindi°]
 PSB056	[crimi~] eh
 PSB056	[°quella anche°]
 PSB005	[mhmh]
-PSB005	perché c'è {P} molta disoccupazione molta pover[tà]?
-PSB056	[po~] povertà {P} [molto] povertà
+PSB005	perché c'è (.) molta disoccupazione molta pover[tà]?
+PSB056	[po~] povertà (.) [molto] povertà
 PSB005	[sì sì]
 PSB005	mhmh
 PSB056	giorno guadagna eh eh mangia giorno non c'è lavoro
-PSB056	non c'è mangi [{P}] (tu) la sera è quella
+PSB056	non c'è mangi [(.)] (tu) la sera è quella
 PSB005	[mhmh]
 PSB005	mh
-PSB005	certo {P} sì [sì]
+PSB005	certo (.) sì [sì]
 PSB056	[capi]to i:: stato anche frega niente capito
 PSB005	mhmh
 PSB056	che capoccia che rubano capito
@@ -742,8 +742,8 @@ PSB056	traffico sì dhaka
 PSB056	capitale:, tu vai vedere come la situazione sul google
 PSB056	e:h
 PSB056	no no sempre clac~
-PSB056	suona suona hai {P} spiegato qualcuno?
-PSB005	[>mi ha<] {P} qualcuno mi ha detto che
+PSB056	suona suona hai (.) spiegato qualcuno?
+PSB005	[>mi ha<] (.) qualcuno mi ha detto che
 PSB056	[no]
 PSB005	vanno tutti in tutte le direzioni
 PSB056	sì
@@ -751,18 +751,18 @@ PSB005	[un altro ragazzo] sì
 PSB056	[non rispetta]
 PSB056	non rispettano semafo[ro]
 PSB005	[mhmh]
-PSB056	capito? [{P} qu]ella problema
+PSB056	capito? [(.) qu]ella problema
 PSB005	[sì]
 PSB005	mhmh
 PSB056	quando no apri cervello,
 PSB056	e vanno avanti ancora duecento anni così
-PSB005	{ride}
+PSB005	((ride))
 PSB056	capito?
 PSB005	°sì sì sì°
 PSB056	bisogno
 PSB056	studiare,
-PSB056	imparare vedere mondo come sono mondo oggi come oggi {P} mano capito tu puoi vedere
-PSB056	da casa tutti c~ {P} tutte cosa
+PSB056	imparare vedere mondo come sono mondo oggi come oggi (.) mano capito tu puoi vedere
+PSB056	da casa tutti c~ (.) tutte cosa
 PSB005	°mhmh°
 PSB056	capito?
 PSB056	[°quello°]
@@ -781,17 +781,17 @@ PSB056	e:h a:h grandissimo mio amico
 PSB005	okay ok[ay]
 PSB056	[a]mico
 PSB056	mi dispiace succe[sso]
-PSB005	[mh]mh son an~ perché io abito {P} lì
+PSB005	[mh]mh son an~ perché io abito (.) lì
 PSB056	allor[a]
 PSB005	[qui]ndi vado tante volte da [lei]
 PSB056	[succ]esso che cosa lui andato ferie
 PSB005	mhmh
 PSB056	e:h
-PSB056	o: uno: zanzare c~ {P} quello che xx eh
-PSB056	(allungano) {porzione_rimossa_per_privacy} hai senti[to il nome]
+PSB056	o: uno: zanzare c~ (.) quello che xx eh
+PSB056	(allungano) ((porzione_rimossa_per_privacy)) hai senti[to il nome]
 PSB005	[sì sì sì sì]
 PSB056	e:h eh
-PSB056	e lui ha avuto {porzione_rimossa_per_privacy}
+PSB056	e lui ha avuto ((porzione_rimossa_per_privacy))
 PSB005	mhmh
 PSB056	poi tu: finito ferie tornato
 PSB056	e sentiva male,
@@ -799,7 +799,7 @@ PSB056	poi: ricoverato sant'orsola
 PSB056	andato vedere: tutti i giorni
 PSB005	mhmh
 PSB056	[e:h]
-PSB005	[ma {P}] era giovane?
+PSB005	[ma (.)] era giovane?
 PSB056	giovani hai visto moglie [quanto bella e:h $giovan]o
 PSB005	[eh infatti sì]
 PSB005	[sì sì]
@@ -810,15 +810,15 @@ PSB005	°mhmh°
 PSB056	e:h suo figlia eh figlia era molto intelligenti stu~ voleva studiare medi[cina capito]
 PSB005	[mh okay]
 PSB005	°mhmh°
-PSB056	e lui {P} ha avuto varicella interna no è che
+PSB056	e lui (.) ha avuto varicella interna no è che
 PSB056	fuori
 PSB005	°sì sì°
 PSB056	medico non è uscito copri~ scoprire
-PSB056	poi quando venuto {P} punto punto fuori,
+PSB056	poi quando venuto (.) punto punto fuori,
 PSB056	quando è #analysis fatto
 PSB056	ormai
 PSB056	questo $largano $largato come tutti
-PSB056	coperto con quella {P} brutta malattia interna
+PSB056	coperto con quella (.) brutta malattia interna
 PSB005	°sì sì sì°
 PSB056	finito prima se scopriva
 PSB005	certo
@@ -833,12 +833,12 @@ PSB056	°già° quello che ha dava medicina non funzionava capito
 PSB056	perché forse altre cosa
 PSB005	mhmh
 PSB005	sì sì non hanno [capito]
-PSB056	[m::h] non è uscito capire [{P}] cosa può essere era proprio $vercello interno
+PSB056	[m::h] non è uscito capire [(.)] cosa può essere era proprio $vercello interno
 PSB005	[sì sì]
 PSB056	me ne ha detto difficile
-PSB056	per {P} interno varicella
+PSB056	per (.) interno varicella
 PSB005	sì sì [ma]
-PSB056	[se] [inizio sape~ {P}] no no inizio sapevi, {P} risolveva [capito]
+PSB056	[se] [inizio sape~ (.)] no no inizio sapevi, (.) risolveva [capito]
 PSB005	[è raro è raro no]?
 PSB005	°[certo]°
 PSB056	sicuramente
@@ -846,37 +846,37 @@ PSB056	si può eh
 PSB056	eh poi rimasto:
 PSB005	sì sì certo
 PSB005	ma
-PSB005	la {P} la puntura l'ha presa qui? in ferie qui?
-PSB005	o in {P} bangladesh?
+PSB005	la (.) la puntura l'ha presa qui? in ferie qui?
+PSB005	o in (.) bangladesh?
 PSB056	questo non lo so se puntura
 PSB056	lui andato ferie
 PSB005	ma dov'è anda[to in ferie]?
 PSB056	[eh a b~ bangla][desh]
 PSB005	[ah eh oka]y
-PSB056	{porzione_rimossa_per_privacy}
+PSB056	((porzione_rimossa_per_privacy))
 PSB005	l'ha [preso là]?
 PSB056	[e:h] l'ha preso là [non qua]
-PSB005	[sì sì {P} non] qua
+PSB005	[sì sì (.) non] qua
 PSB056	no qua
 PSB005	mhmh
 PSB005	[perché] qui io non ho mai sentit[o: nessuno sì]
 PSB056	[mhmh]
-PSB056	[no {porzione_rimossa_per_privacy} no]
+PSB056	[no ((porzione_rimossa_per_privacy)) no]
 PSB056	però se be~
 PSB056	quando andiamo ferie,
-PSB056	chiediamo per e:h e::h punt[ura per] {porzione_rimossa_per_privacy}
+PSB056	chiediamo per e:h e::h punt[ura per] ((porzione_rimossa_per_privacy))
 PSB005	[sì sì sì]
 PSB005	sì sì
 PSB056	bologna non c'è questo devi andare non lo so d[ove volev]amo andare,
 PSB005	[ah okay]
 PSB056	e[:h m:h e:h]
-PSB005	[ah] forse non l'aveva fatta [eh no] {P} certo
+PSB005	[ah] forse non l'aveva fatta [eh no] (.) certo
 PSB056	[sì capito]
 PSB005	terribile non lo sape:vo
 PSB005	sì sì sì
 PSB056	lei non è spiegato?
 PSB005	ma perché non ho
-PSB005	non ho chiesto {P} [n]:- non volev[o: {P} sì]
+PSB005	non ho chiesto (.) [n]:- non volev[o: (.) sì]
 PSB056	[ah]
 PSB056	[no lui è] grandissimo mio ami[co]
 PSB005	[mhmh]
@@ -884,7 +884,7 @@ PSB005	ma lei sono andata per dieci minuti solo poi mi ha detto che era impegnat
 PSB056	[m]::h [sì]
 PSB005	[un altro g]iorno quindi non abbia[mo parlato molto sì]
 PSB056	[no questo quello chi]osco lavoro sem[pre capito]
-PSB005	[eh sì] {P} [sì sì]
+PSB005	[eh sì] (.) [sì sì]
 PSB056	[perché] dipende zona
 PSB056	qui zona san donato to~ maggior parte tutti stranie[ri capito]
 PSB005	[okay]
@@ -900,23 +900,23 @@ PSB005	ricca
 PSB005	[sì]
 PSB056	[sì]
 PSB056	su qualsiasi negozio,
-PSB005	sì io quando {P} quando ero più giovane {ride}
+PSB005	sì io quando (.) quando ero più giovane ((ride))
 PSB056	mh
 PSB005	eh ci andavo molto spesso
 PSB005	lì perché mia sorellina,
 PSB056	ah
-PSB005	andava: nel coro {P} [c'è un coro di bam]bini {P} v[abbè] c'è un coro di [bambini] che: è lì vicino,
-PSB056	[ah {P} co~]
+PSB005	andava: nel coro (.) [c'è un coro di bam]bini (.) v[abbè] c'è un coro di [bambini] che: è lì vicino,
+PSB056	[ah (.) co~]
 PSB056	[ah]
 PSB056	[mh]
-PSB005	e allora {P} andavo dalla dalla mia sorellina poi passavo dalla [da dai fiori] sì quindi:
+PSB005	e allora (.) andavo dalla dalla mia sorellina poi passavo dalla [da dai fiori] sì quindi:
 PSB056	[°eh davan~°]
 PSB005	ci sia[mo visti un po'] di volte
 PSB056	[°no no°]
 PSB005	ma adesso devo tornare anche da lei a farmi racconta~
-PSB005	lei mi ha detto che anche lei è di indù {P} della [comuni]tà in[dù sì]
+PSB005	lei mi ha detto che anche lei è di indù (.) della [comuni]tà in[dù sì]
 PSB056	[sì]
-PSB056	[nostro:] °indù° {P} s~ si vedi domenica qui
+PSB056	[nostro:] °indù° (.) s~ si vedi domenica qui
 PSB005	ah [forse la vedo eh certo sì] sì infa[tti]
 PSB056	[°x x x° sì sì]
 PSB056	[eh]
@@ -955,11 +955,11 @@ PSB005	°sì sì sì°
 PSB056	°capito°
 PSB005	terribile
 PSB056	°e:h°
-PSB056	e [no {P}] quella cosa,
+PSB056	e [no (.)] quella cosa,
 PSB005	[°cer~°]
-PSB056	italia no {P} anche europa no
+PSB056	italia no (.) anche europa no
 PSB005	mhmh
-PSB005	[sì sì] cer[to {P} per fortuna]
+PSB005	[sì sì] cer[to (.) per fortuna]
 PSB056	[e:h]
 PSB056	[può essere $merica] colore bianco nero
 PSB005	mhmh
@@ -977,13 +977,13 @@ PSB056	[eh] capito [quindi sco]ppiato col eh questo mondo eh
 PSB005	[sì sì sì]
 PSB005	mhmh
 PSB005	sì certo
-PSB005	e invece per esempio {P} perché io non sono {P} non ho mai viaggiato [in india], in bangladesh,
+PSB005	e invece per esempio (.) perché io non sono (.) non ho mai viaggiato [in india], in bangladesh,
 PSB056	[°mhmh mhmh°]
 PSB005	co~ com'è fatto com'è i: la natura[::]
 PSB056	[na]tura come qua eh però
 PSB056	a te e:h diciamo: che sono buona persone
-PSB056	mondo {P} c'è qualsiasi paese c'è buona e c[attivo eh]
-PSB005	[mhmh {P}] sì
+PSB056	mondo (.) c'è qualsiasi paese c'è buona e c[attivo eh]
+PSB005	[mhmh (.)] sì
 PSB056	maggior parte
 PSB056	perché disoccupato molto ra[gazzi] studiato però non fan ga~
 PSB005	[mhmh]
@@ -999,7 +999,7 @@ PSB056	[eh quello probl]ema [°capito°]
 PSB005	[certo] sì sì
 PSB005	e c'è turismo in bangladesh?
 PSB005	[ci sono i turisti]?
-PSB056	[sì {P} po]co india <mo:l[to] india mo:l[to>]
+PSB056	[sì (.) po]co india <mo:l[to] india mo:l[to>]
 PSB005	[sì]
 PSB005	[eh sì]
 PSB056	tutti stranieri diciamo
@@ -1007,7 +1007,7 @@ PSB005	mhmh
 PSB005	però in bangladesh non c'è turism[o]
 PSB056	[po]co poco °bangla~°
 PSB005	sì sì
-PSB005	e il clima {P} com'è?
+PSB005	e il clima (.) com'è?
 PSB056	clima: monsone
 PSB005	eh cer[to]
 PSB056	[eh] eh °ecco°
@@ -1023,10 +1023,10 @@ PSB056	no qui no [eh] eh forlì quell[a zona] lì capito che
 PSB005	[no]
 PSB005	[eh sì]
 PSB005	mh[mh]
-PSB056	[a] faenza, sotto acqua tutti [{P}] produttore
+PSB056	[a] faenza, sotto acqua tutti [(.)] produttore
 PSB005	[mh]
 PSB005	mhmh
-PSB056	piangeva {P} non lo so stato
+PSB056	piangeva (.) non lo so stato
 PSB056	aiutato o no
 PSB056	casa q[ualche]
 PSB005	[lenta]mente sì
@@ -1035,7 +1035,7 @@ PSB056	lavorato tutte vita comprato
 PSB056	casa sotto
 PSB056	diciamo primo piano sotto acqua e piangeva [qua]
 PSB005	[eh] certo sì
-PSB005	però tu non hai avuto {P} pr[oblemi]?
+PSB005	però tu non hai avuto (.) pr[oblemi]?
 PSB056	[no bo]logna no [bologna] non c'è
 PSB005	[no no]
 PSB056	°bologna non c'è [per]ò°
@@ -1051,7 +1051,7 @@ PSB056	[no:] futuro che cosa succederai vedrai
 PSB005	mhmh no cer~ io l'a[nno sco]rso lavoravo a forlì,
 PSB056	[xx]
 PSB056	ah
-PSB005	e c'è stato {P} grossi danni alla biblioteca
+PSB005	e c'è stato (.) grossi danni alla biblioteca
 PSB056	a[:h]
 PSB005	[tu]tti i libri si sono tutti [inzu]ppati [sì]
 PSB056	[$tuttu]
@@ -1074,11 +1074,11 @@ PSB005	cioè ho la mia famiglia mie s~ due sorelle più piccole,
 PSB056	due sorell[a? fr]atello no?
 PSB005	[sì]
 PSB005	no
-PSB056	{ride}
+PSB056	((ride))
 PSB005	no no solo [femmine sì] solo femmine
 PSB056	[vabbè]
 PSB056	tutti studiando?
-PSB005	sì {P} mia sorella:
+PSB005	sì (.) mia sorella:
 PSB005	che ha: quasi la mia età,
 PSB005	fa il medico
 PSB056	a[:h]
@@ -1086,16 +1086,16 @@ PSB005	[già] finito e fa il medico sì
 PSB056	ah [be:ne]
 PSB005	[sì sì sì]
 PSB056	intelligenti [pure]
-PSB005	[sì, {P}] no soprattutto studia molto
+PSB005	[sì, (.)] no soprattutto studia molto
 PSB056	ah
 PSB056	no più che altro lo sai
-PSB056	che {P} $se:ngue
+PSB056	che (.) $se:ngue
 PSB005	mh,
 PSB056	diventa anche $sengue $pemilie capito
-PSB005	sì forse {P} perché anche i miei genitori
+PSB005	sì forse (.) perché anche i miei genitori
 PSB056	eh eh
 PSB005	fanno i medici
-PSB056	eh {P} allora,
+PSB056	eh (.) allora,
 PSB056	questo punto no mio padre
 PSB056	e:h eh medico quindi io devi
 PSB056	eh studiare bene no chi barbone faccio capi[to]?
@@ -1104,21 +1104,21 @@ PSB056	genitori a da:va sicuramente questo non ci sono dubbi
 PSB056	o parola dava due $casciò
 PSB056	vai studiare
 PSB056	capito?
-PSB056	questo {P} molto dipende
-PSB056	genit[ori] {P} famiglia
+PSB056	questo (.) molto dipende
+PSB056	genit[ori] (.) famiglia
 PSB005	[mhmh]
-PSB005	mhmh {P} sì sì
+PSB005	mhmh (.) sì sì
 PSB056	capito
-PSB005	sì sì {P} sì infatti sicuramente per questo
+PSB005	sì sì (.) sì infatti sicuramente per questo
 PSB056	eh
-PSB056	questo: sicuro {P} no sicuramente è sicuro cento per cento [te lo dico] io
+PSB056	questo: sicuro (.) no sicuramente è sicuro cento per cento [te lo dico] io
 PSB005	[°cento per cento°]
-PSB005	{ride} sì penso di [sì]
+PSB005	((ride)) sì penso di [sì]
 PSB056	[ti~]
 PSB005	anche [l'esempio, in casa, comunque] sì
-PSB056	[de~ {P} eh eh]
-PSB056	tu {P} eh dico
-PSB056	io {P} sono uno
+PSB056	[de~ (.) eh eh]
+PSB056	tu (.) eh dico
+PSB056	io (.) sono uno
 PSB056	$pemilia povero cap[ito]
 PSB005	[mhmh]
 PSB056	però,
@@ -1133,9 +1133,9 @@ PSB005	[eh wow]
 PSB056	e lei
 PSB056	studiava,
 PSB056	e scriveva #international #journal e:h #research
-PSB005	okay [{P} wow {P} sì sì]
+PSB005	okay [(.) wow (.) sì sì]
 PSB056	[#research capito ricercatore]
-PSB005	sì [sì sì {P} come me]
+PSB005	sì [sì sì (.) come me]
 PSB056	[#research capi~]
 PSB056	eh [rice]rcatore,
 PSB005	[sì]
@@ -1154,42 +1154,42 @@ PSB056	padova mandato email ge~ non c'era posto ancora perché non c'è
 PSB056	tutti e:h prenotato padova fatto dove andato mio [figli(o)]
 PSB005	[sì sì]
 PSB056	perché lei vuole studia
-PSB056	eh con borsa capito {P} #full #study
+PSB056	eh con borsa capito (.) #full #study
 PSB056	xx
 PSB005	mhmh
-PSB056	allora {P} mandato lettere {P} #sweden
+PSB056	allora (.) mandato lettere (.) #sweden
 PSB056	entro in settimana lei accettato,
 PSB056	accettato,
 PSB005	°wow°
 PSB056	adesso è tutti documento pronto
-PSB056	lo eh lo timbrano passaporto {P} eh vista
+PSB056	lo eh lo timbrano passaporto (.) eh vista
 PSB056	solo danno
 PSB056	carta eh $residenzi [capito] solo: [mandano] loro qua
 PSB005	[sì sì]
 PSB005	[sì sì]
 PSB056	poi già fatto ai
-PSB056	ai con {P} occhio,
+PSB056	ai con (.) occhio,
 PSB056	#fingerprint [tutti]
 PSB005	[sì sì sì]
 PSB056	eh già: promosso lei
 PSB056	e::
 PSB056	due settembre inizia
-PSB056	lezione [{P} s]ud
+PSB056	lezione [(.) s]ud
 PSB005	[okay]
 PSB005	prego
-PSB056	{suona_il_cellulare}
-PSB056	{registrazione_interrotta}
+PSB056	((suona_il_cellulare))
+PSB056	((registrazione_interrotta))
 PSB056	sì registrato tu[tto]?
 PSB005	[tu]tto?
 PSB005	sì sì sì
-PSB005	{ride}
-PSB005	se non vuoi {P} cancello
+PSB005	((ride))
+PSB005	se non vuoi (.) cancello
 PSB056	no: vuol dire che devi fare che cosa devi fare?
 PSB005	devo: aspetta
-PSB056	{registrazione_interrotta}
+PSB056	((registrazione_interrotta))
 PSB056	nipote:
 PSB005	eh fi~ di~ [dimmi dimmi]
-PSB056	[venti a]gosto [{P} vo]lo prenota[to {P}] dubai alla {P} emirate
+PSB056	[venti a]gosto [(.) vo]lo prenota[to (.)] dubai alla (.) emirate
 PSB005	sì
 PSB005	[okay]
 PSB005	mhmh
@@ -1200,7 +1200,7 @@ PSB005	sì sì sì
 PSB056	e: due settembre dieci giorni prima ($cordina:ri)
 PSB056	chiarisci per eh loro,
 PSB056	e::h spiegano dove
-PSB005	dove {P} [deve andare sì]
+PSB005	dove (.) [deve andare sì]
 PSB056	[a~ aprire] acco:nto,
 PSB005	[certo]
 PSB056	[c'è molto cosa] da fa:re [quindi]
@@ -1209,7 +1209,7 @@ PSB056	eh lei dieci giorni prima inizia lezione due
 PSB056	sette[mbre]
 PSB005	[wow]
 PSB056	due settembre,
-PSB056	eh lei in {P} (#exam) fatto bangladesh però altra volta (#exam) #sweden xx
+PSB056	eh lei in (.) (#exam) fatto bangladesh però altra volta (#exam) #sweden xx
 PSB056	poi,
 PSB056	pi eich di
 PSB056	#philosophy #doc[torate] fanno #belgium
@@ -1224,14 +1224,14 @@ PSB005	mhmh
 PSB056	io ha detto florida troppo lontano
 PSB005	è vero
 PSB056	se succedi qualcosa,
-PSB056	da qui {P} può essere ti mando cugina oppure vengo [io]
+PSB056	da qui (.) può essere ti mando cugina oppure vengo [io]
 PSB005	[sì sì]
 PSB056	vedere trovare ti
 PSB005	mhmh
 PSB056	eh non è problema non è spe~ ryanair poco co[sta capito cioè] quindi
 PSB005	[sì sì certo]
 PSB056	non c'è problema
-PSB056	poi {P} se tu vuoi fare anche ancora #pi #eich #di,
+PSB056	poi (.) se tu vuoi fare anche ancora #pi #eich #di,
 PSB056	tu fai domanda flo[rida]
 PSB005	[mhmh]
 PSB056	florida
@@ -1239,7 +1239,7 @@ PSB005	certo sì [sì]
 PSB056	[eh spi]egato così può essere sbaglio lei,
 PSB056	eh scrittore,
 PSB056	eh che riesci,
-PSB056	#international {P} giornale
+PSB056	#international (.) giornale
 PSB056	uscito suo scri[ttura capi~]
 PSB005	[eh certo]
 PSB056	dieci [gio~]
@@ -1254,7 +1254,7 @@ PSB056	sì sì no: venti: cinque
 PSB005	giovanissima
 PSB056	sì sì
 PSB056	però m~
-PSB056	lei {P} quando studia,
+PSB056	lei (.) quando studia,
 PSB056	no mamma no papà non può entrare suo camera
 PSB056	eh chiudi e porta capito
 PSB005	[certo sì sì]
@@ -1278,7 +1278,7 @@ PSB056	[sì sì mio] figli eh certo ch[e:]
 PSB005	[mhmh]
 PSB056	quando vado bangladesh ah eh eh
 PSB056	dormo suo cas[a loro casa capito]
-PSB005	[eh certo {P} sì sì]
+PSB005	[eh certo (.) sì sì]
 PSB005	sì sì [sì]
 PSB056	[no] no: molto brava lei
 PSB056	mo:lto brava °[brava]°
@@ -1286,7 +1286,7 @@ PSB005	[che] bello sono con[tenta sì]
 PSB056	[molto] brava come,
 PSB056	no devi spiegare come tuo sorella x mie genitori medico quindi io devi
 PSB005	mhmh
-PSB056	e:hm studiare bene devi diventare {P} qualco[sa]
+PSB056	e:hm studiare bene devi diventare (.) qualco[sa]
 PSB005	[sì] sì
 PSB005	[sì sì]
 PSB056	[no altri]menti quis~ come oggi mondo
@@ -1299,11 +1299,11 @@ PSB005	sì sì sì [e inve]ce
 PSB056	[E]
 PSB005	dimmi
 PSB056	no
-PSB056	invece {P} quella no controlla no vedi
+PSB056	invece (.) quella no controlla no vedi
 PSB056	mio figlia dove uscito no parla
 PSB056	non è così
 PSB005	°no°
-PSB056	se {P} quella chi {P} no
+PSB056	se (.) quella chi (.) no
 PSB056	da piccolo ris~ non rispettano genitori diventa barbone guarda che [lavoro] fa
 PSB005	[°sì°]
 PSB056	o albergo,
@@ -1316,7 +1316,7 @@ PSB056	eh
 PSB056	e così no no tu controlli?
 PSB056	quello come te fare v~ va girare
 PSB005	cer[to]
-PSB056	[to~] torna a casa mattina {P} [no] non va bene
+PSB056	[to~] torna a casa mattina (.) [no] non va bene
 PSB005	[m:h]
 PSB056	bisogno,
 PSB056	vuoi futuro bene tranquillo bisogna dare impegno adesso no?
@@ -1333,18 +1333,18 @@ PSB005	[eh io ho una se~]
 PSB056	mo:l[to]
 PSB005	[°okay°]
 PSB005	e il ragazzo un po' più:
-PSB056	un po': capito {ride}
+PSB056	un po': capito ((ride))
 PSB056	è normale tu mas[chi]
 PSB005	[sì] eh certo
 PSB005	quindi c'è molta differenza tra i due [figli]?
 PSB056	[o:h o]hi ohi ohi
 PSB056	beh e:h
 PSB056	però no xxx non è però di
-PSB056	vai destra {P} no vado sinistra
+PSB056	vai destra (.) no vado sinistra
 PSB056	è quello problema capito eh da picco[la]
 PSB005	[un po']
 PSB056	un p[o' i:]
 PSB005	[con la testa dura]?
 PSB056	sì
 PSB005	sì sì
-PSB005	e: noi abbiamo una sorellina più piccola che è un po' {P} AH vai sì sì
+PSB005	e: noi abbiamo una sorellina più piccola che è un po' (.) AH vai sì sì

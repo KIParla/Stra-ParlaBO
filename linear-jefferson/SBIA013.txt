@@ -1,5 +1,5 @@
 PSB005	bene
-PSB005	allora la prima domanda è {P} com'è nata questa scuola e che attività:: ci sono
+PSB005	allora la prima domanda è (.) com'è nata questa scuola e che attività:: ci sono
 PSB067	ah devo rispondere io allora a questa qui
 PSB005	sì
 PSB067	ah allora quest~ questa scuola è nata: l'anno scorso
@@ -7,7 +7,7 @@ PSB067	dopo una fatica: di: di ricercamenti> perché: tutti vogliono studiare l'
 PSB067	e poi l'arabo si st~ si studiava prima in moschea che non potevano: farlo lì
 PSB067	hanno deciso di pa~ eh di comprare questo eh
 PSB067	>questo diciamo< questa zona qui e l'hanno costruito,
-PSB067	e: basta {P} solo così è nata
+PSB067	e: basta (.) solo così è nata
 PSB005	okay
 PSB005	ma l~ qualcuno ha avuto questa idea di: costruire un di di comprare una scuola di fare un progetto °[di una scuola°]?
 PSB067	[sì sì perché ade]sso: la maggior parte dei giovani che so~ che sono vissuti qua sono sposati
@@ -15,7 +15,7 @@ PSB005	mhmh
 PSB067	e hanno quella voglia di: far imparare ai b~ i bimbi: l'arabo
 PSB005	mh
 PSB067	perché la maggior parte dei bimbi non capiscono l'arabo
-PSB067	anche se sono {P} se sono it~ se sono marocchini ma non capiscono tutto l'arabo
+PSB067	anche se sono (.) se sono it~ se sono marocchini ma non capiscono tutto l'arabo
 PSB005	ma non capiscono proprio neanche quando ascoltano?
 PSB067	sì sì non capiscono >capiscono sol-< soltanto il dialetto marocchino
 PSB067	ma l'arabo no,
@@ -26,7 +26,7 @@ PSB005	mhmh
 PSB067	capiscono
 PSB005	ma è molto diverso?
 PSB067	eh un po'
-PSB067	per eh tipo per esempio {P} eh come ti chiami in lingua araba classica,
+PSB067	per eh tipo per esempio (.) eh come ti chiami in lingua araba classica,
 PSB067	eh il dialetto non è ca~ non cambia tanto tipo
 PSB067	mā īsmuka
 PSB067	shnū smītak
@@ -35,22 +35,22 @@ PSB005	[°mi sembra°]
 PSB067	[no~ non] tanto però è un po' diverso però le altre: tipo
 PSB067	le carote, in arabo si dice l-jazar
 PSB067	però in marocchino >si dice< xīzzū
-PSB069	{ride}
+PSB069	((ride))
 PSB067	dire che c'è molto diffe[renza]
 PSB005	[°è diverso] sì sì°
 PSB067	eh troppo differenza c'è
 PSB005	°certo sì°
-PSB005	{ride}
-PSB005	e {P} e allora ditemi: {P} come si vive qui a molinella
-PSB005	bene male {P} vi pi[ace],
-PSB068	[bene] bene {P} [°bene°]
-PSB069	[bene] {P} piace
+PSB005	((ride))
+PSB005	e (.) e allora ditemi: (.) come si vive qui a molinella
+PSB005	bene male (.) vi pi[ace],
+PSB068	[bene] bene (.) [°bene°]
+PSB069	[bene] (.) piace
 PSB005	perché?
 PSB067	perché 3lāsh 3ajbātk molinella
 PSB069	tutto: molinella bella
 PSB069	tutto:
 PSB069	zona:,
-PSB069	e: scuola {P} bimbi,
+PSB069	e: scuola (.) bimbi,
 PSB005	mhmh
 PSB069	l'asilo,
 PSB005	mhmh
@@ -62,9 +62,9 @@ PSB067	ci son delle strutture che mancano per le per noi le donne musulmane
 PSB005	a:h
 PSB067	quello lì
 PSB005	[>per esempio<]?
-PSB067	per esempio {P} non c'è
+PSB067	per esempio (.) non c'è
 PSB067	non c'è tipo: una parte dove ci incontriamo solo noi
-PSB067	ci fa ma~ magari se possiamo fare #delle(s) #attivit(es)
+PSB067	ci fa ma~ magari se possiamo fare #*delle(s) #*attivit(es)
 PSB005	mhmh
 PSB067	quello non c'è
 PSB005	di solito in marocco c~ c'[è]?
@@ -91,12 +91,12 @@ PSB067	m:h
 PSB067	per loro magari imparano l'italiano però è la comunicazione che non c'è
 PSB005	mhmh
 PSB005	come imparate l'italiano,
-PSB069	no {P} qui
+PSB069	no (.) qui
 PSB005	c'è una scuola: di italiano [qui],
 PSB067	[qua]: lo impara
 PSB068	qua
 PSB005	mh
-PSB005	qui {P} proprio in questa scuola [qui],
+PSB005	qui (.) proprio in questa scuola [qui],
 PSB067	[sì]
 PSB068	sì
 PSB005	o[kay]
@@ -115,8 +115,8 @@ PSB069	[a, bi s]i
 PSB069	sì
 PSB005	ti piace?
 PSB069	sì sì
-PSB005	e {P} com'è la ma[estra]?
-PSB069	[capito]: {P} bene
+PSB005	e (.) com'è la ma[estra]?
+PSB069	[capito]: (.) bene
 PSB069	sì
 PSB005	la [maestra]
 PSB069	[maestra]: brava sì
@@ -128,7 +128,7 @@ PSB069	$matica no
 PSB005	>grammatica no<,
 PSB069	no:[:]
 PSB005	[p]arlate,
-PSB069	sì sì {P} [parla]te: e: el~ a bi {P} ci
+PSB069	sì sì (.) [parla]te: e: el~ a bi (.) ci
 PSB005	[°okay°]
 PSB005	mhmh
 PSB069	numeri,
@@ -146,7 +146,7 @@ PSB067	[si ma dipende dal] comune anche dipende da che comune
 PSB069	il comuni: non c'è:
 PSB005	mhmh
 PSB069	°non c'è°
-PSB068	e la prima volta che $vienire al~ dal marocco viene subito {P} a molinella xxx
+PSB068	e la prima volta che $vienire al~ dal marocco viene subito (.) a molinella xxx
 PSB005	°certo sì°
 PSB068	°tanti anni°
 PSB005	mhmh
@@ -155,8 +155,8 @@ PSB005	e anche tu fai scuola di italiano?
 PSB005	o no?
 PSB069	no
 PSB068	no
-PSB005	°no° {P} okay
-PSB005	però hai imparato {P} un po'
+PSB005	°no° (.) okay
+PSB005	però hai imparato (.) un po'
 PSB068	sì [sì]
 PSB069	[waḥd shwia xx]
 PSB067	[gūli xx]
@@ -174,28 +174,28 @@ PSB068	°lontano sì sì°
 PSB005	sì qui è un po' lontano da:
 PSB067	a parti quello non c'è trasporto
 PSB005	°ah sì°
-PSB005	quindi {P} c'è un po' di problemi
-PSB067	sì sì problemi ce n'è {P} da tutte le parti
-PSB005	{ride}
+PSB005	quindi (.) c'è un po' di problemi
+PSB067	sì sì problemi ce n'è (.) da tutte le parti
+PSB005	((ride))
 PSB005	eh sì
 PSB005	un po' di: collegamenti [forse]
 PSB067	[sì sì ce n'è] ce n'è
 PSB067	poi il: il comune di~ dice che è povero
 PSB005	°sì sì sì° ma molinella fa comune giusto? c'è il si[nda]co
-PSB067	[sì] {P} sì
+PSB067	[sì] (.) sì
 PSB067	°c'è il sindaco sì sì°
 PSB005	°okay°
 PSB005	e:hm
 PSB005	capisco questo problema delle palestre delle piscine:: mh
 PSB005	le vostre amiche prima mi hanno detto che anche in spiaggia
-PSB005	c(io)è preferiscono andare un po' lo~ un po' mh {P} non proprio in mezzo: alla confusione ecco {ride}
+PSB005	c(io)è preferiscono andare un po' lo~ un po' mh (.) non proprio in mezzo: alla confusione ecco ((ride))
 PSB067	eh io non lo so >perché< io: sinceramente il mare non mi piace
 PSB067	gūlīlha mī kat-mshīw l-bḥar ntūmā
 PSB005	a voi piace il mare?
-PSB069	sì {P} piace sì
+PSB069	sì (.) piace sì
 PSB005	sei andata qui? vicino,
 PSB069	e:[:hm]
-PSB005	[sei mai] andata al mare: {P} in spiaggia qui,
+PSB005	[sei mai] andata al mare: (.) in spiaggia qui,
 PSB005	vicino: a molinella o: in italia?
 PSB069	sì sì
 PSB067	mshithi l-bḥar
@@ -216,39 +216,39 @@ PSB067	keth mshiw shi blasa? c'è il mare
 PSB068	xx c'è mare lì
 PSB069	[hādik tassi fi hneya mbqa qriba, gatliya th-mshi]
 PSB005	[sì]
-PSB068	[u~ un: posto {P} una zona che c'è zona]
+PSB068	[u~ un: posto (.) una zona che c'è zona]
 PSB067	[guliliḥa xarji xarji m3a had l-xrraj guliliḥa thmshi mqakkar]
 PSB068	[dove c'è anche:]
-PSB005	ma voglio venire anch'io {ride}
+PSB005	ma voglio venire anch'io ((ride))
 PSB005	mi dovete dire dov'è
 PSB067	[xxx]
 PSB068	[xxx]
 PSB068	tanto[:]
-PSB067	[ma io] non ci vado {P} perché io non sono:
+PSB067	[ma io] non ci vado (.) perché io non sono:
 PSB005	e tu ci sei andata tante volte
 PSB069	sì
 PSB005	[con:]
 PSB067	[bzāf m-marrāt]
 PSB005	[con i: tuoi bambini],
-PSB069	[sì {P} sì s]ì
+PSB069	[sì (.) sì s]ì
 PSB005	sì
 PSB069	sì
 PSB005	qu~ quanti bambini hai
 PSB069	e:h due bambini
 PSB069	e:hm
-PSB069	e:h {P} primo bimbo: {P} grande: sei anni
+PSB069	e:h (.) primo bimbo: (.) grande: sei anni
 PSB005	mhmh
 PSB069	l'ultimo: eh quattro anni
-PSB005	okay {P} okay
+PSB005	okay (.) okay
 PSB005	maschi
 PSB069	sì
 PSB069	due maschi
 PSB005	sono bravi?
-PSB069	{sospira} {ride}
-PSB069	così così {ride}
-PSB066	{ride}
+PSB069	((sospira)) ((ride))
+PSB069	così così ((ride))
+PSB066	((ride))
 PSB005	°okay° [xxx]
-PSB069	[il piccolo] {P} molto: molto casino
+PSB069	[il piccolo] (.) molto: molto casino
 PSB066	vivace
 PSB069	e: il grandi
 PSB069	così così
@@ -256,11 +256,11 @@ PSB005	e e vanno d'accordo?
 PSB005	sono amici?
 PSB005	o no?
 PSB069	no
-PSB005	{ride}
-PSB069	{ride}
+PSB005	((ride))
+PSB069	((ride))
 PSB005	per m[ai]?
 PSB069	[no] no:
-PSB005	{ride}
+PSB005	((ride))
 PSB067	xx
 PSB005	perché?
 PSB069	no:
@@ -273,7 +273,7 @@ PSB005	per [i giochi: per:]
 PSB067	[xx l]iti[gano]
 PSB069	[sì:] li giochi
 PSB067	tra di lo[:ro]
-PSB069	[le ma]cchina, {P} e:h
+PSB069	[le ma]cchina, (.) e:h
 PSB067	ognuno: [sua macchina]
 PSB069	[wazzāk]
 PSB069	īmmā kī-df3ūhā wḥda
@@ -285,7 +285,7 @@ PSB005	°e:h°
 PSB005	io ho due sorelle
 PSB005	più piccole
 PSB005	e:
-PSB005	andiamo abbastanza d'accordo però {P} la più piccola
+PSB005	andiamo abbastanza d'accordo però (.) la più piccola
 PSB005	è terribile
 PSB067	quanti anni ha?
 PSB005	di:ciannove
@@ -295,7 +295,7 @@ PSB005	ehm
 PSB067	e tu quanti anni hai?
 PSB005	eh io ne ho trentadue
 PSB066	a:h
-PSB067	sei an[cora giova]ne {ride}
+PSB067	sei an[cora giova]ne ((ride))
 PSB066	[a:h]
 PSB066	eh sì
 PSB005	beh però: la mia più sorellina più piccola è molto più piccola di me
@@ -303,17 +303,17 @@ PSB005	ha tre[dici anni in meno sì]
 PSB069	[ṣghār m-nhā]
 PSB066	diciannove [sono]
 PSB069	[ṣāḥblī-sh fīhā 3rīshnāt]
-PSB067	no {P} pensavo che hai vent'anni
+PSB067	no (.) pensavo che hai vent'anni
 PSB005	°n[o:°]
 PSB069	[mh]
 PSB069	mh
 PSB005	purtroppo
-PSB066	{ride}
+PSB066	((ride))
 PSB068	no:
 PSB005	no no
 PSB069	no [no]
 PSB067	[e]ra una volta
-PSB066	{ride}
+PSB066	((ride))
 PSB005	sì sì
 PSB005	e: okay
 PSB005	e: siete state a bologna?
@@ -349,19 +349,19 @@ PSB069	molto bella
 PSB005	sì sì sì
 PSB069	sì
 PSB005	e: ci andate: alla domenica, al sabato:,
-PSB069	ah domenica {P} sabato mio marito: lavora
+PSB069	ah domenica (.) sabato mio marito: lavora
 PSB005	okay okay °sì° certo
-PSB005	lavora qui {P} a molinella,
+PSB005	lavora qui (.) a molinella,
 PSB069	no
 PSB005	mh
 PSB069	bologna:
 PSB005	°ah ok[ay°]
-PSB069	[e:h] {P} ra~ rovigo
+PSB069	[e:h] (.) ra~ rovigo
 PSB005	mh
 PSB005	mhmh
 PSB069	milano,
 PSB005	viaggia
-PSB069	sì {P} sì
+PSB069	sì (.) sì
 PSB005	sì
 PSB069	[shnū]
 PSB067	[auti]sta
@@ -372,14 +372,14 @@ PSB069	[3andī-sh, mā f-rāsnī]
 PSB005	[l'autista sì]
 PSB067	#gūlī fa l'autista
 PSB066	[ mālahā?]
-PSB069	{ride} f-rāsnī]
+PSB069	((ride)) f-rāsnī]
 PSB066	wa bravo bravo
 PSB067	[sì sì fa l'autista]
 PSB005	[sì sì sì certo]
 PSB005	e:hm e eh dimmi tu se ti pia~ >se sei stata a< bologna se: ti piace, se:
 PSB067	io sinceramente bologna (non) mi piace tanto
 PSB005	perché
-PSB066	{ride}
+PSB066	((ride))
 PSB067	casino
 PSB066	poveri
 PSB067	(troppo) casino bologna
@@ -399,7 +399,7 @@ PSB069	[3āmrāt bzāf]
 PSB067	([sì] anche)
 PSB067	<tantissimi> se noi: se non
 PSB067	come devo dire,
-PSB067	se non s~ se non tu non stai un po': {P} <saggia>
+PSB067	se non s~ se non tu non stai un po': (.) <saggia>
 PSB067	>oppure< qualcosa così cerchi di litigare con loro
 PSB067	perché sono maleducati
 PSB005	mh
@@ -442,7 +442,7 @@ PSB067	sì sì no no sono le famiglie
 PSB005	ci son le famiglie in[tere]
 PSB067	[sì sì fa]miglie intere
 PSB005	°mhmh° okay
-PSB005	ah oka~ beh sì ma effettivamente {P} i~ i due paesi sono molto lontani cioè solo la religione
+PSB005	ah oka~ beh sì ma effettivamente (.) i~ i due paesi sono molto lontani cioè solo la religione
 PSB005	ma no[n: sÌ]
 PSB067	[siamo: siamo troppo] lontani
 PSB005	due po[poli diversi]
@@ -457,7 +457,7 @@ PSB067	è diverso perché noi abbiamo una cosa che è: diversa da loro perché l
 PSB067	la: mh >come si chiama< la cultur~ la cultura palest~ [e:h]
 PSB069	[xx]
 PSB067	>come si chiama< pakista~ pakistanese °come si dice°?
-PSB005	pakistana {P} sì
+PSB005	pakistana (.) sì
 PSB068	[pakistana]
 PSB067	[pakistana]
 PSB068	cos~ eh afghanistan?
@@ -465,11 +465,11 @@ PSB067	dell'a[fghanistan quella parte lì sono più: con le donne] sono più: st
 PSB068	[xx]
 PSB005	okay
 PSB067	noi ALMENO i nostro mariti sono più aperti xx
-PSB066	{ride}
+PSB066	((ride))
 PSB005	o[kay okay sì]
 PSB067	[>gli altri< po]i: non lo so
 PSB067	c(io)è posso uscire posso fare di tutto
-PSB066	{ride}
+PSB066	((ride))
 PSB005	quindi notate: una grossa differ[enza],
 PSB067	[sì sì] [ma loro] ma loro mettono
 PSB069	[sì]
@@ -491,17 +491,17 @@ PSB005	mhmh
 PSB067	son proprio chiusi
 PSB005	mhmh
 PSB005	e le donne pakistane di solito parlano italiano oppure no?
-PSB067	no {P} [neanche] bimbi eh
+PSB067	no (.) [neanche] bimbi eh
 PSB005	[no]
 PSB067	neanche i bimbi parlano ita~ anche se vanno a scuola dell'italiano non parlano in italiano
 PSB005	[°sì sì°]
 PSB067	[la ma]ggior parte di loro parlano il pakistano
 PSB067	°>come si dice<° $pakistanese?
 PSB005	pakistano
-PSB005	no [la lingua {P} secondo m]e è urdu,
+PSB005	no [la lingua (.) secondo m]e è urdu,
 PSB067	[pakista~ LA LINGUA]
 PSB067	sì sì urdu
-PSB005	di solito: [di solito però {P} di]pende un po' dalla zona del pakistan
+PSB005	di solito: [di solito però (.) di]pende un po' dalla zona del pakistan
 PSB067	[xx]
 PSB005	[°in realtà°] secondo me [qualcuno parla anche un punjabi].
 PSB067	[°urdu sì°]
@@ -511,7 +511,7 @@ PSB067	u[rdu]
 PSB005	[la lingua è u]rdu [sì]
 PSB067	[ur]du
 PSB005	sì
-PSB005	però tip~ {P} >cioè< l'aggettivo pakis~
+PSB005	però tip~ (.) >cioè< l'aggettivo pakis~
 PSB005	del pakistan è pakistano quindi le donne sono pakistane gli uomini [pakistani] sì
 PSB067	[xx]
 PSB005	sì sì
@@ -534,7 +534,7 @@ PSB005	mhmh
 PSB068	loro >loro< no
 PSB005	xx [xx]x
 PSB068	xx
-PSB005	quindi {P} da una parte sono molto rigidi ma dall'altra no
+PSB005	quindi (.) da una parte sono molto rigidi ma dall'altra no
 PSB069	sì
 PSB068	non tutti:
 PSB067	sì perché loro sono musulmani come ha detto ah l'islam al mezzo
@@ -542,7 +542,7 @@ PSB067	però <tutta> quello che fanno loro è un tradizionale, la cult[ura]
 PSB068	[cultura sì]:
 PSB067	eh e basta ma l'islam non dire che tu non puoi fare ramadan è un: pilastro
 PSB067	quarto pilastro
-PSB005	non l'ho mai sentita questa cosa {ride} sì
+PSB005	non l'ho mai sentita questa cosa ((ride)) sì
 PSB067	quarto pilastro dell'islam vuol dire: sei obbligato di farlo
 PSB005	mhmh
 PSB067	poi anche il foulard noi lo usiamo co[sì]:,
@@ -554,29 +554,29 @@ PSB067	la sciarpa e poi la [metton dietro]:
 PSB068	[la sciarpa sì]
 PSB005	ah sì
 PSB067	e invece noi [no]
-PSB005	[sto] immaginando ma sì {P} [sì]
-PSB067	[inve]ce noi no siamo obbligati di {P} coprire
-PSB067	ma non è nostre mariti che dicono di mett~ di mettere il [foulard] {ride}
+PSB005	[sto] immaginando ma sì (.) [sì]
+PSB067	[inve]ce noi no siamo obbligati di (.) coprire
+PSB067	ma non è nostre mariti che dicono di mett~ di mettere il [foulard] ((ride))
 PSB005	[no:]
 PSB005	lo so lo so
 PSB067	perché questa domanda mi fa
 PSB005	no[: io~]
 PSB067	[quest'a]nno~
-PSB005	non l'avrei mai fatta {ride}
+PSB005	non l'avrei mai fatta ((ride))
 PSB067	me lo fanno sempre [questa do]manda siete sottomissione di [vostri m]ariti?
 PSB066	[sì]
 PSB066	[sì]
 PSB067	non <siamo> sottomissione di nostri mari[ti]
-PSB005	[ma] io non l'[avrei mai] chiesto {ride}
-PSB067	[no] {ride)
+PSB005	[ma] io non l'[avrei mai] chiesto ((ride))
+PSB067	[no] ((ride)
 PSB067	[no]
 PSB069	[xxx]
 PSB005	io [li so] li so
 PSB067	[xx]
-PSB067	ANZI delle volta comandiamo noi a nostri mariti {ride}
-PSB005	{ride}
-PSB066	{ride}
-PSB005	sì sì ma {P} io lo so
+PSB067	ANZI delle volta comandiamo noi a nostri mariti ((ride))
+PSB005	((ride))
+PSB066	((ride))
+PSB005	sì sì ma (.) io lo so
 PSB005	lo so lo so
 PSB067	sì[: perch]é perché questa domanda me lo fanno sempre sempre sempre sempre
 PSB005	[è una]
@@ -586,10 +586,10 @@ PSB067	gli uomini, dico eh qui in italia dicono che le donne non vanno a scuola,
 PSB067	no. donne vanno a scuola
 PSB068	ma: in ma[rocco già già] andata in marocco °perché° xx
 PSB067	[°anche se xxx°]
-PSB066	{ride}
-PSB005	IO sono [andata sì] sì {P} sì sì sì
+PSB066	((ride))
+PSB005	IO sono [andata sì] sì (.) sì sì sì
 PSB068	[sì]
-PSB005	ho visto {P} e:hm
+PSB005	ho visto (.) e:hm
 PSB005	ho incontrato delle signore che andavano a fare una gita,
 PSB068	sì
 PSB005	in~ fra con le amiche insomma sì sì
@@ -611,25 +611,25 @@ PSB067	qui in italia non riesci neanche a fare un discorso, con l'inglese,
 PSB005	mhmh
 PSB067	e in marocco riesci a fare un discorso (col:) francese
 PSB005	mhmh
-PSB005	eh no {P} no sì
+PSB005	eh no (.) no sì
 PSB068	sì sì
 PSB067	questo è un disastro con l'italia
-PSB068	adesso tutti lingue {P} marocco
+PSB068	adesso tutti lingue (.) marocco
 PSB068	l'inglese [$spazze~ $spani~]
 PSB069	[inglese francese sì]
 PSB067	>perché< a[:desso in maro]cco so[no:]
 PSB068	[francesi:]
 PSB068	[tutti] lingue
-PSB068	e anche {P} io eh quando studiato stud~ e:h studiato l'inglese
-PSB068	mia sorella studiata la: {P} eh quella spa~
+PSB068	e anche (.) io eh quando studiato stud~ e:h studiato l'inglese
+PSB068	mia sorella studiata la: (.) eh quella spa~
 PSB067	spagnolo
 PSB068	spagnolo
 PSB069	xx
 PSB005	sì sì
-PSB005	no {P} diciamo che gli italiani con le lingue,
-PSB005	non è che vadano proprio d'a[ccordo] non siamo molto bravi con le lingue noi {ride}
+PSB005	no (.) diciamo che gli italiani con le lingue,
+PSB005	non è che vadano proprio d'a[ccordo] non siamo molto bravi con le lingue noi ((ride))
 PSB067	[sì s]ì [infatti quello sì]
-PSB005	[non siamo] molto bravi con le lingue[: noi] {ride}
+PSB005	[non siamo] molto bravi con le lingue[: noi] ((ride))
 PSB066	[a:h °sì sì°]
 PSB067	però adesso no adess e:h sono iniziati a andare davanti con le lingue
 PSB005	un po' meglio sì
@@ -640,13 +640,13 @@ PSB005	mhmh
 PSB067	prima era un po': solo un po':
 PSB005	stiamo migliorando sì
 PSB067	sì sì
-PSB005	{ride}
-PSB069	{ride}
+PSB005	((ride))
+PSB069	((ride))
 PSB005	sì
-PSB005	ma forse da voi la cultura {P} è un po' più: bilingue
+PSB005	ma forse da voi la cultura (.) è un po' più: bilingue
 PSB005	c(io)è
 PSB069	mh
-PSB005	ci sono già delle lingue {P} in più
+PSB005	ci sono già delle lingue (.) in più
 PSB005	nella cultura NOI abbiamo solo l'italiano
 PSB067	sì [allo~]
 PSB005	[ovu]nque
@@ -656,7 +656,7 @@ PSB067	sì quello è vero perché da noi in comune si scrive in arabo
 PSB005	mhmh
 PSB067	tribunale si scrive in arabo.
 PSB067	in banca si scrive in francese
-PSB005	mh {P} eh
+PSB005	mh (.) eh
 PSB005	per [esempio]
 PSB067	[poi] in [posta],
 PSB005	[la televisio]:ne?
@@ -665,7 +665,7 @@ PSB005	eh forse i bambini vedono già un po' di televisione in francese da da pi
 PSB068	da piccoli
 PSB005	o no?
 PSB069	sì sì film in xx
-PSB067	[cosa] {P} intendi: inten[di]?
+PSB067	[cosa] (.) intendi: inten[di]?
 PSB069	[fil madārīsa xāṣṣa ki-dīrū frānsā mn tānī]
 PSB067	[no xx co]sa: guar[da tuo figlio]?
 PSB069	[ki bdū]
@@ -684,7 +684,7 @@ PSB067	perché il nord del marocco parlano spagnolo
 PSB068	sì
 PSB067	la seconda lingua di loro è spagnolo in[vece]:
 PSB005	[okay]
-PSB067	dal da~ {P} come devo dire dall'est del marocco fino: fino al sud francese
+PSB067	dal da~ (.) come devo dire dall'est del marocco fino: fino al sud francese
 PSB005	°okay okay°
 PSB005	quali città sono nel nord?
 PSB068	x[x]
@@ -695,13 +695,13 @@ PSB067	poi capo negro,
 PSB005	ok[ay]
 PSB067	[eh cas]tillejos
 PSB067	xx
-PSB005	okay okay {P} benissimo {ride}
-PSB066	{ride}
-PSB069	{ride}
-PSB067	>POI< {P} ce ne son due che sono ancora [colonizza]te dal: da [spagn]ole
+PSB005	okay okay (.) benissimo ((ride))
+PSB066	((ride))
+PSB069	((ride))
+PSB067	>POI< (.) ce ne son due che sono ancora [colonizza]te dal: da [spagn]ole
 PSB068	[sì]
 PSB005	[mhmh]
-PSB068	melilla {P} [e melilla]
+PSB068	melilla (.) [e melilla]
 PSB005	[ceuta e melilla]
 PSB068	televisione sì gio~ tre: la li~ tre gio~
 PSB067	tre lingue sì è vero
@@ -753,20 +753,20 @@ PSB005	ah [sì]
 PSB068	[me]ta [x x x]
 PSB005	sì sì sì
 PSB005	sì sì
-PSB069	{ride}
+PSB069	((ride))
 PSB068	meta di: agadir
 PSB068	e:h mh NO meta di marrakesh ho: cas[a]
 PSB005	[mh]mh
 PSB068	meta di
-PSB005	e {P} com~ com'è?
+PSB005	e (.) com~ com'è?
 PSB068	città bella:
 PSB068	perché:
 PSB067	città bella
 PSB068	e:h
-PSB068	{ride}
+PSB068	((ride))
 PSB005	cosa c'è? c'è il mare, ci son le monta[gne, xxx x mh]
 PSB067	[no il mare no xx la montagna] è: [bella l'acqua]
-PSB068	[eh c'è: {P} c'è]
+PSB068	[eh c'è: (.) c'è]
 PSB068	[c'è: quella] di
 PSB067	3īni sardūn
 PSB068	[come si ch]iama le
@@ -786,21 +786,21 @@ PSB005	ah adesso mi [ricordo]
 PSB069	[abito vic]ino
 PSB067	anche loro sono in due sono arabi sono berberi
 PSB005	mh[mh]
-PSB067	[perché in ma]rocco s~ all'iniz~ tanti anni fa i marocchini {P} sono divers~
-PSB067	son separati due {P} arabi e berbe[re]
+PSB067	[perché in ma]rocco s~ all'iniz~ tanti anni fa i marocchini (.) sono divers~
+PSB067	son separati due (.) arabi e berbe[re]
 PSB005	[mh][mh]
 PSB066	[ma] le prime sono berbere
 PSB067	se tu devi s~ se tu sei berbero devi sposare un arabo,
 PSB005	un problema
 PSB067	problema
-PSB005	{ride} [okay]
+PSB005	((ride)) [okay]
 PSB067	[adesso ma]gari è diventato normale ma prima
 PSB005	oka[y]
 PSB066	[x]x
-PSB005	e {P} ed è lontano:,
+PSB005	e (.) ed è lontano:,
 PSB005	da marrakesh quanto: quante ore?
 PSB068	quattro: quattro: [sono]
-PSB005	[qui~] {P} lontano
+PSB005	[qui~] (.) lontano
 PSB068	[lonta]no sì
 PSB005	[sì]
 PSB005	°sì [sì]°
@@ -810,7 +810,7 @@ PSB068	no marrakesh caldo
 PSB005	no [nella tua città]
 PSB067	[no lì è freddo per me]
 PSB069	ah lak bnī mllāl
-PSB068	cald~ [e:h] fre~ caldo {P} quando c'è le
+PSB068	cald~ [e:h] fre~ caldo (.) quando c'è le
 PSB069	[caldo]
 PSB068	agosto: anche l~ luglio ca~ caldo
 PSB068	c[aldissimo]
@@ -827,7 +827,7 @@ PSB067	°come qua°
 PSB005	è sem[pre (così)]
 PSB068	[non:] eh perché non c'è l'umidità
 PSB005	°quasi sì°
-PSB005	è secco {P} che bello
+PSB005	è secco (.) che bello
 PSB067	e questa qui è diverso non è da béni mellal
 PSB067	[ntī mnīn]
 PSB069	ah
@@ -858,8 +858,8 @@ PSB069	caldo tantissimo
 PSB069	sì ca:ldo
 PSB069	troppo
 PSB005	sì sì sì
-PSB005	e c'è un {P} fiume quindi,
-PSB005	c'è un fiume {P} con le cascate {P} avete detto,
+PSB005	e c'è un (.) fiume quindi,
+PSB005	c'è un fiume (.) con le cascate (.) avete detto,
 PSB067	xx tūmā
 PSB069	sì
 PSB005	e: [s~]
@@ -874,7 +874,7 @@ PSB069	hūwa qrīb yā3nī mn dār kan shūfū kan shūfū
 PSB067	[kat-mshīw t-krjū gtl-īk passeggiata]
 PSB067	no gtl-īk wāsh kat t-krjū-līh?
 PSB067	no
-PSB069	no {ride}
+PSB069	no ((ride))
 PSB005	no
 PSB069	no
 PSB069	[māt qādr-īsh]
@@ -886,28 +886,28 @@ PSB005	okay ma
 PSB005	okay
 PSB005	°okay°
 PSB069	māt qādrī-sh t-xṛjī thm t-kāfī sh-shjar
-PSB068	con albero {P} tanto
+PSB068	con albero (.) tanto
 PSB005	okay
 PSB066	[fssrīlīhā xx]
 PSB067	[sì non puoi uscire perché c'è (rischio)]
 PSB069	[māki qdar-sh, mākāyn-sh l-xx ]
 PSB005	okay sì
-PSB005	no n~ io non lo so non: non conosco quindi {P} chiedo ma
+PSB005	no n~ io non lo so non: non conosco quindi (.) chiedo ma
 PSB067	sì nemmeno io béni mellal sì ma
 PSB068	3addī hnā l-katār
 PSB067	[io non lo] conosco
 PSB005	[mhmh]
 PSB005	[okay]
 PSB067	[non ci] sono mai stata
-PSB005	è lontanto {P} mi sembra:
+PSB005	è lontanto (.) mi sembra:
 PSB005	è un posto un po' isola~ cioè rispetto a: altre città grandi è abbastanza lontano giusto mi [sembra]
 PSB067	[sì sì davve~] io son di casablanca eh
 PSB067	io sono nata e vissuta a casablanca origine no
 PSB067	però a non sono mai sta[ta]
-PSB005	[ok]ay {P} °okay°
+PSB005	[ok]ay (.) °okay°
 PSB005	e quanti anni [sei: in ita]lia?
 PSB067	[xx]
-PSB069	e:h {P} sette anni
+PSB069	e:h (.) sette anni
 PSB005	°okay okay°
 PSB005	°okay° e tu?
 PSB068	io: nato: i[o non] (è) nato a béni mellal nato e:h
@@ -936,8 +936,8 @@ PSB068	[sì:]
 PSB068	io nato a: a rabat
 PSB005	mhmh
 PSB068	ehm eh
-PSB068	da quattro, no {P} da: cinque: tre sorelle e: quattro: so~ $fratelle
-PSB068	nato a casablanca {P} [ca~ ca]sa
+PSB068	da quattro, no (.) da: cinque: tre sorelle e: quattro: so~ $fratelle
+PSB068	nato a casablanca (.) [ca~ ca]sa
 PSB067	[casablanca]
 PSB068	e c'è un'altra sorella: piccola da me
 PSB005	mhmh
@@ -946,40 +946,40 @@ PSB005	°okay okay°
 PSB005	e alt~ hai vissuto in altre città
 PSB068	sì sì io? sì
 PSB005	molte
-PSB068	sì {P} questo marrakesh, agadir, tan-tan
+PSB068	sì (.) questo marrakesh, agadir, tan-tan
 PSB068	andato tan-tan perché: le: $frat[elle]
 PSB067	[tutte nel sud d]el (marocco)
 PSB005	oka[y]
 PSB068	[sì]:
-PSB068	eh {P} fratello
-PSB068	e:h {P} uno abita a rabat
+PSB068	eh (.) fratello
+PSB068	e:h (.) uno abita a rabat
 PSB068	uno abita a (tizmir)
 PSB068	che c~ e:h si[: (è di)] quattro: quattro: maschi quattro femmine
 PSB066	[agadir]
 PSB067	tro[ppo]
 PSB005	[tantiss]imi
 PSB067	troppo
-PSB068	{ride}
+PSB068	((ride))
 PSB005	wow moltissimo
 PSB005	è bello?
-PSB067	troppo {ride}
+PSB067	troppo ((ride))
 PSB068	[sì]
 PSB005	[tip~] secondo te è bello avere tanti: [fratelli sorelle]?
-PSB068	[s::~] {P} perché:
+PSB068	[s::~] (.) perché:
 PSB068	i[o xx]
 PSB066	[wāsh 3ājba hālīk kūth bzāf]
 PSB068	sì perché [grande (non so se)]
 PSB067	[adesso sì perché è dive]ntata [gran]de ma piccoli no si litigano [xx]
-PSB068	[sì] {ride}
-PSB005	{ride}
-PSB068	[sì grande] grande {ride}
-PSB066	[(tra di loro)] {ride}
+PSB068	[sì] ((ride))
+PSB005	((ride))
+PSB068	[sì grande] grande ((ride))
+PSB066	[(tra di loro)] ((ride))
 PSB005	sì okay sì
 PSB068	e una: sorella: abita agadir io andato agadir
 PSB068	andato in marocco perché la un'altra sorella abita a tan-tan
 PSB005	mhmh
 PSB005	e qual è la tua preferita?
-PSB066	{ride}
+PSB066	((ride))
 PSB068	sì
 PSB005	qual è [la più bella la città più bella] del marocco
 PSB067	[xx]
@@ -993,18 +993,18 @@ PSB068	[xx]
 PSB068	perché mh
 PSB069	māmshītlīksh
 PSB066	casablanca
-PSB068	non è non è {P} no
-PSB066	{ride}
-PSB068	non è abita: {P} [solo]
+PSB068	non è non è (.) no
+PSB066	((ride))
+PSB068	non è abita: (.) [solo]
 PSB067	[wāsh kit-3ājbak agādīr? zwīna hsan mn cāzā]
 PSB068	xx
-PSB069	{ride}
-PSB067	{ride}
+PSB069	((ride))
+PSB067	((ride))
 PSB067	no no la più bella è casabla[(nca])
 PSB005	[o:]kay
 PSB005	io ho visto solo l'aeroporto di casablanca
-PSB005	basta {ride}
-PSB066	{ride}
+PSB005	basta ((ride))
+PSB066	((ride))
 PSB066	xx
 PSB067	sì ma l'aeroporto non è casablanc[a]
 PSB005	[no] infatti infatti
@@ -1027,7 +1027,7 @@ PSB067	[sì] sono venticinque chilometri
 PSB005	ah sì [°abbastanza sì°]
 PSB067	[dall'aeroporto a casa]blanca
 PSB005	sì sì
-PSB005	no invece {P} io ci sono andata solo perché sono andata in brasile
+PSB005	no invece (.) io ci sono andata solo perché sono andata in brasile
 PSB005	ho fat[to: <mila]no>, casablanca poi casablanca
 PSB066	[a:h]
 PSB066	scal[o]
@@ -1048,10 +1048,10 @@ PSB067	[°bellissima]
 PSB005	città romana con [le rovine romane]
 PSB067	[come si chiama]? chi parla?
 PSB005	volubilis
-PSB005	>eh< è il nome romano però {P} e:h
+PSB005	>eh< è il nome romano però (.) e:h
 PSB067	c[ome si chiama] volubl[is]?
 PSB066	[māshī xx volubilis]
-PSB005	[volu]bilis {P} adesso
+PSB005	[volu]bilis (.) adesso
 PSB067	xx
 PSB066	chefchaouen chef~ chefchaouen
 PSB005	°(a)spettate vi faccio vedere dov'è°
@@ -1122,8 +1122,8 @@ PSB005	[i romani sì]
 PSB067	questa parte#_3īn l-lūḥ
 PSB005	[rovine romane]
 PSB066	xx
-PSB067	questa è xx dove è andato mio papà {P} a lavorare
-PSB067	aspetta ti faccio vedere dove di~ siamo noi {P} noi siamo del
+PSB067	questa è xx dove è andato mio papà (.) a lavorare
+PSB067	aspetta ti faccio vedere dove di~ siamo noi (.) noi siamo del
 PSB005	[eh ma]
 PSB067	[proprio]
 PSB005	lontano
@@ -1147,13 +1147,13 @@ PSB005	(a)spetta
 PSB005	ah okay ho capito sì
 PSB005	s[ì sì]
 PSB067	[è troppo] lontano
-PSB005	e ma il marocco è grande {P} no?
+PSB005	e ma il marocco è grande (.) no?
 PSB068	[mh]
 PSB067	[troppo lon]tano [per (venire)]
 PSB005	[il mar]oc[co è molto grande]
 PSB067	[quello lì è la parte] di mio papà ma non c'è niente
 PSB067	proprio niente niente [niente]
-PSB005	[okay] {ride} okay okay
+PSB005	[okay] ((ride)) okay okay
 PSB067	yā l-qifār
 PSB005	no io s~ dopo sono andata per quattro giorni alla città blu
 PSB067	a chefchao[uen] chefchaouen
@@ -1172,11 +1172,11 @@ PSB068	[c'è anche] c'è anche una citta bella là marocco
 PSB068	eh ne~ neve c'è la [neve]
 PSB067	[ifrane] sì (c'è)
 PSB069	[ifrane ifrane]
-PSB005	[sono andata sì] {P} sono an[data]
+PSB005	[sono andata sì] (.) sono an[data]
 PSB067	[ifra]ne
 PSB005	per[ò]
 PSB067	[pe]rò è troppo [freddo]
-PSB005	[mi piace tut~] di più: {P} fes
+PSB005	[mi piace tut~] di più: (.) fes
 PSB005	[di più: chef]chao[uen]
 PSB067	[sì sì ma:]
 PSB067	[ma] dove sei andata a fes: e:h vecchio fes o fes nuovo?
@@ -1194,7 +1194,7 @@ PSB067	[sì ma l'ho visto be]ne
 PSB066	sei and~ sei andata ad agadir o marrakesh?
 PSB066	più bello [di]
 PSB005	[devo anda]re lo so
-PSB005	ma è vicino il marocco {P} [ci posso andare] {ride}
+PSB005	ma è vicino il marocco (.) [ci posso andare] ((ride))
 PSB067	[no ma fes è anche bella]
 PSB067	fes più bella di marrakesh
 PSB005	sì?
@@ -1206,7 +1206,7 @@ PSB067	[s-smīt ṣ-ṣāḥā]
 PSB069	[jāmā3 l-fnā]
 PSB066	[jāmā3 l-fnā]
 PSB067	[s-smī-t ṣ-ṣāḥā] come si chiama spazio
-PSB005	a:h la piazza {P} [piazza]
+PSB005	a:h la piazza (.) [piazza]
 PSB068	[la piazza]
 PSB066	[pia][zza]
 PSB067	[pia]zza
@@ -1215,7 +1215,7 @@ PSB067	[pia]zza di xx no è solo quello che c'è a marrakesh
 PSB066	xx
 PSB067	poi c'è: basta
 PSB005	poi molto turistico [forse no]
-PSB066	[turistico] {P} che c'è [xx]
+PSB066	[turistico] (.) che c'è [xx]
 PSB068	[a:h]
 PSB066	c'è del
 PSB066	[kāyn kāyn]
@@ -1230,9 +1230,9 @@ PSB066	[c'è il mare]
 PSB068	sì
 PSB068	marrakesh (è più) grande di marrakesh
 PSB067	sì sì agadir più bello di marrakesh [marrakesh xx]
-PSB005	[ma {P} prossimo anno va]do
+PSB005	[ma (.) prossimo anno va]do
 PSB067	sì sì secondo me vai
-PSB005	{ride}
+PSB005	((ride))
 PSB066	anche xx #tanger #tanger
 PSB005	anche tangeri
 PSB067	#tanger sì bellis[sima]
@@ -1242,27 +1242,27 @@ PSB005	[ah devo an~ devo andare assolutamente]
 PSB067	[però lì ci sono le persone]:
 PSB067	come devo dire #high #cl[ass]
 PSB066	[#high] #class
-PSB005	okay (cap~) [a #tanger okay] {ride)
-PSB066	{ride}
+PSB005	okay (cap~) [a #tanger okay] ((ride)
+PSB066	((ride))
 PSB067	[hanno anche anche l'a:~] il cento come parlano loro mamma mia è troppo
 PSB067	si vede più elegan[te]
 PSB005	[po]sh
 PSB066	sì [sì] sì
 PSB005	[sì]
 PSB005	okay
-PSB067	parlano più {P} sono più
+PSB067	parlano più (.) sono più
 PSB066	eleganti
 PSB005	[eh (tu~)]
 PSB067	[ma tutto il] nord del marocco [funziona (così)]
-PSB005	[eh sì] {P} è più elegante [okay]
+PSB005	[eh sì] (.) è più elegante [okay]
 PSB066	[più elegan]te
 PSB005	mhmh
-PSB005	no io in quando so~ quando ero in m~ marocco parlava solo: mio marito {P} che era il mio fidanzato
+PSB005	no io in quando so~ quando ero in m~ marocco parlava solo: mio marito (.) che era il mio fidanzato
 PSB005	in [quel momento]
 PSB066	[insieme]
-PSB005	perche io non parlo francese, non parlo m~ arabo, non parlo marocchi~ niente {P} quindi
+PSB005	perche io non parlo francese, non parlo m~ arabo, non parlo marocchi~ niente (.) quindi
 PSB067	devi xx
-PSB005	io ascoltavo solo {ride}
+PSB005	io ascoltavo solo ((ride))
 PSB067	lui parla [l'arabo]
 PSB005	[e poi dicevo:] grazie
 PSB067	ah [parla l'arabo]?
@@ -1270,7 +1270,7 @@ PSB066	[inglese c'è anche ingle][se]
 PSB005	[sì] sì ma parlava solo lui poi una volta ho preso un taxi da sola
 PSB066	(bra[va)]
 PSB005	[e] il tassista mi parlava in francese e io dicevo:
-PSB005	sì sì sì #oui #oui #oui #oui #oui basta {ride}
+PSB005	sì sì sì #oui #oui #oui #oui #oui basta ((ride))
 PSB068	c'è anche la gente che parla l'italiano
 PSB068	perché (tanti[:) ma]rocchino
 PSB005	[mhmh]
@@ -1290,7 +1290,7 @@ PSB067	[e: e] olanda
 PSB005	perché son~ perché è più turistico forse sì
 PSB066	parlano: [parlano tutti] italiano
 PSB067	[no no però]
-PSB067	sì sì [però in maro]cco la parte di loro {P} vengono tutti qua in italia
+PSB067	sì sì [però in maro]cco la parte di loro (.) vengono tutti qua in italia
 PSB005	[°sì sì°]
 PSB005	mhmh
 PSB069	m:h
@@ -1301,33 +1301,33 @@ PSB067	[no]rd del marocco vanno in spa[gna]
 PSB066	[spagna] sì
 PSB067	però quella parte fe[s, ifra]ne, vanno in germania e la olanda
 PSB068	[germania]
-PSB005	mhmh {P} okay ok[ay]
+PSB005	mhmh (.) okay ok[ay]
 PSB067	[(quin]di) se tu vai lì devi parlare tedesco oppure:
-PSB005	no {P} che
-PSB066	{ride}
+PSB005	no (.) che
+PSB066	((ride))
 PSB067	tedesco troppo facile
-PSB005	{ride}
+PSB005	((ride))
 PSB005	troppo difficile no [no]
 PSB067	[sì sì tro]ppo diffi[cile cin]quecento cinquanta naf nif naf naf
 PSB005	[no]
-PSB066	{ride}
+PSB066	((ride))
 PSB005	no poi a me piacciono le lingue: del mediterra[neo]
 PSB067	[sì sì]
 PSB066	sul medi[terra]neo
 PSB005	[m:h sì]
-PSB005	quindi adesso devo studiare [greco e a]rabo mi mancano {ride}
+PSB005	quindi adesso devo studiare [greco e a]rabo mi mancano ((ride))
 PSB066	[spagnolo]
 PSB067	sì ma l'arabo è facile non è che è pesante è facilissimo l'arabo
 PSB069	sì
 PSB005	eh insomma
-PSB066	ogni domenica vieni: {ride}
+PSB066	ogni domenica vieni: ((ride))
 PSB067	ogni domenica [vieni qui] xx per studiare
 PSB066	[vieni qua]
 PSB005	posso ve[nire]?
 PSB067	[sì sì]
 PSB005	avete ancora lezione? [o è fini]to?
 PSB067	[adesso no]
-PSB067	a: [settembre] {P} a settembre sì
+PSB067	a: [settembre] (.) a settembre sì
 PSB005	[okay quando ricominciate]?
 PSB067	xx
 PSB005	io sì prego prego sì sì
@@ -1350,24 +1350,24 @@ PSB067	no no hādāk sh-shī no
 PSB067	dopo riesci a fare una parola e poi da lì usi il dizionario
 PSB005	mh
 PSB067	[così per capire]
-PSB066	[anche (usare) {P} cerca]re da so[la]
+PSB066	[anche (usare) (.) cerca]re da so[la]
 PSB067	[co]me abbiamo fatto noi quando siamo venute in italia quando io sono venuta in italia
 PSB067	non è che capisco l'ita~ non parlavo neanche una parola
 PSB067	capisco solo
 PSB067	eh sono nipotina di marocchina
-PSB066	{ride}
-PSB005	{ride}
+PSB066	((ride))
+PSB005	((ride))
 PSB067	e basta
 PSB067	perché mia nonna dall'ottantasette è in [italia]
 PSB069	[ah è vero] è vero
 PSB067	solo quello
 PSB067	io sono nipotina di marocchina
 PSB067	basta
-PSB066	{ride}
+PSB066	((ride))
 PSB005	e poi come hai fatto
 PSB067	col dizionario ho comprato perché quando sono venuta qui duemilatrè
 PSB067	non c'erano questi: social media niente
-PSB067	io facevo delle: {P} delle frasi in francese
+PSB067	io facevo delle: (.) delle frasi in francese
 PSB066	come [m~]
 PSB067	[poi:] scr~ eh cerco sul dizionario come si dice #je
 PSB067	come si dice #veux
@@ -1380,19 +1380,19 @@ PSB067	[poi fa]ccio l~ scusami scrivo delle domande così del lavoro
 PSB067	e [poi memorizzo anche]
 PSB005	[a:h okay okay]
 PSB067	poi mia nonna mi mi imparava però tutto: tutto sbagliato
-PSB068	{ride}
-PSB069	{ride}
-PSB066	{ride}
+PSB068	((ride))
+PSB069	((ride))
+PSB066	((ride))
 PSB067	dopo ho capito tipo per tipo il coltello mi dice $cor:tello
-PSB066	{ride}
+PSB066	((ride))
 PSB067	dice $cor:tello
 PSB069	[xx kat-hādrī 3līyā anā]
 PSB067	(poi mi correggo) comuni
 PSB067	comuni comu~ comuni dice $commu[ni]
-PSB066	{ride}
-PSB066	[co]mu~ eh sì {ride}
+PSB066	((ride))
+PSB066	[co]mu~ eh sì ((ride))
 PSB067	poi la verdura dice $derdura
-PSB066	{ride}
+PSB066	((ride))
 PSB067	poi non è che[:] imparo poi quando qualcuno mi corregge non è che mi: mi dà fastidio [no]
 PSB066	[sì]
 PSB066	[n]o:
@@ -1400,8 +1400,8 @@ PSB067	fa piace[re]
 PSB069	[gra][zie] [grazie grazie]
 PSB066	[sì sì]
 PSB067	[poi se tu mi vedi come mi siedo] così tutta:
-PSB067	con un'agenda così con la penna come fosse io sono capisco tutto l'italiano {ride}
-PSB066	{ride}
+PSB067	con un'agenda così con la penna come fosse io sono capisco tutto l'italiano ((ride))
+PSB066	((ride))
 PSB067	non capisco niente [(una parola capisco)]
 PSB066	[adesso lei bravissima]
 PSB066	è brava anche in arabo [adesso sì]
@@ -1410,30 +1410,30 @@ PSB067	ti giuro fai fatica
 PSB005	tu sei stata in puglia per un po'
 PSB067	sì perché devi parlare il dialetto di più dell'italiano
 PSB067	devi cercare di: di imparare tutto
-PSB067	tipo domani mattina devi dire #a #cre~ #ian #crei #matin
+PSB067	tipo domani mattina devi dire #*a #cre~ #ian #crei #matin
 PSB067	pez cre matin
-PSB066	{ride}
+PSB066	((ride))
 PSB067	è così?
-PSB066	{ride}
-PSB067	le caro:te {P} #pastenait
+PSB066	((ride))
+PSB067	le caro:te (.) #pastenait
 PSB067	sì sì s~ sono imparato proprio: metà metà
-PSB067	così almeno riesco con i vecchi per parlare, perché la maggior parte sono vecchi {P} e non parlano italiano
+PSB067	così almeno riesco con i vecchi per parlare, perché la maggior parte sono vecchi (.) e non parlano italiano
 PSB005	°no no°
 PSB067	son tutti:
-PSB005	a foggia soprat[tutto {P} pen]so
+PSB005	a foggia soprat[tutto (.) pen]so
 PSB067	[sì sì fo]ggia sì
 PSB005	eri in un paese piccolo o [eri a città]?
-PSB067	[sì sì {P} no no] un paesino piccolo
+PSB067	[sì sì (.) no no] un paesino piccolo
 PSB067	zapponeta
 PSB005	okay
 PSB067	(dove) c'è proprio il mare:
-PSB067	non è che mi vergogno mi siedo con loro vabbé loro hanno {P} mh mi criticano troppo il foulard
+PSB067	non è che mi vergogno mi siedo con loro vabbé loro hanno (.) mh mi criticano troppo il foulard
 PSB067	però non mi dava fastidio
 PSB005	°mhmh°
 PSB067	ah ma sei come una nonnina sai com'è com'è non mi dà fastidio
-PSB066	{ride}
+PSB066	((ride))
 PSB067	mi chiamano anche nonnina
-PSB067	non mi dà fastidio {P} perché avevo voglia di imparare
+PSB067	non mi dà fastidio (.) perché avevo voglia di imparare
 PSB069	m:h
 PSB067	poi quando io sono imparata tre quattro parole dico per mia zia guarda sono così ma no non se~ non italiano questo qui questo qui solo dialetto
 PSB066	a:h
@@ -1442,7 +1442,7 @@ PSB067	[dopo] ho capito tra l'italiano e il dial[etto]
 PSB066	[xxx]
 PSB005	[beh co]me da voi un po'
 PSB066	sì
-PSB067	sì come da noi dopo ho capito che c'è il dialetto {P} pugliese e poi quello lì
+PSB067	sì come da noi dopo ho capito che c'è il dialetto (.) pugliese e poi quello lì
 PSB066	anche da voi: xx
 PSB005	c(io)è [io]
 PSB066	[c'è] dialetto
@@ -1465,7 +1465,7 @@ PSB005	no
 PSB066	in cit[tà]
 PSB005	[in] città no
 PSB005	m:h la mia nonna non parlava dialetto
-PSB005	già {P} aveva studiato: all'università: non: [non] no
+PSB005	già (.) aveva studiato: all'università: non: [non] no
 PSB066	[eh]
 PSB005	però in alcune zone dell'italia si parla tanto dialetto
 PSB005	e:hm
@@ -1479,13 +1479,13 @@ PSB066	[ferrara]
 PSB005	mh
 PSB068	sì sì [parlano dialetto]
 PSB005	[per~ però io ho l'impre]ssione
-PSB005	pero qua non sicura io ho l'impressione che {P} il dialetto i dia~ i dialetti italiani siano più vicini all'italiano
+PSB005	pero qua non sicura io ho l'impressione che (.) il dialetto i dia~ i dialetti italiani siano più vicini all'italiano
 PSB067	no quello di puglia no
 PSB067	tipo domani mattina che vuol dire #ian #cre #matin?
 PSB005	no è vero [certo]
 PSB067	[è diverso]
 PSB067	pz cre matin
-PSB005	no [certo] {ride}
+PSB005	no [certo] ((ride))
 PSB067	[è dive]rso
 PSB066	[mkāīnsh tfhmīhum mn dialetto]
 PSB067	no no se parlano più ve[loce non] capisci
@@ -1495,42 +1495,42 @@ PSB067	allora [se tu parli]
 PSB066	[la nostra non capi]sci niente [l'ara]bo
 PSB067	[no]
 PSB066	è da sola il: dialetto da sola
-PSB067	no però se tu parli con {P} una donna anziana non capisci niente [però se tu parli una giovane che mes]cola tra il dia[letto e:] {P} [rie]sci a capire qual[cos]a
+PSB067	no però se tu parli con (.) una donna anziana non capisci niente [però se tu parli una giovane che mes]cola tra il dia[letto e:] (.) [rie]sci a capire qual[cos]a
 PSB066	[xx]
 PSB005	[eh esatto]
 PSB066	[a:h]
 PSB005	[sì]
 PSB005	secondo me questa
 PSB066	m[:h]
-PSB005	[è] una~ potrebbe essere una differenza rispet[to a] {P} al marocco
+PSB005	[è] una~ potrebbe essere una differenza rispet[to a] (.) al marocco
 PSB067	[sì]
 PSB067	sì sì
-PSB005	perché da voi anche i giovani {P} parlano {P} dialetto {P} [in famiglia {P} giusto no]?
+PSB005	perché da voi anche i giovani (.) parlano (.) dialetto (.) [in famiglia (.) giusto no]?
 PSB067	[noi parliamo tutti in dialetto]
-PSB066	[sì {P} sì sì]
+PSB066	[sì (.) sì sì]
 PSB067	noi da noi non esiste qualcosa che si chiama lingua araba
 PSB005	mh
 PSB067	perché se~ adesso ci sono io se tu mi fai un discorso in lingua araba
-PSB067	ti giuro {P} non riesco a finirlo con te
+PSB067	ti giuro (.) non riesco a finirlo con te
 PSB005	ah perché?
 PSB067	devo fermare un po' perche ci sono delle parole che: da noi sono: sono già dimenticate
 PSB066	mh
 PSB005	mhmh
 PSB066	c'è anche un po' di francese che esc[e:]
 PSB068	[fran]c~ e la [xx]
-PSB067	[poi c'è] anche de~ de~ tipo già {P} eh [#déjà] #déjà l'ho fatto #déja
+PSB067	[poi c'è] anche de~ de~ tipo già (.) eh [#déjà] #déjà l'ho fatto #déja
 PSB066	[già]
 PSB066	xx
 PSB067	in marocco non c'è #dé[jà]
-PSB069	[sì] {ride}
+PSB069	[sì] ((ride))
 PSB067	anche mia mamma dice #déjà
 PSB066	#déjà: una parola francese
-PSB068	e:h no perché la marocco studiare fra~ [francese] {P} l'alfabeto di italiano francese
+PSB068	e:h no perché la marocco studiare fra~ [francese] (.) l'alfabeto di italiano francese
 PSB066	[e:h]
 PSB067	sono uguale
 PSB068	uguali
 PSB066	sì
-PSB068	così f~ un po' di: {P} aiutare
+PSB068	così f~ un po' di: (.) aiutare
 PSB067	[sì ma il frances]e e l'i[talia]no sono uguali
 PSB068	[sì]
 PSB066	uguali
@@ -1541,7 +1541,7 @@ PSB005	[sì sì sì]
 PSB066	(ac)cento sì
 PSB005	sì
 PSB066	sì
-PSB005	io non ho studiato fran[cese] {ride}
+PSB005	io non ho studiato fran[cese] ((ride))
 PSB067	[no no] cambia solo cento perché
 PSB066	[#peux #veux e] e e
 PSB005	sì
@@ -1550,10 +1550,10 @@ PSB068	[uguale uguale]
 PSB005	sì sì [sì (scriv~)]
 PSB067	[anche in gramma]tica [per fare una frase] sono uguale
 PSB066	[le stesse:]
-PSB005	no ma è vero {P} e:h però {P} quando io leggo in francese {P} devo {P} fare molta at[tenzio]ne
+PSB005	no ma è vero (.) e:h però (.) quando io leggo in francese (.) devo (.) fare molta at[tenzio]ne
 PSB068	[fatica]
 PSB067	cento che xx
-PSB005	faccio e faccio un po' di [fatica]: {ride}
+PSB005	faccio e faccio un po' di [fatica]: ((ride))
 PSB066	[fatica]
 PSB068	sì
 PSB067	perché tra la u e la~ perché voi dice u
@@ -1565,18 +1565,18 @@ PSB067	poi loro dicono #err e qua dicono erre
 PSB005	sì ma la pronuncia
 PSB005	è molto diversa il suono è molto di[verso quando io sento:]
 PSB067	[sì ma il suono italiano è più bello]
-PSB005	ah grazie {ride}
+PSB005	ah grazie ((ride))
 PSB068	c'è anche[: il: c'è la:]
 PSB066	[c'è una mus]ica: [italiana] sì
 PSB068	[xxx]
 PSB066	una musica no no [(era un)]
 PSB067	[sì sì] sì il suono ita[liano è più bello]
-PSB066	[suono {P} sì]
+PSB066	[suono (.) sì]
 PSB068	[c'è una] parola: [qualche $paro]li vicino da: france[se]
 PSB066	[come la musica]
 PSB005	sì [sì]
 PSB067	[tut]to [vicino]
-PSB068	[domani] {P} sì doma~ #demain [#demain] domani
+PSB068	[domani] (.) sì doma~ #demain [#demain] domani
 PSB069	[kulshī bḥāl bḥāl]
 PSB005	[sì sì]
 PSB005	sì sì sì
@@ -1603,7 +1603,7 @@ PSB068	an[ch'io:]
 PSB067	[tutte le xx] che sono andata in belgio sì
 PSB066	sì anch'io sono andata tante volte in francia
 PSB067	però io in francia non [sono mai stata]
-PSB005	[sì {P} mhmh] okay
+PSB005	[sì (.) mhmh] okay
 PSB005	[e:]
 PSB067	[in belgio] da mio zio sì
 PSB066	anche in belgio parlano [francese]
@@ -1611,7 +1611,7 @@ PSB067	[sì sì] parlano francese
 PSB067	no ma non tutti [quelli vicino][:]
 PSB005	[non tutti sì]
 PSB066	[sì] sì
-PSB067	adesso mio mio zio trasferito verso: {P} la olanda parlano:
+PSB067	adesso mio mio zio trasferito verso: (.) la olanda parlano:
 PSB005	fiammin[go]
 PSB067	[f~] brava
 PSB066	anche in canada canada parlano francese e [inglese]
@@ -1626,16 +1626,16 @@ PSB066	[xx]
 PSB069	[sì]
 PSB005	sì
 PSB067	ce n'è ce n'è da vedere in [italia]
-PSB066	[senti un] po': {P} vicino da noi da da nostro paese non lo [so: vicino]
+PSB066	[senti un] po': (.) vicino da noi da da nostro paese non lo [so: vicino]
 PSB067	[si ma a parti quel]lo a parti quello [ce n'è] da vedere qua in italia è: molto bella
 PSB066	[sì]
-PSB066	come: dice: c'è la nostalgia: {P} sempre quando io vado a marocco sente un po' la nostalgia di: italia sì
+PSB066	come: dice: c'è la nostalgia: (.) sempre quando io vado a marocco sente un po' la nostalgia di: italia sì
 PSB066	sì
 PSB067	sì [sì ma]
 PSB005	[perché son] tanti anni che vivi qui
 PSB066	sì
 PSB005	sì sì
-PSB005	e {P} [e anc]he voi?
+PSB005	e (.) [e anc]he voi?
 PSB066	[(forse sì)]
 PSB068	mia: [marito]
 PSB066	[twahshīhā]
@@ -1652,7 +1652,7 @@ PSB005	[pre]ferisce qui sì
 PSB069	[xx]
 PSB067	[gū-līlhā bello]
 PSB005	meglio sì
-PSB066	voglio andare la {P} [voglio andare con lei e portare i miei fi]gli e tutto
+PSB066	voglio andare la (.) [voglio andare con lei e portare i miei fi]gli e tutto
 PSB069	[īwa tarjmlī tarjmlī]
 PSB005	mhmh no
 PSB068	rimane sola se ne va
@@ -1696,7 +1696,7 @@ PSB067	[a par]te i bimmbi
 PSB069	[no]
 PSB066	a parte i bim[bi]
 PSB067	[io] [non riesco eh]
-PSB069	[un mese] {P} un mese all'anno {P} e:hm
+PSB069	[un mese] (.) un mese all'anno (.) e:hm
 PSB069	[xx]
 PSB067	[io non rie~] neanche un mese riesco [a fare]
 PSB005	[e bas]ta è suffici[ente]?
@@ -1714,35 +1714,35 @@ PSB066	āh sawltī xx
 PSB067	xx
 PSB069	mābāqīsh xx
 PSB005	ma perché si annoiano, perché fanno fatica con la lingua:,
-PSB005	sanno l'arabo {P} i tuoi bimbi
+PSB005	sanno l'arabo (.) i tuoi bimbi
 PSB067	sì sì
-PSB005	[sì] mh dialetto {P} marocchino {P} sì
+PSB005	[sì] mh dialetto (.) marocchino (.) sì
 PSB069	[sì]
 PSB069	sì
 PSB005	okay
-PSB005	quando siete in marocco {P} non sono contenti {P} perché si annoiano {P} non sanno cosa fare
+PSB005	quando siete in marocco (.) non sono contenti (.) perché si annoiano (.) non sanno cosa fare
 PSB067	‘a3lāsh mā-tī3jbu-hūmsh l-maghrīb tāsh mā-tībgh-īūsh ymshīw
 PSB066	wāsh tī xx
 PSB069	tī-mām ki-qnṭū
 PSB066	wā hādkshī lī-gāt-lāk
 PSB067	si annoiano
-PSB005	si annoia~ in~ io ci ho pensato infatti {ride} sì sì
+PSB005	si annoia~ in~ io ci ho pensato infatti ((ride)) sì sì
 PSB069	hūmā zāydīn hunā xx
 PSB068	xx
-PSB068	anche mio figlio grande {P} nato a marocco
+PSB068	anche mio figlio grande (.) nato a marocco
 PSB005	mhmh
-PSB068	e: {P} [cresciuta] da qui
+PSB068	e: (.) [cresciuta] da qui
 PSB067	[xx]
-PSB068	parlare italiani {P} italiani mol~ molto bravo
+PSB068	parlare italiani (.) italiani mol~ molto bravo
 PSB005	mhmh
-PSB068	i: lui non gli piace marocco {P} piace solo italiana
+PSB068	i: lui non gli piace marocco (.) piace solo italiana
 PSB066	dai
 PSB066	quanti anni ha?
 PSB067	xx
 PSB068	[di]eci
 PSB066	m:h
 PSB005	okay okay
-PSB005	è interessante {ride}
+PSB005	è interessante ((ride))
 PSB067	sì sì è la verità non è: la verità io non riesco da: tornare in marocco da vivere
 PSB067	perché tutta la mia gioventù l'ho fatta qua in italia secondo lei cosa devo fare in marocco io?
 PSB005	mh
@@ -1750,14 +1750,14 @@ PSB069	walakin hā kān-gūlū hnā
 PSB069	piace marocc[o]
 PSB067	[no] io
 PSB066	[ānā bntī ktār mn marrāt mchāt fīh hād l-3ām]
-PSB067	io l'anno sco~ [sono tre anni {P} che non (torno)]
+PSB067	io l'anno sco~ [sono tre anni (.) che non (torno)]
 PSB069	[kāt-mshīw ]
 PSB066	[ghā t-mshī ktār 3ad t-mshī 3āwtānī hīyya s-sātta]
 PSB069	[xx]
 PSB005	mh
 PSB005	ma:
 PSB069	xx mzyān
-PSB005	comunque {P} è abbastanza vicino quindi {P} quando volete potete andare per vacanza poi tornare [qui]
+PSB005	comunque (.) è abbastanza vicino quindi (.) quando volete potete andare per vacanza poi tornare [qui]
 PSB068	[sì]
 PSB005	[no]?
 PSB068	[si] vacnza bene
@@ -1770,7 +1770,7 @@ PSB069	[al mese]
 PSB067	si vab[bè solo marocchini andare a c]erca altra parte a scoprire atra parte [non solo il marocco]
 PSB069	[mezzo mezzo]
 PSB066	[e:h bra]va brava
-PSB067	andare sempre in marocco io {ride}
+PSB067	andare sempre in marocco io ((ride))
 PSB066	eh bravissima eh brava devi cercare [altro]
 PSB067	[io:] [quando ero piccola]
 PSB005	[ma hai famiglia] ancora in marocco o nessuno?
@@ -1787,17 +1787,17 @@ PSB005	[mh]mh
 PSB067	e poi a parti quello quando io ero piccolo ho girato tutto il: quasi tutto il marocco con mio papà [perché gli piaceva anda]re in giro
 PSB069	[m:h m:h]
 PSB067	adesso devo scoprire (qua)
-PSB005	certo sì {P} son d'accordo
-PSB005	sì sì {P} sì sì
+PSB005	certo sì (.) son d'accordo
+PSB005	sì sì (.) sì sì
 PSB068	anch'io [sì]
-PSB067	[poi] quelli che non sono marocchini vanno c(io)è: {ride} maroc[co]
+PSB067	[poi] quelli che non sono marocchini vanno c(io)è: ((ride)) maroc[co]
 PSB005	[vanno a ve]dere il marocco certo [sì sì]
 PSB066	[è vero] sì
-PSB005	eh io {P} e: a me è piaciuto molto il mio viaggio in marocco però {P} una cosa che ho [sent]ito molto
+PSB005	eh io (.) e: a me è piaciuto molto il mio viaggio in marocco però (.) una cosa che ho [sent]ito molto
 PSB068	[sì]
 PSB068	sì
-PSB005	è che {P} ero proprio una turista
-PSB005	c(io)è lo sento {P} [lo s]entivo che ero [una turi]sta
+PSB005	è che (.) ero proprio una turista
+PSB005	c(io)è lo sento (.) [lo s]entivo che ero [una turi]sta
 PSB067	[sì]
 PSB066	[(brava)
 PSB069	[sì]
@@ -1808,44 +1808,44 @@ PSB066	non senti che: [sei: sì]
 PSB005	[no perché] ad esempio io qua~ sono andata qualche volta: in europa, sono andata in sudamerica anche a viaggia[re],
 PSB066	[s]ì
 PSB005	e:: incontri tanti europei: che magari vivono li per lavoro, per studio
-PSB005	e quindi {P} quando cammini non {P} non lo so non le~ le [persone non sanno] {P} non sanno se sei una turista, se sei una studentessa che vive lì per lavorare o [per studiare]
+PSB005	e quindi (.) quando cammini non (.) non lo so non le~ le [persone non sanno] (.) non sanno se sei una turista, se sei una studentessa che vive lì per lavorare o [per studiare]
 PSB067	[(non senti quello che)]
 PSB066	[brava bra]va
 PSB005	quando ero fes c(io)è
-PSB005	avevo un co~ come un cartello qui con tu~ {ride} turista {ride}
-PSB066	{ride} turista [sì] sì vede sì
+PSB005	avevo un co~ come un cartello qui con tu~ ((ride)) turista ((ride))
+PSB066	((ride)) turista [sì] sì vede sì
 PSB067	si vede si vede [si notano]
 PSB066	[si vede sì]
 PSB005	sì sì
 PSB066	sì sì
-PSB005	poi {P} una cosa veramente sciocca che ho fatto {P} molto sciocca
-PSB005	è che io pensato no {P} per rispetto
+PSB005	poi (.) una cosa veramente sciocca che ho fatto (.) molto sciocca
+PSB005	è che io pensato no (.) per rispetto
 PSB005	io mi porto una gonna più lunga:, le maniche lunghe:, non m:h
-PSB005	però {P} poi io i miei vestiti {P} quando quando sono arrivata lì [con il mio ve]stito lungo
+PSB005	però (.) poi io i miei vestiti (.) quando quando sono arrivata lì [con il mio ve]stito lungo
 PSB067	[xx]
 PSB066	[xx]
 PSB066	[ha trovato]
-PSB005	ma era {P} non era per niente come le ragazze marocchine {ride} no c(io)è {ride}
-PSB066	{ride}
-PSB005	c(io)è si vedeva [lo stesso no] era {P} eh
+PSB005	ma era (.) non era per niente come le ragazze marocchine ((ride)) no c(io)è ((ride))
+PSB066	((ride))
+PSB005	c(io)è si vedeva [lo stesso no] era (.) eh
 PSB066	[a:h]
 PSB066	no: è vero
-PSB005	non avevo capito {P} proprio niente {ride} [sì]
+PSB005	non avevo capito (.) proprio niente ((ride)) [sì]
 PSB066	sì sì
-PSB067	[perché] il marocco è una città come le altre {P} che altre [ci]ttà
+PSB067	[perché] il marocco è una città come le altre (.) che altre [ci]ttà
 PSB005	[sì]
 PSB066	[sì]
 PSB067	[ci sono quelle che por]tano il foulard, che portano le minigonne, che portano
 PSB068	[sì sì sì]
-PSB066	niente {ride}
+PSB066	niente ((ride))
 PSB067	quel[le che devono dare xx alle persone]
-PSB005	[però io dico per sicurezza no per per] per essere sicura per star tranquilla ma {P} non avevo capito [proprio niente {ride} sì sì]
-PSB066	[no no c'è:] {P} c'è {ride}
+PSB005	[però io dico per sicurezza no per per] per essere sicura per star tranquilla ma (.) non avevo capito [proprio niente ((ride)) sì sì]
+PSB066	[no no c'è:] (.) c'è ((ride))
 PSB005	sì sì
 PSB067	io sono andata l'anno scorso a napoli con mia amica
 PSB066	[āsh gāt-lāk]
 PSB069	[xx]
-PSB067	[entravamo al bar per prendere un caffè e parlano {P} parlano con noi inglese]
+PSB067	[entravamo al bar per prendere un caffè e parlano (.) parlano con noi inglese]
 PSB068	[xx]
 PSB005	ah
 PSB066	e[:h]
@@ -1853,54 +1853,54 @@ PSB067	[pensavano] che siamo del del dell'arabia saudita
 PSB005	e:h [ma no]
 PSB067	[e dicono] ma si vive [bene in arabia sau]dita
 PSB069	[xx]
-PSB005	ma che sciocchi [si vede SI VE]DE {P} [secondo me] si vede
+PSB005	ma che sciocchi [si vede SI VE]DE (.) [secondo me] si vede
 PSB067	[poi la]
 PSB067	[la:]
-PSB066	{ride}
-PSB067	e in[fatti si ve]de ma la: il caffè costa un euro {P} io con lei paghiamo due eu[ro]
+PSB066	((ride))
+PSB067	e in[fatti si ve]de ma la: il caffè costa un euro (.) io con lei paghiamo due eu[ro]
 PSB005	[e:]
 PSB005	[n]o:
-PSB067	io [ho detto ma] {P} quanto costa il caffè? perché due euro? lui mi ha guardato così
+PSB067	io [ho detto ma] (.) quanto costa il caffè? perché due euro? lui mi ha guardato così
 PSB005	[xxx]
-PSB067	parla italiano? {P} sì certo che parliamo l'italiano [mica dobbiamo] xx i:taliano
+PSB067	parla italiano? (.) sì certo che parliamo l'italiano [mica dobbiamo] xx i:taliano
 PSB005	[terribili]
-PSB005	terribile {ride} [te]rribile
-PSB066	[ah si] {ride}
-PSB067	lui mi ha detto {P} ma io pensavo col vestito lungo: e siete del~ no {P} siamo italiane
+PSB005	terribile ((ride)) [te]rribile
+PSB066	[ah si] ((ride))
+PSB067	lui mi ha detto (.) ma io pensavo col vestito lungo: e siete del~ no (.) siamo italiane
 PSB067	delle siamo marocchine però viviamo [in italia]
 PSB005	[sì però poi vo]glio dire è una [città grande]
 PSB067	[siamo anche messe ma]le economicamente come voi
 PSB005	sì esat[to]
-PSB066	{ride}
-PSB067	[mi dai] il resto per favore {ride}
-PSB005	no certo {P} ma poi a napoli è una città grande no {P} non un paesino piccolo
-PSB066	{ride}
+PSB066	((ride))
+PSB067	[mi dai] il resto per favore ((ride))
+PSB005	no certo (.) ma poi a napoli è una città grande no (.) non un paesino piccolo
+PSB066	((ride))
 PSB067	sì ma loro notano quella è: straniera quell'altra è straniera [poi parlano con noi in inglese]
-PSB005	[ma ce ne so~ ma ce ne sono anche] lì: voglio dire non è che {P} sono tu[tti italiani]
+PSB005	[ma ce ne so~ ma ce ne sono anche] lì: voglio dire non è che (.) sono tu[tti italiani]
 PSB067	[no quelle] vestite così non [ci sono (in verità)]
 PSB005	[non c'era nessuno]
 PSB005	ah okay
 PSB067	poi la bella cosa che mi piace mi ha detto eh ma si vive bene in arabia saudita eh
 PSB067	pensavamo che noi [(abbiamo un sacco] di soldi)
-PSB066	[ricchi] {ride}
-PSB005	sì [siete {P} le donne ri]cche del: [sì]
+PSB066	[ricchi] ((ride))
+PSB005	sì [siete (.) le donne ri]cche del: [sì]
 PSB067	[siamo andati in ischia]
 PSB066	[xx]
 PSB067	[siamo andati] in ischia mi ha fatto passare io con la mia amica i primi
 PSB005	ah wow
-PSB066	{ride}
+PSB066	((ride))
 PSB005	[vi è piaciuta] ischia?
 PSB067	sì sì molto bella
 PSB066	dov'è xx
-PSB005	{squilla_un_telefono}
-PSB067	ischia {P} napoli
+PSB005	((squilla_un_telefono))
+PSB067	ischia (.) napoli
 PSB005	prego pre[go]
 PSB067	[bellis]sima ischia se riesco a tornare è bellissima
 PSB067	è troppo bella
-PSB005	io ci sono andata: moltissimi anni fa ero: {P} tipo avevo dodici anni così ero {P} piccolina
+PSB005	io ci sono andata: moltissimi anni fa ero: (.) tipo avevo dodici anni così ero (.) piccolina
 PSB066	ah picco[lina] x[x]
 PSB005	[sì]
-PSB005	[ho] un ho un po' un ricordo: siamo andati forse alle terme {P} con i miei genitori {P} c'era un hotel con le terme perché [a ischia hanno l'a]cqua:
+PSB005	[ho] un ho un po' un ricordo: siamo andati forse alle terme (.) con i miei genitori (.) c'era un hotel con le terme perché [a ischia hanno l'a]cqua:
 PSB066	[a:h]
 PSB005	calda han[no una fon]te di [acqua]
 PSB066	[calda]
@@ -1912,7 +1912,7 @@ PSB005	mh
 PSB066	no no:
 PSB005	[non avete] mai provato
 PSB067	[xx]
-PSB067	no sono arrivata una [volta però] {P} devi mettere il costume
+PSB067	no sono arrivata una [volta però] (.) devi mettere il costume
 PSB066	[costume]
 PSB067	[sono andata una volta a quelle di mila]no
 PSB066	[noi facciamo xx]
@@ -1927,7 +1927,7 @@ PSB005	non ti hanno fa~ c(io)è tu avevi il [co~]
 PSB067	[no] me l'hanno detto puoi entrare m:- metti il costume come gli altri [così puoi entrare]
 PSB069	[costu~ costume]
 PSB066	devi mettere il costume
-PSB005	si [però] {P} un costu[me lungo diver]so non si poteva
+PSB005	si [però] (.) un costu[me lungo diver]so non si poteva
 PSB066	[xx]
 PSB069	[no:]
 PSB067	ah quella [volta non c'e]ra quello lungo
@@ -1936,31 +1936,31 @@ PSB005	ah okay
 PSB005	[c(io)è okay quindi]
 PSB067	[dicevo: duemilacin]que duemilasei
 PSB005	a:h okay
-PSB005	ah beh però magari in questi quindi~ {P} ci dieci anni, vent'anni che son [passa~ quanto so~]
+PSB005	ah beh però magari in questi quindi~ (.) ci dieci anni, vent'anni che son [passa~ quanto so~]
 PSB067	[adesso non sono mai] pro[vato]
 PSB005	[forse] forse è un po' cambiato non [lo so]
 PSB067	[non lo so]
 PSB066	forse
 PSB005	[e:h]
 PSB067	[non lo so]
-PSB005	e:h io non ci ho mai pensato {ride} ovviamente
+PSB005	e:h io non ci ho mai pensato ((ride)) ovviamente
 PSB067	ci sono delle posti qua belli che non possiamo entrare noi
 PSB067	tipo il vaticano non: non mi ha lasciato [entrare a me]
 PSB005	[a:h e:h] [questo però]
 PSB066	[a:h]
-PSB005	questo però è {P} è terribile eh
+PSB005	questo però è (.) è terribile eh
 PSB067	non mi ha lasciato entra[re]
 PSB005	[sì] veramente terribile
-PSB067	no me l'ha detto il foulard col foulard puoi entrare però se almeno metti qulcosa {P} si vedi qua che si vedi la~ la differenza tra te musulmana e gli altri
+PSB067	no me l'ha detto il foulard col foulard puoi entrare però se almeno metti qulcosa (.) si vedi qua che si vedi la~ la differenza tra te musulmana e gli altri
 PSB067	cristiani
 PSB005	°sì°
-PSB066	{ride}
-PSB005	ma {P} per motivi di sicurezza e perché
+PSB066	((ride))
+PSB005	ma (.) per motivi di sicurezza e perché
 PSB067	ah non lo so
-PSB067	poi sono andata anche in~ e:h san giovanni di rotondo {P} [lì mi hanno lascia]to entrare quando mi hanno {P} sotterrato il: padre pio
+PSB067	poi sono andata anche in~ e:h san giovanni di rotondo (.) [lì mi hanno lascia]to entrare quando mi hanno (.) sotterrato il: padre pio
 PSB005	[mhmh]
 PSB005	ah okay
-PSB067	perché io: ho girato proprio con {ride}
+PSB067	perché io: ho girato proprio con ((ride))
 PSB005	sì sì sì
 PSB067	no la [prima cosa sono anda]ta dal: dal carabiniere ho detto posso entrare? sono straniera
 PSB066	[brava]
@@ -1968,7 +1968,7 @@ PSB067	però se qualcuno mi dice dentro qualcosa per il foulard o mi critica pos
 PSB067	no no entri perché è aperto per tutti
 PSB005	però in vaticano no
 PSB067	il vaticano no
-PSB067	vaticano sono andata io con mio marito e non mi ha lasciato entrare {P} hanno detto tuo marito sì può entrare perché: è vestito [normale tu] no
+PSB067	vaticano sono andata io con mio marito e non mi ha lasciato entrare (.) hanno detto tuo marito sì può entrare perché: è vestito [normale tu] no
 PSB005	[certo]
 PSB067	poi ho voluto andare in gita con: i miei amici italiani al vaticano mi ha lasciato il prete
 PSB067	ha detto di no
@@ -1981,7 +1981,7 @@ PSB005	beh è [mi mi dispia~ c(io)é beh] un po' un po [sì]
 PSB067	[no no no no no]
 PSB066	[sì] sì
 PSB005	un po' sì
-PSB067	si ma [secondo me è co]me fa una legge uno che deve andare alle terme deve togliere: {P} i vestiti
+PSB067	si ma [secondo me è co]me fa una legge uno che deve andare alle terme deve togliere: (.) i vestiti
 PSB066	xxx
 PSB005	[secondo me sì]
 PSB005	sì vabbè ma ci saranno delle vie di mezzo c(io)è uno magari si può mettere un costume più: più lungo: [non lo so]
@@ -1994,19 +1994,19 @@ PSB067	[ma] duemilacinque
 PSB069	foulard e:
 PSB069	xx lunghi
 PSB005	eh
-PSB005	ma con quello {P} potete,
+PSB005	ma con quello (.) potete,
 PSB005	vi fa~ c(io)è se vi mettete quello lì lungo potete entrare nella piscina,
 PSB066	forse:
 PSB067	non lo so io non ci sono mi [stata non]: non lo so
 PSB066	[forse]
 PSB069	anch'io non lo so se:
-PSB067	comunque verso: dove l'ho visto io, {P} sono andati i miei amici
+PSB067	comunque verso: dove l'ho visto io, (.) sono andati i miei amici
 PSB067	verso: padova
 PSB005	[mh]
 PSB067	[c'è quel] mare lì che è diviso tra uomini e donne
-PSB005	ah non lo conosco questo {P} bello
+PSB005	ah non lo conosco questo (.) bello
 PSB066	padova
-PSB067	si [si ma è bellis]simo {P} dove si trova, {P} eh verso padova quella par[te lì] {P} secondo [me]
+PSB067	si [si ma è bellis]simo (.) dove si trova, (.) eh verso padova quella par[te lì] (.) secondo [me]
 PSB068	[sì sì]
 PSB005	[okay]
 PSB005	[ma] al mare o una piscina?
@@ -2028,7 +2028,7 @@ PSB066	[a:h]
 PSB067	poi tu [paghi anche] se c'è con tuo marito
 PSB005	[sì sì
 PSB067	i bimbi vanno: eh da sei anni in poi vanno con la mamma, da sei no da sei anni in giù vanno con [la mamma, da sei in poi vanno con gli uomini]
-PSB005	[mhmh poi si dividono {P} sì sì]
+PSB005	[mhmh poi si dividono (.) sì sì]
 PSB067	quello lì volevo andare a provare
 PSB005	ah ma potete andarci trieste è una città bellissima
 PSB069	sì [sì]
@@ -2051,7 +2051,7 @@ PSB067	[pe]rò no hanno detto di no perché è freddo:,
 PSB066	[forse xx]
 PSB067	[x febbraio]
 PSB067	[(andrò) a febbraio]
-PSB005	[vabbè adesso]: [adesso si può anda]re {ride}
+PSB005	[vabbè adesso]: [adesso si può anda]re ((ride))
 PSB066	[febbraio sì]
 PSB066	no [che (bambini con me)]
 PSB067	[adesso dove sono i bim]bi
@@ -2072,14 +2072,14 @@ PSB005	ah forse sì
 PSB067	poi è caduto, si è rotto il bracci[o: inge][ssato per qua]ttro mesi
 PSB005	[o no:]
 PSB068	[poverino sì]
-PSB005	o no: {ride}
-PSB005	o no {ride}
-PSB066	{ride}
-PSB005	che disastro {ride}
+PSB005	o no: ((ride))
+PSB005	o no ((ride))
+PSB066	((ride))
+PSB005	che disastro ((ride))
 PSB066	ha fatto un viaggio #kīfāsh mā-kāll-hum zaṭṭā
 PSB067	lui ha fatto un viaggio lì si ma secondo
 PSB068	[kāṣṣhā shī hādī]
-PSB005	{ride}
+PSB005	((ride))
 PSB067	[secondo te]
 PSB067	se tu non sai: la bici vai [via]
 PSB005	[no] esatto
@@ -2089,28 +2089,28 @@ PSB067	[si è sbattuto qui]
 PSB005	il giorno prima di partire per le vacanze
 PSB005	ha sal~ è salito sulla scala avete presente la scala che si a~ [quelle sca]le che si usano in c[asa]
 PSB067	[sì]
-PSB067	[sì] sì [due {P} due $scale]tti
+PSB067	[sì] sì [due (.) due $scale]tti
 PSB066	[sì sì sì eh]
 PSB005	una scaletta
 PSB066	tre scale~ [sì]
-PSB005	[ecco] lui l'ha aperta ma non del tutto {P} un po'
+PSB005	[ecco] lui l'ha aperta ma non del tutto (.) un po'
 PSB005	quindi è salito
-PSB005	e {P} la scala si è [aperta] e lui è caduto
+PSB005	e (.) la scala si è [aperta] e lui è caduto
 PSB067	[s'è aper~]
 PSB067	u[:h]
 PSB005	[e si è] rotto il braccio
-PSB005	e {P} quasi non sono partiti per le vacanze poi ce l'hanno fatta però mia mamma lo voleva uccidere
+PSB005	e (.) quasi non sono partiti per le vacanze poi ce l'hanno fatta però mia mamma lo voleva uccidere
 PSB005	era arrabbiatissima
-PSB066	{ride}
+PSB066	((ride))
 PSB005	lo [voleva xx però] uccidere
 PSB067	[xx sono andata con lui]
 PSB067	non [sono andata con]lui ha detto col tuo ami[co]
 PSB005	[sì eh]
-PSB066	[col] suo amico sì {ride}
+PSB066	[col] suo amico sì ((ride))
 PSB067	poi è arrivato oggi il giorno dopo il terzo giorno
 PSB067	aveva [la mano tutta gonfia]
 PSB005	[almeno due giorni]
-PSB066	[almeno due giorni ha fatto bene] {ride}
+PSB066	[almeno due giorni ha fatto bene] ((ride))
 PSB005	[almeno due giorni li ha fatti]
 PSB067	[aveva la mano] tutta gonfia che ho detto vai al pronto soc[corso no] se vado al pronto soccorso mi gessano [e poi] come faccio
 PSB005	[eh sì]
@@ -2130,43 +2130,43 @@ PSB067	perché hanno messo per un mesi poi l'hanno rimesso di nuovo, poi l'hanno
 PSB067	poi l'hanno tolto e ha avuto: l'algostrofia
 PSB005	m:h
 PSB066	le mani
-PSB005	[una] parola orribile non l'ho mai [senti]ta {ride}
+PSB005	[una] parola orribile non l'ho mai [senti]ta ((ride))
 PSB067	[poi]
 PSB067	[sì]
-PSB066	{ride}
+PSB066	((ride))
 PSB067	non l'hai mai sen~ non l'hai mai sentita l'algostrofia?
 PSB005	°no°
 PSB067	è una malattia che si prende quando: il nervo rimane co[sì]
 PSB005	[ah] sì
-PSB067	adesso mio marito non riesce a fare così {P} fa solo qua
+PSB067	adesso mio marito non riesce a fare così (.) fa solo qua
 PSB005	oh no:
 PSB066	è bloccato
 PSB005	ma [ed è solo caduto in] bicicletta
 PSB066	[(bloccato)]
 PSB067	sì sì
-PSB005	c(io)è {ride} ma verame[nte],
+PSB005	c(io)è ((ride)) ma verame[nte],
 PSB067	[sì però] se uno non è pratico è inutile [xxx]
 PSB005	[eh no certo] infatti
-PSB005	e [lavorava no], non riusciva neanche a lavorare {P} o sì?
+PSB005	e [lavorava no], non riusciva neanche a lavorare (.) o sì?
 PSB067	[(ma anche per)]
-PSB067	no no non lavorava {P} è stato a casa sei mesi [da lavoro]
+PSB067	no no non lavorava (.) è stato a casa sei mesi [da lavoro]
 PSB005	[o dio mi]o:
 PSB066	[xx]
 PSB005	[era insopportabile]
-PSB067	io sono andata venti giorni in marocco {ride} °l'ho lasciato [a casa°]
+PSB067	io sono andata venti giorni in marocco ((ride)) °l'ho lasciato [a casa°]
 PSB005	[eh infatti]
 PSB067	no no n[o]
-PSB005	[i]o {P} io non xx {ride}
+PSB005	[i]o (.) io non xx ((ride))
 PSB067	no no no
 PSB067	devi fare tutto te
 PSB005	no io per fortuna: non: non mi sono fatta mai male:
 PSB067	nemmeno io
 PSB066	ma nemmeno io
-PSB066	andavamo a vedere xx [noi facciamo] {ride}
+PSB066	andavamo a vedere xx [noi facciamo] ((ride))
 PSB005	[tocchiamo ferro]
 PSB005	noi facciamo così
 PSB066	anche voi? anche n[oi]
-PSB005	[fe]rro sì fer[ro {P} ferro]
+PSB005	[fe]rro sì fer[ro (.) ferro]
 PSB067	[anche noi ferro]
 PSB066	ah ferro sì
 PSB067	shkīkū
@@ -2178,7 +2178,7 @@ PSB005	sì sì
 PSB067	no io no
 PSB066	no:
 PSB066	ṣāfī nmshīwā
-PSB066	io va~ io vado in [vacanza] {ride}
+PSB066	io va~ io vado in [vacanza] ((ride))
 PSB069	[xx]
 PSB067	certo
 PSB005	è tardi?
@@ -2187,7 +2187,7 @@ PSB005	sì [sì]
 PSB066	[eh] suo figlio
 PSB069	[xx kī-jīw m3a s-sā3a sḥal fā-sā3a]
 PSB066	[lei non abita qua]
-PSB005	sì lontano {P} sì abita lontano
+PSB005	sì lontano (.) sì abita lontano
 PSB066	xx
 PSB068	ho lasciato la mia [figlia]:
 PSB067	[(mangiano con te o con]
@@ -2199,25 +2199,25 @@ PSB068	[ho lasciato a ca]sa [da sola]
 PSB005	[sì sì]
 PSB005	°vediamo un momento qui°
 PSB005	un momento
-PSB005	{registrazione_interrotta}
-PSB005	xx ecco e:hm quindi {P} anche tu fai la casalinga no?
+PSB005	((registrazione_interrotta))
+PSB005	xx ecco e:hm quindi (.) anche tu fai la casalinga no?
 PSB067	no no
 PSB005	no
-PSB005	[lavori] {P} lavori
+PSB005	[lavori] (.) lavori
 PSB067	[assolutamente no]
-PSB066	{ride}
+PSB066	((ride))
 PSB067	operaia
 PSB005	[operaia] okay
 PSB067	[operaia]
 PSB067	°operaia°
-PSB005	scusate mi confondo perché siete in troppe {ride}
-PSB067	no [no] {P} io non sto mai a casa
+PSB005	scusate mi confondo perché siete in troppe ((ride))
+PSB067	no [no] (.) io non sto mai a casa
 PSB005	[°okay°]
 PSB067	perché non mi [piace] so[no abituata] con i soldi
 PSB005	[sì]
 PSB005	[okay]
-PSB067	{ride}
-PSB066	{ride}
+PSB067	((ride))
+PSB066	((ride))
 PSB005	ma da tanto fai c(io)è da sempre [lavori:]
 PSB067	[sì da sempre] ho lavorato io
 PSB005	okay
@@ -2234,8 +2234,8 @@ PSB067	ho fatto l'università ho fatto quattro anni
 PSB067	però ho fatto l'università privata
 PSB005	beh vabbè è lo stesso è valido lo: [stesso]
 PSB067	[sì]
-PSB005	quindi {P} scrivo [laureata sì]
-PSB067	[comunicazione] {P} comunicazione #entreprise {P} [nazionale e inter]nazionale
+PSB005	quindi (.) scrivo [laureata sì]
+PSB067	[comunicazione] (.) comunicazione #entreprise (.) [nazionale e inter]nazionale
 PSB005	[a:h]
 PSB067	perciò io co[nosco]
 PSB066	[sì sì] bravissi[ma]
@@ -2243,7 +2243,7 @@ PSB005	[dove] hai fatto l'universita?
 PSB067	in marocco
 PSB005	°ah okay okay°
 PSB067	non è un non è tipo non è universi~ è un: instituto:
-PSB067	superiore della del {P} lo dico in france[se]
+PSB067	superiore della del (.) lo dico in france[se]
 PSB005	[sì] dimmi
 PSB067	institut supérieur d'informatique et de gestion
 PSB005	ah okay
@@ -2262,7 +2262,7 @@ PSB005	ok[ay]
 PSB067	[perché] quel g~ quella volta lì s~ siam~ eravamo obbligati di farlo in arabo
 PSB067	perché noi usiamo il #clavier in a~ in francese e non lo sappiamo usare in arabo
 PSB066	si:
-PSB067	capito {P} ho dovuto fare un anno dell'arabo
+PSB067	capito (.) ho dovuto fare un anno dell'arabo
 PSB067	è difficilissimo
 PSB067	è difficilissimo pensavo che niente però è difficile
 PSB067	troppo difficile
@@ -2275,7 +2275,7 @@ PSB005	[in arabo sì]
 PSB005	[sì]
 PSB005	no
 PSB005	okay
-PSB067	no {P} la verità no
+PSB067	no (.) la verità no
 PSB005	mh
 PSB067	non so neanche parlare l'ita~ il francese adesso
 PSB005	m:h insomma:
@@ -2283,12 +2283,12 @@ PSB067	perché il vocabolario c'è
 PSB067	però l'accento che se n'è andato via
 PSB005	ma beh ma l'accento c(io)è
 PSB005	[io: e: è impossi]bile io quando ho finito la: la laurea magistrale parlavo come la regina d'inghilterra
-PSB067	[per parlare] {ride}
-PSB005	in inglese {P} [benissimo]
+PSB067	[per parlare] ((ride))
+PSB005	in inglese (.) [benissimo]
 PSB067	[sì:]
 PSB005	dopo un mese
 PSB066	a:h
-PSB005	mi è già tornato l'accento italiano c(io)è {ride}
+PSB005	mi è già tornato l'accento italiano c(io)è ((ride))
 PSB067	sì ma è [proprio quel]lo il problema perché noi qua in italia non usiamo il franc[ese]
 PSB005	[°sì°]
 PSB005	[eh cer]to
@@ -2315,12 +2315,12 @@ PSB005	no non lo so
 PSB066	solo per ar:- [per:]
 PSB067	[per imparare] l'inglese [livello] a, bi[:]
 PSB066	[xx]
-PSB005	[c(io)è] tipo un accademia di [inglese {P} sì]
+PSB005	[c(io)è] tipo un accademia di [inglese (.) sì]
 PSB067	[un'accademia di ingle]se però xx per l'america
 PSB067	un' #american #ho[use]
 PSB066	[era proprio con canada] e america questa: questa
 PSB005	[sì okay sì]
-PSB067	[sì perché] io ho fatto due anni {P} con mio papà pagava
+PSB067	[sì perché] io ho fatto due anni (.) con mio papà pagava
 PSB066	sì è [tanto]
 PSB067	[io non ave]vo neanche il dubbio di venire in italia
 PSB005	mh
@@ -2332,7 +2332,7 @@ PSB067	[vai] all'università e poi: solamente qua sono due università
 PSB067	parlare in italiano e che io non capisco niente
 PSB067	e poi non è che hanno spiegato che devo andare in marocco, a tradurre i documenti [xx]
 PSB066	[no no]
-PSB067	ma tu: sei straniera non puoi venire {P} a foggia
+PSB067	ma tu: sei straniera non puoi venire (.) a foggia
 PSB067	xx
 PSB005	[ciao]
 PSB067	[ciao] grazie
@@ -2345,24 +2345,24 @@ PSB067	non c'è xx
 PSB067	sono abituata a stare qua
 PSB068	xx
 PSB067	ah okay
-PSB066	{ride}
-PSB005	{ride}
+PSB066	((ride))
+PSB005	((ride))
 PSB066	anche sol[di: una famiglia:]
 PSB069	[fai lavoro fai lavoro]
 PSB067	[manca] anche i soldi sì
-PSB005	{ride}
+PSB005	((ride))
 PSB067	mancano i soldi
-PSB066	xx {ride}
+PSB066	xx ((ride))
 PSB005	ciao: cia[o:]
 PSB066	[xx]xx
 PSB005	ciao
 PSB005	ehm:
 PSB067	e poi niente
 PSB005	e com'è il lavoro?
-PSB067	lavoro qua {P} come s~ ormai sono abitutata basta che non sto a casa
+PSB067	lavoro qua (.) come s~ ormai sono abitutata basta che non sto a casa
 PSB067	sono abituata a lavorare, parlare, discutere
 PSB067	e [poi niente]
-PSB066	[uscire] {ride}
+PSB066	[uscire] ((ride))
 PSB067	uscire: perché io mi piace uscire
 PSB005	ma hai tempo per seguire la scuola lo stesso?
 PSB067	(sto [qua)]
@@ -2370,11 +2370,11 @@ PSB005	[col la]voro sì?
 PSB067	sì sì
 PSB067	c'è bisogno di: di organizzarmi e basta perché non sono quel tipo che esce e sabato e domenica no raramente che esco sabato e domenica
 PSB005	mh[mh]
-PSB067	[non s]ono: se io devo uscire devo uscire proprio {P} uscire
-PSB067	non devo uscire andare al coop e qulle lì {P} quelle lì va[do durante la] settimana e basta
+PSB067	[non s]ono: se io devo uscire devo uscire proprio (.) uscire
+PSB067	non devo uscire andare al coop e qulle lì (.) quelle lì va[do durante la] settimana e basta
 PSB066	[vai in giro]
 PSB005	mhmh
-PSB067	devo fare la spesa e poi: {P} ma durante il sabato e domenica preferisco di stare in casa e poi
+PSB067	devo fare la spesa e poi: (.) ma durante il sabato e domenica preferisco di stare in casa e poi
 PSB067	insegno ai bambini
 PSB005	mh
 PSB005	ma sono bravi?
@@ -2385,16 +2385,16 @@ PSB067	che i genitori che hanno:
 PSB067	sì ma non devo dire [così]
 PSB066	[che hanno la]vo[rato]
 PSB067	[n]on voglio]no studiare e: imparare due volte
-PSB066	fi[gli bravi bravi] {P} pia[ce]
+PSB066	fi[gli bravi bravi] (.) pia[ce]
 PSB067	[però sono: xx]
 PSB067	[sono ma]rocchini ma ha un'altra mentalità
 PSB067	noi siamo che siamo vissuti in una città grande
-PSB067	è diverso da quelli che sono {P} vissuti nei villaggi
+PSB067	è diverso da quelli che sono (.) vissuti nei villaggi
 PSB066	xx
 PSB067	siamo xx
 PSB005	mh quindi ci sono delle diver~ dif[feren]ze [all'interno del]
 PSB066	[sì]
-PSB067	[all'interno] {P} [due] due due linee: parallele che non si incontrano mai
+PSB067	[all'interno] (.) [due] due due linee: parallele che non si incontrano mai
 PSB066	[anche (livello)]
 PSB005	mhmh
 PSB067	così
@@ -2402,8 +2402,8 @@ PSB005	okay
 PSB067	però i bambini:
 PSB067	vabbè sono un po' vivace
 PSB005	mh
-PSB067	ci sono pure i bambini che sono maleducati {P} vengono e dicono tutte le parolacce
-PSB005	{ride} e vabbè
+PSB067	ci sono pure i bambini che sono maleducati (.) vengono e dicono tutte le parolacce
+PSB005	((ride)) e vabbè
 PSB005	[ma vengono] solo bambine femmine no? [sì]?
 PSB066	[sì:]
 PSB067	[no]:
@@ -2412,56 +2412,56 @@ PSB067	maschi e femmine
 PSB066	ma[schi]
 PSB005	[ma perché] quando siete venute la~ al dipartimento
 PSB005	mi sembravano [solo femmine]
-PSB067	[solo femmine] {P} perché se io [portavo i maschi]
+PSB067	[solo femmine] (.) perché se io [portavo i maschi]
 PSB066	[a:h a lavo~] sì
 PSB067	se io porto i maschi per voi sì sì cacciate noi fuori
 PSB067	perché son troppo cattii[vi]
 PSB005	[a]:h ma no[:]
 PSB067	[sì] sì sì sì sì: s:ì
-PSB066	{ride}
+PSB066	((ride))
 PSB067	come devo dire se giocano tra di loro si sbattono i pugni,
-PSB067	e invece le femminucce no {P} sono bravi, sono educati
+PSB067	e invece le femminucce no (.) sono bravi, sono educati
 PSB066	guarda [quest'anno xx]
 PSB005	[quindi le avete proprio scelte per venire]
 PSB067	scelte noi:
 PSB005	[a::h]
-PSB066	[queste: un'altra {P} c'è] femmine e maschi guarda
+PSB066	[queste: un'altra (.) c'è] femmine e maschi guarda
 PSB005	°sì sì°
 PSB067	poi quando siamo andati nel museo egiziano siamo andati mas[chi e femmine]
-PSB066	[guarda] {P} abbiamo [portato cola]zio[ne:]
+PSB066	[guarda] (.) abbiamo [portato cola]zio[ne:]
 PSB005	[okay]
 PSB067	[questi sia]mo noi
-PSB005	ma potevate portare anche i maschi {ride}
-PSB005	noi: conosciamo i bambini sappiamo che i bambini sono così {ride}
+PSB005	ma potevate portare anche i maschi ((ride))
+PSB005	noi: conosciamo i bambini sappiamo che i bambini sono così ((ride))
 PSB066	questo museo
 PSB005	mh okay
 PSB066	l'altra volta [sì]
-PSB005	[sì] {P} sì sì
+PSB005	[sì] (.) sì sì
 PSB005	mi ricordo questa bambina:
 PSB005	che ha cantato il ver[setto]
 PSB067	eh
-PSB066	sì: {ride}
+PSB066	sì: ((ride))
 PSB066	che ha letto un corano
 PSB005	sì sì
 PSB005	[molto bello]
-PSB067	[ci sono rimasta] {P} ci sono rimasta ho detto per loro non parlate niente dell'islam
+PSB067	[ci sono rimasta] (.) ci sono rimasta ho detto per loro non parlate niente dell'islam
 PSB067	dovete parlare solo dell'arabo
-PSB066	{ride}
+PSB066	((ride))
 PSB067	sì sì [va bene]
 PSB005	[ma no]: perché:? invece ha fatto bene è stato bellissi[mo secon]do [me:]
-PSB066	[sì] {ride}
+PSB066	[sì] ((ride))
 PSB067	[no lei mi ha de]tto ma ma la professoressa che ha scritto il libro [xx] devo continuare anch'io
-PSB066	[xx] {ride}
-PSB066	{ride} [sì]
+PSB066	[xx] ((ride))
+PSB066	((ride)) [sì]
 PSB005	ha ragione in[fatti:] ma no: lo sappi[amo]
 PSB067	[si ma io] non pensavo che la professoressa scriveva i: i ver[setti]
 PSB005	[e inve]ce [sì]
 PSB067	[pensavo] che in arabo normale
-PSB005	beh no però secondo me adesso io non lo so perché io non ho mai studiato arabo quindi non lo so però credo che il contatto {P} cioè il legame con il corano
+PSB005	beh no però secondo me adesso io non lo so perché io non ho mai studiato arabo quindi non lo so però credo che il contatto (.) cioè il legame con il corano
 PSB067	sì sì perché la lingua del corano [è xx] [è quella:] proprio è l~ la lingua [giusta che xx nel corano]
 PSB005	[e:h]
 PSB066	[brava]
-PSB005	[eh certo quindi secondo me] anche all'università che non c'entra niente con la religione però comunque non puoi {P} non puoi ignorare
+PSB005	[eh certo quindi secondo me] anche all'università che non c'entra niente con la religione però comunque non puoi (.) non puoi ignorare
 PSB005	questo legame: anche in un ambiente come l'università secondo [me:]
 PSB067	[sì sì però] però
 PSB067	io l'ho detto però comunque lei l'ha fatto per [xx]
@@ -2484,14 +2484,14 @@ PSB005	dai ci xx
 PSB005	ah beh [vabbè]
 PSB066	[sì ho fa]tto [male]
 PSB067	[chiudiamo]
-PSB005	no vabbe {P} tanto
+PSB005	no vabbe (.) tanto
 PSB005	poi io penso che fra:
-PSB005	forse devo andare {P} [dovrei andare] sì
+PSB005	forse devo andare (.) [dovrei andare] sì
 PSB066	[sì eh]
-PSB005	perché {P} ci metto quarantacinque minuti a [arrivare a ca]sa
+PSB005	perché (.) ci metto quarantacinque minuti a [arrivare a ca]sa
 PSB066	[a:h]
 PSB067	ma abiti al centro di bologna?
-PSB005	eh no abito: in zona {P} mazzini emilia: levante
+PSB005	eh no abito: in zona (.) mazzini emilia: levante
 PSB067	okay
 PSB005	che è:
 PSB005	come faccio a spie~
@@ -2507,7 +2507,7 @@ PSB066	[castel]maggi[ore no]?
 PSB005	[vicino a~] no non castelmaggiore no
 PSB066	no è castel~
 PSB005	vicino a san lazzaro abito la zona [vicino a san lazzaro]
-PSB067	[a:h xx dicevi] {P} dove c'è il: coop di: san lazzaro {P} no?
+PSB067	[a:h xx dicevi] (.) dove c'è il: coop di: san lazzaro (.) no?
 PSB005	di san ruf:filo no
 PSB067	più o meno è cosi no eh di: aspetta come si chiama
 PSB005	e[:h]
@@ -2518,34 +2518,34 @@ PSB005	è la zona est di bologna comunque
 PSB067	ah okay
 PSB005	sì
 PSB067	vicino a roveri no?
-PSB005	eh e~ sì {P} esatto esatto {P} quello è il lato della città però io abito un po' più vicino al centro rispetto alle roveri che sono: più fuori {P} [più in periferia sì]
+PSB005	eh e~ sì (.) esatto esatto (.) quello è il lato della città però io abito un po' più vicino al centro rispetto alle roveri che sono: più fuori (.) [più in periferia sì]
 PSB066	[più fuori sì sei:] [davanti]
 PSB067	[non è dopo dopo] il ponte?
-PSB005	eh sì dopo il ponte sì {P} ma poco
+PSB005	eh sì dopo il ponte sì (.) ma poco
 PSB005	poco dopo il abbastanza vicino al al:
 PSB005	al ponte insomma no~ non abito in centro città
 PSB067	xx
 PSB066	e: [e no]
 PSB067	[che pri]ma [di venire del] marocco?
 PSB066	[a:h]
-PSB066	ah prima di venire del marocco ero: un {ride}
+PSB066	ah prima di venire del marocco ero: un ((ride))
 PSB066	sì s:ì e:h
-PSB066	su~ mh no è studia imparare il: l: {P} come: come fare: l: vestite come: mode~
+PSB066	su~ mh no è studia imparare il: l: (.) come: come fare: l: vestite come: mode~
 PSB005	modell[ista sì sì sì]
 PSB066	[modellista sì:] sì:
 PSB066	an[cona:] una scuola
 PSB067	[con sua sorella]
 PSB066	con mia sorella insieme sì
-PSB005	e sei ancora {P} fai ancora {P} qualcosa
+PSB005	e sei ancora (.) fai ancora (.) qualcosa
 PSB066	adesso [io qua]?
 PSB005	[in casa] sì
 PSB066	qua non c'è: la gente che:
 PSB005	ma per te?
 PSB066	per me sì
-PSB066	si faccio: tante cose anche per xx anche per me {P} anche per xx sì
+PSB066	si faccio: tante cose anche per xx anche per me (.) anche per xx sì
 PSB066	e faccio anche #céramique [non so come]
 PSB067	[fa il #céramique]
-PSB005	[sì sì] cera[mica sì] {P} [ceramica]
+PSB005	[sì sì] cera[mica sì] (.) [ceramica]
 PSB066	ceramica
 PSB066	[sì faccio a]nche queste:
 PSB067	no no ma è brava
@@ -2564,16 +2564,16 @@ PSB066	[ma no marocco brava sì]
 PSB067	[si ma qua se de~ se deve fare qualcosa] paga le tasse
 PSB066	sì
 PSB005	sì e sono care qui [eh]
-PSB067	[xx] {P} mamma mi:a
+PSB067	[xx] (.) mamma mi:a
 PSB005	eh l[o so]
 PSB066	[fatti da]re [sì:]
-PSB005	[bisogna tenere] i prezzi alti {ride} [sì]
-PSB067	sì [ma] {P} eh [per chi deve ve]nire di prendere prezzi alti?
+PSB005	[bisogna tenere] i prezzi alti ((ride)) [sì]
+PSB067	sì [ma] (.) eh [per chi deve ve]nire di prendere prezzi alti?
 PSB005	[sì sì]
 PSB005	e[:h infatti]
-PSB066	[per fare un vestito per] una signora o: no ti danno: {P} no ti danno bene
+PSB066	[per fare un vestito per] una signora o: no ti danno: (.) no ti danno bene
 PSB066	e:
-PSB005	io io non sono es[perta devo dire] {P} vi devo dire che non
+PSB005	io io non sono es[perta devo dire] (.) vi devo dire che non
 PSB066	[sì sì sì sì]
 PSB066	si chiama la #haute #couture [la #haute #couture la o~]
 PSB005	[a:h sì: sì s]ì
@@ -2583,17 +2583,17 @@ PSB067	e:h
 PSB005	sì sì sì
 PSB067	tieni copri i pie[di]
 PSB005	[no] no ma tanto
-PSB066	{ride}
-PSB005	niente niente tanto [adesso {P} dev][o andare]
+PSB066	((ride))
+PSB005	niente niente tanto [adesso (.) dev][o andare]
 PSB066	no tiene:
 PSB067	[tieni tieni co]pri copri co[pri]
 PSB005	[ma tanto] adesso va~
 PSB066	grazie [xx]
-PSB005	[non ti preoccupare] {P} davvero non ti preoccupare adesso devo andare perché
-PSB066	m:h {ride}
-PSB066	okay {ride}
+PSB005	[non ti preoccupare] (.) davvero non ti preoccupare adesso devo andare perché
+PSB066	m:h ((ride))
+PSB066	okay ((ride))
 PSB005	sì sì sì
 PSB067	e[: purtroppo: se] hai bisgono di qualcos'altra[:]
 PSB005	[è un po' tardi]
 PSB066	[sì]
-PSB005	ma io posso venire aspetta spegniamo tanto {P} abbiamo re~
+PSB005	ma io posso venire aspetta spegniamo tanto (.) abbiamo re~

@@ -111,7 +111,7 @@ PSB153	eh sì
 PSB153	però eh no eh
 PSB146	come no
 PSB147	normale
-PSB153	normale però io parlo tanto
+PSB153	ride normale però io parlo tanto
 PSB146	in generale
 PSB153	sì in generale parlare tanto
 PSB147	è in generale in generale è in generale
@@ -1321,7 +1321,7 @@ PSB146	tre anni
 PSB147	tre anni
 PSB146	e poi cinque
 PSB147	no
-PSB153	la lingua no
+PSB153	schiocca la lingua no
 PSB146	per quanti
 PSB147	no
 PSB153	solo tre

@@ -26,7 +26,7 @@ PSB005	[mhmh]
 PSB005	mhmh
 PSB005	ma hai vissuto anche in città
 PSB005	e poi hai deciso di spostarti[: fuori]?
-PSB017	[sì sì] sì sì {P} sì
+PSB017	[sì sì] sì sì (.) sì
 PSB017	prima abitavo qui in città::: vicino al centro
 PSB017	poi
 PSB017	sai com'è e:::h
@@ -40,7 +40,7 @@ PSB005	[mhmh]
 PSB005	mhmh
 PSB005	certa[me]nte
 PSB017	[sì]
-PSB005	c'è più spazio {P} è più ver[de:::]
+PSB005	c'è più spazio (.) è più ver[de:::]
 PSB017	[sì più spa]zio più verdi:::
 PSB017	e:h più che altro per i bimbi quando è piccoli qua per gli spostamenti per trovare (gli stadi) per le attività:
 PSB017	m:h mi sono scelto di uscirmi fuori bologna però intorno a bolo(gna) son::: venti chilometri da bologna [mi se]mbra (sotto) bologna
@@ -82,19 +82,19 @@ PSB005	certo certo
 PSB025	però devi dire anche la verità (xxx)
 PSB005	qual'è la verità? (ciao)
 PSB017	qual è la veri[tà]
-PSB025	[era venuto] con {P} con cammello adesso sta girando con
+PSB025	[era venuto] con (.) con cammello adesso sta girando con
 PSB017	con che cosa
 PSB025	[con la range rover]
 ???	[con la macchina]
-PSB017	no è sbagliato sono venuto con {P} col gommone
-PSB005	{ride}
+PSB017	no è sbagliato sono venuto con (.) col gommone
+PSB005	((ride))
 PSB025	°ah bravo°
 PSB017	a dirti la verità col gommone #xū:ya
 PSB017	mi sono mi sono mi sono e:::h
 PSB017	mi sono trovato a lampedusa
 PSB017	poi da quelli li ho vissuto bari foggia roma poi arrivato a bologna
 PSB017	non come te sei arrivato col cammello direttamente qua a bologna
-PSB005	{ride}
+PSB005	((ride))
 PSB025	fatto bene
 PSB017	mh
 PSB005	e come ti sei trovato a foggia e bari?
@@ -196,9 +196,9 @@ PSB005	[sì] mh è venuto questo
 PSB005	freddo: incredibile [ma: sì]
 PSB017	[e:h va be]ni
 PSB005	sì sì [certamente]
-PSB017	[meglio meglio] arriva il caldo pure {P} [come è arrivato il caldo]
+PSB017	[meglio meglio] arriva il caldo pure (.) [come è arrivato il caldo]
 PSB005	[no è (vero)]
-PSB017	{ride} [almeno]
+PSB017	((ride)) [almeno]
 PSB005	[sì sì sì sì sì]
 PSB017	freddo la pioggia arriva pure il caldo
 PSB017	ma è un buon segno che sarà una primavera spettacolare
@@ -208,7 +208,7 @@ PSB005	[speriamo]
 PSB005	io di solito ero abituata che per il venticinque aprile andavo in via del pratello
 PSB005	con la maglietta a maniche corte a bere con i miei ami[ci]
 PSB017	[(a:h] ci [due spe-)]
-PSB005	[quest'anno] invece {ride}
+PSB005	[quest'anno] invece ((ride))
 PSB017	[c'è d]a [aspettare] altri quindici giorn[i]
 PSB005	[mi sa °che non°]
 PSB005	[mi sa] che bisogna rimanda[re] più avanti
@@ -241,7 +241,7 @@ PSB005	[sempre] quindi voi due magari parl[ate:]
 PSB017	[la mia moglie]
 PSB005	moglie okay
 PSB017	mh
-PSB005	e non lo so {ride}
+PSB005	e non lo so ((ride))
 PSB005	eh magari voi due parlate più marocchino:
 PSB005	e invece con i bambini parlate più italiano [>oppure<]
 PSB017	[tra di] noi marocchino a dirti la verità
@@ -265,7 +265,7 @@ PSB017	sì sì certo
 PSB005	eh [ma prego pre]go
 PSB017	[(eh de)]
 PSB005	io
-???	{registrazione_interrotta}
+???	((registrazione_interrotta))
 PSB005	a:h rico- ri- ri- riproviamo
 PSB005	e:hm
 PSB005	no stavamo dicendo che quando c'è da parlare dei compiti
@@ -308,7 +308,7 @@ PSB017	io (c'era) tengo
 PSB017	bene con la vita quotidiana e:::h
 PSB017	nell'ambito del lavoro ti ti ti ti
 PSB017	tanto arrivi con la difficoltà e col bisogno d'imparare
-PSB017	come che e:::h {P} come tutti le altre lingue ci dai un po' l'ascolta
+PSB017	come che e:::h (.) come tutti le altre lingue ci dai un po' l'ascolta
 PSB017	e:::h
 PSB017	e nell'ambito del lavoro qualcosa ci deve prendere per per capirci
 PSB017	come devi muovere e basta anche per la vita quotidiana dico
@@ -351,7 +351,7 @@ PSB017	molto importante
 PSB017	che ti aiuta molto nel nel futuro qui in italia e t[utto]
 PSB005	[mhmh]
 PSB017	proprio sulla documentazione
-PSB005	ma te lo chiedono tipo {P} per cercare lavoro::,
+PSB005	ma te lo chiedono tipo (.) per cercare lavoro::,
 PSB017	si::: [(io:)]
 PSB005	[non la so io] questa cosa (°non°)
 PSB017	no per cercare lavoro
@@ -391,7 +391,7 @@ PSB005	certo sì [sì sì]
 PSB017	[non dico] parlo raffinato perfetto per[°ò°]
 PSB005	[no] ma invece
 PSB017	però [qualco]sina sì [per difende]rti per farti::
-PSB005	[sì::] {ride}
+PSB005	[sì::] ((ride))
 PSB005	[sì sì sì sì]
 PSB017	e:h vivere qua
 PSB017	per forza
@@ -410,10 +410,10 @@ PSB005	ok[ay]
 PSB017	[an]davo bene: (p)erò
 PSB017	ero::: molto molto molto avanzato con la lingua inglese
 PSB005	o[kay okay]
-PSB017	[però quando sono] arrivato poi qua ho visto che non {ride} si parla
-PSB017	e poco: {ride}
+PSB017	[però quando sono] arrivato poi qua ho visto che non ((ride)) si parla
+PSB017	e poco: ((ride))
 PSB017	(nessuno) ho lasciato ho preso::
-PSB005	c(io)è tu hai [provavi] {P} provavi a usare l'in[glese ma non]
+PSB005	c(io)è tu hai [provavi] (.) provavi a usare l'in[glese ma non]
 PSB017	[(la) decisione] [si si provavo] [proprio] nien[te]
 PSB005	[no]?
 PSB017	proprio nell'ambiti di lavoro dove c'è
@@ -433,7 +433,7 @@ PSB005	[mhmh mh]
 PSB005	mhmh
 PSB005	si si certo
 PSB005	no ma ehm:
-PSB005	secondo me parli perfettamente {ride}
+PSB005	secondo me parli perfettamente ((ride))
 PSB005	a dir la verità quindi::
 PSB017	mh
 PSB005	invece con altri:
@@ -459,7 +459,7 @@ PSB005	perché per me: è molto particolare questa situazione
 PSB005	perché per me l'italiano si parla solo in italia no
 PSB005	quindi se c'è qualcuno di un altro paese è difficile che io possa parlare in italiano no?
 PSB017	mh
-PSB005	invece {P} ho capito che
+PSB005	invece (.) ho capito che
 PSB005	ci sono diversi paesi tipo per esempio::
 PSB005	tunisia: egitto
 PSB005	che
@@ -475,7 +475,7 @@ PSB017	si ma ci sono i pakistani bangladesh eh e:::h romania, ucraina tutto il m
 PSB005	[tu- e parla]te in italiano
 PSB005	e di solito parlano bene italiano o- o
 PSB017	dipende dipende dal la loro::: o:h l:oro::::
-PSB017	tempo {P} che ci sono stati qua o vissuto qua [in ita]lia
+PSB017	tempo (.) che ci sono stati qua o vissuto qua [in ita]lia
 PSB005	[certo]
 PSB005	sì sì sì certo
 PSB005	eh ho visto
@@ -505,7 +505,7 @@ PSB017	anche quando eravamo fuori bologna due anni che sono stato fuori bologna
 PSB005	mhmh
 PSB017	°ma se:° fatto sempre questa mansione qua
 PSB005	okay okay
-PSB005	ma {P} quando tu sei arrivato in italia
+PSB005	ma (.) quando tu sei arrivato in italia
 PSB017	sì
 PSB005	te la aspettavi così?
 PSB005	o:
@@ -515,13 +515,13 @@ PSB017	delle:: e::h
 PSB017	la verità a::h
 PSB017	aspettavo così
 PSB005	ah o[kay]
-PSB017	[sul no]rd così su sud non aspettava perché lì {ride} è troppo proprio:::
+PSB017	[sul no]rd così su sud non aspettava perché lì ((ride)) è troppo proprio:::
 PSB005	che cosa?
 PSB017	ancora indietro
 PSB005	mh
 PSB005	ti[po per] che cosa?
 PSB017	[(troppe) che]
-PSB017	ba::h sono andato a abitare lì a salerno fuori salerno {P} non ci sono i mezzi pubblici di trasporto
+PSB017	ba::h sono andato a abitare lì a salerno fuori salerno (.) non ci sono i mezzi pubblici di trasporto
 PSB017	e:::h e:::::::::::::h
 PSB017	fai fatica anche a raggiungere posto di lavoro
 PSB017	ci dev(e) essere automunito ma come fai appena sei arrivato come fai
@@ -574,7 +574,7 @@ PSB017	ogni momento ogni occasione ogni giorno gli stranieri
 PSB017	a scaricare tutta la
 PSB017	la la la la
 PSB017	la $malanda il mala- $malevata
-PSB017	l'italia {P} [li sca]ricano sugli stranieri
+PSB017	l'italia (.) [li sca]ricano sugli stranieri
 PSB005	[mhmh]
 PSB005	mhmh
 PSB017	ma non è giusto
@@ -633,7 +633,7 @@ PSB025	se una ha lavorato esempio cinque anni
 PSB025	lavorava
 PSB025	arriva u- un un certo pu[nto]
 ???	[(sì)] tredici c'era anche
-PSB025	perde lavoro {P} ok[ay]
+PSB025	perde lavoro (.) ok[ay]
 PSB005	[mh] mh
 PSB025	licenziato::: l'azienda ha fallita non lo so comunque
 PSB025	dopo quella persona non riesce più a pagare l'affitto
@@ -723,7 +723,7 @@ PSB025	(con- on) nord africano
 PSB025	come un criminale okay
 PSB025	io [sono venu]to qua per
 PSB017	[non tutti]
-PSB025	dare un esempio {P} a quell'italiano ignorante
+PSB025	dare un esempio (.) a quell'italiano ignorante
 PSB025	io [sono qua a lavo]rare
 PSB005	[ce ne sono molti]?
 PSB025	ah?
@@ -736,7 +736,7 @@ PSB025	e quello
 PSB025	e:h sta
 PSB025	sporcando la mia faccia hai capito?
 PSB017	xallī-ni nsāli bāsh nmshi
-PSB017	dopo fai l'intervento tuo {P} sono già a posto?
+PSB017	dopo fai l'intervento tuo (.) sono già a posto?
 PSB017	posso?
 PSB017	shədd-na hnāya ta-dxul w-ddīr l-intervista dyāl-ək [nta māl(-ək)?]
 PSB025	[già fa]tto io

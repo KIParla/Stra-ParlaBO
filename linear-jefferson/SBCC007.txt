@@ -1,6 +1,6 @@
 PSB113	stanis quanto ha f~ interpretato totti?
 PSB114	°non l'ha fatto°
-PSB113	allora {P} perché deve incontrare totti?
+PSB113	allora (.) perché deve incontrare totti?
 PSB114	non mi ricordo
 PSB113	perché a un certo punto ha detto no?
 PSB114	mhmh
@@ -9,7 +9,7 @@ PSB113	che parla del capitano capitano >ho detto< che capitano?
 PSB113	che capitano no?
 PSB113	poi ho capito
 PSB113	a:h parla di totti
-PSB113	e dice che è stato {P} to~ totti no?
+PSB113	e dice che è stato (.) to~ totti no?
 PSB114	mh
 PSB113	eh
 PSB114	°non mi ricordo quando l'ha fatto°
@@ -19,16 +19,16 @@ PSB114	sermonti
 PSB113	ah?
 PSB114	sermonti
 PSB113	non si chiama piero sermonti
-PSB113	si chiama pietro {P} castilina tipo
+PSB113	si chiama pietro (.) castilina tipo
 PSB114	forse stavi guardando un altro:
 PSB113	un'altra per[sona]
-PSB114	[un'altra] persona {ride}
+PSB114	[un'altra] persona ((ride))
 PSB113	che si chiama pietro?
 PSB114	[°castellitto°]
 PSB113	[NO]
 PSB113	caste~ eh?
 PSB114	°castellitto°
-PSB113	castellitto è un'altra persona {ride}
+PSB113	castellitto è un'altra persona ((ride))
 PSB113	i~
 PSB113	PERÒ
 PSB113	all'inizio è sempre non mi sembra proprio sua voce
@@ -39,13 +39,13 @@ PSB113	beh
 PSB113	eh infatti mi mi s~ non mi sembra così fa ridere
 PSB113	conosci questo? invece
 PSB114	di nome
-PSB113	ah {P} [nome]
+PSB113	ah (.) [nome]
 PSB114	[°io mh°]
 PSB113	hai presente
 PSB113	ma hai ascoltato quella puntata?
 PSB114	non me la ricordo
 PSB113	playstation
-PSB113	e non mi sembra così ri~ {P} fa ridere
+PSB113	e non mi sembra così ri~ (.) fa ridere
 PSB113	playstation
 PSB113	vabbè dov'è mia cop~?
 PSB113	[copre ta]stiera
@@ -53,21 +53,21 @@ PSB114	[tu~]?
 PSB113	non trovo
 PSB113	coprire tastiera
 PSB113	adesso guardo:
-PSB113	chi: {P} ha fatto totti
-PSB113	no è tutt(o) qui {P} che {P} che diceva che::: che
+PSB113	chi: (.) ha fatto totti
+PSB113	no è tutt(o) qui (.) che (.) che diceva che::: che
 PSB113	che solo i contratti in ristorante
 PSB113	e::h
 PSB113	che s: s'è sor~
 PSB114	-preso?
 PSB113	sorpreso
-PSB113	che {P} si è mes~
+PSB113	che (.) si è mes~
 PSB113	non è nascosto
-PSB113	si è messo sede:re {P} in centro del
-PSB113	della {P} del ristorante
+PSB113	si è messo sede:re (.) in centro del
+PSB113	della (.) del ristorante
 PSB113	che si vede proprio da fuori
 PSB113	lui in dentro
 PSB113	e dice la gente: non è: neanche tanto:
-PSB113	dice la gente là è molto: {P} abituata a vederlo {ride}
+PSB113	dice la gente là è molto: (.) abituata a vederlo ((ride))
 PSB114	ma dove? a roma? nella sua zona?
 PSB113	$probiamente a roma
 PSB113	dov'è mio copri casc~ tastiera?
@@ -81,35 +81,35 @@ PSB113	<sermonti>
 PSB113	ah
 PSB113	ma guarda pure mi sono convinta:
 PSB113	è sua voce
-PSB113	adesso {P} faccio sentire se {P} così tanto diverso
-PSB113	{scrive_sul_computer} pie:tro {P} cas~ {P} te~?
+PSB113	adesso (.) faccio sentire se (.) così tanto diverso
+PSB113	((scrive_sul_computer)) pie:tro (.) cas~ (.) te~?
 PSB114	-llitto
 PSB113	-li:tto
-PSB113	e:h {P} chi è?
+PSB113	e:h (.) chi è?
 PSB113	>adesso<
 PSB113	provo a sentire quando pa:rla
-PSB113	ah tintoria {P} A:H ecco
+PSB113	ah tintoria (.) A:H ecco
 PSB113	hanno anche video
 PSB114	mhmh
 PSB113	però:
-PSB113	c(io)è {P} su tuo funziona benissimo perché su mio non funziona?
+PSB113	c(io)è (.) su tuo funziona benissimo perché su mio non funziona?
 PSB113	che cosa usi?
 PSB113	[alt proc]?
 PSB114	[xxx]
 PSB114	sì
-PSB114	con la funzione (premium) {P} sì
-???	{audio_da_video}
-PSB113	sono pure convinta {P} è sua voce
-PSB113	assomiglia a l~ {P} eh no
+PSB114	con la funzione (premium) (.) sì
+???	((audio_da_video))
+PSB113	sono pure convinta (.) è sua voce
+PSB113	assomiglia a l~ (.) eh no
 PSB113	quindi avevo ragione che
 PSB114	solo perché è romano?
 PSB113	okay
-PSB113	quindi forse un po' di accento mi: {P} mi torna
+PSB113	quindi forse un po' di accento mi: (.) mi torna
 PSB114	mh
 PSB113	adesso
 PSB113	questo fatto totti:?
-PSB113	{legge} speravo: {P} de morì prima
-???	{audio_da_video}
+PSB113	((legge)) speravo: (.) de morì prima
+???	((audio_da_video))
 PSB113	ha recitato con totti
 PSB113	vabbè quando riesco guardo
 PSB113	mh >adesso< non c'ho voglia
@@ -122,7 +122,7 @@ PSB113	non ho tanta voglia
 PSB113	grazie
 PSB114	se no la buttiamo no?
 PSB113	sì sì
-PSB113	adesso stan~ {P} è ancora buona no?
+PSB113	adesso stan~ (.) è ancora buona no?
 PSB114	sembra di sì
 PSB114	puzza
 PSB113	puzza?
@@ -134,26 +134,26 @@ PSB114	no
 PSB113	non è che ho tanta voglia è solo per finire
 PSB114	io ho zero voglia
 PSB114	°di finire il pesce°
-PSB113	ma: {P} per caso hai meno zero di voglia?
-PSB114	{tossisce} m~ m~ zero meno?
+PSB113	ma: (.) per caso hai meno zero di voglia?
+PSB114	((tossisce)) m~ m~ zero meno?
 PSB113	mh
 PSB113	si dice zero meno?
 PSB114	no
-PSB114	meno zero di voglia {P} cosa vuol dire?
-PSB113	no {P} si dice sotto zero o meno zero?
+PSB114	meno zero di voglia (.) cosa vuol dire?
+PSB113	no (.) si dice sotto zero o meno zero?
 PSB114	sotto zero
 PSB113	perché in cinese si dice sotto zero
-PSB113	oh oggi non mi è {P} non mi è venuta la parola ostetrica
-PSB113	prima non mi è venuto in mente come s~ {P} legalizzazione
+PSB113	oh oggi non mi è (.) non mi è venuta la parola ostetrica
+PSB113	prima non mi è venuto in mente come s~ (.) legalizzazione
 PSB113	non mi ricordo niente
 PSB113	eh è è preoccupante
 PSB114	ti senti preoccupata di questa cosa?
-PSB113	non lo so {P} mi sento: malata
-PSB113	non so se è {P} un~ una malattia o i mh vec~ vecchiaia
+PSB113	non lo so (.) mi sento: malata
+PSB113	non so se è (.) un~ una malattia o i mh vec~ vecchiaia
 PSB113	ma secondo te
 PSB113	è normale?
 PSB114	a me capita
-PSB113	mi capita mi capita tutti i giorni {P} non è capita
+PSB113	mi capita mi capita tutti i giorni (.) non è capita
 PSB113	(sono anda~)
 PSB113	un problema
 PSB113	mangio questo
@@ -170,7 +170,7 @@ PSB113	[svantaggio]
 PSB113	ah?
 PSB114	la juve~ sta perdendo la juventus
 PSB113	sta perdendo?
-PSB113	l'int~ è i::n {P} svantaggio no?
+PSB113	l'int~ è i::n (.) svantaggio no?
 PSB114	sì
 PSB113	e chi è questo che si chiama prato?
 PSB114	il difensore del parma
@@ -182,16 +182,16 @@ PSB114	no
 PSB114	un difensore
 PSB113	fammi vedere
 PSB113	chi: ha:
-PSB113	oh questo {P} questa cosa di frattesi s~ mi fa stare un po' male
+PSB113	oh questo (.) questa cosa di frattesi s~ mi fa stare un po' male
 PSB114	non darà neanche tanto titolari:
 PSB113	e:h vabbè io non ho guardato (titolari)
 PSB113	allora
 PSB113	hai sentito:?
-PSB113	c(io)è come hanno de~ {P} cos'hanno detto?
+PSB113	c(io)è come hanno de~ (.) cos'hanno detto?
 PSB113	la stampa
 PSB113	su: la roba
 PSB113	>che parlano del toro<
-PSB114	°mh {P} non ho sentito {P} cos'hanno detto?°
+PSB114	°mh (.) non ho sentito (.) cos'hanno detto?°
 PSB113	ah?
 PSB114	°cos'hanno detto?°
 PSB113	mh?
@@ -214,7 +214,7 @@ PSB113	s~ mh sembra preso in giro: >però< m:h >qualcosa< del genere
 PSB113	m::h ta~ ta~ ta~ come si chiama? quel me~ ma~ rivista: francese
 PSB114	mh
 PSB113	oppure
-PSB113	uefa {P} fifa
+PSB113	uefa (.) fifa
 PSB114	mh
 PSB113	ma questa cosa c'entra la fifa?
 PSB114	no è una cosa del de:l
@@ -225,11 +225,11 @@ PSB114	è il pallone d'oro che è gestita da france football e (da un altro)
 PSB114	forse si è unita con la fifa
 PSB113	eh condivide con fi[fa]
 PSB114	[for]se c'è anche la fifa
-PSB114	>perché una volta c'era< {P} il pallone d'oro,
+PSB114	>perché una volta c'era< (.) il pallone d'oro,
 PSB114	if you want to play
 PSB114	invece adesso c'è
 PSB114	°solo: il pallone d'oro°
-PSB113	adesso c'è proprio un complo~ {P} c(io)è cosa molto strana
+PSB113	adesso c'è proprio un complo~ (.) c(io)è cosa molto strana
 PSB113	lo sai vinicius? lui si è convinto anche
 PSB114	ah sì?
 PSB113	quando hanno perso contro barcellona
@@ -241,11 +241,11 @@ PSB113	cioè non è che stanno facendo
 PSB114	vabbè
 PSB113	sai
 PSB114	ha ha detto che erano:
-PSB113	veramente è convinto {P} quindi
+PSB113	veramente è convinto (.) quindi
 PSB114	ha detto che erano sull'aereo quasi
 PSB113	eh
 PSB113	quindi non è che
-PSB113	real madrid vuole {P} fare m:h
+PSB113	real madrid vuole (.) fare m:h
 PSB113	chissà cosa sulla stampa per spingere o non
 PSB113	e:h erano erano veramente convinti
 PSB114	no non c'era niente da spingere poi hanno votato settembre
@@ -253,25 +253,25 @@ PSB113	sì sì
 PSB113	hai ragione
 PSB113	e dicono
 PSB114	c'è chi diceva dopo la tripletta in champions
-PSB114	voteranno sicuramente lui {P} ma
+PSB114	voteranno sicuramente lui (.) ma
 PSB114	non è proprio po~ possibile
-PSB113	ah {P} lo sai la rivista, la stampa
+PSB113	ah (.) lo sai la rivista, la stampa
 PSB113	qualche: giornale
-PSB113	spagna hanno {P} rivelato
+PSB113	spagna hanno (.) rivelato
 PSB114	mh?
-PSB113	una lista completa {P} d(e) classifica di primi trenta
+PSB113	una lista completa (.) d(e) classifica di primi trenta
 PSB114	mh
 PSB113	è ugua:le a quella lista finale tranne i primi due
 PSB113	comunque
-PSB113	sembra che {P} real madrid ve~ sembra veramente ha ricevuto qualche messaggio
-PSB113	{inspira} di informazione
+PSB113	sembra che (.) real madrid ve~ sembra veramente ha ricevuto qualche messaggio
+PSB113	((inspira)) di informazione
 PSB113	scusa mi sembra tan~
 PSB113	non è niente
 PSB113	poi c'è un'(altra) ipotesi
 PSB114	mhmh
 PSB113	che
-PSB113	e veramente ha vinto {P} vinicius
-PSB113	ma siccome {P} questa cosa {P} è stato
+PSB113	e veramente ha vinto (.) vinicius
+PSB113	ma siccome (.) questa cosa (.) è stato
 PSB113	>diciamo< liberato e:hm
 PSB113	c(io)è non
 PSB113	no?
@@ -283,24 +283,24 @@ PSB114	si è sempre saputo prima chi vinceva
 PSB113	però sta roba veramente è un po' stran(a) no?
 PSB113	c(io)è con così sicurezza vince
 PSB113	e con così <tanto>
-PSB113	antici~ {P} anticipo
-PSB114	>però< {P} non capisco chi ha da guadagnare qualcosa
+PSB113	antici~ (.) anticipo
+PSB114	>però< (.) non capisco chi ha da guadagnare qualcosa
 PSB113	e:h
-PSB113	di sicuro vinicius {P} è stato vittima
+PSB113	di sicuro vinicius (.) è stato vittima
 PSB113	qua stanno dicendo
-PSB113	ah l'anno {P} l'anno scorso doveva v~ vincere (rodri) {P} invece
+PSB113	ah l'anno (.) l'anno scorso doveva v~ vincere (rodri) (.) invece
 PSB113	è andato messi
-PSB113	quest'anno mi s~ {P} mi s~
+PSB113	quest'anno mi s~ (.) mi s~
 PSB114	quindi l'anno prossimo vinicius
 PSB113	vabbè
 PSB113	tu non sai cosa ho sentito da radio cinese
 PSB113	e questo la radio eh? ufficiale
 PSB113	uno
-PSB113	vabbè uno è sempre un po' parla {P} come {P} gli pare che è molto:
+PSB113	vabbè uno è sempre un po' parla (.) come (.) gli pare che è molto:
 PSB113	liberamente non sembra uno
 PSB113	che parla
 PSB113	il canale ufficiale
-PSB113	lui ha anche: {P} comprato:
+PSB113	lui ha anche: (.) comprato:
 PSB113	un xx xxx
 PSB113	t~ tipo:
 PSB113	in campionato di livello basso in spagna
@@ -310,53 +310,53 @@ PSB113	real madrid
 PSB113	e:hm è vittima (nuovamente) vinicius
 PSB113	se fosse bellingham magari non è così grave eh?
 PSB113	bellingham inglese
-PSB113	se fosse vinicius {P} un nero {P} di brasile
+PSB113	se fosse vinicius (.) un nero (.) di brasile
 PSB113	è un problema
 PSB114	>problema< razzista?
 PSB113	no
 PSB113	>dice< vinicius
-PSB113	<essendo {P} un ne:ro di brasile>
+PSB113	<essendo (.) un ne:ro di brasile>
 PSB113	non ha quel
 PSB113	tipo di educazione >non ha< la capacità di superare questa cosa
-PSB113	bellingham invece sì perché bellingham viene da un s~ {P} da una famiglia: buona:
+PSB113	bellingham invece sì perché bellingham viene da un s~ (.) da una famiglia: buona:
 PSB113	è ingle~
-PSB113	perché {P} lui diceva sempre così
+PSB113	perché (.) lui diceva sempre così
 PSB113	è è seconda volta prima volt~
 PSB113	l~ l'altra volta diceva anche qualcosa genere
-PSB113	che: {P} ah quelli giocatori ingle:si sono più: no?
+PSB113	che: (.) ah quelli giocatori ingle:si sono più: no?
 PSB113	più disciplinati inve[ce qui]
 PSB114	[il gi~ il gio]rnalista è un po' razzista
 PSB113	sì sì
 PSB113	ma lui dice proprio così
-PSB113	$esplicemente perché è nero {P} di brasile
-PSB113	se {P} guarda statistica
+PSB113	$esplicemente perché è nero (.) di brasile
+PSB113	se (.) guarda statistica
 PSB113	statisticamente è sì è vero
 PSB113	realisticamente (secondo me) no:
 PSB113	però
 PSB114	cosa vuol dire che non deve circolare questa cosa perché è nero?
-PSB113	dice che psicologicamente, {P} un po' si distru:gge,
-PSB113	e non riesc(i) {P} a gesti:re,
+PSB113	dice che psicologicamente, (.) un po' si distru:gge,
+PSB113	e non riesc(i) (.) a gesti:re,
 PSB113	quest~ questo trauma,
 PSB113	e non
 PSB113	quindi non riesci a giocare bene
 PSB114	°ma va°
 PSB114	>devono< proprio raccontare qualcosa questi
 PSB113	no è così
-PSB113	comunque dice facendo così pallone d'oro {P} ha avuto un sacco di attenzioni
+PSB113	comunque dice facendo così pallone d'oro (.) ha avuto un sacco di attenzioni
 PSB114	questo è vero
 PSB114	è una tattica dell'ufficio stampa
 PSB113	°mh°
 PSB113	ma
-PSB113	non hanno pubblicato an~ {P} i: voti:?
+PSB113	non hanno pubblicato an~ (.) i: voti:?
 PSB113	ah sì
 PSB114	dovrebbero pubblicarli
 PSB113	invece no?
 PSB114	non ho guardato penso li a~ li abbiano sicuramente pubblicati
 PSB113	però: ho sentito dai cinesi che
 PSB113	dicono adesso pubblicheranno
-PSB113	in novembre {P} più tardi
+PSB113	in novembre (.) più tardi
 PSB113	c(io)è un'altra cosa strana
-PSB113	>adesso< {P} provo a vedere
+PSB113	>adesso< (.) provo a vedere
 PSB114	a vedere com'era la regola come (l'hanno annunciato) eh?
 PSB114	°xxx normale°
 PSB113	sì ma
@@ -370,7 +370,7 @@ PSB114	lewandowski?
 PSB113	adesso li guardo eh?
 PSB114	lewandowski alla fine non ha vinto
 PSB113	no
-PSB114	allora {P} ho messo troppa salsa di soia ma ho salvato una ciotolina
+PSB114	allora (.) ho messo troppa salsa di soia ma ho salvato una ciotolina
 PSB114	senza salsa di soia
 PSB113	quindi?
 PSB114	se la vuole mangiare domani
@@ -378,7 +378,7 @@ PSB113	ah grazie
 PSB113	non c'è lewandowski primi trenta
 PSB113	non c'è proprio
 PSB113	fammi vedere meglio ah?
-PSB114	no infatti {P} non ha mai vinto niente
+PSB114	no infatti (.) non ha mai vinto niente
 PSB113	mh?
 PSB114	il barcellona non ha mai vinto niente
 PSB113	yamal
@@ -392,7 +392,7 @@ PSB114	bene
 PSB113	hai man[dato tutto:]?
 PSB114	[oggi non avevo] niente da fare
 PSB114	li ho mandati eri sera i progetti
-PSB114	oggi non >avevo:< {P} molto da fare
+PSB114	oggi non >avevo:< (.) molto da fare
 PSB113	niente?
 PSB114	non molto
 PSB114	due a due è diventato
@@ -406,7 +406,7 @@ PSB113	a::h perché m:h
 PSB113	perché con l'auricolare sta facendo forse
 PSB113	no
 PSB113	vabbè
-PSB113	i voti {P} si pubblica {ride}
+PSB113	i voti (.) si pubblica ((ride))
 PSB113	il nove
 PSB113	novembre
 PSB113	forse per eh
@@ -417,7 +417,7 @@ PSB114	>però< è annunciato
 PSB114	che orario?
 PSB113	matrimonio
 PSB114	°non mi ricordo°
-PSB113	comune? dove si ve~ {P} dove ci vediamo?
+PSB113	comune? dove si ve~ (.) dove ci vediamo?
 PSB114	°adesso ti xx così le puoi vedere anche tu°
 PSB113	va bene canzone che ho scelto
 PSB114	°sì sì°
@@ -426,7 +426,7 @@ PSB113	[perché]
 PSB113	di amo:re
 PSB113	e contento c~ no~ mh mi fa fatica pensare
 PSB113	secondo me >non< ce ne sono amore belle
-PSB114	no {P} >non ho detto< contento {P} >ho detto<
+PSB114	no (.) >non ho detto< contento (.) >ho detto<
 PSB113	feli[ce ma ma va be(ne)]
 PSB114	[la canzone è la mia]
 PSB113	per carit[à]
@@ -444,7 +444,7 @@ PSB114	caffè bistrot la corte isolani
 PSB113	mh
 PSB114	ci saranno i tortellini con la panna per i bambini
 PSB113	mhmh
-PSB114	quindi è un roba tipo: {P} pranzo
+PSB114	quindi è un roba tipo: (.) pranzo
 PSB113	°mhmh°
 PSB113	dai
 PSB113	una cosa bella
@@ -463,7 +463,7 @@ PSB113	una cosa
 PSB114	mh
 PSB113	cosa vuol dire cognato?
 PSB113	e cognata
-PSB114	i frate:lli {P} di tuo marito di tua moglie
+PSB114	i frate:lli (.) di tuo marito di tua moglie
 PSB114	oppure
 PSB113	eh fratelli o sorelle di co~ coniuge
 PSB114	oppure i coniugi dei fratelli delle sorelle
@@ -482,9 +482,9 @@ PSB114	ha anche senso che siano due eh?
 PSB113	sì però un po' più facile
 PSB113	in cinese s~ sono
 PSB113	i tu(o) fratelli
-PSB113	per me {P} sono il mio
+PSB113	per me (.) sono il mio
 PSB113	non lo so
-PSB113	non mi SERVE {P} perché devo sapere?
+PSB113	non mi SERVE (.) perché devo sapere?
 PSB113	non ce l'hai
 PSB114	le mie sorelle?
 PSB113	comunque lo so
@@ -505,7 +505,7 @@ PSB113	sorella a:h na na na a:h eh ah eh ah eh AH
 PSB113	non c'ho neanche testa
 PSB113	fammi vedere eh?
 PSB114	è per quello che hanno fatto la (politica) dei figli unici?
-PSB113	esatto {P} per questo
+PSB113	esatto (.) per questo
 PSB113	ok[ay]
 PSB114	[xx] (dire) il vocabolario?
 PSB113	no fammi cercare mh
@@ -530,7 +530,7 @@ PSB113	questo lo so
 PSB114	°xxx°
 PSB113	tuo?
 PSB114	sì eh
-PSB113	{sospira} E:H
+PSB113	((sospira)) E:H
 PSB113	dà jiù zi
 PSB113	a::h
 PSB113	vediamo
@@ -542,14 +542,14 @@ PSB113	più o meno lo so:
 PSB113	mǔ qīn zhī jiě mèi mǔ qīn de jiě jiě °xx° de zhàng fū
 PSB113	°un po' complicato°
 PSB113	c(io)è la mia testa adesso non va anche perché
-PSB113	non riesco a capire cose {P} appena più complicato
+PSB113	non riesco a capire cose (.) appena più complicato
 PSB113	okay
-PSB113	quest~ questi {P} in teoria lo so,
-PSB113	i fratelli {P} #dà #bó
-PSB113	okay {P} #dà #bó e:h
+PSB113	quest~ questi (.) in teoria lo so,
+PSB113	i fratelli (.) #dà #bó
+PSB113	okay (.) #dà #bó e:h
 PSB113	(°bú jiào shū°)
 ???	non sono sicura qui perché parla troppo veloce con una voce bassa
-PSB113	EH questi due in realtà lo so {P} un po' lo:
+PSB113	EH questi due in realtà lo so (.) un po' lo:
 PSB113	dà gū zǐ xiǎo gū zǐ
 PSB113	okay sono quattro
 PSB113	qī zǐ xiōng zhǎng dà jiù zǐ xiǎo jiù zǐ
@@ -566,7 +566,7 @@ PSB113	beh da parte di marito,
 PSB113	son(o) quattro
 PSB113	parte di moglie quattro
 PSB113	contrario
-PSB113	un altri {P} otto
+PSB113	un altri (.) otto
 PSB113	quindi sedici
 PSB113	forse c'è c'è s~ qualcosa
 PSB113	tipo
@@ -593,7 +593,7 @@ PSB113	qualcuno di >sarebbe< #mèi #fū
 PSB113	mh okay
 PSB113	sono quattro
 PSB113	da parte mio
-PSB113	se io {P} avesse
+PSB113	se io (.) avesse
 PSB113	ma~
 PSB113	f~
 PSB113	fratello,
@@ -602,7 +602,7 @@ PSB113	è uguale
 PSB113	mh okay
 PSB113	è uguale
 PSB113	è uguale quindi son(o) dodici
-PSB113	no no no sono {P} dodici
+PSB113	no no no sono (.) dodici
 PSB113	otto più quattro
 PSB113	dodici
 PSB113	perché la parte contrario è uguale sia per te, per me
@@ -612,7 +612,7 @@ PSB113	non c'è
 PSB113	[marito mo]glie eh
 PSB114	[xxx]
 PSB113	c(io)è nel senso il mio f~
-PSB113	coniuge de(l) mio {P} fratello
+PSB113	coniuge de(l) mio (.) fratello
 PSB113	e di tuo fratello
 PSB113	noi lo chiamiamo uguale perché non importa io sono maschio o femmina
 PSB113	quindi son(o) dodici
@@ -621,7 +621,7 @@ PSB113	mh?
 PSB113	[importante]
 PSB114	[e non importa se più gran]de o più piccolo
 PSB113	per questo sono quattro
-PSB114	ah quello sì an~ anc~ anche se non è {P} mio famigliare?
+PSB114	ah quello sì an~ anc~ anche se non è (.) mio famigliare?
 PSB113	la moglie di mio fratello maggiore è #dà #sǎo
 PSB113	la moglie
 PSB113	di mio fratello piccolo
@@ -669,7 +669,7 @@ PSB113	anch'io mangio un po'
 PSB113	insalata
 PSB113	c'è ancora un po'
 PSB113	non c'è più
-PSB113	allora rubo un po' a tu {P} basta
+PSB113	allora rubo un po' a tu (.) basta
 PSB113	scusami
 PSB114	niente,
 PSB113	forse domani non riusciamo:
@@ -681,7 +681,7 @@ PSB113	xxxx oggi qualcosina ha fatto
 PSB114	io che ho supplicato a che
 PSB114	ha bisogno di dormire tranquillo
 PSB114	quindi se andiamo subito lei la mattina xxx
-PSB113	così no~ {P} non non dorme
+PSB113	così no~ (.) non non dorme
 PSB113	allo:ra
 PSB113	se domani lui si sveglia presto
 PSB113	anzi dico ai miei studenti che domani non ci sono
@@ -710,7 +710,7 @@ PSB114	cosa hai scoperto?
 PSB113	questa cosa di whatsapp
 PSB114	no e soprattutto perché te lo cancellano a te?
 PSB114	perché l'hai preso nello store cinese?
-PSB113	perché preso in cina {P} sì
+PSB113	perché preso in cina (.) sì
 PSB113	e perché hanno già usato in cina
 PSB113	quindi
 PSB113	s~
@@ -732,17 +732,17 @@ PSB114	puoi vedere se ci sono altri:
 PSB113	mh?
 PSB114	altri app store
 PSB113	s::::i
-PSB113	[dice anche:] {P} in qualche modo sì però: m::h
+PSB113	[dice anche:] (.) in qualche modo sì però: m::h
 PSB114	[xxxx]
 PSB113	intanto funziona (business)
 PSB113	è uguale
 PSB113	quindi
 PSB113	°uso questo°
 PSB114	se è gratis,
-PSB113	sì {P} poi
-PSB113	vediamo {P} >secondo me< piano piano
+PSB113	sì (.) poi
+PSB113	vediamo (.) >secondo me< piano piano
 PSB113	cina
-PSB113	comple~ {P} completamente fuori dal resto del mondo
+PSB113	comple~ (.) completamente fuori dal resto del mondo
 PSB114	dici?
 PSB113	e:h perché sono (in tanti) stati uni:ti, qua: la:
 PSB113	sempre più uno
@@ -759,18 +759,18 @@ PSB113	più più immediato
 PSB114	ah sì sì decisamente un po'
 PSB114	°u:h°
 PSB114	°cinque e mezzo su xx°
-PSB113	quindi {P} dicevo
+PSB113	quindi (.) dicevo
 PSB113	domani
 PSB113	vediamo se c'è sciopero
-PSB113	ho idea che ci s~ {P} ci sarà
+PSB113	ho idea che ci s~ (.) ci sarà
 PSB114	da
 PSB113	uno perché è ponte
-PSB113	due {P} perché questo sciopero è delle scuole
-PSB113	proprio specifico {P} quindi mi sembra
+PSB113	due (.) perché questo sciopero è delle scuole
+PSB113	proprio specifico (.) quindi mi sembra
 PSB113	comunque
 PSB113	se lui può andare
 PSB113	fa~ secondo m~
-PSB113	secondo me {P} metà giornata probabilmente
+PSB113	secondo me (.) metà giornata probabilmente
 PSB113	si può fare
 PSB113	allora
 PSB113	se ci va asilo
@@ -781,7 +781,7 @@ PSB114	all'asilo
 PSB114	se va all'asilo
 PSB113	beh questo ci:, questo se:, questo ne: sono delle parole piccole mi piace mettere
 PSB113	perché mi fa sentire: esperta
-PSB114	sì ma {ride}
+PSB114	sì ma ((ride))
 PSB113	quindi se ci va
 PSB114	giusto
 PSB113	puoi andare

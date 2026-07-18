@@ -1,9 +1,9 @@
-PSB005	allora [{P} va] bene ricomincia e come vi conoscete [sì]
+PSB005	allora [(.) va] bene ricomincia e come vi conoscete [sì]
 PSB072	[vai]
 PSB073	[ah] okay io sono venuta duemila: otto
 PSB073	a:h
 PSB073	quando avevamo:
-PSB073	dodici anni a casa mia {P} quando siamo venuti,
+PSB073	dodici anni a casa mia (.) quando siamo venuti,
 PSB073	hanno fatto tipo una preghiera
 PSB073	di religione induista che lui era venuto
 PSB073	eravamo piccoli
@@ -13,7 +13,7 @@ PSB073	e da lì conoscevamo, poi abbiamo incontrato varie volte sempre le:
 PSB073	[festi]vità religio:sa,
 PSB071	[xxx]
 PSB073	e da lì siamo diventati amici,
-PSB073	poi quando andavamo a scuola {ride} superiore facevamo fuga insie[me]
+PSB073	poi quando andavamo a scuola ((ride)) superiore facevamo fuga insie[me]
 PSB071	[sì:] [x]
 PSB005	[cioè] [andavate a scuola insieme]?
 PSB072	[e poi pa~ padre di] loro due loro e~ loro erano amici
@@ -26,13 +26,13 @@ PSB071	[sì:]
 PSB071	[da quando ero piccolo conoscevo] suo padre: mi parlava poi [sempre]
 PSB072	[sì]
 PSB071	ho un figlio poi
-PSB072	{ride}
+PSB072	((ride))
 PSB071	nella nostra lingua c'è quel problema lì >dice ah<
 PSB071	figlio #putra che è figlio
-PSB072	[sì] {ride}
+PSB072	[sì] ((ride))
 PSB071	[e:h] io non ho mai capito che era una ragazza io pensavo
 PSB071	ah ma sarà un ragazzo quando verrà giocheremo insieme
-PSB071	{ride} poi scopri che
+PSB071	((ride)) poi scopri che
 PSB005	fantastico
 PSB005	[fantastico]
 PSB071	[no vabbè poi]
@@ -40,13 +40,13 @@ PSB071	verso le superiori:
 PSB073	[>verso le superiori usciv-<]
 PSB071	[si usciva un po' insie]me, andavamo a far fuga
 PSB071	poi amici[zie]
-PSB073	[perché io] poi ero più grande di lu~ >cioè< sono grande sei mesi più grande di lui {ride}
-PSB071	{ride}
+PSB073	[perché io] poi ero più grande di lu~ >cioè< sono grande sei mesi più grande di lui ((ride))
+PSB071	((ride))
 PSB073	io ho compiuto prima diciassette anni lui do~
 PSB073	di~ sedici per comprare la birra penso che ci vuole sedici anni dal supermerca[to]
 PSB071	[eh sì sì]
 PSB072	[sì sì]
-PSB073	eh io che ho compiuto prima lo compravo io per lui {ride}
+PSB073	eh io che ho compiuto prima lo compravo io per lui ((ride))
 PSB071	vabbè sedici anni a bologna
 PSB072	sì però bevevi anche t[e]
 PSB073	[NO]
@@ -54,11 +54,11 @@ PSB071	[no]
 PSB072	no
 PSB073	N[O]
 PSB071	[n]o
-PSB073	io non bevevo beveva solo {ride}
+PSB073	io non bevevo beveva solo ((ride))
 PSB005	[cioè quindi era solo g]ratuito [così solo] un dono s~
 PSB071	[xxx]
-PSB072	[sì] {ride}
-PSB073	{ride}
+PSB072	[sì] ((ride))
+PSB073	((ride))
 PSB005	certo
 PSB073	[E]
 PSB005	[e dove anda]vate a scuola?
@@ -76,7 +76,7 @@ PSB073	lo vedevo tutti all'entrata fumava:
 PSB073	sigaretta che io ero da po~ cioè
 PSB073	non dico pochissimo,
 PSB073	avevo passato due anni scuola media
-PSB073	poi improvviso vedere {ride} in un mondo che dove
+PSB073	poi improvviso vedere ((ride)) in un mondo che dove
 PSB073	tutti studenti prima di entrare poi
 PSB073	più o meno tutti fumava anche le canne
 PSB073	e un po' strano era per me perché io:
@@ -97,7 +97,7 @@ PSB073	e:h
 PSB005	come mai? cos'è successo
 PSB073	così
 PSB073	perché lic~ fare liceo vuol dire fare l'università e non avevo più:
-PSB072	vo[glia] {ride}
+PSB072	vo[glia] ((ride))
 PSB073	[vo]glia
 PSB073	non dico la voglia, <situazione di tutto:>
 PSB073	non sono riuscita
@@ -115,14 +115,14 @@ PSB073	di conoscere non conosco tanto bene solo
 PSB073	la strada andare fino a scuola da lì fino a °casa [basta]°
 PSB005	°[sì] sì certo°
 PSB005	e queste fuge cosa co~ co~ com'erano organizzate
-PSB073	{ride} messag[gio]
+PSB073	((ride)) messag[gio]
 PSB071	[-sa]ggio messaggio ci organizzavamo la mattina,
 PSB073	dove [incontrare]
 PSB071	[>cioè avevamo< anche amici comuni] sì
 PSB072	[che entrare scuola]?
 PSB073	cert[o]
 PSB071	[prima] di entrare a scuola vedevi chi c'era
-PSB073	{ride}
+PSB073	((ride))
 PSB071	poi c'erano gli scioperi un po'
 PSB072	[sì xx]
 PSB073	[sì soprattu]tto quando c'era manifes[tazione]
@@ -132,11 +132,11 @@ PSB074	ma se facevi fuga spesso
 PSB071	eh ma per~ vabbè io in
 PSB071	a parte questo facevo
 PSB071	avevo diversi gruppi quindi facevo fuga con lei
-PSB072	{ride}
+PSB072	((ride))
 PSB071	facevo fuga con gli [altri del xx]
-PSB073	{ride} [no io sol~] {ride}
+PSB073	((ride)) [no io sol~] ((ride))
 PSB072	[xx] tutt[o]
-PSB071	[eh ero un po': {P} xx]
+PSB071	[eh ero un po': (.) xx]
 PSB073	[no io solo con lui perché:]
 PSB074	[ah] allora era lui [che]
 PSB072	[conosceva] [già solo lui]
@@ -150,7 +150,7 @@ PSB071	[lei la] [chiamavamo sempre]
 PSB073	[quella: presente quel] studentessa secchiona tipo
 PSB005	°sì [sì°]
 PSB073	[>°ecco°<] lei è quella,
-PSB073	{ride}
+PSB073	((ride))
 PSB073	lei per quello fuga non è mai esiste nella sua vita,
 PSB073	eh facevamo solo noi due
 PSB073	e poi noi non
@@ -162,7 +162,7 @@ PSB071	eh con gli amici in comune::
 PSB005	okay
 PSB005	e
 PSB005	quindi non abitavi vicino al [a lui no]
-PSB073	[no {P}] lui abitava:
+PSB073	[no (.)] lui abitava:
 PSB073	vi[cino a
 PSB071	[io: abitav]o
 PSB071	>invece< lei],
@@ -193,7 +193,7 @@ PSB071	la differenza si s[ente]
 PSB073	[si se]nte
 PSB071	però alle medie già alle medie:
 PSB071	cioè
-PSB072	vai °vai° {ride}
+PSB072	vai °vai° ((ride))
 PSB071	no già alle medie c'erano i gruppi cioè
 PSB071	c'eran le gang c'era la gang del porto
 PSB071	quindi
@@ -201,7 +201,7 @@ PSB071	sì era sicuro però tra i gr~
 PSB071	gruppo di amici
 PSB071	sì a volte beccavamo
 PSB071	quel gruppo lì:
-PSB072	pe[rò era {P} era più sicuro ne~] in quel periodo [non è come ades~ adesso]
+PSB072	pe[rò era (.) era più sicuro ne~] in quel periodo [non è come ades~ adesso]
 PSB071	[si creavano certe situazioni]
 PSB071	[era più sicuro però se beccavi] quel gruppo l[ì]
 PSB072	[s]ì
@@ -219,8 +219,8 @@ PSB071	laggiù che giravano sempre [lì e quin]di
 PSB072	[sì]
 PSB071	s~ ci si scontrava ogni tanto il parco era l'unico
 PSB071	parco undici [settembre che] era un po' famoso tra bengalesi non so
-PSB072	[sì {P} sì]
-PSB072	{ride} [s]ì
+PSB072	[sì (.) sì]
+PSB072	((ride)) [s]ì
 PSB071	che quelli che abitavano qua in centro stava~
 PSB071	quelli che abitavano in centro [>credo<] si [incontravano tutti lì]
 PSB073	[ah]
@@ -233,7 +233,7 @@ PSB071	e: ci si incontrava lì quindi tra i bengalesi
 PSB071	io gli amici che mi son fatto me li son fatti lì [a quel parco lì]
 PSB072	[dove dove spesso là] quando andavo con mia cugina, che giocava con tutti i ragazzi
 PSB072	calcio:
-PSB072	[c'era anche] mio nipote {ride}
+PSB072	[c'era anche] mio nipote ((ride))
 PSB071	[sì sì]
 PSB071	tuo nipote sì che veniva lì al parco
 PSB071	e: si giocava
@@ -249,7 +249,7 @@ PSB073	[prima generaz~]
 PSB071	[che erano: lì]
 PSB072	[sì sì pro]pri[o]
 PSB071	[poi] lì dietro ci sono un po' di case comunali e [tutto]
-PSB072	[sì {P}] sì
+PSB072	[sì (.)] sì
 PSB074	ti sei trasferito nel duemilatredici più o meno
 PSB071	io mi son trasferito::
 PSB071	in prima: seconda superiore
@@ -263,12 +263,12 @@ PSB073	[no no] non c~ [non c'era]
 PSB071	[comunque v]enivo lì a: °parco undici settembre°
 PSB071	al pilastro non son riuscito a integrarmi anzi
 PSB071	non ho non ci ho nemmeno provato
-PSB072	{ride}
+PSB072	((ride))
 PSB071	so che è una zona un po' così: e e si vedeva che era una zona
 PSB071	non c'è un parco che fa comunità lì e quindi
 PSB071	>cioè<
 PSB071	però:
-PSB073	però loro n~ {P} lui non lo riconosce
+PSB073	però loro n~ (.) lui non lo riconosce
 PSB071	sì non è il [parc~]
 PSB072	[eh infatti]
 PSB073	eh quella zona [è bengalesi te~]
@@ -281,13 +281,13 @@ PSB071	[sempre una zona che] ha fatto un po' di: impressione
 PSB073	sì
 PSB071	però a parte quello
 PSB071	si vive
-PSB071	tranquilli {P} se stai nella zona tranquilla
+PSB071	tranquilli (.) se stai nella zona tranquilla
 PSB005	mhmh
 PSB005	e dove vi piacerebbe vivere se doveste scegliere proprio la zona più bella per voi
 PSB071	[a bologna]
 PSB072	[a bologna]
 PSB005	sì sì
-PSB072	a [me piac]e imola {P} sinceramente perché:
+PSB072	a [me piac]e imola (.) sinceramente perché:
 PSB073	[IO STO B~]
 PSB072	da quando sono qui in italia: praticamente
 PSB072	tranne quel un anno che sono stato qui a bologna: sono vissuto sempre là a imola
@@ -306,9 +306,9 @@ PSB005	dove abiti circa?
 PSB072	è più o meno: vicino stazione andare in stazione:
 PSB072	dieci minuti di camminata arrivi per la [xx]
 PSB073	[no mo~] mo~ dieci minuti no [per favore]
-PSB072	[io sì cammi]no dieci minuti sì {ride}
-PSB073	no venti minuti credimi [io ho camminato {ride} no]
-PSB072	[se cammina lei sì {ride} lei cam]mina [piano]
+PSB072	[io sì cammi]no dieci minuti sì ((ride))
+PSB073	no venti minuti credimi [io ho camminato ((ride)) no]
+PSB072	[se cammina lei sì ((ride)) lei cam]mina [piano]
 PSB073	[varie vo]lte ma sempre
 PSB073	ho provat[o di] superare,
 PSB072	[poi]
@@ -347,8 +347,8 @@ PSB005	[>sì sì sì< ce]rto
 PSB005	e invece voi zona di bologna:: eh
 PSB005	de[i sogni]?
 PSB073	[io preferisco] casa mia eh [ma:]
-PSB071	[casa {P} dentro le] quattro mura {ride}
-PSB073	{ride}
+PSB071	[casa (.) dentro le] quattro mura ((ride))
+PSB073	((ride))
 PSB073	no no perché:
 PSB073	eh zona b~ -ca io non sono proprio
 PSB073	barca barca neanche casteldebole proprio
@@ -367,7 +367,7 @@ PSB073	per quel periodo era un po'
 PSB073	avevo ansia quando tornavo dal lavoro da da un quando uscivo
 PSB073	di sera
 PSB073	tor~
-PSB073	per {P} tornare a casa dalla fermata dell'autobus fino a casa che non ci mettevo neanche tre minuti
+PSB073	per (.) tornare a casa dalla fermata dell'autobus fino a casa che non ci mettevo neanche tre minuti
 PSB073	avevo bisogno che qualcuno mi viene prendere dalla fermata
 PSB073	però adesso si sta °xx°
 PSB005	quindi è migliorato
@@ -375,18 +375,18 @@ PSB073	sì
 PSB073	molto
 PSB005	ah vedi bene
 PSB073	però mi piace anche imola
-PSB005	[eh non è] {P} è ben collegata non è un brutto [posto secondo me s]ì
+PSB005	[eh non è] (.) è ben collegata non è un brutto [posto secondo me s]ì
 PSB073	[è tranq~]
 PSB072	[sì poi ci]
 PSB072	ci metti poco per arrivare a bologna prendi il treno venticinque minuti sei già a bologna
 PSB072	anche:
 PSB072	nell'auto
-PSB072	sono {P} trentacinque mi[nuti]
+PSB072	sono (.) trentacinque mi[nuti]
 PSB071	[sì sì]
 PSB072	trentacinque minuti
 PSB005	sì no non è male
 PSB005	un posto ridente una cittadina ridente sì sì
-PSB072	{ride}
+PSB072	((ride))
 PSB005	e:hm
 PSB005	allora
 PSB005	ho delle curiosità su questa comunità bengalese di[ciamo]
@@ -410,7 +410,7 @@ PSB073	[sì]
 PSB005	[ah okay]
 PSB073	[sì perché] i pri~
 PSB073	perché in india
-PSB073	ha venti: {P} tre lingue e ventitré stati propr[io]
+PSB073	ha venti: (.) tre lingue e ventitré stati propr[io]
 PSB005	[mh]mh
 PSB073	e calcutta e bangladesh era una volta insieme
 PSB073	e quando hanno diviso la una parte del e:h calcutta era che era una volta calcutta
@@ -431,13 +431,13 @@ PSB005	[tu] sei del bangladesh [okay]
 PSB072	[sì sì]
 PSB072	io sono del bangladesh e:h
 PSB072	abito: >cioè<
-PSB072	{ride} beh
+PSB072	((ride)) beh
 PSB072	ve~ vengo da una città vicino dacca vicino capitale
 PSB072	m:h
-PSB072	s~ se c'è troppo traffico {ride} perché da noi
+PSB072	s~ se c'è troppo traffico ((ride)) perché da noi
 PSB072	è un traffico che
 PSB072	non puoi sopportare cioè
-PSB072	fai praticamente in un'ora otto chilometri di media {ride} quindi
+PSB072	fai praticamente in un'ora otto chilometri di media ((ride)) quindi
 PSB072	ci metti un bel po'
 PSB072	però se la strada è libera:
 PSB072	quaranta minuti arrivi arriviamo a casa:
@@ -450,7 +450,7 @@ PSB072	che è dove c'è più: più fabbriche di abbigliamento
 PSB072	tipo circa due duemilacinquecento fabbriche di abbigliamento
 PSB072	ho vissuto fino: sedici anni quando avevo sedici anni là in bangladesh
 PSB072	poi sono venuto qui in italia ho studiato un po'
-PSB072	poco poco {ride}
+PSB072	poco poco ((ride))
 PSB072	ho fatto:: scuola superiore fatto la qualifica
 PSB005	okay
 PSB072	e adesso lavoro faccio elettricista in un'azienda
@@ -462,18 +462,18 @@ PSB071	e:h
 PSB071	nato a roma,
 PSB071	poi i miei genitori si son trasferiti a bologna,
 PSB071	e ho sempre vissuto a bologna quindi zona lame, poi zona pilastro e
-PSB071	superiori, e poi lavoro adesso vivo {P} a granarolo
+PSB071	superiori, e poi lavoro adesso vivo (.) a granarolo
 PSB005	ah okay
 PSB071	cioè sono uscito dalla città
 PSB071	prima mi hai chiesto qual è la mia zona preferita: io ti direi san lazzaro
 PSB071	(questo:)
-PSB071	zona: bello {P} preferita
+PSB071	zona: bello (.) preferita
 PSB072	sì
 PSB072	san lazzaro: anche san lazzaro [xx]
 PSB071	[però] per quello che mi posso permettere granarolo va benissimo
-PSB072	{ride}
-PSB073	{ride}
-PSB071	{ride}
+PSB072	((ride))
+PSB073	((ride))
+PSB071	((ride))
 PSB005	sì so che:
 PSB005	non è [eh economi]ca sì
 PSB072	[costa sì]
@@ -487,7 +487,7 @@ PSB071	>cioè< anche zone
 PSB071	su san donato ci sono alcuni piccoli quartie~
 PSB071	isolati
 PSB071	residenziali carini che sono vicino al centro che
-PSB071	non sarebbero male cioè c'hanno {P} ci ci sono delle villette con dei [giardini],
+PSB071	non sarebbero male cioè c'hanno (.) ci ci sono delle villette con dei [giardini],
 PSB072	[sì sì sì]
 PSB071	con delle c[ase]
 PSB072	[però ce] ne sono poch[issime non tante]
@@ -532,7 +532,7 @@ PSB072	sì
 PSB071	[vedi cin]que ti chiedi che te ne chiedono
 PSB073	[di fila]
 PSB072	e poi chi è ricco [ricco:]
-PSB071	[quanti ne puoi dare {P}] non fai nien[te]
+PSB071	[quanti ne puoi dare (.)] non fai nien[te]
 PSB072	[c'è] molto
 PSB073	e poi ci sono anche i bambini in str[ada che] ti chie[dono]
 PSB072	[sì]
@@ -568,9 +568,9 @@ PSB071	poi ci son quelli che chiedon cibo:
 PSB071	e io personalmente
 PSB071	rimango male cioè vuoi aiut[are]
 PSB072	[sì]
-PSB071	poi vedi la gente normale che {P} è
+PSB071	poi vedi la gente normale che (.) è
 PSB071	totalmente indifferente perché è così abituata che
-PSB072	che non {P} [sì]
+PSB072	che non (.) [sì]
 PSB071	[o]
 PSB071	>cioè non<
 PSB071	non è che gli può d~
@@ -600,7 +600,7 @@ PSB071	diciamo da
 PSB071	[che] è: [come si traduce]
 PSB072	[sì]
 PSB072	[uno che:] guida il #rickshaw
-PSB072	[che è {P} un tipo di]:
+PSB072	[che è (.) un tipo di]:
 PSB071	[il #rickshaw che è la bici]
 PSB073	bicicle[tta con]
 PSB072	[traspo]rto con tre ruote
@@ -616,7 +616,7 @@ PSB072	cinque dieci chilometri ti danno cinquanta centesimi
 PSB072	che non è niente
 PSB072	tra una fatica che fai
 PSB071	>no tra l'altro<
-PSB071	i r[icchi] cioè i benestanti non i ricchi i [benesta]nti {P} quasi nessuno cammina
+PSB071	i r[icchi] cioè i benestanti non i ricchi i [benesta]nti (.) quasi nessuno cammina
 PSB072	[sì]
 PSB072	[°sì°]
 PSB072	[sì]
@@ -648,7 +648,7 @@ PSB072	quanti so~ eh quan~ quante proprietà ha[i], che come come stai nella soc
 PSB073	[hai]
 PSB005	>°sì sì sì°< e quindi qui invece secondo voi non è così
 PSB073	no no
-PSB073	qua rispetto {P} lavoro qualsiasi lavoro fai
+PSB073	qua rispetto (.) lavoro qualsiasi lavoro fai
 PSB073	hai
 PSB073	ti [rispetta]
 PSB072	[c'hai rispe~]
@@ -672,7 +672,7 @@ PSB071	[sì]
 PSB072	è l'u~ l'ultimo del e:h del piramide
 PSB005	e e c'è un po' di mobilità sociale cioè i figli di
 PSB005	di chi fa del lavori umili
-PSB005	riescono a studiare magari a [fare alt~ {P}] sì
+PSB005	riescono a studiare magari a [fare alt~ (.)] sì
 PSB072	[sì]
 PSB071	[sì]
 PSB072	[sì]
@@ -688,7 +688,7 @@ PSB072	[eh]
 PSB071	[non] so non ho dati
 PSB071	e::h
 PSB071	ci sono molti laureati quindi c'è la mobilità scio~
-PSB071	sociale però {P} ce ne sono così tanti
+PSB071	sociale però (.) ce ne sono così tanti
 PSB071	che a volte una certa
 PSB071	certo studio non ha più valo~ non ha valore
 PSB071	cioè
@@ -716,7 +716,7 @@ PSB072	l'esame e poi diventato qualcosa così è aumentato più
 PSB072	laureati
 PSB072	che non trovano lavoro perché uno se facevano come una volta
 PSB072	magari c'è c'erano meno la~ laureati però (i) studiati veramente
-PSB072	e trovavano qualche posto qualche lavoro però adesso {P} ormai
+PSB072	e trovavano qualche posto qualche lavoro però adesso (.) ormai
 PSB072	ognuno che va studiare
 PSB072	comunque passa l'esame qualsiasi esame passa
 PSB072	alla fine diventa troppo e:h °niente°
@@ -728,11 +728,11 @@ PSB073	ma lavoro,
 PSB073	non c'è
 PSB073	che senso ha? uno studia poi non ha lavoro che fa?
 PSB005	certo
-PSB072	poi anche il governo non è che fa molto l[à {P} i]l governo fa: pochissimo: e il minimo:
+PSB072	poi anche il governo non è che fa molto l[à (.) i]l governo fa: pochissimo: e il minimo:
 PSB073	[eh]
-PSB072	che {P} che che può
+PSB072	che (.) che che può
 PSB005	e e come scuola cioè voi dopo siete venuti qua e siete: entrati nella scuola italiana e vabbè già tu mi hai detto un pochino del eh
-PSB072	sì [fuma:re] {ride}
+PSB072	sì [fuma:re] ((ride))
 PSB005	[com'è stato il] cambiamento: l'impatt[o:]
 PSB072	[per me]
 PSB073	[casino]
@@ -770,7 +770,7 @@ PSB072	e:h
 PSB072	uno se se va a scuola dopo d~ va anche dai privati
 PSB072	da
 PSB072	s~ pe:r [poi lezione]
-PSB071	[°ma quasi tutti {P}] tutti°
+PSB071	[°ma quasi tutti (.)] tutti°
 PSB072	[lezione quasi tutti] quasi tutti poi ci sono dei alcuni tipo
 PSB073	[ah eh sì]
 PSB072	eh il
@@ -778,7 +778,7 @@ PSB072	#coaching come come si dic[e in italia]
 PSB071	[e:h sc]uola
 PSB071	e:h [tu]tor
 PSB072	[eh]
-PSB072	[c'è {P} c'è un tu]tor tipo come una scuola privata
+PSB072	[c'è (.) c'è un tu]tor tipo come una scuola privata
 PSB071	[tutor]
 PSB073	[tutor e:h]
 PSB072	uno
@@ -801,7 +801,7 @@ PSB072	cerca di spiegare il minimo possibile alla scuola
 PSB005	okay
 PSB072	e poi fare lezioni private così guadagna di più
 PSB073	perché le scuola da [noi]
-PSB071	[questo no]n lo sapevo {ride}
+PSB071	[questo no]n lo sapevo ((ride))
 PSB073	da scuola da no[i non inse]gna
 PSB072	[no è così]
 PSB073	ti dà tante
@@ -823,7 +823,7 @@ PSB071	io ho fatto una sola lezione in banglade[sh]
 PSB072	[s]ì?
 PSB073	davvero?
 PSB071	un giorno
-PSB073	{ride}
+PSB073	((ride))
 PSB072	sì?
 PSB071	sì [avevo]
 PSB005	[ma qua]ndo per[ché]
@@ -837,14 +837,14 @@ PSB071	e: m'è rimasto un po' impresso io ero l'unico
 PSB071	senza l'uniforme tutti gli altri con l'uniforme
 PSB072	sì
 PSB071	poi tipo appena entrati
-PSB071	si sta tutti {P} [nel corti]le
+PSB071	si sta tutti (.) [nel corti]le
 PSB073	[piedi]
 PSB072	sì
-PSB071	e si fa un po' di {P} [tipo gi]nnastica con [la canz]on[e:]
+PSB071	e si fa un po' di (.) [tipo gi]nnastica con [la canz]on[e:]
 PSB072	[sì]
 PSB072	[ah okay]
 PSB072	[sì s]ì
-PSB071	e [{P} c'è anche l'inno {P} nazionale]
+PSB071	e [(.) c'è anche l'inno (.) nazionale]
 PSB073	[è un canzone nazionale]
 PSB072	[l'inno naz]ionale che [prima di co]minciare la scuola devi fare tutti quanti nel mezz[o]
 PSB071	[esatto]
@@ -854,14 +854,14 @@ PSB071	e poi [le eh]
 PSB072	[>la ma]ttina a scuola<
 PSB072	devi: devi fare una specie di:
 PSB072	mh
-PSB072	eh come si dice {P} allenamento
+PSB072	eh come si dice (.) allenamento
 PSB073	ah davvero?
 PSB072	tip[o:]
 PSB073	[ah questo] non [sei]
 PSB072	[sì] tipo per e:h
-PSB073	{ride}
+PSB073	((ride))
 PSB072	e poi devi cantare anche inno nazionale e poi devi giurare su sulla patria e
-PSB072	su tutto quanto e {ride}
+PSB072	su tutto quanto e ((ride))
 PSB005	per te no
 PSB073	no io avevo prima di entrare >cioè<
 PSB073	si entrava a scuola si poggiava le: zaini
@@ -914,7 +914,7 @@ PSB072	[sì]
 PSB072	sì
 PSB071	la diminuzion[e cioè]
 PSB072	[sì sì]
-PSB072	è d~ è tutto [diverso tutto {P} tutto di]verso
+PSB072	è d~ è tutto [diverso tutto (.) tutto di]verso
 PSB071	[si fanno in modo diverso]
 PSB071	sul foglio [cioè]
 PSB073	[e poi] da noi conta un altro modo cioè voi [contate uno due tre] noi contiamo così
@@ -938,11 +938,11 @@ PSB071	quel tempo c'era eh il bastone adesso non lo so
 PSB072	ma [col col co~] potevi contare col bas[tone]?
 PSB073	[bastone]?
 PSB071	[no] c'era] il basto]ne
-PSB073	[no] {ride}
+PSB073	[no] ((ride))
 PSB072	sì no ho g~ ho gi~ ho già credu[to tantissi]me tante t[ante proprio]
 PSB071	[io me lo ric~]
 PSB071	[era la ling~] la materia universale io me la ricordo sì sì
-PSB073	{ride}
+PSB073	((ride))
 PSB072	no no s~
 PSB072	[non hai studiato ne nostra scuola se no ti prendi pren]di delle legnate
 PSB071	[no il primo giorno m'hanno spaventato cioè:]
@@ -956,15 +956,15 @@ PSB071	non era come [strumento]
 PSB073	[eh io a scuola]
 PSB005	[e succedeva sp]esso?
 PSB072	sì
-PSB073	[io a scuo]la non l'ho mai [preso ma a casa sì dalla mam~] {ride}
+PSB073	[io a scuo]la non l'ho mai [preso ma a casa sì dalla mam~] ((ride))
 PSB072	[eh cioè]
 PSB072	[io io ne ho prese tante perché]
-PSB072	io {ride} io fi~ fino a quindici anni
+PSB072	io ((ride)) io fi~ fino a quindici anni
 PSB072	eh sono stato un po'
 PSB072	diciamo
 PSB072	[troppo]
 PSB073	[bambino tro]ppo tran[quillo]
-PSB072	[troppo] tranquillo {ride}
+PSB072	[troppo] tranquillo ((ride))
 PSB072	quindi
 PSB072	eh spesso non [studiavo: fa]cevo dei casini,
 PSB071	[vuoi provare a sì]
@@ -1002,7 +1002,7 @@ PSB073	tutte [le materie in generale]
 PSB072	[anche le xxx a casa]
 PSB071	[ma per tutti quelli a casa]
 PSB073	[anche in] inglese
-PSB073	perché {P} cioè quando:
+PSB073	perché (.) cioè quando:
 PSB073	quad~ quando fa prima elementare sei anni,
 PSB073	in india a sei anni un bambino sa tantissimo
 PSB005	quindi è più dura?
@@ -1010,7 +1010,7 @@ PSB005	[una scuola più] dura
 PSB073	[è più dura]
 PSB071	[ma quante ore faceva di studio che te rac]conta[vi]?
 PSB073	[molto più °dura°]
-PSB072	[<sì> {P} °sì°]
+PSB072	[<sì> (.) °sì°]
 PSB073	[mio f]iglio,
 PSB073	che:
 PSB073	perché io stavo sempre con lui
@@ -1050,7 +1050,7 @@ PSB071	[sì]
 PSB073	è vero che lo fa per futuro per portarla avanti però
 PSB073	diventa pesante per i bambini per poi anche quando bambini vanno a scuola,
 PSB073	ha il zainetto che pesa più di quel bambino
-PSB005	{ride} poveretto
+PSB005	((ride)) poveretto
 PSB073	che proprio piega così pov~
 PSB073	[cioè io] ho visto in india che sono stata cinque hanno dopo >che< sono
 PSB005	[sì]
@@ -1082,20 +1082,20 @@ PSB072	[°x x x x°]
 PSB005	sì sì sì sì
 PSB071	per non farvi capire da anil non potete più parlare
 PSB071	in italiano:
-PSB072	{ride} una volta facevo
+PSB072	((ride)) una volta facevo
 PSB071	una volta potevate parlare in i[talia]no adesso
 PSB072	[sì]
 PSB072	adesso no
 PSB073	adesso capisce molto di più
 PSB073	adesso capisc[e:]
-PSB005	anil {P} [anil è il bimbo {P} eh]
+PSB005	anil (.) [anil è il bimbo (.) eh]
 PSB072	[ad]esso adesso ogni tanto insegna anche a lei
 PSB072	questo si dice così
 PSB072	[lei vi~]
 PSB005	[il bimbo]?
 PSB072	[sì]
 PSB073	[sì]
-PSB072	e l~ e lei fa non lo sapevo {ride}
+PSB072	e l~ e lei fa non lo sapevo ((ride))
 PSB005	cioè ti corregge?
 PSB073	[sì] molto
 PSB072	[sì sì]
@@ -1113,20 +1113,20 @@ PSB073	non mettono tutto quel tempo che ci mettiamo noi imparare una lingua
 PSB005	sì sì sì sì e voi in casa?
 PSB071	noi:
 PSB071	allora io quando [sono con i miei]
-PSB005	[con i tuoi scus]ami coi [tuoi sì {P} certo]
-PSB071	[eh {P} okay con i miei] parlavo solo bengalese
+PSB005	[con i tuoi scus]ami coi [tuoi sì (.) certo]
+PSB071	[eh (.) okay con i miei] parlavo solo bengalese
 PSB071	perché hanno sempre voluto tenere
 PSB071	viva questa cosa però:
 PSB071	adesso che tipo
-PSB071	alla mia ragazza che {P} non parla bengalese,
-PSB071	faccio fatica perché mia mamma e mio padre fanno fatica a parlare {P} in italiano
+PSB071	alla mia ragazza che (.) non parla bengalese,
+PSB071	faccio fatica perché mia mamma e mio padre fanno fatica a parlare (.) in italiano
 PSB071	quando siamo a casa
 PSB071	e quindi: però
 PSB071	[>abbiamo sempre<]
 PSB005	[quindi nei pra]nzi di famiglia in cui ci in cui c'è [anche:]
 PSB071	[io devo fare da] traduttore ogni [volta]
-PSB072	{ride}
-PSB073	{ride}
+PSB072	((ride))
+PSB073	((ride))
 PSB005	[sì]
 PSB005	ah o[kay]
 PSB071	[eh] sì
@@ -1143,7 +1143,7 @@ PSB072	tutto il giorno al lavoro con con dei colleghi che parliamo sempre in ita
 PSB072	magari quel e:h pomeriggio esco con degli amici parlo in bengalese
 PSB072	dopo rimane sempre più tempo:
 PSB005	sì sì sì e in queste gruppi di mh
-PSB005	mi sembra di capire che ci fossero cioè che ci sono delle compagnie di ragazzi giovani {P} di origini bengalesi che
+PSB005	mi sembra di capire che ci fossero cioè che ci sono delle compagnie di ragazzi giovani (.) di origini bengalesi che
 PSB005	anche quando eri più piccolo ma[gari no]
 PSB071	[eh sì s]ì
 PSB005	e di solito la lingua qual è?
@@ -1154,13 +1154,13 @@ PSB005	[italiano]
 PSB071	[italiano] puro
 PSB005	cioè tra chi è nato qui è italiano
 PSB071	ma anche chi è venut[o: dopo un po' si impa]ra:
-PSB072	[s~ sì {P} sì]
+PSB072	[s~ sì (.) sì]
 PSB071	e
 PSB071	anzi
-PSB071	quando si {P} arriva da un raga~ un bambino alla fine eravamo ragazzini
-PSB071	arriva un ragazzino più giovane {P} cercavamo sempre di parlare italiano
+PSB071	quando si (.) arriva da un raga~ un bambino alla fine eravamo ragazzini
+PSB071	arriva un ragazzino più giovane (.) cercavamo sempre di parlare italiano
 PSB071	sì forse gli facevamo qualche traduzione però
-PSB071	così sapevamo anche noi che lui sa~ avrebbe imparato vi~ {P} meglio.
+PSB071	così sapevamo anche noi che lui sa~ avrebbe imparato vi~ (.) meglio.
 PSB071	sappiamo che a casa s~ sicuro parlano in bengalese
 PSB005	mhmh
 PSB072	sì
@@ -1173,7 +1173,7 @@ PSB005	come metodo di insegn~ di
 PSB005	fare pratica di lingua diciamo mag[ari]
 PSB071	[s:ì] sì alla fine eravamo ragazzini [che gioca]vamo
 PSB072	[sì]
-PSB005	no beh è una maturità di un certo livello voglio dire {ride} è un [pensiero] avan[zato no]
+PSB005	no beh è una maturità di un certo livello voglio dire ((ride)) è un [pensiero] avan[zato no]
 PSB073	[e:h]
 PSB071	[ci son state d]ifficoltà diciamo da bambino forse
 PSB071	cioè vedevi i tuoi genitori che non sapevano:
@@ -1225,22 +1225,22 @@ PSB071	io con il mio gruppo di amici, cioè
 PSB071	parlavamo italiano s~ sempre
 PSB071	però
 PSB071	forse dalle superiori in poi inizi a renderti conto
-PSB071	che puoi parlare in bengalese quando {P} sei in gruppo tipo
+PSB071	che puoi parlare in bengalese quando (.) sei in gruppo tipo
 PSB071	[queste] uscite qua
 PSB072	[sì]
 PSB071	ci si parla un po' in bengalese:
 PSB072	sì
-PSB071	per {P} non farsi sentire o [non farsi capire]
+PSB071	per (.) non farsi sentire o [non farsi capire]
 PSB072	[sì]
 PSB073	[sì t~ qualche] argom[ento o un qualcosa]
-PSB071	[esatto quando è {P}] diciamo dà una certa imp~
+PSB071	[esatto quando è (.)] diciamo dà una certa imp~
 PSB072	u~ tutti noi lo fac[ciamo]
 PSB071	[quan]do si:
 PSB071	lì parlavamo in bengalese
 PSB071	ma due parole poi
-PSB071	ognuno di no~ {P} io ho imparato bengalese a leggere e a scrivere
+PSB071	ognuno di no~ (.) io ho imparato bengalese a leggere e a scrivere
 PSB071	l'alfabeto
-PSB071	di più non so {ride}
+PSB071	di più non so ((ride))
 PSB071	creare frasi:
 PSB071	scritte è difficile leggere
 PSB071	leggo come un bambino di sei anni forse però
@@ -1249,12 +1249,12 @@ PSB071	[sì dai qual]cosina riesco a leggere
 PSB005	e ti hanno insegnato i tuoi?
 PSB071	i miei genitori °esatto°
 PSB071	questa cosa gliela devo dei~ dare come merito almeno qualcosina ho imparato
-PSB074	una cosa da esterna perché {P} esco sempre con loro
+PSB074	una cosa da esterna perché (.) esco sempre con loro
 PSB074	quando cominciano a parl~ a parlare di
 PSB074	cose del bangladesh,
 PSB074	cominciano a tirar fuori parole in bengalese e poi a costruire anche delle frasi in bengalese
 PSB074	cioè e poi magari si parlano tra di loro,
-PSB073	{ride}
+PSB073	((ride))
 PSB074	è vero
 PSB074	cioè magari non ci [fate caso voi p]erché vi [capite]
 PSB072	[e::h]
@@ -1271,15 +1271,15 @@ PSB072	[perché non ti] viene il termine di proprio preciso parole di di quel [q
 PSB074	[sì ma quello credo sia un po' normale]
 PSB071	[un termi~]
 PSB071	[una pa]rola in una certa lingua ha un suo peso [un piatto],
-PSB072	[sì sì sì] {ride}
-PSB073	{ride}
+PSB072	[sì sì sì] ((ride))
+PSB073	((ride))
 PSB071	il nome originale [ha il suo peso]
 PSB072	[è giusta così]
 PSB072	[sì]
 PSB005	certo
-PSB005	e e coi tuoi come {P} i messaggini su whatsapp come fate?
+PSB005	e e coi tuoi come (.) i messaggini su whatsapp come fate?
 PSB071	eh [allora]
-PSB072	[più] messaggio vocale che: [scritte] penso {ride}
+PSB072	[più] messaggio vocale che: [scritte] penso ((ride))
 PSB071	[sì]
 PSB071	mia mamma manda solo messaggi vocali perché:
 PSB071	non riesce a scrivere:
@@ -1292,21 +1292,21 @@ PSB071	e lei li capisce poi mi risponde xx
 PSB071	mio padre,
 PSB071	riesce a scrive con qualche errore,
 PSB071	però se no lui mi s~
-PSB071	però a volte ha provato a scrivermi in bengalese con i {P} con le
+PSB071	però a volte ha provato a scrivermi in bengalese con i (.) con le
 PSB071	>come si [chiama< xxx]
 PSB073	[xx con le lettere] [sì]
 PSB071	[le l]ettere benga[lesi]
 PSB073	[bengalesi]
 PSB072	[sì]
 PSB071	ma io ho fatto fatica a leggere gli ho detto no scrivimi in italiano che
-PSB072	{ride}
+PSB072	((ride))
 PSB071	se no io non capisco
 PSB071	devo stare dieci minuti a leggere una chat
-PSB073	{ride}
+PSB073	((ride))
 PSB071	eh una pa~ un messaggio di una chat
-PSB072	{ride}
+PSB072	((ride))
 PSB072	aspetta che prendo il dizionario poi
-PSB071	{ride}
+PSB071	((ride))
 PSB005	fantastico
 PSB073	no io invece con la mamma,
 PSB073	eh messaggio non lo faccio quasi mai direttamente chiamata la mamma
@@ -1320,7 +1320,7 @@ PSB072	s[ì]
 PSB071	[s]ì
 PSB005	re~
 PSB071	eh con i miei cugini io faccio così
-PSB071	cioè {P} uso i caratteri alfa:
+PSB071	cioè (.) uso i caratteri alfa:
 PSB072	[sì]
 PSB071	[in]glesi o italian[i],
 PSB072	[sì]
@@ -1357,12 +1357,12 @@ PSB072	sì cinque volte sono stato là:
 PSB072	ogni volta più o meno un mesett[o]
 PSB005	[mhmh]
 PSB072	°quindi°
-PSB005	e quando torni come eh le {P} la lingua ti sembra diversa?
+PSB005	e quando torni come eh le (.) la lingua ti sembra diversa?
 PSB072	a volte non non riesco a trovare: la parola tipo sai devo spiegare una cosa
 PSB072	non so >cioè<
 PSB072	mi viene sempre in mente quella italiana però non non mi viene in eh bengalese
 PSB072	e in quel caso cerco la parola inglese se ci riesco
-PSB072	{ride} e provo di spiegare
+PSB072	((ride)) e provo di spiegare
 PSB072	s[ì]
 PSB005	[una] ginnastica terri[bile]
 PSB071	[l'ingle]se aiuta
@@ -1385,7 +1385,7 @@ PSB071	tu lo sai
 PSB072	sì
 PSB073	io non lo so
 PSB071	perché sono parole ri[cercate non le usa più nessuno]
-PSB072	[non le usa {P} nessuno]
+PSB072	[non le usa (.) nessuno]
 PSB072	solo nel libro [c'è scritto sì]
 PSB071	[i letterati i le]tterati e:h quelli che hanno studiato
 PSB005	e capita molto spesso? con: molte parole?
@@ -1399,25 +1399,25 @@ PSB072	°sì°
 PSB073	no anche: anche: età di mio padre
 PSB073	ci sono mezzo p~
 PSB073	tante di quelle parole in inglese che in bengalese che non lo sappiamo neanche
-PSB005	ah vedi {P} è interessante
+PSB005	ah vedi (.) è interessante
 PSB005	molto
 PSB072	°sì°
 PSB005	°sì sì sì°
 PSB073	poi ci sono tanti giovani che non vogliono proprio parlare in bengalese che [parlano so]lo in inglese
 PSB071	[°è vero°]
-PSB071	ah in calcutta sì [ho notato sì sì {P} xx] dacca son stato a calcutta:
+PSB071	ah in calcutta sì [ho notato sì sì (.) xx] dacca son stato a calcutta:
 PSB073	[in calcutta proprio:]
 PSB073	proprio calcutta in città chi abita
 PSB073	tutti i ragazzi giovani quando vedi fuori
 PSB073	parlano tra di loro solo in inglese
 PSB073	come se se non c'è: la lingua nostra però parlano più in ingl[ese]
 PSB005	[okay]
-PSB005	sì quindi {P} m:h
+PSB005	sì quindi (.) m:h
 PSB005	cioè
 PSB005	allora
 PSB005	as[pettate]
-PSB071	[troppe in]formaz[ioni]? {ride}
-PSB005	[non so {P} penso a co]sa chiedervi
+PSB071	[troppe in]formaz[ioni]? ((ride))
+PSB005	[non so (.) penso a co]sa chiedervi
 PSB005	no eh
 PSB005	forse tu non mi hai ancora detto quanto spesso riesci ad and[are a casa sì]
 PSB073	[ah io sì]
@@ -1425,7 +1425,7 @@ PSB072	[ah sì]
 PSB073	ne: io,
 PSB073	prima di duemilasedici,
 PSB073	che era otto anni che ero lì
-PSB073	sono andata {P} circa ogni anno
+PSB073	sono andata (.) circa ogni anno
 PSB073	sicuramente per cinque volte sono andata lì
 PSB073	sì perché mia mamma ogni anno vuole andare in india
 PSB005	tua mamma è qui?
@@ -1448,7 +1448,7 @@ PSB071	[mi ricordo che mi pren]deva in giro al tempo perché io non riuscivo a p
 PSB071	s~ chissà quanto
 PSB073	lui proprio
 PSB073	lui [e sua sorella]
-PSB071	[ancora oggi] {ride}
+PSB071	[ancora oggi] ((ride))
 PSB073	lui e sua sorella parlava malissi~ ma io poi
 PSB073	loro
 PSB073	lascio stare lui perché lui è cresciuto qua non ha studiato bene bangla là
@@ -1463,7 +1463,7 @@ PSB072	ci ci sono alcune paro[le: in urdu perché noi facevamo parte del] del pa
 PSB073	[alcune parole che lo dicono tutti in urdu]
 PSB072	fino: [fino xx]
 PSB005	[non me l'aspettav]o infatti ho avuto un attimo di >ho capito bene< o no
-PSB071	{ride}
+PSB071	((ride))
 PSB072	no ma cer[to sì fino]
 PSB071	[abbiamo avuto l'indipendenza dopo]
 PSB073	[fino: eh sett]anta
@@ -1494,7 +1494,7 @@ PSB005	i~ io ho parlato con suo papà
 PSB005	abbastanza a lungo e poi ho anche parlato brevemente con un'altra
 PSB005	ragazza ben[galese]
 PSB071	[lui è musul]mano
-PSB072	io so[no {P} musulmano]
+PSB072	io so[no (.) musulmano]
 PSB071	[lui è xxx musulmano]
 PSB005	[ah okay ah] okay okay eh
 PSB072	lei è induista
@@ -1502,12 +1502,12 @@ PSB005	e e devo dire che perché voi magari siete giovani e allora è più facil
 PSB005	sia con
 PSB005	s~ con suo papà un po' di meno ma soprattutto con un'altra ragazza: bengalese
 PSB005	un'altra signora bengalese con cui ho parlato,
-PSB005	appena io ho nominato diciamo {P} il rapporto tra musulmani e induisti,
-PSB073	{ride}
+PSB005	appena io ho nominato diciamo (.) il rapporto tra musulmani e induisti,
+PSB073	((ride))
 PSB071	allora
-PSB071	{ride}
+PSB071	((ride))
 PSB073	non andiamo d'accordo per niente
-PSB073	quindi non è {ride} [niente]
+PSB073	quindi non è ((ride)) [niente]
 PSB072	[problema qual è]
 PSB071	[non andiam]o è diver[so]
 PSB072	[pro[ble[ma qual è]
@@ -1532,7 +1532,7 @@ PSB072	quindi prima di andare via c'era molto legame cioè
 PSB072	non: nessuno parlava male di nessuno
 PSB072	tutti: tutti diciamo rispettavano uno
 PSB072	eh de~ religione dell'altro,
-PSB072	però {P} dopo piano piano
+PSB072	però (.) dopo piano piano
 PSB072	che siamo arrivati diciamo più in modernità
 PSB072	che
 PSB072	le gente più attaccata al religione e pensano di fare chissà che cosa e
@@ -1557,7 +1557,7 @@ PSB005	[eh okay]
 PSB072	è per quello adesso c'è più questo:
 PSB071	i mie~ allora io di mio padre che parla male:
 PSB071	non so perché parla male ha molti amici be~ musulma~
-PSB071	ha solo amici musulmani per {P} quel che conosco io
+PSB071	ha solo amici musulmani per (.) quel che conosco io
 PSB071	non lo so
 PSB071	e:
 PSB071	parla parecchio di quanto ha vissuto male la: guerra d'indipendenza
@@ -1569,7 +1569,7 @@ PSB071	[è] molto legata alla religione perché
 PSB071	ha vissuto male la guerra [di indipenden][za]
 PSB073	[è vero]
 PSB072	[sì]
-PSB071	cioè i genitori che sono scapp[a:ti] dal {P} in indi[a:]
+PSB071	cioè i genitori che sono scapp[a:ti] dal (.) in indi[a:]
 PSB072	[sì]
 PSB072	[s]ì
 PSB071	a parenti che son scappati parenti che son stati ucci~
@@ -1586,19 +1586,19 @@ PSB072	e tutti questi erano dei diciamo
 PSB072	specie di:
 PSB072	e:hm
 PSB072	eh dei partiti islamisti che volevano stare uniti con pakistan
-PSB072	allora hanno creato questo movimenti e andavano {P} eh in cerca dei
+PSB072	allora hanno creato questo movimenti e andavano (.) eh in cerca dei
 PSB072	dei induisti o magari chi contro pakistan stavano facendo la guerra
 PSB072	andavano a prendere a casa loro e li
 PSB072	li trattavano male, e torturavano, uccidevano, allora
 PSB072	durante guerra è stato:
 PSB071	comunque quei gruppi lì non erano solo contro [gli induisti]
-PSB072	[sì {P} sì]
+PSB072	[sì (.) sì]
 PSB071	erano anche contro la lingua bengale[se]
 PSB072	[sì] sì
 PSB072	[sì]
 PSB071	[ha]nno ucciso lettera[ri], bruciato libri,
 PSB072	[<sì>]
-PSB071	cioè {P} come ha fatto il na[zismo]
+PSB071	cioè (.) come ha fatto il na[zismo]
 PSB072	[sì lo]ro non volevano[: un uno stato del bangladesh]
 PSB071	[era stato an~ volevano cancellare:]
 PSB072	loro volevano stare uniti con con pakistan perché per loro: pakistan uno stato islamico
@@ -1672,7 +1672,7 @@ PSB072	però:
 PSB072	tu~ maggior parte dei musulmani credono che lo~ sia loro è il migliore e il resto non conta niente quindi
 PSB072	c'è questa ignoranza: un po':
 PSB073	[ma: non]
-PSB005	[sì è {P} questione] [di]
+PSB005	[sì è (.) questione] [di]
 PSB072	[eh sì]
 PSB005	soldi potere eccetera sì
 PSB071	sulla cosa che dicevi te >adesso<
@@ -1684,7 +1684,7 @@ PSB071	cammina per strada,
 PSB071	induista
 PSB071	si nota la differenza perché si vestono in modo diverso,
 PSB072	s[ì]
-PSB071	[se] son sposate c'hanno[: {P} il #sindur]
+PSB071	[se] son sposate c'hanno[: (.) il #sindur]
 PSB073	[è il polvere rosso] #sindur
 PSB071	e quindi
 PSB071	fanno battute, dicono qualcosa e loro non posso~
@@ -1705,7 +1705,7 @@ PSB072	[ah i politici cercano di se]mpre sfruttare: questo:
 PSB072	divisione religiosa per eh per per dei voti e basta
 PSB005	sì sì sì
 PSB005	sì sì
-PSB005	e:h e per {ride}
+PSB005	e:h e per ((ride))
 PSB072	come qui in italia immigrati non immigrati
 PSB072	noi vogliamo immigrati noi n[o]
 PSB071	[>certo<] ci se~ ci se~ [servono in italia]
@@ -1724,7 +1724,7 @@ PSB072	diciamo poco
 PSB072	magari, qualcuno sì perché
 PSB072	loro famiglia proprio:
 PSB072	dal dal passato che andavano in chiesa,
-PSB072	fanno le: {P} cose le messe tutto quanto
+PSB072	fanno le: (.) cose le messe tutto quanto
 PSB072	magari uno ha imparato da piccolo andare
 PSB072	è rimasto: nell'idea dei suoi genitori però
 PSB072	maggior parte italiani quel~
@@ -1732,7 +1732,7 @@ PSB072	quelli che conosco io vedo che non sono molto interessati alla reli~ reli
 PSB005	e
 PSB071	anch'io eh
 PSB071	io ho visto che
-PSB071	ah in bangladesh è una cosa che {P} la cultura e la religione sono molto
+PSB071	ah in bangladesh è una cosa che (.) la cultura e la religione sono molto
 PSB071	vanno a braccetto
 PSB072	sì
 PSB071	cioè
@@ -1758,7 +1758,7 @@ PSB071	invece da noi sì proprio: ci si comporta in [modo diverso] ci si veste
 PSB072	[sì sì sì sì]
 PSB073	ognu[no pensa il suo è migli]ore
 PSB071	[in modo diverso],
-PSB071	>cioè c'è proprio< {P} cultura religione qua no
+PSB071	>cioè c'è proprio< (.) cultura religione qua no
 PSB072	sì
 PSB071	è l'unica differenza
 PSB005	ma eh
@@ -1795,13 +1795,13 @@ PSB073	però più:
 PSB073	vai avanti quaranta quarantacinque >i genitori dicono<
 PSB073	adesso ora di essere un po' religiosi
 PSB073	questo non so perché,
-PSB072	per[ché eh {P} >così< così sei più vicino]: alla tomba,
+PSB072	per[ché eh (.) >così< così sei più vicino]: alla tomba,
 PSB073	[quando sei piccola sei]
-PSB073	{ride}
+PSB073	((ride))
 PSB072	quindi alla fine
 PSB072	diven[ti religioso per andare nel para]diso
 PSB071	[xx per purificarti]
-PSB072	{ride}
+PSB072	((ride))
 PSB074	anche i trenta in realtà io cioè quanti bengalesi
 PSB074	o indiani
 PSB074	vostri coetanei
@@ -1817,15 +1817,15 @@ PSB074	tut[ti]
 PSB071	[son] tutti sposati
 PSB074	[ma combinato]
 PSB071	[prima si drogavano] fumavano:
-PSB072	{ride}
-PSB005	{ride}
+PSB072	((ride))
+PSB005	((ride))
 PSB071	[di tutto di più],
 PSB074	[ma combina~] combinato dai g~ [o dai genitori o]
 PSB072	[sì]
 PSB071	[matrimonio combina]to
 PSB071	cresciuti qua,
 PSB072	fatto tutto,
-PSB072	tutte le cose possibile e immaginabile [e poi alla fine] {ride}
+PSB072	tutte le cose possibile e immaginabile [e poi alla fine] ((ride))
 PSB074	[xxx ma dicevano] che n~
 PSB074	non non [avrebbero mai cambiato idea],
 PSB071	[ma no non è che cioè dice]vamo alla fine non ne parlavamo mai però
@@ -1834,15 +1834,15 @@ PSB071	vedi che dopo cinque anni si è sposato con un matrimonio combinato
 PSB071	anche a distanza
 PSB074	sì
 PSB071	anche con cugini
-PSB072	ah vab[bè] {ride}
-PSB073	[vabbè] {ride} quelli
+PSB072	ah vab[bè] ((ride))
+PSB073	[vabbè] ((ride)) quelli
 PSB071	>e vabbè<
 PSB073	[quella è diverso no no]
 PSB074	[quello è un gossip per dopo]
 PSB072	[sì spesso succede anche quello sì]
 PSB074	[quello è un gossip per dopo]
 PSB071	[quello è gossip per dopo]
-PSB072	{ride}
+PSB072	((ride))
 PSB073	quello quello con i cugini,
 PSB073	solo succede nel religioni musulmani cugini tra induisti non esiste per quello [tu tu]tto quello [che hai visto tutti sono]
 PSB071	[sì]
@@ -1854,7 +1854,7 @@ PSB073	[certo voglia]
 PSB071	[no matrimonio combinato è quello:]
 PSB072	[da noi è ancora tutto]
 PSB072	diciamo: ottanta per cento dei matrimoni sono: combinati
-PSB071	se sono d'amore son guardati {P} cioè sono
+PSB071	se sono d'amore son guardati (.) cioè sono
 PSB071	se scappi per amore o [pe~]
 PSB073	[o]kay
 PSB072	[cioè magari],
@@ -1866,18 +1866,18 @@ PSB071	°perché se no se°
 PSB072	il giorno dopo non vanno d'accordo o magari se uno ha s~
 PSB072	trova una ricca o ricco in quel caso quel discorso è [diverso]
 PSB071	[cambia]
-PSB072	lì i~ in quel caso eh lì {ride}
-PSB005	{ride}
+PSB072	lì i~ in quel caso eh lì ((ride))
+PSB005	((ride))
 PSB072	in quel caso, da casa si accettano [tutto quanto]
 PSB074	[però i giudici ci sa]ranno sem[pre]
-PSB072	{ride} [vabbè quello] quello sì °poi vabbè°
+PSB072	((ride)) [vabbè quello] quello sì °poi vabbè°
 PSB073	[sì quella sì]
 PSB071	no mai poi dicono che arrangiar~ d'accordo, si [cambia la storia]
-PSB072	[sì sì sì] {ride}
+PSB072	[sì sì sì] ((ride))
 PSB071	lì poi [i soldi cambiano la storia]
 PSB072	[sì sì sì tanti lo] fanno così
 PSB005	tu vuoi aggiungere qualcosa?
-PSB074	{ride}
+PSB074	((ride))
 PSB073	no perché io sono:
 PSB073	già avuto:
 PSB073	tipo come diceva lui che avevo dei
@@ -1887,7 +1887,7 @@ PSB073	con matrimonio combinato
 PSB073	per quello ho detto io ho visto tutto,
 PSB073	di come vanno, fine,
 PSB073	quello: so
-PSB005	cioè per {P} per me,
+PSB005	cioè per (.) per me,
 PSB005	io non non voglio parlare in generale per gli italiani >perché non so lo< ma per me è una cosa agghiacciante
 PSB005	cio[è]
 PSB071	[°il] matrimonio [combinato?°]
@@ -1906,7 +1906,7 @@ PSB005	allora io io non io non voglio parlare per tut[ti gli italiani s~]
 PSB071	[in sicilia c'era] il matrimonio: per [e::h]
 PSB072	[fino anni ottanta]
 PSB074	[quello è tutta] un'al~ no: non parlare di quello po~
-PSB072	{ride}
+PSB072	((ride))
 PSB074	no: è tutta un'altra cosa
 PSB071	>tutta un'altra cosa<
 PSB072	[>vabbè lasciamo stare<]
@@ -1914,7 +1914,7 @@ PSB005	[io non so che] cos'è non
 PSB072	[parliamo]
 PSB074	[vorrei dire] che se se una persona veniva:
 PSB071	[violentata]?
-PSB074	[una {P}] [eh]
+PSB074	[una (.)] [eh]
 PSB005	[ah va][bbè okay]
 PSB074	[vabbè quello è tu~]
 PSB005	[eh forse è un po' dive~] forse
@@ -1958,19 +1958,19 @@ PSB073	fu[ori dall'ital]ia cioè
 PSB005	[ah okay]
 PSB005	più la comu~ più l~ chi si è trasferito qui?
 PSB073	[qua rimasta ancora mentalità dietro],
-PSB071	[si crea una comunità, {P} rimane più stretto] alle radi[ci proprie]
+PSB071	[si crea una comunità, (.) rimane più stretto] alle radi[ci proprie]
 PSB005	[sì sì certo] °sì sì°
 PSB073	invece quelli che sono rimasti in india,
-PSB073	con il tempo vedendo altri {P} hanno cambiato,
+PSB073	con il tempo vedendo altri (.) hanno cambiato,
 PSB073	molto ma molto
 PSB073	invece miei,
 PSB073	ah
 PSB005	°okay°
 PSB071	ma forse perché:
-PSB071	io forse un'altra >spiegazione< {P} la darei
+PSB071	io forse un'altra >spiegazione< (.) la darei
 PSB074	ma
 PSB071	son stati isolati i nostri genitori anche qui lì forse i genitori tra di loro parlano
-PSB071	e ci si apre anche alla mentalità sai °sì {P} ge[nito]ri {P} figli°
+PSB071	e ci si apre anche alla mentalità sai °sì (.) ge[nito]ri (.) figli°
 PSB072	[sì]
 PSB073	e poi mh lì è diverso perché
 PSB073	bangladesh ci sono induisti,
@@ -1984,17 +1984,17 @@ PSB073	non hanno paura che i figli vanno sposare di un'altra religione
 PSB073	per quello penso che loro sono un po' più
 PSB073	tranquilli invece qua,
 PSB073	i miei genitori avevano paura che io se mi sposassi un musulmano,
-PSB073	sarà un casino {ride}
-PSB071	adesso lo sperano {ride}
-PSB072	alla fine tocca {ride}
+PSB073	sarà un casino ((ride))
+PSB071	adesso lo sperano ((ride))
+PSB072	alla fine tocca ((ride))
 PSB071	adesso [sperano]
-PSB073	{ride} [alla fine] tocca {ride}
-PSB071	{ride}
+PSB073	((ride)) [alla fine] tocca ((ride))
+PSB071	((ride))
 PSB071	adesso cosa [fai eh]
 PSB005	[così]
 PSB005	impa[rano]
 PSB071	[cosa ne] [pensavi]?
-PSB073	[così sì] imparano {P} per quello,
+PSB073	[così sì] imparano (.) per quello,
 PSB073	penso che loro vogliono mh
 PSB073	tenere molto stretto i
 PSB073	i proprio figli pensando,
@@ -2006,15 +2006,15 @@ PSB005	[sì sì ma] sì certo ma certo
 PSB073	però rimangono male:
 PSB073	che loro che i figli
 PSB005	°sì sì certo certo°
-PSB005	è tutto molto, molto molto molto interessante {ride} per me
+PSB005	è tutto molto, molto molto molto interessante ((ride)) per me
 PSB005	sì sì
 PSB005	assolutamente
 PSB005	ma non lo so stavo pensando a qualche cosa di più: legge~ le~ un un tema un po' più leggero non lo so tipo
 PSB005	tipo il cibo, la la la cucina, delle [dei vostri genito~],
-PSB072	[anche il cibo è pesan]te là {ride}
-PSB005	{ride}
+PSB072	[anche il cibo è pesan]te là ((ride))
+PSB005	((ride))
 PSB073	[(io nel guaio)]
-PSB071	[bisognerebbe avere una settima]na {ride}
+PSB071	[bisognerebbe avere una settima]na ((ride))
 PSB072	sì
 PSB005	anche [qua però]
 PSB072	[una volta man]gi ti rimane[:]
@@ -2064,7 +2064,7 @@ PSB073	quando faccio una fatica ogni volta che esco
 PSB073	perché o loro vogliono una cosa perché loro tre mangia di tutto io sono l'unica,
 PSB073	che
 PSB073	guardo bene i menù se tro[vo qualco~]
-PSB074	[allora {P}] o pollo,
+PSB074	[allora (.)] o pollo,
 PSB072	[non è che non gli piace cuc]inare italiano [solo che lei ma]ngia poch[issimo ca]rne carne rossa non li mangia [mai]
 PSB074	[o pizza],
 PSB074	[o cinese]
@@ -2076,12 +2076,12 @@ PSB074	[solo il pollo]
 PSB072	[quindi alla fi]ne è un po' diffcile trovare [ristora]nte italiano [trovare solo il pollo]
 PSB071	[sì]
 PSB074	[ma nemmeno cotole]tta proprio
-PSB074	cioè cotoletta {P} [pollo],
+PSB074	cioè cotoletta (.) [pollo],
 PSB073	[cotoletta di pollo s]ì
 PSB074	[però non xxx]
 PSB073	[solo pollo]
 PSB074	[esatto]
-PSB073	[deve essere] {ride} scritto
+PSB073	[deve essere] ((ride)) scritto
 PSB071	in i~ nell'indiano all'indiano non mangi: carne rossa?
 PSB072	[no ah ah]
 PSB071	[xx]
@@ -2103,14 +2103,14 @@ PSB074	[lei mangia so]lo pollo
 PSB073	solo pollo
 PSB072	io mangio tutti i giorni a lavoro pranzo,
 PSB072	eh mangio sempre italiano,
-PSB072	e a me piace un sacco {ride}
+PSB072	e a me piace un sacco ((ride))
 PSB072	e poi a volte provo di: cucinare a casa un po' il nostro nostro piatti,
 PSB072	quello che ci riesco
 PSB072	imparato più o meno le cose e::h
 PSB072	riesco di cercare farle poi
 PSB071	ho trovato un sito adesso dopo te lo mando un sito youtube,
-PSB073	{ride}
-PSB072	dove [ti insegna: i piatti s~ {P}] sì
+PSB073	((ride))
+PSB072	dove [ti insegna: i piatti s~ (.)] sì
 PSB071	[di kalkuta di kolkata]
 PSB071	[ragazzi] giovani [che]
 PSB072	[sì]
@@ -2120,10 +2120,10 @@ PSB072	sì
 PSB071	>quello è buono dopo te lo mando<
 PSB005	[anch'io anch'io]
 PSB071	[l'ho trovato oggi]
-PSB071	{ride}
-PSB073	{ride}
+PSB071	((ride))
+PSB073	((ride))
 PSB005	sì [sì]
-PSB071	#[bong]cha {P} hanno sia il sito inglese,
+PSB071	#[bong]cha (.) hanno sia il sito inglese,
 PSB072	sì
 PSB071	che il sito b[angla] che parla solo bangla
 PSB073	[come si chiama]?
@@ -2139,7 +2139,7 @@ PSB073	[bongit]
 PSB072	[bongit]
 PSB071	[bongit]
 PSB072	l'ha [usato già]
-PSB005	[ah è lo stess]o ma {P} non [sono di qua cioè sono:]
+PSB005	[ah è lo stess]o ma (.) non [sono di qua cioè sono:]
 PSB072	[lei guarda sempre il s~ sempre sì]
 PSB071	[no no è de~:] proprio di cal[cutta] è un [sono youtuber]
 PSB005	[okay]
@@ -2173,7 +2173,7 @@ PSB073	[tanto olio]
 PSB071	cioè fai il [#bagar che è:]
 PSB072	[sì sì sì sì sì sì sì]
 PSB074	burro chiarificato
-PSB071	burro {P} chiarificato il #ghi
+PSB071	burro (.) chiarificato il #ghi
 PSB072	lei lei si incazza spesso con me quando cucino bengalese metto troppo olio,
 PSB072	perché hai messo così tan[to olio]
 PSB073	[no io] io cioè proprio:
@@ -2189,7 +2189,7 @@ PSB073	mia mamma una volta prima che: sono anda~ sono andata via,
 PSB073	lei proprio faceva piatto per loro,
 PSB073	e qualcosa anche per me
 PSB073	perché se no non ci riuscivo poi
-PSB073	da noi {P} tante spezie,
+PSB073	da noi (.) tante spezie,
 PSB073	tante pe~ piccante,
 PSB073	e tanto olio
 PSB072	adesso adesso spiega il piatto #chili #chicken °come si fa°
@@ -2206,7 +2206,7 @@ PSB072	[vabbè (chiaro)]
 PSB071	[dimer torkari]
 PSB073	xxx
 PSB071	dimer torkari xx
-PSB072	{ride} sì
+PSB072	((ride)) sì
 PSB071	[sì]
 PSB073	[vabbè]
 PSB072	[sì]
@@ -2229,7 +2229,7 @@ PSB071	[curcuma]
 PSB073	[curcuma]
 PSB073	curcuma e: sale devi:
 PSB073	cioè mescolare friggere in olio,
-PSB072	una volta [fatto:] {ride} il [coso bollito] poi bisogna eh
+PSB072	una volta [fatto:] ((ride)) il [coso bollito] poi bisogna eh
 PSB073	[una volta]
 PSB073	[una volta]
 PSB071	sì lo [sgusci lo] tagliuzz[i]
@@ -2242,7 +2242,7 @@ PSB071	[da me] [lo tagliano un poche][ttino]
 PSB072	[si crepa]
 PSB073	[si cre]pa eh meglio
 PSB072	se [tagli uovo]
-PSB073	[cioè {P} però vero]
+PSB073	[cioè (.) però vero]
 PSB071	[però] entra un po' dentro
 PSB072	[sì però ah vo~ rischi]a che cre[pa]
 PSB073	[per deve entrare],
@@ -2280,11 +2280,11 @@ PSB072	un po' [di patate xx]
 PSB073	[ogni volta]
 PSB074	[allora scu]sate
 PSB074	cioè io quando vengo non c'ho mai le mie patate
-PSB073	{ride}
+PSB073	((ride))
 PSB073	cioè da [noi su]ccede anche così che:
 PSB074	[cioe]
 PSB073	chi mangia le patate tipo le storie che mi fa sentire mio padre,
-PSB073	che {P} litigavano per le patate poi si frigge anche le patate,
+PSB073	che (.) litigavano per le patate poi si frigge anche le patate,
 PSB073	dopo tante di quelle spezie
 PSB073	eh #cumin,
 PSB073	e:hm
@@ -2302,8 +2302,8 @@ PSB073	poi,
 PSB073	#kashmiri #red #chili #powder che sarebbe un e:h
 PSB071	quello
 PSB072	paprika quello:
-PSB071	[però forte quella: {P} è diverso]
-PSB073	[quello {P} no no no quello so]lo che fa il colore
+PSB071	[però forte quella: (.) è diverso]
+PSB073	[quello (.) no no no quello so]lo che fa il colore
 PSB072	okay
 PSB073	[che sì] sì [xx] [eh si chiama proprio] #kashmiri #red #chili #powder che fanno in
 PSB071	[sì],
@@ -2321,7 +2321,7 @@ PSB073	[proprio pollo]
 PSB071	[peperoncino verde]
 PSB073	[sì quello cer]to
 PSB073	quello senza [di quello non si fa]
-PSB071	[noi usiamo {P} noi non usiamo] più il peperoncino verd[e],
+PSB071	[noi usiamo (.) noi non usiamo] più il peperoncino verd[e],
 PSB072	[xxx]
 PSB072	[sì]
 PSB071	lu:n[go]
@@ -2332,16 +2332,16 @@ PSB072	okay
 PSB073	anche quel polvere di #kashmiri #red #chili #powder perché per dare un po' di colore.
 PSB073	poi quando si mette quello mette anche un pomodoro,
 PSB073	e poi se
-PSB073	metto un pochino di {P} ehm
+PSB073	metto un pochino di (.) ehm
 PSB073	eh come si chiama
-PSB005	{ride}
+PSB005	((ride))
 PSB073	ACQUA acqua per eh
 PSB073	per eh passare l'odor~ p~ p~ ehm
 PSB073	odore un po' le spezie deve nan~ deve anche cucire no
 PSB073	e passa un po' di odore dopo un po' lo mette
 PSB073	l'acqua bollente tanti non li mettono
 PSB073	lui non lo mette acqua bollente
-PSB073	lo mette cioè l'acqua {P} lo tiene da parte l'acqua bollente
+PSB073	lo mette cioè l'acqua (.) lo tiene da parte l'acqua bollente
 PSB073	poi uova,
 PSB073	[e poi lo lascia bollire]
 PSB071	[e si fa il curry]
@@ -2351,14 +2351,14 @@ PSB005	ma le spezie si trovano qui?
 PSB073	s[ì]
 PSB072	[s]ì
 PSB005	dove?
-PSB005	in {P} quali negozi?
+PSB005	in (.) quali negozi?
 PSB072	ci sono un sacco di neg[ozi bengalesi tutti i negozi] [alimentari che trovi sono si trova qui] a bologna,
 PSB071	[tutti i negozi bengalesi]
 PSB073	[bengalesi indiani pakistani]
-PSB072	in qualsiasi {ride} [sì sì no]
+PSB072	in qualsiasi ((ride)) [sì sì no]
 PSB005	[facilissimo okay]
-PSB071	adesso {P} mia mamma, {P} ascoltando i miei cugini,
-PSB071	ha iniziato a portare {P} chili di spezie nel bagagli[o]
+PSB071	adesso (.) mia mamma, (.) ascoltando i miei cugini,
+PSB071	ha iniziato a portare (.) chili di spezie nel bagagli[o]
 PSB072	[s]ì?
 PSB073	[anche] mia mamma sai perché?
 PSB071	[sì]
@@ -2375,24 +2375,24 @@ PSB071	[colorante: e anche]
 PSB072	invece se porti da [casa te compri proprio le spe]zie in~ [integro],
 PSB071	[xxxx]
 PSB071	[intere],
-PSB072	[e poi fai macina]re e porti io {P} ogni tanto lo porto
+PSB072	[e poi fai macina]re e porti io (.) ogni tanto lo porto
 PSB071	[integro normale no]
 PSB072	però po[co non esagerato]
 PSB071	[eh vabbè te sei da so]lo
 PSB072	una volta,
-PSB072	avevo chies[to: la cur]cuma mia mam[ma ha fatto un pacchetto] grande [così {P} poi portato qui],
+PSB072	avevo chies[to: la cur]cuma mia mam[ma ha fatto un pacchetto] grande [così (.) poi portato qui],
 PSB071	[hai portato]
 PSB071	[eh esatto]
 PSB071	[un pacchetto così sì sì]
-PSB072	{ride} qua ao~
+PSB072	((ride)) qua ao~
 PSB072	parlato con mio collega >mio collega fa< sai che mia mamma usa tantissimo
 PSB072	e: a lei gli piace dice che: fa bene per la salute.
 PSB072	e:h [eh] mi potresti dare un un po' poi ho fatto il barattolo a lui così grande
 PSB073	[è vero]
-PSB072	ha portato qui fa ma cosa devo fare con questa {ride}
+PSB072	ha portato qui fa ma cosa devo fare con questa ((ride))
 PSB073	no questa cosa è vera che lo portano anche mia mamma,
-PSB073	perché lei {P} ha avuto dei problemi,
-PSB073	proprio {P} non sto[maco dava fastidi]o
+PSB073	perché lei (.) ha avuto dei problemi,
+PSB073	proprio (.) non sto[maco dava fastidi]o
 PSB005	[non è stata bene sì]
 PSB073	lei e:h
 PSB073	due anni fa quando è andata in india ha proprio comprato le spezie,
@@ -2401,19 +2401,19 @@ PSB073	e lei ha portato ancora c'è
 PSB073	eh [ques]t'anno se va lo porta di nuovo
 PSB005	[certo]
 PSB005	sì sì
-PSB071	e quindi {P} si trovano però,
+PSB071	e quindi (.) si trovano però,
 PSB072	sì
 PSB071	alcuni vanno a rice[rcarlo lì]
 PSB072	[preferiscono sì]
 PSB073	perché: è più buono e più sano sicuramente
 PSB005	e e un buon ristorante indiano a bologna?
-PSB073	per me {P} proprio indiani che fanno,
+PSB073	per me (.) proprio indiani che fanno,
 PSB072	sì
 PSB073	in via massarenti?
 PSB071	ban[gla non si trova]
 PSB072	[devi andare]
 PSB074	ah quello là:
-PSB072	[sì {P} quello lì è top]
+PSB072	[sì (.) quello lì è top]
 PSB073	[quello via massarenti],
 PSB071	[quale]
 PSB073	[si chiama],
@@ -2432,13 +2432,13 @@ PSB072	[maharajah]
 PSB071	[davanti al coso al cinese]
 PSB005	[in via massarenti okay]
 PSB072	[sì mahara]jah
-PSB072	è buonisssi[mo {P} se mangi]
+PSB072	è buonisssi[mo (.) se mangi]
 PSB071	[buono ci siete andati]?
 PSB073	[è buonissimo]
 PSB074	due volte
-PSB072	ma~ ma~ mangi di {ride}
-PSB005	{ride}
-PSB073	{ride} senza di te
+PSB072	ma~ ma~ mangi di ((ride))
+PSB005	((ride))
+PSB073	((ride)) senza di te
 PSB072	se ma~ se mangi biryani là
 PSB072	vab~
 PSB005	oka~ okay
@@ -2450,7 +2450,7 @@ PSB072	sì an[che noi però] da quando che abbiamo trovato que[sto qua se]mpre [
 PSB073	[quello che s~]
 PSB071	[sempre lì]
 PSB073	[grazie a me]
-PSB074	(padroni) sono: {P} cioè sono [una famiglia cioè]
+PSB074	(padroni) sono: (.) cioè sono [una famiglia cioè]
 PSB071	[son buoni i biryani]?
 PSB072	[sì sì sì]
 PSB073	[sì una famiglia che]
@@ -2459,7 +2459,7 @@ PSB071	[a me mi è rimasto] un biryani [che] l'avevo portato l'avevo provato a p
 PSB072	[beh]
 PSB072	sì
 PSB071	buono ma poi è cambiato lo chef sicuro perché
-PSB071	la prossima volta che l'ho ordinato era {P} [color giallo] e basta
+PSB071	la prossima volta che l'ho ordinato era (.) [color giallo] e basta
 PSB072	[xx]
 PSB071	[se vedi] un biryani color gi~ colorato,
 PSB072	[xx]
@@ -2467,7 +2467,7 @@ PSB005	non va bene
 PSB072	vabbè abbiamo [mangiato dov'è che eravamo]?
 PSB071	[devi aprirlo e devi sentire:] [le spezie]
 PSB073	[al eh m]ilano
-PSB072	mila~ no no non è milano {P} un'altra volta che abbiam mangiato
+PSB072	mila~ no no non è milano (.) un'altra volta che abbiam mangiato
 PSB073	noi ovunque andiamo,
 PSB073	qualsiasi parte del mondo prima cosa che si fa la ricerca
 PSB073	ristorante indiano vicino
@@ -2475,7 +2475,7 @@ PSB005	[io sono stata:]
 PSB072	[o o se no italiano]
 PSB005	sono stata a porta san vitale quello a porta san vitale
 PSB072	sì?
-PSB005	ma a {P} per me era buono però non vale [cioè]
+PSB005	ma a (.) per me era buono però non vale [cioè]
 PSB072	[sì]
 PSB071	io una delle prime volte che aveva aperto,
 PSB071	avevo ordinato,
@@ -2500,7 +2500,7 @@ PSB073	[e poi]
 PSB005	[è molto diver]so?
 PSB072	[è un po' diverso]
 PSB073	[e diverso]
-PSB071	sì è {P} [sì]
+PSB071	sì è (.) [sì]
 PSB074	[comu]nque anche se anche se magari è autentico non sarà mai piccan[te: e speziato come lo fanno secondo m]e eh
 PSB005	[ma certo ma sì certo sì sì]
 PSB073	quello è [vero]
@@ -2512,8 +2512,8 @@ PSB071	uno snack autentico del [bangla]desh [in piaz]za dell'unità
 PSB072	[sì]
 PSB072	[sì]
 PSB073	aspetta prima prov~ andiamo noi $saggiamo poi ti [diciamo]
-PSB071	[e poi] {ride}
-PSB073	[perché {P} quel] snack c~ sta dicendo,
+PSB071	[e poi] ((ride))
+PSB073	[perché (.) quel] snack c~ sta dicendo,
 PSB071	[se vuoi]
 PSB073	è tipo una [palla],
 PSB071	[è uno street food]
@@ -2529,10 +2529,10 @@ PSB073	se lo ta~ se lo metti perché devi mettere in una in una volta tutta quel
 PSB072	[in un boccone]
 PSB073	se non è buono,
 PSB073	ti fai male dentro la bocca proprio sì:: tesoro se non hai mangiato [quelli]
-PSB072	[no qui] sicuramente fanno come si deve se no {ride}
+PSB072	[no qui] sicuramente fanno come si deve se no ((ride))
 PSB073	chi si [sa]
-PSB071	[non lo] fanno [loro se~ {P} secondo me comprano]
-PSB072	[dopo prendi la denuncia] {ride}
+PSB071	[non lo] fanno [loro se~ (.) secondo me comprano]
+PSB072	[dopo prendi la denuncia] ((ride))
 PSB071	comprano [i pezzi]
 PSB072	[sì sì sì sì]
 PSB073	comprano quei pezzi [sì #fuchka]
@@ -2541,7 +2541,7 @@ PSB073	è buonis[simo]
 PSB005	[okay]
 PSB005	e quindi mi dicevate che c'è differenza fra le due cucine
 PSB072	un [po' sì non non] [troppo]
-PSB071	[sì {P} un po' sì]
+PSB071	[sì (.) un po' sì]
 PSB073	[vabbè que]llo [ti di]co
 PSB071	[beh]
 PSB073	di[pende] dalla città
@@ -2587,7 +2587,7 @@ PSB073	[olio eh il #mustard #oil]
 PSB071	[di mostarda]
 PSB072	è il eh quello di [senape] olio di senape
 PSB073	[mustard oil]
-PSB071	[sì se]pa~ senape {P} mos[tarda]
+PSB071	[sì se]pa~ senape (.) mos[tarda]
 PSB072	[quello] se~ senape
 PSB005	[sì]
 PSB071	[eh]
@@ -2597,7 +2597,7 @@ PSB072	[mostarda sì ha lo sì] sì
 PSB005	secondo me il problema è che non sono mai esattamente la stessa cosa quindi po[ssiamo] dire nomi diversi ma non è proprio [uguale] sì
 PSB071	[sì]
 PSB072	[sì sì]
-PSB005	[cioè per me la s]enape è la salsa quella {P} gialla che si mette con i [wurstel]
+PSB005	[cioè per me la s]enape è la salsa quella (.) gialla che si mette con i [wurstel]
 PSB071	[sono così]
 PSB072	[allora no no] no #mustard è quella che dicevi te
 PSB005	e poi ci c'è ci sono i semi con cui si fa quella [e]:
@@ -2607,11 +2607,11 @@ PSB071	[sì]
 PSB073	[sì]
 PSB005	sì
 PSB071	[io dicevo sempre x]
-PSB072	[alla {P} alla fine loro] cucina il nostro uguale
+PSB072	[alla (.) alla fine loro] cucina il nostro uguale
 PSB005	[sì]
 PSB072	qua[si identico] novanta: sette per[cento novantotto per cento perché]
 PSB071	[s:ì]
-PSB071	[vabbè la base è {P} la base] è il riso
+PSB071	[vabbè la base è (.) la base] è il riso
 PSB072	perché base ri[so e pesce]
 PSB073	[base riso pe][sce]
 PSB072	[riso e p]esce perché
@@ -2626,7 +2626,7 @@ PSB072	beng~ non [bengalese quello] è quello è del e:h no quello che parlano l
 PSB071	[bengalese sì]
 PSB072	era unica ban[gla]
 PSB071	[sì]
-PSB072	tu[tto fusa con] {P} calcutta,
+PSB072	tu[tto fusa con] (.) calcutta,
 PSB071	[tutta una xx]
 PSB072	tutti erano dipendenti dal dalle pes[che]
 PSB071	[°ah è ve]ro°
@@ -2655,11 +2655,11 @@ PSB071	c'è l'animale nazionale il fiore nazionale,
 PSB071	>cioè<
 PSB073	piatto naziona[le],
 PSB071	[esa]tto
-PSB071	da da noi non [{P} in italia non]
+PSB071	da da noi non [(.) in italia non]
 PSB072	[la frutta]
 PSB005	[non lo so la pizza] [forse]
 PSB072	[la fru~ frutta] sì eh [sì]
-PSB071	[però {P} no è {P} è ufficiale]
+PSB071	[però (.) no è (.) è ufficiale]
 PSB073	[frutta nazionale sarebbe mango]
 PSB071	[cioè non è una cosa detta]
 PSB005	[eh beh sì no no]
@@ -2684,7 +2684,7 @@ PSB073	[ne ho ass]aggiato pochissimo
 PSB071	[a me sì]
 PSB073	io:: faccio fat~ cioè come dicevano carne proprio:
 PSB071	tortelli?
-PSB073	tortelli di: [{P} mh spinaci °sì°]
+PSB073	tortelli di: [(.) mh spinaci °sì°]
 PSB071	[tortellini, tagliatelle],
 PSB073	quello: è buonissimo que[llo eh posso mangiare sì]
 PSB071	[tagliatelle al ragù],
@@ -2698,24 +2698,24 @@ PSB005	mangi anche il maiale?
 PSB072	sì sì sì [io mangio] qualsiasi cosa
 PSB005	[okay]
 PSB005	no perché bologna per i musulmani è terribile non si può [mangiare niente]
-PSB072	{ride}
-PSB071	[allora {P}] dipende
+PSB072	((ride))
+PSB071	[allora (.)] dipende
 PSB071	io con i ragazzi con cui sono uscito,
 PSB073	siete tutti [musulman~]
 PSB071	[due mangiavano] maiale,
 PSB071	tutti gli altri bevevano si drogavano ma niente maiale
-PSB005	{ride}
-PSB073	{ride}
-PSB072	ah {P} allora {P} allora ma
+PSB005	((ride))
+PSB073	((ride))
+PSB072	ah (.) allora (.) allora ma
 PSB072	allora i bengalesi musulmani,
 PSB072	novantanove percento possono bere, possono drogarsi, possono rubare, possono fare qualsiasi cosa possono andare anche
 PSB072	non so se posso dire andare [eh],
 PSB073	[eh],
-PSB072	però {P} mangiare maiale è {P} [proprio no] proprio no
+PSB072	però (.) mangiare maiale è (.) [proprio no] proprio no
 PSB071	[no]
 PSB072	quello, non si può
 PSB072	quello: di[fficile]
-PSB005	[che quest~] {P} mi uccidete xx
+PSB005	[che quest~] (.) mi uccidete xx
 PSB072	eh è la verità [la verità è] così
 PSB071	[è così]
 PSB073	ne~ è que~ per quello che:
@@ -2733,13 +2733,13 @@ PSB071	mh
 PSB073	cosa succede fa prima [viene nel mio piatto]
 PSB072	[quando avevo mangiato que]l e:h
 PSB074	pizza
-PSB072	no [{P} a]bbiamo fatto quell'aperitivo tipo aperi~ apericena
+PSB072	no [(.) a]bbiamo fatto quell'aperitivo tipo aperi~ apericena
 PSB073	[no]
 PSB071	con chi era?
 PSB072	la: c'e[ra]
 PSB074	[al] lab sedici?
 PSB072	come si chiama proprio all'inzio del via zam[boni]
-PSB005	[al lab se][dici {P} sì sì]
+PSB005	[al lab se][dici (.) sì sì]
 PSB074	[al lab sedici]
 PSB072	ah sì sì sì
 PSB071	sì
@@ -2751,8 +2751,8 @@ PSB073	[lui guarda così]
 PSB072	quindi dopo mi rompevano il cazzo di brutto
 PSB072	facevano domande su domande allora io ho detto evito
 PSB071	anche in pizzeria an[che]
-PSB072	[sì] {ride}
-PSB071	c'era il suo amico che [c~ {P} che faceva la pizza:]
+PSB072	[sì] ((ride))
+PSB071	c'era il suo amico che [c~ (.) che faceva la pizza:]
 PSB074	[no ma è anche anche in pizzeria]
 PSB072	[perché]
 PSB072	perché nostri compaesani maggior parte de~ dei loro non fanno mai i fatti loro sempre
@@ -2765,7 +2765,7 @@ PSB005	comunque questa cosa ci accomuna noi
 PSB072	sì
 PSB005	gli italiani voi
 PSB005	gli arabi
-PSB005	an~ tan[tis]simo cioè siamo tutti uguali {ride}
+PSB005	an~ tan[tis]simo cioè siamo tutti uguali ((ride))
 PSB072	[sì]
 PSB005	farsi gli affari propri non è no
 PSB072	[è un po' diffici]le
@@ -2775,7 +2775,7 @@ PSB005	infa~
 PSB005	comunque questa cosa del maiale io ho l'impressione che anche per e:h
 PSB005	musulmani insomma di altri paesi tipo marocchini così
 PSB072	sì
-PSB005	non sia tanto una cosa legata al {P} non sia tanto un obbligo legato alla re~ alla religione ma proprio una ma~
+PSB005	non sia tanto una cosa legata al (.) non sia tanto un obbligo legato alla re~ alla religione ma proprio una ma~
 PSB005	come se a me mi dessero da mangiare le:
 PSB071	[mia mamma il maiale non lo ma~]
 PSB005	[non so gli insetti cioè una cosa] che non che [non]
@@ -2795,28 +2795,28 @@ PSB072	capito
 PSB005	però anche tutto il resto sare~ anche il bere sarebbe [una credenza]
 PSB072	[sì però per loro] quello per[ché perché quello lì pa~]
 PSB073	[quello fa meno]
-PSB071	[forse {P} lei dice] che forse è una giustificazione la relig[ione]
+PSB071	[forse (.) lei dice] che forse è una giustificazione la relig[ione]
 PSB072	[no] no [per]
 PSB071	[però gli] fa schifo vera[mente]
 PSB072	[vabbè] perché [perché si fa diver]tire l'altre co[se]
 PSB074	[può essere]
 PSB071	[eh eh]
-PSB072	[maiale mica se {P} maia~ con maiale mi]ca può bal[lare {P} con be]re sì
+PSB072	[maiale mica se (.) maia~ con maiale mi]ca può bal[lare (.) con be]re sì
 PSB005	[eh il maiale no giusto]
 PSB071	[beh beh]
 PSB071	dipende se asci~ assaggi certe cose,
-PSB005	{ride}
-PSB071	e {P} la tua {P} bocca ha certe [emozioni]
+PSB005	((ride))
+PSB071	e (.) la tua (.) bocca ha certe [emozioni]
 PSB072	[sì sì sì sì]
-PSB073	{ride}
+PSB073	((ride))
 PSB071	cer[ti]
 PSB005	[tipo] tipo il ragù
-PSB005	la mortadella ec[cetera] {ride} [sì]
+PSB005	la mortadella ec[cetera] ((ride)) [sì]
 PSB071	[eh]
 PSB072	[mortadella] è buonissima io ogni volta che quando qualcuno porta le paste,
 PSB072	al lavoro,
-PSB072	ogni ogni piccolo: panini che quelli che trovo con mortadella tutti quanti li prendo io {ride}
-PSB073	{ride}
+PSB072	ogni ogni piccolo: panini che quelli che trovo con mortadella tutti quanti li prendo io ((ride))
+PSB073	((ride))
 PSB005	eh sì a me la la cuci~ invece la cucina bolognese non non sono una f[an no] no non
 PSB071	[>non ti piace<]
 PSB071	è bella pesante
@@ -2825,7 +2825,7 @@ PSB071	[xx]
 PSB005	[cioè la carne non la mangio sì]
 PSB071	[ah]
 PSB073	[io vorrei es]sere
-PSB005	mangio solo il [{P} solo il pesce]
+PSB005	mangio solo il [(.) solo il pesce]
 PSB073	[solo che mia mamma non] mi dà
 PSB071	[xxx religione]
 PSB073	[perché dic~]
@@ -2834,7 +2834,7 @@ PSB074	[noi ci stiamo prova:~]
 PSB073	[ma mangio neanche tante verdure per quello]
 PSB071	[noi stiamo cercando di diminuire]
 PSB074	[noi a casa] non lo mangiamo per nulla
-PSB071	stiamo cercando di diminuire {P} non comprarlo
+PSB071	stiamo cercando di diminuire (.) non comprarlo
 PSB072	cosa
 PSB074	a casa non man[giamo per nulla]
 PSB071	[carne e pesce di] comprarlo il meno possibile
@@ -2850,22 +2850,22 @@ PSB071	se avessi la possibilità come in bangladesh di andare
 PSB071	[dal eh dal vic]ino,
 PSB073	[comprar le verdure]
 PSB072	sì
-PSB071	e andare a prendere dammi quel [{P} dammi quel pollo],
+PSB071	e andare a prendere dammi quel [(.) dammi quel pollo],
 PSB072	[tutti i giorni sì sì]
 PSB005	no ma bolo[gna non non]
 PSB071	[lo mangerei di più]
 PSB005	è difficile
-PSB071	esatto a bologna è difficile quindi {P} da come viene processa~ cioè
+PSB071	esatto a bologna è difficile quindi (.) da come viene processa~ cioè
 PSB005	[mhmh]
 PSB071	[tutta] la catena,
 PSB072	sì un po':
 PSB071	[esatto]
 PSB072	[vabbè]
 PSB073	no io invece lo ragiono proprio in un altro modo
-PSB071	cioè {P} io s~ sono andato [quest'anno a dacca e vedi] i polli coltivat~ perché
+PSB071	cioè (.) io s~ sono andato [quest'anno a dacca e vedi] i polli coltivat~ perché
 PSB074	[poveri animali vero]
 PSB073	[poveri animali]
-PSB071	anche lì o~ ormai ci sono i poll[i: {P} da: #farm li chiamano quindi da coltiva]zion[e],
+PSB071	anche lì o~ ormai ci sono i poll[i: (.) da: #farm li chiamano quindi da coltiva]zion[e],
 PSB072	[sì co~ tutti coltivati sì]
 PSB072	[sì sì sì sì]
 PSB072	[sì]
@@ -2907,10 +2907,10 @@ PSB072	[sì sì sì]
 PSB071	rispetto all'altro pollo [che]
 PSB072	[sì]
 PSB005	invece tu sei più animalista
-PSB073	io, {P} >cioè< io,
+PSB073	io, (.) >cioè< io,
 PSB073	[l'ho visto quando]
 PSB071	[scusami se eri] sensibile,
-PSB005	no no no {P} no no no no
+PSB005	no no no (.) no no no no
 PSB005	[°no no nessun problema°]
 PSB073	[io ho visto in india] come uccidono
 PSB073	io
@@ -2933,7 +2933,7 @@ PSB074	[sì] come lo uccidono
 PSB071	il pie~
 PSB071	[le centinaia]
 PSB074	[mi ha mandato un video lo scorso giorno [cioè io mi son cioè non è cioè]
-PSB005	[no no no {P} non {P} non fatemi vedere video di animali no]
+PSB005	[no no no (.) non (.) non fatemi vedere video di animali no]
 PSB071	[no]
 PSB071	le centinaia di a~ eh
 PSB071	il come funziona una catena industriale lì
@@ -2969,7 +2969,7 @@ PSB071	c'è la lisca in mezzo al pesce te [prendi la parte sop]ra e la parte sot
 PSB072	[poi poi]
 PSB071	da noi si taglia
 PSB072	sì
-PSB005	[cioè te lo {P} qua] te lo puliscono di[ciamo]
+PSB005	[cioè te lo (.) qua] te lo puliscono di[ciamo]
 PSB071	[a pezzettoni]
 PSB072	[sì]
 PSB071	anche lì te lo puliscono però taglian~ [te lo tagliano a pezzettoni]
@@ -2994,9 +2994,9 @@ PSB074	[qualsiasi ti]po di pesce
 PSB071	sì [qualsiasi tipo di pesce]
 PSB073	[qualsiasi tipo di pe]sce
 PSB074	ma io eh
-PSB074	il pesce va cioè {P} ci sono modi e modi tipo di [tagliare il salmone, di tagliare]
+PSB074	il pesce va cioè (.) ci sono modi e modi tipo di [tagliare il salmone, di tagliare]
 PSB071	[no]
-PSB072	[sì sì {P} no: no no]
+PSB072	[sì sì (.) no: no no]
 PSB071	[no]
 PSB071	no
 PSB071	non si toglie la lisca, n[on si] toglie la pelle, o la testa
@@ -3005,16 +3005,16 @@ PSB073	ma [da noi mangia pure pelle]
 PSB071	[la testa anzi si cucina:]
 PSB072	[la li]sca la toglie via però: [pelle no]
 PSB071	[no beh] scusa se tagli così la lisca è quella centrale
-PSB071	le oss~ [{P} cioè] le spine
+PSB071	le oss~ [(.) cioè] le spine
 PSB072	[ah okay]
-PSB072	sì {P} okay
+PSB072	sì (.) okay
 PSB073	sì però puliscono:: [sto]maco [tutta quella roba ma]
 PSB071	[sì]
 PSB072	[sì però se qualcuno va a co]mprare un pollo non è che lì trovi [già] tutto tagliato pronto se anche intera
 PSB071	[eh]
 PSB071	[no]
 PSB071	da noi si mangi[a la testa],
-PSB072	[scegli e sce]gli {P} no scegli uno,
+PSB072	[scegli e sce]gli (.) no scegli uno,
 PSB071	sì
 PSB072	lì proprio nel posto viva te lo tagliano poi
 PSB072	[°>poi dopo<°]
@@ -3027,14 +3027,14 @@ PSB005	beh eh
 PSB071	del pesce
 PSB072	[cosa]?
 PSB071	[mangi]amo le interiora del pesce
-PSB071	[alcune parti {P} alcune cose sì]
+PSB071	[alcune parti (.) alcune cose sì]
 PSB072	[eh di alcune sì alcune parti sì] sì
 PSB072	sì
 PSB071	>cioè<
 PSB073	anche la [testa]
 PSB005	[qua siamo un po'] più
 PSB071	eh
-PSB005	difficili un po' più fighetti sì {ride}
+PSB005	difficili un po' più fighetti sì ((ride))
 PSB072	poi da noi mangia mangiano co~ eh co~ eh
 PSB072	diciamo i pesci dei dei laghetti, [del fiume],
 PSB071	[ma tipo uova], cioè
@@ -3045,13 +3045,13 @@ PSB005	[sì sì sì]
 PSB071	al[cune pa]rti
 PSB005	[°sì sì°]
 PSB072	gli allevamenti abbiamo: tanti pesci de~ che vengono dal fiume dei l~ dei laghetti
-PSB072	qui in italia invece: i pesci dei lagh[etti {P} mangiano pochissimo]
+PSB072	qui in italia invece: i pesci dei lagh[etti (.) mangiano pochissimo]
 PSB071	[sì]
 PSB071	[è tutto di acqua do]lce d[a noi]
 PSB072	[sì] sì
 PSB005	ah beh
 PSB005	ma è sul mare il bangladesh?
-PSB071	<sì>, fors~ {P} [ecco]
+PSB071	<sì>, fors~ (.) [ecco]
 PSB072	[da una par]te
 PSB071	alcune città sul mare mangiano
 PSB071	pe[sce]
@@ -3082,7 +3082,7 @@ PSB071	[però n~ è un pesce] [non è un'anguilla]
 PSB072	un is~ un [un specie di anguilla cioè ti~]
 PSB072	penso che è delle [stesso:]
 PSB071	[io ho mangiato l'anguilla] però non [è l'anguilla]
-PSB072	[sì {P} non è angui]lla,
+PSB072	[sì (.) non è angui]lla,
 PSB072	però n~ un pesce sembra come un'anguilla
 PSB072	[l'angui~]
 PSB005	[io] non l'ho mai mangiata sì
@@ -3108,7 +3108,7 @@ PSB071	[c'è] chi dice che i granchi sono come gli scarafaggi terrestri
 PSB005	[>cioè< i~]
 PSB071	uno è d'acqua e uno sono della stessa famiglia uno è d'acqua e uno è di [terra]
 PSB072	[non non è vero]
-PSB071	sono: [{P} della stessa fami]glia
+PSB071	sono: [(.) della stessa fami]glia
 PSB072	[non non è della stessa famiglia]
 PSB072	no
 PSB071	i granchi e: i:
@@ -3129,12 +3129,12 @@ PSB072	sì
 PSB072	a~ [a~ le vi-vi~ vic]ino a imola fanno anche sagra sagra eh del [rana]
 PSB071	[non le ho mai mangiate]
 PSB005	[della ra]na sì è possibile sì sì
-PSB072	{ride}
+PSB072	((ride))
 PSB005	no no [l'ho già]
 PSB072	[l'ho mangiato]
 PSB071	[che] sa di pesce
 PSB071	secondo me
-PSB072	[no di pollo {P} di pollo {P} di pollo però] secondo me è più
+PSB072	[no di pollo (.) di pollo (.) di pollo però] secondo me è più
 PSB005	[di cosa sa di pollo]?
 PSB071	[mix secondo me sa di pesce]
 PSB072	più buono rispetto al pollo
@@ -3156,12 +3156,12 @@ PSB072	[le trovi]
 PSB073	[sì è l'ombrello del rana]
 PSB072	[vabbè una volta c'era]
 PSB071	[l'ombrello] della rana
-PSB072	[una volta] {ride}
+PSB072	[una volta] ((ride))
 PSB072	una vo[lta c'era questa credenza che]:
 PSB074	[xxx animali]
 PSB073	[sì]
 PSB005	come i puffi
-PSB005	{ride}
+PSB005	((ride))
 PSB072	e poi poi
 PSB072	perché ci credevano a questa perché alcuni erano velion~ velenosi
 PSB072	quindi se qualcuno toccava prendeva questo questo infezione,
@@ -3175,7 +3175,7 @@ PSB071	[proprio] laghetto [dove si col~]
 PSB072	[sì]
 PSB005	[bellissimo ma] [è fantastico]
 PSB072	[sì]
-PSB071	[do~ ma {P} laghet]to tipo grand[e:]
+PSB071	[do~ ma (.) laghet]to tipo grand[e:]
 PSB072	[sì sì]
 PSB005	[sì imma]gino se ci sono i pesci dentro [sì sì]
 PSB072	[sì]
@@ -3200,7 +3200,7 @@ PSB071	[quando si scarica lì:]
 PSB074	[nuotavi]?
 PSB072	[io sc~] scendevo almeno cinque volte nel laghetto e mia mamma veniva da una parte con il bastone,
 PSB072	esci fuori io eh
-PSB072	io salivo da una parte e scendevo dall'altra parte {ride} così lei girava [in tondo]
+PSB072	io salivo da una parte e scendevo dall'altra parte ((ride)) così lei girava [in tondo]
 PSB071	[cioè non si ha il] giardino si ha il laghetto
 PSB072	sì sì
 PSB005	ma questa è una cosa che non ho mai sentito ma è bellissi[mo]
@@ -3240,7 +3240,7 @@ PSB072	[al massimo una città come bologna] ci sta
 PSB073	[se vivi in città città] a
 PSB072	[però xx così]
 PSB073	sarà tanti casini, devi sentire
-PSB073	però se {P} vivi proprio:
+PSB073	però se (.) vivi proprio:
 PSB073	villaggio villaggio
 PSB073	per andare da qualche parte ci metterà un bel po'
 PSB071	però nelle [città io ci] andrei per quattro mesi
@@ -3252,7 +3252,7 @@ PSB072	[sì] sì
 PSB071	però: da viverci cioè viverci per
 PSB071	tutta la mia vita o anche due anni °no°
 PSB071	paese o:
-PSB071	paesino qual~ {P} campagna
+PSB071	paesino qual~ (.) campagna
 PSB072	un po' difficile [sì]
 PSB005	[e in] [campa]gna aperta campagna
 PSB071	[beh]

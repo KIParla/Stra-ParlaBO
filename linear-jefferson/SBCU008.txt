@@ -2,7 +2,7 @@ PSB091	scusa che abbiamo finito ora di fare le unghie
 PSB005	che bello che brave
 PSB005	ciao io sono
 PSB005	ho visto le sue foto su facebook
-PSB091	sì {ride}
+PSB091	sì ((ride))
 PSB005	sì
 PSB091	sì capito
 PSB005	sì sì ma poi vi assomigliate tanti[ssimo]
@@ -11,47 +11,47 @@ PSB091	tutti dicono TUTTI DICONO [così]
 PSB005	[ma vera]mente
 PSB005	tu parli un po' di italiano?
 ???	sì
-PSB005	okay okay [solo per] {P} [per] gentilezza
+PSB005	okay okay [solo per] (.) [per] gentilezza
 PSB091	[sì sì]
 PSB091	[sì]
-PSB091	è timida: {P} fa: fatica però parla parla
+PSB091	è timida: (.) fa: fatica però parla parla
 PSB005	okay okay
 PSB005	e:[:h]
 PSB091	[co]sa ti offro, acqua? eh [vino]?
-PSB005	[no nient~] {P} no [niente] niente [si]
+PSB005	[no nient~] (.) no [niente] niente [si]
 PSB091	[niente]?
-PSB091	[ehm]: {P} caffè?
+PSB091	[ehm]: (.) caffè?
 PSB005	no no troppo [tardi]
 PSB091	[niente], un [the]?
 PSB005	[no]
 PSB005	no no no no [davvero]
 PSB091	[okay]
-PSB005	guarda ho fatto {P} praticamente merenda alle sei
+PSB005	guarda ho fatto (.) praticamente merenda alle sei
 PSB091	ah
 PSB005	si
 PSB091	°bene°
 PSB005	vediamo le unghie
 PSB005	ma sono super
 PSB005	che brave che sie[te]
-PSB091	([fa]tte) giallo blu: {P} ovviamente
+PSB091	([fa]tte) giallo blu: (.) ovviamente
 PSB091	si [eh]
 PSB005	[ah] giusto si
-PSB005	è [molt~ non mi ero ac~] {P} c'è anche il giallo, ah si si
+PSB005	è [molt~ non mi ero ac~] (.) c'è anche il giallo, ah si si
 PSB091	[bravo xx]
 PSB091	si
-PSB005	delle {P} super pro
+PSB005	delle (.) super pro
 PSB091	si
 PSB005	allora raccontami cosa avete fatto in questo periodo
 PSB091	a:[:h]
 PSB005	[di bello di atti]vità come sta an[dando]
 PSB091	[di attività] maxx tante cose guarda: mh
 PSB005	mh
-PSB091	°>tante tante tante tante tante< {P} tante.°
+PSB091	°>tante tante tante tante tante< (.) tante.°
 PSB091	e:hm
-PSB091	tre incontri: p~ {P} con vicepresidente di liberi o:l[tre:]
+PSB091	tre incontri: p~ (.) con vicepresidente di liberi o:l[tre:]
 PSB005	[mhmh]
 PSB091	e::h manifestazioni cene pranzi:
-PSB091	salti mort[ali] {ride} {P} tutto [tutto]
+PSB091	salti mort[ali] ((ride)) (.) tutto [tutto]
 PSB005	[eh certo]
 PSB005	[si si si si]
 PSB091	quest'anno un poco manifestazioni un pochino abbiamo
@@ -68,7 +68,7 @@ PSB091	[xxx]
 PSB091	no abbiamo fatto prima manife[sta]zione: se::- °aspetta che giorno è,°
 PSB005	[ah]
 PSB091	e::h
-PSB091	no {P} ho appena per[s~]
+PSB091	no (.) ho appena per[s~]
 PSB005	[io] vedo nei [gruppi]
 PSB091	[domenica sc]orsa
 PSB005	ah okay
@@ -77,7 +77,7 @@ PSB005	[okay]
 PSB091	poi abbiam fatto manifestazione: mh:
 PSB091	eh due febbraio,
 PSB005	mhmh
-PSB091	e:h {P} contro la propaganda russ[a e] abbiam fatto ventitré:: mh::
+PSB091	e:h (.) contro la propaganda russ[a e] abbiam fatto ventitré:: mh::
 PSB005	[mhmh]
 PSB091	febbraio quella [diciamo]
 PSB005	[okay]
@@ -100,7 +100,7 @@ PSB091	quando il nostro presidente è andato lì
 PSB091	guarda credimi a me mi~ mi~ mi è crollato tutto io s~ stavo così tre giorni senza c(io)è
 PSB091	piangere e il nervoso che ave[vo perché]
 PSB005	[eh certo]
-PSB091	e quindi: {P} mh non lo so
+PSB091	e quindi: (.) mh non lo so
 PSB091	tan~ tanto facciamo anche noi per distrarre capito, [per distrarsi per]ché se no c'è da impazzire se:[:]
 PSB005	[eh certo si si]
 PSB005	[mh]
@@ -111,7 +111,7 @@ PSB091	[(tutti bene)]
 PSB091	tutti sta bene lavora ha trovato lavoro finalmente
 PSB005	ah che cosa fa?
 PSB091	perché non
-PSB091	mh: lavora: in un reception ma dove [non] non lo so {ride}
+PSB091	mh: lavora: in un reception ma dove [non] non lo so ((ride))
 PSB005	[okay]
 PSB005	si si okay [okay no] ma così [chiedo si]
 PSB091	[sinceramente]
@@ -122,7 +122,7 @@ PSB005	[mhmh]
 PSB005	certo
 PSB091	mattina dopo ci svegliamo continuiamo nostro discorso così a scriverci xxxe:
 PSB005	lei stava anche studiando vero?
-PSB091	lei ha finito gli [studi si ha fa]tto la s~ mh {P} c(io)è si è diplomata
+PSB091	lei ha finito gli [studi si ha fa]tto la s~ mh (.) c(io)è si è diplomata
 PSB005	[okay okay]
 PSB005	mhmh
 PSB005	ma lei era già diplomata in ucraina, [giusto ha recuperato qua:, si]
@@ -147,7 +147,7 @@ PSB091	stiamo un po'
 PSB091	e:h
 PSB091	attenti io soprattutto io [e:h]
 PSB005	[ah eh]
-PSB005	ma {P} in realtà [dovrei stare attenta] anch'io perché
+PSB005	ma (.) in realtà [dovrei stare attenta] anch'io perché
 PSB091	[(c'è qualcosa di)]
 PSB091	ma tu tu [stai bene]
 PSB005	[vabbè prendo uno di] questi guar[da] grazie
@@ -197,13 +197,13 @@ PSB005	quando tornerà?
 PSB091	eh fine luglio
 PSB091	mh
 PSB005	parecchio
-PSB091	detto anche ci vuole perché guarda lui veramente l'anno scorso ha fatto più di di alcune [ucraine lui] era {P} è quell'ancora capito [lui era tut~] sì
+PSB091	detto anche ci vuole perché guarda lui veramente l'anno scorso ha fatto più di di alcune [ucraine lui] era (.) è quell'ancora capito [lui era tut~] sì
 PSB005	[mhmh]
 PSB005	[l'anima]
 PSB005	sì [sì]
 PSB091	[era tutto] lui
 PSB091	per quello anche quest'anno abbiamo
-PSB091	mollato un pochino {P} [molla]to, mollato
+PSB091	mollato un pochino (.) [molla]to, mollato
 PSB005	[sì]
 PSB005	no però mi sembra che i pranzi li fate lo stesso,
 PSB091	si quello si
@@ -224,7 +224,7 @@ PSB005	[mhmh]
 PSB091	e una trenta con i ragazzi:
 PSB091	kazaki [kazakistan]
 PSB005	che [mi hai detto si]
-PSB091	però son tutti di {P} c(io)è hanno tutti parenti tatari
+PSB091	però son tutti di (.) c(io)è hanno tutti parenti tatari
 PSB005	mh
 PSB091	a me io non riesco a dire tartari per~ perché si dice tartari,
 PSB005	[ma sai che xx]
@@ -262,8 +262,8 @@ PSB005	mh
 PSB005	°madonna°
 PSB091	un altro però benigno per fortun[a]
 PSB005	[a]h oka[y]
-PSB091	[e] io {P} per me hanno fatto una biopsia:
-PSB091	lui ha detto guarda {P} dovremo rifare tra un mesetto
+PSB091	[e] io (.) per me hanno fatto una biopsia:
+PSB091	lui ha detto guarda (.) dovremo rifare tra un mesetto
 PSB091	io per mesi che aspettare un'altra biopsia e poi altre due settimane della risposta
 PSB091	credimi mi son c(io)è sono:
 PSB091	e però è benigna adesso devo solo fare: il controllo quindi io
@@ -309,7 +309,7 @@ PSB091	diventata dermatologa di tutti ucraini [a bologna]
 PSB005	[eh certo]
 PSB005	[sì sì]
 PSB091	[c(io)è lei] poi è carina
-PSB005	ma lei perché: è così {P} appassion[ata]?
+PSB005	ma lei perché: è così (.) appassion[ata]?
 PSB091	[ma lo] ma lo sai che ci siamo conosciute noi con lei su facebook
 PSB005	eh
 PSB091	io ho scritto una volta u:n
@@ -321,16 +321,16 @@ PSB091	e:h cosa fate, dai stai tranquilla andrà tutto bene (c(io)è mi~) ucrain
 PSB005	[sì sì sì]
 PSB091	ha preso a cuore così ha detto io vengo alle vostre manifestazioni una volta è venuta
 PSB091	poi lei parlava così
-PSB091	BENE così ca[pito, che io] {P} io senza pensare sai io {P} do parola a tutti (le) ho detto
+PSB091	BENE così ca[pito, che io] (.) io senza pensare sai io (.) do parola a tutti (le) ho detto
 PSB005	[sì sì infatti]
 PSB091	ma: dottoressa vuole prendere la parola, vuole dire qualcosa?
 PSB091	lei ce:rto io sto con voi capito,
-PSB091	e lei così ha cominciato a venire {ride}
+PSB091	e lei così ha cominciato a venire ((ride))
 PSB005	sì è matta sì
 PSB091	c(io)è credi [credimi] che è m:h
 PSB005	[mattissima]
 PSB005	fuorissimo lei
-PSB091	sì sì sì {ride}
+PSB091	sì sì sì ((ride))
 PSB005	ma lei è bolognese?
 PSB091	lei è bolo~ di altedo
 PSB005	di altedo ok[a:y]
@@ -397,7 +397,7 @@ PSB005	[speriamo] che non ci sia vabbè continuerete magari a far delle at[tivit
 PSB091	[sì]
 PSB005	con questa in[tensità]
 PSB091	[non hai visto] quello m'ha detto c(io)è quello ha rinunciato a tutto a tutto
-PSB091	c(io)è lui {P} va avanti
+PSB091	c(io)è lui (.) va avanti
 PSB005	è molto:
 PSB005	preoccupante
 PSB005	sì
@@ -425,7 +425,7 @@ PSB005	[an]che secondo me sì
 PSB091	va a invadere un paese
 PSB005	mh
 PSB005	eh sì
-PSB005	eh abbiamo dato: abbiamo {P} il potere in mano a queste p[erso]ne
+PSB005	eh abbiamo dato: abbiamo (.) il potere in mano a queste p[erso]ne
 PSB091	[si]
 PSB005	°si si infatti°
 PSB091	tu invece?
@@ -433,13 +433,13 @@ PSB005	mah eh::m [io son stata un mese:] e mezzo
 PSB091	[°xxx°]
 PSB005	via
 PSB005	e:h faceva molto freddo
-PSB091	sì {ride}
+PSB091	sì ((ride))
 PSB005	la prima settimana era freddissimo c'era: meno quindici
 PSB091	ah però
 PSB005	però è un f~ freddo che [forse] tu cono[sci]
 PSB091	[freddo]
-PSB091	[sì] sì {ride}
-PSB091	conosco anche di più {ride}
+PSB091	[sì] sì ((ride))
+PSB091	conosco anche di più ((ride))
 PSB005	in verità sì
 PSB091	sì
 PSB005	però i primi la prima settimana era proprio
@@ -447,22 +447,22 @@ PSB005	freddissimo era sec[co]
 PSB091	[se]cco
 PSB005	quin[di]
 PSB091	[non] si sente
-PSB005	proprio {P} tutto gelato s~ fermo {ride}
+PSB005	proprio (.) tutto gelato s~ fermo ((ride))
 PSB005	e:h io facevo un po' di passeggiate: e:hm
 PSB005	sulla neve
 PSB091	°sì°
 PSB005	eh perché la n~ c'era neve in città tantissima
 PSB091	sì
 PSB005	e quindi:: no è andata bene poi è venuto un po' più caldo poi è tornato freddo ci son state un paio di bufere di neve molto: lungh[e]
-PSB091	[sì] {ride}
+PSB091	[sì] ((ride))
 PSB005	quindi s'era riempito di neve ovunque c'eran le persone che non sapevano dove parcheggiare proprio
 PSB005	proprio
-PSB005	montagne di neve {ride}
+PSB005	montagne di neve ((ride))
 PSB005	sono andata anche a pattinare sul canale
 PSB091	si
 PSB005	hanno il canale: per pattinare:
 PSB091	bello
-PSB005	sì un po' faticoso io non sono molto abituata quindi dopo un po' non ne potevo più {ride}
+PSB005	sì un po' faticoso io non sono molto abituata quindi dopo un po' non ne potevo più ((ride))
 PSB005	e:h ma: no ma è andato tutto be:ne
 PSB005	sì sì io adesso mi sono un po' ripresa
 PSB005	dal fuso orario la settimana scorsa ho
@@ -472,14 +472,14 @@ PSB091	[certo certo]
 PSB005	e::h tu invece se~ per natale dovevi andare in ucraina no?
 PSB091	io sono stata a natale da sola in ucraina
 PSB005	e com'è andata?
-PSB091	bene {P} perché ero proprio guarda dovevo proprio staccare perché è stato un anno veramente pesante tra tra cose tra tutto
+PSB091	bene (.) perché ero proprio guarda dovevo proprio staccare perché è stato un anno veramente pesante tra tra cose tra tutto
 PSB091	son stata:
 PSB091	otto giorni
 PSB005	mh
 PSB091	da sola
 PSB091	(vabbè e) la mia nipote perché è la figlia di mio fratello grande è cresciuta a casa mia
-PSB005	mh {P} okay
-PSB091	eh {P} e con l'(altra) figlia [capito, e] ha due bambini
+PSB005	mh (.) okay
+PSB091	eh (.) e con l'(altra) figlia [capito, e] ha due bambini
 PSB005	[eh certo si]
 PSB091	e me li ha portati i bambini quasi tutto (qua il) tempo ho tenuto bam[bini] faceva abbastanza freddo
 PSB005	[mh]
@@ -493,11 +493,11 @@ PSB091	[sì s]to vicino alla romania
 PSB005	[okay]
 PSB091	son [venti chi]lometri: dalla romania [xx]
 PSB005	[okay]
-PSB005	[e quindi] tu {P} parli anche rumeno?
+PSB005	[e quindi] tu (.) parli anche rumeno?
 PSB091	guarda io capisco:
 PSB091	poco
 PSB091	so qualche parola ma [parlare guarda]
-PSB005	[mh (mh::)] {P} [okay]
+PSB005	[mh (mh::)] (.) [okay]
 PSB091	[stupi]da che c(io)è mia nonna parlava ben[issimo] perché lei è vissuta anche i tempi quando eravamo sotto i romeni noi [c(io)è]
 PSB005	[mh:]
 PSB005	[per] questo che chiedo perché so che ci sono:[: si]
@@ -522,7 +522,7 @@ PSB091	sì
 PSB091	c(io)è quindi se uno:: (ha) anche c(io)è tipo loro rumeni quando vengono loro subito imparano l'[italiano]
 PSB005	[si: infa]tti
 PSB091	(p[erché])
-PSB005	[sì sì] sì {P} sì sì sì
+PSB005	[sì sì] sì (.) sì sì sì
 PSB091	tipo lavo:ro
 PSB091	#lucru capito, quindi una anche un pochino se ti vai a:
 PSB005	mh[mh]
@@ -537,7 +537,7 @@ PSB091	șase (.) șapte
 PSB091	#opt
 PSB091	[nouă zece ze]ce
 PSB005	[ma quindi sai un po']?
-PSB005	[sai un po' di rumeno] {ride}
+PSB005	[sai un po' di rumeno] ((ride))
 PSB091	[si si si si] si si [ma: po]ca ro~ poca rob[a]
 PSB005	[in verità sì]
 PSB005	[mh]mh
@@ -567,20 +567,20 @@ PSB005	sì perché forse sente un po' di solitudine
 PSB091	poi diciamo
 PSB091	la la mia ca:sa poi c'(ha) la casa di mia zia no, e e ri~ c'è recinto tra casa nostre
 PSB091	e c'è un::
-PSB005	un pas[saggio {P} si]
+PSB005	un pas[saggio (.) si]
 PSB091	[un cancelli~] un cancello capito che va per non fare: il giro no,
 PSB091	e lu:i poverino lo sa che zia viene da là: lui si mette lì davanti al cancello così guard(a) mi piange il cuore guarda no~ no~ non guardo
 PSB091	lui perché no:n mh::
 PSB005	sì sì certo no vabbè abbiam p[arla]to
 PSB091	[mh]
-PSB005	parliamo di cose più: più divertenti {ride}
+PSB005	parliamo di cose più: più divertenti ((ride))
 PSB005	divertenti mi sembra che:
 PSB091	sì
 PSB005	eh::
 PSB005	tu avevi anche tua suocera qui adesso[:]
 PSB091	[lo] sai che è morta mia [suocera]
-PSB005	[ah no] {P} okay no
-PSB005	eh continuiamo a parlare di parliamo di altro {ride}
+PSB005	[ah no] (.) okay no
+PSB005	eh continuiamo a parlare di parliamo di altro ((ride))
 PSB091	aveva no[vantu]n'an[ni e:h]
 PSB005	[sì]
 PSB005	[sì] mh okay
@@ -592,7 +592,7 @@ PSB005	[mh]mh
 PSB091	e::hm
 PSB091	lui non ha vo~ non voleva mettere in una struttura capito, perché lei da da viva:
 PSB091	non voleva assolutamente
-PSB091	(eccola dov'è sta dietro) {P} (la
+PSB091	(eccola dov'è sta dietro) (.) (la
 PSB005	che elegante
 PSB091	mh si si era
 PSB091	tu pensa [che]
@@ -615,7 +615,7 @@ PSB091	°non so qualche pubblicità°
 PSB091	stava proprio qua al pian~ e:h al pian~
 PSB091	al pianerottolo
 PSB091	io (g)li sto dietro no,
-PSB091	e lui (g)li fa ciao perché non conosce no, che lei {ride}
+PSB091	e lui (g)li fa ciao perché non conosce no, che lei ((ride))
 PSB091	non ci sta [con la te]sta no,
 PSB005	[certo]
 PSB091	gli fa
@@ -635,21 +635,21 @@ PSB091	e lei esce con tutt~ con le unghie con i capelli tutti fatti
 PSB091	e lui fa a:h bella ciao dove vai quanti io ho detto guarda
 PSB005	sì sì
 PSB091	no:n non ti capisce lei perché pensava che suo figlio
-PSB091	lui è tutto scuro capito, {ride}
+PSB091	lui è tutto scuro capito, ((ride))
 PSB091	e lui dice
 PSB091	stai attenta che esce qua perché
 PSB091	guarda che puoi cadere per le scale
 PSB091	guarda che io
 PSB091	pure so' caduto prima ero
-PSB091	bello biondo e alto {ride}
-PSB005	{ride}
+PSB091	bello biondo e alto ((ride))
+PSB005	((ride))
 PSB091	guarda (cosa ho) diventato
 PSB091	poi lei con tutte ste unghie lui dice ma: che belle u:nghie capito,
-PSB091	lei gra:zie grazie {ride}
+PSB091	lei gra:zie grazie ((ride))
 PSB091	fa un po' anche
 PSB005	no mi dispia:ce però sì novantu:no
 PSB091	sì
-PSB005	insomma {P} poi se non se non è se non c'era {P} più
+PSB005	insomma (.) poi se non se non è se non c'era (.) più
 PSB091	guarda ha avuto la polmonite una volta
 PSB091	quando io son stata in ucraina xx
 PSB091	guarda
@@ -657,7 +657,7 @@ PSB091	l'hanno portata in ospedale
 PSB091	poi polmonite
 PSB091	non capisco c(io)è
 PSB005	°sì sì°
-PSB091	da da da {P} [da dove]
+PSB091	da da da (.) [da dove]
 PSB005	da [dove eh sì]
 PSB091	c(io)è in casa poi
 PSB091	di solito quando c'è po:lvere capito, anche quxx[xx]
@@ -665,7 +665,7 @@ PSB005	[poi voi] non vedete bambini:, di [solito no:],
 PSB091	[no:] no[: cre~] credi~ cr[edi]mi
 PSB005	[che sono eh]
 PSB005	[no]
-PSB005	portano i germi {ride}
+PSB005	portano i germi ((ride))
 PSB091	esatto
 PSB091	e:h
 PSB091	poi sono tornata lei di nuovo ha sentito la febbre di nuovo polmonite poi è morta in ospeda[le]
@@ -675,19 +675,19 @@ PSB005	[°mamma°]
 PSB091	guarda
 PSB005	mi dispiace per natale quindi?
 PSB091	guarda lei è morta
-PSB091	sei {P} febbra[io]
+PSB091	sei (.) febbra[io]
 PSB005	[ah o]kay ah [no] proprio pochi:s[simo] allora
 PSB091	[si]
 PSB091	[si]
 PSB091	s[i]
-PSB005	[ah] mi dispiace dillo anche: {P} a
+PSB005	[ah] mi dispiace dillo anche: (.) a
 PSB091	che mi xxx [gra]zie
 PSB005	[si]
 PSB091	e così
 PSB091	quindi
-PSB005	okay allora adesso mi hai aggiornato su tutte le disgrazie {ride}
-PSB005	{ride}
-PSB005	e:h {P} per il resto: altre cose divertenti invece cose più divertenti,
+PSB005	okay allora adesso mi hai aggiornato su tutte le disgrazie ((ride))
+PSB005	((ride))
+PSB005	e:h (.) per il resto: altre cose divertenti invece cose più divertenti,
 PSB091	divertenti
 PSB005	m:hmh
 PSB091	(guarda e [chi] lo sa)
@@ -697,10 +697,10 @@ PSB005	quest'estate,
 PSB005	fai fate qualcosa?
 PSB091	questa estate
 PSB091	ah allora guarda
-PSB005	vacanze {P} [una gita una piccola]
+PSB005	vacanze (.) [una gita una piccola]
 PSB091	[le sfighe continu]ano
 PSB091	perché noi come a~ associazione abbiam fatto un: m°::h° una richiesta capito,
-PSB091	per {P} essere aiutati
+PSB091	per (.) essere aiutati
 PSB005	mh[mh]
 PSB091	[abbiam] fatto tipo u:n un bando capito, u[sci]to
 PSB005	[si]
@@ -715,9 +715,9 @@ PSB091	quindi non ci sono neanche [i so]ldi perché: l'america partecipava a que
 PSB005	[si]
 PSB091	quindi niente soldi niente: figli di soldati capito,
 PSB005	no no quindi continuano sì
-PSB005	continuano le sfighe si {P} sì sì
+PSB005	continuano le sfighe si (.) sì sì
 PSB091	e::h
-PSB005	ma {P} bandi europei non ci sono,
+PSB005	ma (.) bandi europei non ci sono,
 PSB005	perché l'università or[mai] funziona tutta co:n bandi europ[ei]
 PSB091	[xx]
 PSB091	[con fo~]
@@ -726,19 +726,19 @@ PSB005	sì
 PSB091	quindi quello quello che sapevamo: è andata male
 PSB005	però adesso magari cercando un po' c(io)è
 PSB005	perché dovete diventare più:: più es[perte].
-PSB091	[più:] famo[se più: {P} si]
+PSB091	[più:] famo[se più: (.) si]
 PSB005	[sì più famosi sì]
 PSB005	magari con un po' di: di esperien[za]
 PSB091	[an]che la: anche dobbiamo m:h
 PSB091	°ah°
 PSB091	°madonna°
-PSB005	{ride}
+PSB005	((ride))
 PSB091	anche: dobbiamo ehm iscrivere persone capito, perché più persone sono
 PSB091	così
 PSB091	dobbiamo
 PSB091	resistere tre anni.
 PSB005	sì
-PSB091	avere {P} tanti iscritti
+PSB091	avere (.) tanti iscritti
 PSB005	mh[mh]
 PSB091	[pe]rché magari così ci danno anche un posticino capito, dove possiamo[:]
 PSB005	[sì] quanti iscritti avete adesso?
@@ -764,37 +764,37 @@ PSB005	vabbè non ti preoccupare adesso [la di]ffondo anch'io
 PSB091	[sì]
 PSB005	comunque
 PSB091	ehm: niente manca manca qualcosa:
-PSB091	allora doveva venire di nuovo: andrea alisiani volevo {P} portargli
+PSB091	allora doveva venire di nuovo: andrea alisiani volevo (.) portargli
 PSB091	più giovani capito, ita[liani]
 PSB005	[mhmh]
 PSB091	perché lui
 PSB091	ha vissuto
 PSB091	se non sbaglio sei mesi è stato in ucraina quindi lui è stato
-PSB091	e al fronte {P} e le città: {P} tipo sumy kharkiv (più) quelle che sono vicine al fronte
+PSB091	e al fronte (.) e le città: (.) tipo sumy kharkiv (più) quelle che sono vicine al fronte
 PSB091	quindi lui
 PSB091	ha sentito che::
 PSB091	c(io)è ha visto: con gli occhi suoi che arrivavano le bombe capito, quindi lui ha vissuto in pieno la guerra
 PSB091	ha fatto volontaria:to
 PSB091	e:h (il) racconta
-PSB091	ha le foto video capito, quindi {P} di prima per[so]na
+PSB091	ha le foto video capito, quindi (.) di prima per[so]na
 PSB005	[mhmh]
 PSB091	e poi racconta benissimo benis~ p~ proprio azzecato tutto come sono i giovani ucraini
 PSB091	a:h
 PSB091	e riesce a distinguere quelli che sono un po' più ignoranti
-PSB091	poi {P} poi lui dice in una maniera capito, per non offendere capito, [anche que]lli che sono più studiosi che studiano e che riesco a parlare in inglese
+PSB091	poi (.) poi lui dice in una maniera capito, per non offendere capito, [anche que]lli che sono più studiosi che studiano e che riesco a parlare in inglese
 PSB005	[si si]
 PSB005	mhmh
 PSB091	quindi mo:lto interessante quindi a me mi piacerebbe: mh
 PSB005	°sì sì sì certo°
 PSB091	tu continui:[::]?
 PSB005	[sì] noi allora il progetto
-PSB005	s~ {P} finisce a novembre quin[di]
+PSB005	s~ (.) finisce a novembre quin[di]
 PSB091	[okay]
 PSB005	però io adesso ho un contratto per un altro anno quindi sono: tran~ molto tran[quilla]
 PSB091	[okay]
 PSB005	e::h stiamo ancora registrando: un po' di::
 PSB091	di cos[e]
-PSB005	[di] cose ma {P} abbiam quasi finito
+PSB005	[di] cose ma (.) abbiam quasi finito
 PSB091	okay
 PSB005	sì sì ce la stiamo facendo
 PSB005	eh ma ci piacerebbe
@@ -803,8 +803,8 @@ PSB005	che però è una cosa un po' in più diciamo
 PSB005	[perché noi] vorremmo
 PSB091	[°okay°]
 PSB005	fare una specie di:
-PSB005	è un progetto molto creativo {P} quindi
-PSB005	ah eh {P} tieni la mente a[per]ta diciamo {ride}
+PSB005	è un progetto molto creativo (.) quindi
+PSB005	ah eh (.) tieni la mente a[per]ta diciamo ((ride))
 PSB091	[mhmh]
 PSB091	okay
 PSB005	si e:hm
@@ -849,13 +849,13 @@ PSB005	di fare: mh
 PSB005	una mappa di bologna
 PSB091	okay
 PSB005	c(io)è avere tipo un banchetto
-PSB005	io me lo immagino come in una fiera però non si sa quale dev'essere questa fiera comunque vabbè {ride}
+PSB005	io me lo immagino come in una fiera però non si sa quale dev'essere questa fiera comunque vabbè ((ride))
 PSB091	[okay]
 PSB005	di e::hm
 PSB005	e
 PSB005	magari le pers~ mh:
 PSB005	chi vuole
-PSB005	e::h {P} viene in due in tre:
+PSB005	e::h (.) viene in due in tre:
 PSB091	ma in piazza, non hai pensato? oppure [xxxx]
 PSB005	[DURANT]E la vostra °manifestazione°
 PSB091	anche durante la nostra manifestazione anche un giorno quando noi non facciamo manife[sta]zione facciamo
@@ -864,17 +864,17 @@ PSB005	perché ci p~ allora
 PSB005	a me piace[rebbe]
 PSB091	[perché alle manife]stazioni ti distr[ai capito],
 PSB005	[eh infat]ti sì
-PSB005	a me piacerebbe mi: mh {P} volevo vedere se durante
+PSB005	a me piacerebbe mi: mh (.) volevo vedere se durante
 PSB005	c(io)è la nostra:
 PSB005	rispondi eh se vuoi
-PSB091	sì sì {P} devo devo sì sì
-PSB091	{registrazione_interrotta_per_privacy}
-PSB005	io m~ {P} io se rimango ancora un po' poi va[do eh (come)]
+PSB091	sì sì (.) devo devo sì sì
+PSB091	((registrazione_interrotta_per_privacy))
+PSB005	io m~ (.) io se rimango ancora un po' poi va[do eh (come)]
 PSB091	[si si xx gu[arda nes]sun problema (non è) nessun probl~
 PSB005	[okay no]
 PSB091	n[on] devo andare da nessuna parte
 PSB005	[okay]
-PSB005	okay okay {ride}
+PSB005	okay okay ((ride))
 PSB005	e:hm
 PSB005	cosa stavo dicendo, mh
 PSB005	c(io)è
@@ -905,7 +905,7 @@ PSB005	io potrei anche aiutarvi
 PSB005	a prepar[are]
 PSB091	[ma gu]arda [no gu]arda non è un problema
 PSB005	[sì]
-PSB091	guarda n~ {P} c(io)è
+PSB091	guarda n~ (.) c(io)è
 PSB091	noi facciamo
 PSB091	sempre volentieri cap[ito],
 PSB005	[ok]ay ok[ay]
@@ -916,7 +916,7 @@ PSB005	ma [così tan]to vengo ver[rei lo stesso]
 PSB091	[facciamo]
 PSB091	[a me mi fa piacere sai] cosa che i giovani ucraini
 PSB091	parlano anche noi parliamo con gli italiani coinvolgiamo [capito],
-PSB005	[eh ma] {P} [se]:: [eh]
+PSB005	[eh ma] (.) [se]:: [eh]
 PSB091	[(mic~)]
 PSB091	[anche s(e)] capito, mi b~
 PSB091	per esempio io ho parlato di te a questo ragazzo eh kazako islami[co]
@@ -946,7 +946,7 @@ PSB005	[no solo per studi]are okay
 PSB091	la mamma sta in astana
 PSB091	stanno molto be[:ne capito],
 PSB005	[eh okay e l'ha] manda[to sì]
-PSB091	[st~ {P} s]ì sì
+PSB091	[st~ (.) s]ì sì
 PSB091	e però lui
 PSB091	guarda lui m'ha raccontato qua
 PSB091	st~ stato qui quattro giorni fa m'ha raccontato sua storia: della vi[ta gua]rda io ho pianto
@@ -954,7 +954,7 @@ PSB005	[mhmh]
 PSB091	perché (la sua) storia è veramente mo::lto toccan~ c(io)è la mamma::
 PSB091	m::h diciamo ha avuto lui
 PSB091	non volevo
-PSB091	toccare i particolari ma ho capito che è ragazza madre [capi]to, perché parla poco di {P} di papà
+PSB091	toccare i particolari ma ho capito che è ragazza madre [capi]to, perché parla poco di (.) di papà
 PSB005	[mhmh]
 PSB005	mhmh
 PSB091	e per lavorare mamma e e viene di un
@@ -984,11 +984,11 @@ PSB005	eh s[i]
 PSB091	[p]oi sai i giovani magari ci sono quelli più grandi ma
 PSB091	mh: non si ra[(ccontano come)]
 PSB005	[non credo di aver] mai incontrato nessuno del ka[zakistan n]o
-PSB091	[vedi {P} vedi]
+PSB091	[vedi (.) vedi]
 PSB005	[no]
 PSB091	[sì] e l~ e lui lui sof~ abba~
 PSB091	ha sofferto poverino mo:lto primo anno già s:: se non sbaglio sta a terzo anno
-PSB005	o[kay {P} ok]ay okay
+PSB005	o[kay (.) ok]ay okay
 PSB091	[di università]
 PSB091	eh:m x[xx]
 PSB005	[ma pa]rla italia~ c(io)è ha imparato l'italiano o:,
@@ -998,10 +998,10 @@ PSB091	parla russo eccetera di noi p[arlia]mo c(io)è lui
 PSB005	[sì sì sì]
 PSB091	poco poco ucraino però vedo quanto fatica e dico mh:
 PSB091	parlami russo perché io [non sono (una)]
-PSB005	[perché lui {P} p]arla russo bene e [anche tu]?
+PSB005	[perché lui (.) p]arla russo bene e [anche tu]?
 PSB091	[s:ì]
-PSB091	sì [sì {P} sì]
-PSB005	[sì {P} sì sì] sì certo certo
+PSB091	sì [sì (.) sì]
+PSB005	[sì (.) sì sì] sì certo certo
 PSB091	e quindi c(io)è io: mh::
 PSB091	quindi mi piacerebbe capito, che vi conosce[te:]
 PSB005	[eh ma] se v~
@@ -1027,12 +1027,12 @@ PSB005	[sì sì]
 PSB091	durante qu[ella quella] cena quella::
 PSB005	[queste cose sì]
 PSB005	allora per il trenta non so se siam pronti noi
-PSB091	ah okay {P} ok[ay]
-PSB005	[no]n lo so {ride}
+PSB091	ah okay (.) ok[ay]
+PSB005	[no]n lo so ((ride))
 PSB091	okay
 PSB005	perché stia[mo andando mol]to lentamente sì
 PSB091	[qualcos(a a)ltro]
-PSB005	però io intanto potrei veni[re e poi:: {P} chiacchiero]
+PSB005	però io intanto potrei veni[re e poi:: (.) chiacchiero]
 PSB091	[perché è un'altra etnia ca]pi[to],
 PSB005	si infa[tti sì sì] certo
 PSB091	[un'altra::]
@@ -1068,7 +1068,7 @@ PSB005	[sì:]
 PSB091	ah vorre~ inventate qualcosa
 PSB091	io ho detto
 PSB091	ho rubato ho detto laboratorio della di cuc[ina]
-PSB005	[di cu]cina {P} sì
+PSB005	[di cu]cina (.) sì
 PSB091	m'ha detto okay
 PSB091	poi gli ho detto magari qualche serata per i ragazzi c[apito],
 PSB005	[mhmh] mh
@@ -1083,7 +1083,7 @@ PSB091	[io volevo portare] andrea alesiani vicepresidente di libe[ri] oltre
 PSB005	[si]
 PSB005	okay
 PSB091	f[arli vede]re
-PSB005	[ah okay {P} sì]
+PSB005	[ah okay (.) sì]
 PSB091	tutto tutto
 PSB091	p[erc]hé sai (aveva a) far vedere ai giovani
 PSB005	[mhmh]
@@ -1114,7 +1114,7 @@ PSB005	ch[i vuole] passa [gli spieghi]amo
 PSB091	[certo]
 PSB091	[passa e fa]
 PSB091	sì
-PSB005	se gli va di: {P} far due chiacchiere con noi
+PSB005	se gli va di: (.) far due chiacchiere con noi
 PSB091	ma poi vedrai che ucraini sono così
 PSB091	guarda peccato perché noi e:h abbiam fatto il:
 PSB091	°quando°
@@ -1128,7 +1128,7 @@ PSB091	[sì]
 PSB091	[sì]
 PSB091	abbiam fatto si il nove
 PSB005	mhmh
-PSB091	mi son ricordata {ride}
+PSB091	mi son ricordata ((ride))
 PSB005	[si che io stavo torn]ando sì
 PSB091	[vedi guarda x x]
 PSB091	il nove che ti ho scritto
@@ -1152,14 +1152,14 @@ PSB091	okay
 PSB005	tipo alla torta
 PSB091	[sì]
 PSB005	[mi s]embra
-PSB091	ah o[kay] {ride}
-PSB005	[sì] sì {ride}
+PSB091	ah o[kay] ((ride))
+PSB005	[sì] sì ((ride))
 PSB091	eh:m:
 PSB091	guarda credimi persone
 PSB091	ultimo (gio~) proprio ultimo
 PSB091	a me mi capitava che il giorno prima si iscri[vono tanti]
 PSB005	[sì sì] sì [sì]
-PSB091	[ma] proprio s~ {P} g~ giorno stesso capito,
+PSB091	[ma] proprio s~ (.) g~ giorno stesso capito,
 PSB091	quattro hanno disdetto.
 PSB091	poi (mi) sono iscritti tipo
 PSB091	quattordici [solo con me]
@@ -1192,7 +1192,7 @@ PSB091	magari una sera
 PSB005	eh se [se]
 PSB091	[fa]cciamo
 PSB005	perché io ti posso aiutare a organizzarlo anche
-PSB005	diciamo [mi farebbe {P}] mi fa piacer[e]
+PSB005	diciamo [mi farebbe (.)] mi fa piacer[e]
 PSB091	[a:h bene]
 PSB091	[o]ka:[y]
 PSB005	[co]sì
@@ -1200,7 +1200,7 @@ PSB005	noi facciamo la nostra piccola parte voi raccogliete i vostri[:]
 PSB091	[va] be[ne]
 PSB005	[fo]ndi:
 PSB005	come al sol[ito]
-PSB091	[okay] {P} sì
+PSB091	[okay] (.) sì
 PSB005	e: io ti aiuto a organizzarla:
 PSB091	[ottimo]
 PSB005	[anc]he:
@@ -1217,7 +1217,7 @@ PSB005	sì[:]
 PSB091	[per]ò sempre bisogna fare i panin[i bisogna fare sempre cap]ito,
 PSB005	[sì sì sì sì ma (è)]
 PSB005	manovalanza s~
-PSB005	non specializzat[a diciamo] {ride}
+PSB005	non specializzat[a diciamo] ((ride))
 PSB091	[sì sì] sì sì
 PSB005	quindi è anche più facil[e:]: fare
 PSB091	[sì]
@@ -1273,7 +1273,7 @@ PSB091	ho chiamato ragazzi bisogna fare lo~ loro ci sono
 PSB091	capito, quindi
 PSB005	beh ve~ [vediamo]
 PSB091	[quello]
-PSB005	io non ho {P} noi n[on abbiam frett~ fo]rse più maggio [si]
+PSB005	io non ho (.) noi n[on abbiam frett~ fo]rse più maggio [si]
 PSB091	[forse più maggio
 PSB091	[più maggio] per far[e una] cosa per be:ne [magari: mh]:
 PSB005	[sì]
@@ -1306,7 +1306,7 @@ PSB005	s[ì]
 PSB091	[n]o,
 PSB091	(poi io) io invece c(io)è guarda credimi io qualsiasi cosa mi viene in mente
 PSB091	se la voglio guarda faccio x x[x]
-PSB005	[eh] sì {ride}
+PSB005	[eh] sì ((ride))
 PSB005	c(io)è vorremmo tipo ad esempio che qualc~
 PSB005	ognuno disegnasse con i penn~ proprio con i p[enna]relli (o fa~ eh)
 PSB091	[okay]
@@ -1317,7 +1317,7 @@ PSB005	se devi immaginare se un tuo amico viene e si trasferisce in quale zona s
 PSB091	[anche]
 PSB005	eh: quali posti gli consigli oppure quali
 PSB005	zone invece sono pericolose [e non bi]sogna a[nd]a:rci
-PSB091	[okay {P} ah]
+PSB091	[okay (.) ah]
 PSB005	così raccogliamo un po' di idee e poi dopo facciamo
 PSB005	ovviamente tutto anon[imo]
 PSB091	[da cosa] nasce co[sa]
@@ -1334,7 +1334,7 @@ PSB091	[certo]
 PSB005	no
 PSB005	°eh:°
 PSB005	va bene comunque:
-PSB005	per me {P} per me va benissimo
+PSB005	per me (.) per me va benissimo
 PSB005	e[h:]:
 PSB091	[okay]
 PSB005	tanto è è più bello se il tempo è fa~
@@ -1359,16 +1359,16 @@ PSB005	[sì]
 PSB005	[eh okay]
 PSB091	perché tanti dicono (ehi) questi sono i nazisti
 PSB091	allora noi con calma non lo so io no:n no:n non farò perché non ho calma a sentire
-PSB005	{ride}
+PSB005	((ride))
 PSB091	che qu[alcuno] mi dà la nazista
-PSB005	[beh si] {ride}
+PSB005	[beh si] ((ride))
 PSB091	però:
 PSB091	con i ragazzi italiani di liberi e oltre che vedo che loro stanno [con no:i]
 PSB005	[c(io)è volete fare] un sondaggio [tra l]a popolazi[one]
 PSB091	[si]
-PSB091	[sì] {P} sì
+PSB091	[sì] (.) sì
 PSB091	proprio parlare capito,
-PSB091	dico magari {P} non far convincere perché è difficile convincere
+PSB091	dico magari (.) non far convincere perché è difficile convincere
 PSB091	se uno è già convinto che noi siamo nazi[sti] quindi niente da fare
 PSB005	[mhmh]
 PSB091	però magari
@@ -1377,7 +1377,7 @@ PSB091	a vedere [xx]
 PSB005	[interes]sante
 PSB091	capito:, [questo vogliamo. sì]
 PSB005	[molto interessan]te
-PSB091	anche noi {P} avremo nostro tavoli:no con i nostri volant[i:]ni capito, chiediamo per da adesso eh
+PSB091	anche noi (.) avremo nostro tavoli:no con i nostri volant[i:]ni capito, chiediamo per da adesso eh
 PSB005	[sì]
 PSB091	eh cerchiamo di chiedere tutti i permessi quelli che ser[vo]no
 PSB005	[mhmh]
@@ -1386,24 +1386,24 @@ PSB005	sarei cur[iosa] molto
 PSB091	[xx]
 PSB005	comunque tu
 PSB005	tutte queste cose so~
-PSB005	vengono fuori nel gruppo {P} di telegra[m ecc]etera
+PSB005	vengono fuori nel gruppo (.) di telegra[m ecc]etera
 PSB091	[sì]
 PSB005	quindi io li vedo
 PSB091	ah tu vedi?
 PSB005	sì [sì]
 PSB091	[sì]
-PSB005	sì dipende ogni tanto ci sono molti messaggi quind[i mi] perdo u[n poc]hino {ride}
+PSB005	sì dipende ogni tanto ci sono molti messaggi quind[i mi] perdo u[n poc]hino ((ride))
 PSB091	[tu se~]
 PSB091	[xx]
 PSB091	capisco (per)
-PSB005	ah sì {ride}
+PSB005	ah sì ((ride))
 PSB091	ma sai quanti g~
 PSB091	quanti gruppi p[er]ché c(io)è anch'io
 PSB005	[mh]
 PSB091	gruppi telegram poi gruppi whatsapp
 PSB005	mh
 PSB091	con quello con quello mamma mia
-PSB091	guar[da] credimi {P} tante volte::
+PSB091	guar[da] credimi (.) tante volte::
 PSB005	[si]
 PSB005	poi se una volta vuoi rifare una cosa di cucina
 PSB091	sì lo vogl[io].
@@ -1440,24 +1440,24 @@ PSB005	ma anche l'altra volta hai visto che c'erano due
 PSB005	due ragaz[zi p]raticamente e poi c'eravamo io e la mia colleg[a]
 PSB091	[sì]
 PSB091	[s]ì
-PSB005	però vabbè al massimo facciamo una collaborazione individuale {ride}
-PSB005	con me {ride}
+PSB005	però vabbè al massimo facciamo una collaborazione individuale ((ride))
+PSB005	con me ((ride))
 PSB091	(°si ho capi~°)
 PSB005	e o con la ti la
 PSB005	[te la] ricordi [la si],
 PSB091	[si]
-PSB091	[si si come] no {P} come [no]
+PSB091	[si si come] no (.) come [no]
 PSB005	[se]condo [me::] m:h
 PSB091	[xx xx]
 PSB005	no ma mi
 PSB005	tanto a me piacerebbe anche se è fuori dal progetto
 PSB005	chissene frega [tanto: così]
-PSB091	[vedi {P} casa m]ia piccolina c(io)è
+PSB091	[vedi (.) casa m]ia piccolina c(io)è
 PSB091	possiamo aprire tavolo [capito, per]
 PSB005	[si però]
 PSB005	sì
 PSB091	però per stare capito, già è [xxxx]
-PSB005	[no ma poi ti {P}] sporchiamo tutt~ c(io)è [mh::]
+PSB005	[no ma poi ti (.)] sporchiamo tutt~ c(io)è [mh::]
 PSB091	[ma neanche] per sporcare perché tu l'hai visto com'è
 PSB091	se tu [fu~] fai siamo in
 PSB005	[sì]
@@ -1472,18 +1472,18 @@ PSB005	[no no no ma infatti
 PSB005	anche quella cucina lì er~ secondo me non valeva i soldi che:
 PSB005	chiedono
 PSB005	perché era buio
-PSB005	non si vedeva niente {ride}
-PSB005	non c'è neanche una finestra {ride}
+PSB005	non si vedeva niente ((ride))
+PSB005	non c'è neanche una finestra ((ride))
 PSB091	freddo
 PSB005	sì infatti s[ì sì]
 PSB091	[poi alla] fine
-PSB091	acqua usciva tutta d[al {P} sotto]
+PSB091	acqua usciva tutta d[al (.) sotto]
 PSB005	[sì: esat]to sì
 PSB091	x che chi
 PSB005	sì [sì]
 PSB091	([c(io)è l]a)
 PSB091	io: abbasta con~ c(io)è devo stare anche buona perché
-PSB091	loro {P} tante volte:: mh:
+PSB091	loro (.) tante volte:: mh:
 PSB091	ci lasciano la cuci~ non abbiamo altri posti [(hai) capito],
 PSB005	[eh no cer]to lo [so]
 PSB091	[quin]di: io faccio buona
@@ -1536,7 +1536,7 @@ PSB091	anche loro tra di loro son divisi all'inizio erano tutti pro ucraina
 PSB091	noi abbiam fatto anche da l[o:ro] cena tutto lì
 PSB005	[oka:y]
 PSB091	orrenda cucina sempre or[renda]
-PSB005	[ah ok]ay {ride}
+PSB005	[ah ok]ay ((ride))
 PSB091	però è tutto lì sul posto ca[pito], è un è un po' più:
 PSB005	[mhmh]
 PSB091	un po' più diverso
@@ -1547,15 +1547,15 @@ PSB091	però loro hanno litigato tra di loro eh::
 PSB091	quindi
 PSB091	una parte non vuole ucraini capito, perché siamo nazisti
 PSB005	certo sì sì
-PSB005	no ma è chiaro ce l'ho chiaro il {ride}
+PSB005	no ma è chiaro ce l'ho chiaro il ((ride))
 PSB091	sì
 PSB005	il problema si
-PSB091	poi: {P} il làbas {P} conosc[i]?
+PSB091	poi: (.) il làbas (.) conosc[i]?
 PSB005	[s]ì.
 PSB091	allora an[che lì] con la
 PSB005	[eh: l~]
 PSB091	guarda all'inizio no~
-PSB091	guarda {P} sono stati i primi che hanno cercato no[:i] che hanno
+PSB091	guarda (.) sono stati i primi che hanno cercato no[:i] che hanno
 PSB005	[mhmh]
 PSB091	collaborato:
 PSB091	hanno chiamato per loro eventi e tutto
@@ -1575,7 +1575,7 @@ PSB005	sì sì sì sì sono an[data molte volte]
 PSB091	[non lo so perché si sono dista]ccati
 PSB091	io: (c'ho) ancora mh:
 PSB091	c'è ho:: invitato a qualche
-PSB091	neanche mi risponde più {P}
+PSB091	neanche mi risponde più (.)
 PSB005	allora quelli del làbas la mia esperienza è che si perdono un po'
 PSB005	quindi magari non è per cattiveria
 PSB005	c(io)è fanno un [sacco d]i cos[e]
@@ -1595,7 +1595,7 @@ PSB005	faccio assistenza alle lezioni vi do una mano
 PSB005	e poi se c'è qualche ragazzo che vuole fare qualche intervista gentilmente glielo chiedo
 PSB005	c'ho messo
 PSB005	due o tre mesi ad andare
-PSB005	a giugno sono andata che c'è stato un mese di scuola e poi è finita °la scuola° {ride}
+PSB005	a giugno sono andata che c'è stato un mese di scuola e poi è finita °la scuola° ((ride))
 PSB005	ma adesso con loro mi piacerebbe organizzare una: cosa piccolina tipo questa che sto
 PSB005	proponendo a te
 PSB091	beh pensa~ [pensaci]
@@ -1621,12 +1621,12 @@ PSB091	c(io)è eravamo noi ma loro anche tanti che aiutavano qu[indi]
 PSB005	[sì sì] sì
 PSB091	c(io)è tu tu pensa gente comincia ad arrivare noi ancora a fare ravioli
 PSB091	perché abbiam fatto
-PSB091	fresco lì per lì c[apito], {ride}
-PSB005	[wow] {ride}
+PSB091	fresco lì per lì c[apito], ((ride))
+PSB005	[wow] ((ride))
 PSB005	fanno tut[ti i sabati un s~] il pranzo:
 PSB091	[mamma mi xx]
 PSB005	del quartiere di[ciamo s]ì
-PSB091	[sì {P} sì]
+PSB091	[sì (.) sì]
 PSB005	e io sono andata una volta perché volevo:
 PSB005	prendere contatti così adesso cerco di tornarci magari:
 PSB005	magari
@@ -1636,21 +1636,21 @@ PSB091	[vab]bè se riprendi i tuoi rapporti con [lo]ro
 PSB005	[eh]
 PSB091	così magari:
 PSB005	vai prego
-PSB005	poi i[o {P} tra poco va~ ah]
-PSB091	{P}
+PSB005	poi i[o (.) tra poco va~ ah]
+PSB091	(.)
 PSB091	no a lei a lei richiamo do[po]
 PSB005	[ah va] be[ne adesso]
 PSB091	[(richiamo dopo)]
 PSB005	[ma guarda io]: tra poco vado comunque così:
 PSB091	[si si]
 PSB091	perché tu devi andare dall'altra parte d(ella c[ittà)]
-PSB005	[com]pletamente {ride}
+PSB005	[com]pletamente ((ride))
 PSB005	vabbè ma finché non piove
 PSB091	sì
 PSB091	ah beh questi giorni
 PSB091	solo che freddo però del resto[: xxx]
 PSB005	[vabbè ma mi scal]do
-PSB005	vad[o e] pedalo {ride}
+PSB005	vad[o e] pedalo ((ride))
 PSB091	[sì]
 PSB091	la mamma co[me sta]?
 PSB005	[no la ma]mma bene
@@ -1663,23 +1663,23 @@ PSB091	ma io
 PSB091	io non vedo niente lei ha occhi scuri io ho occhi chi[ari]
 PSB005	[ma il vi~] c(io)è la [forma di tutto sì: sì sì] sì sì sì sì x
 PSB091	[magari: sorri:so],
-PSB005	che poi io vedo {P} quello che tu scrivi
+PSB005	che poi io vedo (.) quello che tu scrivi
 PSB005	e i
 PSB005	facebook me lo traduce in italiano
 PSB091	[okay]
 PSB005	[e quindi v]edo che scrivi tipo:
 PSB005	auguri al mio pollo
-PSB091	sì {ride}
-PSB005	perché {P} forse in ucraino funz[iona] {ride}
-PSB091	[sì: sì] {ride}
-PSB091	(tipo) pollo io dico pulcino ca[pito], {ride}
-PSB005	[okay] {ride}
+PSB091	sì ((ride))
+PSB005	perché (.) forse in ucraino funz[iona] ((ride))
+PSB091	[sì: sì] ((ride))
+PSB091	(tipo) pollo io dico pulcino ca[pito], ((ride))
+PSB005	[okay] ((ride))
 PSB005	e tradu[ce eh]
-PSB091	[ti (immagini) dici] poll[o] {ride}
+PSB091	[ti (immagini) dici] poll[o] ((ride))
 PSB005	[po]llo sì
-PSB091	oddio mio {ride}
+PSB091	oddio mio ((ride))
 PSB091	sì sì [io gli ho scritto pulcino]
-PSB005	[(avevo anche) pens]ato devo ch[ie]derglielo perché {ride}
+PSB005	[(avevo anche) pens]ato devo ch[ie]derglielo perché ((ride))
 PSB091	[sì]
 PSB091	perché lei lei da pi~ da piccola si vestiva
 PSB091	guarda
@@ -1691,8 +1691,8 @@ PSB091	(gli) piaceva lei di di carnagione più scura come suo padre no,
 PSB091	e quindi ma stava veramente anche bene
 PSB091	e quindi una volta aveva
 PSB091	e l'ombrello ne~
-PSB091	c'ho una foto dove sta lei {P} con ombrello giallo
-PSB091	con una: {P} una felpa gialla pantaloni con il cu:-
+PSB091	c'ho una foto dove sta lei (.) con ombrello giallo
+PSB091	con una: (.) una felpa gialla pantaloni con il cu:-
 PSB091	con i quadrettini capito,
 PSB091	giallo e rosso capito, ma proprio buffa tutta giallo
 PSB091	e io la chiamavo pulcino da piccola capito, perché è tutta gialla
@@ -1721,8 +1721,8 @@ PSB091	ha detto e vieni qua
 PSB091	ha aperto il: i~
 PSB091	quel libro no, che loro c'hanno di
 PSB091	e: ha detto dai leggiamo
-PSB091	e lei {imita_bambina}
-PSB091	e lei ha detto {P} mamma mia ma cosa hai fatto {ride}
+PSB091	e lei ((imita_bambina))
+PSB091	e lei ha detto (.) mamma mia ma cosa hai fatto ((ride))
 PSB091	e io ho detto guarda che legge
 PSB091	lei (gli) ha fatto tre più due
 PSB091	e lei dice cin[que] capito, e lei d~
@@ -1798,7 +1798,7 @@ PSB091	[lei andava da sola]
 PSB091	e lei ha pre~ e lei
 PSB091	giorno dopo io porto all'asilo e quella scema vecchia perché mh è una vecchia fa
 PSB091	eh tu racconti tutto a tua mamma guarda che non si f[a così]
-PSB005	[ah beh] come no {ride}
+PSB005	[ah beh] come no ((ride))
 PSB091	e lei torna [e] fa mamma io domani non ci v[ado]
 PSB005	[sì]
 PSB005	[eh c]ert[o sì]
@@ -1815,13 +1815,13 @@ PSB091	mio padre ha detto gua:rda mi si sp[ezza il cuore]
 PSB005	[eh certo] sì
 PSB091	io ho detto guarda papà che crescendo con bambini loro lì imparano tante cose all'asilo sai come lui ha detto
 PSB091	lui
-PSB091	ci penso {P} [tutto io]
+PSB091	ci penso (.) [tutto io]
 PSB005	[eh si av]ete fatto scuol[a a] casa si
 PSB091	[sì]
 PSB091	sì
 PSB005	sì sì sì sì
 PSB091	e quindi era un pochino persa però ce l'ha fatta
-PSB005	lei è {P} è giovane no?
+PSB005	lei è (.) è giovane no?
 PSB091	giovane s[ì]
 PSB005	[s]ì
 PSB091	sì
@@ -1861,9 +1861,9 @@ PSB005	[ah]
 PSB005	[alla fine è stata conte]nta o no?
 PSB091	[però non lavorava neanche]
 PSB091	no
-PSB005	no {ride}
+PSB005	no ((ride))
 PSB091	no
-PSB005	ma sedici anni è troppo presto per scegliere {ride}
+PSB005	ma sedici anni è troppo presto per scegliere ((ride))
 PSB091	però:
 PSB091	io che gli ho detto ma guarda qualcosa altro perché
 PSB091	mh di di sua classe sono andati tipo tre
@@ -1871,17 +1871,17 @@ PSB091	tre o quattro persone capito, fare giur[ispr]udenza
 PSB005	[mhmh]
 PSB091	no mamma io per la giustizia sai cap[ito],
 PSB005	[sì sì]:
-PSB091	io {P} io faccio
+PSB091	io (.) io faccio
 PSB091	ho detto guarda che no:n
 PSB091	secondo me io pensavo più medicina cap[ito], più le cose
 PSB005	[mhmh]
 PSB091	no no mamma ma io per la giustizia
-PSB091	poi quando è andata {P} al carcere minorile
+PSB091	poi quando è andata (.) al carcere minorile
 PSB091	perché loro fanno anche: hai capito vanno nei carceri
 PSB091	ha detto che era il peggior carcere[::]
 PSB005	[eh cer]to
 PSB091	di quello di bambini
-PSB091	un po' {P} un po': e[ra] delusa
+PSB091	un po' (.) un po': e[ra] delusa
 PSB005	[sì sì]
 PSB091	però io ho detto no ho detto guarda tu finisci questo
 PSB091	POI DOPO se tu [vor]rai in un domani
@@ -1911,7 +1911,7 @@ PSB091	ah prima hanno aperto attività
 PSB091	è cominciato il covid
 PSB091	lor[o]
 PSB005	[eh] no:
-PSB091	tutto: {P} tutto:
+PSB091	tutto: (.) tutto:
 PSB091	perso.
 PSB091	poi questa guerra pure
 PSB091	c(io)è (ave~) suo marito è venuto qua: certo che lei mh
@@ -1944,7 +1944,7 @@ PSB091	guarda lui adesso pure sta in ucraina
 PSB091	questo
 PSB091	è cimitero
 PSB005	°oddio°
-PSB091	di {P} leopoli
+PSB091	di (.) leopoli
 PSB005	°mamma:°
 PSB091	e questo solo una città
 PSB091	se tu vai a kiev
@@ -1987,7 +1987,7 @@ PSB005	ho un'impressione::
 PSB005	[però. così. sì].
 PSB091	[speriamo speriamo:] perché guarda credimi
 PSB091	credi no:n
-PSB091	guarda eh {sospira}
+PSB091	guarda eh ((sospira))
 PSB091	guarda
 PSB091	non non ce la faccio più (a vi~) c(io)è ca[pisci]
 PSB005	[eh sì]
@@ -2007,7 +2007,7 @@ PSB005	mi ricordavo
 PSB005	sì s[ì sì]
 PSB091	[ho il] fratello che è lì
 PSB005	sì sì ah siamo tornati a parlare di brutte cose
-PSB005	alla fine {ride}
+PSB005	alla fine ((ride))
 PSB091	([per]ché) non c'è n[on] c'è::
 PSB005	[sì]
 PSB091	come dire non c'è un'ora: che io no:n non ci pens[o ca]pito,
@@ -2031,7 +2031,7 @@ PSB005	beh però
 PSB091	ho senso di [colpa]
 PSB005	[lo so ma] non c'entra però c(io)è[:] mh:
 PSB091	[eh]
-PSB005	a parte che tu sei {P} pure venuta prima no,
+PSB005	a parte che tu sei (.) pure venuta prima no,
 PSB091	[s:]:ì però sai eh: uhm
 PSB005	[sì]
 PSB091	mi ricordo: su facebook sai perché su facebook
@@ -2042,7 +2042,7 @@ PSB091	basta::
 PSB091	che bombardano la nostra ucraina
 PSB005	mhmh
 PSB091	e uno è andato subito a vedere
-PSB091	chi sono no, perché {P} [c'è] scritto che sono a bologna
+PSB091	chi sono no, perché (.) [c'è] scritto che sono a bologna
 PSB005	[sì],
 PSB091	e mi dice
 PSB091	ah certo che dall'italia tu s[(t)ai meglio]
@@ -2080,9 +2080,9 @@ PSB091	[qualche giorn]o capito, a pensare guarda
 PSB091	proprio ho pianto ho pianto per[ché dico madonna santa i]o:
 PSB005	[eh ci credo ci credo]
 PSB091	c(io)è credimi non mi son mai fermata
-PSB091	ho fatto intervento dopo dieci giorni abbiamo fatto la cena io a far la spesa così tenevo il seno capito, perché in macchina fa male quando {ride}
+PSB091	ho fatto intervento dopo dieci giorni abbiamo fatto la cena io a far la spesa così tenevo il seno capito, perché in macchina fa male quando ((ride))
 PSB005	quand~ quando l'hai fatto l'intervento?
-PSB091	il primo marzo {P} l'anno scorso
+PSB091	il primo marzo (.) l'anno scorso
 PSB091	eh
 PSB091	dopo dieci giorni
 PSB091	già ero attiva capito,
@@ -2092,11 +2092,11 @@ PSB091	certo
 PSB005	io sono: mh
 PSB091	hai paura?
 PSB005	pessima nel senso che:
-PSB005	sono faccio schifo a farmele [guarda] guarda le pelli {P} guarda che pelli che ho
+PSB005	sono faccio schifo a farmele [guarda] guarda le pelli (.) guarda che pelli che ho
 PSB091	[xxx]
 PSB091	ti mangi?
 PSB005	[no non me le mangio ma guarda]
-PSB091	[ah no x {P} le cuticole]
+PSB091	[ah no x (.) le cuticole]
 PSB005	fino a qui
 PSB005	sì
 PSB005	quindi io potrei venire u~
@@ -2137,7 +2137,7 @@ PSB005	[sì sì sì] sì sì sì
 PSB091	[ah::]
 PSB005	e è è bolognese ma: sta facendo un periodo di lavoro là ma breve
 PSB091	x[x xx]
-PSB005	[quindi {P}] tutto quest'anno
+PSB005	[quindi (.)] tutto quest'anno
 PSB005	ogni tanto io veni[vo più spes]so
 PSB091	[ah:: dai]
 PSB005	perché ero da sola
@@ -2154,7 +2154,7 @@ PSB091	[mhmh]
 PSB005	poi sono andata: siamo andati in sicilia al mare per dieci giorni
 PSB005	alla fine dei dieci giorni io volevo ammazzare qualcuno perché avevo le unghie ch[e m]i
 PSB091	[mhmh]
-PSB091	ti: {P} ti pesava[no]?
+PSB091	ti: (.) ti pesava[no]?
 PSB005	[si]:
 PSB091	come la mia collega a lav[oro]
 PSB005	[non so]pportavo
@@ -2162,7 +2162,7 @@ PSB091	non sopportava non sopportava però io ho detto
 PSB091	mh
 PSB091	si chiama
 PSB005	re[sisti]
-PSB091	[ho detto gua]rda {P} resisti
+PSB091	[ho detto gua]rda (.) resisti
 PSB091	ved[ra]i perché
 PSB005	[sì]
 PSB091	c(io)è perché lei ha a(h) li ha fatti
@@ -2187,20 +2187,20 @@ PSB005	io invece poi suonavo il pianoforte da piccola quindi mi [son proprio: ab
 PSB091	[a::h okay]
 PSB091	[a]:h
 PSB005	poi mia mamma se le mangia
-PSB091	sì, {ride}
-PSB005	c(io)è {ride}
+PSB091	sì, ((ride))
+PSB005	c(io)è ((ride))
 PSB005	io in casa non ho mai visto una limetta per le unghie
 PSB005	quand[o f~]
-PSB091	([eh] per forz[a]) {ride}
+PSB091	([eh] per forz[a]) ((ride))
 PSB005	[sì] sì quando facevo le superiori a un certo punto una mia amica mi ha detto
-PSB005	guarda che puoi anche limartele le u[nghie] {ride}
-PSB091	[sì eh] {ride}
+PSB005	guarda che puoi anche limartele le u[nghie] ((ride))
+PSB091	[sì eh] ((ride))
 PSB005	perché io me le tagliavo
-PSB005	[così] poi andavo {P} in giro così
+PSB005	[così] poi andavo (.) in giro così
 PSB091	[sì]
-PSB091	sì {ride}
+PSB091	sì ((ride))
 PSB005	senza neanche con tutti: capi[to],
-PSB091	[tu]tti (e due) {ride}
+PSB091	[tu]tti (e due) ((ride))
 PSB091	vabbè
 PSB091	quello:
 PSB005	sì mh
@@ -2212,14 +2212,14 @@ PSB005	[e poi faccio i capr]i:cci eh
 PSB091	[(e poi non hai fastid~)]
 PSB005	c(io)è lo non lo sop~
 PSB005	proprio [lo l~]
-PSB091	[ved]i {P} [io i]o da s~ da sempre
+PSB091	[ved]i (.) [io i]o da s~ da sempre
 PSB005	[odio]
 PSB091	guarda non n~ d~ da sempre da quando anche ero ragazza
 PSB091	sempre avev[o]
 PSB005	[c]ura h[ai ragion~ s]ì
 PSB091	[che prima non c'e~]
 PSB091	prima non c'erano qu~ questo ad[esso è] come [hai ca]pito,
-PSB005	[sì sì sì {P} certo]
+PSB005	[sì sì sì (.) certo]
 PSB005	nuovo sì
 PSB091	quindi atte~
 PSB091	poi da ragazza mi ricordo attenta per non rompere (ups [hai) sempre un un'unghia]
@@ -2227,19 +2227,19 @@ PSB005	[e:h sì sì sì]
 PSB091	trage[:dia capit]o, perché dovev(a) essere sempre:
 PSB005	[ah okay]
 PSB005	no io devo s~
-PSB005	devo stare attent[a p]erché esco di casa: in pigiama se nessuno me lo dice {ride}
+PSB005	devo stare attent[a p]erché esco di casa: in pigiama se nessuno me lo dice ((ride))
 PSB091	[mh]
-PSB091	tu sei come la mia mamma [xx] {ride}
+PSB091	tu sei come la mia mamma [xx] ((ride))
 PSB005	[sì s]ì cos[ì io sì]
 PSB091	[con le ciaba]tte di casa [xxx xx alla] fermata
 PSB005	[si esatto esatto]
 PSB091	oh oh
 PSB005	adesso mi devo:
-PSB005	tagliare questa frangia orri~ orrenda che ho {ride}
-PSB005	questo è il prossimo passaggio {ride}
+PSB005	tagliare questa frangia orri~ orrenda che ho ((ride))
+PSB005	questo è il prossimo passaggio ((ride))
 PSB005	il p~ la p~ cosa più urgente è questa
 PSB005	l'unica cosa che faccio sono: i peli c(io)è la ceretta
-PSB091	sì {ride}
+PSB091	sì ((ride))
 PSB005	quella l~ p~ obbligatorio
 PSB005	obbligatorio
 PSB005	però tutto il resto quando son~ quando mi son sposata sono andata:
@@ -2248,7 +2248,7 @@ PSB005	sono rimasta quasi due ore dentro
 PSB005	perché ho fatto la ceretta dappert[utto le u]:nghie
 PSB091	[dappertutto]
 PSB005	quando sono uscita avevo un mal di testa volevo
-PSB091	certo {ride}
+PSB091	certo ((ride))
 PSB005	ah e poi sai che la mia parrucchiera ha avuto il covid e:
 PSB005	e il giorno prima:: mi ha detto che non poteva venire
 PSB091	ma:mma mia
