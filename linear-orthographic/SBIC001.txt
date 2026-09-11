@@ -1546,7 +1546,7 @@ PSB002	est
 PSB001	est
 PSB001	eh
 PSB005	oddio aiuto
-PSB005	verso la stazione o dall' altra parte
+PSB005	verso la stazione o dall'altra parte
 PSB001	sì
 PSB002	no sta dicendo forse a
 PSB001	no comunque c'è là

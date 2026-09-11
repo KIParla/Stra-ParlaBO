@@ -1006,7 +1006,7 @@ PSB083	sì sì
 PSB084	era l'ultimo corso l'ho pagato non sono andati non volevano più andare
 PSB083	sì hai anche xx tu
 PSB085	pensa te
-PSB083	certo allora fai una cortesia prova a xx tutti i ticket dell'x dell' xx
+PSB083	certo allora fai una cortesia prova a xx tutti i ticket dell'x dell~ xx
 PSB085	pensa te
 PSB085	però sì cioè dopo si arriva ad un'età che o lo sport
 PSB083	così ci mettiamo avanti

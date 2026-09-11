@@ -1034,7 +1034,7 @@ PSB083	((parla_al_telefono)) [sì sì]
 PSB084	era l'ulti[mo (.) corso l'ho paga]to non sono andati non volevano più andare
 PSB083	((parla_al_telefono)) [sì hai anche xx tu:]
 PSB085	pensa te
-PSB083	((parla_al_telefono)) certo allora fai (.) una cortesia prova a xx tutti i ticket [dell'x] dell' xx
+PSB083	((parla_al_telefono)) certo allora fai (.) una cortesia prova a xx tutti i ticket [dell'x] dell~ xx
 PSB085	[pensa te]
 PSB085	però sì cioè dopo si arriva ad un'età che [o lo sport]
 PSB083	((parla_al_telefono)) [così:: ci mettiamo avanti]

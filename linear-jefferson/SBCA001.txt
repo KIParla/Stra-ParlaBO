@@ -224,7 +224,7 @@ PSB044	sì
 PSB043	di accetare la malattia di:: °sì°
 PSB043	di cu~ anche di <collaborazioni>
 PSB043	collaborazioni (.) [paro]la un po' difficile
-PSB044	[mh ((ride)) [
+PSB044	[mh ((ride))
 PSB044	((ride))
 PSB043	mi aiuti araba:?
 PSB044	((ride))
