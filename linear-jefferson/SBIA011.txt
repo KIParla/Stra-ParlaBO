@@ -279,7 +279,7 @@ PSB063	diverse: (.) caste della società?
 PSB064	NO NO.
 PSB005	secondo me scavi.
 PSB063	[AH okay okay].
-PSB064	[caves caves]
+PSB064	#_ [caves caves]
 PSB005	AH
 PSB064	SCAVI
 PSB005	no (.) #caves è: (.) tipo grotte.
@@ -380,7 +380,7 @@ PSB064	spie.
 PSB005	eh,
 PSB064	hai capito cosa è?
 PSB005	prova a dirmi (.) continua la frase?
-PSB064	a spy.
+PSB064	#_ a spy.
 PSB063	sì.
 PSB005	sì sì sì.
 PSB064	una [spia].
@@ -780,7 +780,7 @@ PSB064	ma
 PSB064	odia me.
 PSB005	[mh] okay.
 PSB063	[sì]?
-PSB064	non odia odia ma (.) lui non ha bisogno di (.) persone [a~] ((ride))
+PSB064	non odia odia ma (.) lui non ha bisogno di (.) persone [a~ ((ride))]
 PSB005	sì sì.
 PSB005	non siete molto legati,
 PSB063	okay
@@ -910,7 +910,7 @@ PSB063	però facciamo un pranzo: tutti insieme (.) noi.
 PSB063	e: anche con:- con i regaz.
 PSB063	e::
 PSB063	i regaz sono le persone che studiano.
-PSB005	non c'è [bisogno di spiegare sì] ((ride)) .
+PSB005	non c'è [bisogno di spiegare sì ((ride))].
 PSB063	[qui nella nostra scuola]
 PSB063	[e:h]m:
 PSB063	e quindi: niente si cucina: insieme e poi mangiamo,

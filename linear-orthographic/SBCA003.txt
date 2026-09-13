@@ -131,7 +131,7 @@ PSB099	xxx però sarebbe bellissimo un tour dell'america latina
 PSB100	boh io non lo so ti dico la verità torno a casa lo sai come sono io posso anche eh domani ti dico facciamo un biglietto adesso
 PSB099	io posso cioè lo faccio xx
 PSB100	io torno eh de~ torno a casa vedo il costo
-PSB099	guardiamo l kharita intanto
+PSB099	guardiamo l #kharita intanto
 PSB100	eh
 PSB099	cioè tipo i paesi che potremmo andare
 PSB100	paesi che non sappiamo neanche dove certi sono
@@ -154,7 +154,7 @@ PSB100	vabbè è un continente eh è un continente
 PSB099	però dicevo non è sempre così cioè interno
 PSB100	sì sì no ma si può fare cioè si può vedere
 PSB099	allora vediamo
-PSB100	no no perché io ti dico la verità farmela col pullman dieci ore venti ore di pullman mizzica l'è long
+PSB100	no no perché io ti dico la verità farmela col pullman dieci ore venti ore di pullman mizzica #l'è #long
 PSB099	brasile no
 PSB099	tipo
 PSB100	bolivia perù ecuador colombia
@@ -217,7 +217,7 @@ PSB099	eh vabbè guarda se faccio pure trinidad e tobago c'è grenada
 PSB099	allora le le isole sono stupende
 PSB100	okay okay
 PSB099	le isole
-PSB100	va be ne
+PSB100	vabbè ne
 PSB099	però le isole costano xxxxare
 PSB100	eh
 PSB100	c'è un altra paura rimaniamo un focus
@@ -235,8 +235,8 @@ PSB099	cazzo ne so io
 PSB100	ah non c'è te lo sicuro
 PSB100	vai a vedere skyscanner
 PSB099	cartagena
-PSB100	ktbi i cartagena
-PSB099	no c'è cartagena xx c'è cartagena fi mirican c'è cartagena xx
+PSB100	#ktbi i cartagena
+PSB099	no c'è cartagena xx c'è cartagena #fi #mirican c'è cartagena xx
 PSB100	ce ne vuole uno che vai
 PSB099	ce ne sono mille questo si chiama cartagena mille
 PSB100	vai
@@ -250,7 +250,7 @@ PSB100	c'è minchia
 PSB099	madrid
 PSB100	madrid eh bogotà
 PSB100	x x x x x x
-PSB100	wajh-ek qāṣaḥ
+PSB100	#_ wajh-ek qāṣaḥ
 PSB099	secondo me uno diretto c'è no perché abbiamo messo oggi per ti pare oggi te lo dà diretto
 PSB100	deve avere sempre ragione
 PSB100	e va bene va bene hai ragione ca~
@@ -324,7 +324,7 @@ PSB099	esatto
 PSB099	e poi da medellin c'è se c'è il volo si va a cartagena
 PSB099	da cartagena si va a barranquilla che sta qua col bus
 PSB100	sì ma no no no no
-PSB100	te ti sembra piccola la distanza ma è è lunga l'a long
+PSB100	te ti sembra piccola la distanza ma è è lunga #l'a #long
 PSB099	vediamo quanto è in bus cartagena barranquilla per esempio
 PSB100	devi vedere da bogotà
 PSB099	ah abbiamo detto da bogotà a xx
@@ -348,7 +348,7 @@ PSB099	eh ci sta
 PSB100	eh no okay
 PSB099	un'ora e quaranta
 PSB100	ma io dico per questo
-PSB099	hadik gelna lik il volo
+PSB099	#hadik #gelna #lik il volo
 PSB100	il volo ma eh probabilmente potrebbe anche dirti torna a bogotà e poi sali e sali
 PSB099	cosa non ho capito
 PSB100	da medellin all'altra ti può anche dirti devi tornare a bogotà

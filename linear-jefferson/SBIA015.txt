@@ -313,7 +313,7 @@ PSB144	[e:h]
 PSB144	action
 PSB146	no action sì in inglese credo [non so se]
 PSB145	[a:h ah] in it[alia come come si dice]?
-PSB144	[en français action]
+PSB144	#_ [en français action]
 PSB146	si pronuncia in inglese credo action
 PSB145	m:h
 PSB146	mi sa (.) non lo so
@@ -454,7 +454,7 @@ PSB146	[quindi] invece tu avresti voluto continuare?
 PSB145	m:h
 PSB145	per me ((si_schiarisce_la_voce))
 PSB145	non lo so::
-PSB144	#_shnū kan 3ajb-ek dīrī?
+PSB144	#_ #_shnū kan 3ajb-ek dīrī?
 PSB145	m:h
 PSB145	eh e:h
 PSB145	certamente: voglio comp~ completa le le le
@@ -467,7 +467,7 @@ PSB145	prendi meglio la lingua:
 PSB145	e:h voglio: imparare: i:l:
 PSB145	mh
 PSB145	e::h
-PSB145	inf~ e:h l'informatique
+PSB145	#_ inf~ e:h l'informatique
 PSB146	ah [infor]matica
 PSB145	[x]
 PSB145	[sì:]
@@ -582,7 +582,7 @@ PSB144	eh cosa: (.) tutta la vita di: (.) di italiano
 PSB146	per [imparare x]
 PSB145	[anche mi piac]i: mi piaci e:h
 PSB144	[a:h]
-PSB145	mode la mode
+PSB145	#_ mode la mode
 PSB144	[la moda]
 PSB146	[la moda:]
 PSB145	[sì la] moda
@@ -1684,9 +1684,9 @@ PSB144	[eh sì:]
 PSB145	[si chi]ama #ḥabb #l-mulūk
 PSB146	ah
 PSB144	due fes[te]
-PSB145	[ḥa]bb l-mulūk
-PSB144	ḥabb l-mulūk
-PSB146	#abbi #muluk
+PSB145	#_ [ḥa]bb l-mulūk
+PSB144	#_ ḥabb l-mulūk
+PSB146	#_ #abbi #muluk
 PSB144	eh
 PSB145	e:h #ḥabb #l-mulūk d~ eh x un po' de tradizionale:
 PSB145	e::h e::h li $rige
@@ -1695,7 +1695,7 @@ PSB145	e:h
 PSB145	re re
 PSB146	re?
 PSB145	[re:]
-PSB144	[président]
+PSB144	#_ [président]
 PSB146	ah x[x okay presidente]
 PSB145	[re:: pre~ preside]nte
 PSB145	eh oh una (.) frutta: del re:

@@ -22,7 +22,7 @@ PSB099	[ti prendi una bella storta]
 PSB100	cioè se è possibile praticamente a fine giornata (.) staccar la testa (.) e appoggiarla da una parte
 PSB100	ma ti giuro
 PSB100	ma sarebbe s~
-PSB099	ana [kan txxayyl] ana kan~
+PSB099	#_ ana [kan txxayyl] ana kan~
 PSB100	[ma è dentro]
 PSB099	domani ci vengono a trovare con il camice bianco
 PSB099	e ci mettono dentro
@@ -175,13 +175,13 @@ PSB099	((ride))
 PSB100	e gli ho detto (.) gli ho detto ah beh
 PSB099	e:h sì l'#italy eh (.) [dobbiamo andarcene]
 PSB100	[ah oh eha]
-PSB100	wallāh rāh bāghi nmshi f-ḥāli
+PSB100	#_ wallāh rāh bāghi nmshi f-ḥāli
 PSB099	dobbiamo andarcene [a fanculo il più presto possibile perché]
 PSB100	[#bāghi #nmshi #w-qǝsm-o #b-llāh veramen]te
 PSB099	sto paese [non funziona]
 PSB100	[no cioè] (.) mi sa che m~ me la voglio rischiare frega [niente nessu~ #nmshi #n-tḥarrǝk]
 PSB099	[dai vieni con me andiamo in canada]
-PSB100	fin?
+PSB100	#_ fin?
 PSB099	diventi bian[co] ((ride))
 PSB100	[ma] non
 PSB100	ma non è che se vai in un posto ((ride))
@@ -201,7 +201,7 @@ PSB100	e::[:::h]
 PSB099	[eh eh eh]
 PSB100	eh mica parlo francese
 PSB100	eh ao non c'ho mica questa fortuna che [come te e:h n:on c'ho mica ques]ta fortuna come te che sai molte lingue [io]
-PSB099	[je suis désolée (.) je suis désolée mais] ((ride))
+PSB099	#_ [je suis désolée (.) je suis désolée mais] ((ride))
 PSB099	[quan]do la gente [stava studia' tu] che stavi a fa'
 PSB100	[già tanto]
 PSB100	io?
@@ -331,7 +331,7 @@ PSB099	[sì ma lei] sì ma non sta capendo il mio problema lei
 PSB099	non è questo il mio problema
 PSB100	eh vabbè vabbè
 PSB099	non è questo il mio proble[ma]
-PSB100	[fi-ha] xer fi-ha xer
+PSB100	#_ [fi-ha] xer fi-ha xer
 PSB099	perché lei pensa
 PSB100	eh
 PSB099	cioè secondo me ha capito
@@ -403,7 +403,7 @@ PSB100	[sì: sì:]
 PSB100	[sì] no no no [eh eh però: eh] sbriga cioè fai pressione [per dire della]
 PSB099	[e quindi non potevate modificare]
 PSB099	[minchia io domani cioè] [chiamo tutti]
-PSB100	[eh gūl lī-hom ta-rāh rǝb3 dyal milyūn, l-uxra hāda rāh māshi]
+PSB100	#_ [eh gūl lī-hom ta-rāh rǝb3 dyal milyūn, l-uxra hāda rāh māshi]
 PSB099	eh minchia cioè dai
 PSB100	no no no no fai [pressione]
 PSB099	[da quattro]mila euro a mille eur[o cioè]
@@ -626,7 +626,7 @@ PSB099	per intrattenere un po':: cioè per non [fare in silenzio]
 PSB100	[per trovare un argomento e ba]sta sì
 PSB099	e mi fa e:::h è la tua età (.) faccio ah vabbè buono venticinque
 PSB099	no ventotto le faccio zia intanto io non ho ventotto anni
-PSB099	first of all
+PSB099	#_ first of all
 PSB099	cioè eh non sono così vecchia
 PSB099	prima di tutto
 PSB099	e [fa:::]

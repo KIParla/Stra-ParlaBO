@@ -1151,7 +1151,7 @@ PSB021	quindi: queste cose qua poi dolce
 PSB021	è il top
 PSB021	dolce c'è tipo:
 PSB021	e:h non so se hai (dato subi~)
-PSB021	#(mishdti)
+PSB021	#_ #(mishdti)
 PSB021	è tipo piccolo e:h rotondo bianco
 PSB021	e:h ed è buonissimo
 PSB005	tipo col cocco forse?

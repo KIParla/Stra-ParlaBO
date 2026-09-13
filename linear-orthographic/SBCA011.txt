@@ -30,9 +30,9 @@ PSB165	non finisco piano piano più che altro è costoso quindi xxxx eh si perch
 PSB164	è costoso
 PSB164	ma come funziona che mh
 PSB164	cioè come un'università che tu paghi ad anni
-PSB165	allora funziona così praticamente c'è un brevetto commerciale che si chiama atpl che sarebbe l'air transport pilot license
+PSB165	allora funziona così praticamente c'è un brevetto commerciale che si chiama atpl che sarebbe l'#air #transport #pilot #license
 PSB164	okay
-PSB165	per acquisirlo ci sono devi fare praticamente due anni di ground school ground school praticamene ci sono le ore di teoria
+PSB165	per acquisirlo ci sono devi fare praticamente due anni di #ground #school #ground #school praticamene ci sono le ore di teoria
 PSB165	e le ore di pratica cioè l'a ti pi elle integrato
 PSB165	ehm
 PSB165	all'interno di questi due anni
@@ -43,11 +43,11 @@ PSB165	più eh sì lì c'è un sacco di di c'è traffico naviga~ meteo o a aerot
 PSB165	e ciao
 ???	ciao
 PSB165	eh
-PSB165	e allora e nel totale ciò a me non so ad esempio l'a ti pi elle che ho fatto mi~ eh scusa il pi pi elle che sarebbe private pilot license che ho fatto a rimini mi è costato quindicimila e mezzo
+PSB165	e allora e nel totale ciò a me non so ad esempio l'a ti pi elle che ho fatto mi~ eh scusa il pi pi elle che sarebbe #private #pilot #license che ho fatto a rimini mi è costato quindicimila e mezzo
 PSB164	oh dio mio
 PSB165	è questo che l'a ti pi elle viene mh
 PSB164	una bella botta
-PSB165	eh a professional aviation che è a ozzano chiedono ottantacinque
+PSB165	eh a #professional #aviation che è a ozzano chiedono ottantacinque
 PSB164	madonna
 PSB165	chiedono ottantacinque
 PSB164	tosta
@@ -75,7 +75,7 @@ PSB164	davvero
 PSB165	in volo non te lo danno
 PSB164	mh
 PSB165	te lo paghi te
-PSB165	ci sono un sacco di cose volevo ved~ volevo andare a vedere a dublino per fare la la ground school lì poi ho detto
+PSB165	ci sono un sacco di cose volevo ved~ volevo andare a vedere a dublino per fare la la #ground #school lì poi ho detto
 PSB164	mhmh
 PSB165	aspetto
 PSB164	aspetti ci sta
@@ -114,7 +114,7 @@ PSB165	la c'ha il video della mia faccia io io così
 PSB165	mi fanno ma non hai capito
 PSB165	no capire ho capito ma
 PSB164	ah
-PSB165	all'inizio all'inizio in quei tre secondi ho detto sì vabbè sarà uno screen poi poi sai sopra zoomi c~ c~ c~ c'è il nome e cognome
+PSB165	all'inizio all'inizio in quei tre secondi ho detto sì vabbè sarà uno #screen poi poi sai sopra zoomi c~ c~ c~ c'è il nome e cognome
 PSB164	sarà uno scherzo
 PSB164	certo
 PSB164	mh
@@ -246,7 +246,7 @@ PSB164	mh
 PSB164	quando andavamo a scuola erano amiche
 PSB165	sì si vedevan spesso
 PSB164	eh gli aveva fatto anche il
-PSB164	cos'era il tajin
+PSB164	cos'era il #tajin
 PSB165	sì
 PSB164	mado' che bello
 PSB165	anni fa quando andavamo alle elementari dio bono che ricordi
@@ -386,13 +386,13 @@ PSB164	a me un po' piace un po' sì
 PSB165	ti piace la techno
 PSB164	ma perché io essendo cioè ho studiato a bologna
 PSB165	eh lì è sempre
-PSB164	c'è un po di balotta sempre così
+PSB164	c'è un po di #balotta sempre così
 PSB165	no io io
 PSB165	io i miei la mia musica é l- musica latina
 PSB164	ah okay ci sta e allora la riviera è perfetta per te
 PSB165	io io s~ s~ ah eh ma insomma
 PSB164	non si trova molto
-PSB165	cioè ti dico io son~ il weekend vado sul lungo mare ma i chiringuiti chiudono alle undici e mezza
+PSB165	cioè ti dico io son~ il weekend vado sul lungo mare ma i #chiringuiti chiudono alle undici e mezza
 PSB164	mhmh
 PSB164	ma infatti io sta cosa non la capisco
 PSB165	eh perché ci son gli hotel dietro perché così dopo villa delle rose come si fa a riempire villa papete come si riempie cioè capito tutta questione di business il coconuts come si riempie
@@ -428,7 +428,7 @@ PSB165	io io sai quante volte sono andato con lui io mi volevo guarda
 PSB165	por~ un lui lu~ una volta lui e mi hanno fatto uno scherzo
 PSB164	non ne potevi più
 PSB164	cos'han fatto
-PSB165	praticamente eravamo al rimini beach arena c'era c'era il eh il m il memorabilia gratis
+PSB165	praticamente eravamo al rimini beach arena c'era c'era il eh il mh il memorabilia gratis
 PSB164	mh
 PSB164	okay
 PSB165	cioè già il nome
@@ -633,7 +633,7 @@ PSB164	eh
 PSB164	davvero
 PSB165	son anda~ so eh sì perché t~ richiedono il l~ livello quattro icao
 PSB164	tosta
-PSB165	international civil aviation organization eh
+PSB165	#_ international civil aviation organization eh
 PSB164	certo
 PSB165	del resto non ser~ mh a un ca
 PSB164	non ti serve niente
@@ -747,10 +747,10 @@ PSB164	eh non lo so dov'era
 PSB165	io non so come lo conosco forse xxx
 PSB164	ma lui ha tre figli grandi e uno ha tipo poco più della mia età
 PSB165	ah
-PSB164	però era un po' cioè si è un po' imbazzato con le droghe purtroppo
+PSB164	però era un po' cioè si è un po' #imbazzato con le droghe purtroppo
 PSB165	alè proprio lì ecc~
 PSB164	esatto
-PSB164	e quindi è andato a fare la il rehab
+PSB164	e quindi è andato a fare la il #rehab
 PSB164	e adesso è tornato
 PSB165	che cosa sarebbe
 PSB164	cioè quando ti devi fare la disintossicazione
@@ -798,12 +798,12 @@ PSB164	ma poi è cioè alcuni posti secondo me sono anche infattibili come tu ch
 PSB165	memorabilia
 PSB165	no la te~ la techno da sobrio non non non non ce la fai
 PSB164	non ci stai
-PSB164	cioè ci stai un'ora però poi ti invornisci
+PSB164	cioè ci stai un'ora però poi ti #invornisci
 PSB165	ma io parecc~ parecchie volte sono andato con loro perché dai io lo facevo perché d~ d~ stavamo tutti insieme
 PSB164	certo
 PSB165	ma io non non ce la facevo eh la techno veramente ti
 PSB164	no no no
-PSB164	ah no dopo un po' ti invornisce
+PSB164	ah no dopo un po' ti #invornisce
 PSB165	cioè
 PSB165	non è balla~ cioè non è balla~ vedi la gente così perché chissà cosa si è s~ ingerita
 PSB164	sì
@@ -856,7 +856,7 @@ PSB165	ci sta no no ma ti dico ci sta ma io quella roba ti giuro non
 PSB164	mh
 PSB165	non ci ho mai capito non non mi sono mai appassion~ cioè vedo le person~
 PSB164	no no ma sì sì
-PSB165	ci sono delle mie amiche che tutti i giorni vanno a vedere lì il robo com'è che si chia~ il
+PSB165	ci sono delle mie amiche che tutti i giorni vanno a vedere lì il #robo com'è che si chia~ il
 PSB164	certo
 PSB164	co-star
 PSB164	la l~ quell'app
@@ -870,7 +870,7 @@ PSB165	ah ma è uno che sa le co~ ma mh ma quando oggi
 PSB164	ma chi
 PSB165	oggi sarà il tuo giorno fortunato se invii quelle robe lì l'acquario di solito durante la giornata ogni tre ore
 PSB164	mh
-PSB165	ci hanno sorriso ma io ho detto ma chi ma chi te l'ha detta sta roba co~ cosa ne sai è uno che scrive gli metti like lui guadagna
+PSB165	ci hanno sorriso ma io ho detto ma chi ma chi te l'ha detta sta roba co~ cosa ne sai è uno che scrive gli metti #like lui guadagna
 PSB164	mh
 PSB164	è vero
 PSB165	penso però
@@ -907,7 +907,7 @@ PSB164	quindi anche eh quindi anche quando vai a dormire comunque c'è luce
 PSB165	no sei mesi sei mesi
 PSB164	che io ero ad oslo invece quindi molto più a nord però si sentiva lo stesso sta cosa perché io sono arrivata a gennaio e già alle quattro del pomeriggio era buio pesto
 PSB165	sì
-PSB165	ah beh poi sì poi magari te quando sei arrivata qua col let lag
+PSB165	ah beh poi sì poi magari te quando sei arrivata qua col #let #lag
 PSB164	e in più
 PSB164	sì era un po' cioè in realtà io ci ho messo una settimana buona a capire che ero lì
 PSB165	eh ci credo
@@ -951,7 +951,7 @@ PSB165	no no no
 PSB165	quello quello è vero assolutamente però cioè quello ti crepa nelle mani per per mille e cinquecento euro
 PSB164	mh
 PSB164	capito
-PSB164	no devi essere straforte non non sarebbe lavoro per me
+PSB164	no devi essere #straforte non non sarebbe lavoro per me
 PSB165	no neanche io no in ospedale ma va là l'infermiere
 PSB164	non ce la farei
 PSB164	ma poi magari ti arrivano i bambini
@@ -1039,7 +1039,7 @@ PSB165	no perché io la mattina fette biscottate di qua di là ma va
 PSB164	capito
 PSB164	non lo so non capisco
 PSB165	ah ma di è così che ci vuoi fare
-PSB164	non lo so non lo so è sempre un po' una sbatta andare dal dottore infatti
+PSB164	non lo so non lo so è sempre un po' una #sbatta andare dal dottore infatti
 PSB165	ma io non ci vado cosa b~ cioè
 PSB164	tanto che che risposte ti dà
 PSB165	cioè se io ho bisogno di qualcosa vado in farmacia e se loro mi aiutano bene se no bona
@@ -1093,7 +1093,7 @@ PSB164	sì sì
 PSB164	mhmh
 PSB165	se no prenditi una tachipirina mille
 PSB164	ma anche per dire se devi lavorare ci sta prendere qualcosa
-PSB165	sì mh anc~ l'oki task quello da prendere sotto la lingua poi basta poi non deve essere una droga
+PSB165	sì mh anc~ l'oki #task quello da prendere sotto la lingua poi basta poi non deve essere una droga
 PSB164	esatto
 PSB164	sì
 PSB164	no no è vero
@@ -1106,7 +1106,7 @@ PSB164	appena si sentiva un attimo esatto e quindi prendeva sti gran brufen che 
 PSB165	bra~ esa~ così spappola il l~ l~ l~ stomaco fegato
 PSB164	sì sì
 PSB164	ma infatti aveva la gastrite cioè stava malissimo
-PSB164	ma lì dopo è una cosa anche psicologica perché se entri in un loop così che non riesci più a a riprenderti ti abitui
+PSB164	ma lì dopo è una cosa anche psicologica perché se entri in un #loop così che non riesci più a a riprenderti ti abitui
 PSB165	mh sì sì
 PSB164	ti sembra l'unico modo
 PSB165	poi
@@ -1126,7 +1126,7 @@ PSB164	sì è vero a me fa ridere perché sì
 PSB165	il cactu~ al cactus va lui entra vedi chi entra oh more~ conosci morelli del cactus
 PSB164	sì sì sì
 PSB165	morelli dai su fammi un caffè va là
-PSB164	no mi fa straridere anche perché
+PSB164	no mi fa #straridere anche perché
 PSB165	guarda il casco
 PSB164	io io anche quando vado a bellaria che magari incontro dei miei amici no gli racconto sempre di jean claude e loro quando vanno a santarcangelo che poi lo incontrano lo riconoscono sì sì
 PSB165	lo becchi lì
@@ -1266,7 +1266,7 @@ PSB164	ma allora adesso sto provando a fidanzarmi con un ragazzo siamo in corso 
 PSB165	ah okay cioè ho capito ho capito sei sei ti stai sentendo no che infatti mi ricordo che te av~ eri in relazione
 PSB164	sì sì
 PSB164	mi sto sentendo
-PSB164	sì sì sì no le relazioni vecchie sono finite è da un annetto che sono single però è anche da un annetto che mi sento con un ragazzo che è amico di miei amici quindi ci vediamo molto sì sì
+PSB164	sì sì sì no le relazioni vecchie sono finite è da un annetto che sono #single però è anche da un annetto che mi sento con un ragazzo che è amico di miei amici quindi ci vediamo molto sì sì
 PSB165	vi vivete
 PSB165	è della zona
 PSB164	è di cesena
@@ -1331,7 +1331,7 @@ PSB165	io sinceramente no
 PSB164	ma è una cosa molto personale infatti
 PSB165	io sinceramente no magari perché i~ so~ ripeto mi sono sentito certo ma del resto dopo ho detto guarda non
 PSB164	mh
-PSB165	non non è il mio mood per adesso
+PSB165	non non è il mio #mood per adesso
 PSB164	eh poi magari arriverà il momento in cui certo
 PSB165	magari più avanti ti cambio idea esatto dici ah giusto dai è così è così però del resto
 PSB164	mh
@@ -1397,7 +1397,7 @@ PSB164	ah no
 PSB164	no no no
 PSB165	non lo sapevi io pensavo che lo sapevi
 PSB164	no
-PSB164	sono sotto shock
+PSB164	sono sotto #shock
 PSB165	tutti stan~ oh tutti tu~
 PSB164	ma è presto ragazzi ma non c'è fretta
 PSB165	giulia siamo rimasti solo noi giulia siamo rimasti solo noi
@@ -1533,7 +1533,7 @@ PSB165	dai il tempo al tempo no xxx xxx
 PSB164	non ho fretta
 PSB165	non devi badgiare il ca~ cartellino
 PSB164	ma io non lo sapevo di alex
-PSB164	ah sono sotto shock ma mia mamma secondo me non lo sa perché non mi ha detto niente
+PSB164	ah sono sotto #shock ma mia mamma secondo me non lo sa perché non mi ha detto niente
 PSB165	non lo sa
 PSB165	ah se la desirée non
 PSB164	ah s~ forse non l'ha detto

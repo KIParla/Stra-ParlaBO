@@ -45,7 +45,7 @@ PSB109	mh
 PSB109	ah la prossima sarà tua che
 PSB110	questa onestamente non mi ha mai lasciato a piedi quindi
 PSB109	ma non era lui una volta che perdeva l'olio
-PSB110	vabbè ho capito dis an fa
+PSB110	vabbè ho capito #dis #an fa
 PSB109	parla in italiano
 PSB110	dopo d~ dopo ven~ più di vent'anni che ce l'hai se una volta ha perso un po' di olio perché c'è una guarnizione che non teneva
 PSB109	no no non non dicevo quello dicevo però che mi sembrava mi sembra una cosa dovevamo andare via

@@ -23,9 +23,9 @@ PSB104	[il lune]dì da a a devi fare questo
 PSB104	[ma poi]
 PSB105	[qual è] il tuo embitiai?
 PSB104	il mio embitiai?
-PSB119	duì J (.) J rén
+PSB119	#_ duì J (.) J rén
 PSB105	sì sicuramente
-PSB119	xxx
+PSB119	#_ xxx
 PSB104	AH sì sì sì sì (.) sì
 PSB105	((ride))
 PSB104	no. non me lo ricordo ((ride))
@@ -44,7 +44,7 @@ PSB104	credo questo
 PSB105	a:h
 PSB104	il: sì era: mi ricordo che era: l'anziano sì
 PSB105	e voi due?
-PSB119	pīng jūn shōu rù zuì gāo de
+PSB119	#_ pīng jūn shōu rù zuì gāo de
 PSB105	((ride))
 PSB119	io sono (ienefpi)
 PSB120	[okay]
@@ -58,11 +58,11 @@ PSB105	a:h
 PSB105	io sono (ientigei)
 PSB120	a[::h]
 PSB104	[questo]
-PSB105	haha wo de shì zi lao tóu
+PSB105	#_ haha wo de shì zi lao tóu
 PSB120	xxx ((ride))
 PSB119	((ride))
 PSB120	xxx chōu de shì shén me?
-PSB119	ientigei shì [shén me]
+PSB119	#_ ientigei shì [shén me]
 PSB105	[io: so]no questa
 PSB119	a:h
 PSB104	oka:y
@@ -73,7 +73,7 @@ PSB105	ah come mi~ mio ex
 PSB104	AH è perfetto ((ride))
 PSB119	((ride))
 PSB104	una gran roba
-PSB119	tiān na
+PSB119	#_ tiān na
 PSB104	non mi ricordo più
 PSB104	e::h cioè tipo la personalità dell'avvocato
 PSB104	o una roba del genere e:h era [sic~ cioè m:h]
@@ -131,7 +131,7 @@ PSB104	non so se avete mai visto (.) e:h big hero six
 PSB104	i:l film quello della disney
 PSB104	quello: con (.) ehm: uno dei protagonisti che sembra un mashmallow
 PSB104	è gigan~ cioè tipo: un omino michelin
-PSB105	shì nà gè shén me? duì, duì, dà bái, a
+PSB105	# shì nà gè shén me? duì, duì, dà bái, a
 PSB119	a[::h]
 PSB120	[a:h]
 PSB104	quello che fanno ballalalà
@@ -214,22 +214,22 @@ PSB104	sì
 PSB119	il mio film [preferito] è::
 PSB104	[°è un po' brutto°]
 PSB105	((ride))
-PSB119	#her
+PSB119	#_ #her
 PSB105	ma sai che: elon musk
 PSB105	ha già inventato: fidanzata?
 PSB105	robot
-PSB104	that's lonely
+PSB104	#_ that's lonely
 PSB104	cioè nel senso sembra proprio il classico nerd che non troverà mai una figa e allora se la costruisce p[erché:]
 PSB105	((ride))
 PSB105	[quando u]na copia:
 PSB105	(copiabile)
 PSB104	eh (.) sembra un po' quello no?
 PSB104	non è un po' triste, così?
-PSB105	shì nà gè chōng qì wá wa
+PSB105	#_ shì nà gè chōng qì wá wa
 PSB105	((ride))
-PSB105	wǒ shuō , wǒ shuō , wǒ xiǎng yǒu gè jī qì rén nán péng yǒu , rán hòu
-PSB119	wǒ shuō
-PSB105	wǒ shuō , nà gè āi lóng mǎ sī kè yǐ jīng yán jiū chū lái nǚ xìng de nà gè jī qì rén
+PSB105	#_ wǒ shuō , wǒ shuō , wǒ xiǎng yǒu gè jī qì rén nán péng yǒu , rán hòu
+PSB119	#_ wǒ shuō
+PSB105	#_ wǒ shuō , nà gè āi lóng mǎ sī kè yǐ jīng yán jiū chū lái nǚ xìng de nà gè jī qì rén
 PSB119	no ma lui (.) inventa questo per fare figli
 PSB105	a:h
 PSB104	per fare?
@@ -272,8 +272,8 @@ PSB105	con [sua moglie]
 PSB119	[ex mo]glie
 PSB119	e si è: innamorato di questo robot
 PSB104	o mio dio
-PSB119	āi , shì nà gè hēi guǎ fù pèi yīn ma
-PSB105	a , shì ma scarlet
+PSB119	#_ āi , shì nà gè hēi guǎ fù pèi yīn ma
+PSB105	#_ a , shì ma scarlet
 PSB105	eh[:m]
 PSB120	[johan]son
 PSB105	sì sì sì
@@ -299,12 +299,12 @@ PSB120	ho: (.) devo: parlare:
 PSB120	io ho
 PSB104	okay
 PSB119	che esame hai
-PSB120	méi yǒu ma ? méi yǒu kǎo shì ?
-PSB119	nǐ yǒu shén me kǎo shì
+PSB120	#_ méi yǒu ma ? méi yǒu kǎo shì ?
+PSB119	#_ nǐ yǒu shén me kǎo shì
 PSB120	a:h diritto dei media
 PSB104	((ride))
 PSB120	diritto dei media
-PSB119	nǐ kǎo guò le gěi wǒ
+PSB119	#_ nǐ kǎo guò le gěi wǒ
 PSB104	((ride))
 PSB119	non ho passato neanche io dirit~ no no neanche io buon fortuna
 PSB104	((ride)) no no (.) non l'ho passato neanche io ((ride)) no aspetta no aspetta
@@ -383,22 +383,22 @@ PSB119	ti (.) ti do massimo ventuno
 PSB119	((ride))
 PSB105	no::[:]
 PSB104	[no:]: bruttissimo (.) ma terribile
-PSB120	xxx
-PSB120	jiā yóu
+PSB120	#_ xxx
+PSB120	#_ jiā yóu
 PSB105	puoi corromperlo
 PSB104	puoi corromperlo ((ride)) (.) come
-PSB120	xxx
-PSB120	zěn me kǎo ?
+PSB120	#_ xxx
+PSB120	#_ zěn me kǎo ?
 PSB105	con la mia $fascinanza
-PSB120	xxx
+PSB120	#_ xxx
 PSB104	((ride))
-PSB120	jǐ dào tí ?
+PSB120	#_ jǐ dào tí ?
 PSB104	seduzione:
-PSB120	xxx
+PSB120	#_ xxx
 PSB105	((ride))
-PSB120	xxx suǒ yǒu jiù yī dào tí
+PSB120	#_ xxx suǒ yǒu jiù yī dào tí
 PSB105	all'esame orale
-PSB120	nà tā méi yǒu gěi xxx , méi yǒu tīng kè de huà , jiù zhǐ shuō gēn wǒ de xxx yǒu guān
+PSB120	#_ nà tā méi yǒu gěi xxx , méi yǒu tīng kè de huà , jiù zhǐ shuō gēn wǒ de xxx yǒu guān
 PSB105	((ride))
 PSB120	non voglio:: e:h
 PSB120	a:h
@@ -407,11 +407,11 @@ PSB120	non voglio preparare: il eh il $medi?
 PSB120	eh ehm medico::
 PSB120	ah (.) e di giornalismo
 PSB120	eh critica e la: salita
-PSB119	xxx
-PSB120	xxx
-PSB120	shuō shén me
-PSB119	jiù shì
-PSB119	xīn wén , é , pī pàn xìng xīn wén gēn nà gè fěng cì xìng xīn wén
+PSB119	#_ xxx
+PSB120	#_ xxx
+PSB120	#_ shuō shén me
+PSB119	#_ jiù shì
+PSB119	#_ xīn wén , é , pī pàn xìng xīn wén gēn nà gè fěng cì xìng xīn wén
 PSB105	a::h
 PSB105	giornalismo sar[castico:]
 PSB119	[satira]?
@@ -432,7 +432,7 @@ PSB120	a::h
 PSB120	su:: cinesi e:hm >cinesi media<
 PSB120	m:h
 PSB105	ah
-PSB120	shì guān yú
+PSB120	#_ shì guān yú
 PSB120	eh[:m] critica (.) su [critica]
 PSB105	[mhmh]
 PSB104	[okay] hai fa~ hai [fatto una] presentazione
@@ -442,7 +442,7 @@ PSB120	o::h
 PSB120	posso:
 PSB120	posso mh posso:
 PSB120	posso
-PSB120	kǎo yī dào tí
+PSB120	#_ kǎo yī dào tí
 PSB120	bǐ rú shuō
 PSB119	[a:h]
 PSB119	fare solo una doman[da xx]xx
@@ -450,15 +450,15 @@ PSB120	[sì]
 PSB120	u[na] (.) una domanda
 PSB104	[ah]
 PSB120	ehm (.) se io
-PSB120	maybe I don't know
+PSB120	#_ maybe I don't know
 PSB120	perché mi ridanno numero bene #so
 PSB120	non ho capito bene cosa xx
 PSB120	((ride))
 PSB104	ma la domanda è scritta?
 PSB120	e:h mh
 PSB104	xxxxx
-PSB120	xxx
-PSB120	scritto
+PSB120	#_ xxx
+PSB120	#_ scritto
 PSB105	scritto o or[ale]
 PSB120	[sì] scritto sì
 PSB105	[a:h]
@@ -505,7 +505,7 @@ PSB120	((ride))
 PSB119	((ride))
 PSB104	qua veramente [(.) è terribile]
 PSB120	terribile
-PSB120	[]xxx
+PSB120	#_ []xxx
 PSB105	[(con la ceretta)]
 PSB120	xxx (.) posso usare
 PSB120	ah inglese? ma: secondo me (.) inglese e italiano è:
@@ -515,7 +515,7 @@ PSB120	sono simili
 PSB104	((ride))
 PSB104	fammi usare la mia lingua,
 PSB120	((ride))
-PSB120	yīng yǔ hé yì dà lì yǔ bú shì yí yàng de ma? wǒ jué de hái bù rú xiě yì dà lì yǔ
+PSB120	#_ yīng yǔ hé yì dà lì yǔ bú shì yí yàng de ma? wǒ jué de hái bù rú xiě yì dà lì yǔ
 PSB119	quello prof di diritto ha detto puoi
 PSB119	usare inglese
 PSB119	che c'entra?
@@ -571,14 +571,14 @@ PSB120	m:h
 PSB120	quando: ((ride)) quando
 PSB104	((ride))
 PSB104	io sono: io sono:: (.) focalizzata insomma
-PSB119	kuài diǎn , kuài shuō
+PSB119	#_ kuài diǎn , kuài shuō
 PSB120	non lo so sì e no ((ride))
 PSB120	forse siedo
 PSB120	se devo
-PSB120	zuò
+PSB120	#_ zuò
 PSB105	puoi parlare anche inglese
-PSB120	zuò tí
-PSB120	shuō kuài diǎn , wǒ hěn zháo jí
+PSB120	#_ zuò tí
+PSB120	#_ shuō kuài diǎn , wǒ hěn zháo jí
 PSB120	e:h quando siete a:
 PSB120	dava~ davanti?
 PSB105	ah [ah]
@@ -593,49 +593,49 @@ PSB120	dove è
 PSB120	so a~ m:h pre~
 PSB120	io so:
 PSB120	lei è::
-PSB119	wèi shén me
-PSB120	tā jiù hěn qí shì wǒ , nǐ zhī dào ma , wèi shén me , wǒ men bān jiù wǒ yí gè zhōng guó rén
-PSB120	tā jiù shì
-PSB120	kāi xué zhī qián , speaking english
-PSB120	chinese speaker
+PSB119	#_ wèi shén me
+PSB120	#_ tā jiù hěn qí shì wǒ , nǐ zhī dào ma , wèi shén me , wǒ men bān jiù wǒ yí gè zhōng guó rén
+PSB120	#_ tā jiù shì
+PSB120	#_ kāi xué zhī qián , speaking english
+PSB120	#_ chinese speaker
 PSB104	[vabbè]
 PSB104	se parli piano in cinese posso capire
 PSB120	ah okay [okay okay]
 PSB104	[più o meno]
-PSB120	jiù shì
+PSB120	#_ jiù shì
 PSB119	#wǒ nà shí hou bú shì shuō yīn wèi wǒ chí lái le
-PSB120	wǒ nà shí hou bú shì shuō , yīn wèi wǒ chí lái le yí gè yuè ma , rán hòu
-PSB120	rán hòu qù zhǎo tā , tā , yīn wèi tā zhī qián měi jié kè dōu diǎn míng , jiù tā diǎn míng , rán hòu wǒ zhǎo tā , tā shuō
-PSB120	nǐ yǐ jīng chí dào yí gè yuè le , nǐ bù néng suàn wǒ de kǎo qín , rán hòu wǒ shuō , wǒ shì yīn wèi visa de yuán yīn , suǒ yǐ wǒ lái chí le , tā shuō nǐ méi yǒu diǎn míng , bù néng jiā rù xxx
-PSB120	rán hòu wǒ shuō hǎo ba , rán hòu tā shuō , bù néng yǐ zhèng cháng xué shēng shēn fèn kǎo shì , yào yǐ nà gè wèi cān jiā
-PSB119	wèi cān jiā
-PSB120	wèi cān jiā xué shēng shēn fèn kǎo shì
+PSB120	#_ wǒ nà shí hou bú shì shuō , yīn wèi wǒ chí lái le yí gè yuè ma , rán hòu
+PSB120	#_ rán hòu qù zhǎo tā , tā , yīn wèi tā zhī qián měi jié kè dōu diǎn míng , jiù tā diǎn míng , rán hòu wǒ zhǎo tā , tā shuō
+PSB120	#_ nǐ yǐ jīng chí dào yí gè yuè le , nǐ bù néng suàn wǒ de kǎo qín , rán hòu wǒ shuō , wǒ shì yīn wèi visa de yuán yīn , suǒ yǐ wǒ lái chí le , tā shuō nǐ méi yǒu diǎn míng , bù néng jiā rù xxx
+PSB120	#_ rán hòu wǒ shuō hǎo ba , rán hòu tā shuō , bù néng yǐ zhèng cháng xué shēng shēn fèn kǎo shì , yào yǐ nà gè wèi cān jiā
+PSB119	#_ wèi cān jiā
+PSB120	#_ wèi cān jiā xué shēng shēn fèn kǎo shì
 PSB105	[a::h]
-PSB120	nà xíng , nà wú suǒ wèi
-PSB120	rán hòu hái shì zhào cháng lái shàng kè
-PSB119	yīn wèi yī kāi shǐ
-PSB120	yīn wèi yī kāi shǐ , píng shí nà gè kè , jiù shì wǒ
-PSB120	fǎn zhèng wǒ yī zhí zài xué xiào lǐ ma , wǒ huì qù de bǐ jiào zǎo , suǒ yǐ wǒ zuò shāo wēi qián miàn yì diǎn
-PSB120	rán hòu tā jiù , tā bù diǎn wǒ míng
-PSB120	jiù shì tā men diǎn qí tā rén de , jiù shì yīn wèi yǒu qiān dào ma , cóng lái bù diǎn wǒ míng , jiù diǎn qí tā rén de míng zì , suǒ yǒu rén dōu diǎn yī biàn , dōu bù diǎn wǒ de míng
-PSB120	rán hòu yī dàn yǒu shí hou , yīn wèi wǒ yǒu lián zhe de kè , wǒ cái lái chí le , zuò hòu miàn , kàn bú jiàn wǒ le , rán hòu tā diǎn míng , jiù zuì hòu yí gè diǎn wǒ de míng zì
-PSB119	āi, tā, dì yī cì tā diǎn de shí hòu
-PSB120	tā diǎn wǒ de xìng ma
+PSB120	#_ nà xíng , nà wú suǒ wèi
+PSB120	#_ rán hòu hái shì zhào cháng lái shàng kè
+PSB119	#_ yīn wèi yī kāi shǐ
+PSB120	#_ yīn wèi yī kāi shǐ , píng shí nà gè kè , jiù shì wǒ
+PSB120	#_ fǎn zhèng wǒ yī zhí zài xué xiào lǐ ma , wǒ huì qù de bǐ jiào zǎo , suǒ yǐ wǒ zuò shāo wēi qián miàn yì diǎn
+PSB120	#_ rán hòu tā jiù , tā bù diǎn wǒ míng
+PSB120	#_ jiù shì tā men diǎn qí tā rén de , jiù shì yīn wèi yǒu qiān dào ma , cóng lái bù diǎn wǒ míng , jiù diǎn qí tā rén de míng zì , suǒ yǒu rén dōu diǎn yī biàn , dōu bù diǎn wǒ de míng
+PSB120	#_ rán hòu yī dàn yǒu shí hou , yīn wèi wǒ yǒu lián zhe de kè , wǒ cái lái chí le , zuò hòu miàn , kàn bú jiàn wǒ le , rán hòu tā diǎn míng , jiù zuì hòu yí gè diǎn wǒ de míng zì
+PSB119	# āi, tā, dì yī cì tā diǎn de shí hòu
+PSB120	#_ tā diǎn wǒ de xìng ma
 PSB119	ah ah
-PSB120	wǒ méi fǎn yìng guò lái
-PSB119	méi fǎn yìng guò lái
-PSB120	yīn wèi qí tā lǎo shī jiù jiào wǒ ELENA
-PSB119	duì
-PSB120	rán hòu wǒ dì yī fǎn yìng , méi fǎn yìng guò lái , hái hǎo yǒu yí gè nán shēng hěn hǎo , tā shuō ó , wǒ zài zhè , wǒ zài zhè
+PSB120	#_ wǒ méi fǎn yìng guò lái
+PSB119	#_ méi fǎn yìng guò lái
+PSB120	#_ yīn wèi qí tā lǎo shī jiù jiào wǒ ELENA
+PSB119	#_ duì
+PSB120	#_ rán hòu wǒ dì yī fǎn yìng , méi fǎn yìng guò lái , hái hǎo yǒu yí gè nán shēng hěn hǎo , tā shuō ó , wǒ zài zhè , wǒ zài zhè
 PSB105	[a::h]
 PSB119	[ci] sta
-PSB120	rán hòu zuó tiān
-PSB120	qián tiān , qián tiān tā yòu diǎn le wǒ yī cì , wǒ yòu zuò hòu miàn
-PSB120	rán hòu hǎn Jing , wǒ hái méi shuō presente
+PSB120	#_ rán hòu zuó tiān
+PSB120	#_ qián tiān , qián tiān tā yòu diǎn le wǒ yī cì , wǒ yòu zuò hòu miàn
+PSB120	#_ rán hòu hǎn Jing , wǒ hái méi shuō presente
 PSB105	[a::h]
 PSB119	però non [ha senso:]
-PSB120	rán hòu shuō bù zài ma? bù zài ma?
-PSB120	rán hòu tā shuō , zài , zài , zài
+PSB120	#_ rán hòu shuō bù zài ma? bù zài ma?
+PSB120	#_ rán hòu tā shuō , zài , zài , zài
 PSB119	[lei ha già] visto te come una frequen~ non frequentante (.) no no no non
 PSB105	meglio se lo frequenti il: semestre prossimo
 PSB104	m::h
@@ -663,13 +663,13 @@ PSB104	poverina
 PSB105	anche se sarà un non frequentante però:
 PSB105	cioè
 PSB104	ma che cattiva:
-PSB120	xxx sofia
-PSB105	cioè
+PSB120	#_ xxx sofia
+PSB105	#_ cioè
 PSB104	[da me] non so~ io non capisco neanche la dif~ cioè
 PSB104	so la differenza tra frequentante e non frequentante ma da noi non viene con~ cioè da noi:
 PSB104	io non sono io farò l'esame da frequentante per la~ per storia delle donne ma >ci sono andata< una volta
-PSB120	io sono, farò l’esame da frequentante
-PSB120	xxx
+PSB120	#_ io sono, farò l’esame da frequentante
+PSB120	#_ xxx
 PSB105	((ride))
 PSB105	ma sai che alcuni professori
 PSB105	cioè: se: non passi l'esame buttano il
@@ -773,12 +773,12 @@ PSB104	però io non ho visto nessuno sputare su degli americani eh
 PSB105	e:h
 PSB105	perché europei sono molto #horny
 PSB105	per gli americani ((ride))
-PSB120	xxx
+PSB120	#_ xxx
 PSB105	((ride))
-PSB119	xxx
+PSB119	#_ xxx
 PSB105	[quella quella] professoressa di inglese mi aveva chiesto: cosa ne penso su taiwan
-PSB120	xxx
-PSB120	inglese, mi aveva chiesto
+PSB120	#_ xxx
+PSB120	#_ inglese, mi aveva chiesto
 PSB104	m:h
 PSB105	((ride)) non so come rispondere
 PSB105	((ride))
@@ -817,9 +817,9 @@ PSB105	indipendente
 PSB120	[sì nazione]
 PSB119	[xxx politico o] per:
 PSB119	quanto: (.) #feel #your
-PSB120	zěn me shuō , wán shàn gè rén xìn xī de shí hòu
+PSB120	#_ zěn me shuō , wán shàn gè rén xìn xī de shí hòu
 PSB105	a:h mh
-PSB120	tā men de hù zhào shàng , guó jí chù yě shì zhōng guó
+PSB120	#_ tā men de hù zhào shàng , guó jí chù yě shì zhōng guó
 PSB119	[quando gli chiedi di]
 PSB105	cerchi di compi~ compilare i tuoi [dati personali]
 PSB119	[dati personali]
@@ -863,19 +863,19 @@ PSB119	[sì] budapest (.) ((ride))
 PSB105	sì mi ha parlato: inglese vuoi
 PSB105	farmi una foto
 PSB105	e: io ho detto di sì lei mi dice
-PSB105	wǎng zuǒ biān yì diǎn e:h
+PSB105	#_ wǎng zuǒ biān yì diǎn e:h
 PSB105	in cinese e quindi (.) le ho detto ma
 PSB105	ah quindi sei cinese e lei mi dice no no sono taiwanese
 PSB120	((ride))
-PSB104	sorry i'm taiwanese
+PSB104	#_ sorry i'm taiwanese
 PSB105	infatti volevo (.) gettare ((ride))
 PSB105	volevo gettare il suo cellulare (.) perché mi avete
 PSB105	mi aveva dato il suo cellulare per fare la foto
 PSB105	e::h
 PSB105	volevo buttare il suo cellulare nel danubio ((ride))
 PSB104	((ride))
-PSB105	wǒ xiǎng gěi tā shǒu jī rēng nà gè duō nǎo hé lǐ
-PSB119	zhēn de fán
+PSB105	#_ wǒ xiǎng gěi tā shǒu jī rēng nà gè duō nǎo hé lǐ
+PSB119	#_ zhēn de fán
 PSB104	beh vabbè
 PSB104	è comprensibile dai che vogliano un po':
 PSB104	eh ehm:
@@ -895,7 +895,7 @@ PSB104	[e scusa] in america e in inghilterra parlano tutte e due inglese
 PSB104	però sono l'america [cioè sono stati uniti e]
 PSB119	[guarda (.) guarda guarda questa] lezione adesso capisco che (.) xx così (.) ha detto
 PSB119	leadership per comunicazione e crisi tra pandemia e guerra
-PSB104	#wha:t
+PSB104	#_ #wha:t
 PSB104	mamma mia
 PSB119	non lo so è molto politico
 PSB119	[leadership] e comunicazione
@@ -911,10 +911,10 @@ PSB105	cioè: uguali?
 PSB104	m:h
 PSB104	parimenti è uguale
 PSB105	due ore
-PSB119	xxx jué wàng
-PSB120	xxx
+PSB119	#_ xxx jué wàng
+PSB120	#_ xxx
 PSB104	cerchiamo
-PSB120	bú shì , shì ba
+PSB120	#_ bú shì , shì ba
 PSB105	apriamo chatgipiti a cercare cosa è parimenti ((ride))
 PSB104	ma tu cos'hai di chatgipiti?
 PSB105	questo questo
@@ -926,52 +926,52 @@ PSB105	((ride))
 PSB105	((ride))
 PSB104	che cosa vuol dire parimenti e mi risponde la cinese
 PSB105	quella è uguale
-PSB105	tóng yàng de
+PSB105	#_ tóng yàng de
 PSB104	tóng yàng de# okay yí yàng, yí yàng de
 PSB104	e::h
-PSB104	hú tòng de ( bù tóng de )
-PSB105	xiāng tóng de , xiāng tóng de , xiāng tóng de
-PSB104	nà xiāng tóng de , xiāng tóng de
+PSB104	#_ hú tòng de ( bù tóng de )
+PSB105	#_ xiāng tóng de , xiāng tóng de , xiāng tóng de
+PSB104	#_ nà xiāng tóng de , xiāng tóng de
 PSB104	aspetta fammi vedere
 PSB105	hai visto che xxx
 PSB104	tā cuò le
 PSB104	ehm:
-PSB104	zhè hěn... é... qīng chǔ
+PSB104	#_ zhè hěn... é... qīng chǔ
 PSB105	mh
 PSB104	ehm: dàn tā shì
-PSB104	hǎo xīn
+PSB104	#_ hǎo xīn
 PSB104	ehm::
-PSB104	fàn ehm no
+PSB104	#_ fàn ehm no
 PSB105	commettere
 PSB104	e:h no, non mi ricordo quello dopo
 PSB104	e:h no non me lo dire non me lo dire
 PSB104	e:h (.) cuò
-PSB104	cuò jiù ( cuò wù )
-PSB105	cuò wù
-PSB104	cuò wù cosa vuol dire?
-PSB105	cuò wù , cuò wù errore
+PSB104	#_ cuò jiù ( cuò wù )
+PSB105	#_ cuò wù
+PSB104	#_ cuò wù cosa vuol dire?
+PSB105	#_ cuò wù , cuò wù errore
 PSB104	errore? okay
 PSB104	e:h
 PSB104	okay
-PSB104	zhè tóng yàng yě hěn qīng chǔ
-PSB104	yī tóng , yī
+PSB104	#_ zhè tóng yàng yě hěn qīng chǔ
+PSB104	#_ yī tóng , yī
 PSB105	tóng
 PSB104	[cos'è questo]
-PSB104	yī tóng , yī
+PSB104	#_ yī tóng , yī
 PSB105	insieme kuài
 PSB104	#yí kuài ah okay
 PSB104	ah #yí kuài è vero
 PSB104	vabbè a parte: a parte questa parentesi su e:h io che non so il cinese ma questi sono altri discorsi
 PSB104	no che stavo cercando di leggere i caratteri perché è un po' è un po' che non leggo in cinese
-PSB105	tā gāng gāng gěi wǒ dú le yī biàn , yòng zhōng wén , tài yōu xiù
-PSB119	dú le yī biàn , yòng zhōng wén
-PSB119	èn hēng
-PSB119	tài yōu xiù
-PSB105	jiù shì nǐ men gāng gāng
-PSB119	wǒ zěn me bù rèn shi zhè gè cí ér
-PSB105	kàn nà gè yè miàn dí shí hòu , yǒu yí gè zhè gè cí ér
+PSB105	#_ tā gāng gāng gěi wǒ dú le yī biàn , yòng zhōng wén , tài yōu xiù
+PSB119	#_ dú le yī biàn , yòng zhōng wén
+PSB119	#_ èn hēng
+PSB119	#_ tài yōu xiù
+PSB105	#_ jiù shì nǐ men gāng gāng
+PSB119	#_ wǒ zěn me bù rèn shi zhè gè cí ér
+PSB105	#_ kàn nà gè yè miàn dí shí hòu , yǒu yí gè zhè gè cí ér
 PSB119	ah
-PSB105	rán hòu wǒ men jiù chá yī xià zhè gè cí ér
+PSB105	#_ rán hòu wǒ men jiù chá yī xià zhè gè cí ér
 PSB119	a:h
 PSB105	parimenti
 PSB104	parimenti io non l'av~ non l'avevo mai sentito parimenti
@@ -984,11 +984,11 @@ PSB105	dovevo fare: l'esame didattica elle uno con
 PSB104	eh (.) hai [visto]
 PSB105	[insegnare] italiano ((ride))
 PSB104	(l'italiano italiani)
-PSB119	xxx
+PSB119	#_ xxx
 PSB120	presentazione
 PSB120	presentazione ha avuto:
 PSB120	quindi xxx xx
-PSB120	about a (.) xxx
+PSB120	#_ about a (.) xxx
 PSB120	ehm: macro
 PSB120	macro
 PSB105	a:h sì macron
@@ -998,13 +998,13 @@ PSB105	sì sì
 PSB104	okay
 PSB120	xxx
 PSB104	a:h #*le #*le #*le #president
-PSB105	e:h (.) eh oui
+PSB105	#_ e:h (.) eh oui
 PSB104	xx?
-PSB120	nà gè zǔ yuán zěn me shuō , xxx
-PSB119	shén me
-PSB120	zǔ yuán
-PSB105	zǔ yuán
-PSB120	xiǎo zǔ zuò yè
+PSB120	#_ nà gè zǔ yuán zěn me shuō , xxx
+PSB119	#_ shén me
+PSB120	#_ zǔ yuán
+PSB105	#_ zǔ yuán
+PSB120	#_ xiǎo zǔ zuò yè
 PSB105	[e::h] i suoi compagni di, trucco [(.)] devono fare: penso
 PSB120	[sì]
 PSB105	e:h (cena) insieme
@@ -1024,17 +1024,17 @@ PSB105	cioè (.) per: la nostra l'esame:
 PSB105	nostro esame di (.) inglese
 PSB105	c'è:
 PSB105	praticamente dice che: xi jinping deve essere responsabile per la guerra di ucraina
-PSB120	shén me ? zài shuō yī biàn
+PSB120	#_ shén me ? zài shuō yī biàn
 PSB104	davvero?
 PSB105	mhmh perché
-PSB120	zài shuō yī biàn
+PSB120	#_ zài shuō yī biàn
 PSB105	eh jiù shì
 PSB105	(glielo)
-PSB120	gàn ma
-PSB120	fù zé
-PSB105	duì , duì , duì
-PSB120	duì shén me
-PSB105	yīn wèi wū kè lán zhàn zhēng
+PSB120	#_ gàn ma
+PSB120	#_ fù zé
+PSB105	#_ duì , duì , duì
+PSB120	#_ duì shén me
+PSB105	#_ yīn wèi wū kè lán zhàn zhēng
 PSB120	sì sì sì sì
 PSB120	eh ah suo: xx cole~ ehm #russia
 PSB120	secon~ secondo voi [e:h sec]ondo voi russia è: cinese eh [(.) insieme] insieme [allora:]
@@ -1109,23 +1109,24 @@ PSB120	((ride))
 PSB120	ha detto che
 PSB120	a:h mh e:h
 PSB120	#I can't speak (.) mh (.) mh ((ride))
-PSB120	if i want to join them i needed to speak eh [french]
+PSB120	#_ if i want to join them i needed to speak eh [french]
 PSB119	[francese]
-PSB120	a french and: ((tossisce)) and if
-PSB120	ehm: if i join I needed to
-PSB120	ehm pre~ presentation
-PSB120	and I needed to french
-PSB120	fre~ french?
+PSB120	#_ a french and: ((tossisce)) and if
+PSB120	#_ ehm: if i join I needed to
+PSB120	#_ ehm pre~ presentation
+PSB120	#_ and I needed to french
+PSB120	#_ fre~ french?
 PSB104	((tossisce))
 PSB119	xxx xxx
 PSB120	sìx.xx
-PSB120	and i: i: say you and if you (.) didn't do the presentation (.) that you wi::ll
-PSB120	ehm can't [(.)] yes and I can't
+PSB120	#_ and i: i: say you and if you (.) didn't do the presentation (.) that you wi::ll
+PSB120	#_ ehm can't [(.)] yes and I can't
+PSB119	#_
 PSB120	#can't ehm #commu~ #communicate ehm be~ bene
-PSB120	o::r do something
+PSB120	#_ o::r do something
 PSB105	mhmh
 PSB105	a:h
-PSB120	if you don't want me i join them
+PSB120	#_ if you don't want me i join them
 PSB120	xx [x] xx [xx]
 PSB119	[yes]
 PSB119	[pri~ prima prima ho doma]ndato
@@ -1140,14 +1141,14 @@ PSB119	almeno eh sei entrata ((ride))
 PSB104	almeno sei entra~ ma sono cattivi però
 PSB105	secondo me quella ragazza
 PSB105	vuole: dire qualcosa di brutto de~ della cina
-PSB119	xxx
+PSB119	#_ xxx
 PSB105	e lei è entrata nel gruppo e xxx più potuto dire xx
-PSB119	xxx wán chéng le
+PSB119	#_ xxx wán chéng le
 PSB104	a::h
-PSB119	zuì mean de lǎo shī
+PSB119	#_ zuì mean de lǎo shī
 PSB104	((ride))
-PSB119	zuì mean de tóng xué ((ride))
-PSB119	wán chéng le
+PSB119	#_ zuì mean de tóng xué ((ride))
+PSB119	#_ wán chéng le
 PSB104	((ride))
 PSB104	io non capisco perché questa vuole che tu parli francese però
 PSB119	perché [parli a elon musk]
@@ -1156,7 +1157,7 @@ PSB119	[no]
 PSB120	alle~
 PSB105	fa finta di parlare [francese]
 PSB120	[i media::] all the news about (.) a::ll the french (affairs)
-PSB120	so:
+PSB120	#_ so:
 PSB120	ehm: secondo voi (.) me:
 PSB105	[gli student(e)::]
 PSB120	[forse no::n ho:] capito bene
@@ -1169,8 +1170,8 @@ PSB120	[dire: dire:] (.) x[xx]
 PSB105	[comunque ehm:] dubito il livello di lingua straniera di: europei
 PSB105	tu sei bravissima x tu sei un: (.) fottuto genio
 PSB105	però gli altri
-PSB104	cōng míng
-PSB119	ride
+PSB104	#_ cōng míng
+PSB119	#_ ride
 PSB105	per gli altri anche secondo:
 PSB105	hanno detto di saper parlare una lingua (.) non è vero
 PSB119	mhmh
@@ -1297,15 +1298,15 @@ PSB105	[chomsky]
 PSB104	°cho[msky°]
 PSB120	[chomsky] ((ride))
 PSB104	((ride))
-PSB120	xxx
-PSB120	duì a
-PSB119	xxx
-PSB120	a
-PSB120	něi gè
+PSB120	#_ xxx
+PSB120	#_ duì a
+PSB119	#_ xxx
+PSB120	#_ a
+PSB120	#_ něi gè
 PSB104	x?
-PSB120	mài piào de
+PSB120	#_ mài piào de
 PSB119	[autobus]
-PSB120	mài piào de
+PSB120	#_ mài piào de
 PSB105	a:h
 PSB104	a:h oh?
 PSB105	abbonamento annuale
@@ -1320,8 +1321,8 @@ PSB104	cosa andiamo a fare
 PSB105	appuntamento ana~ ((ride))
 PSB104	((ride))
 PSB104	a:h
-PSB119	wǒ zhè xué qī shàng wǔ mén kè
-PSB120	wǔ mén
+PSB119	#_ wǒ zhè xué qī shàng wǔ mén kè
+PSB120	#_ wǔ mén
 PSB105	a:h
 PSB120	ha cinque corsi
 PSB105	da frequentare [xx]
@@ -1330,7 +1331,7 @@ PSB120	e:h giornalismo e media (di~ digita:li)
 PSB120	ehm
 PSB120	perché: sono laureato in me~ lingue e nuovi media e: allora
 PSB120	e:h son:o
-PSB120	shàn cháng de
+PSB120	#_ shàn cháng de
 PSB120	xx[x]
 PSB105	[è] bra[va:]
 PSB120	[brava è] brava di:
@@ -1339,15 +1340,15 @@ PSB120	scrivere arti[coli]
 PSB119	xxx
 PSB105	[ah]?
 PSB120	[ma] (.) ah
-PSB120	pāi shè
+PSB120	#_ pāi shè
 PSB105	[a:h]
 PSB119	girare e commentare
 PSB105	fare le foto
-PSB120	jiǎn jí
+PSB120	#_ jiǎn jí
 PSB119	si fare foto [e]
-PSB120	jiǎn jí zěn me shuō a
+PSB120	#_ jiǎn jí zěn me shuō a
 PSB105	ehm fare il [monta]ggio?
-PSB120	fare montaggio
+PSB120	#_ fare montaggio
 PSB105	[m:h]
 PSB120	[ah montaggio]
 PSB120	monta~
@@ -1390,8 +1391,8 @@ PSB120	péng yǒu quān
 PSB119	sì
 PSB104	eh?
 PSB105	péng yǒu quān
-PSB105	we chat
-PSB104	we chat [a:h]
+PSB105	#_ we chat
+PSB104	#_ we chat [a:h]
 PSB105	[po]st
 PSB119	per [condividere:] [per:] man[dare] tua
 PSB104	[a:h]
@@ -1404,18 +1405,18 @@ PSB119	mhmh
 PSB119	((ride)) sì
 PSB105	io non lo uso
 PSB104	non lo usi #we #chat?
-PSB120	xxx
+PSB120	#_ xxx
 PSB105	((ride))
-PSB120	strumenti per
+PSB120	# strumenti per
 PSB104	[strano]
-PSB119	xxx
+PSB119	#_ xxx
 PSB104	non hanno?
-PSB119	xxx zuò wèn juàn diào chá le
+PSB119	#_ xxx zuò wèn juàn diào chá le
 PSB105	[xx cinesi]
 PSB120	a:h
 PSB119	dào shí hòu gěi nǐ tián
 PSB120	A:H
-PSB119	xxx
+PSB119	#_ xxx
 PSB105	(che domande fa)
 PSB119	perché così tanto a lezione #it's #political
 PSB119	odio politica
@@ -1423,8 +1424,8 @@ PSB120	((ride))
 PSB105	((ride))
 PSB105	anch'io lo odio
 PSB104	anch'io io ho fatto un esame di diritto dei paesi asiatici
-PSB120	già fatto l ' esame di
-PSB120	a
+PSB120	#_ già fatto l ' esame di
+PSB120	#_ a
 PSB119	a::h ma diritto
 PSB119	cosa cosa insegna in in pre~ (.) preciso
 PSB104	e::hm allora io
@@ -1446,7 +1447,7 @@ PSB105	[ah ah]
 PSB104	e quindi: tutto il fatto che adesso è una ragione una regione a statuto specia:le
 PSB104	e:h che c'è la transizione economica:
 PSB104	eh e io ho lavorato su quello
-PSB119	wǒ dōu bù zhī dào
+PSB119	#_ wǒ dōu bù zhī dào
 PSB119	vi insegna
 PSB105	((ride))
 PSB119	((ride))
@@ -1643,7 +1644,7 @@ PSB105	forse sì jiù shì yǐ wù huàn wù, bù yòng qián
 PSB119	non lo so:
 PSB119	xxx
 PSB104	non so forse sper~ spero che sia una diceria perché
-PSB105	fake news
+PSB105	#_ fake news
 PSB105	((ride))
 PSB104	speriamo di no dai:
 PSB104	no allor~ sapevo che la condizione sulle coste: è migliore rispetto a quello della:
@@ -1676,13 +1677,13 @@ PSB105	mh[mh]
 PSB104	[sì] sì
 PSB104	cioè erano quattrocento io mi ricordo quello però:
 PSB105	((ride))
-PSB120	nǐ shì nǎ lǐ de
-PSB119	qīng dǎo
-PSB119	qīng dǎo , shān dōng , shān dōng qīng dǎo
+PSB120	#_ nǐ shì nǎ lǐ de
+PSB119	#_ qīng dǎo
+PSB119	#_ qīng dǎo , shān dōng , shān dōng qīng dǎo
 PSB105	sì sì
 PSB105	anche la mia città [è xx]
 PSB120	[noi ha a] birra
-PSB119	ride
+PSB119	#_ ride
 PSB120	bi[rra]
 PSB105	[era] colonia di: germania
 PSB104	ah s[ì]?
@@ -1691,23 +1692,23 @@ PSB119	quindi: tedeschi hanno portato vi~ no birra qua
 PSB104	[ah]: bellissimo
 PSB105	[birra]
 PSB119	(marca) di sua città
-PSB119	qīng dǎo pí jiǔ ((ride))
+PSB119	#_ qīng dǎo pí jiǔ ((ride))
 PSB104	bellissimo
 PSB105	poi dopo la guerra
 PSB105	è diventato una parte di giappone
 PSB104	a::h
 PSB104	[è vero]?
-PSB120	shān dōng lǚ shùn
-PSB120	shì , lǚ shùn shì nǐ men de ma ?
-PSB105	bú shì qīng dǎo de
-PSB120	shì shān dōng de ma
+PSB120	#_ shān dōng lǚ shùn
+PSB120	#_ shì , lǚ shùn shì nǐ men de ma ?
+PSB105	#_ bú shì qīng dǎo de
+PSB120	#_ shì shān dōng de ma
 PSB105	mhmh
-PSB105	yīng gāi shì
-PSB105	wǒ , wǒ méi zěn me tīng guò
-PSB119	dà tú shā , lǚ shùn dà tú shā
+PSB105	#_ yīng gāi shì
+PSB105	#_ wǒ , wǒ méi zěn me tīng guò
+PSB119	#_ dà tú shā , lǚ shùn dà tú shā
 PSB105	a:h
-PSB119	lì shǐ
-PSB120	dà lián
+PSB119	#_ lì shǐ
+PSB120	#_ dà lián
 PSB104	#dà tú shā è massacro?
 PSB105	°bra:va° ((applaude))
 PSB120	u:::h
@@ -1722,10 +1723,10 @@ PSB104	[xxx]
 PSB105	[massacro] del (.) nanchino?
 PSB104	[m:h]
 PSB119	jīng
-PSB104	nán jīng tú shā
+PSB104	#_ nán jīng tú shā
 PSB119	sì
 PSB105	sì sì [sì]
-PSB120	dà tú shā
+PSB120	#_ dà tú shā
 PSB104	quello sìe. io: dovevo: eh volevo portarlo tra parentesi come m:h
 PSB104	argomento perché noi abbiamo fatto storia: dell'asia
 PSB104	al primo anno di università
@@ -1739,8 +1740,8 @@ PSB105	m:h che si chiama nanchino nanchino
 PSB104	ah (.) okay
 PSB104	e: l'hai visto? è tre[mendo]
 PSB105	[no è troppo] crudo in realtà non voglio (.) non voglio vederlo
-PSB104	ě xīn
-PSB104	zhè me ě xīn
+PSB104	#_ ě xīn
+PSB104	#_ zhè me ě xīn
 PSB104	si dice ě xīn
 PSB105	e:hm
 PSB104	no
@@ -1749,11 +1750,11 @@ PSB104	così sei crudele
 PSB104	cioè ti giuro che ero bella convinta
 PSB104	ti giuro che #ě xīn
 PSB104	l'avevo già sentito
-PSB119	ě xīn shì shén me
-PSB105	tā xiǎng shuō crudele yòng zhōng wén zěn me shuō
-PSB105	wǒ shuō shì cán rěn
-PSB119	cán rěn
-PSB119	cán rěn , duì a , cán rěn
+PSB119	#_ ě xīn shì shén me
+PSB105	#_ tā xiǎng shuō crudele yòng zhōng wén zěn me shuō
+PSB105	#_ wǒ shuō shì cán rěn
+PSB119	#_ cán rěn
+PSB119	#_ cán rěn , duì a , cán rěn
 PSB105	questa
 PSB104	adesso sono triste però
 PSB105	[hai] visto c'è un:
@@ -1765,11 +1766,11 @@ PSB119	tagliato il cuore ((ride))
 PSB105	sì sì sì
 PSB105	((ride))
 PSB104	chissà perché
-PSB119	hòu miàn , yòu biān , tā jiù shì nà gè
+PSB119	#_ hòu miàn , yòu biān , tā jiù shì nà gè
 PSB105	[m::h]
 PSB104	no ma cioè te lo m:h
-PSB119	tā de yòu bàn bù fèn shì shā de yì sī , hòu miàn zuǒ biān shì shī tǐ de yì sī
-PSB120	zhēn yǒu yì sī
+PSB119	#_ tā de yòu bàn bù fèn shì shā de yì sī , hòu miàn zuǒ biān shì shī tǐ de yì sī
+PSB120	#_ zhēn yǒu yì sī
 PSB105	((ride))
 PSB104	((ride))
 PSB105	questo (.) questa parte
@@ -1788,27 +1789,27 @@ PSB104	che sarebbe: wǔ liù qī cinque sei sette
 PSB104	e:h sì no cercalo eh io ho guardato tutte le stagioni è tipo il mio preferito in cinese l'ho guardato sempre
 PSB105	come si chiama?
 PSB104	#sister #seven tipo:
-PSB104	#sister:
+PSB104	#_ #sister:
 PSB104	#se:ven (.) no perché non fa lo spazio
 PSB104	QUES~ questo
 PSB119	AH: cinese (.) e [sembra] di giappone?
 PSB105	[è cinese]?
 PSB105	[sì sì]
 PSB104	[eh tipo] lo stile è giapponese però [è:]
-PSB105	ér qiě hái zhēn shì guó màn
+PSB105	#_ ér qiě hái zhēn shì guó màn
 PSB119	a:h
-PSB105	guó màn
-PSB105	wǒ hái méi tīng guò
-PSB120	wǒ yě méi tīng guò
-PSB119	a , cì kè wǔ liù qī
+PSB105	#_ guó màn
+PSB105	#_ wǒ hái méi tīng guò
+PSB120	#_ wǒ yě méi tīng guò
+PSB119	#_ a , cì kè wǔ liù qī
 PSB119	forse ho sentito
-PSB105	hǎo xiàng hái yǒu xiē ěr shú((ride))
+PSB105	#_ hǎo xiàng hái yǒu xiē ěr shú((ride))
 PSB104	è troppo è- è troppo carino: vi giuro: è bellissimo
 PSB119	((ride))
 PSB105	secondo me
 PSB105	ehm:
 PSB105	è comiche zhè gè, zhè gè humor
-PSB120	zhè gè , zhè gè , màn huà , humor
+PSB120	#_ zhè gè , zhè gè , màn huà , humor
 PSB104	probabile ((ride)) (.) però è bellissimo c'è su netflix
 PSB105	((ride))
 PSB104	ehm:
@@ -1820,23 +1821,23 @@ PSB104	però io m:h non [so]
 PSB105	[#ě xīn] fa schifo
 PSB104	fa schifo?
 PSB105	mhmh (.) xīn
-PSB104	ě xīn è fa schifo?
+PSB104	#_ ě xīn è fa schifo?
 PSB104	ma sotto c'era scritto sei così crudele
-PSB120	xxx
+PSB120	#_ xxx
 PSB105	((ride))
 PSB104	e allora io son stata convinta per tanto tempo che fosse: (.) crudele
 PSB104	cioè volesse dire crudele
 PSB104	per~ ma scusa (.) m~ me lo puoi far vedere in caratteri?
 PSB105	quale?
 PSB104	ehm: xīn
-PSB105	ě xīn
+PSB105	#_ ě xīn
 PSB104	quello: che fa schifo okay pensavo fosse
 PSB105	crudele
 PSB119	((ride))
 PSB104	ecco: appunto cioè a noi veniva fuori (.) ehm:
 PSB104	la la tipa diceva
 PSB104	ehm:
-PSB104	wèi shén me zhè me ě xīn
+PSB104	#_ wèi shén me zhè me ě xīn
 PSB104	e gli diceva perché sei così crudele?
 PSB104	sotto c'era scritto proprio così
 PSB104	e io ero convi~
@@ -1862,27 +1863,27 @@ PSB104	ah c'era la: visto che erano
 PSB104	e un po' di azione
 PSB104	e c'erano dei cattivi da sconfiggere e a un certo punto questa diceva sempre
 PSB104	ah?
-PSB104	(.) e io ero tipo lì ah allora aspetta ((ride))
+PSB104	#_ (.) e io ero tipo lì ah allora aspetta ((ride))
 PSB105	((ride))
 PSB105	è come: noi con dylan dog
 PSB104	con EH sì
 PSB105	sì
-PSB120	shén me ? shén me?
-PSB105	tā men yǒu yí gè , nà gè màn huà , jiào dylan dog
-PSB105	jiù wǒ men xué
+PSB120	#_ shén me ? shén me?
+PSB105	#_ tā men yǒu yí gè , nà gè màn huà , jiào dylan dog
+PSB105	#_ jiù wǒ men xué
 PSB105	quando: impariamo: italiano,
 PSB104	sì
 PSB105	il professore ci ha fatto guardare dylan dog
 PSB105	e (.) dobbiamo scrivere commenti
 PSB105	e io avevo scritto una poesia
 PSB105	cioè:
-PSB120	xxx zhè shì shén me
-PSB105	wǒ gěi nǐ kàn
-PSB105	wǒ bù zhī dào zhè gè néng bù néng sōu chū lái
-PSB120	xxx pimpa pig
-PSB120	nǐ kàn
+PSB120	#_ xxx zhè shì shén me
+PSB105	#_ wǒ gěi nǐ kàn
+PSB105	#_ wǒ bù zhī dào zhè gè néng bù néng sōu chū lái
+PSB120	#_ xxx pimpa pig
+PSB120	#_ nǐ kàn
 PSB105	((ride))
-PSB120	pimpa
+PSB120	#_ pimpa
 PSB105	peppa pig
 PSB119	no eh
 PSB104	io ho visto peppa pig in cinese
@@ -1890,9 +1891,10 @@ PSB120	c'è anche pim~ pimpa (.) [quella cane]
 PSB104	[la] pimpa
 PSB104	sì: quella con le macchie
 PSB119	sì ((ride))
-PSB120	shà
-PSB120	a
-PSB120	zhè shì shén me
+PSB105	#_
+PSB120	#_ shà
+PSB120	#_ a
+PSB120	#_ zhè shì shén me
 PSB104	[ahm:]
 PSB105	dylan dog
 PSB104	io personalmente dylan dog l'ho l'ho (.) l'ho sentito perché è famoso ma non l'ho mai visto
@@ -1904,11 +1906,11 @@ PSB105	[e poi]
 PSB104	((ride)) ti prego
 PSB105	((ride))
 PSB104	stupendo
-PSB120	nà gè jiào shén me
-PSB105	něi gè
-PSB120	děng yī xià , wǒ zhǎo yī xià , rén shēng
+PSB120	#_ nà gè jiào shén me
+PSB105	#_ něi gè
+PSB120	#_ děng yī xià , wǒ zhǎo yī xià , rén shēng
 PSB105	[mh]
-PSB120	yīng gāi shì zhè gè ba
+PSB120	#_ yīng gāi shì zhè gè ba
 PSB120	questo
 PSB104	a:h strappare lungo i bordi bellissima
 PSB119	sì [x]
@@ -1923,15 +1925,15 @@ PSB105	[a]:h
 PSB104	è molto bello
 PSB104	la dovresti guardare, è molto carina
 PSB105	io non l'ho mai vis[to]
-PSB119	quán shì tǔ cáo de
+PSB119	#_ quán shì tǔ cáo de
 PSB120	a::h
-PSB119	mà rén , xxx mà rén
+PSB119	#_ mà rén , xxx mà rén
 PSB120	((ride))
-PSB119	bì , bì kàn
+PSB119	#_ bì , bì kàn
 PSB105	((ride))
 PSB104	((ride))
-PSB105	āi yā , kàn shén me amica geniale
-PSB119	jiù hěn gǎo xiào
+PSB105	#_ āi yā , kàn shén me amica geniale
+PSB119	#_ jiù hěn gǎo xiào
 PSB119	dàn shì nǐ non non può vedere quando si mangia (.) perché
 PSB119	parla velocissimo ((ride))
 PSB104	parla veramente veloce e lui ha una: mh l~ io ho visto un~ le interviste di: di lui
@@ -1965,19 +1967,19 @@ PSB105	mhmh
 PSB119	davvero?
 PSB104	bellissima roma
 PSB105	però no~ non parlano xxx i romani
-PSB120	fǎn zhèng wǒ jué de , jiù shì shuō tā men de fā yīn hái shì zuì zhǔn què de
-PSB120	gǔn a((ride))
+PSB120	#_ fǎn zhèng wǒ jué de , jiù shì shuō tā men de fā yīn hái shì zuì zhǔn què de
+PSB120	#_ gǔn a((ride))
 PSB104	((ride))
-PSB120	bǎ wǒ men fó luó lún sà fàng zài nǎ lǐ
+PSB120	#_ bǎ wǒ men fó luó lún sà fàng zài nǎ lǐ
 PSB105	[ma in realtà: è ancora più:] standard del fiorentino
 PSB119	[fiorentino:]
 PSB105	[dove è] nat~ dove (.) sei andata tu
 PSB119	[fiorentino] xxx
-PSB120	fó luó lún sà
+PSB120	#_ fó luó lún sà
 PSB104	fioren[tino: s:ì]
 PSB120	[firenze]
-PSB120	firenze shì zuì biāo zhǔn dì
-PSB119	duì a
+PSB120	# firenze shì zuì biāo zhǔn dì
+PSB119	#_ duì a
 PSB104	<[sì: anche se] io posso dire che>
 PSB120	[xx dove na:scere]
 PSB104	<è vero che si è preso il dialetto dantesco>
@@ -1996,7 +1998,7 @@ PSB104	[ah la crusca] l'accademia
 PSB119	sì sì sì
 PSB104	quello che ha fatto il dizionario
 PSB119	sì
-PSB119	xxx
+PSB119	#_ xxx
 PSB104	((ride))
 PSB105	((ride))
 PSB119	((ride))
@@ -2011,25 +2013,26 @@ PSB119	((ride))
 PSB120	pisana?
 PSB105	bǐ sà rén e:h]
 PSB104	[è una nostra questa nostra amica]
-PSB105	bǐ sà de
-PSB119	bǐ sà rén
+PSB105	#_ bǐ sà de
+PSB119	#_ bǐ sà rén
 PSB105	(pisa.#_ bǐ sà rén, xié tǎ)
-PSB119	bǐ sà , bǐ sà shén me
-PSB119	zěn me le , ō , zhī dào le
+PSB119	#_ bǐ sà , bǐ sà shén me
+PSB119	#_ zěn me le , ō , zhī dào le
 PSB119	(mi sembra un'ottima idea)
 PSB119	(pensavo era un aggettivo) ((ride))
-PSB105	wǒ gāng gāng shuō nà gè fó luó lún sà rén bú shì hěn...
-PSB105	běn dì rén bú shì hěn nice
+PSB105	#_
+PSB105	#_ wǒ gāng gāng shuō nà gè fó luó lún sà rén bú shì hěn...
+PSB105	#_ běn dì rén bú shì hěn nice
 PSB119	[a:h]
-PSB105	rán hòu , rán hòu tā shuō zhù yì bié ràng nà gè shuí tīng jiàn le , hòu lái wǒ men fǎn yìng yī xià
-PSB105	fú luó , fó luó lún sà , tā shì bǐ sà de
+PSB105	#_ rán hòu , rán hòu tā shuō zhù yì bié ràng nà gè shuí tīng jiàn le , hòu lái wǒ men fǎn yìng yī xià
+PSB105	#_ fú luó , fó luó lún sà , tā shì bǐ sà de
 PSB120	ho capito
 PSB105	((ride))
 PSB104	ehm:: sì
 PSB104	lei non::
 PSB104	la mh beh però effettivamente un po' i fiorentini se la tirano
 PSB105	[ah]
-PSB120	fǎn zhèng wǒ tīng wǒ bà shuō , Bologna shén me xxx
+PSB120	#_ fǎn zhèng wǒ tīng wǒ bà shuō , Bologna shén me xxx
 PSB105	((ride))
 PSB119	((ride))
 PSB104	hai paura di bologna?
@@ -2042,17 +2045,17 @@ PSB119	[ho senti]to in supermercato cinese ho sentito i:
 PSB119	supermercato cinese perché:
 PSB119	a bologna è di~ è più difficile xx avere
 PSB119	(applicare)
-PSB119	bǔ zhù ? zěn me shuō a
+PSB119	#_ bǔ zhù ? zěn me shuō a
 PSB105	a:h (.) [esoneri]
 PSB104	[xxx]
 PSB105	è più difficile avere esoneri per gli stranieri
 PSB104	ma da cosa?
 PSB105	cioè come: borsa di studio[:]
-PSB119	fú lì zěn me shuō
+PSB119	#_ fú lì zěn me shuō
 PSB105	o: bene~
-PSB120	fú lì
+PSB120	#_ fú lì
 PSB119	bene[fici]
-PSB120	fú lì
+PSB120	#_ fú lì
 PSB105	[benefi~]
 PSB119	chissà perché toscano [(.) tosca]na: tantissimo
 PSB120	[xxx]
@@ -2063,10 +2066,10 @@ PSB105	[benessere]
 PSB119	[firenze]
 PSB120	ah
 PSB104	ah
-PSB119	zhè me xxx
+PSB119	#_ zhè me xxx
 PSB119	perché qui ci sono troppo ignoranti
 PSB119	diciamo:
-PSB119	nàn mín
+PSB119	#_ nàn mín
 PSB105	a::h
 PSB119	wǒ yě bù zhī dào zěn me shuō bologna è la più:
 PSB119	xxx (rifugiati)
@@ -2149,7 +2152,7 @@ PSB104	a bologna paghi.
 PSB105	((ride))
 PSB119	lui ha un ristorante [cinese:]
 PSB105	[ah un cine~]
-PSB120	xxx
+PSB120	#_ xxx
 PSB119	ho mangiato ogni giorno (.) no ogni giorno
 PSB119	ogni volta quando vado a prato ma[ngio in] quel ristorante a colazione
 PSB104	[a:h]
@@ -2250,43 +2253,43 @@ PSB105	[ce n'è: ce n'è]
 PSB105	negozio così: ogni due:
 PSB105	cento metri
 PSB104	mamma mia
-PSB119	gāng mǎi le xxx jiù xxx
+PSB119	#_ gāng mǎi le xxx jiù xxx
 PSB104	ma è tipo un quart~
-PSB119	jié hūn xxx
+PSB119	#_ jié hūn xxx
 PSB104	m:h è tipo un quartiere?
-PSB119	wǒ gǎn jué xxx hǎo xǐ huān jié hūn a
+PSB119	#_ wǒ gǎn jué xxx hǎo xǐ huān jié hūn a
 PSB104	dove ci sono tutti:
 PSB104	cioè un po' ghetto
-PSB119	zhōng guó rén
-PSB119	bú shì wǒ shuō , wēn zhōu rén a
+PSB119	#_ zhōng guó rén
+PSB119	#_ bú shì wǒ shuō , wēn zhōu rén a
 PSB104	o sono un po' sparsi per la città?
 PSB105	sparsi
-PSB119	bǎo shǒu
+PSB119	#_ bǎo shǒu
 PSB104	sparsi okay (.) meno male
-PSB119	dàn shì wǒ jué de guó nèi wēn zhōu méi yǒu nà yàng
+PSB119	#_ dàn shì wǒ jué de guó nèi wēn zhōu méi yǒu nà yàng
 PSB105	((ride))
 PSB104	che non ghettizziamo la gente
 PSB119	perché: nel mia #jiù shì wǒ
 PSB105	però secondo me: questo tipo di negozio deve fare: riciclaggio cioè: se
-PSB119	xxx de shí hòu
-PSB119	jiù dà jiā hái jiù shì hěn zhòng shì xué xí
-PSB119	xxx , wǒ zhī dào , wǒ zhī dào nǐ bà hěn hǎo de
+PSB119	# xxx de shí hòu
+PSB119	#_ jiù dà jiā hái jiù shì hěn zhòng shì xué xí
+PSB119	#_ xxx , wǒ zhī dào , wǒ zhī dào nǐ bà hěn hǎo de
 PSB104	ah
 PSB104	dici eh?
 PSB105	non per vendere
-PSB119	wǒ zhī dào nǐ men zhèi xiē
-PSB120	fǎn zhèng wǒ bà tā cóng tóu dào wěi dōu shuō
-PSB120	tā shuō wǒ shì lái yì dà lì sòng xué lì de
-PSB120	cóng lái bù jué de wǒ shàng kè yǒu duō nàn
+PSB119	#_ wǒ zhī dào nǐ men zhèi xiē
+PSB120	#_ fǎn zhèng wǒ bà tā cóng tóu dào wěi dōu shuō
+PSB120	#_ tā shuō wǒ shì lái yì dà lì sòng xué lì de
+PSB120	#_ cóng lái bù jué de wǒ shàng kè yǒu duō nàn
 PSB104	((ride))
-PSB105	gēn , gēn dé guó de liú zi bǐ qǐ lái , jiù shì , zán men shì...
-PSB105	jiù zuò yī xiē ((ride))
-PSB105	dàn shì què shí
+PSB105	#_ gēn , gēn dé guó de liú zi bǐ qǐ lái , jiù shì , zán men shì...
+PSB105	#_ jiù zuò yī xiē ((ride))
+PSB105	#_ dàn shì què shí
 PSB119	[a:h]
-PSB119	wǒ zài shuō nǐ jiù shēng qì le , wǒ bù shuō le
-PSB120	suǒ yǐ nǐ de lǐ jiě wèi shén me gēn tā guān xì bù hǎo
+PSB119	#_ wǒ zài shuō nǐ jiù shēng qì le , wǒ bù shuō le
+PSB120	#_ suǒ yǐ nǐ de lǐ jiě wèi shén me gēn tā guān xì bù hǎo
 PSB105	[a:h]
-PSB119	xxx
+PSB119	#_ xxx
 PSB104	xxx n:o
 PSB105	dice che:
 PSB105	suo padre pensa che: il suo corso di studio qui a bologna è:
@@ -2298,8 +2301,8 @@ PSB105	mh mh perché in cina come: ti avevo già parlato xx
 PSB105	è molto difficile entrare università ehm: fare: superare esami (.) qui invece:
 PSB104	è sì (.) facile
 PSB105	((ride))
-PSB120	dōu sòng nǐ lái yì dà lì dú shū le , nǐ hái yǒu shén me bù mǎn zú de , méi yǒu , jiù tā lǎo shì shuō zhèi xiē , wǒ kěn dìng huì shēng qì ma
-PSB120	dǎo zhì wǒ gēn tā guān xì jiù hěn bù hǎo , rán hòu wǒ jiù , wǒ dōu méi , méi zěn me zhǎo tā shì qíng , bú huì jiào tā bà bà , gàn shén me , wǒ dōu zhí jiē gěi tā fā xxx
+PSB120	#_ dōu sòng nǐ lái yì dà lì dú shū le , nǐ hái yǒu shén me bù mǎn zú de , méi yǒu , jiù tā lǎo shì shuō zhèi xiē , wǒ kěn dìng huì shēng qì ma
+PSB120	#_ dǎo zhì wǒ gēn tā guān xì jiù hěn bù hǎo , rán hòu wǒ jiù , wǒ dōu méi , méi zěn me zhǎo tā shì qíng , bú huì jiào tā bà bà , gàn shén me , wǒ dōu zhí jiē gěi tā fā xxx
 PSB119	non lo so:
 PSB119	perché
 PSB119	i genitori
@@ -2385,82 +2388,82 @@ PSB104	più [forti]
 PSB119	[però alla fine] non non:
 PSB119	non usa questo per una:
 PSB119	x
-PSB119	nà gè shén me
+PSB119	#_ nà gè shén me
 PSB119	vantaggio
 PSB105	a::h
 PSB104	cioè non usano il cinese come una risorsa (.) xx
 PSB104	intendi
-PSB119	gǎn jué tā men hěn làng fèi zì jǐ de tiān fù
+PSB119	#_ gǎn jué tā men hěn làng fèi zì jǐ de tiān fù
 PSB105	a::h
 PSB105	che sprecano il loro talento: naturale:
 PSB105	(sapere le) lingue
 PSB104	non lo sfruttano [diciamo].
 PSB105	[mhmh]
 PSB104	eh ma ci sta
-PSB119	suǒ yǐ nǐ yǒu jǐ gè , nǐ bà yǒu jǐ gè lǎo pó
-PSB120	duì , qián qī gēn nǐ mā , duì , bù guò wǒ mā shì tā mā
-PSB120	wǒ shì wǒ bà qián qī de nǚ ér
+PSB119	#_ suǒ yǐ nǐ yǒu jǐ gè , nǐ bà yǒu jǐ gè lǎo pó
+PSB120	#_ duì , qián qī gēn nǐ mā , duì , bù guò wǒ mā shì tā mā
+PSB120	#_ wǒ shì wǒ bà qián qī de nǚ ér
 PSB119	a:h
-PSB120	suǒ yǐ tā gēn běn jiù xxx
+PSB120	#_ suǒ yǐ tā gēn běn jiù xxx
 PSB119	a:h
-PSB120	jiù shì , suǒ yǐ wǒ bà shì yǒu chǎn yè de ma
-PSB120	xiǎo shěn jiù shì bāng wǒ shuō huà , jiù shuō
-PSB120	wèi shén me jiù yí dìng yāo qiú wǒ dài zài zhè ér
-PSB120	cái gěi wǒ chǎn yè , wǒ huí guó jiù bù gěi le
-PSB120	tā wèn wǒ nǎi nǎi , wǒ nǎi nǎi jiù shuō wǒ yǐ jīng zhǎng dà chéng rén le , bù xū yào guǎn wǒ
-PSB120	tā liǎng gè dì fāng , liǎng gè hái zi tā yào guǎn , tā jiù méi yǒu zhǔn bèi yào gěi wǒ
-PSB105	zán zhè gè nián jì jiù bù tǎo lùn
-PSB105	zhēng chǒng shén me le , zán jiù kǎo lǜ ná qián jiù shì
-PSB120	tā bù gěi a
-PSB120	nǐ qiǎng((ride))
-PSB120	wǒ qiǎng a , nǐ zhī dào wèi shén me wǒ , zhè cì wǒ gēn tā hěn shēng qì jiù shì
-PSB120	wǒ shuō yīn wèi zhè hěn lěng
-PSB120	jiù wēn zhōu bǐ hěn nuǎn huo ma
-PSB120	xxx
+PSB120	#_ jiù shì , suǒ yǐ wǒ bà shì yǒu chǎn yè de ma
+PSB120	#_ xiǎo shěn jiù shì bāng wǒ shuō huà , jiù shuō
+PSB120	#_ wèi shén me jiù yí dìng yāo qiú wǒ dài zài zhè ér
+PSB120	#_ cái gěi wǒ chǎn yè , wǒ huí guó jiù bù gěi le
+PSB120	#_ tā wèn wǒ nǎi nǎi , wǒ nǎi nǎi jiù shuō wǒ yǐ jīng zhǎng dà chéng rén le , bù xū yào guǎn wǒ
+PSB120	#_ tā liǎng gè dì fāng , liǎng gè hái zi tā yào guǎn , tā jiù méi yǒu zhǔn bèi yào gěi wǒ
+PSB105	#_ zán zhè gè nián jì jiù bù tǎo lùn
+PSB105	#_ zhēng chǒng shén me le , zán jiù kǎo lǜ ná qián jiù shì
+PSB120	#_ tā bù gěi a
+PSB120	#_ nǐ qiǎng((ride))
+PSB120	#_ wǒ qiǎng a , nǐ zhī dào wèi shén me wǒ , zhè cì wǒ gēn tā hěn shēng qì jiù shì
+PSB120	#_ wǒ shuō yīn wèi zhè hěn lěng
+PSB120	#_ jiù wēn zhōu bǐ hěn nuǎn huo ma
+PSB120	#_ xxx
 PSB105	mh mh mh
-PSB120	rán hòu wǒ jiù méi xiǎng dào nà me duō , jiù méi dài
+PSB120	#_ rán hòu wǒ jiù méi xiǎng dào nà me duō , jiù méi dài
 PSB119	((ride))
-PSB120	rán hòu wǒ shuō wǒ xiǎng mǎi yī jiàn yǔ róng fú
-PSB120	dàn nǐ zhī dào yǔ róng fú
-PSB120	shāo wēi hǎo yì diǎn yǔ róng fú , dōu tǐng guì de
-PSB105	tǐng guì jiù shì
-PSB120	liǎng bǎi zuǒ yòu ba
+PSB120	#_ rán hòu wǒ shuō wǒ xiǎng mǎi yī jiàn yǔ róng fú
+PSB120	#_ dàn nǐ zhī dào yǔ róng fú
+PSB120	#_ shāo wēi hǎo yì diǎn yǔ róng fú , dōu tǐng guì de
+PSB105	#_ tǐng guì jiù shì
+PSB120	#_ liǎng bǎi zuǒ yòu ba
 PSB105	mhmh
-PSB120	rán hòu , rán hòu tā gěi wǒ shēng huó fèi , tā shuō
-PSB120	chú le fáng zi tā gěi wǒ liù bǎi kuài qián shēng huó fèi , dàn nǐ jué de
-PSB120	gěi nǐ hěn duō le
-PSB120	wǒ shēn biān de rén dōu gěi sān sì bǎi
-PSB120	rán hòu zì jǐ chū qù dǎ gōng de , yǐ jīng gěi nǐ hěn duō hěn duō le , wǒ yǐ jīng duì nǐ
-PSB120	hěn hǎo le , rán hòu gēn tā shuō , wǒ tóng xué xià wǔ shuō
-PSB120	mǎi yī fú ma
-PSB120	nà nǐ bù kě néng shuō ná zì jǐ shēng huó fèi qù mǎi ba
-PSB120	tā shuō bù gěi wǒ
-PSB120	ràng wǒ zì jǐ qù mǎi diǎn pián yí de
-PSB120	rán hòu jiù gēn wǒ mèi shuō le zhè gè shì ér , rán hòu wǒ mèi zhǎo tā
-PSB120	tā shuō , nǐ mèi shì nǎ lǐ rén
-PSB120	nǐ mèi shì xiàn zài de ma
+PSB120	#_ rán hòu , rán hòu tā gěi wǒ shēng huó fèi , tā shuō
+PSB120	#_ chú le fáng zi tā gěi wǒ liù bǎi kuài qián shēng huó fèi , dàn nǐ jué de
+PSB120	#_ gěi nǐ hěn duō le
+PSB120	#_ wǒ shēn biān de rén dōu gěi sān sì bǎi
+PSB120	#_ rán hòu zì jǐ chū qù dǎ gōng de , yǐ jīng gěi nǐ hěn duō hěn duō le , wǒ yǐ jīng duì nǐ
+PSB120	#_ hěn hǎo le , rán hòu gēn tā shuō , wǒ tóng xué xià wǔ shuō
+PSB120	#_ mǎi yī fú ma
+PSB120	#_ nà nǐ bù kě néng shuō ná zì jǐ shēng huó fèi qù mǎi ba
+PSB120	#_ tā shuō bù gěi wǒ
+PSB120	#_ ràng wǒ zì jǐ qù mǎi diǎn pián yí de
+PSB120	#_ rán hòu jiù gēn wǒ mèi shuō le zhè gè shì ér , rán hòu wǒ mèi zhǎo tā
+PSB120	#_ tā shuō , nǐ mèi shì nǎ lǐ rén
+PSB120	#_ nǐ mèi shì xiàn zài de ma
 PSB105	a:h
-PSB120	tā shì yī zhí shēng huó zài zhè ér de
-PSB120	rán hòu tā shuō , tā jiù zhǎo wǒ bà
-PSB120	rán hòu wǒ bà gēn tā shuō , wèi shén me wǒ lǎo zhǎo tā yào qián
-PSB105	tā bú shì yīng gāi gěi ma
+PSB120	#_ tā shì yī zhí shēng huó zài zhè ér de
+PSB120	#_ rán hòu tā shuō , tā jiù zhǎo wǒ bà
+PSB120	#_ rán hòu wǒ bà gēn tā shuō , wèi shén me wǒ lǎo zhǎo tā yào qián
+PSB105	#_ tā bú shì yīng gāi gěi ma
 PSB105	((sospira))
 PSB119	un po' difficile
-PSB105	dàn shì nǐ mèi gēn nǐ qīn ma
-PSB105	nà nǐ hái gēn tā shuō ((ride))
-PSB119	suǒ yǐ nà shí hou wǒ jiù wèn tā , wǒ shuō
-PSB120	qù nǎ lǐ mǎi yī fú de
-PSB105	ó ó ó
-PSB120	zhè gè hǎo guì ó , tā shuō nǐ zhǎo nǐ bà , zhǎo bà bà ya , ràng bà bà gěi nǐ mǎi
-PSB119	rán hòu wǒ zhǎo tā le , rán hòu tā zhè me shuō , wǒ gěi tā jié tú fā gěi wǒ mèi
-PSB120	rán hòu wǒ mèi jiù zhǎo wǒ bà
-PSB119	nǐ zhè shén me mèi a ((ride))
+PSB105	#_ dàn shì nǐ mèi gēn nǐ qīn ma
+PSB105	#_ nà nǐ hái gēn tā shuō ((ride))
+PSB119	#_ suǒ yǐ nà shí hou wǒ jiù wèn tā , wǒ shuō
+PSB120	#_ qù nǎ lǐ mǎi yī fú de
+PSB105	#_ ó ó ó
+PSB120	#_ zhè gè hǎo guì ó , tā shuō nǐ zhǎo nǐ bà , zhǎo bà bà ya , ràng bà bà gěi nǐ mǎi
+PSB119	#_ rán hòu wǒ zhǎo tā le , rán hòu tā zhè me shuō , wǒ gěi tā jié tú fā gěi wǒ mèi
+PSB120	#_ rán hòu wǒ mèi jiù zhǎo wǒ bà
+PSB119	#_ nǐ zhè shén me mèi a ((ride))
 PSB105	((ride)) fēng bào xìn ér
 PSB105	hai capito?
 PSB104	no ((ride))
 PSB105	è com[e]
 PSB104	[io] ho capito comprare vestiti
-PSB104	méi yì sī
+PSB104	#_ méi yì sī
 PSB105	brava:
 PSB104	ha parlato tre anni e ho capito yī fú (.) fine
 PSB105	((ride))
@@ -2531,7 +2534,7 @@ PSB119	è figlia di: (.) di suo padre
 PSB119	però adesso sta con sua (.) mamma perché:
 PSB119	e sua mamma gli (.) le fa
 PSB119	una
-PSB119	jiù wǒ men shuō mén jìn
+PSB119	#_ jiù wǒ men shuō mén jìn
 PSB105	a::h #curfew
 PSB104	a:h il coprifuoco
 PSB105	mhmh
@@ -2567,17 +2570,17 @@ PSB104	alle sette: è un po' inutile: come::
 PSB104	che cosa vuoi fare, a pranzo va e basta. con gli amici va a pranzo
 PSB105	((ride))
 PSB119	tā men lí hūn de tǐng duō de
-PSB119	bù zhǐ
-PSB120	lí hūn duō , chū guǐ de yě duō
+PSB119	#_ bù zhǐ
+PSB120	#_ lí hūn duō , chū guǐ de yě duō
 PSB105	a:h shì
 PSB119	xx puoi vedere xx molto a posto #su xiǎo hóng shū
 PSB105	sì sì sì
-PSB119	wǒ bà shēn biān de péng yǒu , hěn duō dōu bāo dà xué shēng
-PSB120	bāo yǎng zhè zhǒng
+PSB119	#_ wǒ bà shēn biān de péng yǒu , hěn duō dōu bāo dà xué shēng
+PSB120	#_ bāo yǎng zhè zhǒng
 PSB105	a::h
 PSB119	((ride))
-PSB120	dàn shì wǒ bù zhī dào tā yǒu méi yǒu a
-PSB120	dàn tā shuō ràng wǒ xiǎo xīn
+PSB120	#_ dàn shì wǒ bù zhī dào tā yǒu méi yǒu a
+PSB120	#_ dàn tā shuō ràng wǒ xiǎo xīn
 PSB105	ci son tanti uomini che hanno:
 PSB105	tanti amanti:
 PSB120	sugar baby
@@ -2587,7 +2590,7 @@ PSB104	i sugar baby sì
 PSB104	che in realtà: è è il goal
 PSB104	di di molte persone (.) essere sugar baby
 PSB105	((ride))
-PSB119	crazy
+PSB119	#_ crazy
 PSB104	perché così sei mantenuto ((ride))
 PSB105	non è facile eh
 PSB104	no e:h non è così facile
@@ -2610,11 +2613,11 @@ PSB105	cosa vuoi xxx
 PSB104	vogliamo andare a mangiare
 PSB105	ah.
 PSB104	voi l'avete mai visto trecentosessantacinque?
-PSB119	shì ma
-PSB105	jiù shì hé
-PSB105	bà zǒng de sān bǎi liù shí wǔ tiān
+PSB119	#_ shì ma
+PSB105	#_ jiù shì hé
+PSB105	#_ bà zǒng de sān bǎi liù shí wǔ tiān
 PSB120	[a::h]
-PSB119	ō , wǒ kàn guò le
+PSB119	#_ ō , wǒ kàn guò le
 PSB120	xxx dieci minuti
 PSB104	perché me l'ha chiesto lei e~ xx
 PSB104	io l'- l'avevo visto ma
@@ -2634,14 +2637,14 @@ PSB104	[s:ì]
 PSB105	la vecchia versione di #fifty #shades #of #grey
 PSB104	no
 PSB104	la vecchia versione, in che senso
-PSB119	wǔ shí dù huī
-PSB105	wǔ shí dù huī de dì yí gè bǎn běn
+PSB119	#_ wǔ shí dù huī
+PSB105	#_ wǔ shí dù huī de dì yí gè bǎn běn
 PSB119	[ah]?
-PSB105	bú shì xīn chū de zhè gè bǎn běn , jiù shì zài hěn duō nián qián , jiǔ jǐ nián de shí hòu
-PSB119	jiù shì zài hěn duō nián
-PSB105	yǒu yí gè dì yí gè bǎn běn de
-PSB120	něi gè diàn yǐng a
-PSB105	jiù nà gè wǔ shí dù huī ma
+PSB105	#_ bú shì xīn chū de zhè gè bǎn běn , jiù shì zài hěn duō nián qián , jiǔ jǐ nián de shí hòu
+PSB119	#_ jiù shì zài hěn duō nián
+PSB105	#_ yǒu yí gè dì yí gè bǎn běn de
+PSB120	#_ něi gè diàn yǐng a
+PSB105	#_ jiù nà gè wǔ shí dù huī ma
 PSB120	a::h okay
 PSB105	mo:lto meglio
 PSB105	((ride))
@@ -2670,8 +2673,8 @@ PSB105	((ride))
 PSB104	°concludiamo? [(.)] ho fame°
 PSB105	[sì sì sì]
 PSB119	((ride)) de dōu
-PSB120	nán de dōu ài miàn zi
-PSB120	miàn zi zěn me shuō a
+PSB120	#_ nán de dōu ài miàn zi
+PSB120	#_ miàn zi zěn me shuō a
 PSB104	è la faccia no #miàn zi?
 PSB105	[sì]
 PSB104	>infatti< méi yǒu miàn zi non è tipo: m: h faccia?
@@ -2679,9 +2682,9 @@ PSB105	sì sì sì sì
 PSB104	tipo è senza vergogna
 PSB119	come si dice in italia per dire faccia?
 PSB104	sì. #miàn zi è viso faccia sì
-PSB105	vuol dire faccia
-PSB105	diū miàn zi
-PSB104	diū miàn zi è: [è per~] perdere la faccia
+PSB105	# vuol dire faccia
+PSB105	#_ diū miàn zi
+PSB104	# diū miàn zi è: [è per~] perdere la faccia
 PSB105	[perdere]
 PSB104	ce l'abbiamo anche in italiano perdere la faccia
 PSB120	#perdere la faccia
@@ -2696,10 +2699,10 @@ PSB105	((ride))
 PSB104	molto:
 PSB105	((ride))
 PSB104	cioè è molto specifica come: situazione
-PSB105	zán yào bù jīn tiān xiān dào zhè ér
-PSB120	tā gēn wǒ mā dōu shuō zhè jiàn shì
-PSB120	nǐ mā shì gàn ma de
-PSB120	yī kāi shǐ tā gāng chū lái de shí hòu , shì zài wǒ bà bà nà
+PSB105	#_ zán yào bù jīn tiān xiān dào zhè ér
+PSB120	#_ tā gēn wǒ mā dōu shuō zhè jiàn shì
+PSB120	#_ nǐ mā shì gàn ma de
+PSB120	#_ yī kāi shǐ tā gāng chū lái de shí hòu , shì zài wǒ bà bà nà
 PSB105	[anche tu:]
-PSB120	wǒ bà de diàn lǐ dǎ gōng
+PSB120	#_ wǒ bà de diàn lǐ dǎ gōng
 PSB104	ah sì sì è ver~

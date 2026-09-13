@@ -563,7 +563,7 @@ PSB158	è una nostra amica [che:]
 PSB159	[sì] sì mi racconta xxx mi dice guarda è lei: mi fa ridere::
 PSB159	mi racconta sempre di lei
 PSB158	((ride))
-PSB159	he battuta fa che:
+PSB159	eh battuta fa che:
 PSB159	dice xxx ma lo sai mi ha detto mamma lo sai l'amica: lo conosce anche a dico davvero (.) vedi xx
 PSB158	((ride))
 PSB159	te guarda che il mondo com'è piccolo
@@ -640,11 +640,11 @@ PSB157	eh vabbè. qualcuno
 PSB160	ce l'ha cous cous
 PSB157	[ah]
 PSB159	[c'è] #tajine c'è #bstela
-PSB160	(ta~ tajine)
+PSB160	#_ (ta~ tajine)
 PSB157	e cosa: che che cos'è la to~ to
 PSB158	((ride))
-PSB157	#taj[ine]?
-PSB159	[taji]ne
+PSB157	#_ #taj[ine]?
+PSB159	#_ [taji]ne
 PSB157	#tajine cos'è?
 PSB159	è questo.
 PSB157	[ha una forma] molto singolare ((ride)) [di cosa si tratta]
@@ -783,7 +783,7 @@ PSB159	deserto
 PSB159	[mi] ha mandato foto dico guarda n: a:h è andata di là lei proprio (.) e di là è un'altra cosa
 PSB158	[ah]
 PSB157	pensa te
-PSB159	dakla
+PSB159	#_ dakla
 PSB159	c'è mh mare di là
 PSB159	un posto bello. dopo lo guardi
 PSB159	c'è il deserto e il mare. (.) u:h
@@ -854,7 +854,7 @@ PSB159	[sì:]
 PSB158	lo so [lo so] ((ride))
 PSB160	[vai a casa:] (.) [vai a] casa
 PSB159	[quando:] anche se[xx zero]
-PSB159	dirham
+PSB159	#_ dirham
 PSB160	moneta del marocco
 PSB159	[xxx noi]
 PSB160	[xxx non ce l'ha una lira alla tasca]
@@ -867,7 +867,7 @@ PSB158	sì sì s[ì]
 PSB160	[te] mangi[a dor]mi bene tranqu[illa non:]
 PSB157	[quindi]
 PSB159	[xxx]
-PSB157	[ospi]tale bello [c'ha tutto però] ((ride))
+PSB157	[ospi]tale bello [c'ha tutto però ((ride))]
 PSB159	[sì davvero]
 PSB159	no no ma [vedra~ xxx]
 PSB157	[mi toccherà andarci]
@@ -905,7 +905,7 @@ PSB159	tu non [puoi dire]
 PSB158	[ma sai che] c'è anche in albanese [questa] parte
 PSB159	[sì]
 PSB159	ti di[cono non puoi dire questo piatto sembra sxx sì sì]
-PSB160	[eh albania (.) tutti musulmani] ((ride))
+PSB160	[eh albania (.) tutti musulmani ((ride))]
 PSB158	no si dice è lo stesso detto lo [dice] anche mio [padre]
 PSB159	[sì]
 PSB159	[sì]
@@ -1287,7 +1287,7 @@ PSB158	no puo~ ((ride)) anch~
 PSB157	quello che vuo:i
 PSB159	di lui:: (.) di loro belli. (.) di lui: [xxx]
 PSB157	((ride))
-PSB157	[pensavo brutti] ((ride)) ((ride))
+PSB157	[pensavo brutti ((ride))] ((ride))
 PSB158	((ride))
 PSB159	di lui [sono stati sem]pre belli veramente (.) il teatro [può esse~]
 PSB160	[erano belli belli belli]
@@ -1502,7 +1502,7 @@ PSB157	e anche di prestare il consenso qui[ndi: questa] (.) [eh]
 PSB159	[ci penso io
 PSB160	[ah okay]
 PSB157	qua qua (.) le croce[tte]
-PSB159	[ta]-jab-liya naddader 3afak
+PSB159	#_ [ta]-jab-liya naddader 3afak
 PSB159	non vedo oddio (.) o::h mamma mia
 PSB160	sarà dietro di dietro con le chiavi [lì grazie]
 PSB158	[dobbiamo mettere]
@@ -1542,8 +1542,8 @@ PSB158	quasi sei anni
 PSB157	eh
 PSB158	e[:h]
 PSB157	[n]on sono mica pochi eh
-PSB160	haki l-hna
-PSB160	yeh yeh n-la3bo
+PSB160	#_ haki l-hna
+PSB160	#_ yeh yeh n-la3bo
 PSB157	°va bene°
 PSB158	°questo°
 PSB159	°era°
@@ -1555,20 +1555,20 @@ PSB159	addirittura?
 PSB157	eh mi dispi[ace:] sono cose molto noi[ose] e molto brutte
 PSB159	[ah]
 PSB159	[ah]
-PSB159	mennana
+PSB159	#_ mennana
 PSB157	ed è [la cosa] che [odiamo] di più tutti quanti raccogliere questi dati qua ((ride))
 PSB160	[eh]
-PSB159	m3attal
-PSB159	#jab-liya #l-portafoglio
+PSB159	#_ m3attal
+PSB159	#_ #jab-liya #l-portafoglio
 PSB159	oh
-PSB159	mn saki
+PSB159	#_ mn saki
 PSB159	lillah]
 PSB158	[tu hai registrato]?
 PSB157	°si°
 PSB158	a me mi ha fatto solo due registrazioni da venti minuti
 PSB158	cio[è da:] (.) due da dieci
 PSB157	[vabbè]
-PSB159	tha baqa? [n sign-ak antha]
+PSB159	#_ tha baqa? [n sign-ak antha]
 PSB157	[no va bene]
 PSB157	non c'è problema
 PSB157	adesso:: mi prendo giù qualche dato anche persona:le
@@ -1744,7 +1744,7 @@ PSB160	[ventuno]
 PSB160	ventuno
 PSB159	no
 PSB159	no no
-PSB159	mn jith ana shahal kn 3endi mn 3am
+PSB159	#_ mn jith ana shahal kn 3endi mn 3am
 PSB160	ah okay
 PSB159	oka~
 PSB160	okay
@@ -1955,7 +1955,7 @@ PSB158	se guardi sotto e::h
 PSB160	quattro piani sono [dodici metri]
 PSB157	[mamma mia]
 PSB159	[bra]:vo
-PSB159	mashallah
+PSB159	#_ mashallah
 PSB158	ah beh sì è vero:
 PSB160	[era dodici] (.) dodici metri [eh]
 PSB158	[allora] cinque: sì
@@ -2033,7 +2033,7 @@ PSB159	e dove che non vado volen[tieri] tu hai voglia io non è voglia mi obblig
 PSB158	[ce:rto]
 PSB159	[dammi soldi e:]
 PSB158	[no no è vero]
-PSB160	baraka n-thi sadda3thina had shwiya
+PSB160	#_ baraka n-thi sadda3thina had shwiya
 PSB159	io? ((ride))
 PSB158	dai.
 PSB157	vai in palestra adesso

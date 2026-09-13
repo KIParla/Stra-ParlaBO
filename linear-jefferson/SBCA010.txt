@@ -1,9 +1,9 @@
-PSB162	hādī
+PSB162	#_ hādī
 PSB161	ah
 PSB162	#kanet segreteria #shi #haja auto[mat~]
 PSB161	[auto]matica sì sì
 PSB162	cioè: ba~ mi parla del
-PSB161	énergie énergie
+PSB161	#_ énergie énergie
 PSB162	guarda #ana #ma #ta debito di #énergie #xx
 PSB161	((ride))
 PSB161	no son le chiamate automatiche
@@ -11,7 +11,7 @@ PSB162	e allora?
 PSB161	t'appost(o) tutt'apposto
 PSB161	te?
 PSB161	[ma fai]
-PSB162	[ghadda] (.) [ghadda] ghādi n-sawb lī-k [xx⟨?⟩]
+PSB162	#_ [ghadda] (.) [ghadda] ghādi n-sawb lī-k [xx⟨?⟩]
 PSB161	[fai]
 PSB161	[eh ve]di e si è [rotto]
 PSB162	[#an #sawb] #lī-k sì sì #an [#sawb #lī-k]
@@ -34,7 +34,7 @@ PSB161	((ride))
 PSB162	x dai è un posto brutto quello lì
 PSB161	no sai secondo me sai quando ti lasc~ ascolta [guarda guarda]
 PSB162	[sì ma qua] vedi [cioè]
-PSB161	[no no a~] #écoute #écoute [#deux #seconds]
+PSB161	# [no no a~] #écoute #écoute [#deux #seconds]
 PSB162	[questo è]
 PSB161	ni~ è mi ha lasciato un bigliettino dentro
 PSB162	eh
@@ -87,13 +87,14 @@ PSB161	oh
 PSB161	(#n' #l'è #miga) (.) c'è solo il telefono
 PSB162	°xx xxxx°
 PSB162	ci sono chiavi?
-PSB161	la
-PSB161	wallah
+PSB161	#_ la
+PSB161	#_ wallah
 PSB162	sì hai preso le chiavi
 PSB161	tieni il telefono intanto [vabbè forse c'ho una] copia nello z[aino]
 PSB162	[aspetta aspe~]
 PSB162	[no no n]o che copia nello zaino xxx
 PSB162	a:h
+PSB161	#_
 PSB162	[oh #xx]
 PSB161	le hai messe là?
 PSB161	ah
@@ -115,8 +116,8 @@ PSB161	perché?
 PSB162	perché son venuto qua
 PSB162	cioè si è messo a piangere
 PSB161	si è messo a piangere?
-PSB162	xxxx sì
-PSB161	eh la vache
+PSB162	# xxxx sì
+PSB161	#_ eh la vache
 PSB162	(sì sì)
 PSB161	ma lui non viene qua da un po' eh eh] non viene qua da un [po' eh
 PSB162	[eh]?
@@ -154,20 +155,20 @@ PSB161	e mi sono dovuta (.) interfacciare con lei
 PSB161	capito?
 PSB162	eh fa così
 PSB161	cosa stai facendo?
-PSB162	kīf~ 3āwdī 3āwdī lī-ya mǝn l-awǝl⟨?⟩
+PSB162	#_ kīf~ 3āwdī 3āwdī lī-ya mǝn l-awǝl⟨?⟩
 PSB161	allora praticamente #shgalet
 PSB161	lei ha detto
 PSB161	l'a~ l' la mia amica no
 PSB162	eh
 PSB161	gli ha detto allora come sta andando con così in generale era curiosa di sapere
 PSB162	vai
-PSB161	qu'est-ce que tu fait là?
+PSB161	#_ qu'est-ce que tu fait là?
 PSB162	aspetta
-PSB161	que merci beaucoup
-PSB162	xxx
-PSB161	xxx
-PSB162	xxx
-PSB161	soirée allez
+PSB161	#_ que merci beaucoup
+PSB162	#_ xxx
+PSB161	#_ xxx
+PSB162	#_ xxx
+PSB161	#_ soirée allez
 PSB162	#allez. via
 PSB161	[e:h]
 PSB162	[dai di]mmi tutto
@@ -187,10 +188,10 @@ PSB161	eh tipo gli ha chiesto::
 PSB161	allora come sta andando con e tipo: lei le fa: ah no s~ cioè sì sì sta andando bene l'ho dovuta far lavorare fino a mezzanotte e mezza perché lavora con un signore che è uno scappato di casa
 PSB162	uno scappato di casa?
 PSB161	che non sa fare niente no?
-PSB161	[3la] lubnani
+PSB161	#_ [3la] lubnani
 PSB162	[sì]
 PSB162	sì
-PSB161	e:: allora:: va beh comunque gli ha detto che: bene eccetera
+PSB161	e:: allora:: vabbè comunque gli ha detto che: bene eccetera
 PSB161	e:h io gli ho de~ cioè io g~ avevo detto all'
 PSB161	che tra l'altro vedo domani sera che andiamo a cena fuori
 PSB161	che:: (.) gli ha detto:: cioè io gli avevo detto che mi sto trovando bene mi piace
@@ -210,7 +211,7 @@ PSB161	no ((ride))
 PSB161	secondo te papa andavo con i jeans
 PSB162	sì
 PSB161	oppure: sì le maglie normali #haduk le scarpe da ginnastica non con il mocassi:no il tallie:ur
-PSB162	xxx
+PSB162	#_ xxx
 PSB161	[cosa? in
 PSB162	[xxx]
 PSB162	no no dicevo [xx x]
@@ -220,7 +221,7 @@ PSB162	devi essere e[legantissi~]
 PSB161	[e quando vai] dal clie~ allora tipo per i ragazzi devono quando andiamo dal clien[te]
 PSB162	[de]vi calare un po' sei un po'
 PSB161	s~ eh ma il pantalone è stretto
-PSB162	xx[xx]
+PSB162	#_ xx[xx]
 PSB161	[sì #ghladit] un po' sì lo so
 PSB161	eh vabbè dai pa (.) con [calma]
 PSB162	[devi] avere un bel fisico anche per stare xxxxx
@@ -254,7 +255,7 @@ PSB161	in ufficio puoi: cioè no non puoi vestirti come vuoi
 PSB161	ma:
 PSB162	sì cioè bella mia come la banca
 PSB161	sì esatto
-PSB161	beh ma stamattina è venuto il #big #boss tremendo que~ cioè proprio quello che ha [creato] eh [la la s]ede: là che però adesso è in pensione
+PSB161	# beh ma stamattina è venuto il #big #boss tremendo que~ cioè proprio quello che ha [creato] eh [la la s]ede: là che però adesso è in pensione
 PSB162	[sì sì]
 PSB162	[sì]
 PSB161	è venuto e ed eravamo fuori a far la pausa no?
@@ -282,11 +283,11 @@ PSB161	cosa stai guardando?
 PSB162	no no sto solo guardando lavatrice
 PSB163	?
 PSB162	vabbè
-PSB161	eh c'est ça
-PSB162	c'est ça
+PSB161	#_ eh c'est ça
+PSB162	#_ c'est ça
 PSB161	ma ti ha detto che vuole venire qua?
 PSB162	sì ma x spendi troppi soldi nei vestiti adesso
-PSB161	quel ragazzo che vuole venire qua che dice no no io vengo qua faccio l'università qua ma tanto se vie[ne qua]
+PSB161	# quel ragazzo che vuole venire qua che dice no no io vengo qua faccio l'università qua ma tanto se vie[ne qua]
 PSB162	[chi]?
 PSB161	se viene qua fa l'università non ce la fa eh
 PSB162	xx (.) quello là quello là sai cosa c'[ha]?
@@ -327,7 +328,7 @@ PSB162	ah?
 PSB161	oh ma hai fatto tutto da dio?
 PSB163	cosa?
 PSB161	e la xx
-PSB161	jamais vu la toilette comme ça ((ride))
+PSB161	#_ jamais vu la toilette comme ça ((ride))
 PSB162	no
 PSB162	no ma [che ridi]
 PSB161	[no vera]mente
@@ -339,8 +340,8 @@ PSB161	ma ma ma chi sei?
 PSB161	chi c'è [qua]?
 PSB163	[xxx]xx
 PSB161	ma dov'è?
-PSB161	jnun? [xxx]
-PSB163	[xx]
+PSB161	#_ jnun? [xxx]
+PSB163	#_ [xx]
 PSB161	sporca tutto mi raccomando
 PSB161	ma quand'è da quand'è che sei qua scusa te?
 PSB161	ma questa quando è arrivato mi av[evi detto che non e]ra arrivato
@@ -354,11 +355,12 @@ PSB163	[dai]
 PSB162	[ade]sso no no ti metto i ves[titi]
 PSB163	[dai] la camera non c'è nien[te]
 PSB162	[che] suono [no xx]
+PSB161	#_
 PSB162	è è pulitissima non c'è niente ma solamente i vestiti li metto nell'armadio
 PSB162	quelli sporchi lavaggio lavare
 PSB161	sì ma mettere a sedere in balcone mh
 PSB162	qua però se troviamo un'amica
-PSB161	ah xassna nghattiwuh
+PSB161	#_ ah xassna nghattiwuh
 PSB162	pe~ sì ma io faccio [così pe]rché sotto [c'è il #mīka]
 PSB161	[to~]
 PSB161	[sì sì sì] sì
@@ -366,10 +368,10 @@ PSB162	però se faccio questa qua così
 PSB162	e ti faccio così
 PSB162	e ti [faccio l~ scotch]
 PSB163	[devi recuperare anche que]l cacchio di
-PSB162	xassa mīka
+PSB162	#_ xassa mīka
 PSB161	[è in~ s]ì è ingombrante [bro]
 PSB163	[no] dai no
-PSB162	w-ḥaqq āllāḥ īla bghītu t-glsu hnā barra f-ṣayf
+PSB162	#_ w-ḥaqq āllāḥ īla bghītu t-glsu hnā barra f-ṣayf
 PSB162	se te rompi l'anima
 PSB161	ma li è [bel~ e ci sta]
 PSB163	[xxxx]
@@ -382,9 +384,9 @@ PSB161	[ho trovato due sedie belle da] dio
 PSB163	ascolta #[sid]dari #ila #ki #skhon ca[pito]?
 PSB161	[eh]
 PSB162	[eh]
-PSB162	dāba shnū dī dī-hom la francia #hādu?
+PSB162	#_ dāba shnū dī dī-hom la francia #hādu?
 PSB163	[aspe]tta
-PSB161	dī-hom la france
+PSB161	#_ dī-hom la france
 PSB163	[quelli là]
 PSB162	[xxx]
 PSB163	eh [quelli là] adesso secondo me son lì così se non c'è un tendone comunque prendono il sole no?
@@ -401,9 +403,9 @@ PSB162	[sì sì]
 PSB162	[porca miseria io l'ho] messo lì [provvisoriamente cioè]
 PSB161	[su amazon] su amazon un centone
 PSB163	[xxxxxx]
-PSB161	what do you think?
+PSB161	#_ what do you think?
 PSB163	eh (.) xx[xx]
-PSB161	i'm gonna buy it
+PSB161	#_ i'm gonna buy it
 PSB163	che senso?
 PSB162	io avevo messo lì provvisoriamente poi dopo:
 PSB162	perché ci sta quello lì die~ se vieni a vedere
@@ -417,7 +419,7 @@ PSB162	[ti ho messo] sedere di fronte al davanti al[la f~]
 PSB161	[comunque] c'è una mia amica
 PSB162	mh lì
 PSB161	che:: mh sta face~ cioè una sua un'altra sua amica sta facendo tipo una ricerca
-PSB162	f-ash
+PSB162	#_ f-ash
 PSB161	per l'università
 PSB163	eh
 PSB161	de~ delle delle caratteristiche linguistiche delle persone
@@ -494,7 +496,7 @@ PSB162	[e io gli ho de]~
 PSB161	((registrazione_interrotta))
 PSB162	ma ha parla~ ho parlato in arabo cavolo co[sa vuoi]
 PSB161	[eh vabbè] cos~ chi se ne frega?
-PSB163	wesh
+PSB163	#_ wesh
 PSB162	((ride))
 PSB161	((ride))
 PSB162	è una differenza enorme tra uno che è nato qui (.) e uno che viene che a vent'anni che a trent'anni [poi do]po
@@ -598,7 +600,7 @@ PSB162	perch[é (.) no no]
 PSB161	((ride)) [boia girare]
 PSB163	v[ero]
 PSB162	[però]
-PSB161	[ma] c'sa dit
+PSB161	#_ [ma] c'sa dit
 PSB162	però quando colpi~ io mi sono cioè per la prima volta che ho preso era quella lì
 PSB162	e mi son fatto male cioè lì ho sentito (.) un dolore dell'osti~
 PSB162	cioè insomma della pa~ mi ricordo bene grand~ cos'è successo
@@ -758,7 +760,7 @@ PSB162	tu sì (.) eri nata però eri piccolina
 PSB162	nel duemilauno
 PSB161	interessante
 PSB163	secondo me no no
-PSB163	switch that shit off
+PSB163	#_ switch that shit off
 PSB161	((ride))
 PSB162	se non eri nata avevi pochi mesi ma mi sa di no perché in inverno
 PSB161	duemilau[no è] l'inizio dell'anno quindi eh [allora mamma era incinta]
@@ -772,8 +774,8 @@ PSB162	xx #sahla no?
 PSB163	ah son miei quelli lì
 PSB161	ma cosa son tutti miei
 PSB163	#ndran mok ta tiri
-PSB161	kifash ndrob mok tat tiri [tah hadshi dyal-i oh]
-PSB162	alh~ [al-ḥamdullāḥ] llāḥ subḥān-a wa-ta3ālā xxx
+PSB161	#_ kifash ndrob mok tat tiri [tah hadshi dyal-i oh]
+PSB162	#_ alh~ [al-ḥamdullāḥ] llāḥ subḥān-a wa-ta3ālā xxx
 PSB163	xxxx
 PSB161	no quelli tipo a gamba::letto come cavolo si dice qua no
 PSB161	quelli co~ che arrivano fino a: qua sono miei

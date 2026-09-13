@@ -1,13 +1,13 @@
 PSB104	allora dimmi un po'
 PSB104	tu adesso hai il permesso di soggiorno giusto
 PSB105	mhmh
-PSB104	e vuoi andare a marseille
-PSB104	perché vuoi andare a marseille
+PSB104	e vuoi andare a #marseille
+PSB104	perché vuoi andare a #marseille
 PSB105	eh perché ho già provato i ragazzi di italia e di spagna quindi voglio sempre provare qualcosa di nuovo
 PSB104	piatto tipico nuovo
 PSB104	bellissimo
 PSB104	ma t~
-PSB105	tutti dicono che ma~ marseille è un posto pericoloso quindi non lo so
+PSB105	tutti dicono che ma~ #marseille è un posto pericoloso quindi non lo so
 PSB104	ah si è un posto pericoloso dicono
 PSB105	mhmh dicono che rubano i cinesi perché portiamo sempre i soldi
 PSB104	rubano i cinesi
@@ -36,7 +36,7 @@ PSB105	costa azzurra
 PSB104	costa azzurra sì
 PSB104	adesso come si dice in francese
 PSB105	cos azur
-PSB104	côte d'azur
+PSB104	#côte #d'azur
 PSB104	bello bello no il francese è la mia lingua preferita
 PSB105	ma io stavo pensando di andare a mh genova e poi prendere un treno da lì per vedere la
 PSB104	ah fai tutta fai far~ ah bello bello poi fai bene
@@ -65,14 +65,14 @@ PSB104	quattro ore
 PSB105	sì
 PSB104	ah beh sì in effetti se ti ha portato da dove siete partiti
 PSB105	eh
-PSB105	non xxx da bacelona quindi
+PSB105	non xxx da #bacelona quindi
 PSB104	ah sì sì sì sì sì capito
 PSB104	eh
 PSB105	e poi cioè volevo comprare una bottiglia d'acqua e poi cioè loro anche se vicino in~ la spagna no~ non parlano proprio spagnolo neanche inglese
 PSB105	e quindi
 PSB105	e quindi ho detto
 PSB104	xx
-PSB105	eh je veux je v~ acheter eh l'eau ((ride))
+PSB105	#_ eh je veux je v~ acheter eh l'eau ((ride))
 PSB105	e poi mi hanno dato un litro d'acqua
 PSB105	eh no no no
 PSB104	ah
@@ -85,20 +85,20 @@ PSB105	strategia
 PSB104	beh e per beh gli hai chiesto effettivamente detto così come me l'hai detto tu gli v gli hai chiesto proprio gli hai chiesto proprio che volevi dell'acqua
 PSB104	perché se no eh dovevi chiedere
 PSB105	sì
-PSB104	je peux aller à la toilette (.) où se trouve la toilette
+PSB104	#_ je peux aller à la toilette (.) où se trouve la toilette
 PSB105	sì ma dovevo comprare qualcosa per per poter usare
 PSB105	no
 PSB104	beh non necessariamente cioè sì è buon uso in realtà
 PSB104	però non è necessario sì
-PSB105	è che sembra un ristorante fancy
+PSB105	è che sembra un ristorante #fancy
 PSB104	ah okay okay okay sì
 PSB105	quindi
 PSB104	okay sì ci sta allora
 PSB104	mh ma quando ti ha portato dove siete stati in francia
-PSB105	eh palmarès cioè è una zona mh era una parte di catalán
+PSB105	eh palmarès cioè è una zona mh era una parte di #catalán
 PSB105	quindi ce ce l'ha due due tipo di bandiere
 PSB104	mhmh
-PSB105	una di catalán una di francia
+PSB105	una di #catalán una di francia
 PSB105	quindi pensavo che almeno parlano spagnolo
 PSB104	ah mh sì beh sì in effetti
 PSB104	invece no
@@ -108,13 +108,13 @@ PSB104	sì
 PSB105	perché era una colonia di italia
 PSB104	ah
 PSB105	impero romano
-PSB105	dicono piovere invece di ll~ llueve
+PSB105	dicono piovere invece di #ll~ #llueve
 PSB104	ah davvero
 PSB105	mhmh sì
 PSB104	eh allora sì forse per un italofono è più facile andare lì
 PSB105	sì sì sì
-PSB105	però c'è s sta arenga con i catalani
-PSB105	perché sono tacaños de mierda
+PSB105	però c'è s sta #arenga con i catalani
+PSB105	perché sono #tacaños #de #mierda
 PSB105	cioè sono avari
 PSB104	sì sì sì sì sì sì sì sì
 PSB105	mhmh mh
@@ -122,7 +122,7 @@ PSB105	cioè ogni volta quando c'è appena finito di mangiare qualcosa tipo cola
 PSB105	ha già tirato fuori oh
 PSB105	carino
 PSB105	ho calpestato no
-PSB104	no porino
+PSB104	no #porino
 PSB105	cioè ha già tirato eh il suo portafoglio
 PSB104	mhmh
 PSB105	e mi mi chiede ma paghi tu o pago io
@@ -142,10 +142,10 @@ PSB104	mh
 PSB105	è pure dieci volte diec dieci anni più grande di me
 PSB104	sì mh
 PSB104	ah
-PSB104	no amo no cioè tu devi trovarti lo sugar daddy non che tu diventi la sugar mommy se no non va mica bene cioè no no no
+PSB104	no amo no cioè tu devi trovarti lo #sugar #daddy non che tu diventi la #sugar #mommy se no non va mica bene cioè no no no
 PSB104	no qua bisogna arricchirsi non impoverirsi
 PSB105	sì sì sì
-PSB105	eh se no non è bravo in eh en la cama non non lo sceglierei
+PSB105	eh se no non è bravo in eh #en la #cama non non lo sceglierei
 PSB104	allora devo essere personalmente onesta
 PSB104	io a valutare una relazione con una con un con un uomo una donna eccetera la parte sessuale per me è importante
 PSB105	mhmh
@@ -177,7 +177,7 @@ PSB104	allora in realtà te lo dico onestamente la tua vita è tipo un film
 PSB104	si dovrebbe fare una sorta di serie ti vù
 PSB105	federico gherini
 PSB105	ho appena studiato
-PSB104	ma tu dovresti dire a che la tesi la vuoi fare sul come si apprendono le lingue by
+PSB104	ma tu dovresti dire a che la tesi la vuoi fare sul come si apprendono le lingue #by
 PSB105	mh
 PSB104	fase uno trovati
 PSB104	trovati un uomo
@@ -215,26 +215,26 @@ PSB105	cioè
 PSB105	ehm
 PSB105	il prof ci chiedeva di eh inventare delle conversazione
 PSB105	conversazione tra due ragazze
-PSB105	cioè in diverse situazione scenario per fare simulazione no
+PSB105	cioè in diverse situazione #scenario per fare simulazione no
 PSB105	e poi cioè
-PSB105	quando volevo dice excited
+PSB105	quando volevo dice #excited
 PSB104	mhmh
 PSB105	in inglese
 PSB105	dicevamo sempre eccitata e poi il professore no eh n~ n~ non quel tipo di eccitazione
 PSB104	mh
 PSB104	ma sai che è abbastanza mh comune come come errore nel senso che effettivamente cioè
-PSB104	eh anche passando dall'inglese excited cioè viene usato no per dire
+PSB104	eh anche passando dall'inglese #excited cioè viene usato no per dire
 PSB105	mhmh
 PSB104	cioè sono felice no non è proprio
 PSB105	mhmhmh
-PSB104	eccita~ cioè eccitato da noi lo horny
+PSB104	eccita~ cioè eccitato da noi lo #horny
 PSB105	sì sì
 PSB104	e quindi cioè molto è una gaffe molto brutta
-PSB104	cioè se effettivamente se tipo anche in francese se tu dici excité
-PSB104	cioè excité è come cioè
+PSB104	cioè se effettivamente se tipo anche in francese se tu dici #excité
+PSB104	cioè #excité è come cioè
 PSB105	ah sì sì
-PSB104	è horny
-PSB105	cachonda
+PSB104	è #horny
+PSB105	#_ cachonda
 PSB104	eh
 PSB104	sai che io lo spagnolo a me dispiace perché oggi ragionavo e io ho fatto cinque anni perché l'ho fatto alle superiori
 PSB105	ahah
@@ -252,7 +252,7 @@ PSB104	ero brava ero brava cioè onestamente
 PSB105	ti adoro
 PSB104	onestamente a me lo spagnolo era una delle lingue che mi piaceva di più però arrivato ad un certo punto quando entri
 PSB104	in univers~
-PSB105	tipo non è più cachonda
+PSB105	tipo non è più #cachonda
 PSB104	quando entri in università devi fare una scelta
 PSB104	perché è ovvio che tre lingue non le puoi portare avan~ cioè poi io volevo provare a studiare cinese
 PSB105	eh
@@ -285,7 +285,7 @@ PSB104	cioè quelli che mi dicevi che avevi a pisa
 PSB105	ah sì sì li ho lasciato tutti perché
 PSB104	ah
 PSB104	tutti
-PSB105	perché cioè non accettano il open relationship
+PSB105	perché cioè non accettano il #open #relationship
 PSB104	ah non è non è x
 PSB105	mh
 PSB104	sì no ma non è così strano tipo ad esempio con stavamo dicendo
@@ -341,7 +341,7 @@ PSB105	cioè alla fine
 PSB104	costano
 PSB105	e avevo tanto stress quindi la mamma mi ha portato mi ha portata
 PSB105	a pechino per trovare quelli psicologi bravi
-PSB105	e poi mi dicono che ho antisocial disorder
+PSB105	e poi mi dicono che ho #antisocial #disorder
 PSB105	cioè non sento i sentimenti e poi volevo uccidere sempre le persone
 PSB105	cioè studiavo me emh tipo medicina chimica e biologia qualcosa del genere
 PSB105	quindi avevo interessi
@@ -399,7 +399,7 @@ PSB105	pensavo sempre che s~ fosse il destino
 PSB105	perché prima di fare l'esame di maturità
 PSB105	cioè
 PSB105	c'era una mia amica cioè sua mamma ha dato luce alla sua s~ prima sorella quel giorno proprio
-PSB105	e poi il suo cognome è e mi ha chiesto se posso dare un nome a questa bambina cioè un un nome più fancy sai
+PSB105	e poi il suo cognome è e mi ha chiesto se posso dare un nome a questa bambina cioè un un nome più #fancy sai
 PSB105	e poi
 PSB105	prima di entrare l'aula per fare esame
 PSB105	ho detto perché non non chiamarla
@@ -472,7 +472,7 @@ PSB104	avevo il doppio
 PSB104	titolo
 PSB104	cioè io sì eh io ho mh ho preso la maturità italiana
 PSB105	mh
-PSB104	e la maturità francese che sarebbe il baccalauréat
+PSB104	e la maturità francese che sarebbe il #baccalauréat
 PSB105	sei bravissima sto parlando co~ con una secchiona
 PSB104	eh c'ho
 PSB104	io lo dico sempre
@@ -633,7 +633,7 @@ PSB105	in cina
 PSB104	in cina esiste
 PSB105	sì sì
 PSB105	eheh
-PSB105	siamo cachondi
+PSB105	siamo #cachondi
 PSB104	no eh
 PSB104	triste perché nel senso mh
 PSB104	cioè lì va bene essere uomo etero
@@ -642,8 +642,8 @@ PSB104	fine
 PSB104	del resto le donne picchiate i bambini traumatizzati
 PSB105	eh
 PSB105	ecco perché ho il dis~
-PSB105	eh dis- -order
-PSB105	antisocial
+PSB105	eh #dis- -order
+PSB105	#_ antisocial
 PSB105	perché secondo me non è che io sono malata è che la società è malata
 PSB104	ah beh sì sì sì sì sì cioè alla fine se
 PSB104	ehm un bambino viene constantemente picchiato in questo modo se ha un qualsiasi tipo di reazione che non è conforme a quelle che vuole qualcuno
@@ -727,7 +727,7 @@ PSB104	ah
 PSB105	e poi io sapevo che quella professoressa era violenta quindi
 PSB105	eh le ho detto che eh hanno finiti tutti
 PSB105	quindi poi lei non non si fida quindi ha controllato di nuovo
-PSB105	e ha scoperto che era una mentira
+PSB105	e ha scoperto che era una #mentira
 PSB105	quindi mi ha
 PSB105	mh non mi ricordo quanti schiaffi mi ha dato
 PSB105	e poi mi ha chiesto di disegnare venti vo~
@@ -932,7 +932,7 @@ PSB105	poi le donne
 PSB105	protestavamo
 PSB105	su internet
 PSB105	e poi è stato bandito censurato proprio
-PSB104	ah tipo movimento me too
+PSB104	ah tipo movimento #me #too
 PSB105	ah sì
 PSB104	alla ci~ alla cinese
 PSB105	sì sì
@@ -1037,7 +1037,7 @@ PSB104	cioè che la chiamano alle otto di sera
 PSB104	ah no mio figlio ah no mio figlio cioè
 PSB105	x xx così
 PSB104	là in cina
-PSB104	là in cina li li picchiano che sembrano dei punching ball praticamente dei sacchi da box
+PSB104	là in cina li li picchiano che sembrano dei #punching #ball praticamente dei sacchi da box
 PSB104	e qua invece oh no ma mio figlio ha preso quattro è colpa della maestra
 PSB105	anche in cina è così
 PSB104	anche in cina è così
@@ -1223,10 +1223,10 @@ PSB105	e poi
 PSB105	ma non sono riuscita
 PSB104	eh no amo meno male perché
 PSB104	sai com'è se no saresti un po' in manette
-PSB105	in spagnolo è esposas
-PSB104	esposas sì
+PSB105	in spagnolo è #esposas
+PSB104	#esposas sì
 PSB104	è vero
-PSB105	e esposa è moglie
+PSB105	e #esposa è moglie
 PSB104	sì sì sì sì sì sì lo sapevo faceva un sacco ridere
 PSB104	sì sì sì sì
 PSB104	eh era una di quelle cose particolari eh del della lingua
@@ -1353,10 +1353,10 @@ PSB104	eh mh
 PSB104	carriera quindi ad esempio non so avere gli stessi titoli di studio e av~ a~ mh
 PSB104	avendo come ambizione la stessa posizione di lavoro
 PSB104	okay
-PSB105	glass ceiling ((ride))
+PSB105	#_ glass ceiling ((ride))
 PSB104	e
 PSB104	mh
-PSB105	glass (.) ceiling
+PSB105	#_ glass (.) ceiling
 PSB104	il eh il eh il eh
 PSB104	come si dice
 PSB104	il soffitto a ve~
@@ -1365,20 +1365,20 @@ PSB104	che cosa sin~ cosa centra
 PSB105	cioè mh guadagnano meno dei uomini
 PSB105	rispetto ai uomini
 PSB104	sì
-PSB104	non ho capito cosa centra col glass ceiling
+PSB104	non ho capito cosa centra col #glass #ceiling
 PSB105	è questo concetto no
 PSB104	ah si chiama così
 PSB105	sì
 PSB104	no mai senti~
 PSB105	cioè le donne guadagnano meglio
-PSB104	no secondo me intende il gap
-PSB105	cap
-PSB104	gap
-PSB104	di solito si parla di gender gap
+PSB104	no secondo me intende il #gap
+PSB105	#_ cap
+PSB104	#_ gap
+PSB104	di solito si parla di #gender #gap
 PSB105	no
-PSB104	di solito si va s~ di solito si parla di gender gap nel senso che
-PSB104	gap eh lo spazio no
-PSB104	gap in in inglese
+PSB104	di solito si va s~ di solito si parla di #gender #gap nel senso che
+PSB104	#gap eh lo spazio no
+PSB104	#gap in in inglese
 PSB105	mh ma se m~ cioè mh
 PSB105	ehm
 PSB105	come se ci fosse un ehm soffitto di vetro
@@ -1390,7 +1390,7 @@ PSB104	sai che non lo sapevo proprio questa cosa cioè non sapevo proprio quest'
 PSB104	x
 PSB104	beh mh nuove informazioni oggi
 PSB104	no io sempre
-PSB104	sempre lo chiamano spesso gender gap nel senso che
+PSB104	sempre lo chiamano spesso #gender #gap nel senso che
 PSB105	ah
 PSB104	eh cioè una distinzione nella mh
 PSB105	mhmh
@@ -1402,7 +1402,7 @@ PSB104	di essere arrivati a considerare delle donne e non tutte perché comunque
 PSB105	mhmh
 PSB104	eh
 PSB104	non degli oggetti da poter picchiare quando vuoi perché ti va
-PSB104	cioè non mi sembra un gran achievement
+PSB104	cioè non mi sembra un gran #achievement
 PSB104	cioè non mi sembra un successo cioè ah quando s~ quando ci si ehm congratula
 PSB104	per questo successo
 PSB104	cioè io son contenta che ci sia stato ma
@@ -1411,7 +1411,7 @@ PSB104	è come dire ehm che bello che ah abbiamo smesso di trattare un essere um
 PSB105	mh
 PSB104	beh bello bravo c~ n~ potevamo arrivarci anche prima
 PSB105	ma in italia avete cioè questa preferenza per la stesso
-PSB105	per eh il gender dei bambini
+PSB105	per eh il #gender dei bambini
 PSB104	per i maschi
 PSB105	mhmh
 PSB104	un po' al sud c'è
@@ -1555,7 +1555,7 @@ PSB105	sì
 PSB105	come mia zia è così perché suo marito l~
 PSB105	la picchiava sempre quindi ha deciso di divorziarsi
 PSB105	ma a quel tempo eh non c'è bisogno di consenso perché va bene
-PSB104	eh quindi i mean
+PSB104	eh quindi #i #mean
 PSB104	terribile
 PSB105	cioè
 PSB105	i genitori cinesi che vogliono i figli che fanno i figli perché

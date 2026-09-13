@@ -1444,7 +1444,7 @@ PSB013	anche tanti:
 PSB013	°come posso dire°
 PSB013	quelle: m:h
 PSB013	°mh come si chiama?°
-PSB013	#homeless
+PSB013	#_ #homeless
 PSB005	sì ho capito
 PSB005	barboni
 PSB013	sì barbo[ni]

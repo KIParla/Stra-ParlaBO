@@ -422,7 +422,7 @@ PSB017	in francia devi andare per studiare università o altre cose
 PSB017	in germania è lo stesso
 PSB017	per andare in germania devi avere un un cer~ certificato attestazione
 PSB005	mhmh
-PSB017	duc come si chiama duc
+PSB017	#duc come si chiama #duc
 PSB016	sì ma non c'entra
 PSB017	no
 PSB017	per me è questo
@@ -583,7 +583,7 @@ PSB017	per venire in italia
 PSB017	ma io nel mia mente non volevo venire qua per vivere vent'anni volevo venire
 PSB017	per migliorare il mio livello
 PSB017	perché dico
-PSB017	vado in italia lavoro due anni in una fabbrica di confection di textile non so okay
+PSB017	vado in italia lavoro due anni in una fabbrica di #confection di #textile non so okay
 PSB017	im~
 PSB017	io vole~ ero già bravo a fare questo mestiere okay tecnico però
 PSB017	se vieni a lavorare in europa okay due anni torno al paese
@@ -602,7 +602,7 @@ PSB017	andavo con le idee li certificato il diplom~
 PSB017	e che ci avevo una raccolta tutta in francese
 PSB017	qua dicono no in francese non vale okay
 PSB017	okay
-PSB017	non vale questa lingua quindi devi fare traduction in lingua italiana
+PSB017	non vale questa lingua quindi devi fare #traduction in lingua italiana
 PSB017	io sono da solo
 PSB017	devo vivere
 PSB017	devo cercare soldi per pagare l'affitto mangiare quindi non ho tempo per
@@ -746,11 +746,11 @@ PSB005	e con i bengalesi parlavate italiano
 PSB017	lui deve per forza sì parla con il co~ con il
 PSB017	mh
 PSB017	con la me~ italiano sai co~ come si dice la
-PSB017	b-ṭalyāniyya bḥāl kat-gūl ṭalyāniyya dyāl wālu
-PSB016	ṭalyāniyya
+PSB017	#_ b-ṭalyāniyya bḥāl kat-gūl ṭalyāniyya dyāl wālu
+PSB016	#_ ṭalyāniyya
 PSB017	ah
-PSB016	b-ṭalyān?
-PSB017	y-hdar però non
+PSB016	#_ b-ṭalyān?
+PSB017	#y-hdar però non
 PSB016	non parlano bene italiano non non
 PSB017	lui non parla bene italiano ma io eh mio primo mese
 PSB005	mhmh
@@ -1032,7 +1032,7 @@ PSB005	sì sì
 PSB005	mhmh
 PSB017	tecnico di macchine di cucire robot
 PSB005	sì sì
-PSB017	tutte le macchine di textile lo aggiustavo dentro eh
+PSB017	tutte le macchine di #textile lo aggiustavo dentro eh
 PSB017	quindi guadagnavo
 PSB017	quando
 PSB017	è chiusa l'azienda
@@ -1066,7 +1066,7 @@ PSB017	okay un italiano che è stato in america ha lavorato una fabbrica il suo 
 PSB017	vali più sì
 PSB017	non so se avete quest~
 PSB005	sì sì sicuramente sì sì
-PSB017	è la stessa cosa però quando sono venuto ho trova~ ho trovato le le le les obstacles le osta~
+PSB017	è la stessa cosa però quando sono venuto ho trova~ ho trovato le le le #les #obstacles le osta~
 PSB005	sì sì
 PSB005	certo gli ostacoli un po' sì
 PSB017	okay
@@ -1338,10 +1338,10 @@ PSB017	no mi devi lasciare stare
 PSB005	no
 PSB016	cosa
 PSB005	lasciamo stare
-PSB017	gul li-ha dir dir intervento
-PSB017	per via dyāl hādāk corso il percorso di lli kat-qra hiyya
+PSB017	#gul #li-ha #dir #dir intervento
+PSB017	per via #dyāl #hādāk corso il percorso di #lli #kat-qra #hiyya
 PSB016	eh
-PSB017	ma-dī-sh y-xallū-ha t-njāh fī-h
+PSB017	#_ ma-dī-sh y-xallū-ha t-njāh fī-h
 PSB016	perché
 PSB017	xxx de prossima volta sbagliato no
 PSB016	no
@@ -1523,13 +1523,13 @@ PSB017	posso dire perso
 PSB017	un po' di
 PSB017	di non di verbi di
 PSB005	di parole
-PSB017	eh conjugaison
+PSB017	#_ eh conjugaison
 PSB016	ehm
 PSB016	la grammatica
 PSB017	non la gram~
 PSB005	mhmh
 PSB016	no la mh
-PSB017	la conjugaison
+PSB017	#_ la conjugaison
 PSB005	la congiu~ la coniugazione
 PSB017	bravo
 PSB005	la coniugazione sì sì
@@ -1555,7 +1555,7 @@ PSB005	okay
 PSB017	l'estate parto sempre l'estate
 PSB017	quindi questa volta sono al terzo anno
 PSB005	che non vai
-PSB017	che non sono andato ma s~ s~ sto guarda poi inshāllāh se vuole dio vado a
+PSB017	che non sono andato ma s~ s~ sto guarda poi #inshāllāh se vuole dio vado a
 PSB005	mhmh
 PSB017	quest'anno ho deciso di andare a luglio
 PSB005	eh a luglio okay
@@ -1567,16 +1567,16 @@ PSB005	è fa~ cioè famosa la cono~ cioè l'ho sentita non ci sono stata
 PSB017	è la capitale
 PSB005	sì sì
 PSB005	che poi è sul mare giusto
-PSB017	sì eh l'atl~ atlantique
+PSB017	sì eh l'atl~ #atlantique
 PSB005	mhmh
 PSB005	eh
-PSB017	nell'atlantique
+PSB017	nell'#atlantique
 PSB005	hai viaggiato anche in marocco cioè conosci anche bene il marocco
 PSB017	sì
 PSB017	il nord eh
 PSB005	mhmh
 PSB017	cento perce~ tutti le città di nord
-PSB017	poi le l-gharb shnū huwa l'e est no l'ues~ cioè l'ouest
+PSB017	poi le #l-gharb #shnū #huwa l'e est no l'ues~ cioè #l'ouest
 PSB005	mhmh
 PSB017	l'ovest
 PSB005	mhmh
@@ -1637,14 +1637,14 @@ PSB016	e che
 PSB005	italiano e
 PSB016	si ma perché introduce xxx
 PSB016	eh
-PSB016	domani ghādīn n-mshīw
+PSB016	domani #ghādīn #n-mshīw
 PSB017	eh
 PSB016	allora senza dire do~
 PSB017	domani a che ora andiamo
 PSB017	eh sì
 PSB016	sempre quasi così
 PSB005	sì sì sì eh ma è tipico sì
-PSB016	xxx ghan
+PSB016	#_ xxx ghan
 PSB016	eh domani a che ora andiamo
 PSB005	mhmh
 PSB016	magari quella domani ti viene in automatico
@@ -1688,7 +1688,7 @@ PSB016	di ramadan
 PSB016	eh sì
 PSB016	sì la maggioranza
 PSB017	da quando diventano adulti
-PSB017	shnū gālǝt hiyya f-waqāsh kay-bdāw y-sūmu
+PSB017	#_ shnū gālǝt hiyya f-waqāsh kay-bdāw y-sūmu
 PSB016	sì
 PSB016	no ha detto ha de~ eh
 PSB017	ah
@@ -1973,9 +1973,9 @@ PSB016	è la stessa
 PSB016	tipo
 PSB016	eh se prendiamo
 PSB016	eh
-PSB016	mi'a
-PSB016	magari qua si di~ miyya
-PSB016	hiya . ma'a (.) miyya
+PSB016	#_ mi'a
+PSB016	magari qua si di~ #miyya
+PSB016	#_ hiya (.) ma'a (.) miyya
 PSB005	mhmh
 PSB016	ma
 PSB016	ma sempre la stessa però non riesci se non se io siccome guardo il film eh e cose sono aperto alla loro cultura

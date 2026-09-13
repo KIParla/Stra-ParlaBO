@@ -346,23 +346,23 @@ PSB129	per cui tutti i presidenti ((ride))
 PSB129	si chia[mano come i matterelli]
 PSB091	[chi dice: #skalka]
 PSB091	chi dice: #kačalka
-PSB091	skalka
-PSB127	skalka
-PSB005	#skalka
-PSB129	#skalka
+PSB091	#_ skalka
+PSB127	#_ skalka
+PSB005	#_ #skalka
+PSB129	#_ #skalka
 PSB005	e:hm:
-PSB128	a u nas šče kažut' skatilka
+PSB128	#_ a u nas šče kažut' skatilka
 PSB086	ecco ecco taglio
 PSB091	in dialetto mio xxx
 PSB128	comunque #ja #zabula #jak #u #nas #nazyvajut'
 PSB005	okay
 PSB005	allora prendo prendo
-PSB128	ja zabula jak nazyvajet'sja
-PSB086	kačalka
+PSB128	#_ ja zabula jak nazyvajet'sja
+PSB086	#_ kačalka
 PSB005	ah è la farina
-PSB091	kačalka kačalka
+PSB091	#_ kačalka kačalka
 PSB036	farina
-PSB128	kačalka kačalka
+PSB128	#_ kačalka kačalka
 PSB036	[farina prima] [saltata]
 PSB086	[le nonne cambiava]no accento eh
 PSB129	((ride))
@@ -507,7 +507,7 @@ PSB005	[sì (.) ma anche]
 PSB005	c(io)è la pasta in generale è veramente difficile da fare ed è un grosso ostacolo perché ((ride))
 PSB128	è ve:ro
 PSB005	°non si possono fare senza pasta >sai com'[è]<°
-PSB128	[a] u vas chtos' robyt' e:hm vuška? xxx vuška
+PSB128	#_ [a] u vas chtos' robyt' e:hm vuška? xxx vuška
 PSB086	non per niente: trenta quaranta euro al chi[lo]
 PSB005	[eh no] in[fatti sì]
 PSB036	[xx]
@@ -531,10 +531,10 @@ PSB036	ne sto mettendo troppo?
 PSB086	tira tira la pasta vedi tu con il dito sping[e: spinge: impas]to e ques~ (.) tira:
 PSB130	[a me sta già venendo fame xx]
 PSB086	importante è chiudere di mezzo così insegnano le nonne dopo ci vai attorno
-PSB127	ščo klala vaša znajoma?
-PSB127	ščos' bulo ja ne zapamjatala
-PSB091	ja tam ne bula
-PSB127	[a ty tam ne bula?]
+PSB127	#_ ščo klala vaša znajoma?
+PSB127	#_ ščos' bulo ja ne zapamjatala
+PSB091	#_ ja tam ne bula
+PSB127	#_ [a ty tam ne bula?]
 PSB086	[e questi] (.) e queste: cinesi: ravioli cinesi come: sempre (.) farina e acqua immagino [cosa] mettono altro nien[te]
 PSB005	[sì]
 PSB005	[nie]nte farina e acqua e: e poi avevamo una: mh
@@ -575,8 +575,8 @@ PSB036	((ride))
 PSB086	con le patate
 PSB130	sì
 PSB130	glielo dico
-PSB091	ščo ty chočeš? (ravlykiv) tobi brakuje? ty meni skažy
-PSB127	a ce ščo teper marсypany сe bljudo?
+PSB091	#_ ščo ty chočeš? (ravlykiv) tobi brakuje? ty meni skažy
+PSB127	#_ a ce ščo teper marсypany сe bljudo?
 PSB086	mi piacciono molto di più queste come quelle con ricotta
 PSB086	e poi e:h [forse] sapete già che si mangia con la panna?
 PSB129	[e quindi]
@@ -994,7 +994,7 @@ PSB127	tante volte a: l'inverno:
 PSB005	ok[ay]
 PSB127	[e:]h a:h
 PSB127	>come si dice< a
-PSB127	yizdyly v mynulomu chasi yak to bude?
+PSB127	#_ yizdyly v mynulomu chasi yak to bude?
 PSB086	siete andati?
 PSB127	sì
 PSB127	siamo an[dat]i
@@ -1143,7 +1143,7 @@ PSB129	[un'altra (.) un altro termine]
 PSB086	come come[: (.) di sicilia]
 PSB129	[ho detto <#balocca>]
 PSB005	sì [sì sì]
-PSB129	[#balo]cca
+PSB129	#_ [#balo]cca
 PSB130	[tipo (.) una palla fatta male] eh sì
 PSB086	[palermo (.) palermo]
 PSB005	no ma lei ha
@@ -1258,8 +1258,8 @@ PSB091	quelli più brutti
 PSB129	va bene
 PSB091	vai
 PSB129	vado
-PSB128	ja pereprošuju ty vodu solyla?
-PSB091	solyla
+PSB128	#_ ja pereprošuju ty vodu solyla?
+PSB091	#_ solyla
 PSB091	mettiamo anche queste farfalline
 PSB130	possiamo prendere quel x quelli bru[tti]?
 PSB091	[sì]
@@ -1460,10 +1460,10 @@ PSB036	[mhmhmh]
 PSB129	quello tipo:
 PSB128	somiglia (.) somiglia tipo
 PSB086	°x cosa? parlate xxx?°
-PSB129	#cottage [#cheese]
+PSB129	#_ #cottage [#cheese]
 PSB005	ah lo yo[cca]
 PSB129	tipo ricotta
-PSB091	tvoroh xx
+PSB091	#_ tvoroh xx
 PSB128	però a max market
 PSB005	a:h sì
 PSB128	su piazzetta xxx
@@ -1514,7 +1514,7 @@ PSB129	a:h (.) uve[tta]
 PSB005	uvetta
 PSB128	ma (.) #syrnyky #syrnyky
 PSB091	ah
-PSB091	syrnyky
+PSB091	#_ syrnyky
 PSB091	frittelle di ricotta sì buone [°mamma mia°]
 PSB129	[buone]
 PSB130	[eh] quelle son buone sì
@@ -1528,7 +1528,7 @@ PSB128	[ogni ma~]
 PSB129	[wo]:w
 PSB128	((ride))
 PSB129	a:h
-PSB127	varenyky vže?
+PSB127	#_ varenyky vže?
 PSB091	ah (.) nessuno ci ha pensato dove buttiamo
 PSB091	dov'è quella verde: pulita?
 PSB128	sì #a #nu #na #poprobuj
@@ -1538,7 +1538,7 @@ PSB127	no
 PSB091	xxx
 PSB091	questa è pulita
 PSB127	sì
-PSB091	poprob[uj]
+PSB091	#_ poprob[uj]
 PSB129	[beh] io finisco di stendere
 PSB130	ma <però secondo me> (.) xx quant'è xxx di persone?
 PSB005	°no°
@@ -1562,10 +1562,10 @@ PSB005	no xx dire vedremo se vediamo se
 PSB005	qualcosa
 PSB130	ah sì se vuoi iniziare a fare firmare
 PSB130	xx documenti
-PSB127	xxx
+PSB127	#_ xxx
 PSB130	inizia a far firmare
-PSB127	xx
-PSB127	xx
+PSB127	#_ xx
+PSB127	#_ xx
 PSB005	°sì quello è il mio pensiero che°
 PSB005	che (.) ci vuole uno adesso che si mette lì (.) con la santa pazienza per dieci ore
 PSB005	ascolta le cose se le taglia (.) vediamo chi [lo fa]
@@ -1610,7 +1610,7 @@ PSB005	come facciamo a organizzar[ci]?
 PSB130	[ma] io non suono più da un botto
 PSB005	beh ho [capito vabbè]
 PSB130	[dovrei un po' ripre]ndere: xx
-PSB127	xx de ty kazala stekljani stakančyky
+PSB127	#_ xx de ty kazala stekljani stakančyky
 PSB129	cosa suoni?
 PSB130	io ho studiato percussioni [classiche]
 PSB005	[capito? c(io)è] ((ride))

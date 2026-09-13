@@ -23,10 +23,10 @@ PSB066	un anno quasi un anno
 PSB065	sì sì quasi un anno quasi un anno
 PSB005	okay e chi l'idea di chi è stata
 PSB066	eh non è una idea c'è una
-PSB066	smīyt-ha l-jamʕiyya
+PSB066	#_ smīyt-ha l-jamʕiyya
 PSB066	una mh
 PSB065	universi- ah no
-PSB066	come dici jamʕiyya forse
+PSB066	come dici #jamʕiyya forse
 PSB005	beh vabbè va bene
 PSB065	sì sì anch'io non lo so
 PSB066	associa- sì un'associ- un
@@ -227,7 +227,7 @@ PSB005	per motivi religiosi magari i loro figli a studiare arabo no
 PSB066	no
 PSB065	no no
 PSB005	ah
-PSB065	loro studia l-qurʔān ma nel curdo
+PSB065	loro studia #l-qurʔān ma nel curdo
 PSB066	in curdo sì
 PSB065	ehm non lo so come si chiama l'altra
 PSB066	mh xxxx
@@ -318,7 +318,7 @@ PSB065	dialetto
 PSB066	diale-
 PSB065	ma dialetto ara- eh marocchino un po' difficile
 PSB005	mh
-PSB066	eh arabo il fuṣḥā si chiama l-fuṣḥā
+PSB066	eh arabo il #fuṣḥā si chiama #l-fuṣḥā
 PSB065	sì
 PSB065	mh
 PSB066	un po' f- facile non è
@@ -355,7 +355,7 @@ PSB005	okay
 PSB066	no mie figlie non sono nate
 PSB066	adesso ven- una ventitré anni l'altra ventiquattro anni e un bimbo di c- quindici anni
 PSB065	shāʔa ḷḷāh
-PSB065	mā shāʔa ḷḷāh
+PSB065	#_ mā shāʔa ḷḷāh
 PSB065	sì
 PSB005	e
 PSB066	sì
@@ -629,23 +629,23 @@ PSB065	sì
 PSB065	no anch'io vado con mio marito nel castello quello con cla xx xxxx
 PSB066	se
 PSB066	sì castello
-???	xx
+???	#_ xx
 PSB005	prego nessun problema
 PSB066	sì
 PSB005	mi stava raccontando scxx
-PSB065	yāk-ma d-drāri ka-ydīru shi ḥāja
-PSB065	l-yūma gha-ttqtənni
-???	xxx
-???	xx
-PSB066	sì sīri
-PSB065	xx nārī a-xti ḍārra-h ḍ-ḍaṛṣa gha-nəddi-h ʕand ṭ-ṭbīb ḥshūma
-???	xx
+PSB065	#_ yāk-ma d-drāri ka-ydīru shi ḥāja
+PSB065	#_ l-yūma gha-ttqtənni
+???	#_ xxx
+???	#_ xx
+PSB066	sì #sīri
+PSB065	#_ xx nārī a-xti ḍārra-h ḍ-ḍaṛṣa gha-nəddi-h ʕand ṭ-ṭbīb ḥshūma
+???	#_ xx
 PSB066	ma-taʕṭā-sh lī-h
 PSB065	ah
-???	xx
-PSB066	a-sīri a-sīri
-PSB065	wāh a-xti ṛā-h . a-sīri a-sīri
-PSB066	sīri
+???	#_ xx
+PSB066	#_ a-sīri a-sīri
+PSB065	#_ wāh a-xti ṛā-h (.) a-sīri a-sīri
+PSB066	#_ sīri
 PSB066	xxx
 PSB005	io sono contenta se vi piace bologna
 PSB065	ah sì
@@ -876,12 +876,12 @@ PSB005	okay
 PSB005	eh non ci sono stata però di nome sì
 PSB066	casablanca sì sì
 PSB005	e tu
-PSB065	eh io una un villaggio vicino di casablanca bən aḥməd
-PSB066	bən- ah mzābiyya
+PSB065	eh io una un villaggio vicino di casablanca #bən #aḥməd
+PSB066	#bən- ah #mzābiyya
 PSB065	sì
-PSB065	sì mzābiyya
+PSB065	sì #mzābiyya
 PSB066	ah ūlād ḥməd xti brava
-PSB065	mzābiyya
+PSB065	#_ mzābiyya
 PSB066	a rājəl xti mzābī occhei
 PSB065	okay
 PSB066	è vicino da noi sì
@@ -895,22 +895,22 @@ PSB005	mhmh
 PSB005	sì sì sì
 PSB065	quelli villaggio un pochino diversi
 PSB005	mhmh
-PSB066	sì mmh mmh xx
-PSB065	ma mhm eh ka-tkūn mmh kunna mmh
+PSB066	sì mhmh mmh xx
+PSB065	ma mhmh eh #ka-tkūn mhmh #kunna mhmh
 PSB066	sì
 PSB065	come si chiama
 PSB066	āsh-ən-hīya in arabo
 PSB065	ehm
-PSB065	bāsh (.) mātālān
+PSB065	#_ bāsh (.) mātālān
 PSB065	emilia romagna ehm tutte un
 PSB005	le regione la regione
 PSB066	le regione sì
 PSB065	ah
 PSB066	sì
-PSB065	come#bən aḥməd in sṭṭāt
+PSB065	#_ come#bən aḥməd in sṭṭāt
 PSB066	sì
-PSB065	muhimm
-PSB066	ḥna kull-shi l-casablan- tābʕīn casablanca
+PSB065	#_ muhimm
+PSB066	#_ ḥna kull-shi l-casablan- tābʕīn casablanca
 PSB065	sì sì
 PSB065	sì
 PSB066	sì lei sì mh
@@ -944,11 +944,12 @@ PSB005	mhmh
 PSB066	c'è dei paese bellissima
 PSB065	se
 PSB005	sono stata
+PSB066	#_
 PSB005	sono stata a fès
 PSB066	fès fès
 PSB065	ah okay
 PSB066	è andata a fès eh
-PSB066	no fès è caldo c'è tanger c'è casablanca
+PSB066	no fès è caldo c'è #tanger c'è casablanca
 PSB065	rabat
 PSB066	ag- agadir
 PSB065	marrakech
@@ -975,7 +976,7 @@ PSB066	vicino
 PSB065	vicino al mare
 PSB066	sì c'è
 PSB065	eh
-PSB066	come si chiama sīdī rḥāl non mi ricordo
+PSB066	come si chiama #sīdī #rḥāl non mi ricordo
 PSB065	ah sì lo so
 PSB066	sì
 PSB065	sì è vero
@@ -985,13 +986,13 @@ PSB065	xx
 PSB065	sì
 PSB065	villaggio vicino di mare
 PSB066	sì
-PSB065	eh āna dāba ta-nʕīsh f-casablanca ḥīt ṛājli mən casablanca ma eh fīn
+PSB065	#_ eh āna dāba ta-nʕīsh f-casablanca ḥīt ṛājli mən casablanca ma eh fīn
 PSB066	ah
 PSB066	dov'è
-PSB065	jūḥara
-PSB066	jūḥara
-PSB065	qaṭʕa jūḥara di sīdī mūmən
-PSB066	ah sīdī mūmən ah sì sì
+PSB065	#_ jūḥara
+PSB066	#_ jūḥara
+PSB065	#_ qaṭʕa jūḥara di sīdī mūmən
+PSB066	ah #sīdī #mūmən ah sì sì
 PSB065	sì
 PSB066	adesso il suo marito casablanca
 PSB066	proprio di casablanca
@@ -1161,12 +1162,12 @@ PSB065	sì
 PSB065	ah
 PSB066	è stato
 PSB005	de- andare nella hammam
-PSB066	l-ḥammām ah ci
-PSB065	ah ḥammām ti piaci l-ḥammām
+PSB066	#l-ḥammām ah ci
+PSB065	ah #ḥammām ti piaci #l-ḥammām
 PSB005	tantissimo tantissimo
 PSB065	ah
-PSB066	sei andata in ḥammām turco no
-PSB065	ḥammām marocchino o quello turco
+PSB066	sei andata in #ḥammām turco no
+PSB065	#ḥammām marocchino o quello turco
 PSB066	marocchino o turco
 PSB066	c'è turco e marocchino
 PSB005	sono andata e
@@ -1192,7 +1193,7 @@ PSB005	eh non lo so s- non lo so che cos era uno non era per turisti era normale
 PSB065	sì
 PSB066	ah sì marocchino sì sì sì eh
 PSB065	sì marocchino
-PSB065	sì molto bello il ḥammām ti senti mh felice quando xx quando sì
+PSB065	sì molto bello il #ḥammām ti senti mh felice quando xx quando sì
 PSB005	sì sì
 PSB066	leggera quando si finisce ti senti leggera
 PSB005	bellissimo mi è mi è piaciuto moltissimo
@@ -1201,15 +1202,15 @@ PSB066	figli sì
 PSB065	con i bambini sì sì
 PSB005	poi c'erano queste ragazze con questi capelli lunghi bellissimi capelli bellissimi
 PSB065	ah
-PSB065	poi questo è ḥammām in a fès
+PSB065	poi questo è #ḥammām in a fès
 PSB005	e a chefchaouen
 PSB065	ah chefchaouen molto bello chefchaouen
-PSB066	shəfshāwən ah bellissimo shəfshāwən
+PSB066	#shəfshāwən ah bellissimo #shəfshāwən
 PSB005	la mia pronuncia scusate è xx
 PSB066	no no no brava chefchaouen chefchaouen è
 PSB065	no no no bravissima sei invece
 PSB005	sì perché siamo stati in fès quattro giorni poi abbiamo preso un pullman per andare a chefchaouen
-PSB066	a shəfshāwən sì
+PSB066	a #shəfshāwən sì
 PSB065	molto bello chefchaouen
 PSB005	sì sì molto bellissimo
 PSB066	sì sì
@@ -1229,7 +1230,7 @@ PSB005	sì
 PSB005	c'è una scuola non lo so come si chiama
 PSB066	università
 PSB005	no ma non è l'università è una scuola tipo privata un corso privato sì sì
-PSB066	lì università è l-qarawiyyin
+PSB066	lì università è #l-qarawiyyin
 PSB066	ah sì sì
 PSB065	ah okay
 PSB005	per un mese ci è andato due o tre volte
@@ -1287,14 +1288,14 @@ PSB066	sì
 PSB005	mhmh
 PSB066	brava
 PSB065	sì anche il mh carne con mh
-PSB065	ehm barqūq sì sì
-PSB066	barqūq con le prugne e mandorle sì buonissimo
+PSB065	ehm #barqūq sì sì
+PSB066	#barqūq con le prugne e mandorle sì buonissimo
 PSB065	sì
 PSB005	mhmh buono sì
 PSB065	mh pesci così
 PSB066	sì
 PSB065	mh
-PSB066	c'è pastilla non so
+PSB066	c'è #pastilla non so
 PSB065	sì sì
 PSB005	e i dolci
 PSB065	dolci sì c'è anche il dolci anche i dolci marocchini
@@ -1302,13 +1303,13 @@ PSB066	sì anche i dolci sì marocchini
 PSB066	tutti i marocchini fanno le dolci
 PSB065	sì
 PSB066	tutti i maro-
-PSB065	anche il a m- m- a mattina prendo quello msəmən əl-baghrīr come quello sì atāy
+PSB065	anche il a m- m- a mattina prendo quello #msəmən #əl-baghrīr come quello sì #atāy
 PSB066	come questo che ha parti
 PSB065	anch- xx tè o o caffè è è uguale
 PSB066	tè
 PSB065	allora mh
-PSB065	la cena fare il əl-ḥarīra
-PSB065	ti pia- eh hai mangiato è una zuppa di quelle che si chiama əl-ḥarīra
+PSB065	la cena fare il #əl-ḥarīra
+PSB065	ti pia- eh hai mangiato è una zuppa di quelle che si chiama #əl-ḥarīra
 PSB005	è una zuppa è una zuppa me la ricordo sì
 PSB066	zuppa è una zuppa
 PSB066	la zuppa rossa
@@ -1320,24 +1321,24 @@ PSB065	ehm
 PSB066	già assaggiata la
 PSB005	l'ho mangiata in marocco sì sì
 PSB066	ah okay il couscous hai preso
-PSB065	o quello il tajine
+PSB065	o quello il #tajine
 PSB066	no
 PSB065	non ti piace
-PSB005	ho assaggiato il tajine sì
-PSB065	hai mangiato il tajine
+PSB005	ho assaggiato il #tajine sì
+PSB065	hai mangiato il #tajine
 PSB005	anche un couscous ho assaggiato secondo me
 PSB065	sì
 PSB065	eh
 PSB005	poi ho questa zuppa e poi anche una mh tipo era una specie di torta
 PSB066	sì
-PSB066	eh pastilla
-PSB065	ah bəsṭīla brava
-PSB066	bəsṭīla
+PSB066	eh #pastilla
+PSB065	ah #bəsṭīla brava
+PSB066	#_ bəsṭīla
 PSB066	perché dentro ehm c'è
 PSB065	c'è carne cot- no pollo o pesce sì
 PSB066	sì sì sì sì sì sì sì sì sì mandorle
 PSB005	esatto sì
-PSB065	allora è bəsṭīla
+PSB065	allora è #bəsṭīla
 PSB066	c'è una zuccherata e l'altra sa- salata
 PSB005	credo salata mi ricordo
 PSB066	ah c'è il pesce salata è con il pesce xx sì
@@ -1346,16 +1347,16 @@ PSB005	eh mi è piaciuto tutto buonissimo sì
 PSB005	sì ma soprattutto i dolci per me i dolci sono sì sì sì
 PSB065	sì
 PSB066	dolci
-PSB065	e il tajine anche il tajine è molto buonissimi
+PSB065	e il #tajine anche il #tajine è molto buonissimi
 PSB005	ma è lungo da preparare
 PSB065	ah no fra un'ora
 PSB005	o no
-PSB066	è facile il tajine è facile
+PSB066	è facile il #tajine è facile
 PSB065	fra un'ora quasi un'ora
 PSB005	e allora
-PSB065	ṭ-ṭājīn bāsh ywəjjəd
+PSB065	#_ ṭ-ṭājīn bāsh ywəjjəd
 PSB066	ah
-PSB065	il couscous preso un po' di tem- ehm un tempo mh un po' mh di più per il tajine
+PSB065	il couscous preso un po' di tem- ehm un tempo mh un po' mh di più per il #tajine
 PSB005	sì
 PSB005	sì sì okay
 PSB065	ehm sì sì
@@ -1500,7 +1501,7 @@ PSB065	anche noi sì
 PSB066	sì sì
 PSB066	sì sì
 PSB065	tutti li bimbi così
-PSB066	c'è ci anch- a tutte sì mais
+PSB066	c'è ci anch- a tutte sì #mais
 PSB065	ehm sì sì
 PSB066	in italiano tantissimo in italiano sì
 PSB065	quando ci sono li fratelli parla italiano tutti con gli amici con noi
@@ -1517,7 +1518,7 @@ PSB066	arabo loro benissimo parlano com- come dei marocchini
 PSB065	sì
 PSB066	con quando andate in marocco parlano solo l'arabo
 PSB065	mhmh
-PSB066	m 'ha detto mia sorella parla italiano così io cap- no no
+PSB066	mh 'ha detto mia sorella parla italiano così io cap- no no
 PSB066	ma sì no non non mi parlano in italiano
 PSB065	eh ma xx xx
 PSB066	in marocco a me parlano bene l'arabo e l'italiano tutti e due
@@ -1668,7 +1669,7 @@ PSB005	forse xx
 PSB066	quelli mace- macello e il macello li porta nel come si chiama
 PSB065	questo
 PSB005	sai che non lo
-PSB066	baṭwār
+PSB066	#_ baṭwār
 PSB005	forse non lo so io eh
 PSB065	hai capito
 PSB005	sì sì sì sì sì sì
@@ -1683,21 +1684,21 @@ PSB005	e poi dopo mangiate fate una specie di pranzo
 PSB065	sì
 PSB066	sì
 PSB065	fare una festa
-PSB066	le brochette come si chiamano le brochette
+PSB066	le #brochette come si chiamano le #brochette
 PSB005	sì
 PSB066	barbecue
 PSB065	barbecue
 PSB005	bar- sì sì sì sì
 PSB066	sì tutte queste cose
 PSB065	io fatto il barbecue con
-PSB065	una l-ghāba āsh ta-ygūlu l-ha
+PSB065	una #l-ghāba #āsh #ta-ygūlu #l-ha
 PSB066	la foresta
 PSB065	sì
 PSB065	foresta
 PSB066	in foresta
 PSB005	fuori all'aperto sì
 PSB065	questa nel casalicchio f- mh cosa
-PSB065	f-j-jbəl fūq
+PSB065	#_ f-j-jbəl fūq
 PSB066	ah sì in in montagna xx in montagna xx
 PSB065	ah montagna
 PSB005	okay
@@ -1746,8 +1747,8 @@ PSB066	ṭaʕāl āh
 PSB066	di l- ehm
 PSB065	ehm
 PSB066	c- c'è un'altra festa
-PSB065	hādāk ma-ka-nḥtāfəl-sh bī-h anāya anch'io
-PSB066	ḥtta āna ma-ka-nḥtāfəl-sh bī-h
+PSB065	#_ hādāk ma-ka-nḥtāfəl-sh bī-h anāya anch'io
+PSB066	#_ ḥtta āna ma-ka-nḥtāfəl-sh bī-h
 PSB065	allora solo due questo di ramadan e quella dell'agnello
 PSB066	c'è solo due
 PSB005	x principali sì
@@ -1837,14 +1838,14 @@ PSB065	sì
 PSB005	era più bello
 PSB065	a marocco è molto bello
 PSB066	-lto bello sì sì
-PSB065	perché ti senti ramadan qua non è senti tanto perché a ma- a marocco c'è mh mh c'è anche la moschea ti senti l-adān
+PSB065	perché ti senti ramadan qua non è senti tanto perché a ma- a marocco c'è mh mh c'è anche la moschea ti senti #l-adān
 PSB066	esci eh
 PSB066	il mercate
 PSB066	hai visto il mercate a fès sì
 PSB005	mhmh sì sì
 PSB066	c'è il mercate pieni di ehm di tutto di ramadan anche il vestite le dolce tutto tutto tutto c'è tutto
 PSB065	sì
-PSB065	sì anche la moschea senti l-adān əṣ-ṣalāt
+PSB065	sì anche la moschea senti #l-adān #əṣ-ṣalāt
 PSB066	per noi la moschea un baxx grande sì sente tu sente il marocco tutto
 PSB065	sì sì
 ??	mamma
@@ -1875,7 +1876,7 @@ PSB005	certo
 PSB005	quindi tu all'inizio i tuoi genitori si erano trasferiti qui e tu eri sei rimasta
 PSB065	no solo solo il mio papà la mia mamma al marocco
 PSB005	ah okay
-PSB066	ancora al marocco ṃāṃā-k ah okay
+PSB066	ancora al marocco #ṃāṃā-k ah okay
 PSB065	sì sì
 PSB065	ancora al marocco con xx sì
 PSB005	okay
@@ -1894,7 +1895,7 @@ PSB005	e e dopo tu hai deciso voi insomma voi tu avete deciso di trasferirvi qui
 PSB065	mh non ho capito
 PSB066	mh sposata no
 PSB065	ah ancora no
-PSB066	juwwujti ʕād jīti no
+PSB066	#_ juwwujti ʕād jīti no
 PSB065	ah sì
 PSB065	io
 PSB066	no sì
@@ -1902,7 +1903,7 @@ PSB065	ti sei
 PSB065	per me sì quando è sposata e xxx
 PSB066	ah ah era lì con la mamma
 PSB065	sì
-PSB066	yāk kətti mʕa ṃāṃā-k
+PSB066	#_ yāk kətti mʕa ṃāṃā-k
 PSB065	sì sì
 PSB066	sì era lì con la mamma forse
 PSB065	mhmhmh
@@ -1958,10 +1959,10 @@ PSB066	sì è bella per imparare sì
 PSB066	e poi non non deve dimenticare questa lingua de genitori de- de nonne sì parlano
 PSB066	mia figlia de- c- una marocchina marocchina quando parla l'arabo una marocchina che nata al marocco
 PSB065	non è xx
-PSB066	ʕrafti ka-dgūl shi ḥwāyəj ma-tgūli-sh wāsh
+PSB066	#_ ʕrafti ka-dgūl shi ḥwāyəj ma-tgūli-sh wāsh
 PSB065	sì sì
-PSB065	eh k- bḥāl l-bnāt xti (.) mmh
-PSB066	ma-tgūlī-š wāš mā smiyyt-ha hā-hīya dāyra l-l-āngle spagna
+PSB065	#_ eh k- bḥāl l-bnāt xti (.) mmh
+PSB066	#ma-tgūlī-š #wāš #mā #smiyyt-ha #hā-hīya #dāyra #l-l-āngle spagna
 PSB065	xx parlano
 PSB066	spagnolo inglese
 PSB065	eh sì sì
@@ -1971,7 +1972,7 @@ PSB065	ma la la la prima studia terza superiore adesso anche parla inglese molto
 PSB005	mhmh
 PSB065	loro piaciono questa xx
 PSB066	questa ah questa
-PSB066	dda f- f- ha preso la sua sì questa
+PSB066	#_ dda f- f- ha preso la sua sì questa
 PSB065	sì sì
 PSB005	sì
 PSB066	da piccola questa da adesso va
@@ -1985,12 +1986,12 @@ PSB005	mhmh
 PSB066	dimenticata
 PSB005	molto carine
 PSB066	non molto x sì
-PSB065	āh hīya mā shāʔa ḷḷāh mā shāʔa ḷḷāh
-PSB066	dərriyyāt-i (.) bnāt-i (.) hīya ka-təshbəh l-ək āh ride
-PSB065	āna ṛā-ni tlaqīt mʕa-hum hnāya xx ma-ka-yjīw-sh aa a posto ḥīt ʕammaṛ-ni ma-shəft-hum
-PSB066	la la (.) ma-ta-yjīw-sh f- ma-ka-ykūnū-sh f-mulinella ((ride)) no la ma-ta-yxurjū-sh
+PSB065	#_ āh hīya mā shāʔa ḷḷāh mā shāʔa ḷḷāh
+PSB066	#_ dərriyyāt-i (.) bnāt-i (.) hīya ka-təshbəh l-ək āh ((ride))
+PSB065	#āna #ṛā-ni #tlaqīt #mʕa-hum #hnāya xx #ma-ka-yjīw-sh aa a posto #ḥīt #ʕammaṛ-ni #ma-shəft-hum
+PSB066	#_ la la (.) ma-ta-yjīw-sh f- ma-ka-ykūnū-sh f-mulinella ((ride)) no la ma-ta-yxurjū-sh
 PSB065	ah
-PSB066	ma xəddāmāt xəddāmīn āh
+PSB066	ma #xəddāmāt #xəddāmīn āh
 PSB066	lavorano sì
 PSB065	sì
 PSB066	sempre lavorano mia figlia lavora dalle quattro quarantacinque fino alle nove quindici lavora al

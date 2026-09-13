@@ -648,8 +648,8 @@ PSB083	faceva::: i mille e cinque
 PSB084	mh
 PSB085	ehm::
 PSB083	com'è che si chiama guerrouji di nome?
-PSB084	wallah ma 3qalt ma bqa-sh 3and-i l-3qal
-PSB084	ma 3art
+PSB084	#_ wallah ma 3qalt ma bqa-sh 3and-i l-3qal
+PSB084	#_ ma 3art
 PSB083	non è #hmed?
 PSB084	no
 PSB084	ah vai su google
@@ -1034,7 +1034,7 @@ PSB083	((parla_al_telefono)) [sì sì]
 PSB084	era l'ulti[mo (.) corso l'ho paga]to non sono andati non volevano più andare
 PSB083	((parla_al_telefono)) [sì hai anche xx tu:]
 PSB085	pensa te
-PSB083	((parla_al_telefono)) certo allora fai (.) una cortesia prova a xx tutti i ticket [dell'x] dell~ xx
+PSB083	((parla_al_telefono)) certo allora fai (.) una cortesia prova a xx tutti i ticket [dell'x] dell' xx
 PSB085	[pensa te]
 PSB085	però sì cioè dopo si arriva ad un'età che [o lo sport]
 PSB083	((parla_al_telefono)) [così:: ci mettiamo avanti]

@@ -321,7 +321,7 @@ PSB050	non è come a scuola che scrive la nota cioè: al lavoro: (.) [il capo ti
 PSB049	[al lavoro:]
 PSB049	((ride))
 PSB050	vai via
-PSB050	cioè invec[e:] ((schiocca_la_lingua)) ci(o)è i professori a scuola mettono: la nota: sul registro, scrivono: lui ha fatto: ha disturbato,
+PSB050	cioè invec[e: ((schiocca_la_lingua))] ci(o)è i professori a scuola mettono: la nota: sul registro, scrivono: lui ha fatto: ha disturbato,
 PSB049	[LUI:]
 PSB050	ma a lui: (.) non pr~ non gliene frega niente capito? cioè proprio (.) zero zero
 PSB049	((ride))
@@ -476,7 +476,7 @@ PSB049	quindi e:hm londra, ((squilla_il_cellulare))
 PSB049	un secondo
 PSB050	vai vai
 PSB049	ma perché?
-PSB049	#hello?
+PSB049	#_ #hello?
 PSB049	((registrazione_interrotta))
 PSB049	e:hm e:h per ospedale per
 PSB049	mamma: e: quelli che mi hanno asso~ partito di mio presidente khaleda zia

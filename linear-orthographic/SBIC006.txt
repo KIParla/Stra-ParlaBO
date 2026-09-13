@@ -1075,7 +1075,7 @@ PSB013	tutti i piatti cinesi però
 PSB013	i piatti italiani tipo
 PSB013	spaghetti con eh
 PSB013	con fun~ no~ non funghi
-PSB013	pan~ bacon
+PSB013	pan~ #bacon
 PSB005	sì
 PSB005	panc~ con la pancetta sì
 PSB013	e poi
@@ -1437,7 +1437,7 @@ PSB013	anche tanti
 PSB013	come posso dire
 PSB013	quelle mh
 PSB013	mh come si chiama
-PSB013	homeless
+PSB013	#_ homeless
 PSB005	sì ho capito
 PSB005	barboni
 PSB013	sì barboni

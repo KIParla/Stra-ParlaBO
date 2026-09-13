@@ -314,7 +314,7 @@ PSB074	[eh (.) il rosario te lo tatui: sulla mano]
 PSB071	[tutti] e tre i rosari fai:: (.) fai il rosario cristiano, fai quello:: [induista (.) esatto]
 PSB072	((ride))
 PSB073	((ride))
-PSB072	[quello e:: musulmano, quello no]stro, sì, tutte ((ride)) [, sì]
+PSB072	[quello e:: musulmano, quello no]stro, sì, tutte [((ride)) , sì]
 PSB071	[fai tre, le tre palli]ne e tre:: (.) beh, figo però eh
 PSB072	eh ((ride)) sì
 PSB073	((ride))
@@ -571,7 +571,7 @@ PSB073	[no:] e:::
 PSB073	#jhinuka (.) come: come si:
 PSB072	ah #jhinuka è uno di [conchiglie:]
 PSB073	[>no, no, no<]
-PSB072	xxx?
+PSB072	#_ xxx?
 PSB071	no::, non è xx m[are:]
 PSB073	[quel]la grande, quello nero
 PSB071	cozze °tipo°
@@ -628,7 +628,7 @@ PSB073	ti urlavano in faccia no, non puoi prendere: x[xx] e allora cosa facevamo
 PSB071	[°eh certo°]
 PSB073	nuotavamo là, andavamo lì: alla riva:, rimaneva nel~ nell'acqua e lanciavo dei sassi sopra e cadevano giù ((ride)) e prendevamo (e tornavamo indietro) ((ride))
 PSB072	no io:, invece io, casa di mia <nonna> (.) pa~ <materna> (.) aveva proprio il::, albero del:: (.) #catal (.) #jack #fruit
-PSB073	°#jack #fruit°
+PSB073	#_ °#jack #fruit°
 PSB073	[>ma, ma<], ma hai mangiato lei?
 PSB072	[e::]
 PSB071	chi?

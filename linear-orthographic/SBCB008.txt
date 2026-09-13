@@ -114,15 +114,15 @@ PSB152	dovevi ricordare ancora di più
 PSB151	guarda che quando si invecchia il cervello
 PSB151	è un po' meno
 PSB151	importante
-PSB152	hello
-PSB152	ki kou amma jaan chokhe ghum nai
+PSB152	#_ hello
+PSB152	#_ ki kou amma jaan chokhe ghum nai
 PSB152	eh
-PSB152	ghum koi
-PSB152	ghum kothay
-PSB152	ghum kothay
-PSB152	rakho pore phone ditasi
+PSB152	#_ ghum koi
+PSB152	#_ ghum kothay
+PSB152	#_ ghum kothay
+PSB152	#_ rakho pore phone ditasi
 PSB152	xx
-PSB152	pore call ditasi
+PSB152	#_ pore call ditasi
 PSB151	era t~ tua moglie tua figlia
 PSB151	ah
 PSB152	ho di cinquanta anni quindi è normale
@@ -413,9 +413,9 @@ PSB152	tasse lo paghi tu
 PSB151	cosa
 PSB152	non proprietario
 PSB151	ma veramente
-PSB152	yes
+PSB152	#_ yes
 PSB151	cioè aspetta fammi capire questa cosa
-PSB152	yes extraordinario
+PSB152	#yes extraordinario
 PSB151	e~
 PSB151	eh
 PSB152	fino venti ore
@@ -796,7 +796,7 @@ PSB152	sulla barba non fanno
 PSB151	come no
 PSB152	chi mentalità chiusa lo fa
 PSB152	scusate
-PSB152	è dio che ha fatto bianchi io ch'aggia ch~ aggiala fa non è mica colpa la mia
+PSB152	è dio che ha fatto bianchi io ch'#aggia ch~ aggiala fa non è mica colpa la mia
 PSB151	ho capito però
 PSB151	è anche importante secondo me quando tu ti guardi che ti senti bene
 PSB151	ti guardi e sei contento dell'immagine che vedi
@@ -806,7 +806,7 @@ PSB152	eh
 PSB152	eh
 PSB152	eh
 PSB152	adesso dimmi tu do-do~ e dov'è che sbaglio io allora se
-PSB152	i naturale che è fatto bianco io ch'aggia fa è questo è fashion
+PSB152	i naturale che è fatto bianco io ch'#aggia fa è questo è fashion
 PSB152	io devo perché p~ e dare soldi
 PSB151	al parrucchiere
 PSB152	perché hai
@@ -1003,10 +1003,10 @@ PSB151	a
 PSB152	ha offerto
 PSB152	perché lei quando detto io devo andare via
 PSB151	eh
-PSB152	offerto lei non accettato ca~ cazzi sui
+PSB152	offerto lei non accettato ca~ cazzi #sui
 PSB151	ma lei voleva fare un'altra cosa l'ho incontrata in realtà qualche giorno fa
 PSB152	e cazzi s~
-PSB152	cazzi sui
+PSB152	cazzi #sui
 PSB151	vabbè
 PSB152	questo è problema di italiani
 PSB151	scusa ma per esempio no uno può avre un sogno lei ha fatto tutto un percorso all'università che voleva fare una cosa
@@ -1657,10 +1657,10 @@ PSB151	e non è così facile licenziare un indeterminato eh
 PSB151	puoi fare solo
 PSB152	licenzi da sola
 PSB151	non si può e non hai la disoccupazione non ti paga mica lo stato mhmh
-PSB151	cariño
+PSB151	#_ cariño
 PSB151	no no
 PSB152	vai un altra p~ eh un altra parte a a fare prova
-PSB152	finito contratto io ch'aggià fa'
+PSB152	finito contratto io ch'#aggià fa'
 PSB151	eh sì se ti finisce il contratto è un discorso ma con l'indeterminato no
 PSB151	no no no no no
 PSB151	non funziona mica così
@@ -2110,7 +2110,7 @@ PSB151	ah ah ah ah me lo dicono tante persone però
 PSB151	qui
 PSB151	dico
 PSB151	che non è che per forza se sono donna devo per forza essere mamma posso anche essere donna non mamma
-PSB152	quello è cazzi tui
+PSB152	quello è cazzi #tui
 PSB151	appunto
 PSB152	se vuoi tenere vita
 PSB152	come normale non vuoi cambiare niente
@@ -2269,7 +2269,7 @@ PSB152	questo che volev~ e volevo di~
 PSB151	ma qualunque libro sacro eh anche il corano
 PSB152	no
 PSB151	tutti tesoro i libri i libri prima non si
-PSB152	unico unico libri il kuraāna non ha cambiato mai non cambierà neanche
+PSB152	unico unico libri il #kuraāna non ha cambiato mai non cambierà neanche
 PSB151	eh
 PSB151	eh
 PSB151	ma ascolta il discorso è che prima non c'era la stampa no
@@ -2278,9 +2278,9 @@ PSB151	i libri
 PSB151	venivano copiati da delle persone
 PSB152	sì copiati
 PSB151	quindi ci sono degli errori
-PSB152	non ci sta errori nel kuraāna ti posso dire
+PSB152	non ci sta errori nel #kuraāna ti posso dire
 PSB152	non ci sta manco un parola errori un parole
-PSB152	non esiste nel kuraāna
+PSB152	non esiste nel #kuraāna
 PSB151	mh
 PSB152	pure an~ anni anni fa
 PSB152	quello che sono iscritto questo adesso mo eh adesso adesso
@@ -2291,7 +2291,7 @@ PSB152	perché perché i bibbia
 PSB152	non è che cambiato mano mano è cambiato il discorso
 PSB152	perché anni fa
 PSB152	è scritto un modo
-PSB152	lingua co~ e quello di kuraāna è scritto lingua kuraāna
+PSB152	lingua co~ e quello di #kuraāna è scritto lingua #kuraāna
 PSB152	poi mano mano hanno cambiato
 PSB152	tanti
 PSB151	tante mani così
@@ -2309,7 +2309,7 @@ PSB151	persone fanno gli errori
 PSB151	e gli errori cambiano poi
 PSB152	sì errori fa
 PSB152	però te sto dicendo
-PSB152	se vai a leggere lingua co~ kuraāna
+PSB152	se vai a leggere lingua co~ #kuraāna
 PSB152	e se vai i~ a quello di anni anni anni fa
 PSB152	se vai leggere quello lì
 PSB152	se vai leggere adesso quello lì
@@ -2324,7 +2324,7 @@ PSB152	eh
 PSB151	no
 PSB152	pure in italia che tiene
 PSB151	e certo
-PSB152	pure in italia tiene quello kuraāna mille anni fa
+PSB152	pure in italia tiene quello #kuraāna mille anni fa
 PSB151	certo ma anche la bibbia scritta in latini
 PSB152	che è dove do~ dove che non puoi entrare persone normale proprio
 PSB151	certo ovvio
@@ -2371,7 +2371,7 @@ PSB152	ultimo dopo di lui non viene nessuno
 PSB152	e vostra gesù prima di maometto
 PSB151	c'è scritto nel corano gesù
 PSB152	è nostro profeta
-PSB151	ma con lo stesso sine che lo capisco ma con lo stesso nome scusa
+PSB151	ma con lo stesso #sine che lo capisco ma con lo stesso nome scusa
 PSB152	capisci nostro profeta
 PSB152	eh
 PSB151	sempre gesù si chiamava
@@ -2591,7 +2591,7 @@ PSB152	cosa buone
 PSB151	non li so dire i nomi
 PSB152	tipo
 PSB151	vabbè vendono tipo aspetta e quello che prendo io sempre come si chiama
-PSB151	il tahal
+PSB151	il #tahal
 PSB151	di lenticchie
 PSB152	lenticchie
 PSB151	ma vendono anche il pollo vendo~ vendono a~ anche cose non vegetariani
@@ -2603,9 +2603,9 @@ PSB152	non è che è pakistano
 PSB151	e perché no
 PSB152	non mi piace
 PSB151	ci son tanti piatti andiamo a vedere se qualcosa ti piace
-PSB152	non mangio spicy piccante
-PSB151	ah eh no sì lì è bello spicy
-PSB151	cioè come tu non mangi spicy
+PSB152	non mangio #spicy piccante
+PSB151	ah eh no sì lì è bello #spicy
+PSB151	cioè come tu non mangi #spicy
 PSB152	mangio
 PSB152	però non voglio
 PSB151	ci sono anche altri piatti
@@ -2624,7 +2624,7 @@ PSB152	eh
 PSB151	e che quindi a che ora cominci là
 PSB152	alle sette
 PSB151	ci metti due ore
-PSB152	yes
+PSB152	#_ yes
 PSB151	per andare e per tornare
 PSB152	quattro ore
 PSB151	tutti i giorni

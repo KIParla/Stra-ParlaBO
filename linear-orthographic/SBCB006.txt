@@ -1,12 +1,12 @@
 PSB093	mh
 PSB093	però
 PSB093	cambiando tu~
-PSB094	cambio ateco in rules
+PSB094	cambio ateco in #rules
 PSB093	sì
 PSB094	okay
 PSB093	poi scrivi
 PSB093	no scrivi il numero
-PSB093	tra parentesi scrivi il numero di rules
+PSB093	tra parentesi scrivi il numero di #rules
 PSB094	okay
 PSB094	tipo struttura pubblica privata o mista
 PSB093	a~ associazione o di vu non è questo privato non è neanche xx
@@ -26,10 +26,10 @@ PSB093	gli argomenti sensibili che loro non
 PSB093	non non non ha non
 PSB093	non costruiscono questo tipo di dibattito o discorso
 PSB093	eh vabbè vabbè vabbè
-PSB093	parla al telefono na o accha jete chaccho e hummm
+PSB093	#_ parla al telefono na o accha jete chaccho e hummm
 PSB093	okay va bene
 PSB005	okay
-PSB093	parla al telefono onk shomoy chole jabe to sir ami gele shomoy noshto hoy jabe onk
+PSB093	#_ parla al telefono onk shomoy chole jabe to sir ami gele shomoy noshto hoy jabe onk
 PSB093	era questo xx
 PSB093	eh
 PSB093	nite hobe onk robbar er jonno
@@ -199,7 +199,7 @@ PSB005	sì sì sì sì
 PSB093	e se no puoi fare anche a casa
 PSB005	posso provarci
 PSB093	okay
-PSB093	i mean it's not necessary that i-it has to be very perfect
+PSB093	#_ i mean it's not necessary that i-it has to be very perfect
 PSB093	perché dopo ci possiamo
 PSB005	okay
 PSB005	sì no ho capito faccio una bozza
@@ -405,7 +405,7 @@ PSB093	no locazio~
 PSB094	di domicilio
 PSB093	eh sì domicilio e momentaneamente
 PSB093	sono ospite di un connazionale
-PSB093	no computer
+PSB093	#_ no computer
 ???	c'è il computer però non c'è il caricatore
 ???	cercavo un altro caricatore
 PSB093	proprio strano quattro nuovi computer
@@ -466,7 +466,7 @@ PSB093	prima che inizia
 PSB093	estate ragazzi dal dal dal comune
 PSB093	hai capito cara hai abbiamo trovato
 ???	no
-PSB093	we have to check sweetheart today okay
+PSB093	#_ we have to check sweetheart today okay
 ???	okay
 PSB095	a xxxine hanno detto di fare il modulo di revoca
 ???	a questo e questo
@@ -533,7 +533,7 @@ PSB093	eh eh
 PSB093	della vostra
 PSB094	ehm
 PSB005	eh
-PSB093	at your eh
+PSB093	#_ at your eh
 PSB005	qual~ scusami no finisci
 PSB005	eh
 PSB005	quali temi avete discusso ad esempio al martedì la violenza di genere che c'ero anche io poi
@@ -629,10 +629,10 @@ PSB093	e infatti succede che
 PSB093	ogni pagina quando tu lo fai
 PSB093	tante pagine poi non lo so per che motivo
 PSB093	eh
-PSB093	total page
+PSB093	#_ total page
 PSB093	allora
 PSB093	nell'inchiostro c'è
-PSB093	certain number of page che tu puoi fare fotocopie oppure stampa dal computer
+PSB093	# #certain #number #of #page che tu puoi fare fotocopie oppure stampa dal computer
 PSB093	e poi quando esaurisce
 PSB093	inchiostro c'è
 PSB093	il numero
@@ -650,7 +650,7 @@ PSB093	come utilizzo della pagine per inchiostro
 PSB094	non ho capito ma perché non forse non so niente di s~ di stampanti
 PSB093	beh l'inchiostro è fatto così hai capito
 PSB094	mhmh
-PSB095	vabbe prenderò tutte le
+PSB095	vabbè prenderò tutte le
 PSB094	vuoi fare qua andre
 PSB095	eh no perché tanto
 PSB005	non lo so dim~ prova a guardare ma
@@ -803,7 +803,7 @@ PSB005	tra poco okay
 PSB005	vabbè io eh io sono
 PSB005	abbastanza imbarcata di lavoro
 PSB093	mhmh
-PSB005	perché devo consegnare il mio libro e mi sono arrivate delle review non tanto positive
+PSB005	# perché devo consegnare il mio libro e mi sono arrivate delle #review non tanto positive
 PSB005	quindi il devo la~
 PSB094	sul libro
 PSB005	sì
@@ -904,7 +904,7 @@ PSB094	dici
 PSB005	in università sì quindi
 PSB094	mh
 PSB005	però va bene grazie intanto del suggerimento no io cercavano una form~ un formatore clil
-PSB005	cioè content integrated language learning okay
+PSB005	# cioè #content #integrated #language #learning okay
 PSB005	e quindi non ha evidentemente non hanno trovato nessuno a un certo punto erano disperati e hanno cominciato a chiedere a tutti
 PSB094	mh
 PSB005	e l'ho fatto io
@@ -921,7 +921,7 @@ PSB094	sì sono tante
 PSB005	mh
 PSB093	non passa vero
 ???	trentasei percento
-PSB093	why it is so heavy
+PSB093	#_ why it is so heavy
 PSB094	ma quante pagine sono
 ???	sei
 PSB093	sei

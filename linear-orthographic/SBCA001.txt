@@ -219,9 +219,9 @@ PSB033	eh collaborazione non so come si dice
 PSB043	ah ah
 PSB033	mh
 PSB033	no
-PSB043	mh ta3awun
+PSB043	#_ mh ta3awun
 PSB033	mh
-PSB043	ta3awun
+PSB043	#_ ta3awun
 PSB033	ah
 PSB033	no mai sentita
 PSB043	un nuovo vocabolario eh
@@ -306,7 +306,7 @@ PSB033	eh una verso l'italiano e una verso l'arabo
 PSB033	e avevamo un'ora e mezza per farla il problema è che era veramente poco il tempo
 PSB043	mhmh
 PSB033	quello che io faccio fatica è cercare sul dizionario
-PSB033	ehm quando ci sono le parole che in mezzo hanno una lettera debole quindi hanno una waw hanno una alif
+PSB033	ehm quando ci sono le parole che in mezzo hanno una lettera debole quindi hanno una #waw hanno una #alif
 PSB045	ma infatti gliel'ho detto l'altro giorno ho detto alla sì col dizionario ho detto io col dizionario xx
 PSB033	mh
 PSB043	ma sar~ anch'io ho trovato fatica a usarlo da piccola mi non mi non mi piace perché sempre ti spiegano la parola con una parola più complicata
@@ -1041,11 +1041,11 @@ PSB045	ma sì dai
 PSB044	grazie
 PSB033	quindi presentazione del piatto
 PSB044	presentazione del pia~ nome del piatto abbiamo qua
-PSB043	siffa
-PSB033	siffa
-PSB044	siffa
-PSB043	siffa
-PSB043	siffa dolce
+PSB043	#_ siffa
+PSB033	#_ siffa
+PSB044	#_ siffa
+PSB043	#_ siffa
+PSB043	#siffa dolce
 PSB043	questi qua cos~ come si chiamano in italiano
 PSB043	questa pasta piccolina qua
 PSB044	spaghettini
@@ -1130,7 +1130,7 @@ PSB045	ecco qua
 PSB043	vai
 PSB045	a posto
 PSB044	grazie
-PSB033	danke
+PSB033	#_ danke
 PSB045	vai vai
 PSB043	lascio qua si volete ancora
 PSB044	mamma mia l'iphone poi fa risultare queste
@@ -1748,7 +1748,7 @@ PSB045	tu a momenti gli ridi in faccia
 PSB045	quando ti ha detto che parlo tutte le ore
 PSB043	guarda non mi non io ho oh non non
 PSB044	hai rimosso
-PSB045	mn li gal liya gbila tan dwiu hada w-dhakti 3li gilti li-ya ma 3amri hada ma 3amri galha liya shi had
+PSB045	#_ mn li gal liya gbila tan dwiu hada w-dhakti 3li gilti li-ya ma 3amri hada ma 3amri galha liya shi had
 PSB033	mi immagino poi che la persona che trascrive che si sente prprprprprppà
 PSB043	ah sì
 PSB043	potrebbe essere sì infatti
@@ -1927,7 +1927,7 @@ PSB043	ah si si ve~
 PSB044	chiacchierava con tut~
 PSB044	dai eri preferita
 PSB033	chiedi a rossi se mi amava
-PSB044	no va beh
+PSB044	no vabbè
 PSB044	di quasi tutti vabbè rossi
 PSB045	ma vabbè non ti disprezzava dai
 PSB044	ma chi è che che aveva un dai
@@ -1969,9 +1969,9 @@ PSB045	sì sì sì
 PSB043	chiacchierona
 PSB045	eh vabbè
 PSB033	che si dice
-PSB044	tharthara
-PSB043	tharthara sì
-PSB044	tharthara
+PSB044	#_ tharthara
+PSB043	#tharthara sì
+PSB044	#_ tharthara
 PSB043	oh oh brava
 PSB033	eh
 PSB033	chiacchierona lo sa
@@ -1982,21 +1982,21 @@ PSB045	vabbè decisamente per descriverti
 PSB044	c'era anche all'esame
 PSB045	serve
 PSB045	e quel~
-PSB044	dhakiyya
+PSB044	#_ dhakiyya
 PSB045	ecco
-PSB033	dhakiyya
-PSB043	dhakiyya sì
-PSB033	wa tharthara
+PSB033	#_ dhakiyya
+PSB043	#dhakiyya sì
+PSB033	#_ wa tharthara
 PSB043	perfetto
-PSB043	tharthara
+PSB043	#_ tharthara
 PSB045	a po~
-PSB044	dakiyya significa intelligente
+PSB044	#dakiyya significa intelligente
 PSB045	sei tu
 PSB033	intelligente
 PSB044	ah ah no
-PSB043	xx no
+PSB043	#xx no
 PSB045	non lo uso io
-PSB043	dhakiyya wa tharthara
+PSB043	#_ dhakiyya wa tharthara
 PSB043	okay
 PSB044	ah okay mi dici
 PSB043	ride
@@ -2004,8 +2004,8 @@ PSB044	pure
 PSB044	hai capito
 PSB043	come non lo non lo uso io quindi cosa vuol dire
 PSB033	cioè che lei n~ non è intelligente
-PSB045	perché io xxx rassi
-PSB043	ah pensavo che dhakiyya una parola un po' difficile
+PSB045	perché io #xxx #rassi
+PSB043	ah pensavo che #dhakiyya una parola un po' difficile
 PSB043	che non la usi
 PSB044	ah no
 PSB043	eh

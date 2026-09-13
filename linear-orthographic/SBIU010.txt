@@ -731,7 +731,7 @@ PSB005	sì sì
 PSB070	grazie allo spagnolo che ho studiato per tanti anni
 PSB005	mhmh certo sì sì
 PSB070	adesso se se tu mi chiedessi di parlare in spagnolo
-PSB070	nada de nada
+PSB070	#_ nada de nada
 PSB005	certo
 PSB005	no beh ma
 PSB005	è normale cioè è tipico diciamo
@@ -1243,7 +1243,7 @@ PSB070	quindi ci metti pochissimo
 PSB005	in bicicletta il quarto d'ora s~ sì
 PSB070	è ottimo
 PSB005	l'anno scorso andavo
-PSB005	beh vabbe non è vero per un anno ho lavorato a imola
+PSB005	beh vabbè non è vero per un anno ho lavorato a imola
 PSB005	però abbastanza collegato perché cioè ci sono tre treni all'ora cioè
 PSB070	sì c'è il treno
 PSB070	sì

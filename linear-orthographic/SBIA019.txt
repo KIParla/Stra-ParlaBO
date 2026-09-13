@@ -533,7 +533,7 @@ PSB157	dai
 PSB158	è una nostra amica che
 PSB159	sì sì mi racconta xxx mi dice guarda è lei mi fa ridere
 PSB159	mi racconta sempre di lei
-PSB159	he battuta fa che
+PSB159	eh battuta fa che
 PSB159	dice xxx ma lo sai mi ha detto mamma lo sai l'amica lo conosce anche a dico davvero vedi xx
 PSB159	te guarda che il mondo com'è piccolo
 PSB158	bologna è minuscola
@@ -600,12 +600,12 @@ PSB160	ce l'ha tanti
 PSB157	eh vabbè qualcuno
 PSB160	ce l'ha cous cous
 PSB157	ah
-PSB159	c'è tajine c'è bstela
-PSB160	ta~ tajine
+PSB159	c'è #tajine c'è #bstela
+PSB160	#_ ta~ tajine
 PSB157	e cosa che che cos'è la to~ to
-PSB157	tajine
-PSB159	tajine
-PSB157	tajine cos'è
+PSB157	#_ tajine
+PSB159	#_ tajine
+PSB157	#tajine cos'è
 PSB159	è questo
 PSB157	ha una forma molto singolare di cosa si tratta
 PSB159	è un piatto
@@ -627,18 +627,18 @@ PSB159	mh non c'è perché non c'è xx
 PSB160	col carbone col legna
 PSB159	mhmh
 PSB160	fanno fuoco col legna col carbone
-PSB160	e perché loro ce l'hanno col tajine lì
+PSB160	e perché loro ce l'hanno col #tajine lì
 PSB157	mhmh
-PSB160	tajine xxx
+PSB160	#tajine xxx
 PSB159	xxx
-PSB157	quindi tajine è il nome di questo recipiente
+PSB157	quindi #tajine è il nome di questo recipiente
 PSB159	sì
 PSB159	un piatto così
 PSB160	non c'è il gas non c'è prima gas così tutti
 PSB157	mh
 PSB160	non c'era queste cose qua
 PSB160	allora
-PSB160	fanno questo tajine qua
+PSB160	fanno questo #tajine qua
 PSB159	quello su sopporta il fuoco
 PSB157	mhmh
 PSB159	perché se lo metti sopra la griglia non si splode
@@ -647,7 +647,7 @@ PSB157	certo
 PSB159	hanno costruito
 PSB159	e quello diventato adesso o
 PSB159	se vai al marocco entri in ca~
-PSB159	cinque stelle devi la prima cosa devi assaggiare tajine
+PSB159	cinque stelle devi la prima cosa devi assaggiare #tajine
 PSB159	perché è un piatto
 PSB159	anni e anni è diventato famoso
 PSB157	a me piacerebbe un sacco assaggiarlo adesso mi sono incuriosita
@@ -736,7 +736,7 @@ PSB159	deserto
 PSB159	mi ha mandato foto dico guarda n ah è andata di là lei proprio e di là è un'altra cosa
 PSB158	ah
 PSB157	pensa te
-PSB159	dakla
+PSB159	#_ dakla
 PSB159	c'è mh mare di là
 PSB159	un posto bello dopo lo guardi
 PSB159	c'è il deserto e il mare uh
@@ -805,7 +805,7 @@ PSB159	sì
 PSB158	lo so lo so
 PSB160	vai a casa vai a casa
 PSB159	quando anche sexx zero
-PSB159	dirham
+PSB159	#_ dirham
 PSB160	moneta del marocco
 PSB159	xxx noi
 PSB160	xxx non ce l'ha una lira alla tasca
@@ -1426,7 +1426,7 @@ PSB157	e anche di prestare il consenso quindi questa eh
 PSB159	ci penso io
 PSB160	ah okay
 PSB157	qua qua le crocette
-PSB159	ta-jab-liya naddader 3afak
+PSB159	#_ ta-jab-liya naddader 3afak
 PSB159	non vedo oddio oh mamma mia
 PSB160	sarà dietro di dietro con le chiavi lì grazie
 PSB158	dobbiamo mettere
@@ -1463,8 +1463,8 @@ PSB158	quasi sei anni
 PSB157	eh
 PSB158	eh
 PSB157	non sono mica pochi eh
-PSB160	haki l-hna
-PSB160	yeh yeh n-la3bo
+PSB160	#_ haki l-hna
+PSB160	#_ yeh yeh n-la3bo
 PSB157	va bene
 PSB158	questo
 PSB159	era
@@ -1476,20 +1476,20 @@ PSB159	addirittura
 PSB157	eh mi dispiace sono cose molto noiose e molto brutte
 PSB159	ah
 PSB159	ah
-PSB159	mennana
+PSB159	#_ mennana
 PSB157	ed è la cosa che odiamo di più tutti quanti raccogliere questi dati qua
 PSB160	eh
-PSB159	m3attal
-PSB159	jab-liya l-portafoglio
+PSB159	#_ m3attal
+PSB159	#_ jab-liya l-portafoglio
 PSB159	oh
-PSB159	mn saki
+PSB159	#_ mn saki
 PSB159	lillah
 PSB158	tu hai registrato
 PSB157	si
 PSB158	a me mi ha fatto solo due registrazioni da venti minuti
 PSB158	cioè da due da dieci
 PSB157	vabbè
-PSB159	tha baqa n sign-ak antha
+PSB159	#_ tha baqa n sign-ak antha
 PSB157	no va bene
 PSB157	non c'è problema
 PSB157	adesso mi prendo giù qualche dato anche personale
@@ -1660,7 +1660,7 @@ PSB160	ventuno
 PSB160	ventuno
 PSB159	no
 PSB159	no no
-PSB159	mn jith ana shahal kn 3endi mn 3am
+PSB159	#_ mn jith ana shahal kn 3endi mn 3am
 PSB160	ah okay
 PSB159	oka~
 PSB160	okay
@@ -1809,11 +1809,11 @@ PSB158	perché
 PSB158	certo
 PSB159	quando mi arrabbio devo dire una dietro l'altra non devi sbagliare
 PSB158	soprattutto per i figli
-PSB159	è vero sì sì mi ricordo la dada di l~ ah tu non è come con no con all'asilo
+PSB159	è vero sì sì mi ricordo la #dada di l~ ah tu non è come con no con all'asilo
 PSB158	no
 PSB159	io dico amore dai andiamo amore dai andiamo e non funziona
 PSB159	dico due parole a arabo
-PSB159	e la dada detto vieni vieni
+PSB159	e la #dada detto vieni vieni
 PSB159	comincia a dedi~ po~ ca~ capire proprio la lingua
 PSB159	passato xx come mai quando parli con tuo figlio
 PSB159	e dico ve~ ve~ che noi abbiamo una pronuncia tosta
@@ -1856,7 +1856,7 @@ PSB158	se guardi sotto eh
 PSB160	quattro piani sono dodici metri
 PSB157	mamma mia
 PSB159	bravo
-PSB159	mashallah
+PSB159	#_ mashallah
 PSB158	ah beh sì è vero
 PSB160	era dodici dodici metri eh
 PSB158	allora cinque sì
@@ -1930,7 +1930,7 @@ PSB159	e dove che non vado volentieri tu hai voglia io non è voglia mi obblighi
 PSB158	certo
 PSB159	dammi soldi e
 PSB158	no no è vero
-PSB160	baraka n-thi sadda3thina had shwiya
+PSB160	#_ baraka n-thi sadda3thina had shwiya
 PSB159	io
 PSB158	dai
 PSB157	vai in palestra adesso

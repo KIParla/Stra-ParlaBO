@@ -76,9 +76,9 @@ PSB005	sì sì sì
 PSB005	e quali sono le festività
 PSB005	le feste
 PSB005	più grandi dell'induismo
-PSB076	grande quello si chiama durga
+PSB076	grande quello si chiama #durga
 PSB005	mhmh
-PSB076	durga puja
+PSB076	#_ durga puja
 PSB005	mhmh
 PSB076	quello grande nostro pa~ nostra regione quello grande festeggia quello nome
 PSB005	e che cosa che cos'è cosa si festeggia
@@ -87,7 +87,7 @@ PSB075	si festeggia la l~ la diciamo la vittoria del bene contro il male in sost
 PSB005	okay wow wow
 PSB075	il significato del be~ cioè base
 PSB075	però comunque le festività dell'induismo sono particolari nel senso che
-PSB076	krishna
+PSB076	#_ krishna
 PSB075	essendo una religione comunque politeista no
 PSB075	cioè che d~ cioè ha un modo di vedere un po' particolare rispetto alle altre confessioni
 PSB075	ehm
@@ -96,7 +96,7 @@ PSB005	mhmh
 PSB075	cioè volendo ce ne abbiamo una ogni giorno perché ogni giorno è dedicato ad una almeno una divinità
 PSB005	sì sì sì
 PSB005	sì sì
-PSB075	quelle prevalenti almeno per quanto riguarda la comunità bengalese è que~ è durga puja
+PSB075	quelle prevalenti almeno per quanto riguarda la comunità bengalese è que~ è #durga #puja
 PSB005	okay che è in autunno in ottobre
 PSB075	che sare~
 PSB075	sì sì esatto
@@ -126,7 +126,7 @@ PSB005	ho capito sì
 PSB075	sconfigge
 PSB075	il il male
 PSB075	e in quella occasione lei
-PSB075	cioè la madre era venuta nella forma di durga
+PSB075	cioè la madre era venuta nella forma di #durga
 PSB075	per sconfiggere quel determinato demone
 PSB005	mh
 PSB005	mhmh
@@ -971,9 +971,9 @@ PSB005	e il vostro la vostra città in bangladesh qual è
 PSB005	la tua città o originaria
 PSB076	bah
 PSB076	originaria quello
-PSB076	shiragbunch
+PSB076	#_ shiragbunch
 PSB005	okay è una città piccola una città grande
-PSB076	shiragbunch
+PSB076	#_ shiragbunch
 PSB076	mh no no grande
 PSB076	no no non ho piccola media
 PSB005	okay
@@ -987,7 +987,7 @@ PSB075	no no no lo~ loro proprio al centro
 PSB076	no no no
 PSB076	no no sono al centro
 PSB005	okay
-PSB075	invece da parte di mio papà si chiama pabna
+PSB075	invece da parte di mio papà si chiama #pabna
 PSB005	okay
 PSB075	quella è la cit~
 PSB075	che comunque non sono molt~ cioè
@@ -1152,14 +1152,14 @@ PSB076	no ha anche aperto una ehm
 PSB076	ristorante
 PSB076	quello
 PSB076	un nome scritto
-PSB075	kashmiri
-PSB076	kashmiri
+PSB075	#_ kashmiri
+PSB076	#_ kashmiri
 PSB076	è bellissimo
 ???	bello
 PSB076	io piaciuto tanto
 PSB076	tanto tanto mi è piaciuto
 ???	no que~
-PSB076	kashmiri mh
+PSB076	#kashmiri mh
 PSB075	cioè lei erano andati loro tre io ero rimasto qui
 PSB005	okay okay
 PSB076	sì lui non è andato perché lui non poteva
@@ -1630,7 +1630,7 @@ PSB075	sì
 PSB076	sì sì
 PSB075	ce ne abbiamo uno in particolare che c'è piaciuto molto
 PSB005	mh
-PSB075	nam ki tor
+PSB075	#_ nam ki tor
 PSB076	nome
 PSB075	oddio non mi non ci viene il nome adesso
 PSB005	d~ dove si trova circa
@@ -1698,16 +1698,16 @@ PSB075	ce n'è uno in via massarenti
 PSB005	piccolo era molto con~ eran molto contenti
 PSB005	gli è piaciuto molto
 PSB075	e adesso sto cercando il nome
-PSB005	m~ eh vabbe non non fa niente non e voi cosa mi consigliate di
+PSB005	m~ eh vabbè non non fa niente non e voi cosa mi consigliate di
 PSB005	mangiare
 PSB005	quando vado se vado a mangiare indiano quali sono i piatti più buoni
 PSB075	secondo me i dolci
-PSB076	ci son tante cose anche biryani anche chicken biryani anche
-PSB076	mh kacchi ah kacchi biryani
+PSB076	ci son tante cose anche #biryani anche #chicken #biryani anche
+PSB076	mh #kacchi ah #kacchi #biryani
 PSB005	okay
 PSB076	vuol dire
 PSB076	agnello
-PSB075	il biryani è tipo un riso
+PSB075	il #biryani è tipo un riso
 PSB076	tipo
 PSB075	condito con spezie e carne
 PSB075	che solitamente o è agnello o pollo
@@ -1828,13 +1828,13 @@ PSB005	infatti
 PSB076	sì molto carino
 PSB005	sì sì
 PSB075	poi c'ha anche
-PSB076	eito bhabi asi bhalo asi apni bhalo asen
+PSB076	#_ eito bhabi asi bhalo asi apni bhalo asen
 PSB075	tanto
-PSB076	ekhon kemon
-PSB076	beshi hoy nato
+PSB076	#_ ekhon kemon
+PSB076	#_ beshi hoy nato
 PSB076	oh
-PSB076	dactare bola lagto
-PSB076	oh accha baire gechilen naki
+PSB076	#_ dactare bola lagto
+PSB076	#_ oh accha baire gechilen naki
 PSB076	oh
 PSB005	sono
 PSB076	sì ehm lei è xxx
@@ -1933,12 +1933,12 @@ PSB005	da come la gente si veste se sono
 PSB005	induisti o se sono musulmani
 PSB075	eh cioè
 PSB075	se vedi una persona tipo loro può anc- con il velo o con
-PSB076	loro sempre velo burqa
-PSB075	o con il burqa
+PSB076	loro sempre velo #burqa
+PSB075	o con il #burqa
 PSB005	mhmh
 PSB075	capisci che sono islami~
 PSB005	eh mhmh
-PSB075	se li vedi con il sari con che sono quei vestiti lì in~
+PSB075	se li vedi con il #sari con che sono quei vestiti lì in~
 PSB005	sì
 PSB075	indiani anche xxx ma
 PSB076	anche
@@ -1948,7 +1948,7 @@ PSB075	che poi in verità c'ha le
 PSB076	nella ve~ vestiti metti anche come noi
 PSB005	mhmh
 PSB076	anche loro anche però
-PSB075	che poi in verità il sari non è proprio induista è convenzi~ perché lo mettono anche i musulmani cioè proprio un vesti~ diciam-
+PSB075	che poi in verità il #sari non è proprio induista è convenzi~ perché lo mettono anche i musulmani cioè proprio un vesti~ diciam-
 PSB076	eh
 PSB075	un vestito pan pan indiano
 PSB005	sì non è della religione è legato al paese
@@ -2022,7 +2022,7 @@ PSB076	dopo io tolto
 PSB076	perché quando io non tolto tutte le parte rossa non va bene anche
 PSB076	messo ieri però quando io lavato faccia
 PSB076	visto un pochino
-PSB075	hai presente tipo holi holi holi festival
+PSB075	hai presente tipo #holi #holi #holi festival
 PSB005	no holi
 PSB075	holi
 PSB075	non hai present~
@@ -2037,7 +2037,7 @@ PSB076	tutti li volte
 PSB075	no perché
 PSB075	hai presente quelle feste dove si spargono di colori
 PSB075	che è una cosa
-PSB005	sì cioè io ho visto tipo la color run però
+PSB005	sì cioè io ho visto tipo la #color #run però
 PSB005	non è cioè è un'altra cosa
 PSB075	mhmh
 PSB005	sì
@@ -2113,21 +2113,21 @@ PSB076	dodici mano
 PSB075	mh
 PSB075	sì
 PSB076	lunghe lo che quello lo vestito
-PSB075	na tor koto din biye hoy
-PSB076	amar venticinque
-PSB075	koto din koira biya hoy
+PSB075	#_ na tor koto din biye hoy
+PSB076	#_ amar venticinque
+PSB075	#_ koto din koira biya hoy
 PSB076	ven~ venticinque anni
-PSB075	koto din koira biya hoy
+PSB075	#_ koto din koira biya hoy
 PSB076	o due anni
-PSB075	dui din khali
+PSB075	#_ dui din khali
 PSB076	tre giorni l'ha detto tu
-PSB075	beshi lage
+PSB075	#_ beshi lage
 PSB076	x
-PSB076	na chinle ekjon biyar
-PSB076	dekha shona to kore
-PSB076	age @kazi @das bashay duita ar bou bhat tin din
-PSB075	tin din na beshi
-PSB076	oi ek shopta
+PSB076	#_ na chinle ekjon biyar
+PSB076	#_ dekha shona to kore
+PSB076	#_ age @kazi @das bashay duita ar bou bhat tin din
+PSB075	#_ tin din na beshi
+PSB076	#_ oi ek shopta
 PSB075	comunque una settimana dura il xxxx
 PSB076	do~
 PSB005	ah però
@@ -2218,13 +2218,13 @@ PSB075	quindi non sappiamo neanche le condizioni in cui sono
 PSB076	anche anche quando io poso
 PSB076	anche mia mia mamma ha regalato
 PSB076	quello tutte
-PSB076	halay ki koy
+PSB076	#_ halay ki koy
 PSB075	xx
 PSB076	no xx sì
 PSB075	delle cose di argenteria diciamo xxx poi
 PSB005	sì sì oka~
 PSB076	sia sì sì lo piatto però non ne ho ceramico non ne ho acciaio
-PSB076	kashat ki koy
+PSB076	#_ kashat ki koy
 PSB075	ehm di un altro materiale
 PSB076	un materiale
 PSB005	prezioso
@@ -2593,7 +2593,7 @@ PSB076	quello corpo
 PSB076	quello bruciare le tutte cose
 PSB075	scappa l'anima insieme
 PSB076	va bene però
-PSB076	atta ki koy
+PSB076	#_ atta ki koy
 PSB075	anima
 PSB076	anima anima quello vola sempre anche nato un altro palazzo quello quando io m~ metto io chiuso non va bene
 PSB005	certo
@@ -2621,6 +2621,7 @@ PSB005	mhmh
 PSB005	sì sì
 PSB076	anche quando morto tante cose dop~ dopo serve tante cose
 PSB076	anche all'amore e a cuore
+PSB076	#_
 PSB075	xx c'ha dei rituali molto lunghi per ogni cosa
 PSB076	ah ah
 PSB076	tante cose
@@ -2798,11 +2799,11 @@ PSB075	quindi ah okay quindi tipo da quel che ho capito la comunione è come dir
 PSB005	sì
 PSB075	e invece la cresima è come dire tu diffondi la parola di cristo okay
 PSB005	sì sì sì sì
-PSB076	rohd laktasena
+PSB076	#_ rohd laktasena
 PSB075	ti sta venendo il sole se vuoi ci spostiamo
 PSB005	no no v~ va bene
 PSB005	no no per me va bene
-PSB076	xx onek rhod lage
+PSB076	#_ xx onek rhod lage
 PSB075	se- se vuoi possiamo spostarci x~
 PSB005	per adesso no
 PSB075	okay
@@ -2825,10 +2826,10 @@ PSB075	e all'inizio quando no~ cioè io e mia mamma eravamo quando tipo non c'er
 PSB005	okay
 PSB075	e tipo lei ehm
 PSB075	non mi ricordo xxx
-PSB075	o ki oshusto silo naki
-PSB076	na
-PSB075	emni gesilam dhekajae
-PSB076	emni tarpore rhobibar chuti shater ischooler xxx
+PSB075	#_ o ki oshusto silo naki
+PSB076	#_ na
+PSB075	#_ emni gesilam dhekajae
+PSB076	#_ emni tarpore rhobibar chuti shater ischooler xxx
 PSB075	ecco eravamo curiosi ecco vero era domenica eravamo curiosi di vedere un po' come funzionava dentro alla chiesa
 PSB076	tutti i giorni mattina io cammino tanto con lui xxx xxx
 PSB075	le campane e n~ eravamo curiosi eravamo lì dentro ci siamo seduti
@@ -3016,7 +3017,7 @@ PSB005	però non vi date regali no no no
 PSB075	no no
 PSB075	xx no
 PSB076	no io
-PSB076	quando lui era piccolo io eh dato regalo per quello piccolo piccolo che pupazzo ghula
+PSB076	quando lui era piccolo io eh dato regalo per quello piccolo piccolo che pupazzo #ghula
 PSB075	vabbè gli addobbi le palle e palline xx
 PSB005	okay okay un regalino sì
 PSB076	xxxx
@@ -3036,7 +3037,7 @@ PSB075	xx
 PSB005	mh
 PSB005	mh
 PSB005	okay
-PSB075	i regali solitamente tipo durante il durga puja
+PSB075	i regali solitamente tipo durante il #durga #puja
 PSB075	solitamente i
 PSB075	diciamo negli adul~ cioè neanche gli adulti cioè sì m~ regali nel senso chi vuole
 PSB076	tutti tutti
@@ -3046,7 +3047,7 @@ PSB075	sì sì
 PSB076	come come loro
 PSB076	solo mh prima di natale regali presenti
 PSB005	mhmh
-PSB076	anche nostro quello quando c'è xx festeggiando dio quello durga
+PSB076	anche nostro quello quando c'è xx festeggiando dio quello #durga
 PSB005	mhmh
 PSB076	anche noi anche tanti persone io dare regali
 PSB005	okay quindi assomiglia un po' a questa

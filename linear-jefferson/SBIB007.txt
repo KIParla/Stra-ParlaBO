@@ -864,7 +864,7 @@ PSB056	[mhmh]
 PSB056	[no ((porzione_rimossa_per_privacy)) no]
 PSB056	però se be~
 PSB056	quando andiamo ferie,
-PSB056	chiediamo per e:h e::h punt[ura per] ((porzione_rimossa_per_privacy))
+PSB056	chiediamo per e:h e::h punt[ura per ((porzione_rimossa_per_privacy))]
 PSB005	[sì sì sì]
 PSB005	sì sì
 PSB056	bologna non c'è questo devi andare non lo so d[ove volev]amo andare,
@@ -1146,8 +1146,8 @@ PSB056	FLORIDA
 PSB005	mhmh,
 PSB056	canada,
 PSB005	mhmh,
-PSB056	#belgium,
-PSB056	eh sweden,
+PSB056	#_ #belgium,
+PSB056	#_ eh sweden,
 PSB056	anche italia bologna anche [pa]dova
 PSB005	[°mhmh°]
 PSB056	padova mandato email ge~ non c'era posto ancora perché non c'è
@@ -1155,7 +1155,7 @@ PSB056	tutti e:h prenotato padova fatto dove andato mio [figli(o)]
 PSB005	[sì sì]
 PSB056	perché lei vuole studia
 PSB056	eh con borsa capito (.) #full #study
-PSB056	xx
+PSB056	#_ xx
 PSB005	mhmh
 PSB056	allora (.) mandato lettere (.) #sweden
 PSB056	entro in settimana lei accettato,
@@ -1194,7 +1194,7 @@ PSB005	sì
 PSB005	[okay]
 PSB005	mhmh
 PSB056	e vanno: #stockholm
-PSB056	[sweden]
+PSB056	#_ [sweden]
 PSB005	[mhmh]
 PSB005	sì sì sì
 PSB056	e: due settembre dieci giorni prima ($cordina:ri)
@@ -1211,7 +1211,7 @@ PSB005	[wow]
 PSB056	due settembre,
 PSB056	eh lei in (.) (#exam) fatto bangladesh però altra volta (#exam) #sweden xx
 PSB056	poi,
-PSB056	pi eich di
+PSB056	#_ pi eich di
 PSB056	#philosophy #doc[torate] fanno #belgium
 PSB005	[sì sì sì]
 PSB056	dopo due an[ni]

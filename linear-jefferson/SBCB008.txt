@@ -118,15 +118,15 @@ PSB151	guarda che quando si invecchia il cervello
 PSB152	((squilla_un_telefono))
 PSB151	è un po' meno
 PSB151	importante
-PSB152	hello
-PSB152	ki kou amma jaan chokhe ghum nai
+PSB152	#_ hello
+PSB152	#_ ki kou amma jaan chokhe ghum nai
 PSB152	e:h
-PSB152	ghum koi
-PSB152	ghum kothay
-PSB152	ghum kothay
-PSB152	rakho pore phone ditasi
+PSB152	#_ ghum koi
+PSB152	#_ ghum kothay
+PSB152	#_ ghum kothay
+PSB152	#_ rakho pore phone ditasi
 PSB152	xx
-PSB152	pore call ditasi
+PSB152	#_ pore call ditasi
 PSB151	e:ra t~ tua moglie tua figlia?
 PSB151	a:h
 PSB152	ho di cinquanta anni quindi è normale
@@ -419,7 +419,7 @@ PSB152	tasse lo paghi tu
 PSB151	[cosa]?
 PSB152	[non pro]prietario
 PSB151	ma veramente?
-PSB152	yes
+PSB152	#_ yes
 PSB151	cioè aspetta fammi capire questa cosa
 PSB152	#yes $[e]xtraordinario
 PSB151	[e~]
@@ -1677,7 +1677,7 @@ PSB151	e non è così facile licenziare un indeterminato eh
 PSB151	[puoi fare solo]
 PSB152	[licenzi da so]la,
 PSB151	non si può e non hai la disoccupazione non ti paga mica lo stato mhmh
-PSB151	#cariño
+PSB151	#_ #cariño
 PSB151	no no
 PSB152	vai un altra p~ eh un altra parte a a fare prova
 PSB151	((ride))
@@ -2654,7 +2654,7 @@ PSB152	eh
 PSB151	e che quindi a che ora cominci là?
 PSB152	alle sette
 PSB151	ci metti due ore?
-PSB152	yes
+PSB152	#_ yes
 PSB151	per andare e per tornare
 PSB152	quattro ore
 PSB151	((inspira_rumorosamente))

@@ -11,7 +11,7 @@ PSB018	eh <forse può aiutare> eh [st]en~ straniere m:h
 PSB005	[mh]
 PSB018	in fu~ no in futuro ma sì sì in fu[turo] e:hm
 PSB005	[°sì sì°]
-PSB018	study
+PSB018	#_ study
 PSB005	sì
 PSB018	stu~ st[udio]
 PSB005	[studio] studio [sì sì]
@@ -28,7 +28,7 @@ PSB018	[sì sì e questo è chiaro]
 PSB005	sia livello molto basso sia livello molto alto non: non c'è problema [°sì°]
 PSB018	[non c']è problema ma l'unica cosa [se:] il mio italiano era sarà ne abbastanza per m:h
 PSB005	[°mhmh°]
-PSB018	answer
+PSB018	#_ answer
 PSB005	per rispond[ere]?
 PSB018	[eh ris]pondere i tuoi[:]
 PSB005	[sì] (.) °sì sì sì°
@@ -112,11 +112,11 @@ PSB018	la prima ling[ua]
 PSB005	[quin]di difficile?
 PSB018	eh sì difficile e: (.) abbiamo fatto qualche lezione ma normalmente generalm~ eh mente (.) solo inglese
 PSB018	per noi eh lezioni con americani e i:
-PSB018	english men
+PSB018	#_ english men
 PSB005	mhmh
 PSB018	eh tedeschi (.) con il livello: tedesco noi abbiamo fatto e:h
 PSB018	non
-PSB018	was interested
+PSB018	#_ was interested
 PSB005	mhmh no sì non eri interessata [sì sì] sì sì certo okay ah io ho studiato: (.) anche lingue ho studiato lingue e traduzione
 PSB018	[sì sì]
 PSB018	mh[mh]
@@ -216,12 +216,13 @@ PSB005	[mhmh °rispon~° sì sì]
 PSB018	e:hm il livello d~ della mia paese della ucraina sì un po' più bassa [ma]
 PSB005	[mhmh]
 PSB018	normale molto normale per vivere la <vita>
-PSB018	m:h full
+PSB018	#_ m:h full
 PSB005	mh[mh]
+PSB018	#_
 PSB005	sì sì sì
 PSB018	e per la persona eh
-PSB018	of middle:
-PSB018	middle econom[y:]
+PSB018	#_ of middle:
+PSB018	#_ middle econom[y:]
 PSB005	[mhmh]
 PSB018	livello
 PSB005	mhmh
@@ -254,7 +255,7 @@ PSB018	[soldi soldi soldi]
 PSB018	m:h [allora]
 PSB005	[c(io)è danno] dei finanziamenti danno [xx]
 PSB018	[sì qualcun]o che fa fa f:un~
-PSB005	funding
+PSB005	#_ funding
 PSB018	#funding [sì sì] allora
 PSB005	[sì sì]
 PSB018	eh c'è: s~ ci sono tante >organizzazioni< che <poss(a)no> [aiuta a]iutare e vogliono aiutare e anche le studente e le i fami~ °la famiglia° le famiglie e:h
@@ -429,7 +430,7 @@ PSB005	[okay]
 PSB005	sì sì ((ride)) è chiaro puo~ puoi fare così quando hai un dubbio mi mandi un messaggio [e io ti spiego sì]
 PSB018	((ride)) [sì ma] no un dubbio è questo è un grande grammat~ eh t~ m:h (.) pezzo di gramma[tica que]lli: pro~ m:h
 PSB005	[°mhmh°]
-PSB018	pronouns
+PSB018	#_ pronouns
 PSB005	sì pronomi
 PSB018	pronomi
 PSB005	mhmh
@@ -569,7 +570,7 @@ PSB005	[anche adesso sì xx]
 PSB018	tutti le paese parlano adesso due lingue sì gen~ generazione?
 PSB005	mhmh
 PSB018	eh nuovo,
-PSB005	mhm
+PSB005	mhmh
 PSB018	e:hm
 PSB018	#mainly (.) [genera]lmen[te] parlano (.) la lingua: madre [(.) e] russo un po'
 PSB005	[°sì°]
@@ -700,7 +701,7 @@ PSB018	e da pra~ eh in aprile [lu]i ha <iniziato:>
 PSB005	[xx]
 PSB005	[mhmh]
 PSB018	andare a scuola italia[na]
-PSB005	[ok]ay va beh sì subito
+PSB005	[ok]ay vabbè sì subito
 PSB018	subito mh[mh]
 PSB005	[sì s]ì sì e:hm: ma (.) siete venuti dall'ucraina qui direttame[nte]
 PSB018	[dire]ttamente bologna
@@ -878,7 +879,7 @@ PSB005	[volontaria]
 PSB018	e quando lei
 PSB018	mh (.) ha
 PSB018	ehm eh
-PSB018	saw (.) pass
+PSB018	#_ saw (.) pass
 PSB005	visto
 PSB018	visto s~ sì sì visto
 PSB018	lei mi ha chiesto se noi abbiamo un luogo per vivere
@@ -1012,7 +1013,7 @@ PSB018	ma secondo me la nostra vita deve essere come questo eh sempre e:h
 PSB018	no inventare ma: [trova cre]are o in e:h trovare qualcosa nuovo
 PSB005	[sì creare]
 PSB018	per e:hm
-PSB018	develop [(.)] xx in world
+PSB018	#_ develop [(.)] xx in world
 PSB005	[mhmh]
 PSB005	mhmh okay
 PSB018	perché la età quaranta,
@@ -1047,7 +1048,7 @@ PSB005	mhmh
 PSB018	mamma mia ma: eh questo è noioso da morire
 PSB005	((ride)) e in italia non è [noioso] ((ride))
 PSB018	[NO no no sem]pre eh è sempre:
-PSB018	fun
+PSB018	#_ fun
 PSB005	((ride))
 PSB018	come un sorpres[a l'al]tra g~ l'altro girono l'altro luogo l'altro:: angolo
 PSB005	[sì sì sì]
@@ -1148,7 +1149,7 @@ PSB018	è più chiara
 PSB005	ok[ay]
 PSB018	[è più] buona
 PSB005	okay
-PSB018	eh as far as i know
+PSB018	#_ eh as far as i know
 PSB005	mhmh [eh sì]
 PSB018	[e:]hm
 PSB018	la la la
@@ -1211,7 +1212,7 @@ PSB005	quasi tutto [sì sì sì]
 PSB018	[quasi tutto sì sì] sì ma normalmente c'è qualcosa da spagna: da marocco da come a~ ananas [no] ananas ananas?
 PSB005	[sì]
 PSB005	sì sì
-PSB018	pineapple
+PSB018	#_ pineapple
 PSB005	sì giusto [giusto]
 PSB018	[o:] in questi [avocado ma normalmente e:]h a me piace molto se tutto l'anno è possibile trovare cetrio:li pomodo:ri e questi tutti ver~ ehm
 PSB005	[sì alcune cose vengono da fuori lont~ sì da lontano]
@@ -1270,7 +1271,7 @@ PSB005	[mhmh]
 PSB018	per questo motivo °sì° >e molto< [e] io sa~ eh è possibile serv~ salvare il tempo per la tua famiglia per il tuo bimbo per
 PSB005	[ah]
 PSB018	m:h mi
-PSB018	mysel[f?]
+PSB018	#_ mysel[f?]
 PSB005	[s]ì sì
 PSB018	perché (.) è anche quello tro~ tradizionale la: per >la la la< donna
 PSB018	no solo in ucraina ma post e:h ex e:h #iu #es #es #ar °pro~ quella°
@@ -1397,7 +1398,7 @@ PSB018	[mhmh]
 PSB005	e non so se magari ci sono delle cose simili [perché è al confine] ho mangiato soprattutto un tipo di
 PSB018	[sì ci sono ci sono]
 PSB005	delle specie di ravioli
-PSB018	pirožk[i] ((ride))
+PSB018	#_ pirožk[i] ((ride))
 PSB005	[sì] esatto sì sono buoni mi piacciono: molto
 PSB018	m:h sì
 PSB018	e:
@@ -1525,7 +1526,7 @@ PSB005	[mhmh]
 PSB018	e anche questo sì le $tradizie è diverse il mondo è diverso per noi ma è an~ è un buon mh esperien~
 PSB018	te?
 PSB005	mhmh sì
-PSB018	experience
+PSB018	#_ experience
 PSB005	esperienza
 PSB018	esperienza una buo~ bella esperienza per
 PSB018	capire conoscere (.) come altre persone vivere che: chi: e:hm:
@@ -1535,7 +1536,7 @@ PSB005	mhmh sì valore un [valore] sì sì okay è chiaro sì [sì sì sì]
 PSB018	[valore]
 PSB018	[e anche] questo: eh può e:h #develop
 PSB005	mhmh
-PSB018	°devel~° eh
+PSB018	#_ °devel~° eh
 PSB005	ah sviluppare
 PSB018	sviluppare la °la° il nostro #inner #wor[ld]
 PSB005	[mh]mh

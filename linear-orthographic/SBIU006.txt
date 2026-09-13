@@ -97,8 +97,8 @@ PSB020	ehm cioè ognuno ha i suoi metodi il suo approccio
 PSB020	eh però
 PSB020	sì diciamo eh all'università ho studiato inglese ma non stavo facendo lingue stavo facendo tutt'altro ma comunque era obbligatorio anche l'inglese
 PSB005	mhmh mhmh mhmh
-PSB020	era molto c'erano c'erano sempre mi ricordo word list ah da imparare
-PSB020	eh si scriveva sempre gli i pa~ paragraph gli essay
+PSB020	era molto c'erano c'erano sempre mi ricordo #word #list ah da imparare
+PSB020	eh si scriveva sempre gli i pa~ #paragraph gli #essay
 PSB020	ehm dovevi magari rispondere se se mh professore ti interrogava alla lezione
 PSB020	sì ovviamente manca manca sempre l~ mh la pratica di conversazione quello sì si faceva magari più
 PSB005	mhmh
@@ -195,7 +195,7 @@ PSB005	però perché non c'è traffico qua però stiamo qua
 PSB005	ehm ma quindi tu che lingue hai studiato
 PSB005	sono curiosa
 PSB020	ahm xx eh cioè io ho fatto la
-PSB020	in inglese sarebbe cultural studies culturologia
+PSB020	in inglese sarebbe #cultural #studies culturologia
 PSB005	okay
 PSB005	sì sì sì
 PSB020	però non è come qui che se fai culture fai solo mh principalmente le mh cioè letteratura
@@ -357,7 +357,7 @@ PSB020	per magari andare in centro ci mettevi non so dovevi cambiare tre mezzi c
 PSB020	e alla fine non volevi più uscire stavi male
 PSB005	certo
 PSB020	e poi la vita universitaria non era perché io pensavo magari ci sono più persone ehm da tutto il mondo
-PSB020	molto international si esce insieme invece poi ho visto che gli italiani s- escono insieme
+PSB020	molto #international si esce insieme invece poi ho visto che gli italiani s- escono insieme
 PSB020	hanno i loro gruppetti
 PSB020	ehm la cultura la mentalità molto diversa magari gli argomenti di quali parlate molto diversi quindi
 PSB020	è stato molto difficile quella cosa che non non trovavo mai in ucraina è stato è stato difficile trovare gli amici
@@ -596,7 +596,7 @@ PSB020	meglio
 PSB020	ehm che magari anche colazione perché da noi non non non si beve soltanto ma adesso sì è più diffuso mh prendere un caffè con qualcosa di di dolce però
 PSB005	a colazione sì dimmi dimmi
 PSB020	di solito è salata la colazione
-PSB020	e ci sono diverse pappe magari tipo inglese si chiama oatmeal qui la i fiocchi di avena avena
+PSB020	e ci sono diverse pappe magari tipo inglese si chiama #oatmeal qui la i fiocchi di avena avena
 PSB005	mhmh
 PSB005	sì tipo porridge sì
 PSB020	sì sì
@@ -627,12 +627,12 @@ PSB005	ho visto simile è più simile più simile a voi sì
 PSB020	sì sì è più simile sì sì alcune alcune sono alcune cose sono uguali tipo non so se ha mangiato i ehm come si chiama eh
 PSB020	in in polacco i
 PSB020	oddio adesso non mi viene la parola
-PSB020	placki ah placki ziemniaczane mh pierogi invece sì
+PSB020	#placki ah #placki #ziemniaczane mh #pierogi invece sì
 PSB005	no
 PSB005	sì ah sì sì sì questi sì
-PSB020	pierogi da noi si chiamano perché abbiamo diversi nomi ma una cosa più abbastanza diciamo abbastanza simile
+PSB020	#pierogi da noi si chiamano perché abbiamo diversi nomi ma una cosa più abbastanza diciamo abbastanza simile
 PSB005	son buoni
-PSB020	pierogi che noi chiamiamo son buoni e come qui tipo ravioli non però
+PSB020	#pierogi che noi chiamiamo son buoni e come qui tipo ravioli non però
 PSB005	sì mh non è proprio uguale
 PSB020	però non non fa~ la pasta è diversa
 PSB005	mhmh
@@ -726,7 +726,7 @@ PSB020	e devi fare il volontariato tipo di circa sei ore amh al giorno
 PSB020	ehm
 PSB020	lì mh diciamo i progetti sono diversi
 PSB020	ehm poi io ho fatto il progetto ehm con una cooperativa sociale
-PSB020	ah vabbè ti ha danno anche il pocket il pocket money
+PSB020	ah vabbè ti ha danno anche il #pocket il #pocket #money
 PSB005	mhmh
 PSB020	al mese
 PSB020	e quindi era comodo per me perché stavi facendo una cosa diversa
@@ -741,7 +741,7 @@ PSB005	è un buon metodo per inseri~ magari cominciare a imparare un po' invece 
 PSB020	sì sì
 PSB020	no io volevo fare questo diciamo perché dopo cinque anni di di pausa di che ero tornata cioè perché volevo comunque ritornare in italia
 PSB020	però era per me era difficile dopo una pausa così lunga venire subito ehm a studiare lavorava e quindi mh lavorare e quindi volevo fare
-PSB020	una cosa più soft più tranquilla magari tipo volontariato dove c'era già tutto organizzato e sistemato
+PSB020	una cosa più #soft più tranquilla magari tipo volontariato dove c'era già tutto organizzato e sistemato
 PSB020	e per un anno l'ho fatto ehm
 PSB020	l'unica cosa mh che non mi era piaciuta che ero da sola mh perché mh
 PSB020	ero a pontedera
@@ -907,14 +907,14 @@ PSB005	quindi l'interazione è
 PSB020	mh sì vabbè all'inizio eh ridi e basta poi ti abitui già diciamo normale
 PSB005	e hai imparato un po' di ceco
 PSB020	per esempio per per esempio
-PSB020	mh c'è alcune cose sì per esempio da loro tipo mh c'è una parola eh holka
+PSB020	mh c'è alcune cose sì per esempio da loro tipo mh c'è una parola eh #holka
 PSB020	che vuol dire la ragazza
 PSB020	da noi è un ago
 PSB005	sì molto
 PSB020	quindi è tutta un'altra cosa
 PSB020	oppure
 PSB020	vabbè oppure le parole simili però mh accento un po' magari con la cadenza accento diverso
-PSB020	tipo mh se non sbaglio život da noi è una pancia una pancia da loro è una vita quindi vabbè le cose così tipo
+PSB020	tipo mh se non sbaglio #život da noi è una pancia una pancia da loro è una vita quindi vabbè le cose così tipo
 PSB005	abbastanza diverso sì
 PSB020	eh sì vabbè non parlo delle parolacce ovviamente
 PSB005	va bene
@@ -925,7 +925,7 @@ PSB005	okay
 PSB005	nord est okay
 PSB005	e la tua lingua di famiglia è l'ucraino
 PSB020	sì
-PSB020	oh è difficile perché da noi c'è il fenomeno di del ehm si chiama suržik è un misto tra il russo e ucraino
+PSB020	oh è difficile perché da noi c'è il fenomeno di del ehm si chiama #suržik è un misto tra il russo e ucraino
 PSB020	eh si parla nelle zone diciamo rurali ehm
 PSB020	eh tipo nelle città piccole magari ma alcune città anche più grandi
 PSB020	eh però mh
@@ -962,7 +962,7 @@ PSB020	mhmh
 PSB020	seminario e è del è nel nostro piano di studi
 PSB020	i in realtà il formalmente c'è un altro professore
 PSB005	okay
-PSB020	eh perché non abbiamo una kafedra cattedra no aspetta come si chiama facoltà
+PSB020	eh perché non abbiamo una #kafedra cattedra no aspetta come si chiama facoltà
 PSB005	certo certo
 PSB005	sì sì
 PSB020	cattedra no si chiama una sezione di lingua ucraina

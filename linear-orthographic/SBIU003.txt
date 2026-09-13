@@ -655,7 +655,7 @@ PSB012	non fare questo lavoro ma se
 PSB012	è uno che
 PSB012	diciamo che fai la badante che tu lasci col vecchietto se
 PSB012	magari ha
-PSB012	se ha l'età to a chi lo lasci
+PSB012	se ha l'età #to a chi lo lasci
 PSB011	mh
 PSB012	o lavori sotto un'agenzia che s~ s~ sutistuisce lei
 PSB012	oppure
@@ -1246,7 +1246,7 @@ PSB012	e po~ poi parlano come noi qua~ quando ci incontriamo
 PSB012	eh ti dici
 PSB012	eh
 PSB012	non so
-PSB012	vreau eh acqua che sarebbe voglio l'acqua diciamo una parola in rumeno quell'altra in
+PSB012	#vreau eh acqua che sarebbe voglio l'acqua diciamo una parola in rumeno quell'altra in
 PSB011	eh
 PSB011	in italiano
 PSB012	sì che poi alla fine non si si fanno f~ molta fatica però
@@ -1467,11 +1467,11 @@ PSB012	s~ sì eh purtroppo anche l'ucraino è la stessa cosa diciamo pure anche 
 PSB012	mh sì ci sono qualcosa con
 PSB012	l'apostrofo eccetera
 PSB012	che si usa anche lì e anche qua però è quello
-PSB011	quindi limba
+PSB011	quindi #limba
 PSB011	lo scrivi coi caratteri come si dice lingua
 PSB011	nel nel tuo dialetto
-PSB012	limba
-PSB011	limba
+PSB012	#_ limba
+PSB011	#_ limba
 PSB012	sì
 PSB011	eh c~ come in rumeno no
 PSB012	sì sì
@@ -2012,7 +2012,7 @@ PSB012	la coronavirus che è stata prima
 PSB011	sì
 PSB012	sono venuti i medici ucraini e poi quando s~ sono andati via gli ho fatto un qualche posto non so dove che gli ho fatto
 PSB012	assaggiare questo
-PSB012	boršč che si chiama un un minestrone di verdura che
+PSB012	#boršč che si chiama un un minestrone di verdura che
 PSB012	facevano un sacco di
 PSB012	di prodotti di là
 PSB012	sono mh veramente tantissimi
@@ -2050,7 +2050,7 @@ PSB012	adesso non so forse l'han messo
 PSB012	eppure ti ti insegnano
 PSB011	mhmh
 PSB012	a a far le torte que~ questo in russo
-PSB012	anche mio nazionale sa~ sarebbe conditer
+PSB012	anche mio nazionale sa~ sarebbe #conditer
 PSB012	come sarebbe qua
 PSB012	ah
 PSB012	questi questi doni che fanno la pasta come si chiamano
@@ -2097,7 +2097,7 @@ PSB012	quel macchinario e non sai cosa fare quindi ti ti facevano di tutto
 PSB011	mh mh mh
 PSB012	quindi sì è molto interessante
 PSB011	davvero
-PSB012	no non è che non mi è piaciuto mi è piaciuto i vorresti ma adesso ormai è tardi forse
+PSB012	no non è che non mi è piaciuto mi è piaciuto #i vorresti ma adesso ormai è tardi forse
 PSB011	mh
 PSB012	forse anche no
 PSB011	ma no sei giovanissima

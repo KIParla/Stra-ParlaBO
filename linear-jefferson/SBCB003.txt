@@ -121,7 +121,7 @@ PSB118	sei euro ti prendi un CAFFÈ
 PSB095	madonna
 PSB095	ma quanto costa lì?
 PSB095	fare tutto ((ride)) cioè è molto più:
-PSB095	pricy
+PSB095	#_ pricy
 PSB118	boh cioè
 PSB118	°costa un po' di più°
 PSB118	cioè non costa così tanto di meno (.) secondo me
@@ -241,7 +241,7 @@ PSB095	[s:ì sì sì sì]
 PSB118	[quest'anno] scolastico
 PSB095	[oh mio dio]
 PSB095	è volato via a te
-PSB118	soon to be graduated
+PSB118	#_ soon to be graduated
 PSB095	((ride))
 PSB118	mamma mia che paura
 PSB118	no io xxx
@@ -366,9 +366,9 @@ PSB118	infatti stavo per dire
 PSB118	che ora devo dire che
 PSB118	al check-in
 PSB118	io ((digita_sul_tavolo))
-PSB118	your passport
+PSB118	#_ your passport
 PSB095	((ride)) lo fa
-PSB118	((ride)) of course your passport
+PSB118	#_ ((ride)) of course your passport
 PSB118	quello
 PSB118	quello #vibe
 PSB118	no vabbè ora fallimento nel senso che
@@ -506,7 +506,7 @@ PSB118	bell[o: bell]o tosto
 PSB095	[mhmh]
 PSB118	perciò voleva vendere il suo infatti mi ha chiesto più volte se lo volevo comprare io
 PSB118	io le ho detto #hold #on [#a #second] #let #me #think #about #that
-PSB095	[hold on]
+PSB095	#_ [hold on]
 PSB118	e:
 PSB118	però non lo so in realtà mia sorella sta insomma a pushare questa cosa che vorrebbe prendermi lei il computer
 PSB118	[a (u)na cer]ta
@@ -603,8 +603,8 @@ PSB095	me l'aveva passato a me perché era tipo vabbè sei tu quella che
 PSB095	sei stata più t[empo così no]
 PSB118	[ah sì me l'hai detto]
 PSB095	e io stavo usando il mousepad un po' come una #boomer ((ride)) e lei tipo sai che puoi fare ci tri elle e io tipo sì che lo so però cioè dammi un seco-
-PSB118	i'm just a bro
-PSB095	i'm just a girl
+PSB118	#_ i'm just a bro
+PSB095	#_ i'm just a girl
 PSB095	e: lui sì
 PSB095	vabbè
 PSB118	ventitré
@@ -641,7 +641,7 @@ PSB118	quello sì assolutamente
 PSB118	°altrimenti°
 PSB095	a: semplicemente anche perché è più manuale più: più m:h
 PSB095	più veloce come un compu~ come un computer cioè l'ipad magari può fare le stesse cose però
-PSB095	è più: ci sono altre <alternative> °all'°ipad cioè
+PSB095	è più: ci sono altre <alternative> °all'° ipad cioè
 PSB095	devi trovarle
 PSB095	è quello
 PSB095	x
@@ -662,7 +662,7 @@ PSB095	comprai una scrivania: portatile
 PSB118	se
 PSB118	mamma mia cioè ma puoi guardare i:l lo schermo e guardare la tua mano
 PSB095	ma infatti
-PSB095	cringe e:hm
+PSB095	#_ cringe e:hm
 PSB095	al concerto
 PSB095	che mi mi si era seduta un:a sorella di qualcuno
 PSB095	e aveva iniziato a lavorare col computer e a~ ha tirato fuori il mouse e poi ha xxxxx tipo
@@ -676,22 +676,22 @@ PSB095	°vabbè°
 PSB095	okay
 PSB095	eh era stra carina mi aveva offerto delle patatine [o:h]
 PSB118	[o:h]
-PSB118	>would you like some chips<
+PSB118	#_ >would you like some chips<
 PSB095	esa~ ((ride))
-PSB118	some chips
-PSB095	you want some chi:ps
-PSB095	oh thank you ((ride))
+PSB118	#_ some chips
+PSB095	#_ you want some chi:ps
+PSB095	#_ oh thank you ((ride))
 PSB118	°oddio°
-PSB095	why you so sweet
-PSB095	oh are you american?
+PSB095	#_ why you so sweet
+PSB095	#_ oh are you american?
 PSB118	a che?
 PSB095	mi aveva chiesto tipo sei americana?
 PSB095	e io tipo no:
-PSB118	y[e:s]
+PSB118	#_ y[e:s]
 PSB095	[perché] il mio accento sembra america[no]
-PSB118	[are] you an american?
+PSB118	#_ [are] you an american?
 PSB095	((ride))
-PSB118	[#smart]box
+PSB118	#_ [#smart]box
 PSB095	[x]
 PSB095	e io tipo
 PSB095	ho dro-
@@ -731,7 +731,7 @@ PSB095	c'è un: un range
 PSB095	tra il bianco e il nero ((ride))
 PSB118	sì no è vero è vero per carità
 PSB095	però comunque c'è xxxxxx a parte che glielo avevo spiegato
-PSB118	proud to be xxxx
+PSB118	#_ proud to be xxxx
 PSB095	no anche perché tipo lei in realtà
 PSB095	cioè era di quel posto però tipo: (.) anche lei penso fosse: di origini:
 PSB095	pakistane indiane
@@ -781,7 +781,7 @@ PSB118	però tipo xxxxxxxx gli occhi a mandorla:
 PSB118	questa xxx è una grande parte quella in bangladesh
 PSB095	xx mia madre non mi ha detto nulla
 PSB095	forse ha fatto
-PSB118	damn she okay
+PSB118	#_ damn she okay
 PSB095	no vabbè
 PSB095	non non avrebbe potuto perché mi ha fatto qui
 PSB095	ah no sì avrebbe potuto

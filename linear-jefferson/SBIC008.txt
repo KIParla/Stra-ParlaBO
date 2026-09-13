@@ -406,7 +406,7 @@ PSB037	parla con lei le[i è brava]
 PSB038	[no ma no io non c'ho] voglia di fare ((ride))
 PSB005	NO DAI vieni anche tu:
 PSB038	va:: [bene]
-PSB037	nǐ zài gēn tā liáo yi liáo ba
+PSB037	#_ nǐ zài gēn tā liáo yi liáo ba
 PSB005	facciamo la seconda parte
 PSB005	sì sì sì facciamo la seconda parte
 PSB005	perché ci hai raccontato tante cose (.) pri[:ma]

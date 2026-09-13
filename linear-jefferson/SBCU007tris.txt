@@ -126,7 +126,7 @@ PSB086	a me a me xxx voglio
 PSB129	((ride))
 PSB128	°allora aspetta°
 PSB091	dai una foto
-PSB128	ta počekaj
+PSB128	#_ ta počekaj
 PSB086	deve vedere prima tutti gli affari miei eh
 PSB128	aspetta camera
 PSB129	((ride))
@@ -139,10 +139,10 @@ PSB129	ch[eese]
 PSB130	[cheese]
 PSB036	[cheese]
 PSB005	[cheese]
-PSB091	syr
+PSB091	#_ syr
 PSB128	((ride)) harno
 PSB127	a posto?
-PSB091	[davaj davaj]
+PSB091	#_ [davaj davaj]
 PSB129	[grazie]?
 PSB005	no no
 PSB091	non vuole [vabbè prego]
@@ -210,7 +210,7 @@ PSB036	[xxx]
 PSB129	che c'è un piatto tipico?
 PSB128	m:h
 PSB091	piatto tipico involtini
-PSB086	[tryzub nahaduje]
+PSB086	#_ [tryzub nahaduje]
 PSB129	[involtini]?
 PSB127	mhmh
 PSB091	invol[tini con]
@@ -376,7 +376,7 @@ PSB127	[prendete anco]ra: eh eh puliti
 PSB005	no io sto bevendo da qua
 PSB129	molto molto buo[ni]
 PSB127	[xx]
-PSB086	ja otlomala tobi
+PSB086	#_ ja otlomala tobi
 PSB130	io ho molta fame nella [mia vita]
 PSB005	[vabbè io] adesso non mange[rò cioè mangio domani] sì
 PSB130	[fame sempre]
@@ -435,11 +435,11 @@ PSB091	allora s~ anche lì
 PSB091	chi chiama
 PSB091	#nalystnyky #mlynci chi chiama #nalystnyky #mlynci chi chiama:
 PSB091	com'è altro modo#nalystnyky #mlynci
-PSB128	blinčiki
-PSB091	[blinčiki]
+PSB128	#_ blinčiki
+PSB091	#_ [blinčiki]
 PSB005	[io questo ho sentito sì]
-PSB129	blinchiki [eh anche io avevo sentito]
-PSB127	[blinčik blin]
+PSB129	#_ blinchiki [eh anche io avevo sentito]
+PSB127	#_ [blinčik blin]
 PSB005	sì (.) l'ho sentito (.) dalla: (.) sign[ora che lavora] dai miei genitori
 PSB129	[xxx]
 PSB129	eh a quel[lo però e:h]
@@ -450,12 +450,12 @@ PSB086	[russe]
 PSB127	[sì sì]
 PSB086	in russo #blin
 PSB129	[eh #blin]
-PSB086	[blinchik blin]
+PSB086	#_ [blinchik blin]
 PSB127	mhmh
 PSB129	e quindi ero curiosa di sapere [se anche in ucraino era sì]
 PSB086	[in (.) ucraino #nalystnyk]
 PSB086	#nalystnyk [e:h cre~ crêpes in italiano]
-PSB091	[nalystnyk]
+PSB091	#_ [nalystnyk]
 PSB129	[sì sì sì sì]
 PSB005	[mhmh]
 PSB129	o in realtà in italiano da me le chiamano (.) ehm
@@ -710,10 +710,10 @@ PSB036	patate e verza e burro fu[so]
 PSB127	[x]xxx[xx]
 PSB129	[e un sacco di formaggio]
 PSB036	[e un sacco di formag~] ah sì c'è anche formaggio sciolto dentro [che poi xx]
-PSB086	[xxx]
+PSB086	#_ [xxx]
 PSB129	[sì: i] xx
-PSB086	xx klademo kartopliu i kapustu
-PSB127	xxx
+PSB086	#_ xx klademo kartopliu i kapustu
+PSB127	#_ xxx
 PSB086	e p~ eh [verza eh patate e]?
 PSB128	[xxx questo un (.) pizz~]
 PSB036	eh ver[za patate] formaggio [c'è un altro di solito c'è il]

@@ -392,7 +392,7 @@ PSB005	qui
 PSB042	sì. è [vero].
 PSB005	[di pi]ù nei paesi arabi secondo [te].
 PSB042	[sì].
-PSB042	(#vrai)
+PSB042	#_ (#vrai)
 PSB005	ah eh io non lo so perché non lo conosco molto:.
 PSB005	è interessante questo: [(.)] questa cosa che dici.
 PSB042	[è ve°ro.°]
@@ -1137,7 +1137,7 @@ PSB042	perché [sempre]: eh. nascita.
 PSB005	[per la nascita].
 PSB042	#quand arriva bambino, serve compra:. compra mio padre una:.
 PSB042	come si chiama.
-PSB042	#mouton
+PSB042	#_ #mouton
 PSB005	mhmh?
 PSB042	lo sai cos'è #mouton?
 PSB005	no[:]?
@@ -1147,7 +1147,7 @@ PSB042	eh,
 PSB005	°mh° pr[ova a spiegarmi. pr~]
 PSB042	[dimenticato] sì sì sì aspetta. ara:bo, italia°no.°
 PSB005	sì.
-PSB042	#kharoof.
+PSB042	#_ #kharoof.
 PSB042	peco:ra.
 PSB005	ah sì. [ah] ma lo sapevo allora. sì che scema [sì].
 PSB042	[be:]. ((ride))

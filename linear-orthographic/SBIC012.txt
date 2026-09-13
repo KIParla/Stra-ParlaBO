@@ -908,7 +908,7 @@ PSB082	ci si confonde certo
 PSB081	libero vuol dire almeno io rispetto a te tu rispetto a me
 PSB082	e certo
 PSB081	non è che è mandare una eh parola brutta
-PSB082	mh hm
+PSB082	mh mh
 PSB081	e tu fa male per gli altri
 PSB005	mhmh sì sì
 PSB082	eh certo eh certo
@@ -1250,7 +1250,7 @@ PSB081	dopo diventa una vita xx
 PSB081	xx
 PSB082	e i colleghi erano tutti italiani o comunque di forlì
 PSB081	sono sono anche qualche cinese però son pochi
-PSB005	mh hm
+PSB005	mh mh
 PSB082	ah la maggior parte italiani
 PSB081	sono appartenenza
 PSB081	sì se siamo sessanta persone così cinquantacinque sono italiani
@@ -1488,7 +1488,7 @@ PSB081	sì perché come noi cinesi no sono tanti cinesi commerciante
 PSB081	quindi il venditore cinese quindi è facile trovare lavoro a cin~ con tutti i cinesi
 PSB082	chiaro
 PSB082	chiaro
-PSB005	mh hm
+PSB005	mh mh
 PSB081	per questo forse con un'altra anche lavoro sempre un'azienda ha trovato sempre dentro ci sono anche xx italiani
 PSB082	mhmh
 PSB081	capito
@@ -1714,7 +1714,7 @@ PSB005	mhmh
 PSB081	se tu qua fare gratis tu deve paura
 PSB005	mhmh
 PSB081	perché xx gratis
-PSB082	mh hm
+PSB082	mh mh
 PSB081	c'hai problemi bisogna sempre pensare
 PSB005	mhmh
 PSB005	mhmh

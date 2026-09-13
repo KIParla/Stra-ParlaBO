@@ -97,7 +97,7 @@ PSB028	okay
 PSB028	siete tanti xx
 PSB057	ahm sì perché c'è anche ehm eh quelli di erasmus
 PSB028	okay sì
-PSB057	e anche quelli di master study
+PSB057	e anche quelli di #master study
 PSB054	mhmh
 PSB028	ah quindi anche cioè sono tanti quelli dell'erasmus
 PSB057	sì sì sì sì
@@ -105,9 +105,9 @@ PSB028	okay okay beh bello
 PSB054	hai notato differenze dell'università da insomma da qui a bologna rispetto al bangladesh
 PSB057	sì è più sì sì un po' diverso ma
 PSB054	è diverso
-PSB057	more e più e strict
-PSB057	strict strict strict
-PSB057	ma come si dice strict
+PSB057	#more e più e #strict
+PSB057	#_ strict strict strict
+PSB057	ma come si dice #strict
 PSB028	rigido forse
 PSB054	x
 PSB054	sì x
@@ -166,8 +166,8 @@ PSB054	un po' per la via
 PSB028	okay
 PSB028	invece questa zona
 PSB057	questa zona
-???	salamhuleikum
-PSB057	oi maiya friend tar mar student ra interview nite asche
+???	#_ salamhuleikum
+PSB057	#_ oi maiya friend tar mar student ra interview nite asche
 ???	ah
 PSB028	salve
 PSB057	mia suocera
@@ -285,10 +285,10 @@ PSB057	e sì sì nel n~ nella zona sì
 PSB028	okay
 PSB028	ehm
 PSB057	come e quindici minuti e co~ come si dice
-PSB057	eh fifteen minute wa~ walk like
+PSB057	#_ eh fifteen minute wa~ walk like
 PSB028	mh
 PSB054	sì sì
-PSB057	you know
+PSB057	#_ you know
 PSB054	quindici minuti a piedi sì
 PSB028	sì sì sì
 PSB057	sì sì sì
@@ -572,9 +572,9 @@ PSB054	che c'è la fermata qui vicino
 PSB057	sì sì
 PSB054	e avete anche la macchina
 PSB057	sì sì a ma amh
-PSB057	but but ma in centro non posso andare con la macchina è quello il problema
+PSB057	#but #but ma in centro non posso andare con la macchina è quello il problema
 PSB054	eh sì
-PSB057	non ho la patente qui but e ma in bangladesh sì ma
+PSB057	non ho la patente qui #but e ma in bangladesh sì ma
 PSB057	non ho provato qui
 PSB057	devo devo fare sì
 PSB028	okay
@@ -584,7 +584,7 @@ PSB057	ehm per la lingua sì è un po' difficile ma
 PSB057	e e in bangladesh ho fa~ faccio mh
 PSB057	o~ o~ automatico
 PSB028	mhmh
-PSB057	qui è manual
+PSB057	qui è #manual
 PSB028	okay
 PSB028	okay
 PSB054	eh sì
@@ -612,7 +612,7 @@ PSB028	ehm
 PSB054	quindi per la macchina anche magari il fine settimana la domenica andate fuori andate sui colli
 PSB057	io devo fare sì sì eh fare e mh mh
 PSB054	fate qualcosa
-PSB057	grocery ehm come si dice
+PSB057	#grocery ehm come si dice
 PSB057	devo fare
 PSB054	fare la spesa al negozio sì sì
 PSB057	spesa sì con mio marito sì sì al lidl sì un po' lontano di qui
@@ -705,7 +705,7 @@ PSB054	ah
 PSB028	ma tutti hai fi~
 PSB057	sì sì sì
 PSB028	oh che bello
-PSB057	ho fatto trenta più tre~ trenta honors eh con lode
+PSB057	ho fatto trenta più tre~ trenta #honors eh con lode
 PSB028	wow
 PSB054	ah
 PSB028	bravissima
@@ -750,7 +750,7 @@ PSB057	e o l'ho fatto
 PSB057	più meno un anno lì
 PSB028	mhmh
 PSB057	eh un studio di er~ e ingegnere
-PSB057	ho fatto three di
+PSB057	ho fatto #three #di
 PSB054	ah okay
 PSB028	okay
 PSB057	sì
@@ -1144,7 +1144,7 @@ PSB028	quindi anche lui ingegneria vi siete trovati
 PSB028	sì
 PSB054	capito
 PSB028	e non ho capi~ e cos'è che fa
-PSB057	software engineering
+PSB057	#_ software engineering
 PSB028	ah
 PSB057	informatico
 PSB028	sì sì sì
@@ -1219,11 +1219,11 @@ PSB057	mh vedi qui v~ e
 PSB028	mhmh
 PSB054	sì grazie
 PSB028	bello fresco ci voleva effettivamente
-???	xxx
-PSB057	xx
-???	xx
-PSB057	xx
-???	xx
+???	#_ xxx
+PSB057	#_ xx
+???	#_ xx
+PSB057	#_ xx
+???	#_ xx
 PSB028	madonna mia sto facendo una sauna
 PSB028	e e poi ti a proposito di a me sta cosa fa morire perché è la mia via di casa giù
 PSB054	ah xxx
@@ -1244,7 +1244,7 @@ PSB057	e latte secca non so com~ mh po~
 PSB028	ah in polvere sì sì
 PSB054	in polvere
 PSB057	sì sì sì quella sì sì
-PSB057	condensed milk come si dice condensed milk
+PSB057	#condensed #milk come si dice #condensed #milk
 PSB028	mh
 PSB057	latte condensato
 PSB054	mhmh
@@ -1262,8 +1262,8 @@ PSB057	ehm
 PSB057	non so come si dice
 PSB057	ehm
 PSB028	tipomh
-PSB057	e come e kunafa
-PSB057	mh e sai kunefa
+PSB057	e come e #kunafa
+PSB057	mh e sai #kunefa
 PSB057	di no
 PSB028	no
 PSB057	e mh non so come spiego
@@ -1293,9 +1293,9 @@ PSB028	invece l'altra volta abbiamo provato
 PSB028	non so se era
 PSB028	non so se è bengalese indiano comunque un riso
 PSB028	eh dolce con lo zucchero
-PSB057	ah e sì sì anche noi facciamo e quella è sh~ emh payesh
+PSB057	ah e sì sì anche noi facciamo e quella è sh~ emh #payesh
 PSB054	mhmh
-PSB028	mh payesh
+PSB028	mh #payesh
 PSB054	sì penso che fosse proprio quello perché
 PSB057	mhmh
 PSB028	okay
@@ -1304,12 +1304,12 @@ PSB057	ah
 PSB054	e
 PSB057	p~ e perché noi ehm
 PSB057	mh e
-PSB057	sai eid
+PSB057	sai #eid
 PSB054	mh
 PSB057	e quella festa di e musulmani
 PSB028	amh
 PSB057	e digiu~ e
-PSB028	ah sì eid mubarak si dice
+PSB028	ah sì #eid #mubarak si dice
 PSB057	xxx
 PSB054	sì sì
 PSB057	sì sì
@@ -1326,7 +1326,7 @@ PSB028	facevamo tutte queste cose
 PSB057	mhmh
 PSB028	quindi era era bello
 PSB028	c'era una bella atmosfera
-PSB054	quindi avete festeggiato eid
+PSB054	quindi avete festeggiato #eid
 PSB057	sì sì
 PSB057	sì sì
 PSB054	cosa avete fatto
@@ -1346,7 +1346,7 @@ PSB054	qualche altra festività mh
 PSB054	musulmana
 PSB054	che
 PSB057	o st~ o solo due
-PSB057	due eid
+PSB057	due #eid
 PSB054	mhmh okay
 PSB028	ah sono due
 PSB057	sono due sì

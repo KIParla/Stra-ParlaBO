@@ -78,7 +78,7 @@ PSB005	le feste:
 PSB005	più grandi dell'induis[mo]
 PSB076	[gra]nde >quello:< si chiama #durga
 PSB005	mhmh
-PSB076	#durga #puja
+PSB076	#_ #durga #puja
 PSB005	mhmh
 PSB076	quello grande nostro pa~ nostra regione >quello< grande festeggia quello nome
 PSB005	e che cosa (.) che cos'è cosa si festeggia
@@ -88,7 +88,7 @@ PSB005	[okay w]ow [wow]
 PSB075	[il significato del be~] c(io)è (.) base
 PSB076	((ride))
 PSB075	però comunque le festività (del)l'induismo sono: parti[colari nel sen]so che:
-PSB076	[#krishna]
+PSB076	#_ [#krishna]
 PSB075	essendo una religione comunque politeista no
 PSB075	c(io)è che d~ c(io)è ha un modo di vedere un po' particolare rispetto alle altre: confessioni
 PSB075	ehm::
@@ -982,9 +982,9 @@ PSB005	e il vostro: la vostra città in bangladesh qual è
 PSB005	la tua [ci]ttà o: originaria
 PSB076	[bah]
 PSB076	o::riginaria >quello:<
-PSB076	#(shiragbunch)
+PSB076	#_ #(shiragbunch)
 PSB005	okay (.) è [una città] piccola una città grande:
-PSB076	[#(shiragbunch)]
+PSB076	#_ [#(shiragbunch)]
 PSB076	m::h no no grande
 PSB076	>no no< non (ho) piccola media
 PSB005	okay
@@ -1165,8 +1165,8 @@ PSB076	no ha anche aperto una: e:hm
 PSB076	ristorante?
 PSB076	>quello:<
 PSB076	un nome: scr[i(tto)]
-PSB075	#[kash]miri?
-PSB076	#kashmiri
+PSB075	#_ #[kash]miri?
+PSB076	#_ #kashmiri
 PSB076	è bellissimo
 ???	°bello°
 PSB076	io piaciuto tanto
@@ -1651,7 +1651,7 @@ PSB075	sì
 PSB076	sì sì
 PSB075	ce ne abbiamo uno in particolare che c'è piaciuto: molto
 PSB005	m:h
-PSB075	nam ki tor?
+PSB075	#_ nam ki tor?
 PSB076	n:[ome]?
 PSB075	[oddio non mi] non ci viene il nome ad[es:so]
 PSB005	[d~ dove] si trova circa
@@ -1720,7 +1720,7 @@ PSB005	[piccolo e:ra mol]to con~ eran molto contenti
 PSB005	((ride))
 PSB005	gli è piaciuto molto
 PSB075	e: adesso sto cercando il no[me]
-PSB005	[m~] eh vabbe non non fa niente non. e voi cosa mi consigliate di
+PSB005	[m~] eh vabbè non non fa niente non. e voi cosa mi consigliate di
 PSB005	mangiare
 PSB005	quando vado (.) se vado a mangiare indiano (.) quali sono i piatti più: buoni
 PSB075	>secondo me i do[lci<]
@@ -1851,14 +1851,14 @@ PSB005	[infatti]
 PSB076	[sì molto carino]
 PSB005	sì sì
 PSB075	poi c'ha anche:
-PSB076	eito bhabi asi bhalo asi apni bhalo asen?
+PSB076	#_ eito bhabi asi bhalo asi apni bhalo asen?
 PSB075	[tanto:]
-PSB076	ekhon kemon?
-PSB076	beshi hoy nato
+PSB076	#_ ekhon kemon?
+PSB076	#_ beshi hoy nato
 PSB076	o:h
-PSB076	dactare bola lagto
+PSB076	#_ dactare bola lagto
 PSB076	((ride))
-PSB076	oh accha baire gechilen naki
+PSB076	#_ oh accha baire gechilen naki
 PSB076	oh
 PSB005	sono:
 PSB076	(sì) e:hm (.) lei è xxx
@@ -2138,21 +2138,21 @@ PSB076	dodici mano
 PSB075	mh
 PSB075	sì
 PSB076	lunghe (lo che >quello<) lo vestito
-PSB075	na tor koto din biye hoy?
-PSB076	amar venticinque
-PSB075	koto din koira biya hoy?
+PSB075	#_ na tor koto din biye hoy?
+PSB076	#_ amar venticinque
+PSB075	#_ koto din koira biya hoy?
 PSB076	°ven~ venticinque anni°
-PSB075	koto din koira biya hoy?
+PSB075	#_ koto din koira biya hoy?
 PSB076	o: due anni
-PSB075	dui din khali
+PSB075	#_ dui din khali
 PSB076	tre giorni l'ha detto tu:
-PSB075	beshi lage
+PSB075	#_ beshi lage
 PSB076	[x]
-PSB076	na chinle ekjon biyar
-PSB076	dekha shona to kore
-PSB076	age @kazi @das bashay duita ar bou bhat tin din
-PSB075	tin din na beshi
-PSB076	oi ek shopta
+PSB076	#_ na chinle ekjon biyar
+PSB076	#_ dekha shona to kore
+PSB076	#_ age @kazi @das bashay duita ar bou bhat tin din
+PSB075	#_ tin din na beshi
+PSB076	#_ oi ek shopta
 PSB075	comun[que un]a settimana dura il [°xxxx°]
 PSB076	[do~]
 PSB005	[ah però]
@@ -2243,13 +2243,13 @@ PSB075	[quin]di non sappiamo neanche le condizioni in cui sono ((ride))
 PSB076	anche anche quando io poso
 PSB076	anche mia mia mamma ha regalato
 PSB076	>quello:< tutte:
-PSB076	halay ki koy?
+PSB076	#_ halay ki koy?
 PSB075	xx
 PSB076	n:[o xx sì]
 PSB075	[delle cose di argen]teria diciamo [xxx °poi:°]
 PSB005	[sì sì oka~]
 PSB076	[sia >sì sì<] lo piatto però: non ne ho: $ceramico non ne ho: acciaio
-PSB076	kashat ki koy?
+PSB076	#_ kashat ki koy?
 PSB075	e:hm (.) di un altro materiale
 PSB076	un mate[riale]
 PSB005	[pre]zio[so]
@@ -2621,7 +2621,7 @@ PSB076	quello CORPO
 PSB076	quello [bruciare le tutte co]se
 PSB075	[scappa l'anima insieme]
 PSB076	va bene però:
-PSB076	atta ki koy?
+PSB076	#_ atta ki koy?
 PSB075	anima
 PSB076	anima (.) anima quello: vola sempre anche nato un altro (palazzo) >quello< (.) quando io m~ (.) metto io chiuso non va bene
 PSB005	cert[o]
@@ -2649,6 +2649,7 @@ PSB005	[mhmh]
 PSB005	>sì sì<
 PSB076	anche quando morto tante cose dop~ dopo serve tante cose
 PSB076	anche all'amore (.) (e a cuore)
+PSB076	#_
 PSB075	[xx c'ha dei ri]tuali molto: (.) lunghi per ogni cosa
 PSB076	ah ah
 PSB076	ta[nte co(se)]
@@ -2829,11 +2830,11 @@ PSB075	[quindi ah okay] quindi tipo da quel che ho capito la comunione è come d
 PSB005	sì
 PSB075	e invece la cresima è come dire tu diffondi la [parola di cristo okay]
 PSB005	[sì sì sì (.) sì]
-PSB076	rohd laktasena
+PSB076	#_ rohd laktasena
 PSB075	ti sta venendo il sole [se vuoi ci spostiamo:]
 PSB005	[no no (.) v~ va bene]
 PSB005	[no no per me va bene]
-PSB076	[xx] onek rhod lage
+PSB076	#_ [xx] onek rhod lage
 PSB075	se:- se vuoi possiamo spostarci [x~]
 PSB005	[PER] adesso no
 PSB075	ok[ay]
@@ -2856,10 +2857,10 @@ PSB075	e all'inizio quando no~ c(io)è io e mia mamma eravamo quando tipo non c'
 PSB005	[okay]
 PSB075	e tipo lei e:hm
 PSB075	non mi ricordo xxx
-PSB075	o ki oshusto silo naki?
-PSB076	na
-PSB075	emni gesilam dhekajae
-PSB076	emni tarpore rhobibar chuti shater ischooler [xxx]
+PSB075	#_ o ki oshusto silo naki?
+PSB076	#_ na
+PSB075	#_ emni gesilam dhekajae
+PSB076	#_ emni tarpore rhobibar chuti shater ischooler [xxx]
 PSB075	[ecco eravamo curiosi ecco] vero era domenica eravamo curiosi di vedere un po' come: funzionava dentro alla chiesa
 PSB076	[tutti i giorni mattina] io cam[mino tanto con lui xxx xxx]
 PSB075	[le campane e n~ eravamo curiosi] eravamo lì dentro ci siamo seduti

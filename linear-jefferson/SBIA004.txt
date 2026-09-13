@@ -735,10 +735,10 @@ PSB025	maleducato, ruba::: fa le rapine
 PSB025	e quello
 PSB025	e:h sta
 PSB025	sporcando la mia faccia hai capito?
-PSB017	xallī-ni nsāli bāsh nmshi
+PSB017	#_ xallī-ni nsāli bāsh nmshi
 PSB017	dopo fai l'intervento tuo (.) sono già a posto?
 PSB017	posso?
-PSB017	shədd-na hnāya ta-dxul w-ddīr l-intervista dyāl-ək [nta māl(-ək)?]
+PSB017	#_ shədd-na hnāya ta-dxul w-ddīr l-intervista dyāl-ək [nta māl(-ək)?]
 PSB025	[già fa]tto io
 PSB017	già fatto? [eh vuoi] entrare nel mia?
 PSB025	[già fatto]

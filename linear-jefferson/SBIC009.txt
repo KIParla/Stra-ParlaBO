@@ -73,7 +73,7 @@ PSB005	[sì perché poi fo]rse sono anche un po' più [cari]
 PSB046	[più cari] sì.
 PSB046	eh questa zona è molto più cara
 PSB005	[sì in via] c'è una coop grande no?
-PSB046	((ride))
+PSB046	[((ride))]
 PSB046	sì (.) iper coop
 PSB046	no iper conad?
 PSB005	s:ì
@@ -101,7 +101,7 @@ PSB046	cinque mesi,
 PSB046	[eheh]
 PSB005	[bisogna anda]rci.
 ???	[xxx]
-PSB046	((ride))
+PSB046	[((ride))]
 PSB005	[sì, (.)] eh certo.
 PSB046	quindi ini[zi: (.)] eh quindi inizi questo mese qua,
 ???	[xx aria di mare]

@@ -597,7 +597,7 @@ PSB072	sì
 PSB071	anche se la persona è più piccola
 PSB071	si rivolge alla persona più anziana che fa un lavoro
 PSB071	diciamo da
-PSB071	[che] è: [come si traduce]
+PSB071	#_ [che] è: [come si traduce]
 PSB072	[sì]
 PSB072	[uno che:] guida il #rickshaw
 PSB072	[che è (.) un tipo di]:
@@ -1015,7 +1015,7 @@ PSB073	[mio f]iglio,
 PSB073	che:
 PSB073	perché io stavo sempre con lui
 PSB073	sapeva fare da a bi c~ tipo
-PSB073	a for apple b for ball
+PSB073	#_ a for apple b for ball
 PSB073	lo sapeva scrivere,
 PSB073	parlare (e)sattamente
 PSB073	le tabelle di uno due qua~ fino quattro lo sapeva
@@ -2127,17 +2127,17 @@ PSB071	#[bong]cha (.) hanno sia il sito inglese,
 PSB072	sì
 PSB071	che il sito b[angla] che parla solo bangla
 PSB073	[come si chiama]?
-PSB073	[bong?]
-PSB071	[bo]ngcha
+PSB073	#_ [bong?]
+PSB071	#_ [bo]ngcha
 PSB071	e[:h]
-PSB073	[°bong°]
+PSB073	#_ [°bong°]
 PSB071	#bongchanit qualcosa del genere
 PSB073	perché io già seguo un eh un eh
 PSB073	uno che si chiama #bongit penso
 PSB071	eh #bongit
-PSB073	[bongit]
-PSB072	[bongit]
-PSB071	[bongit]
+PSB073	#_ [bongit]
+PSB072	#_ [bongit]
+PSB071	#_ [bongit]
 PSB072	l'ha [usato già]
 PSB005	[ah è lo stess]o ma (.) non [sono di qua cioè sono:]
 PSB072	[lei guarda sempre il s~ sempre sì]
@@ -2199,13 +2199,13 @@ PSB072	[vabbè allora ba~ #butter #chicken #butter #chicken]
 PSB071	[è ingle~]
 PSB071	[ingle]ci~ cioè occidentalizzato
 PSB073	eh
-PSB072	butter chicken
+PSB072	#_ butter chicken
 PSB073	#butter #chicken no[n è di cal]cutta amore mio,
-PSB071	[chicken]
+PSB071	#_ [chicken]
 PSB072	[vabbè (chiaro)]
-PSB071	[dimer torkari]
+PSB071	#_ [dimer torkari]
 PSB073	xxx
-PSB071	dimer torkari xx
+PSB071	#_ dimer torkari xx
 PSB072	((ride)) sì
 PSB071	[sì]
 PSB073	[vabbè]
@@ -2222,7 +2222,7 @@ PSB073	come si chiama
 PSB072	[cosa]
 PSB071	e::h
 PSB072	cosa?
-PSB073	turmeric turmeric
+PSB073	#_ turmeric turmeric
 PSB072	ah
 PSB072	curcuma
 PSB071	[curcuma]
@@ -2260,7 +2260,7 @@ PSB073	poi dopo che hai fritto l'olio,
 PSB073	lo togli lo tieni da un'altra parte,
 PSB073	poi mette:
 PSB073	le spezie proprio: sodi come si chiama #jira,
-PSB073	cumin?
+PSB073	#_ cumin?
 PSB071	cumino sì
 PSB073	cumino, okay
 PSB073	eh si mette il #cumin #seeds,
@@ -2570,7 +2570,7 @@ PSB072	[sì sì sì]
 PSB072	[sì #bhorta]
 PSB073	[ah #bhorta no] [#bhorta] [pure c'è calcu][tta]
 PSB072	[sì]
-PSB071	[#bhorta:]
+PSB071	#_ [#bhorta:]
 PSB072	[>cioè< è un tipo di: un tipo di pes]to sì
 PSB071	[però son di meno]
 PSB073	[poca ma poca]
@@ -2586,7 +2586,7 @@ PSB072	[eh il eh]
 PSB073	[olio eh il #mustard #oil]
 PSB071	[di mostarda]
 PSB072	è il eh quello di [senape] olio di senape
-PSB073	[mustard oil]
+PSB073	#_ [mustard oil]
 PSB071	[sì se]pa~ senape (.) mos[tarda]
 PSB072	[quello] se~ senape
 PSB005	[sì]
@@ -3098,7 +3098,7 @@ PSB072	u:h
 PSB074	[o:h]
 PSB071	[e:h]
 PSB072	sembra sembrano proprio come il serpente
-PSB073	#yes
+PSB073	#_ #yes
 PSB005	[io io] sono un po' difficile su: [sulle be]stie diciamo sulle
 PSB073	[stai zit~]
 PSB071	[su alcuni pesci]
@@ -3206,7 +3206,7 @@ PSB072	sì sì
 PSB005	ma questa è una cosa che non ho mai sentito ma è bellissi[mo]
 PSB071	[si] chiama #pukur
 PSB072	sì
-PSB071	pukur
+PSB071	#_ pukur
 PSB073	no io non l'ho visto perché: con [loro stavo parlando proprio] di
 PSB071	[eh noi siam di paese]
 PSB073	[villag]gio vil[laggio io sono un via di mezzo]

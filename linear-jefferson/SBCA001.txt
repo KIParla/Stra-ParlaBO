@@ -224,7 +224,7 @@ PSB044	sì
 PSB043	di accetare la malattia di:: °sì°
 PSB043	di cu~ anche di <collaborazioni>
 PSB043	collaborazioni (.) [paro]la un po' difficile
-PSB044	[mh ((ride))
+PSB044	[mh [((ride))
 PSB044	((ride))
 PSB043	mi aiuti araba:?
 PSB044	((ride))
@@ -234,9 +234,9 @@ PSB043	ah ah
 PSB043	((ride))
 PSB033	m:h
 PSB033	no
-PSB043	mh ta3awun
+PSB043	#_ mh ta3awun
 PSB033	mh?
-PSB043	ta3awun
+PSB043	#_ ta3awun
 PSB033	ah
 PSB033	no mai [sentita]
 PSB043	[un nuovo] voca[bola(rio) eh]
@@ -1109,10 +1109,10 @@ PSB045	ma sì: d[ai:]
 PSB044	[gr]az[ie:]
 PSB033	[quindi pre]sentazione del [piatto]
 PSB044	[presentazio]ne del pia~ nome del piatto abbiamo qua
-PSB043	siffa
-PSB033	siffa
-PSB044	siffa
-PSB043	siffa
+PSB043	#_ siffa
+PSB033	#_ siffa
+PSB044	#_ siffa
+PSB043	#_ siffa
 PSB043	((ride)) #siffa dolce
 PSB043	questi qua cos~ come si chiamano in italiano
 PSB043	questa pasta piccolina qua
@@ -1208,7 +1208,7 @@ PSB045	ecco qua
 PSB043	vai
 PSB045	a posto
 PSB044	gr:azie
-PSB033	(#da:::nke)
+PSB033	#_ (#da:::nke)
 PSB045	vai vai
 PSB043	lascio qua si volete ancora,
 PSB044	[mamma mia l'iphone poi fa risultare] queste
@@ -1902,7 +1902,7 @@ PSB033	((ride))
 PSB045	quando ti ha detto che parlo tutte [le (ore)]
 PSB043	[guarda] non mi non: io::: ho::::: °o:h non non°
 PSB044	hai rimosso?
-PSB045	mn li gal liya gbila tan dwiu hada w-dhakti 3li gilti li-ya ma 3amri hada ma 3amri galha liya shi had
+PSB045	#_ mn li gal liya gbila tan dwiu hada w-dhakti 3li gilti li-ya ma 3amri hada ma 3amri galha liya shi had
 PSB033	[°mi immagino poi che la persona che trascrive che si sente] prprprpr[prppà] ((ride))
 PSB043	[ah sì]
 PSB043	potrebbe essere sì [infatti]
@@ -2118,7 +2118,7 @@ PSB043	ah [si si ve~]
 PSB044	[chiacchierava] con tut~
 PSB044	dai eri preferita
 PSB033	chiedi a rossi se mi amava
-PSB044	no va beh
+PSB044	no vabbè
 PSB044	[di quasi tutti vabbè rossi]
 PSB045	[ma vabbè non ti disprezzava] dai
 PSB044	[ma chi è] c[he che av]eva::[:: un: dai]
@@ -2165,9 +2165,9 @@ PSB045	[sì sì sì]
 PSB043	[chiacchierona]
 PSB045	eh vabbè
 PSB033	che si dice:?
-PSB044	tharthara
+PSB044	#_ tharthara
 PSB043	#tharthara sì
-PSB044	tharthara
+PSB044	#_ tharthara
 PSB043	o:::h [oh br]ava
 PSB033	[e:h]
 PSB033	chiacch[ierona lo sa]
@@ -2179,13 +2179,13 @@ PSB044	[c'era anche all'esame]
 PSB044	((ride))
 PSB045	serve ((ride))
 PSB045	e quel~ ((ride))
-PSB044	dhakiyya
+PSB044	#_ dhakiyya
 PSB045	ecco
-PSB033	dhakiyya
+PSB033	#_ dhakiyya
 PSB043	#dhakiyya sì
-PSB033	wa tharthara
+PSB033	#_ wa tharthara
 PSB043	[perfetto]
-PSB043	tharthara
+PSB043	#_ tharthara
 PSB045	[a po~]
 PSB044	[#dakiyya s]ignifica intelli[gente]
 PSB045	[sei tu]
@@ -2193,7 +2193,7 @@ PSB033	[intelligente]
 PSB044	ah [ah no]
 PSB043	[#xx no]?
 PSB045	[non] lo [uso io]
-PSB043	dhakiyya wa tharthara
+PSB043	#_ dhakiyya wa tharthara
 PSB043	okay
 PSB045	((ride))
 PSB044	((ride)) AH okay mi dici?

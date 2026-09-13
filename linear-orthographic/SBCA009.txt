@@ -17,7 +17,7 @@ PSB143	prima stavo facendo i quiz di patente
 PSB142	eh come sta andando
 PSB143	ma guarda è di una noia mortale
 PSB142	lascia stare lascia stare
-PSB143	guarda spero di prenderla inshāllāh però
+PSB143	guarda spero di prenderla #inshāllāh però
 PSB142	sì sì
 PSB143	di questo passo non so eh quando
 PSB142	eh
@@ -113,8 +113,8 @@ PSB142	mh
 PSB143	e niente vabbè ho l'esame il ventisei giugno
 PSB142	mh
 PSB142	dai
-PSB142	ce la fai secondo me inschallah
-PSB143	sì inshallah speriamo di sì
+PSB142	ce la fai secondo me #inschallah
+PSB143	sì #inshallah speriamo di sì
 PSB143	tu invece che cosa stai facendo
 PSB142	adesso sto preparando un esame
 PSB143	mhmh
@@ -122,7 +122,7 @@ PSB143	quando ce l'hai
 PSB142	mh
 PSB142	fra un mese circa
 PSB143	sì
-PSB142	āllāḥ y-3āwn-ek, āmīn
+PSB142	#_ āllāḥ y-3āwn-ek, āmīn
 PSB142	che si chiama strutture dati e algoritmi
 PSB142	è diviso in due parti teoria e programmazione laboratorio
 PSB143	sì
@@ -185,7 +185,7 @@ PSB142	quello che poi ha fatto
 PSB143	business intelligence sì
 PSB142	sì esatto infatti è un corso che fanno molto in economia e veramente
 PSB142	consiglio tantissimo di fare un corso di eh in esse qu elle e così via perché molti che fanno economia
-PSB142	poi si specializzano in data analysis trovano un sacco lavoro
+PSB142	poi si specializzano in #data #analysis trovano un sacco lavoro
 PSB143	sì
 PSB143	sì infatti mh
 PSB142	cioè è un corso che magari puoi trovare online cose così magari ca~ anche gratis cioè comunque fa
@@ -196,7 +196,7 @@ PSB143	ho trovato un sito che si chiama mh
 PSB143	tipo big data qualcosa
 PSB142	okay
 PSB143	con proprio con dei corsi
-PSB143	e ne ha fatti alcuni ne ha fatto uno su power bi ai
+PSB143	e ne ha fatti alcuni ne ha fatto uno su #power #bi #ai
 PSB142	mh okay non lo conosco
 PSB143	ehm comunque mh cioè sempre questi strumenti di business intelligence
 PSB142	mhmh
@@ -248,8 +248,8 @@ PSB143	sì
 PSB142	sì cerca di capire
 PSB143	se mi prendono
 PSB143	boh
-PSB142	inshāllāh
-PSB143	si vedrà inshāllāh
+PSB142	#_ inshāllāh
+PSB143	si vedrà #inshāllāh
 PSB143	però sì questi corsi avevo intenzione di farli
 PSB142	ma sì ma sì
 PSB143	e
@@ -263,7 +263,7 @@ PSB142	molto
 PSB143	ehm i software son tipo i gestionali i ar pi i sap quelle cose lì te le insegnano tutte a lavoro
 PSB142	sì
 PSB143	alla fine
-PSB143	eh quella quell'azienda lì che mi aveva contattato cioè era una una posizione nella nell'acquisto e supply chain
+PSB143	eh quella quell'azienda lì che mi aveva contattato cioè era una una posizione nella nell'acquisto e #supply #chain
 PSB142	mhmh
 PSB143	e mi avrebbero formata anche su quei software
 PSB143	ehm
@@ -286,11 +286,11 @@ PSB142	sì sì sì sì
 PSB143	le vacanze
 PSB142	subito
 PSB143	no infatti
-PSB143	ehm quindi direi di no magari inshāllāh dopo l'estate
+PSB143	ehm quindi direi di no magari #inshāllāh dopo l'estate
 PSB142	mh
 PSB143	potrei andare lì a vedere la mia famiglia però è an~ cioè è ancora difficile perché sarebbero i primi mesi
 PSB142	esatto
-PSB143	però secondo me mia madre inshāllāh potrebbe andare da sola
+PSB143	però secondo me mia madre #inshāllāh potrebbe andare da sola
 PSB142	e tua sorella rimarrebbe qua con te
 PSB143	e
 PSB143	eh io non lo so perché avrebbe poi la sessione
@@ -382,7 +382,7 @@ PSB143	dopo potresti mandarmi il sito del
 PSB142	sì ma adesso adesso c~ cioè adesso che vado a casa perché devo andare te lo mando subito va bene
 PSB143	xx x
 PSB143	mhmh
-PSB143	dai va bene inshāllāh grazie mille
+PSB143	dai va bene #inshāllāh grazie mille
 PSB142	gra~ ma grazie a te per questa merenda ci vediamo
 PSB143	dai ci vediamo a domani
 PSB142	cia~

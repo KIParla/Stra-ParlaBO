@@ -577,7 +577,7 @@ PSB022	ancora un mese
 PSB005	sì infatti
 PSB022	se ehm
 PSB022	non è finito
-PSB022	queste vicino zaporižžja
+PSB022	queste vicino #zaporižžja
 PSB005	mhmh
 PSB022	forse x
 PSB022	biglietto ma
@@ -875,8 +875,8 @@ PSB005	è giusto
 PSB022	anche che quando questo anche per me difficile
 PSB005	perché dimmi
 PSB022	perché sempre devo
-PSB022	ba
-PSB022	ba
+PSB022	#_ ba
+PSB022	#_ ba
 PSB022	no~ nonna nonna
 PSB022	dai questa nonna dai do~ da~
 PSB022	io voglio questo io vo~
@@ -1120,12 +1120,12 @@ PSB022	sì
 PSB005	sì sì certo
 PSB022	lui andata perché eh la d~ stato amico
 PSB022	poi mico p~ preso
-PSB022	u~ un grant
+PSB022	# u~ un #grant
 PSB022	eh mh
 PSB022	mh
 PSB022	per studiare in america
-PSB005	un fina~ sì sì un un grant
-PSB022	grant
+PSB005	un fina~ sì sì un un #grant
+PSB022	#_ grant
 PSB005	in i~ in inglese sì
 PSB005	un finanziamento si dice in i~ oh no sai cosa puoi dire una borsa
 PSB022	s~ sì lui
@@ -1147,7 +1147,7 @@ PSB005	mhmh
 PSB022	cento e~ mille euro
 PSB005	eh sì
 PSB022	eh ma questa lui
-PSB022	eh jurist
+PSB022	# eh #jurist
 PSB005	sì
 PSB022	x cara tanto
 PSB005	mhmh mhmh
@@ -1428,7 +1428,7 @@ PSB005	eh tipo milano marittima
 PSB022	xx casa non lo so x lid~ eh
 PSB022	lid~ xxx
 PSB005	cioè si chiama tipo lido di
-PSB022	da eh
+PSB022	#da eh
 PSB022	questa casa lei e o eh con mare coi ah ah
 PSB005	sì
 PSB022	vicina vicina
@@ -2004,7 +2004,7 @@ PSB005	ah
 PSB022	e poi e~ anche parla
 PSB022	no eh
 PSB005	eh
-PSB022	kisia xx xx ao
+PSB022	#kisia xx xx ao
 PSB022	ao
 PSB005	ti manda via ti dice vai via eh
 PSB022	ma che vuoi
@@ -2787,9 +2787,9 @@ PSB022	stata m~ militare e sempre
 PSB022	to- t~ germania
 PSB022	poi bielorussia poi
 PSB022	ehm
-PSB022	zaporižžja
+PSB022	#_ zaporižžja
 PSB005	mhmh
-PSB022	e quando sono arrivati zaporižžja in ucraina
+PSB022	e quando sono arrivati #zaporižžja in ucraina
 PSB022	ah
 PSB022	io già studiato cinque
 PSB022	e o sei class~
@@ -2833,7 +2833,7 @@ PSB022	a parla tanto con persone italiane io non parlo tanto
 PSB005	sì sì sì
 PSB005	sì sì
 PSB022	con persone solo
-PSB022	eh e t~ emh eh
+PSB022	eh e t~ ehm eh
 PSB022	non visto
 PSB022	sempre perché
 PSB005	n~ no
@@ -2856,7 +2856,7 @@ PSB022	omh
 PSB005	o no
 PSB022	sì sì
 PSB005	mi ricordo questa cosa
-PSB022	da sì
+PSB022	#da sì
 PSB022	pa la~
 PSB022	ma io andata via perché non posso
 PSB005	mhmh
@@ -2877,7 +2877,7 @@ PSB005	mhmh
 PSB022	sempre ride sempre così io xx
 PSB022	sempre
 PSB022	eh
-PSB022	si chiam~ io njanja njanja do~
+PSB022	si chiam~ io #njanja #njanja do~
 PSB022	eh dada dada
 PSB005	mhmh
 PSB022	e lui sempre
@@ -2939,14 +2939,14 @@ PSB022	sì all'università
 PSB005	come si chiama
 PSB022	sì sì
 PSB005	no non fa niente
-PSB022	blin zabyla kak eё gospodi
+PSB022	#_ blin zabyla kak eё gospodi
 PSB022	xx
 PSB005	perché io lavoro alla adesso
 PSB005	forse è lo stesso posto
 PSB022	no no lei dice ts~ mh
-PSB022	da
+PSB022	#_ da
 PSB022	cost~ qui non c'è
-PSB022	k~ kak kak že eё familija blin zabyla
+PSB022	#_ k~ kak kak že eё familija blin zabyla
 PSB022	no
 PSB022	ad ah no eh lei lavora ancora mh
 PSB022	capo di
@@ -2975,17 +2975,17 @@ PSB005	sì ma quando torno la prossima volta poi me lo dici sì
 PSB022	s- eh sì
 PSB005	sì sì non ti preoccupare
 PSB022	mh
-PSB022	oh blin
+PSB022	#_ oh blin
 PSB005	sono solo curiosa così d~ ma
 PSB022	non mi ricordo sai
 PSB022	xx
 PSB005	no ma non fa niente non ti preoccupare
 PSB005	non ti preoccupare
 PSB022	sì lei ancora lavora e lei adesso t~ eh
-PSB022	kafedra ili com'è che si chiama
+PSB022	#kafedra #ili com'è che si chiama
 PSB005	cattedra sì sì sì
 PSB022	xx lei emh
-PSB022	oh tolstaja
+PSB022	#_ oh tolstaja
 PSB022	xx
 PSB022	grassa
 PSB005	ah lei è grassa
@@ -2998,8 +2998,8 @@ PSB005	dell'ufficio e il nome di fianco
 PSB022	ah sì
 PSB005	magari lo vedo
 PSB005	e poi
-PSB022	vot c~ eh eh gira ehm
-PSB022	ne
+PSB022	#vot c~ eh eh gira ehm
+PSB022	#_ ne
 PSB005	vabbè quando ti viene in mente poi me lo dici non ti preoccupare
 PSB022	xxx
 PSB005	era una curiosità solo

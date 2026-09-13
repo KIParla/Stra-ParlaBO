@@ -351,13 +351,13 @@ PSB005	dove vuoi
 PSB059	cosa scrivo
 PSB005	scrivi un boh scrivi casa non lo so
 PSB005	ma guarda ma che meraviglia guarda
-PSB059	si dice barì
+PSB059	si dice #barì
 PSB005	okay puoi scrivere
 PSB059	ehm
 PSB005	così con la bi
 PSB059	sì
 PSB005	eh scusa storto
-PSB059	sì era così barì
+PSB059	sì era così #barì
 PSB005	giusto con l'accento forse così
 PSB059	sì
 PSB059	sì
@@ -373,7 +373,7 @@ PSB005	e tu non sai scrivere tipo con le lettere arabe anche
 PSB059	no arabo non so però so leggere
 PSB059	so leggere perché
 PSB005	sai leggere
-PSB059	xxx sì nella quran
+PSB059	xxx sì nella #quran
 PSB005	okay
 PSB005	sì sì sì
 PSB059	per nostro
@@ -382,7 +382,7 @@ PSB005	quindi tu s~ sei andato in una scuola per imparare le lettere
 PSB059	obbligo
 PSB059	sì
 PSB005	a leggere solo
-PSB059	eh sono andato mosque
+PSB059	eh sono andato #mosque
 PSB005	certo in bangladesh
 PSB059	sì
 PSB005	e qui
@@ -733,7 +733,7 @@ PSB005	buonissimo mhmh
 PSB005	cioè una speciale un riso speciale
 PSB059	sì
 PSB059	eh non ho mangiato mai un riso
-PSB059	si chiama biryani
+PSB059	si chiama #biryani
 PSB005	okay
 PSB005	beh l'ho sentito il nome sì sì sì sì
 PSB059	eh
@@ -761,7 +761,7 @@ PSB005	è buo~ ci tu ci sei stato
 PSB059	si tante volte
 PSB005	com'è
 PSB059	buono però mia sorella
-PSB059	sa tu~ tantissimo cucinare benis~ buonissimo già fatto neanche foto ieri sono mangiato biryani
+PSB059	sa tu~ tantissimo cucinare benis~ buonissimo già fatto neanche foto ieri sono mangiato #biryani
 PSB005	okay
 PSB005	eh adesso quando tua sorella impara un po' di italiano mi spiega lei
 PSB059	sì

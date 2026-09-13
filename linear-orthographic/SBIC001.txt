@@ -157,7 +157,7 @@ PSB001	adesso
 PSB005	a marzo
 PSB001	mhmh
 PSB005	eh adesso ha iniziato il dottorato
-PSB005	il phd eh ahm a
+PSB005	il #phd eh ahm a
 PSB001	eh
 PSB001	sì
 PSB005	sì al sì
@@ -383,7 +383,7 @@ PSB005	per niente
 PSB001	ma voi sap~ sapete quella la fac~ la fa~ la faticoltà si chiama
 PSB001	ah fisico eh
 PSB001	eh
-PSB001	tiān wén xué (.) zǎ shuō de a
+PSB001	#_ tiān wén xué (.) zǎ shuō de a
 PSB001	fisico
 PSB002	ah
 PSB002	astronomia
@@ -688,7 +688,7 @@ PSB001	eh frequen~ frequento l'università
 PSB005	mhmh
 PSB001	e poi
 PSB001	faccio
-PSB001	la parte part time job
+PSB001	la parte #part #time #job
 PSB001	e così
 PSB005	mhmh okay
 PSB005	sì
@@ -924,8 +924,8 @@ PSB001	sì
 PSB002	come come
 PSB001	sì piaciuta sì anche con la con la mh
 PSB001	eh come si di- la situazione
-PSB001	zhè gè dì li
-PSB001	wèi zhì
+PSB001	#_ zhè gè dì li
+PSB001	#_ wèi zhì
 PSB005	sì sì
 PSB002	è la posizione geografica
 PSB001	ah sì è la posizio~
@@ -938,9 +938,9 @@ PSB001	sì sì sì come un
 PSB001	come nete
 PSB002	ah x
 PSB005	mhmh
-PSB001	nete yǒu wǎng
+PSB001	nete #yǒu #wǎng
 PSB002	ah bene
-PSB001	zhī zhū wǎng
+PSB001	#_ zhī zhū wǎng
 PSB002	ragnatel come si ra
 PSB005	okay ho ca~ forse ho capito rete
 PSB002	x
@@ -954,21 +954,21 @@ PSB001	eh rete
 PSB001	eh
 PSB001	un
 PSB001	come si dice
-PSB001	un ci~ ci circo yī quān
+PSB001	un ci~ ci circo #yī #quān
 PSB001	circo
-PSB002	yī quān shén me
-PSB001	yī quān hé yī quān
-PSB002	yī quān hé
-PSB001	wǒ bù zhī dào zěn me shuō
-PSB001	jiù shì tā nèi gè zhī zhū wǎng
+PSB002	#_ yī quān shén me
+PSB001	#_ yī quān hé yī quān
+PSB002	#_ yī quān hé
+PSB001	#_ wǒ bù zhī dào zěn me shuō
+PSB001	#_ jiù shì tā nèi gè zhī zhū wǎng
 PSB002	ah
 PSB001	scusa
 PSB005	no no no prego prego prego
-PSB002	xx nǐ shuō
-PSB001	jiù shì (.) jiù shì tā
-PSB001	jiù shì lù dì (.) rán hòu wài miàn yǒu yī quān hé yǒu
+PSB002	#_ xx nǐ shuō
+PSB001	#_ jiù shì (.) jiù shì tā
+PSB001	#_ jiù shì lù dì (.) rán hòu wài miàn yǒu yī quān hé yǒu
 PSB002	ah
-PSB001	rán hòu yòu yī quān lù dì rán hòu yòu yī quān hé yǒu
+PSB001	#_ rán hòu yòu yī quān lù dì rán hòu yòu yī quān hé yǒu
 PSB001	io cerco di circ~ circonda
 PSB002	ah la terra è circondata da dai fiumi i fiumi è circondata dalla terra così
 PSB005	ah okay
@@ -1216,14 +1216,14 @@ PSB005	mhmh
 PSB001	modi
 PSB001	ah cucinare
 PSB002	sì
-PSB001	suàn ma (.) bā zhǒng zuò fǎ
-PSB002	a bā zhǒng wǒ yǐ wéi nǐ shuō
-PSB002	cài xì
-PSB001	duì acài xì wǒ xiǎng shuō cài xì dàn wǒ bù zhī dào zěn me qù fān yì
-PSB002	duì a
+PSB001	#_ suàn ma (.) bā zhǒng zuò fǎ
+PSB002	#_ a bā zhǒng wǒ yǐ wéi nǐ shuō
+PSB002	#_ cài xì
+PSB001	#_ duì acài xì wǒ xiǎng shuō cài xì dàn wǒ bù zhī dào zěn me qù fān yì
+PSB002	#_ duì a
 PSB001	mh
 PSB002	sì
-PSB001	bā zhǒng zuò fǎ (.) yīng gāi yě bù shì zuòfǎ
+PSB001	#_ bā zhǒng zuò fǎ (.) yīng gāi yě bù shì zuòfǎ
 PSB002	otto filoni di
 PSB005	mhmh
 PSB002	cioè di cucina
@@ -1299,11 +1299,11 @@ PSB001	pesce sì anche pesce sì
 PSB002	sì
 PSB002	sì sì molto piccante molto famoso cioè un piatto famossisimo in cina
 PSB005	okay
-PSB001	duò jiāo yú tóu
+PSB001	#_ duò jiāo yú tóu
 PSB002	sì
 PSB002	sì
 PSB002	sì
-PSB002	duò jiāo yú tóu sì
+PSB002	#_ duò jiāo yú tóu sì
 PSB005	ma è una zuppa o è un
 PSB002	no con la testa di pesce
 PSB001	sì ride
@@ -1359,7 +1359,7 @@ PSB001	per esempio
 PSB001	io sono sono compro
 PSB001	i condimenti
 PSB002	ah
-PSB001	sì tiáo wèi liào
+PSB001	sì #tiáo #wèi #liào
 PSB002	sì le s~
 PSB002	spezie
 PSB005	spezie
@@ -1533,20 +1533,20 @@ PSB001	mh vicino quella
 PSB001	piazza verde
 PSB005	mhmh
 PSB001	ma non no non anima~
-PSB001	no no esa~ dove jiù shì
+PSB001	no no esa~ dove #jiù #shì
 PSB005	mhmh
 PSB001	e
 PSB002	sud o nord
 PSB002	della piazza verde
 PSB005	eh qua ci devo pensare anch'io
-PSB001	((ride)) dōng shì shén me lái zhe
+PSB001	#_ ((ride)) dōng shì shén me lái zhe
 PSB005	verso la stazione
 PSB002	est
 PSB002	est
 PSB001	est
 PSB001	eh
 PSB005	oddio aiuto
-PSB005	verso la stazione o dall'altra parte
+PSB005	verso la stazione o dall' altra parte
 PSB001	sì
 PSB002	no sta dicendo forse a
 PSB001	no comunque c'è là
@@ -1554,15 +1554,15 @@ PSB005	ah sì è vero
 PSB001	ah forse è lì
 PSB005	possiamo prenderla una ce ne sono anche delle altre asp~
 PSB005	ce ne sono anche di di qua
-PSB002	dōng dōng-dōng nán biān
-PSB002	bú shìxx
-PSB001	bú shì jiù shì
-PSB001	tā jiù zài shì zhōngxīn nǐ zhīdào yǐqián mòlìhuā zài nǎ ma
-PSB002	bù zhī dào
-PSB001	jiù hen xiàn zài yǐ jīng dǎo bì le
-PSB002	mò lì - mò lì huā bù zhī dào
+PSB002	#_ dōng dōng-dōng nán biān
+PSB002	#_ bú shìxx
+PSB001	#_ bú shì jiù shì
+PSB001	#_ tā jiù zài shì zhōngxīn nǐ zhīdào yǐqián mòlìhuā zài nǎ ma
+PSB002	#_ bù zhī dào
+PSB001	#_ jiù hen xiàn zài yǐ jīng dǎo bì le
+PSB002	#_ mò lì - mò lì huā bù zhī dào
 PSB005	guardate qua è qua
-PSB001	a zhè er zhè er
+PSB001	#_ a zhè er zhè er
 PSB002	qua abbiamo trovato
 PSB001	okay
 PSB005	ve la posso anche dare se volete
@@ -1623,7 +1623,7 @@ PSB005	sì sì
 PSB001	io nemmeno
 PSB005	eh vabbè ma perché
 PSB001	zuppa inglese
-PSB005	c'è un dolce inglese che si chiama trifle
+PSB005	c'è un dolce inglese che si chiama #trifle
 PSB002	ah
 PSB005	che assomiglia
 PSB005	è simile e quindi
@@ -1637,7 +1637,7 @@ PSB001	ah
 PSB002	sì
 PSB001	mhmh
 PSB005	e crema
-PSB001	zuppa
+PSB001	#_ zuppa
 PSB002	ah okay
 PSB001	tipo zabaione
 PSB005	e si mh
@@ -1646,7 +1646,7 @@ PSB005	si si si prende un liquore
 PSB001	mhmh
 PSB005	è alcolico
 PSB005	eh
-PSB002	jìn shī de
+PSB002	#_ jìn shī de
 PSB005	sì con
 PSB005	non so se ci si mette tipo del dell'acqua cioè più diluito insomma
 PSB002	sì sì
@@ -2018,7 +2018,7 @@ PSB005	mhmh
 PSB002	quindi un po' di
 PSB002	eh come
 PSB002	cioè vicino a
-PSB002	nán jīng huà
+PSB002	#_ nán jīng huà
 PSB005	io comunque non conosco io non sonulla
 PSB002	eh di nanchino cioè il dialetto
 PSB005	okay quindi spiegatemi tutto sì
@@ -2161,9 +2161,9 @@ PSB005	okay
 PSB001	e invece nán biān huà un altro dia~ diale~ ade~ dialetto
 PSB001	è similie con
 PSB001	il
-PSB001	capo wǒ kě yǐ shuō nèi gè wǒ men
-PSB001	hú nán de
-PSB001	shěng huì chéng shì
+PSB001	capo #wǒ #kě #yǐ #shuō #nèi #gè #wǒ #men
+PSB001	#_ hú nán de
+PSB001	#_ shěng huì chéng shì
 PSB002	capoluogo cioè la il dialetto sì
 PSB001	capoluogo
 PSB005	okay
@@ -2228,10 +2228,10 @@ PSB001	coniuga collegato per du~ due due parole
 PSB001	collega
 PSB005	mhmh
 PSB001	come si dice
-PSB001	jiù lián yīn
+PSB001	#_ jiù lián yīn
 PSB005	forse sono
-PSB002	lián-lián yīn
-PSB001	ah bǐ rú shuō yī qǐ shuō de hěn kuài yí xià jiù tīng bù dǒng
+PSB002	#_ lián-lián yīn
+PSB001	#_ ah bǐ rú shuō yī qǐ shuō de hěn kuài yí xià jiù tīng bù dǒng
 PSB002	ah quando si parla molto veloce ehm si f~ fa fatica a capire
 PSB005	ah a capire
 PSB002	sì
@@ -2338,8 +2338,8 @@ PSB005	sì
 PSB005	ti capita
 PSB005	di leggere
 PSB001	ah
-PSB002	kàn bào zhǐ zhī lèi de (.) xīn wén
-PSB001	hǎo xiàng
+PSB002	#_ kàn bào zhǐ zhī lèi de (.) xīn wén
+PSB001	#_ hǎo xiàng
 PSB001	no no
 PSB005	no no okay no no ma non c'è niente di male eh non
 PSB005	sì sì no non c'è niente di male
@@ -2529,7 +2529,7 @@ PSB001	ba~ ra~
 PSB001	imbarazzante
 PSB005	mhmh
 PSB005	mhmh sì
-PSB001	imbarazzante è imbarazzante gān gà
+PSB001	imbarazzante è imbarazzante #gān #gà
 PSB005	che cosa
 PSB002	imbarazzante
 PSB005	mhmh

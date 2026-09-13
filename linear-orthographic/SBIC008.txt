@@ -405,7 +405,7 @@ PSB037	parla con lei lei è brava
 PSB038	no ma no io non c'ho voglia di fare
 PSB005	no dai vieni anche tu
 PSB038	va bene
-PSB037	nǐ zài gēn tā liáo yi liáo ba
+PSB037	#_ nǐ zài gēn tā liáo yi liáo ba
 PSB005	facciamo la seconda parte
 PSB005	sì sì sì facciamo la seconda parte
 PSB005	perché ci hai raccontato tante cose prima
@@ -576,7 +576,7 @@ PSB005	sì sì certo ma quali sono i social cinesi
 PSB038	tiktok
 PSB005	okay beh sì
 PSB038	oppure redmi
-PSB038	che sarebbe in cinese si dice xiǎo hóng shū
+PSB038	che sarebbe in cinese si dice #xiǎo #hóng #shū
 PSB038	che sarebbe u~ sempre un social dove le persone pubblicano attraverso dei post o dei video i loro momenti condividono i loro momenti
 PSB038	e trovi un po' di tutto mh
 PSB038	magari degli argomenti di musica che ti consigliano oppure

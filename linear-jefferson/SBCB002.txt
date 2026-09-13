@@ -67,12 +67,12 @@ PSB093	[mhmh], potresti essere la collega
 PSB005	[>sì sì<]
 PSB094	sì
 PSB093	e::hm
-PSB093	there's no problem
-???	xxx
-PSB093	eita haray jabena oikhane rekhegele ami [to konodin j]ante par[bona bhujteo pa]rbona (.) oikhane rekegese ami ki niashbo naki khor[bo]
+PSB093	#_ there's no problem
+???	#_ xxx
+PSB093	#_ eita haray jabena oikhane rekhegele ami [to konodin j]ante par[bona bhujteo pa]rbona (.) oikhane rekegese ami ki niashbo naki khor[bo]
 ???	[eh]
 ??	[xxx]
-??	[dorja] khola ami to ante [gechilam]
+??	#_ [dorja] khola ami to ante [gechilam]
 PSB095	[°>sì sì sì<], è solo da mettere a posto°
 PSB093	BANGLA #acha #thikache #ami #thaole #ektu #pore #thike #shater #kotha #boli #sorry [scusa]
 PSB005	>[no no] no< niente, niente
@@ -85,9 +85,9 @@ PSB005	sto imparando a riconoscere, lentamente (.) ((ride))
 ???	((ride))
 ???	ciao
 PSB005	ciao, [>ciao ciao<]
-??	[xxx]
+??	#_ [xxx]
 PSB093	#[ekhn] ami #nilam (.) #amake #janio (.) #oke [#ami #dekhi] #ami (.) #hae ami dekhi #ami stampelle #nhite #hobe #amake
-??	[xxx]
+??	#_ [xxx]
 PSB005	allora ripetimi cosa devo dire a: quella ragazza
 PSB093	e::h (.) noi siamo:: un (.) o:h (.) cooperativa, si chiama
 PSB005	okay
@@ -431,9 +431,9 @@ PSB094	[°no:?°]
 PSB005	[dici che] è per quello?
 PSB094	[eh secondo me] sì
 PSB005	[°a::h°]
-PSB093	sylhet tea
+PSB093	#_ sylhet tea
 PSB005	°a:[:h°] ((ride)) scopriamo delle cose ((ride))
-PSB094	sylhet tea
+PSB094	#_ sylhet tea
 PSB093	#tea sylhet
 PSB094	ma guarda che ieri pomeri~ (.) qui, in questo: (.) in questo circo[lo]
 PSB005	[e]:h
@@ -698,7 +698,7 @@ PSB005	[noi stiamo ridendo] ma ((ride)) [è una tragedia]
 PSB093	[è iuna tragedia] pensa: [(.) pe]nsa [(solo) que]s[to:]
 PSB094	[AH AH]
 PSB094	[ma tu guarda:]
-PSB094	[fu]n fact
+PSB094	#_ [fu]n fact
 PSB094	((ride))
 PSB005	esatto: ((ride))
 PSB093	(questo) sono:, unica cosa è questo:,

@@ -380,7 +380,7 @@ PSB156	così puoi fare tante cose quando hai poco tempo fai comunque tante cose
 PSB141	ah sì
 PSB156	e i piatti marocchini invece
 PSB156	li continui a fare
-PSB141	sì sì sì sì cous cous tajine tutte le cose marocchine sì sì
+PSB141	sì sì sì sì cous cous #tajine tutte le cose marocchine sì sì
 PSB156	mh
 PSB141	sì
 PSB141	però adesso eh eh eh i miei figli piacciono eh eh piatti italiani perché tutta la giornata eh sì
@@ -404,7 +404,7 @@ PSB156	mhmh
 PSB156	mhmh
 PSB141	quello
 PSB156	quindi ma c'è un piatto marocchino che però a loro piace tanto
-PSB141	sì cous cous o altro si chiama rfissa
+PSB141	sì cous cous o altro si chiama #rfissa
 PSB156	eh
 PSB156	ah okay
 PSB141	fanno col pollo e pane sottile
@@ -462,11 +462,11 @@ PSB156	ah
 PSB156	sì
 PSB141	prend~ perché in marocco prendiamo i vestiti nuovi per i bimbi
 PSB156	sì
-PSB141	no no fa- faccio tutto anche facciamo henna per i bimbi una cosa significa la gioia
+PSB141	no no fa- faccio tutto anche facciamo #henna per i bimbi una cosa significa la gioia
 PSB156	ah
 PSB156	mhmh
 PSB156	ah cioé ogni disegno ha il suo significato
-PSB141	no no solo le allora l l'henna significa la gioia hai capito quando mettiamo mettiamo solo quando c'è una festa o
+PSB141	no no solo le allora l l'#henna significa la gioia hai capito quando mettiamo mettiamo solo quando c'è una festa o
 PSB156	no
 PSB156	ah okay
 PSB156	sì
@@ -504,7 +504,7 @@ PSB141	ah
 PSB141	ci vuole un po' xxx
 PSB156	eh sì
 PSB156	quando torno ho sempre un po' l'accento pugliese invece quando arrivo e loro mi dicono ma senti questa come parla
-PSB156	mio nonno quando gli dicevo ciò mi diceva ma che lingua parli
+PSB156	mio nonno quando gli dicevo #ciò mi diceva ma che lingua parli
 PSB141	però lo stesso paese xxxx
 PSB156	eh sì
 PSB156	sì sì
@@ -828,9 +828,9 @@ PSB141	sì come ho detto c'è un lago grande mh tutto il contorno ristorante c'�
 PSB156	ah
 PSB156	mhmh
 PSB141	anc~ mh ci so~ ristoranti b~ bellissimi anche fanno dei cibi buonissimi
-PSB141	poi ehm trovi dentro c'è ragazze che fanno l'henna
+PSB141	poi ehm trovi dentro c'è ragazze che fanno l'#henna
 PSB156	mhmh
-PSB141	ci sono tante ragazze che fanno henna
+PSB141	ci sono tante ragazze che fanno #henna
 PSB156	mhmh
 PSB141	dai beni mellel ehm
 PSB141	tutti gli turisti che vanno questa parte perché è una parte famosa anche c'è un castello
@@ -856,7 +856,7 @@ PSB156	nel~ in quella città o anche in altre città
 PSB141	ci sono delle altre città mh mio zio a marrakech
 PSB156	mh okay
 PSB141	sì
-PSB141	vicino una piazza che si chiama jemaa el-fna
+PSB141	vicino una piazza che si chiama #jemaa #el-fna
 PSB141	sì sì
 PSB156	mhmh quindi ci vai ogni tanto anche lì
 PSB141	sì sì
@@ -918,7 +918,7 @@ PSB141	questa la mia sorella ha fatto un ehm lei ha avuto due gemelle ha fatto u
 PSB156	okay
 PSB156	che bello
 PSB141	sì sì è così
-PSB141	questa è il henna che si vede
+PSB141	questa è il #henna che si vede
 PSB156	mhmh
 PSB156	ah ti ho vista un giorno che ce l'avevi
 PSB141	basta così

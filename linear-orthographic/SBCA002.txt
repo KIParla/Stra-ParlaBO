@@ -30,7 +30,7 @@ PSB085	mh
 PSB084	diventa fredda
 PSB083	mangiamo
 PSB084	mh
-PSB084	t-wassxeh sirwal-ek b-l b~ sugo
+PSB084	#t-wassxeh #sirwal-ek #b-l #b~ sugo
 PSB084	gli ho detto non sporcare i pantaloni con sugo perché non va via eh
 PSB085	ah eh
 PSB083	e allora
@@ -381,7 +381,7 @@ PSB084	no no no no no niente
 PSB085	raffreddore solo solo febbre e mal di testa
 PSB084	mal di testa
 PSB085	pensa te
-PSB084	un mal di testa poi dopo il dolo~ cos'è quel lavoro lé
+PSB084	un mal di testa poi dopo il dolo~ cos'è quel lavoro #lé
 PSB083	stan chiamando
 PSB084	no no
 PSB084	un giorno sono andata in spiaggia il giorno dopo avevo dolore dappertutto
@@ -491,11 +491,11 @@ PSB083	i proprietari
 PSB084	mh
 PSB085	mh
 PSB084	mh e e li dentro sono tutti camerieri marocchini
-PSB083	proprio da hammam proprio hamman ha la spa
+PSB083	proprio da #hammam proprio #hamman ha la spa
 PSB084	no no eh no è una cosa antica del
-PSB083	però è tipo hammam
+PSB083	però è tipo #hammam
 PSB085	xx
-PSB084	sì hammam da noi però questo è un bagno turco
+PSB084	sì #hammam da noi però questo è un bagno turco
 PSB083	ma non era una un le terme o una
 PSB084	le terme no le terme volevo dire
 PSB085	sì sì sì no io avevo capito
@@ -623,9 +623,9 @@ PSB083	faceva i mille e cinque
 PSB084	mh
 PSB085	ehm
 PSB083	com'è che si chiama guerrouji di nome
-PSB084	wallah ma 3qalt ma bqa-sh 3and-i l-3qal
-PSB084	ma 3art
-PSB083	non è hmed
+PSB084	#_ wallah ma 3qalt ma bqa-sh 3and-i l-3qal
+PSB084	#_ ma 3art
+PSB083	non è #hmed
 PSB084	no
 PSB084	ah vai su google
 PSB084	scrivi guerrouji e v~ viene fuori x
@@ -695,11 +695,11 @@ PSB084	con la je je
 PSB083	con la je je cosa vuol dire
 PSB084	la je
 PSB083	cosa vuol dire
-PSB084	la je di jennifer a~ luxra li dāyra-ha
+PSB084	la je di jennifer a~ #luxra #li #dāyra-ha
 PSB083	la gi di genova
 PSB084	eh
 PSB084	no
-PSB084	xxx qua
+PSB084	#xxx qua
 PSB084	guerrouji
 PSB083	ghe rrau jed boh
 PSB084	atleta
@@ -740,7 +740,7 @@ PSB084	è lui che ha allenato lui
 PSB084	questo qua
 PSB083	correva forte eh
 PSB085	ah
-PSB084	nawal el moutawakel
+PSB084	#nawal el moutawakel
 PSB084	anche lei anni ottanta xxx
 PSB085	potevi andarci anche tu alle olimpiadi nano
 PSB084	lui era bravo nel ciclismo x
@@ -1006,7 +1006,7 @@ PSB083	sì sì
 PSB084	era l'ultimo corso l'ho pagato non sono andati non volevano più andare
 PSB083	sì hai anche xx tu
 PSB085	pensa te
-PSB083	certo allora fai una cortesia prova a xx tutti i ticket dell'x dell~ xx
+PSB083	certo allora fai una cortesia prova a xx tutti i ticket dell'x dell' xx
 PSB085	pensa te
 PSB085	però sì cioè dopo si arriva ad un'età che o lo sport
 PSB083	così ci mettiamo avanti

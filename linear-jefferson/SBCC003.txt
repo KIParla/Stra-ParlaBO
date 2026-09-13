@@ -88,7 +88,7 @@ PSB102	[sì sì]
 PSB102	sì sì qui:ndi eh o fa appunti
 PSB102	su: sul cellul[are] eh anche:
 PSB054	[°mhmh°]
-PSB102	lù yīn yào zěn me [shuō]?
+PSB102	#_ lù yīn yào zěn me [shuō]?
 PSB101	[ehm] registrazione
 PSB102	le sì [sì]
 PSB054	[°mh°]
@@ -99,7 +99,7 @@ PSB102	[e:h sì] [sì]
 PSB103	[e ti sta] piacendo studiare qui in italia?
 PSB102	eh perché e:h
 PSB054	[ti piace stare qui:]?
-PSB103	[nǐ xǐ (.) nǐ xǐ] huān zài (.) zhè
+PSB103	#_ [nǐ xǐ (.) nǐ xǐ] huān zài (.) zhè
 PSB102	[s:- ah sì sì] sì sì
 PSB103	[no #zhè #lǐ]
 PSB054	((ride))
@@ -206,7 +206,7 @@ PSB102	[xx]
 PSB101	da quando sei arrivata italia non sei mai tornata in cina
 PSB103	esatto
 PSB102	eh
-PSB101	jiù shì nǐ (.) e: jiù shì zì cóng lái le yì dà lì zhī hòu nǐ jiù zài yě méi yǒu huí qù guò ma?
+PSB101	#_ jiù shì nǐ (.) e: jiù shì zì cóng lái le yì dà lì zhī hòu nǐ jiù zài yě méi yǒu huí qù guò ma?
 PSB102	a:h no no no eh c'è una volt(e) c'[è una vol]ta ho: visto: a cina
 PSB054	[°a:h°]
 PSB054	°okay°
@@ -295,7 +295,7 @@ PSB054	((ride))
 PSB101	((ride)) [perché sei antipatico perché s]ei antipatico
 PSB101	((ride))
 PSB054	tu sei andato a dargli fastidio (.) e quindi
-PSB103	jiàn ren (.) bì zuǐ
+PSB103	#_ jiàn ren (.) bì zuǐ
 PSB054	((ride))
 PSB101	((ride))
 PSB102	((ride))
@@ -395,7 +395,7 @@ PSB101	[è una una nostra] amica
 PSB102	°mhmh°
 PSB101	che sua mamma (.) ha tanti tartarughe
 PSB054	((ride))
-PSB101	tā māmā you hen duō wū guī
+PSB101	#_ tā māmā you hen duō wū guī
 PSB102	((ride))
 PSB054	però belle le tartarughe di terra mi fanno simpatia
 PSB103	sì son belle (.) alle mie dopo l'alluvione è venuta la polmonite
@@ -470,7 +470,7 @@ PSB102	[sì sì]
 PSB054	sì alla fine >sì sì sì<
 PSB103	e la [casa si è alla]gata?
 PSB054	[e lì]
-PSB101	nǐ jiù shì nà gè qián jǐ tiān (.) xià dà yǔ de shí hòu nǐ men jiā yǒu shén me (.) wèn tí (.) nǐ gēn wǒ shuō nǐ men [jiā yǒu] (.) yǒu yī diǎn wèn tí.
+PSB101	#_ nǐ jiù shì nà gè qián jǐ tiān (.) xià dà yǔ de shí hòu nǐ men jiā yǒu shén me (.) wèn tí (.) nǐ gēn wǒ shuō nǐ men [jiā yǒu] (.) yǒu yī diǎn wèn tí.
 PSB102	[a:h]
 PSB102	il: (.) eh il $mula il [mu(ra)] il muro nel nel mio: s~ stanza [eh] dopo piove (ci) muffa
 PSB101	[muro]
@@ -483,14 +483,14 @@ PSB101	sì
 PSB054	°mhmh°
 PSB054	eh siete in basso? a piano terra? o:?
 PSB102	e:h
-PSB102	zài tiān huā bǎn
-PSB101	nǐ jǐ lóu?
-PSB101	jǐ lóu
+PSB102	#_ zài tiān huā bǎn
+PSB101	#_ nǐ jǐ lóu?
+PSB101	#_ jǐ lóu
 PSB102	e:h
 PSB054	terzo?
 PSB101	ter[zo]
 PSB054	[oka]y
-PSB103	[sān lóu]
+PSB103	#_ [sān lóu]
 PSB054	[eh comun]que: (.) mh
 PSB101	((ride))
 PSB102	((ride))
@@ -538,7 +538,7 @@ PSB101	((ride))
 PSB054	sì? preferisci:?
 PSB103	tu sei stata a chongqing?
 PSB102	ah no no ho visto a chongqing (.) ho: ho già visto: a chongqing nella università
-PSB103	[ah ah] nǐ qù guò chóng[qìng ma]?
+PSB103	#_ [ah ah] nǐ qù guò chóng[qìng ma]?
 PSB102	[e:h]
 PSB102	[ah sì] sì sì sì
 PSB101	((ride))
@@ -584,18 +584,18 @@ PSB101	[perché]: anche già nel secolo scorso a shanghai c'erano tanti stranier
 PSB101	comunque sì poi a pechino c'è una cosa che non mi piace
 PSB054	((ride))
 PSB103	posso dirlo?
-PSB103	zài shàng hǎi yǒu hěn duō měi guó rén.
+PSB103	#_ zài shàng hǎi yǒu hěn duō měi guó rén.
 PSB101	((ride))
 PSB102	((ride)) sì sì (così è) xx
 PSB103	è gi[usto]?
 PSB101	[xx adesso] vuole vantare [vantare l~ le] (.) vantare tue le sue conoscenze ((ride))
-PSB103	duì duì duì duì duì]
+PSB103	#_ duì duì duì duì duì]
 PSB054	[sì si sta:]
 PSB054	((ride)) traduzione?
 PSB101	((ride))
 PSB102	((ride))
 PSB103	a shanghai ci sono molti stranieri
-PSB103	měi guó rén
+PSB103	#_ měi guó rén
 PSB101	mol[to ame]rica[ni]
 PSB103	[stra~]
 PSB102	[ame~] sì
@@ -608,17 +608,17 @@ PSB103	eh #yì #dà #lì #rén italiani e stranieri lo sapevo
 PSB103	no aspetta
 PSB103	#tóng #xué #men è colleghi
 PSB101	((ride)) [che cosa c'entra]?
-PSB103	[tóng xué men hǎo]
+PSB103	#_ [tóng xué men hǎo]
 PSB103	perché lo diceva s]empre lo diceva sempre la yan #lǎo #shī
 PSB102	((ride))
 PSB101	((ride))
 PSB103	aspetta (.) stranieri (c'è) #wei w~ [eh]
-PSB101	#wài
-PSB103	wo
-PSB101	wài
-PSB103	wài:
-PSB101	<guó>
-PSB103	wài guó rén?
+PSB101	#_ #wài
+PSB103	#_ wo
+PSB101	#_ wài
+PSB103	#_ wài:
+PSB101	#_ <guó>
+PSB103	#_ wài guó rén?
 PSB054	((ride))
 PSB101	((ride))
 PSB102	((ride))
@@ -705,7 +705,7 @@ PSB054	[<°okay°>]
 PSB103	[comunque sì ef~ e~ e~ effetti]vamente no [da te si mangia soltanto peperocino di si~] di sichuan
 PSB054	[crolla un mito]
 PSB101	[xxx]
-PSB102	[°nà shì shén me°?]
+PSB102	#_ [°nà shì shén me°?]
 PSB101	s~ pep~ pepe di sichuan
 PSB054	eh infatti n[ella vostra]
 PSB103	[ho delle brutte espe]rienze con il peperoncino di sichuan
@@ -771,7 +771,7 @@ PSB054	[quindi:]
 PSB054	°mhmh°
 PSB054	quindi abbiamo assaggiato un bel po' di antipasti poi:
 PSB054	eh mi ricordo il bao piccante
-PSB102	#bāozǐ
+PSB102	#_ #bāozǐ
 PSB054	sì [i panini sì quelli] piccan~ [e però]
 PSB101	[come panino ripieno]
 PSB102	[piccante]?
@@ -780,8 +780,8 @@ PSB101	[jiao]
 PSB054	[a~ allo] [allo spiedo] lo fanno cioè con uno spiedino eh però non è ripieno
 PSB102	[bao zi]
 PSB054	è così eh nello spiedino ed è piccante tutto mh [con le spezie sopra]
-PSB102	[°xxx° yǒu ma? méi] yǒu ba
-PSB101	bú jì [de le]
+PSB102	#_ [°xxx° yǒu ma? méi] yǒu ba
+PSB101	#_ bú jì [de le]
 PSB103	[sto per] dire una cosa che farà arrabbiare molte persone ovvero che secondo me la cucina asiatica è mo:lto meglio della cucina italiana
 PSB054	eh a me piace tantissimo [quindi te l'appoggio]
 PSB101	[°no: m:h°]
@@ -1122,8 +1122,8 @@ PSB101	[ah mary]
 PSB101	[ah]
 PSB103	e l'altra silvia
 PSB103	°silvia (è l'altra)°
-PSB102	[tā men shuō de shì nǐ] °shì you°
-PSB101	[bù shì bù shì tā (.) shì] shì nèi gè ē: jiā lì fú ní yà dà xué [de (.) liú xué shēng].
+PSB102	#_ [tā men shuō de shì nǐ] °shì you°
+PSB101	#_ [bù shì bù shì tā (.) shì] shì nèi gè ē: jiā lì fú ní yà dà xué [de (.) liú xué shēng].
 PSB103	[silvia tang]
 PSB102	[eh eh okay] [okay]
 PSB054	[scopriamo che s]ono loro ((ride))
@@ -1261,10 +1261,10 @@ PSB101	[che mochi è gia]ppone[se]
 PSB054	[ah] è [gia]pponese? okay
 PSB101	((ride))
 PSB103	[sì]
-PSB102	shì (.) shì shá
-PSB101	mochi jiù shì nà ge (.) má shǔ (.) [a jiào má shǔ ma?] hǎo xiàng shì jiào má shǔ ba (.) āo dà fú dà fú [(.)] duì dà fú.
+PSB102	#_ shì (.) shì shá
+PSB101	#_ mochi jiù shì nà ge (.) má shǔ (.) [a jiào má shǔ ma?] hǎo xiàng shì jiào má shǔ ba (.) āo dà fú dà fú [(.)] duì dà fú.
 PSB102	[ah:]
-PSB102	[dà fú]
+PSB102	#_ [dà fú]
 PSB102	[°okay°]
 PSB101	mochi nome: [cinese] di #mochi è #dà #fú
 PSB103	[cinese]
@@ -1344,9 +1344,9 @@ PSB103	°serpente°
 PSB103	e tu in che anno sei nata?
 PSB101	eh coniglio
 PSB103	coniglio
-PSB101	nǐ shǔ shén me? hǔ ba
-PSB102	niú
-PSB101	#niú
+PSB101	#_ nǐ shǔ shén me? hǔ ba
+PSB102	#_ niú
+PSB101	#_ #niú
 PSB101	toro
 PSB103	°toro°
 PSB054	°mh°
@@ -1357,27 +1357,27 @@ PSB054	ah okay anch'io
 PSB101	[quindi anche tu sei coni][glio]
 PSB102	[°e:h°]
 PSB054	[anch']io coniglio
-PSB102	bā shí jiǔ bā shí
+PSB102	#_ bā shí jiǔ bā shí
 PSB101	nova~ novantotto
 PSB103	novant[otto]
 PSB102	[novantot]to
 PSB054	°tu che:?°
 PSB102	[e:h]
-PSB101	[nǐ bú] shì hu ma?
-PSB102	yīn wèi wǒ shì guò nián qían [zhī qián nà ge]
-PSB101	[ah: ni shì nà ge] [nóng lì de nà ge]
+PSB101	#_ [nǐ bú] shì hu ma?
+PSB102	#_ yīn wèi wǒ shì guò nián qían [zhī qián nà ge]
+PSB101	#_ [ah: ni shì nà ge] [nóng lì de nà ge]
 PSB054	[tu duemila:due]?
 PSB103	io sono duemiladue son [piccolo]
 PSB101	[quindi] asp~ adesso conto eh
-PSB102	tā tā líng er nián de shǔ shǔ shén me a
-PSB101	shǔ [niú? tù?]
+PSB102	#_ tā tā líng er nián de shǔ shǔ shén me a
+PSB101	#_ shǔ [niú? tù?]
 PSB103	[io duemiladue dovrei] essere l'anno del maiale
-PSB101	lóng shé (.) tù lóng shé guò le shì shén me a
-PSB102	°hǔ tù niú hái shì hǔ niú tù °[chén lóng sì shé] wǔ mǎ
-PSB101	[tù lóng shé]
-PSB101	mǎ
-PSB102	wǔ mǎ wèi yáng [yáng hóu °shēn hóu yǒu jī]
-PSB101	[yáng hóu]
+PSB101	#_ lóng shé (.) tù lóng shé guò le shì shén me a
+PSB102	#_ °hǔ tù niú hái shì hǔ niú tù °[chén lóng sì shé] wǔ mǎ
+PSB101	#_ [tù lóng shé]
+PSB101	#_ mǎ
+PSB102	#_ wǔ mǎ wèi yáng [yáng hóu °shēn hóu yǒu jī]
+PSB101	#_ [yáng hóu]
 PSB101	[secondo me] sei pecora
 PSB103	pecora?
 PSB054	((ride))
@@ -1581,7 +1581,7 @@ PSB103	[e voi] sapete scrivere in cinese tradiziona:le?
 PSB101	no
 PSB101	io noi abbiamo imparato quello semplificato però [per] alcuni caratteri più comuni riesco a riconoscerlo però non so scrivere
 PSB054	[mh]
-PSB101	nǐ huì xie fán tǐ zì ma
+PSB101	#_ nǐ huì xie fán tǐ zì ma
 PSB102	mh no
 PSB102	[no]
 PSB103	[no]?
@@ -1594,7 +1594,7 @@ PSB054	[eh sì è limita]t[o:]
 PSB101	[sì è cantone]
 PSB101	[s~]
 PSB103	anche macao?
-PSB101	[ào mén] yě shuō~
+PSB101	#_ [ào mén] yě shuō~
 PSB102	[sì]
 PSB102	[mh m~]
 PSB101	[macao anche:] portoghese
@@ -1617,13 +1617,13 @@ PSB101	sì
 PSB103	°oka~°
 PSB101	che il pechinese assomiglia al mandarino
 PSB054	°mhmh°
-PSB101	běi jīng huà gēn pu tōng huà shì zuì jiē jìn
-PSB101	[tā men shuō hé běi de jiù shì] wǒ tīng shuō hé běi yǒu yí gè dì fāng shì zuì jiē jìn pǔ tōng huà de
+PSB101	#_ běi jīng huà gēn pu tōng huà shì zuì jiē jìn
+PSB101	#_ [tā men shuō hé běi de jiù shì] wǒ tīng shuō hé běi yǒu yí gè dì fāng shì zuì jiē jìn pǔ tōng huà de
 PSB103	[°m:h°]
-PSB102	[què shí]
+PSB102	#_ [què shí]
 PSB102	sì
-PSB102	dàn shì wǒ men xiàn zài yǐ jīng bù zěn me shuō [běi jīng huà le] wǒ men shuō~
-PSB101	[bei jīng huà]
+PSB102	#_ dàn shì wǒ men xiàn zài yǐ jīng bù zěn me shuō [běi jīng huà le] wǒ men shuō~
+PSB101	#_ [bei jīng huà]
 PSB101	detto che l~ i ragazzi della nostra generazione i pechinesi non parlano più pechinese [parlano] mandarino
 PSB102	[sì sì]
 PSB102	°sì sì°
@@ -1766,14 +1766,14 @@ PSB102	((ride))
 PSB103	e invece a te piace l'italiano?
 PSB102	e:h <forse> eh secondo me italiano è una: (.) è u:na linguaggio: è u~ eh è simile con cinese
 PSB102	perché secondo me c'è una mh eh c~ c'è (.) una s~ significa~
-PSB102	eh shēn dù yào zěn me shuō? (.) jiù shì
+PSB102	#_ eh shēn dù yào zěn me shuō? (.) jiù shì
 PSB101	la profondità?
 PSB102	sì sì
 PSB102	eh quindi quando ho usare ho studiare italiano eh eh (.) s~ secondo me il: eh
-PSB102	bāng wǒ fān yì yí xià [(.)] eh jiù shì wǒ jué de yì dà lì yǔ de cí yǔ shì shì hěn hǎo yòng de.
+PSB102	#_ bāng wǒ fān yì yí xià [(.)] eh jiù shì wǒ jué de yì dà lì yǔ de cí yǔ shì shì hěn hǎo yòng de.
 PSB101	[ah]
 PSB101	ha detto che le parole italiane sono: molto utili
-PSB102	ehm ehm yīn wéi (.) dāng wǒ zài f~ ehm lǐ jiě yì dà lì yǔ de shí hòu kěyǐ zài zhōng wén zhōng zhǎo dào yī xiē jiù shì xiāng duì tā men de ehm gèng xì jié de yí gè xiāng duìyìng de fān yì.
+PSB102	#_ ehm ehm yīn wéi (.) dāng wǒ zài f~ ehm lǐ jiě yì dà lì yǔ de shí hòu kěyǐ zài zhōng wén zhōng zhǎo dào yī xiē jiù shì xiāng duì tā men de ehm gèng xì jié de yí gè xiāng duìyìng de fān yì.
 PSB101	ha detto che quando studia italiano poi riesce a trovare una parola eh corrisponde a quello italian(o) quindi ehm le parole cinese e le parole italiani hanno il significato molto simili
 PSB054	okay [okay]
 PSB103	[mhmh e s]ono anche diciamo due lingue simili dal punto di vista ehm grammaticale perché sono entrambe due lingue es[se vu o] [sogge]tto verbo oggetto]
@@ -1800,7 +1800,7 @@ PSB102	eh
 PSB054	a:h [okay]
 PSB101	[(s~) abbia]mo anche:
 PSB102	((ride))
-PSB101	nǐ shuō
+PSB101	#_ nǐ shuō
 PSB102	((ride))
 PSB102	e:h
 PSB102	xx eh vivo con tre ragazze cinesi
@@ -1823,11 +1823,11 @@ PSB054	parlate cinese o[kay] okay
 PSB054	quindi: ma qualche dialetto oppure:
 PSB054	cioè vengono da altre zone della cina rispetto:
 PSB054	cioè c~ come voi due parlate:
-PSB101	tā men liǎ shì nǎ de rén? (.) [nǐ hé] tāmen [shuō~]
+PSB101	#_ tā men liǎ shì nǎ de rén? (.) [nǐ hé] tāmen [shuō~]
 PSB102	[ah]
 PSB103	°[glielo volevo chiedere] io°
-PSB101	shuō fāng yán hái shì shuō eh (.) [pǔ tōng huà]
-PSB103	[tā men shì] bei jīng rén ma
+PSB101	#_ shuō fāng yán hái shì shuō eh (.) [pǔ tōng huà]
+PSB103	#_ [tā men shì] bei jīng rén ma
 PSB102	eh xx no ((ride))
 PSB101	((ride))
 PSB102	e:h
@@ -1841,9 +1841,9 @@ PSB101	[è davanti a taiwan]
 PSB101	che confine con taiwan
 PSB103	sì
 PSB102	silvia
-PSB101	sil~ silvia shì fú jiàn de?
+PSB101	#_ sil~ silvia shì fú jiàn de?
 PSB102	eh forse
-PSB102	wǒ jué de wǒ wǒ wǒ wǒ [yìn xiàng li shì shì nèi ge]
+PSB102	#_ wǒ jué de wǒ wǒ wǒ wǒ [yìn xiàng li shì shì nèi ge]
 PSB101	[è una: la sua] comunque è un~ una persona un po' misteriosa
 PSB054	((ride))
 PSB101	[perché:] all'inizio avevo capito che lei fosse venisse da: xinjiang quella zona che:
@@ -1862,7 +1862,7 @@ PSB103	chen è di quella zona
 PSB101	no chen è del: vicino ma no~ non proprio
 PSB103	mh okay
 PSB101	xx
-PSB102	wo bú tài què dìng ((ride))
+PSB102	#_ wo bú tài què dìng ((ride))
 PSB101	sì comunque è un po': misteriosa una persona ((ride))
 PSB054	((ride))
 PSB102	sì sì
@@ -1927,21 +1927,21 @@ PSB103	sottosviluppato in tutti i paesi ((ride))
 PSB054	((ride)) dici il sud del mon[do in generale]
 PSB101	[però davve~ davvero:] che in cina diciamo che il:
 PSB101	fiume sotto no il f~ sopra il fiume:
-PSB101	shì huáng hé yǐ sháng shì bù yí jū hái shì cháng jiāng yi shá bù yí jū
-PSB102	yǒu zhè zhǒng shuō fǎ [ma]?
-PSB101	[yǒu a]
+PSB101	#_ shì huáng hé yǐ sháng shì bù yí jū hái shì cháng jiāng yi shá bù yí jū
+PSB102	#_ yǒu zhè zhǒng shuō fǎ [ma]?
+PSB101	#_ [yǒu a]
 PSB102	((ride))
 PSB101	comunque
-PSB101	wǒ jué de yīng gāi shì huáng hé
+PSB101	#_ wǒ jué de yīng gāi shì huáng hé
 PSB101	che sopra il fiume giallo non va molto bene per vivere per la questione dell'ambiente
 PSB101	perché in inverno
-PSB101	nǐ men shì (.) dōng tiān yǒu shā chén bào (.) duì ba?
+PSB101	#_ nǐ men shì (.) dōng tiān yǒu shā chén bào (.) duì ba?
 PSB102	mh
 PSB101	perché c'è una sabbia molto forte a inverno
 PSB103	ma dove da dove arriva dal deserto del gobi?
 PSB103	[che è il deserto della mongolia]
-PSB101	[°shì nǎ lái de ya?° [nǐ men nà ge shā chén bào]
-PSB102	[ehm méng gǔ]
+PSB101	#_ [°shì nǎ lái de ya?° [nǐ men nà ge shā chén bào]
+PSB102	#_ [ehm méng gǔ]
 PSB101	sì [mongolia] ((ride))
 PSB103	[mongolia]
 PSB102	mongolia
@@ -1950,9 +1950,9 @@ PSB054	[può essere]
 PSB103	[si chiama così]?
 PSB054	mi mi sembra di sì
 PSB103	e tu sei mai stata i~ in mongolia?
-PSB101	[nǐ qù guò méng gǔ ma]
+PSB101	#_ [nǐ qù guò méng gǔ ma]
 PSB103	#[nǐ #qù #guò] mongolia ma
-PSB102	wǒ qù guò nèi méng gǔ
+PSB102	#_ wǒ qù guò nèi méng gǔ
 PSB101	#nèi #méng #gǔ mongolia della cina quella parte ci[nese]
 PSB103	[ah sì sì] perché c'è anche
 PSB102	[x]
@@ -1985,16 +1985,16 @@ PSB103	eh i mus~ gli uiguri
 PSB101	sì esatto [da]
 PSB103	[mus]ulmani
 PSB101	ci vogliono otto ore mi sembra
-PSB101	cóng běi jīng dào xīn jiāng yào jǐ gè xiǎo shí? fēi jī bā gè xiǎo shí ba. Wǒ jìdé zuì yuǎn hǎoxiàng yào...
-PSB102	°yào chá yí xià wǒ bú tài què dìng°
-PSB101	yīng gāi shì bā ge xiao shí
+PSB101	#_ cóng běi jīng dào xīn jiāng yào jǐ gè xiǎo shí? fēi jī bā gè xiǎo shí ba. Wǒ jìdé zuì yuǎn hǎoxiàng yào...
+PSB102	#_ °yào chá yí xià wǒ bú tài què dìng°
+PSB101	#_ yīng gāi shì bā ge xiao shí
 PSB101	minimo sei ore
 PSB103	ma d'aereo?
 PSB101	sì
 PSB103	oh mio dio
 PSB103	così tanto?
 PSB101	sì
-PSB103	oh gosh
+PSB103	#_ oh gosh
 PSB054	beh
 PSB054	dai se: se volete ci ci siamo
 PSB101	va bene

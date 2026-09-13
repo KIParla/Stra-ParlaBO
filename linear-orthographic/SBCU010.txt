@@ -37,7 +37,7 @@ PSB150	ti hanno accompagnato nel tragitto
 PSB149	bellissimo
 PSB150	questo xxxx qua
 PSB149	per te
-PSB150	u menya krugloe litso
+PSB150	#_ u menya krugloe litso
 PSB150	de tutto
 PSB149	kolobok
 PSB150	ehm
@@ -52,12 +52,12 @@ PSB149	ma questo qua eh
 PSB150	eh
 PSB149	cosa c'è qua dentro la patata
 PSB149	nero
-PSB150	nu ne eš' xx
+PSB150	#_ nu ne eš' xx
 PSB150	allora
 PSB149	no metti via pi~ due dita olio
 PSB150	non mi fa bene
 PSB150	sì
-PSB150	voz'mi tonno
+PSB150	#voz'mi tonno
 PSB150	questa è tutta salute
 PSB149	eh te l'ho detto unica
 PSB150	questo
@@ -95,7 +95,7 @@ PSB150	sì sì
 PSB149	ma che corsi ci sono là
 PSB150	acquagym
 PSB149	ah
-PSB150	pieno così di sciure
+PSB150	pieno così di #sciure
 PSB149	mh
 PSB149	ma sono ovunque
 PSB150	eh no al erano meno
@@ -118,7 +118,7 @@ PSB149	ma sì fai esercizi a casa e passeggiate tante
 PSB150	se avessi le tue gambe nuove sì
 PSB150	allora
 PSB150	adesso io vado a passeggiare tu cosa fai
-PSB150	popit' čaëk xx tu vai direttamente lì
+PSB150	#popit' #čaëk xx tu vai direttamente lì
 PSB149	sì come no
 PSB149	alle alle sedici devo essere là un po' prima
 PSB149	eh se se vuoi andare verso di là magari
@@ -266,7 +266,7 @@ PSB150	ma che si fottono i bambini cattivi io ho fatto scuola
 PSB149	ti fanno notare tutto
 PSB150	da noi cioè non so se ho capito
 PSB149	avevi l'uniforme a scuola tu
-PSB150	gde ja v školu chodila eh da noi menavano da noi metavano ti facevano saltare i denti i nasi altro che prenderti i~ in giro a parole
+PSB150	#gde #ja #v #školu #chodila eh da noi menavano da noi metavano ti facevano saltare i denti i nasi altro che prenderti i~ in giro a parole
 PSB149	ve lo ricordano
 PSB149	ti dico avevi l'uniforme
 PSB150	sì che c'entra
@@ -351,7 +351,7 @@ PSB150	solo a parole grave xxxx
 PSB150	se li prendi uno per uno
 PSB149	sì sì lo so
 PSB150	vedrai che li passa la paura
-PSB150	kohda rot otkroesh tebia vse boiatsia uzhe
+PSB150	#_ kohda rot otkroesh tebia vse boiatsia uzhe
 PSB149	ah quello sì
 PSB149	però ecco sono stronzate che
 PSB150	no
@@ -386,22 +386,22 @@ PSB150	poi dopo ti cresce la pancia
 PSB149	mh
 PSB150	allora c'è io
 PSB149	ah uff
-PSB150	mozhno idti ty chto vodu ne p'esh' prinesi butylku u tebya v komnate stoit
+PSB150	#_ mozhno idti ty chto vodu ne p'esh' prinesi butylku u tebya v komnate stoit
 PSB149	un rotolo di carne
 PSB150	dove
-PSB150	davaj pomazh'
+PSB150	#_ davaj pomazh'
 PSB150	oh no no no no no dov'è andato
 PSB149	cosa è successo
 PSB150	cascato la mia vitamina
 PSB150	costa cento euro il xx perciò fai attenzione
 PSB149	eh lasciala in giro
 PSB150	eh
-PSB150	davaj pa mazhem
+PSB150	#_ davaj pa mazhem
 PSB150	xxxxx
 PSB149	stasera vado a suonare con gli aristofatti
 PSB149	ahia che male
 PSB149	mh
-PSB150	mazh v techenie mesiatsa
+PSB150	#_ mazh v techenie mesiatsa
 PSB149	sì
 PSB150	xxx ce l'ho coso cerotto xxxx -petta te
 PSB150	xxxx cerotto

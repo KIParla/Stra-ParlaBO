@@ -359,7 +359,7 @@ PSB019	poi (.) comunque mi trasferisco in germania, mi dicono scordati la er per
 PSB019	m:h no
 PSB019	l'ho imparata ma per me è troppo faticoso dirla e quindi non la dico
 PSB019	e suono BAVARESE anche sono cresc~ cresciuta ad amburgo
-PSB019	però vabbe E:
+PSB019	però vabbè E:
 PSB019	e ovviamente nel frattempo ho iniziato a studiare (.) l'inglese
 PSB019	che non studiavo: mai in maniera approfondita però
 PSB019	se tu giochi ai videogiochi ai inizi degli anni <duemila:>
@@ -460,7 +460,7 @@ PSB019	l'arabo è la prima lingua che
 PSB019	ho veramente studiato perché fino lì tutte le lingue che conoscevo le apprendevo dall'ambiente
 PSB019	come i bambini sai:
 PSB019	imitavo
-PSB019	fake it 'til you make it
+PSB019	#_ fake it 'til you make it
 PSB019	ecco
 PSB019	e:hm
 PSB019	infatti era un trauma quell'arabo c(io)è
@@ -608,7 +608,7 @@ PSB019	si sforzavano (.) il primo anno a parlare con me l'inglese
 PSB019	POI hanno trovato un'altra ragazza ucraina che hanno portata da me così poteva <tradurre un po'>
 PSB019	quindi si sono sforzati molto: molto ad integrarmi poi
 PSB019	spesso mi IMITAV~
-PSB019	#jesus
+PSB019	#_ #jesus
 PSB019	e: poi mi invitavano spesso a vari eventi anche >se non capivo una mazza< mi portavano in giro così non ero a casa
 PSB005	e hai imparato la lingua tramite:?
 PSB005	i [tuoi compagni] della tua età diciam[o]
@@ -1468,7 +1468,7 @@ PSB019	a: seconda dei documenti che hanno trovato ad auschwitz ricostruiscono la
 PSB019	di quello che è accaduto e: ed è tipo
 PSB019	ehm come si dice in italiano tipo mh
 PSB019	aspetta arrivo
-PSB019	non fiction
+PSB019	#_ non fiction
 PSB005	sì sì
 PSB019	[c(io)è proprio]
 PSB005	[saggistica]

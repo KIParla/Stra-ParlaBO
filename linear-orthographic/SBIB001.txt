@@ -801,7 +801,7 @@ PSB005	hai visitato altre città dell'italia
 PSB021	sì
 PSB021	sì io personalmente non sono mai andata a fare le vacanze o girare in altre città
 PSB021	sono andata milano roma perché
-PSB021	serviva per mettere visa al passaporto quindi sono andata con mio padre
+PSB021	serviva per mettere #visa al passaporto quindi sono andata con mio padre
 PSB005	mhmh
 PSB021	boh mi piace però no
 PSB021	a me piace veramente sono nata a bologna
@@ -1102,7 +1102,7 @@ PSB021	riso con pesce
 PSB021	frittata cioè il pesce dev'essere fritto
 PSB021	eh il riso col pesce
 PSB021	e le altre sono tipo
-PSB021	non esiste in italia e non so neanche il nome in italiano perché proprio non esiste si dice xx
+PSB021	non esiste in italia e non so neanche il nome in italiano perché proprio non esiste si dice #xx
 PSB005	mh
 PSB005	okay
 PSB021	e che eh fatte dalle pata~ con le patate
@@ -1131,12 +1131,12 @@ PSB021	sempre pasta però sì c'è anche il riso
 PSB021	mangiamo più riso con pollo riso con le verdure
 PSB021	però c'è sempre le spezie
 PSB021	sempre
-PSB021	quindi un altro cibo è si chiama biriani
+PSB021	quindi un altro cibo è si chiama #biriani
 PSB021	è tipo ci~ eh riso pollo mischiato
 PSB005	mhmh
 PSB021	tutto insieme
 PSB021	quindi hanno anche diventano di colore giallo
-PSB021	perché c'è il saffron come spezia
+PSB021	perché c'è il #saffron come spezia
 PSB005	cioè tipo lo zafferano
 PSB021	esatto esatto sì
 PSB005	sì
@@ -1145,7 +1145,7 @@ PSB021	quindi queste cose qua poi dolce
 PSB021	è il top
 PSB021	dolce c'è tipo
 PSB021	eh non so se hai dato subi~
-PSB021	mishdti
+PSB021	#_ mishdti
 PSB021	è tipo piccolo eh rotondo bianco
 PSB021	eh ed è buonissimo
 PSB005	tipo col cocco forse
@@ -1365,8 +1365,8 @@ PSB021	anche se a scuo~
 PSB021	anche se in generale in italia l'inglese è ve~ eh arrivato dopo
 PSB005	in effetti sì
 PSB021	dopo che c'era già ma non tanto non
-PSB021	poi io in quinta superiore sto ancora studiando present continuos
-PSB021	future eh
+PSB021	poi io in quinta superiore sto ancora studiando #present continuos
+PSB021	#future eh
 PSB005	ma perché così così
 PSB005	siete così indietro
 PSB021	perché i nostri prof non sanno

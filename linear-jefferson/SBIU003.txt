@@ -1524,8 +1524,8 @@ PSB012	che si usa anche lì e anche qua, però è:: quello
 PSB011	quindi #limba
 PSB011	lo scrivi coi caratteri:: >come si dice< lingua
 PSB011	nel nel tuo dialetto
-PSB012	#limba
-PSB011	#limba
+PSB012	#_ #limba
+PSB011	#_ #limba
 PSB012	sì
 PSB011	eh c~ come in rumeno [no]?
 PSB012	>[sì] sì<

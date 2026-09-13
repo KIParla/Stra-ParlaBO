@@ -398,7 +398,7 @@ PSB010	e cioè ho avuto le ragazzi da sicilia quando parlavamo di fest~ di di eh
 PSB005	mhmh
 PSB010	e anche come primo piatto di di grano perché il grano è il è il primo e~ sarebbe piatto di essere umani che c'erano li che mangiavano sì la carne però
 PSB005	mhmh
-PSB010	e kutia è in ucraino kutia
+PSB010	e #kutia è in ucraino #kutia
 PSB005	mhmh
 PSB010	e diceva ma noi da noi preparano così anche da noi
 PSB010	e già poi anche l'abiti cioè parliamo sicilia sardegna puglia emilia romagna cioè emilia romagna uguale simili vestiti da noi cioè da dove vengo io
@@ -937,7 +937,7 @@ PSB010	okay avete preso va bene basta che non andate oltre invece loro han volut
 PSB005	sì sì no certo sì sì
 PSB010	e quando sento che no~ donn~ danno a noi a nazionalisti guarda che
 PSB010	mh è diverso
-PSB010	noi vogliamo spiegare che l~ l~ ro~ ru~ che noi abbiamo aspettato russi in casa nostra l'abbiamo data la moscovia il territorio moscovi~ la di moscovia l'ucraina ce l'hanno rubato perché noi eravamo kievskaja rus
+PSB010	noi vogliamo spiegare che l~ l~ ro~ ru~ che noi abbiamo aspettato russi in casa nostra l'abbiamo data la moscovia il territorio moscovi~ la di moscovia l'ucraina ce l'hanno rubato perché noi eravamo #kievskaja #rus
 PSB010	cioè la russia eravamo noi
 PSB005	mhmh mhmh
 PSB010	e pietro grande che si che ha nominato così
@@ -946,7 +946,7 @@ PSB010	non russia
 PSB005	sì sì
 PSB010	e adesso voglion~ adesso vediamo anche ne~ cioè nostra regina olga
 PSB010	che ha dato alla europa centoquarantotto re e regine
-PSB010	perché è la base da kievskaja rus loro vogliono dire che loro è regina
+PSB010	perché è la base da #kievskaja #rus loro vogliono dire che loro è regina
 PSB010	che la casa l~ l~ l le sarebbe regno si trova in centro di kiev per cui lo volevano kiev
 PSB010	e
 PSB005	qui sono due anni che continuano abbastanza lungo

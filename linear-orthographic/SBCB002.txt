@@ -66,14 +66,14 @@ PSB093	mhmh potresti essere la collega
 PSB005	sì sì
 PSB094	sì
 PSB093	ehm
-PSB093	there's no problem
-???	xxx
-PSB093	eita haray jabena oikhane rekhegele ami to konodin jante parbona bhujteo parbona (.) oikhane rekegese ami ki niashbo naki khorbo
+PSB093	#_ there's no problem
+???	#_ xxx
+PSB093	#_ eita haray jabena oikhane rekhegele ami to konodin jante parbona bhujteo parbona (.) oikhane rekegese ami ki niashbo naki khorbo
 ???	eh
 ??	xxx
-??	dorja khola ami to ante gechilam
+??	#_ dorja khola ami to ante gechilam
 PSB095	sì sì sì è solo da mettere a posto
-PSB093	bangla acha thikache ami thaole ektu pore thike shater kotha boli sorry scusa
+PSB093	bangla #acha #thikache #ami #thaole #ektu #pore #thike #shater #kotha #boli #sorry scusa
 PSB005	no no no niente niente
 PSB005	che lingua era questa
 PSB094	bangla
@@ -83,9 +83,9 @@ PSB005	okay
 PSB005	sto imparando a riconoscere lentamente
 ???	ciao
 PSB005	ciao ciao ciao
-??	xxx
-PSB093	ekhn ami nilam amake janio oke ami dekhi ami hae ami dekhi ami stampelle nhite hobe amake
-??	xxx
+??	#_ xxx
+PSB093	#ekhn ami #nilam #amake #janio #oke #ami #dekhi #ami #hae ami dekhi #ami stampelle #nhite #hobe #amake
+??	#_ xxx
 PSB005	allora ripetimi cosa devo dire a quella ragazza
 PSB093	eh noi siamo un oh cooperativa si chiama
 PSB005	okay
@@ -413,10 +413,10 @@ PSB094	no
 PSB005	dici che è per quello
 PSB094	eh secondo me sì
 PSB005	ah
-PSB093	sylhet tea
+PSB093	#_ sylhet tea
 PSB005	ah scopriamo delle cose
-PSB094	sylhet tea
-PSB093	tea sylhet
+PSB094	#_ sylhet tea
+PSB093	#tea sylhet
 PSB094	ma guarda che ieri pomeri~ qui in questo in questo circolo
 PSB005	eh
 PSB094	si fanno delle scoperte veramente interessanti ieri ho scoperto che qui in mezzo a noi c'è qualcuno che conosce matilda de angelis l'attrice non dico chi
@@ -538,7 +538,7 @@ PSB005	sì sì pensavo che magari avevano un'altra religione diversa perché era
 PSB093	solo la lingua
 PSB005	solo la lingua okay
 PSB093	e
-PSB093	persino loro quando presenta con i bengalesi loro dicono loro sono bengalesi loro sono sylheti
+PSB093	persino loro quando presenta con i bengalesi loro dicono loro sono bengalesi loro sono #sylheti
 PSB094	okay
 PSB093	non riconosce neanche come
 PSB094	di appartenenre al bangladesh
@@ -670,7 +670,7 @@ PSB005	noi stiamo ridendo ma è una tragedia
 PSB093	è iuna tragedia pensa pensa solo questo
 PSB094	ah ah
 PSB094	ma tu guarda
-PSB094	fun fact
+PSB094	#_ fun fact
 PSB005	esatto
 PSB093	questo sono unica cosa è questo
 PSB093	che lui quando avrà vera età del pensione o per vera età del del di qualche malattia specifico

@@ -899,8 +899,8 @@ PSB005	è giusto.
 PSB022	anche che quando questo anche per me difficile.
 PSB005	perché (.) dimmi ((ride))
 PSB022	perché sempre devo:
-PSB022	#BA
-PSB022	#ba
+PSB022	#_ #BA
+PSB022	#_ #ba
 PSB022	no~ no:nna no:nna
 PSB022	dai questa, nonna dai do~ da~
 PSB022	io voglio quest(o) io vo~
@@ -1164,12 +1164,12 @@ PSB022	sì.
 PSB005	sì sì certo.
 PSB022	lui andata perché (.) e:h la: d~ stato amico.
 PSB022	poi $mico: p~ preso
-PSB022	u~ un #grant,
+PSB022	# u~ un #grant,
 PSB022	e::h m:h
 PSB022	mh.
 PSB022	per studiare in: america.
 PSB005	un fina~ sì sì un (.) un #grant,
-PSB022	grant.
+PSB022	#_ grant.
 PSB005	in i~ in inglese sì.
 PSB005	un finanziamento si di[ce in i~ (.) oh no. sai co]sa puoi dire. una [bor]sa.
 PSB022	[s~ (.) sì lui]
@@ -1191,7 +1191,7 @@ PSB005	mhmh.
 PSB022	cento e~ (.) mille euro.
 PSB005	eh sì,
 PSB022	(eh ma) quest(a) (.) lui
-PSB022	e:h #jurist
+PSB022	# e:h #jurist
 PSB005	sì.
 PSB022	x cara tanto.
 PSB005	mhmh (.) mhmh,
@@ -2903,7 +2903,7 @@ PSB022	stata: (.) m~ milita:re: e sempre:
 PSB022	to:- (.) t~ germa:nia,
 PSB022	poi bielorussia:, poi:
 PSB022	e:hm:
-PSB022	#zaporižžja
+PSB022	#_ #zaporižžja
 PSB005	mh[mh]
 PSB022	[e:] quando sono arrivati #zaporižžja in ucrai:na,
 PSB022	a::h
@@ -2951,7 +2951,7 @@ PSB022	a parla (.) tanto con persone itali[ane. (.) io no]n parlo tanto.
 PSB005	[sì sì sì]
 PSB005	sì s[ì]
 PSB022	[co]n persone solo,
-PSB022	e:h e: t~ emh e:h
+PSB022	e:h e: t~ ehm e:h
 PSB022	non visto
 PSB022	((ride)) se[mpre pe]rché
 PSB005	[n~ no:]
@@ -3061,14 +3061,14 @@ PSB022	[sì all'[univer]sità.
 PSB005	[come si chiama]?
 PSB022	[sì sì].
 PSB005	no: non fa niente.
-PSB022	blin zabyla kak eё gospodi
+PSB022	#_ blin zabyla kak eё gospodi
 PSB022	xx
 PSB005	perché io lavoro alla adesso.
 PSB005	f[orse è lo stesso posto].
 PSB022	[no no (.)] lei dice: ts~ mh.
-PSB022	#da
+PSB022	#_ #da
 PSB022	cost~ (.) qui non c'è.
-PSB022	k~ kak kak že eё familija blin °zabyla°
+PSB022	#_ k~ kak kak že eё familija blin °zabyla°
 PSB022	n:o.
 PSB022	ad ah no e:h lei lavora ancora: m:h
 PSB022	capo di
@@ -3097,7 +3097,7 @@ PSB005	sì: ma quando torno la prossima volta [poi me lo dici. sì]
 PSB022	[s:- eh sì].
 PSB005	[sì sì non ti] preoccupare.
 PSB022	[(m:h)]
-PSB022	(oh blin)
+PSB022	#_ (oh blin)
 PSB005	sono solo curiosa: così d~ ma
 PSB022	°non mi ricordo sai°
 PSB022	°xx°
@@ -3107,7 +3107,7 @@ PSB022	[s:ì] lei ancora lavora:, e lei adesso t~ e::h
 PSB022	#kafedra #ili com'è che si chiam[a]
 PSB005	[c]attedra. (.) [sì sì sì].
 PSB022	[xx] (.) lei e::m:h
-PSB022	(oh tolstaja)
+PSB022	#_ (oh tolstaja)
 PSB022	((ride)) xx
 PSB022	gra:ss(a) ((ride))
 PSB005	a::h lei è grassa?
@@ -3121,7 +3121,7 @@ PSB022	[a]::h [s:ì]
 PSB005	[magari lo] vedo
 PSB005	e poi:
 PSB022	#vot c~ e::h eh gira e:hm:
-PSB022	#ne
+PSB022	#_ #ne
 PSB005	vabbè (.) quando ti viene in mente poi me lo dici non ti preoccupare.
 PSB022	xx[x]
 PSB005	[era] una curiosità solo.

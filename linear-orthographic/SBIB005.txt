@@ -98,7 +98,7 @@ PSB028	in che cosa
 PSB051	ah social welfare
 PSB051	social welfare
 PSB028	ah
-PSB051	come social service qua a bologna
+PSB051	come #social #service qua a bologna
 PSB028	ah okay okay
 PSB054	sì sì
 PSB028	sì sì ho capito
@@ -204,7 +204,7 @@ PSB028	ah ah
 PSB052	ultimo xx
 PSB028	okay
 PSB054	okay
-PSB053	decorate xx x
+PSB053	#decorate xx x
 PSB054	okay okay
 PSB054	ehm voi cucinate i piatti del vostro paese
 PSB054	o fate anche qualcosa di bolognese di
@@ -220,15 +220,15 @@ PSB054	mhmh
 PSB028	ma magari anche perché gli mancano quindi dico i piatti del vostro paese quindi vi chiede di
 PSB028	di farli giusto
 PSB028	e questo come hai detto che si chiama
-PSB051	eh qui si chiama mh nostro paese jorda jorda jorda
+PSB051	eh qui si chiama mh nostro paese #jorda #jorda #jorda
 PSB053	dolce riso
 PSB053	bangla
-PSB028	ah jo~ jorda
-PSB051	jorda
+PSB028	ah #jo~ jorda
+PSB051	#_ jorda
 PSB028	okay bello
-PSB051	recording
+PSB051	#_ recording
 PSB054	come
-PSB051	record
+PSB051	#_ record
 PSB054	sì sì sì registriamo e
 PSB052	ah
 PSB054	sì sì sì
@@ -257,7 +257,7 @@ PSB053	tre mesi
 PSB028	ah e com'era
 PSB053	eh
 PSB053	xxx
-PSB051	kemon chilo kemon lakse apnader
+PSB051	#_ kemon chilo kemon lakse apnader
 PSB053	bene
 PSB028	mh forse un po' di macchine sempre ma
 PSB053	molto bene bologna molto bene
@@ -290,11 +290,11 @@ PSB051	nostro paese tutte persone piace piccante
 PSB028	a~ anche a me
 PSB054	eh è buono
 PSB028	anche a casa mia
-PSB051	spicy
+PSB051	#_ spicy
 PSB028	sì sì sì sì
 PSB028	buono
 PSB051	perché nostro paese mh
-PSB051	biryani
+PSB051	#_ biryani
 PSB028	ah ah
 PSB051	riso con carne
 PSB028	mh
@@ -304,9 +304,9 @@ PSB028	buone
 PSB051	verdura
 PSB052	pesce
 PSB051	pesc~
-PSB051	eida chigrimas
+PSB051	#_ eida chigrimas
 PSB053	xxxx
-PSB051	eida gamberi
+PSB051	#eida gamberi
 PSB028	eh una volta ho provato ad una ad una festa eh una specie di
 PSB028	oddio non so come chiamarli però se non mi sbaglio si chiamavano s~ samosa
 PSB051	samosa sì
@@ -333,14 +333,14 @@ PSB051	sì
 PSB053	sì
 PSB051	sì
 PSB053	sì
-PSB051	samosa i samosa un'altra si chiama shingara
+PSB051	samosa i samosa un'altra si chiama #shingara
 PSB028	ah okay
 PSB052	un altro xxx xx
 PSB028	okay
 PSB028	cioè sono due gusti diversi ma è la stessa
 PSB051	no samosa gusto verdura anche carne
 PSB028	okay
-PSB051	samosa shingara verdura
+PSB051	samosa #shingara verdura
 PSB028	e basta
 PSB053	e patate
 PSB051	patate
@@ -386,7 +386,7 @@ PSB052	dhaka grande
 PSB051	provincia
 PSB051	shariatpur
 PSB028	mhmh
-PSB051	xx i dhakar bitore na apnader
+PSB051	#_ xx i dhakar bitore na apnader
 PSB053	dhaka vicino shariatpur
 PSB028	ah okay okay
 PSB051	come emilia-romagna bologna
@@ -403,7 +403,7 @@ PSB028	vicine
 PSB052	roma xxx
 PSB051	emilia ro~ emilia romagna xxx
 PSB051	emilia romagna xxxx xxx
-PSB052	oidai ami koisi je romer baire bologna na taile amra dhakar bairei to shariatpur xxx dhakar baire na shariatpur i to
+PSB052	#_ oidai ami koisi je romer baire bologna na taile amra dhakar bairei to shariatpur xxx dhakar baire na shariatpur i to
 PSB053	xxx
 PSB028	vabbè dai quindi non lontani in poche parole non è lontano
 PSB051	nostro paese piccolo
@@ -447,7 +447,7 @@ PSB051	sì nostro paese
 PSB054	mhmh
 PSB028	okay
 PSB028	l'università era a dhaka
-PSB051	national nazionale università
+PSB051	#national nazionale università
 PSB028	ah okay sempre lì quindi
 PSB051	io laur~ eh lavorato
 PSB028	okay e ti piaceva quello l~ l'università il corso di studi
@@ -510,7 +510,7 @@ PSB054	eh
 PSB051	mamma papà no
 PSB028	è loro hanno comandano loro
 PSB051	sì sì sì
-PSB051	miei figli mh non guardare cellular sempre tivù
+PSB051	miei figli mh non guardare #cellular sempre tivù
 PSB028	mhmh
 PSB028	eh certo
 PSB054	okay okay
@@ -575,7 +575,7 @@ PSB051	sì
 PSB028	ah
 PSB028	okay
 PSB051	xx xxx xx
-PSB052	plen e ashina
+PSB052	#_ plen e ashina
 PSB053	xxxxxx
 PSB051	euro euro sempre euro
 PSB053	xxxx
@@ -586,16 +586,16 @@ PSB051	ventiquattro
 PSB054	ventiquattro
 PSB054	mamma mia
 PSB028	wow
-PSB053	sholo ghonta ventiquattro
-PSB051	apner ishe je thakena
-PSB053	char ghonta hoile sholo ghonta na
+PSB053	#sholo #ghonta ventiquattro
+PSB051	#_ apner ishe je thakena
+PSB053	#_ char ghonta hoile sholo ghonta na
 PSB052	diciotto diciotto
 PSB051	diciotto
 PSB053	dodici ora tanti eh quattro cinque ora
 PSB052	quattro ore
 PSB028	ah
-PSB053	eh primo eh turchia land eh primo nove ora xx
-PSB053	due due tre ora eh bologna turkey dopo transit quattro cinque ora
+PSB053	eh primo eh turchia #land eh primo nove ora xx
+PSB053	due due tre ora eh bologna #turkey dopo #transit quattro cinque ora
 PSB053	dopo nove ora insieme
 PSB028	ah quindi è lunga
 PSB053	sì sì è lunga
@@ -603,15 +603,15 @@ PSB053	eh ehm eh emirati poco è sette ora bologna a mia dubai dubai dopo tre qu
 PSB028	da dubai okay
 PSB053	transit poco poco più di sette otto ora
 PSB051	pausa qua~ eh cinque ore
-PSB051	dubai turkey cinque ore pausa
+PSB051	dubai #turkey cinque ore pausa
 PSB054	mhmh okay
 PSB051	dopo a~ sì
 PSB028	xx dovete aspettare
 PSB051	dopo ancora xxx sette ore
-PSB053	xxx dubai quattro ora dopo ah perché turkey nove ore insieme
+PSB053	xxx dubai quattro ora dopo ah perché #turkey nove ore insieme
 PSB051	quattro ore
 PSB028	ah okay
-PSB053	questo du~ tre ora bologna turkey dopo nove ora insieme
+PSB053	questo du~ tre ora bologna #turkey dopo nove ora insieme
 PSB028	cioè nove tutte
 PSB053	sì sì sì sì sì
 PSB028	wow
@@ -623,7 +623,7 @@ PSB054	mhmh
 PSB053	io cinque sei volte xx sì sì sempre xxx
 PSB028	ah sei tornata ah meno male meno male dai
 PSB054	sì sì
-PSB051	apne koybocor in italy
+PSB051	#_ apne koybocor in italy
 PSB053	dodici anni
 PSB054	dodici
 PSB051	lei abitato qua dodici anni
@@ -672,7 +672,7 @@ PSB053	mh eh grande xx tutti bangla bene perché poco poco giorni bangla piccolo
 PSB028	però capiscono perché vi sentono sempre
 PSB053	sì sì sempre xxx xx xx
 PSB028	certo
-PSB053	mio mio grande figlio molto piace italia no un altro country no bangladesh no xx
+PSB053	mio mio grande figlio molto piace italia no un altro #country no bangladesh no xx
 PSB028	italiano
 PSB028	e invece c'è qualcosa che non lo so vi piace fare quando riu~ quando avete un po' di tempo libero
 PSB028	visto che parlavamo che siete sempre impegnate impegnati c'è qualcosa che riuscite a fare
@@ -687,7 +687,7 @@ PSB054	mhmh
 PSB053	un altro sport poco piace
 PSB054	mhmh eh sì
 PSB053	canzone molto piace mia mia grande figlia uno anni eh
-PSB053	provato eh canzone theatre theatre musica
+PSB053	provato eh canzone #theatre #theatre musica
 PSB028	ah okay
 PSB053	questa dopo non è sempre eh casa e scuola tanti ora passato non è
 PSB028	eh certo

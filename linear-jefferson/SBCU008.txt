@@ -511,9 +511,9 @@ PSB091	naso
 PSB091	$nasul
 PSB005	eh sì
 PSB091	pa:ne:
-PSB091	#pâine
+PSB091	#_ #pâine
 PSB091	la:tte
-PSB091	#lapte
+PSB091	#_ #lapte
 PSB091	capra #capră carne #carne capito,
 PSB005	(ah per) [così tanto co]sì ta:nto si[mili]
 PSB091	[(barca #barcă)]
@@ -529,13 +529,13 @@ PSB005	mh[mh]
 PSB091	[a bu]ttare
 PSB091	tipo c[on]
 PSB005	[si] si
-PSB091	unu (.) doi (.) trei (.) [pa]tru
+PSB091	#_ unu (.) doi (.) trei (.) [pa]tru
 PSB005	[mhmh]
 PSB005	ah
-PSB091	#cinci
-PSB091	șase (.) șapte
-PSB091	#opt
-PSB091	[nouă zece ze]ce
+PSB091	#_ #cinci
+PSB091	#_ șase (.) șapte
+PSB091	#_ #opt
+PSB091	#_ [nouă zece ze]ce
 PSB005	[ma quindi sai un po']?
 PSB005	[sai un po' di rumeno] ((ride))
 PSB091	[si si si si] si si [ma: po]ca ro~ poca rob[a]
@@ -2269,9 +2269,9 @@ PSB005	se ce l'ho per[ché]
 PSB091	[oh scus]ami devo rispondere a [xx]x
 PSB005	[sì sì]
 PSB005	ma poi alla fine è tar[di] devo andare
-PSB091	[allo?]
+PSB091	#_ [allo?]
 PSB005	tra poc[o]
-PSB091	[allo],
+PSB091	#_ [allo],
 PSB091	(non c'era i co[nta]tti)
 PSB005	[mh]
 PSB005	ma

@@ -246,14 +246,14 @@ PSB005	okay
 PSB005	e: il cibo: bengalese:
 PSB005	com'è?
 PSB058	eh cibo è buono
-PSB058	biryani
-PSB058	dahl
+PSB058	#_ biryani
+PSB058	#_ dahl
 PSB058	riso
 PSB058	pollo
 PSB058	c'è
 PSB005	mh
 PSB058	cucinare
-PSB058	puishak
+PSB058	#_ puishak
 PSB005	e tu sai cucinare?
 PSB058	eh io non cucinare
 PSB005	no
@@ -678,7 +678,7 @@ PSB005	mhmh
 PSB058	ce l'hai uno (.) #stump
 PSB058	°sì così°
 PSB005	sì?
-PSB058	bat
+PSB058	#_ bat
 PSB005	e (.) quante persone ci sono nella squadra?
 PSB058	undici undici
 PSB005	okay

@@ -27,7 +27,7 @@ PSB071	da quando ero piccolo conoscevo suo padre mi parlava poi sempre
 PSB072	sì
 PSB071	ho un figlio poi
 PSB071	nella nostra lingua c'è quel problema lì dice ah
-PSB071	figlio putra che è figlio
+PSB071	figlio #putra che è figlio
 PSB072	sì
 PSB071	eh io non ho mai capito che era una ragazza io pensavo
 PSB071	ah ma sarà un ragazzo quando verrà giocheremo insieme
@@ -585,11 +585,11 @@ PSB072	sì
 PSB071	anche se la persona è più piccola
 PSB071	si rivolge alla persona più anziana che fa un lavoro
 PSB071	diciamo da
-PSB071	che è come si traduce
+PSB071	#_ che è come si traduce
 PSB072	sì
-PSB072	uno che guida il rickshaw
+PSB072	uno che guida il #rickshaw
 PSB072	che è un tipo di
-PSB071	il rickshaw che è la bici
+PSB071	il #rickshaw che è la bici
 PSB073	bicicletta con
 PSB072	trasporto con tre ruote
 PSB072	che viene pedalato da uno dietro rimangono sedute altre due persone
@@ -762,7 +762,7 @@ PSB071	ma quasi tutti tutti
 PSB072	lezione quasi tutti quasi tutti poi ci sono dei alcuni tipo
 PSB073	ah eh sì
 PSB072	eh il
-PSB072	coaching come come si dice in italia
+PSB072	#coaching come come si dice in italia
 PSB071	eh scuola
 PSB071	eh tutor
 PSB072	eh
@@ -1000,7 +1000,7 @@ PSB073	mio figlio
 PSB073	che
 PSB073	perché io stavo sempre con lui
 PSB073	sapeva fare da a bi c~ tipo
-PSB073	a for apple b for ball
+PSB073	#_ a for apple b for ball
 PSB073	lo sapeva scrivere
 PSB073	parlare esattamente
 PSB073	le tabelle di uno due qua~ fino quattro lo sapeva
@@ -1118,7 +1118,7 @@ PSB074	ma loro sanno parlare eh
 PSB071	fanno fatica però
 PSB071	sono abituati con me a parlare in bengalese quindi
 PSB005	certo
-PSB071	diventa difficile parlare cambia~ far lo switch
+PSB071	diventa difficile parlare cambia~ far lo #switch
 PSB072	sì dopo un po' è un po' difficile tipo io se parlo
 PSB072	con eh miei fratelli o mie~ mio coi miei genitori al telefono spesso mi esce allora quindi o qualcosa del genere eh quindi
 PSB072	è un po' difficile perché se sto
@@ -1515,7 +1515,7 @@ PSB072	però a~ prima non era così tipo io
 PSB072	io da piccolo sempre andavo nelle loro festa
 PSB072	cioè io giravo
 PSB072	tipo uscivo alle sei di sera tornavo all'una di notte con dei amici a casa perché andavo n~ andavo nelle loro festa
-PSB071	parla del durga puja quello dei cinque giorni
+PSB071	parla del #durga #puja quello dei cinque giorni
 PSB005	ah okay okay
 PSB072	festa più grande dei induisti
 PSB071	più grande
@@ -1592,7 +1592,7 @@ PSB072	e poi tut~ tutto questo odio sta~ stanno creando tanti di quei
 PSB072	quelli che fanno tipo
 PSB072	o
 PSB072	non lo so com'è qui no se eh tanti di quei
-PSB072	seminar come si dice
+PSB072	#seminar come si dice
 PSB071	seminari
 PSB072	seminari
 PSB072	seminari che fanno
@@ -1658,8 +1658,8 @@ PSB071	cammina per strada
 PSB071	induista
 PSB071	si nota la differenza perché si vestono in modo diverso
 PSB072	sì
-PSB071	se son sposate c'hanno il sindur
-PSB073	è il polvere rosso sindur
+PSB071	se son sposate c'hanno il #sindur
+PSB073	è il polvere rosso #sindur
 PSB071	e quindi
 PSB071	fanno battute dicono qualcosa e loro non posso~
 PSB071	non possono ribattere o se devono solo ass~ cioè si sentono
@@ -2084,21 +2084,21 @@ PSB071	quello è buono dopo te lo mando
 PSB005	anch'io anch'io
 PSB071	l'ho trovato oggi
 PSB005	sì sì
-PSB071	bongcha hanno sia il sito inglese
+PSB071	#bongcha hanno sia il sito inglese
 PSB072	sì
 PSB071	che il sito bangla che parla solo bangla
 PSB073	come si chiama
-PSB073	bong
-PSB071	bongcha
+PSB073	#_ bong
+PSB071	#_ bongcha
 PSB071	eh
-PSB073	bong
-PSB071	bongchanit qualcosa del genere
+PSB073	#_ bong
+PSB071	#bongchanit qualcosa del genere
 PSB073	perché io già seguo un eh un eh
-PSB073	uno che si chiama bongit penso
-PSB071	eh bongit
-PSB073	bongit
-PSB072	bongit
-PSB071	bongit
+PSB073	uno che si chiama #bongit penso
+PSB071	eh #bongit
+PSB073	#_ bongit
+PSB072	#_ bongit
+PSB071	#_ bongit
 PSB072	l'ha usato già
 PSB005	ah è lo stesso ma non sono di qua cioè sono
 PSB072	lei guarda sempre il s~ sempre sì
@@ -2131,10 +2131,10 @@ PSB073	tanto olio
 PSB071	o no
 PSB071	anche le lenticchie
 PSB073	tanto olio
-PSB071	cioè fai il bagar che è
+PSB071	cioè fai il #bagar che è
 PSB072	sì sì sì sì sì sì sì
 PSB074	burro chiarificato
-PSB071	burro chiarificato il ghi
+PSB071	burro chiarificato il #ghi
 PSB072	lei lei si incazza spesso con me quando cucino bengalese metto troppo olio
 PSB072	perché hai messo così tanto olio
 PSB073	no io io cioè proprio
@@ -2153,20 +2153,20 @@ PSB073	perché se no non ci riuscivo poi
 PSB073	da noi tante spezie
 PSB073	tante pe~ piccante
 PSB073	e tanto olio
-PSB072	adesso adesso spiega il piatto chili chicken come si fa
-PSB073	no amo chili chicken non è piatto indiano né bengalese
+PSB072	adesso adesso spiega il piatto #chili #chicken come si fa
+PSB073	no amo #chili #chicken non è piatto indiano né bengalese
 PSB071	indiano
-PSB072	vabbè allora ba~ butter chicken butter chicken
+PSB072	vabbè allora ba~ #butter #chicken #butter #chicken
 PSB071	è ingle~
 PSB071	ingleci~ cioè occidentalizzato
 PSB073	eh
-PSB072	butter chicken
-PSB073	butter chicken non è di calcutta amore mio
-PSB071	chicken
+PSB072	#_ butter chicken
+PSB073	#butter #chicken non è di calcutta amore mio
+PSB071	#_ chicken
 PSB072	vabbè chiaro
-PSB071	dimer torkari
+PSB071	#_ dimer torkari
 PSB073	xxx
-PSB071	dimer torkari xx
+PSB071	#_ dimer torkari xx
 PSB072	sì
 PSB071	sì
 PSB073	vabbè
@@ -2183,7 +2183,7 @@ PSB073	come si chiama
 PSB072	cosa
 PSB071	eh
 PSB072	cosa
-PSB073	turmeric turmeric
+PSB073	#_ turmeric turmeric
 PSB072	ah
 PSB072	curcuma
 PSB071	curcuma
@@ -2220,11 +2220,11 @@ PSB074	vabbè un po' come il ragù
 PSB073	poi dopo che hai fritto l'olio
 PSB073	lo togli lo tieni da un'altra parte
 PSB073	poi mette
-PSB073	le spezie proprio sodi come si chiama jira
-PSB073	cumin
+PSB073	le spezie proprio sodi come si chiama #jira
+PSB073	#_ cumin
 PSB071	cumino sì
 PSB073	cumino okay
-PSB073	eh si mette il cumin seeds
+PSB073	eh si mette il #cumin #seeds
 PSB072	a friggere
 PSB073	sì a friggere per ve~ dentro l'olio poi quando
 PSB073	si sv~ sente proprio sente l'odore che è fritto mette
@@ -2246,32 +2246,32 @@ PSB074	cioe
 PSB073	chi mangia le patate tipo le storie che mi fa sentire mio padre
 PSB073	che litigavano per le patate poi si frigge anche le patate
 PSB073	dopo tante di quelle spezie
-PSB073	eh cumin
+PSB073	eh #cumin
 PSB073	ehm
-PSB073	poi coriander
+PSB073	poi #coriander
 PSB073	sono le spezie eh non so in italiano
 PSB071	sì i semi di coriandolo
 PSB005	ma sì coriandolo sì sì
-PSB073	coriandolo poi cumin sarebbe un altro spezia sempre
+PSB073	coriandolo poi #cumin sarebbe un altro spezia sempre
 PSB005	sì cumino sì sì
 PSB073	eh poi
 PSB071	c'è anche il cumino nero xx
 PSB073	eh curcuma
 PSB072	curcuma
 PSB073	poi
-PSB073	kashmiri red chili powder che sarebbe un eh
+PSB073	#kashmiri #red #chili #powder che sarebbe un eh
 PSB071	quello
 PSB072	paprika quello
 PSB071	però forte quella è diverso
 PSB073	quello no no no quello solo che fa il colore
 PSB072	okay
-PSB073	che sì sì xx eh si chiama proprio kashmiri red chili powder che fanno in
+PSB073	che sì sì xx eh si chiama proprio #kashmiri #red #chili #powder che fanno in
 PSB071	sì
 PSB072	sì
 PSB071	non è piccante
 PSB072	no quello no
 PSB073	kashmir in india
-PSB073	eh ha sempre il il chili chili come si dice in italiano
+PSB073	eh ha sempre il il #chili #chili come si dice in italiano
 PSB005	sì no ma peperoncino sì
 PSB071	peperoncino
 PSB073	peperoncino
@@ -2289,7 +2289,7 @@ PSB072	che è abbastanza piccante
 PSB071	sì
 PSB073	no io quando facevo lo mettevo anche peperoncino
 PSB072	okay
-PSB073	anche quel polvere di kashmiri red chili powder perché per dare un po' di colore
+PSB073	anche quel polvere di #kashmiri #red #chili #powder perché per dare un po' di colore
 PSB073	poi quando si mette quello mette anche un pomodoro
 PSB073	e poi se
 PSB073	metto un pochino di ehm
@@ -2493,7 +2493,7 @@ PSB071	non lo fanno loro se~ secondo me comprano
 PSB072	dopo prendi la denuncia
 PSB071	comprano i pezzi
 PSB072	sì sì sì sì
-PSB073	comprano quei pezzi sì fuchka
+PSB073	comprano quei pezzi sì #fuchka
 PSB072	sì quello
 PSB073	è buonissimo
 PSB005	okay
@@ -2510,7 +2510,7 @@ PSB074	dipende
 PSB074	anche nel an~ cioè anche l'india stessa
 PSB073	in india ogni città ha il suo piatto
 PSB005	certo sì ma è grande cioè è un posto enorme
-PSB071	però tipico nostro sono i bhorta che diceva lui che sono dei pesti
+PSB071	però tipico nostro sono i #bhorta che diceva lui che sono dei pesti
 PSB072	sì
 PSB071	cioè in bangladesh ci sono
 PSB071	ven~
@@ -2523,12 +2523,12 @@ PSB073	quelle polvere che usiamo noi adesso usiamo polvere però una volta
 PSB071	però in india non c'è
 PSB073	in una volta non tor~ usavano polvere proprio
 PSB073	faceva a casa
-PSB071	quello è un al~ però il bhorta è diverso il bhorta è un'altra cosa non è la polvere
+PSB071	quello è un al~ però il #bhorta è diverso il #bhorta è un'altra cosa non è la polvere
 PSB072	sì sì sì
-PSB072	sì bhorta
-PSB073	ah bhorta no bhorta pure c'è calcutta
+PSB072	sì #bhorta
+PSB073	ah #bhorta no #bhorta pure c'è calcutta
 PSB072	sì
-PSB071	bhorta
+PSB071	#_ bhorta
 PSB072	cioè è un tipo di un tipo di pesto sì
 PSB071	però son di meno
 PSB073	poca ma poca
@@ -2541,15 +2541,15 @@ PSB073	vuo~
 PSB072	ah sì sì
 PSB072	sì
 PSB072	eh il eh
-PSB073	olio eh il mustard oil
+PSB073	olio eh il #mustard #oil
 PSB071	di mostarda
 PSB072	è il eh quello di senape olio di senape
-PSB073	mustard oil
+PSB073	#_ mustard oil
 PSB071	sì sepa~ senape mostarda
 PSB072	quello se~ senape
 PSB005	sì
 PSB071	eh
-PSB073	mustard oil non lo so come si dice
+PSB073	#mustard #oil non lo so come si dice
 PSB071	no m~ mi sa che mostarda è eh piccante la senape non è piccante
 PSB072	mostarda sì ha lo sì sì
 PSB005	secondo me il problema è che non sono mai esattamente la stessa cosa quindi possiamo dire nomi diversi ma non è proprio uguale sì
@@ -2557,7 +2557,7 @@ PSB071	sì
 PSB072	sì sì
 PSB005	cioè per me la senape è la salsa quella gialla che si mette con i wurstel
 PSB071	sono così
-PSB072	allora no no no mustard è quella che dicevi te
+PSB072	allora no no no #mustard è quella che dicevi te
 PSB005	e poi ci c'è ci sono i semi con cui si fa quella e
 PSB072	sì
 PSB005	anche senape io la chiamo sì
@@ -2599,7 +2599,7 @@ PSB073	carne era pochssimo
 PSB072	eh
 PSB073	inglesi
 PSB072	eh no il regno mongolo
-PSB072	quando arrivato i tur~ eh i turchi che che si chiamano proprio mongol
+PSB072	quando arrivato i tur~ eh i turchi che che si chiamano proprio #mongol
 PSB072	quando è arrivato loro il carne era diventato troppo perché loro erano proprio arrivati da turchia
 PSB071	sulla cosa del pesce noi abbiamo
 PSB073	però prima
@@ -2635,7 +2635,7 @@ PSB072	eh eh il fiore di loto quello quello dell'acqua
 PSB071	in bangladesh
 PSB071	sì il fiore di loto
 PSB005	sì sì sì
-PSB073	ah anche bangladesh è lotus ah okay
+PSB073	ah anche bangladesh è #lotus ah okay
 PSB005	e la cucina bolognese a te non piace
 PSB072	vabbè
 PSB073	ne ho assaggiato pochissimo
@@ -2817,7 +2817,7 @@ PSB073	no io invece lo ragiono proprio in un altro modo
 PSB071	cioè io s~ sono andato quest'anno a dacca e vedi i polli coltivat~ perché
 PSB074	poveri animali vero
 PSB073	poveri animali
-PSB071	anche lì o~ ormai ci sono i polli da farm li chiamano quindi da coltivazione
+PSB071	anche lì o~ ormai ci sono i polli da #farm li chiamano quindi da coltivazione
 PSB072	sì co~ tutti coltivati sì
 PSB072	sì sì sì sì
 PSB072	sì
@@ -2827,7 +2827,7 @@ PSB005	industriali ah liberi okay
 PSB071	liberi
 PSB072	liberi sì
 PSB071	cioè
-PSB071	li chiamano deshi però
+PSB071	li chiamano #deshi però
 PSB072	sì sì sì
 PSB071	cioè che son del posto
 PSB072	sì
@@ -3050,7 +3050,7 @@ PSB072	uh
 PSB074	oh
 PSB071	eh
 PSB072	sembra sembrano proprio come il serpente
-PSB073	yes
+PSB073	#_ yes
 PSB005	io io sono un po' difficile su sulle bestie diciamo sulle
 PSB073	stai zit~
 PSB071	su alcuni pesci
@@ -3154,9 +3154,9 @@ PSB072	io salivo da una parte e scendevo dall'altra parte così lei girava in to
 PSB071	cioè non si ha il giardino si ha il laghetto
 PSB072	sì sì
 PSB005	ma questa è una cosa che non ho mai sentito ma è bellissimo
-PSB071	si chiama pukur
+PSB071	si chiama #pukur
 PSB072	sì
-PSB071	pukur
+PSB071	#_ pukur
 PSB073	no io non l'ho visto perché con loro stavo parlando proprio di
 PSB071	eh noi siam di paese
 PSB073	villaggio villaggio io sono un via di mezzo

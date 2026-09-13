@@ -229,11 +229,11 @@ PSB051	e:h (qui) si chi[ama: m:h] nostro [paese] #jorda #jorda #jorda
 PSB053	[dolce riso]
 PSB053	[bangla]?
 PSB028	ah #jo~ jorda
-PSB051	#jorda
+PSB051	#_ #jorda
 PSB028	okay bello
-PSB051	°(#recording)°
+PSB051	#_ °(#recording)°
 PSB054	come?
-PSB051	#record?
+PSB051	#_ #record?
 PSB054	sì >sì sì< regis[triamo] e:
 PSB052	[ah]
 PSB054	sì sì sì
@@ -262,7 +262,7 @@ PSB053	tre mesi
 PSB028	ah e com'era?
 PSB053	e:h
 PSB053	xx[x]
-PSB051	[kemon chilo kemon lakse apnader
+PSB051	#_ [kemon chilo kemon lakse apnader
 PSB053	bene
 PSB028	mh forse un po' di macchine (.) sempre ma
 PSB053	molto bene ((ride)) bologna molto bene
@@ -295,11 +295,11 @@ PSB051	nostro paese tutte persone piace (.) piccante
 PSB028	a~ anche a me
 PSB054	eh è [buono]
 PSB028	[anche a] casa mia
-PSB051	#spicy
+PSB051	#_ #spicy
 PSB028	>sì sì sì sì<
 PSB028	buo[no]
 PSB051	[per]ché (.) nostro paese m::h
-PSB051	#biryani
+PSB051	#_ #biryani
 PSB028	ah ah
 PSB051	riso con carne
 PSB028	mh
@@ -309,7 +309,7 @@ PSB028	buone
 PSB051	verdura
 PSB052	°pesce°
 PSB051	pesc~
-PSB051	[eida chigrimas]
+PSB051	#_ [eida chigrimas]
 PSB053	[xxxx]
 PSB051	#eida gamberi
 PSB028	eh una volta ho provato ad una: ad una festa e:h una specie di:
@@ -391,7 +391,7 @@ PSB052	dhaka [grande]
 PSB051	[provincia]::
 PSB051	shariatpur
 PSB028	mhmh
-PSB051	xx i dhakar bitore na apnader?
+PSB051	#_ xx i dhakar bitore na apnader?
 PSB053	dhaka: vicino shariatpur
 PSB028	ah okay o[kay]
 PSB051	[come] emilia-roma[gna] [bolo]gna
@@ -408,7 +408,7 @@ PSB028	°[vicine]°
 PSB052	roma [xxx]
 PSB051	[emilia ro~ emilia romagna xxx]
 PSB051	emilia romagna xxxx [xxx]
-PSB052	[oidai ami koisi je romer baire bologna na taile amra dhakar bairei to shariatpur xxx dhakar baire na shariatpur i to.]
+PSB052	#_ [oidai ami koisi je romer baire bologna na taile amra dhakar bairei to shariatpur xxx dhakar baire na shariatpur i to.]
 PSB053	[xxx]
 PSB028	vabbè dai quindi non lontani in poche parole non è lontano
 PSB051	nostro paese piccolo
@@ -584,7 +584,7 @@ PSB051	sì
 PSB028	ah
 PSB028	°okay°
 PSB051	xx [xxx] xx
-PSB052	[plen e ashina?]
+PSB052	#_ [plen e ashina?]
 PSB053	xxxx[xx]
 PSB051	[euro] euro sempre euro
 PSB053	xxxx
@@ -596,8 +596,8 @@ PSB054	ventiquattro
 PSB054	°mamma mia°
 PSB028	wow
 PSB053	#sholo #ghonta (.) ventiquattro
-PSB051	apner ishe je thakena?
-PSB053	char ghonta hoile sholo [ghonta na]?
+PSB051	#_ apner ishe je thakena?
+PSB053	#_ char ghonta hoile sholo [ghonta na]?
 PSB052	[diciotto (.) diciotto]
 PSB051	[diciotto]
 PSB053	[dodici o:ra:] tanti eh [quattro cin]que ora
@@ -633,7 +633,7 @@ PSB054	[mhmh]
 PSB053	[io::] cinque sei volte xx sì sì sempre xxx
 PSB028	ah sei tor[nata]? ah meno male (.) meno male dai
 PSB054	[sì sì]
-PSB051	[apne koybocor] in italy?
+PSB051	#_ [apne koybocor] in italy?
 PSB053	dodici anni
 PSB054	dodici
 PSB051	lei abitato qua dodici anni

@@ -87,7 +87,7 @@ PSB093	conosci hai capito tu metti tuoi tue mani nel nel mio occhio
 PSB093	e non mi spieghi scusami eh
 PSB005	no mh sì non bellissimo sì
 PSB093	no
-PSB093	i mean it's so surprising
+PSB093	#_ i mean it's so surprising
 PSB005	mhmh
 PSB093	per me proprio ah perché
 PSB093	non mi dici neanche cosa stai facendo dentro i miei occhi
@@ -130,7 +130,7 @@ PSB093	è una cosa che mi
 PSB093	mi mette
 PSB093	fa ridere da morire
 PSB093	guarda
-PSB093	mangia burek
+PSB093	# mangia #burek
 PSB093	bellissima
 PSB005	molto
 PSB093	e poi soprattutto
@@ -144,7 +144,7 @@ PSB093	eh che che un anno
 PSB005	che meraviglia
 PSB005	e poi cosa dice dice mamma
 PSB093	tutto
-PSB093	tutto come ti chiami what is your name in inglese
+PSB093	# tutto come ti chiami #what #is #your #name in inglese
 PSB093	fa vedere tutti i denti
 PSB093	poi mh il dieci era il compleanno di mio marito
 PSB093	e arrivato mh allora la visto la torta
@@ -385,7 +385,7 @@ PSB093	te l'ha~ hanno fatto quattro ore loro devo fare io altre quattro ore
 ???	sì
 ???	vab~ dopo vediamo meglio magari okay
 PSB093	dopo dopo dopo dopo
-PSB093	there's no xx
+PSB093	#_ there's no xx
 PSB005	come è andato con lo spid della signora marocchina
 ???	male eh tra~ tragico non abbiamo capito
 PSB093	perché
@@ -723,7 +723,7 @@ PSB093	ah queste sono le tematiche
 PSB005	ah wow
 PSB093	le tematiche che trattiamo mh in scuola
 PSB005	mhmh ma questo me lo immaginavo un po' ah ma forse mi avevi detto sai
-PSB005	ah il land grabbing
+PSB005	# ah il #land #grabbing
 PSB093	ah
 PSB005	però la intelligenza artificiale non no no non lo sapevo cioè fate anche un laboratorio sull'intelligenza artificiale
 PSB093	adesso adesso
@@ -770,7 +770,7 @@ PSB093	riesci leggere
 PSB005	sì sì sì
 PSB005	sì sì
 PSB005	bello
-PSB005	ah mind e machine è quello sul sull'ei ai ho capito
+PSB005	# ah #mind e #machine è quello sul sull'ei ai ho capito
 PSB093	noi abbiamo
 PSB093	chiama abbiamo chiamato
 PSB005	bellissimo
@@ -803,7 +803,7 @@ PSB093	per cui
 PSB093	io faccio due di questi
 PSB005	mhmh
 PSB093	faccio io
-PSB093	uno questo del subcontinente india e l'altro è cultural shock
+PSB093	# uno questo del subcontinente india e l'altro è #cultural #shock
 PSB005	giusto
 PSB005	bellissimo
 PSB005	con che scuole state lavorando adesso

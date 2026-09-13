@@ -35,7 +35,7 @@ PSB031	e:hm:
 PSB031	mi piace anche m:h
 PSB031	anche zona con (.) molti e:h verdi, con alberi, mi piace
 PSB031	in centro: m:h
-PSB031	>not too much<((ride))
+PSB031	#_ >not too much<((ride))
 PSB005	mhmh infatti sì
 PSB031	°sì°
 PSB005	però
@@ -49,7 +49,7 @@ PSB005	o ti piace: vivere in centro?
 PSB005	vuoi cambiare?
 PSB031	eh no e:hm io vivo: con: mio ragazzo
 PSB005	okay
-PSB031	sì e: hm
+PSB031	sì e: mh
 PSB031	noi e:hm
 PSB031	conosciamo?
 PSB005	sì sì sì
@@ -132,7 +132,7 @@ PSB030	prima volte (.) e:hm non: (.) posso:
 PSB030	ehm c'è differenza dove: ehm sono? dove: sono? ((ride)) e:h
 PSB030	come uguale (.) da: poco tempo a: questo: ((ride)) altri posti ((ride))
 PSB030	e:hm
-PSB030	ja by sejčas v otdych
+PSB030	#_ ja by sejčas v otdych
 PSB030	c'è una: m:h $libra: e:hm zona: e:hm
 PSB030	vici[no:]
 PSB031	[po]rtici portici
@@ -233,15 +233,15 @@ PSB031	anche io:
 PSB031	eh adesso (ho) mangio tutto
 PSB031	e:hm
 PSB031	quando: e:hm
-PSB031	when start war in ukraine
+PSB031	#_ when start war in ukraine
 PSB005	mhmh
 PSB031	e:hm ho: (.) stress
 PSB031	forse non lo so (.) ho mangio: ho s~ e:hm
-PSB031	i start eat everything
-PSB031	i eat very a lot and
-PSB031	i have six kilo more
+PSB031	#_ i start eat everything
+PSB031	#_ i eat very a lot and
+PSB031	#_ i have six kilo more
 PSB005	okay
-PSB031	for two months
+PSB031	#_ for two months
 PSB005	mh
 PSB031	ehm sì
 PSB031	però eh primo (.) prima gue~ guerra
@@ -252,7 +252,7 @@ PSB031	otto anni
 PSB005	okay ah tanto
 PSB005	sì sì [sì]
 PSB031	[sì] e: adesso: eh ho: m:h
-PSB031	i think stop again ((ride))
+PSB031	#_ i think stop again ((ride))
 PSB005	eh beh puoi provare (.) [puoi] con calma ((ride))
 PSB031	[sì]
 PSB005	puoi provare
@@ -263,7 +263,7 @@ PSB030	[xx] ((ride))
 PSB030	molto famoso è #boršč la #bo[ršč] ((ride))
 PSB005	[sì sì] sì giusto
 PSB030	ehm #varenyki #varenyki come (.) ehm
-PSB030	na ščo tam sсhoži
+PSB030	#_ na ščo tam sсhoži
 PSB031	come: ehm pasta: (.) ehm come [tortellini:]
 PSB030	[tortellini] tortellini ma più: grande eh
 PSB005	sì tipo
@@ -284,7 +284,7 @@ PSB031	con: ehm frutta,
 PSB030	ah ah
 PSB031	[con]
 PSB030	[$celia] °$celia: molto buo:no°
-PSB030	vy[šnja]
+PSB030	#_ vy[šnja]
 PSB031	[°sì sì sì sì°]
 PSB031	ciligie: o[::]
 PSB030	[°ciliegio°] (.) °ciliegio°
@@ -299,10 +299,10 @@ PSB031	m:[:h]
 PSB005	[rossi]?
 PSB031	no no no
 PSB031	xx
-PSB031	jakos' vony po-inšomu nazy[vajut'sja]
-PSB030	net ty ščo chočeš [skazat']
+PSB031	#_ jakos' vony po-inšomu nazy[vajut'sja]
+PSB030	#_ net ty ščo chočeš [skazat']
 PSB005	[mirtilli] mirtilli (.) [forse]
-PSB030	[ne tak] samo [(.)] ja dyvylasja tak samo
+PSB030	#_ [ne tak] samo [(.)] ja dyvylasja tak samo
 PSB031	[no no no]
 PSB005	beh cerca cerca
 PSB030	mhmh
@@ -312,7 +312,7 @@ PSB030	e[:]
 PSB031	[è] come cilie[gie]
 PSB030	[si]mila[re]
 PSB031	[pe]rò (.) [ehm:]
-PSB030	[tak samo] pyšet'sja
+PSB030	#_ [tak samo] pyšet'sja
 PSB030	ciliegia ma (.) ehm non dolce
 PSB005	ah okay eh forse non ci sono in italia
 PSB030	i e [c'è in italia (.) c'è]
@@ -337,7 +337,7 @@ PSB005	però la pasta?
 PSB005	mh
 PSB005	l~ l'esterno bisogna:: [impastar]lo
 PSB030	[sì]
-PSB030	tonko tonko ne znaju ja
+PSB030	#_ tonko tonko ne znaju ja
 PSB005	difficile secondo me sì
 PSB030	eh sì e:hm
 PSB030	e:hm bisogna: m:h (.) avere el~ el tempo lib(e)ro [per fare questo]
@@ -413,8 +413,8 @@ PSB031	prim~ e tempo fa (.) adesso: noi guardiamo: m::h film in netfilx
 PSB005	mhmh
 PSB031	o::
 PSB030	come si chiama?
-PSB030	ta po-moemu takže
-PSB031	ta kožnoho dnja novyj dyvymosja ((ride))
+PSB030	#_ ta po-moemu takže
+PSB031	#_ ta kožnoho dnja novyj dyvymosja ((ride))
 PSB030	a::h ogni giorno è n(u)ovo
 PSB005	ah [cioé] sì (.) sì sì [tipo] serie tivù anche forse
 PSB031	[sì]
@@ -571,9 +571,9 @@ PSB005	ve[di]
 PSB005	eh piccoli sì
 PSB030	sei
 PSB031	depende: ehm quale:
-PSB031	which age going school
+PSB031	#_ which age going school
 PSB005	mhmh
-PSB031	first school
+PSB031	#_ first school
 PSB005	sì sì
 PSB005	ho capito sì
 PSB005	eh in italia studiamo molti anni ((ride))
@@ -621,10 +621,10 @@ PSB005	sì
 PSB031	compagnia?
 PSB005	sì
 PSB031	in grande compagnia: ehm: #they #produce ehm
-PSB031	profile for [windows for]
+PSB031	#_ profile for [windows for]
 PSB005	[mh sì sì sì sì]
 PSB031	molta grande:
-PSB031	zovut ego
+PSB031	#_ zovut ego
 PSB031	mul~ multa grande fabbrica (.) e:hm lavora per tutta europa
 PSB005	°mhmh°
 PSB031	ehm::
@@ -659,12 +659,12 @@ PSB030	mh
 PSB005	bologna è più piccola
 PSB030	[xxxxx]
 PSB005	°sì sì°
-PSB031	nu takož mil'jon je
+PSB031	#_ nu takož mil'jon je
 PSB030	ehm anche dnipro circa mi[lione]
 PSB031	[e:h] adesso e:hm
 PSB031	più perché molte persone m:h
 PSB031	$movimente: #to: m:h
-PSB031	to safe place ((ride))
+PSB031	#_ to safe place ((ride))
 PSB005	sì sì sì certo e perché la tua città è più sicura?
 PSB031	[m:h]
 PSB005	[di altre]
@@ -681,7 +681,7 @@ PSB031	sì
 PSB030	sì ma:
 PSB030	ogni giorno c'è (.) ehm $bombarda
 PSB005	mhmh
-PSB030	bombar[diro]vat'
+PSB030	#_ bombar[diro]vat'
 PSB005	[sì sì sì sì]
 PSB005	sì sì sì
 PSB005	ho capi[to]
@@ -856,7 +856,7 @@ PSB030	[mhmh]
 PSB030	e:h eh due lingua
 PSB005	mhmh
 PSB030	due lingue eh in scuola (.) ehm per me era: ehm lingua russa
-PSB030	a ty tože
+PSB030	#_ a ty tože
 PSB031	ah no no (.) no per me in scuola: lingua ucraina: [anche] dopo:
 PSB030	[a:h]
 PSB030	e:hm in università e b:~
@@ -1025,7 +1025,7 @@ PSB005	[è divers]o
 PSB030	[a:h]
 PSB030	okay
 PSB005	e:hm
-PSB005	working class ehm
+PSB005	#_ working class ehm
 PSB005	#this #is #very #difficult ((ride)) sto cercando di spiegare ma è abbastanza [diffici]le
 PSB030	[mhmh]
 PSB005	eh l'italiano della strada, lo spagnolo della strada, delle persone normali
@@ -1095,7 +1095,7 @@ PSB031	sì sì ehm
 PSB031	((ride))
 PSB030	((ride))
 PSB005	okay
-PSB031	ev~ everything is different
+PSB031	#_ ev~ everything is different
 PSB005	mhmh sì sì sì
 PSB005	si ma e:h
 PSB005	io ho un'amica polacca

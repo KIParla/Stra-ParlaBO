@@ -524,17 +524,17 @@ PSB005	mhmh
 PSB091	scusami
 PSB005	no vai vai
 PSB091	((sospirando)) #da ((parla_al_telefono))
-PSB091	ja doma de ((parla al telefono))
+PSB091	#_ ja doma de ((parla al telefono))
 PSB091	((tossisce))
 PSB091	ah? ((parla_al_telefono))
-PSB091	ty kuda jdeš ((parla al telefono))
-PSB091	z jakimi chlopcami ((parla al telefono))
+PSB091	#_ ty kuda jdeš ((parla al telefono))
+PSB091	#_ z jakimi chlopcami ((parla al telefono))
 PSB091	((parla_al_telefono))
-PSB091	skaži ščo dlja sebe chočeš ((parla al telefono))
-PSB091	a ne dlja chlopciv ((parla al telefono))
+PSB091	#_ skaži ščo dlja sebe chočeš ((parla al telefono))
+PSB091	#_ a ne dlja chlopciv ((parla al telefono))
 PSB091	((sospira))
-PSB091	dobre ((parla al telefono))
-PSB091	davaj ((parla al telefono))
+PSB091	#_ dobre ((parla al telefono))
+PSB091	#_ davaj ((parla al telefono))
 PSB005	invece questa è mia sorella:
 PSB005	ne ho un'al~ c(io)è siamo in tre
 PSB091	((ride))
@@ -864,7 +864,7 @@ PSB091	[°no no assolu]tamente°
 PSB091	guarda ti dico guarda io li baciavo dappertutto capito?
 PSB005	((ride)
 PSB091	nel culetto nei piedi erano i miei loro proprio quando mi vedevano
-PSB091	#DA:DA #DA:DA
+PSB091	#_ #DA:DA #DA:DA
 PSB091	c(io)è ((sospira)) troppo b~ troppo belli troppo (.) °mamma mia°
 PSB005	((ride))
 PSB091	troppo belli
@@ -1189,9 +1189,9 @@ PSB005	[mh]
 PSB091	i miei tutti:: i miei ucraini com~ compaesani
 PSB005	vai (.) do[po vado] giuro che dopo vado
 PSB091	[sì]
-PSB091	da
-PSB091	peresilaju (.) peresilaju
-PSB091	davaj
+PSB091	#_ da
+PSB091	#_ peresilaju (.) peresilaju
+PSB091	#_ davaj
 PSB005	no ma adesso vado dai
 PSB091	sì [gli giro gli giro]
 PSB005	[è anche ora di cena] sì
@@ -1927,7 +1927,7 @@ PSB005	sì sì perché ci permettiamo di::: [(.)] sì
 PSB091	[esatto]
 PSB091	>mi son sentita non lo so come::: m::h c(io)è<
 PSB091	scusa io ho fatto tutto per te però tu adesso alla fine::
-PSB091	lui che non non ha m ha fatto mai niente per lei niente
+PSB091	lui che non non ha mh ha fatto mai niente per lei niente
 PSB091	è arrivato quando lei ave:va (.) quattordici anni e gli ha portato un peluche e una bottiglia di cocacola
 PSB091	°peluche a quattordici anni°
 PSB005	°sì sì infatti°

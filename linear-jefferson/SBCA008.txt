@@ -66,7 +66,7 @@ PSB141	mezzo chilo
 PSB140	no un chilo e mezzo ti ha dato perché è quasi: un chilo quello più que[sto]
 PSB141	[guarda sì] ((ride))
 PSB140	ti ha dato un chilo e mezzo
-PSB140	vabbe dai
+PSB140	vabbè dai
 PSB140	non va buttato (.) però
 PSB140	se uno ne vuole un chilo
 PSB141	eh guardati
@@ -154,16 +154,16 @@ PSB140	un po' di (.) grana
 PSB141	mhmh
 PSB140	riesci ad aprirlo?
 PSB141	un attimino cara mia
-???	wa: @yussef
-???	@yussef
-???	@yussef
-???	xxx
+???	#_ wa: @yussef
+???	#_ @yussef
+???	#_ @yussef
+???	#_ xxx
 PSB141	non lo puoi aprire aspetta un attimo
 PSB140	non si apre
 PSB141	mhmh,
 PSB140	mettine metà,
-PSB141	l-3rūbiyya 3rūbi
-???	ash ka dīr
+PSB141	#_ l-3rūbiyya 3rūbi
+???	#_ ash ka dīr
 PSB141	ok[ay]
 PSB140	[altra me]tà
 PSB140	di parmigiano:
@@ -590,15 +590,15 @@ PSB141	[basta]
 PSB140	[basta] sì: sì:
 PSB141	lascialo #xallī-h #hāk xx
 PSB141	eh
-PSB141	xx
-???	xx
-PSB141	xallī-h drūk xx ma-msālī-sh. xallī-h
-???	xx
-PSB141	wa 3a: xallī-h
-PSB141	xallī dīrī y-tsārreḥ
-???	#xxx
-???	xxx xxx
-PSB141	wash (bghīt-i) t-fāyq-u ?
+PSB141	#_ xx
+???	#_ xx
+PSB141	#_ xallī-h drūk xx ma-msālī-sh. xallī-h
+???	#_ xx
+PSB141	#_ wa 3a: xallī-h
+PSB141	#_ xallī dīrī y-tsārreḥ
+???	#_ #xxx
+???	#_ xxx xxx
+PSB141	#_ wash (bghīt-i) t-fāyq-u ?
 PSB140	e:cco
 PSB141	allora
 PSB141	mhmh,
@@ -616,11 +616,12 @@ PSB141	[sì sì]
 PSB141	((ride))
 PSB141	a:h
 PSB140	va bene dai
-???	xx
+???	#_ xx
 PSB140	metti [via quello]
+???	#_
 PSB141	e:h okay
-???	xx wa shrit-o xxx
-PSB141	shūf īla kayn ḥda nāmūsiyya
+???	#_ xx wa shrit-o xxx
+PSB141	#_ shūf īla kayn ḥda nāmūsiyya
 PSB141	e:h allora
 PSB141	vuoi una forchetta?
 PSB140	sì

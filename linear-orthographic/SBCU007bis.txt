@@ -331,28 +331,28 @@ PSB091	questa questa è forte
 PSB129	ci sarebbe questa regolarità linguistica
 PSB129	per cui tutti i presidenti
 PSB129	si chiamano come i matterelli
-PSB091	chi dice skalka
-PSB091	chi dice kačalka
-PSB091	skalka
-PSB127	skalka
-PSB005	skalka
-PSB129	skalka
+PSB091	chi dice #skalka
+PSB091	chi dice #kačalka
+PSB091	#_ skalka
+PSB127	#_ skalka
+PSB005	#_ skalka
+PSB129	#_ skalka
 PSB005	ehm
-PSB128	a u nas šče kažut' skatilka
+PSB128	#_ a u nas šče kažut' skatilka
 PSB086	ecco ecco taglio
 PSB091	in dialetto mio xxx
-PSB128	comunque ja zabula jak u nas nazyvajut'
+PSB128	comunque #ja #zabula #jak #u #nas #nazyvajut'
 PSB005	okay
 PSB005	allora prendo prendo
-PSB128	ja zabula jak nazyvajet'sja
-PSB086	kačalka
+PSB128	#_ ja zabula jak nazyvajet'sja
+PSB086	#_ kačalka
 PSB005	ah è la farina
-PSB091	kačalka kačalka
+PSB091	#_ kačalka kačalka
 PSB036	farina
-PSB128	kačalka kačalka
+PSB128	#_ kačalka kačalka
 PSB036	farina prima saltata
 PSB086	le nonne cambiavano accento eh
-PSB086	basta che una ma~ da marzabotto altra da san lazzaro una kačalka altra tačalka
+PSB086	basta che una ma~ da marzabotto altra da san lazzaro una #kačalka altra #tačalka
 PSB005	sì sì
 PSB086	sì
 PSB086	io e lei è così eh
@@ -489,7 +489,7 @@ PSB005	sì ma anche
 PSB005	cioè la pasta in generale è veramente difficile da fare ed è un grosso ostacolo perché
 PSB128	è vero
 PSB005	non si possono fare senza pasta sai com'è
-PSB128	a u vas chtos' robyt' ehm vuška xxx vuška
+PSB128	#_ a u vas chtos' robyt' ehm vuška xxx vuška
 PSB086	non per niente trenta quaranta euro al chilo
 PSB005	eh no infatti sì
 PSB036	xx
@@ -513,10 +513,10 @@ PSB036	ne sto mettendo troppo
 PSB086	tira tira la pasta vedi tu con il dito spinge spinge impasto e ques~ tira
 PSB130	a me sta già venendo fame xx
 PSB086	importante è chiudere di mezzo così insegnano le nonne dopo ci vai attorno
-PSB127	ščo klala vaša znajoma
-PSB127	ščos' bulo ja ne zapamjatala
-PSB091	ja tam ne bula
-PSB127	a ty tam ne bula?
+PSB127	#_ ščo klala vaša znajoma
+PSB127	#_ ščos' bulo ja ne zapamjatala
+PSB091	#_ ja tam ne bula
+PSB127	#_ a ty tam ne bula?
 PSB086	e questi e queste cinesi ravioli cinesi come sempre farina e acqua immagino cosa mettono altro niente
 PSB005	sì
 PSB005	niente farina e acqua e e poi avevamo una mh
@@ -554,8 +554,8 @@ PSB130	vabbè io domani chiamerò mia nonna e gli dirò guarda che ho imparato a
 PSB086	con le patate
 PSB130	sì
 PSB130	glielo dico
-PSB091	ščo ty chočeš ravlykiv tobi brakuje ty meni skažy
-PSB127	a ce ščo teper marсypany сe bljudo?
+PSB091	#_ ščo ty chočeš ravlykiv tobi brakuje ty meni skažy
+PSB127	#_ a ce ščo teper marсypany сe bljudo?
 PSB086	mi piacciono molto di più queste come quelle con ricotta
 PSB086	e poi eh forse sapete già che si mangia con la panna
 PSB129	e quindi
@@ -962,12 +962,12 @@ PSB127	tante volte a l'inverno
 PSB005	okay
 PSB127	eh ah
 PSB127	come si dice a
-PSB127	yizdyly v mynulomu chasi yak to bude?
+PSB127	#_ yizdyly v mynulomu chasi yak to bude?
 PSB086	siete andati
 PSB127	sì
 PSB127	siamo andati
 PSB086	beh
-PSB127	siamo anda~ my jizdyly
+PSB127	siamo anda~ #my #jizdyly
 PSB086	xxx
 PSB127	siamo andati eh a
 PSB127	a roccaraso
@@ -1097,15 +1097,15 @@ PSB005	vene- di vene~ vene~
 PSB130	infatti mi son stupita lei fa tu sei di bologna
 PSB086	ah veneto un po' xx
 PSB130	no
-PSB129	ma perché in una frase ha detto balotta
+PSB129	ma perché in una frase ha detto #balotta
 PSB130	che bello qualcuno
 PSB086	veneta
 PSB086	allora è una e e aperta vero
 PSB129	un'altra un altro termine
 PSB086	come come di sicilia
-PSB129	ho detto balocca
+PSB129	ho detto #balocca
 PSB005	sì sì sì
-PSB129	balocca
+PSB129	#_ balocca
 PSB130	tipo una palla fatta male eh sì
 PSB086	palermo palermo
 PSB005	no ma lei ha
@@ -1220,8 +1220,8 @@ PSB091	quelli più brutti
 PSB129	va bene
 PSB091	vai
 PSB129	vado
-PSB128	ja pereprošuju ty vodu solyla
-PSB091	solyla
+PSB128	#_ ja pereprošuju ty vodu solyla
+PSB091	#_ solyla
 PSB091	mettiamo anche queste farfalline
 PSB130	possiamo prendere quel x quelli brutti
 PSB091	sì
@@ -1338,7 +1338,7 @@ PSB005	non va in india per natale
 PSB129	non torna in india per nat~
 PSB129	anche perché non so neanche se il natale
 PSB130	no è xxx
-PSB129	it's a thing eh in india
+PSB129	#it's #a #thing eh in india
 PSB130	però se ne sta due settimane da solo è tutto chiuso da da solo in residenza
 PSB130	e quindi l'hanno invi~
 PSB005	dove sono
@@ -1363,8 +1363,8 @@ PSB091	dove vai
 PSB005	in canada
 PSB130	bello
 PSB005	sì
-PSB130	vai a fare un visiting o vai a fare
-PSB005	vado a fare un visiting
+PSB130	vai a fare un #visiting o vai a fare
+PSB005	vado a fare un #visiting
 PSB005	e
 PSB130	ma dove era andato
 PSB130	non era stato in
@@ -1413,7 +1413,7 @@ PSB005	ma la ricotta c'è da voi uguale alla nostra no
 PSB091	no mh
 PSB128	mah è è diversa
 PSB091	la nostra è un po' diversa
-PSB129	tipo cottage cheese
+PSB129	tipo #cottage #cheese
 PSB091	nostro tipo
 PSB129	tipo
 PSB091	fiocchi di latte
@@ -1422,10 +1422,10 @@ PSB036	mhmhmh
 PSB129	quello tipo
 PSB128	somiglia somiglia tipo
 PSB086	x cosa parlate xxx
-PSB129	cottage cheese
+PSB129	#_ cottage cheese
 PSB005	ah lo yocca
 PSB129	tipo ricotta
-PSB091	tvoroh xx
+PSB091	#_ tvoroh xx
 PSB128	però a max market
 PSB005	ah sì
 PSB128	su piazzetta xxx
@@ -1445,7 +1445,7 @@ PSB129	tipo ricotta però non è proprio ricotta lei mi ha dato delle ricette mi
 PSB129	cioè qui in italia le faccio con la ricotta ma
 PSB091	loro fanno con la ricotta salata
 PSB129	xx non è
-PSB129	eh oppure con tipo cottage cheese che però non
+PSB129	eh oppure con tipo #cottage #cheese che però non
 PSB091	c'hanno
 PSB129	non si trova sempre
 PSB129	invece quello è buono
@@ -1474,9 +1474,9 @@ PSB086	uva seccata
 PSB005	sì
 PSB129	ah uvetta
 PSB005	uvetta
-PSB128	ma syrnyky syrnyky
+PSB128	ma #syrnyky #syrnyky
 PSB091	ah
-PSB091	syrnyky
+PSB091	#_ syrnyky
 PSB091	frittelle di ricotta sì buone mamma mia
 PSB129	buone
 PSB130	eh quelle son buone sì
@@ -1489,17 +1489,17 @@ PSB091	loro mamma mia una cosa
 PSB128	ogni ma~
 PSB129	wow
 PSB129	ah
-PSB127	varenyky vže
+PSB127	#_ varenyky vže
 PSB091	ah nessuno ci ha pensato dove buttiamo
 PSB091	dov'è quella verde pulita
-PSB128	sì a nu na poprobuj
+PSB128	sì #a #nu #na #poprobuj
 PSB036	sì l'ho que~ l'ho lavata xxx
 PSB127	questa qua no
 PSB127	no
 PSB091	xxx
 PSB091	questa è pulita
 PSB127	sì
-PSB091	poprobuj
+PSB091	#_ poprobuj
 PSB129	beh io finisco di stendere
 PSB130	ma però secondo me xx quant'è xxx di persone
 PSB005	no
@@ -1523,10 +1523,10 @@ PSB005	no xx dire vedremo se vediamo se
 PSB005	qualcosa
 PSB130	ah sì se vuoi iniziare a fare firmare
 PSB130	xx documenti
-PSB127	xxx
+PSB127	#_ xxx
 PSB130	inizia a far firmare
-PSB127	xx
-PSB127	xx
+PSB127	#_ xx
+PSB127	#_ xx
 PSB005	sì quello è il mio pensiero che
 PSB005	che ci vuole uno adesso che si mette lì con la santa pazienza per dieci ore
 PSB005	ascolta le cose se le taglia vediamo chi lo fa
@@ -1569,7 +1569,7 @@ PSB005	come facciamo a organizzarci
 PSB130	ma io non suono più da un botto
 PSB005	beh ho capito vabbè
 PSB130	dovrei un po' riprendere xx
-PSB127	xx de ty kazala stekljani stakančyky
+PSB127	#_ xx de ty kazala stekljani stakančyky
 PSB129	cosa suoni
 PSB130	io ho studiato percussioni classiche
 PSB005	capito cioè

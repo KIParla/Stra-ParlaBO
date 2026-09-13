@@ -69,7 +69,7 @@ PSB153	sì:
 PSB146	oppure: balletti: e [outfit]
 PSB153	[eh] tutti ((ride))
 PSB146	ah tutti ((ride))
-PSB147	make-up artist
+PSB147	#_ make-up artist
 PSB146	tu la segui
 PSB146	((ride)) xxxxxx
 PSB147	((ride))
@@ -197,7 +197,7 @@ PSB153	mh[mh]
 PSB146	[tu] invece mi hai detto che vuoi fare
 PSB147	e:h informatica (.) [#cyber] #security
 PSB146	[info-]
-PSB146	#cyber #security
+PSB146	#_ #cyber #security
 PSB147	esatto
 PSB146	okay °e pe-° come mai?
 PSB146	°volete° vuoi fare questa cosa?
@@ -225,6 +225,7 @@ PSB147	°[(eh)]°
 PSB153	eh sì
 PSB146	caftan
 PSB153	sì [#qafṭān] marocch- (.) marocch- [(.)] [-ino]
+PSB147	#_
 PSB147	[°sì°]
 PSB146	[così], oppure abiti più:
 PSB153	sì questo anche: un altro cosa per le le #ʕabāya così
@@ -260,7 +261,7 @@ PSB146	[okay]
 PSB147	e: vorrei fare il sito
 PSB147	vorrei fare il sito
 PSB146	il
-PSB147	like store
+PSB147	#_ like store
 PSB147	come #store
 PSB147	[#store online sito on- sito online] perché io ho fatto un: eh #cyber #sec- [e:h]
 PSB146	[okay il sito online (.) okay]
@@ -292,11 +293,11 @@ PSB147	comprare: il #machine da #china
 PSB146	okay le macchine
 PSB147	le macchine esatto
 PSB146	°mhmh okay° (.) [i macchinari]
-PSB147	#machine
+PSB147	#_ #machine
 PSB147	sì i macchinari dal: e:h
 PSB147	eh: non so come (si chiama) xyāṭa? (.) #machine xyāṭa?
 PSB153	mhmh
-PSB147	dyāl xyāṭa
+PSB147	#_ dyāl xyāṭa
 PSB153	#ma-ʕrəft-sh ((ride)) [non lo so] ((ride))
 PSB147	[xx]
 PSB147	eh
@@ -545,7 +546,7 @@ PSB147	[ca-] capisci i:l
 PSB153	[xxxxxx]
 PSB146	[sì sì dove c'è: la sapon]eria:
 PSB147	sì
-PSB153	ʕlāsh kāynīn jūj
+PSB153	#_ ʕlāsh kāynīn jūj
 PSB147	no vecchio lidl
 PSB153	ah sì
 PSB147	[adess- (.) esatto]
@@ -590,7 +591,7 @@ PSB146	[affitto]?
 PSB146	che non è casa tua
 PSB153	e:hm
 PSB147	a:h [no:]
-PSB153	əl-kra
+PSB153	#_ əl-kra
 PSB147	sì sì
 PSB147	quanto
 PSB146	no sei in [affitto non è casa tua]
@@ -805,7 +806,7 @@ PSB147	[°france- francese]
 PSB147	[francese]
 PSB146	[anche] francese? (.) ok[ay]
 PSB147	[pe]rò per me:
-PSB147	(#like)
+PSB147	#_ (#like)
 PSB147	cinquanta per ce:nto ing- inglese
 PSB146	in[glese]
 PSB147	[almeno] °(esatto)°
@@ -852,7 +853,7 @@ PSB153	[s]ì
 PSB147	[°mai°]
 PSB146	[sì]
 PSB146	tu mai?
-PSB153	ka-tʕərəf tghanni?
+PSB153	#_ ka-tʕərəf tghanni?
 PSB153	lui no (.) io [sì]
 PSB146	°[sì] [okay°]
 PSB147	[io no]
@@ -1063,12 +1064,12 @@ PSB147	[perché] io vado: (.) eh ((schiocca_la_lingua))
 PSB147	voglio: voglio andare a: america
 PSB146	in america
 PSB147	esatto (.) perché c'è an- c'è tanti amici: x[x]
-PSB153	way(li) wa:yli
+PSB153	#_ way(li) wa:yli
 PSB146	[in ame]rica
 PSB147	esatto #way(li) #wa:yli
 PSB153	((ride))
 PSB146	quindi [però prima aspetti stu]di e [tutto],
-PSB153	[let's go bro]
+PSB153	#_ [let's go bro]
 PSB147	[sì] esatto
 PSB146	e poi [quando]
 PSB147	[anche:]::
@@ -1143,9 +1144,9 @@ PSB153	no:
 PSB146	no?
 PSB147	#ʕlāsh? sì: (.) [xx sì]
 PSB146	[e quindi perché l'islam]
-PSB153	[#kīfāsh]?
+PSB153	#_ [#kīfāsh]?
 PSB147	eh sei religiosa
-PSB147	eh muslīma
+PSB147	#_ eh muslīma
 PSB153	ah sì sono musulma(na) ((ride))
 PSB147	sì esatto [sì e:h]
 PSB153	[no: oh scusa non capito]
@@ -1198,7 +1199,7 @@ PSB146	no no [(.)] quella è la religione
 PSB153	[ah]
 PSB146	quando sei nato? (.) che mese
 PSB147	ah a:h okay [a: in ingle]se s:- sca- #scorpion esatto (#scorpion) esatto sc]orpione
-PSB153	īna shhaṛ?
+PSB153	#_ īna shhaṛ?
 PSB146	[ah scorpione (.) okay]
 PSB146	((schiocca_la_lingua)) hai capito (.) il [segno zodiacale, tu che cosa] sei (.) ah [sei nata a marzo] (.) quindi ariete
 PSB153	[sì]
@@ -1301,13 +1302,13 @@ PSB146	[okay]
 PSB153	eh sì
 PSB153	ecco questo il eh il eh (.) differenza
 PSB153	anche differenza perché [tu hai]
-PSB147	[bshḥāl] xdīti l-bāk?
-PSB147	xdīti l-bāk?
+PSB147	#_ [bshḥāl] xdīti l-bāk?
+PSB147	#_ xdīti l-bāk?
 PSB153	no
 PSB147	no (.) a:h ok[ay]
 PSB153	[e:h] so(n)o qua:
 PSB147	e:h xx #baccalauréat
-PSB146	l'esabac
+PSB146	#_ l'esabac
 PSB147	no: #baccalauréat esatto °#ba-°
 PSB146	quello: [francese]
 PSB147	[no:] quello:
@@ -1491,9 +1492,9 @@ PSB147	e:h [(.) riso] riso ah okay riso
 PSB153	[riso]
 PSB146	[riso]
 PSB147	anche:
-PSB147	shnūwa l-xuḍṛa?
+PSB147	#_ shnūwa l-xuḍṛa?
 PSB153	ah?
-PSB147	shnūwa l-xuḍṛa?
+PSB147	#_ shnūwa l-xuḍṛa?
 PSB153	e:h ecc(o)
 PSB153	aspe- ((ride))
 PSB146	non sa [neanche la sua] lin[gua]
@@ -1573,7 +1574,7 @@ PSB147	tiktok sono:
 PSB147	(non so)
 PSB153	ecco eh ((ride))
 PSB146	va be[ne]
-PSB147	[ne]xt time
+PSB147	#_ [ne]xt time
 PSB146	allora (.) ci salutiamo così [fate: (.) lezi]one cioè tu sì lui se ne va sempre ((ride))
 PSB153	[e:h s:ì]
 PSB153	((ride))

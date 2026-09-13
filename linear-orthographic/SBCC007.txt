@@ -224,7 +224,7 @@ PSB114	forse si è unita con la fifa
 PSB113	eh condivide con fifa
 PSB114	forse c'è anche la fifa
 PSB114	perché una volta c'era il pallone d'oro
-PSB114	if you want to play
+PSB114	#_ if you want to play
 PSB114	invece adesso c'è
 PSB114	solo il pallone d'oro
 PSB113	adesso c'è proprio un complo~ cioè cosa molto strana
@@ -512,9 +512,9 @@ PSB113	la cognata della mamma di costanzo vive
 PSB113	a ho~ in hong kong
 PSB113	a hong kong
 PSB113	devo dire a hong kong se no
-PSB113	xí jìn píng mi
+PSB113	#_ xí jìn píng mi
 PSB113	non dovevo dire neanche
-PSB114	xxx xí jìn píng
+PSB114	#_ xxx xí jìn píng
 PSB114	basta
 PSB114	la cognata della mamma di xxxx
 PSB113	infatti
@@ -522,42 +522,42 @@ PSB113	il papà mi ha detto qualcosa genere
 PSB114	il papà di costanzo
 PSB113	mh
 PSB113	sh
-PSB113	okay zhàng fū de mèi mèi
-PSB113	xiǎo gū zi
+PSB113	okay #zhàng #fū #de #mèi #mèi
+PSB113	#_ xiǎo gū zi
 PSB113	questo lo so
 PSB114	xxx
 PSB113	tuo
 PSB114	sì eh
 PSB113	eh
-PSB113	dà jiù zi
+PSB113	#_ dà jiù zi
 PSB113	ah
 PSB113	vediamo
 PSB113	eh
-PSB113	qī zǐ de fù qīn no pèi ǒu zhī xuè qīn
-PSB113	xuè qīn zhī pèi ǒu
+PSB113	#_ qī zǐ de fù qīn no pèi ǒu zhī xuè qīn
+PSB113	#_ xuè qīn zhī pèi ǒu
 PSB113	questo lo so
 PSB113	più o meno lo so
-PSB113	mǔ qīn zhī jiě mèi mǔ qīn de jiě jiě xx de zhàng fū
+PSB113	#_ mǔ qīn zhī jiě mèi mǔ qīn de jiě jiě xx de zhàng fū
 PSB113	un po' complicato
 PSB113	cioè la mia testa adesso non va anche perché
 PSB113	non riesco a capire cose appena più complicato
 PSB113	okay
 PSB113	quest~ questi in teoria lo so
-PSB113	i fratelli dà bó
-PSB113	okay dà bó eh
-PSB113	bú jiào shū
+PSB113	i fratelli #dà #bó
+PSB113	okay #dà #bó eh
+PSB113	#_ bú jiào shū
 ???	non sono sicura qui perché parla troppo veloce con una voce bassa
 PSB113	eh questi due in realtà lo so un po' lo
-PSB113	dà gū zǐ xiǎo gū zǐ
+PSB113	#_ dà gū zǐ xiǎo gū zǐ
 PSB113	okay sono quattro
-PSB113	qī zǐ xiōng zhǎng dà jiù zǐ xiǎo jiù zǐ
-PSB113	qī zǐ jiě mèi
-PSB113	yí jiě
-PSB113	dà jiě yí mèi yí xiǎo yí zǐ
-PSB113	xiǎo gū zǐ xiǎo yí zǐ
+PSB113	#_ qī zǐ xiōng zhǎng dà jiù zǐ xiǎo jiù zǐ
+PSB113	#_ qī zǐ jiě mèi
+PSB113	#_ yí jiě
+PSB113	#_ dà jiě yí mèi yí xiǎo yí zǐ
+PSB113	#_ xiǎo gū zǐ xiǎo yí zǐ
 PSB113	esatto
-PSB113	xiōng yǔ fū (.) qī yǔ fū zhī dì
-PSB114	shén me
+PSB113	#_ xiōng yǔ fū (.) qī yǔ fū zhī dì
+PSB114	#_ shén me
 PSB113	allora sono sedici in cinese
 PSB113	perché
 PSB113	beh da parte di marito
@@ -572,22 +572,22 @@ PSB113	eh
 PSB113	se tu
 PSB114	eh più piccolo più picc~ più basso
 PSB114	quanto
-PSB113	io dà sǎo
-PSB113	se tu hai fratello maggiore dà sǎo
+PSB113	io #dà #sǎo
+PSB113	se tu hai fratello maggiore #dà #sǎo
 PSB113	se eh fratello
 PSB113	piccolo
 PSB113	e che co~ e come si dice
 PSB114	xxx
 PSB113	mh no
-PSB113	dì mèi
-PSB113	dì mèi
+PSB113	#_ dì mèi
+PSB113	#_ dì mèi
 PSB113	mh
-PSB113	dì mèi dì xí dì~
+PSB113	#_ dì mèi dì xí dì~
 PSB113	okay
 PSB113	allora
-PSB113	è per te jiě fū
+PSB113	è per te #jiě #fū
 PSB113	ehm
-PSB113	qualcuno di sarebbe mèi fū
+PSB113	qualcuno di sarebbe #mèi #fū
 PSB113	mh okay
 PSB113	sono quattro
 PSB113	da parte mio
@@ -595,7 +595,7 @@ PSB113	se io avesse
 PSB113	ma~
 PSB113	f~
 PSB113	fratello
-PSB113	devo dire dà sǎo
+PSB113	devo dire #dà #sǎo
 PSB113	è uguale
 PSB113	mh okay
 PSB113	è uguale
@@ -620,22 +620,22 @@ PSB113	importante
 PSB114	e non importa se più grande o più piccolo
 PSB113	per questo sono quattro
 PSB114	ah quello sì an~ anc~ anche se non è mio famigliare
-PSB113	la moglie di mio fratello maggiore è dà sǎo
+PSB113	la moglie di mio fratello maggiore è #dà #sǎo
 PSB113	la moglie
 PSB113	di mio fratello piccolo
 PSB113	eh
-PSB113	dì mèi
+PSB113	#_ dì mèi
 PSB114	okay dipende dal fratello
 PSB114	boh sì
 PSB113	mh
 PSB114	non dipende dalla moglie se è lei più grande o più piccola
 PSB113	il marito del mio
 PSB113	de mia sorella
-PSB113	è jiě fū
-PSB113	eh infatti wáng fán chiamerà jiě fū
+PSB113	è #jiě #fū
+PSB113	eh infatti #wáng #fán chiamerà #jiě #fū
 PSB113	anche se
 PSB114	non siete sorelle
-PSB113	bisogna aggiungere biǎo
+PSB113	bisogna aggiungere #biǎo
 PSB113	per dire cugino
 PSB114	bah
 PSB113	però

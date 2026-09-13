@@ -116,7 +116,7 @@ PSB129	a vieni anche tu sì
 PSB086	a me a me xxx voglio
 PSB128	allora aspetta
 PSB091	dai una foto
-PSB128	ta počekaj
+PSB128	#_ ta počekaj
 PSB086	deve vedere prima tutti gli affari miei eh
 PSB128	aspetta camera
 PSB086	mamma mia mamma mia ha lasciato tutto devi cambiare impostazione niente
@@ -128,10 +128,10 @@ PSB129	cheese
 PSB130	cheese
 PSB036	cheese
 PSB005	cheese
-PSB091	syr
+PSB091	#_ syr
 PSB128	harno
 PSB127	a posto
-PSB091	davaj davaj
+PSB091	#_ davaj davaj
 PSB129	grazie
 PSB005	no no
 PSB091	non vuole vabbè prego
@@ -198,7 +198,7 @@ PSB036	xxx
 PSB129	che c'è un piatto tipico
 PSB128	mh
 PSB091	piatto tipico involtini
-PSB086	tryzub nahaduje
+PSB086	#_ tryzub nahaduje
 PSB129	involtini
 PSB127	mhmh
 PSB091	involtini con
@@ -359,7 +359,7 @@ PSB127	prendete ancora eh eh puliti
 PSB005	no io sto bevendo da qua
 PSB129	molto molto buoni
 PSB127	xx
-PSB086	ja otlomala tobi
+PSB086	#_ ja otlomala tobi
 PSB130	io ho molta fame nella mia vita
 PSB005	vabbè io adesso non mangerò cioè mangio domani sì
 PSB130	fame sempre
@@ -415,13 +415,13 @@ PSB091	che noi dentro mettiamo
 PSB129	come come le chiamate voi le crêpes
 PSB091	allora s~ anche lì
 PSB091	chi chiama
-PSB091	nalystnyky mlynci chi chiama nalystnyky mlynci chi chiama
-PSB091	com'è altro modonalystnyky mlynci
-PSB128	blinčiki
-PSB091	blinčiki
+PSB091	#nalystnyky #mlynci chi chiama #nalystnyky #mlynci chi chiama
+PSB091	com'è altro modonalystnyky #mlynci
+PSB128	#_ blinčiki
+PSB091	#_ blinčiki
 PSB005	io questo ho sentito sì
-PSB129	blinchiki eh anche io avevo sentito
-PSB127	blinčik blin
+PSB129	#_ blinchiki eh anche io avevo sentito
+PSB127	#_ blinčik blin
 PSB005	sì l'ho sentito dalla signora che lavora dai miei genitori
 PSB129	xxx
 PSB129	eh a quello però eh
@@ -430,14 +430,14 @@ PSB129	io l'avevo sentito però più da
 PSB129	o persone russe o chiunque eh
 PSB086	russe
 PSB127	sì sì
-PSB086	in russo blin
-PSB129	eh blin
-PSB086	blinchik blin
+PSB086	in russo #blin
+PSB129	eh #blin
+PSB086	#_ blinchik blin
 PSB127	mhmh
 PSB129	e quindi ero curiosa di sapere se anche in ucraino era sì
-PSB086	in ucraino nalystnyk
-PSB086	nalystnyk eh cre~ crêpes in italiano
-PSB091	nalystnyk
+PSB086	in ucraino #nalystnyk
+PSB086	#nalystnyk eh cre~ crêpes in italiano
+PSB091	#_ nalystnyk
 PSB129	sì sì sì sì
 PSB005	mhmh
 PSB129	o in realtà in italiano da me le chiamano ehm
@@ -481,17 +481,17 @@ PSB130	beh forse è più un ca~ un piatto casareccio diciamo
 PSB005	mamma le fa per na~
 PSB129	in abruzzo fanno anche
 PSB036	timballo alla x romana buono
-PSB129	no fanno anche una cosa che si chiama crespelle 'mbusse
+PSB129	no fanno anche una cosa che si chiama crespelle #'mbusse
 PSB127	xx
-PSB129	è un pia~ è stranissimo 'mbusse si chiamano ma è
+PSB129	è un pia~ è stranissimo #'mbusse si chiamano ma è
 PSB005	non l'ho mai sentito
 PSB129	non è cioè è è è è è dialetto
-PSB127	mus tipo la la trippa la lingua e giusto
-PSB127	le mus
-PSB129	n~ no quello è musso
-PSB127	non è non è quello mus
+PSB127	#mus tipo la la trippa la lingua e giusto
+PSB127	le #mus
+PSB129	n~ no quello è #musso
+PSB127	non è non è quello #mus
 PSB129	no
-PSB129	'mbusse vuol dire bagnato in dialetto
+PSB129	#'mbusse vuol dire bagnato in dialetto
 PSB127	ah
 PSB005	mh okay
 PSB127	ah
@@ -685,10 +685,10 @@ PSB036	patate e verza e burro fuso
 PSB127	xxxxxx
 PSB129	e un sacco di formaggio
 PSB036	e un sacco di formag~ ah sì c'è anche formaggio sciolto dentro che poi xx
-PSB086	xxx
+PSB086	#_ xxx
 PSB129	sì i xx
-PSB086	xx klademo kartopliu i kapustu
-PSB127	xxx
+PSB086	#_ xx klademo kartopliu i kapustu
+PSB127	#_ xxx
 PSB086	e p~ eh verza eh patate e
 PSB128	xxx questo un pizz~
 PSB036	eh verza patate formaggio c'è un altro di solito c'è il
@@ -745,7 +745,7 @@ PSB129	sì un po' verdino diciamo
 PSB086	e invece la polenta con cosa si mangia polenta
 PSB036	sì
 PSB130	sono un po' verdi
-PSB036	allora si mangia con la carne cioè co~ brasati coi allora da me si fa tanto polenta e osei che è con gli uccellini
+PSB036	allora si mangia con la carne cioè co~ brasati coi allora da me si fa tanto polenta e #osei che è con gli uccellini
 PSB086	funghi
 PSB036	uccellini piccolini quelli che vai a cacciare cosa sono merli prettamente non so
 PSB086	ah cioè ah quelli diciamo
@@ -772,7 +772,7 @@ PSB086	rosolare e dopo aggiungiamo la verza
 PSB036	e dopo la verza sì così assorbe tutto il grasso
 PSB086	madonna
 PSB036	sì e poi è bello perché butti la padella accesa sul fuoco
-PSB086	da noi si può fare cosa simili però eh si chiama kapusnjak
+PSB086	da noi si può fare cosa simili però eh si chiama #kapusnjak
 PSB036	eh eh
 PSB086	perché eh però si fa come una zuppa
 PSB086	si aggiunge l'acqua capito

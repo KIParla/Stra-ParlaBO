@@ -335,7 +335,7 @@ PSB026	bangladesh pakistan tunisia marocco africa
 PSB026	tanto venuto qua ade[sso]
 PSB028	[mh]mh
 PSB005	e tu rie[sci a aiu]tarli: o (.) o no?
-PSB026	[italy]
+PSB026	#_ [italy]
 PSB026	no: (.) no io
 PSB026	no tutte persone non c'è possibilità
 PSB005	((ride))
@@ -572,7 +572,7 @@ PSB005	mhmh
 PSB026	hai ca[pito]?
 PSB005	[mh]mh
 PSB026	però
-PSB026	italy
+PSB026	#_ italy
 PSB026	è come:
 PSB026	quanto se problema
 PSB026	anche cu~ causa
@@ -812,7 +812,7 @@ PSB005	[ce] lo consigli?
 PSB028	[mh]mh
 PSB005	sì
 PSB026	anche #kabab (hai) ricordi?
-PSB026	ka[bab]
+PSB026	#_ ka[bab]
 PSB005	[sì]
 PSB028	sì
 PSB005	sì sì sì sì [kebab sì sì]
@@ -821,7 +821,7 @@ PSB026	anche india bangladesh pakistan (quello) mangiare:
 PSB026	(b[oh) uguali]
 PSB028	[ma tra l'altro ieri] per caso sono capitata ad una festa e:h indiana dove facevano assaggiare alcuni piatti tipici
 PSB028	ho provato una cosa fenomenale credo si chiami sa~ sa~ samosa? for[se:]
-PSB026	[#sam]osa #samo[sa]
+PSB026	#_ [#sam]osa #samo[sa]
 PSB028	[buo]nissimo buonis[simo]
 PSB026	((ride)) [sì]
 PSB026	pe[rò m~ m]e piace mangiare come italia pas[ta]
@@ -886,7 +886,7 @@ PSB026	adesso lo (sé)
 PSB026	troppo::
 PSB026	gente
 PSB026	quando cam[mina]
-PSB005	[mhmh] mhm
+PSB005	[mhmh] mhmh
 PSB028	[°m:h°]
 PSB026	[stra]da: co[sì prim(a)] dieci an[ni fa no come xx]
 PSB028	[confusione]
@@ -1067,12 +1067,12 @@ PSB026	[non ci conto gradi]
 PSB026	troppo
 PSB026	mio paese: bangladesh solo freddo
 PSB026	m::h
-PSB026	december
+PSB026	#_ december
 PSB005	mhmh dic[embre]
 PSB026	[e $giane]o
 PSB005	e [gennaio due mesi sì]
 PSB026	[sì sì solo d]ue mesi
-PSB005	mhm
+PSB005	mhmh
 PSB028	o[ka:y quindi tra] poco è freddo?
 PSB026	[freddo]
 PSB026	sì #december mio paese due mesi freddo come addosso (.) fuori freddo [è cos]ì
@@ -1439,10 +1439,10 @@ PSB026	sì
 PSB005	bene bene
 PSB005	bene bene okay
 PSB026	xxx lasciali
-PSB026	na niashche shudu mane apner ie chobi ashe
-???	shada xx
-PSB026	kuno page ashe nai shudu oi email tay ashche
-PSB026	xxx kothaa ta bujsen?
+PSB026	#_ na niashche shudu mane apner ie chobi ashe
+???	#_ shada xx
+PSB026	#_ kuno page ashe nai shudu oi email tay ashche
+PSB026	#_ xxx kothaa ta bujsen?
 ???	xxxx
 PSB026	[poi dottore]ssa scrive sì #italy tutto bene
 PSB005	[(°va bene°)]

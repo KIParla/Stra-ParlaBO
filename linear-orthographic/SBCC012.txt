@@ -52,7 +52,7 @@ PSB137	e alcu~ cioè diciamo che le ultime due mi son piaciute molto le prime se
 PSB137	cioè è andato troppo veloce il matrimonio insomma era avvenuto subito
 PSB136	okay
 PSB137	che non c'è stato lo stadio del l'innamoramento eccetera
-PSB136	vabbè è il classico xiang qin
+PSB136	vabbè è il classico #xiang qin
 PSB137	sì
 PSB136	tipo ti vedi ti va bene okay ci si sposa
 PSB137	esatto mhmh
@@ -157,7 +157,7 @@ PSB137	cioè ho già immaginato cosa sia successo però non diciamo precisamente
 PSB136	sì non ti immagini come sia successo però sai cosa è successo
 PSB137	sì esatto
 PSB136	poverina
-PSB137	e poi cioè f~ dà molto fastidio che ci sia questo misunderstanding perché tipo lei
+PSB137	e poi cioè f~ dà molto fastidio che ci sia questo #misunderstanding perché tipo lei
 PSB137	cioè tipo l'ha lasciato in cioè non si erano messi insieme però comunque
 PSB136	sì
 PSB137	nel senso si erano messi d'accordo per andare nella stessa università poi lei ha cambiato all'improvviso però non gli ha spiegato il motivo
@@ -192,8 +192,8 @@ PSB137	mhmh
 PSB136	e
 PSB136	il loro nome ufficiale sarebbe pen pen
 PSB137	okay
-PSB136	forse da penguin
-PSB137	penguin sì ci sta
+PSB136	forse da #penguin
+PSB137	#penguin sì ci sta
 PSB136	esatto
 PSB136	solo che noi li abbiamo ribattezzati pan
 PSB136	perché
@@ -221,7 +221,7 @@ PSB137	mhmh
 PSB136	poi ce ne sarebbe uno grande così ma grigio
 PSB137	okay
 PSB136	che è il fratello maggiore lo chiamiamo
-PSB136	pangege
+PSB136	#_ pangege
 PSB137	e dov'è quello grigio
 PSB136	è a casa sua insieme a un altro grande grigio
 PSB137	ah okay
@@ -230,19 +230,19 @@ PSB136	sono tipo il padre e il fratello maggiore
 PSB136	poi
 PSB136	forse è venuta prima lei
 PSB137	cioè la sorellina
-PSB136	esatto lei è xiao pang perché è piccolina
+PSB136	esatto lei è #xiao pang perché è piccolina
 PSB137	giusto
 PSB136	okay adesso c'è la famiglia che ti sta guardando
 PSB136	lui che è grosso e tipo strasodo
 PSB137	oh mamma mia
 PSB136	lui
-PSB137	lui sì che è pan
+PSB137	lui sì che è #pan
 PSB136	e
 PSB136	sì
 PSB136	guardalo di lato
 PSB136	è tipo enorme
 PSB137	esatto
-PSB136	e lui è pan didi
+PSB136	e lui è #pan didi
 PSB137	mhmh
 PSB136	e praticamente lui l'abbiamo preso a milano
 PSB137	okay
@@ -258,7 +258,7 @@ PSB136	e quindi abbiamo dovuto prenderlo e quindi lui viene da milano
 PSB136	a casissimo
 PSB137	ah
 PSB137	sì
-PSB136	e poi c'è lei che invece è pan jiejie
+PSB136	e poi c'è lei che invece è #pan jiejie
 PSB136	e tipo l'abbiamo cercata per anni
 PSB136	perché nel negozio qua a bologna vedi sempre lui
 PSB137	sì
@@ -643,7 +643,7 @@ PSB136	così tanto
 PSB136	okay
 PSB137	con tipo sai l'omelette oppure c'è avocado salmone
 PSB136	ah okay quindi cose più complicate
-PSB137	cose più fancy diciamo
+PSB137	cose più #fancy diciamo
 PSB137	che però comunque costava cioè dai quindici euro in su
 PSB137	che poi si considerava una sorta di brunch però
 PSB136	però comunque è tanto perché qua anche se vai a fare brunch in genere paghi
@@ -744,14 +744,14 @@ PSB137	erano tutti italiani anche i camerieri
 PSB136	che bello
 PSB137	cioè non c'era una persona olandese
 PSB137	era bellissimo
-PSB137	e poi mh no~ non c'eravamo accorti che era un ristorante molto fancy diciamo
+PSB137	e poi mh no~ non c'eravamo accorti che era un ristorante molto #fancy diciamo
 PSB136	ah
 PSB137	tipo che secondo noi era tipo molto romantico
 PSB136	forse per questo era così carino il ristorante
 PSB137	sì sì no ma perché noi avevamo visto il dentro ma non i tavoli cioè mh dentro abbiamo visto come era la struttura eccetera
 PSB137	abbiamo visto i tavoli erano tutte con le candeline le rose
 PSB136	che cari~
-PSB137	e quindi era molto tipo da date no
+PSB137	e quindi era molto tipo da #date no
 PSB136	okay
 PSB137	e infa~ poi entriamo cioè c'erano tantis~ cioè tan~ tante persone che erano vestite in giacca e cravatta
 PSB137	e vestiti tutti bellissimo poi c'eravamo noi due delle poracce
@@ -805,7 +805,7 @@ PSB137	sì esatto
 PSB137	poi c'è e avevano preso anche lì a fare la pasta davanti a noi lo facevano proprio
 PSB137	per farci vedere tutto quindi comunque
 PSB137	ah sì ecco com'era il ristorante dentro
-PSB136	sì molto elegante molto fancy
+PSB136	sì molto elegante molto #fancy
 PSB137	sì
 PSB136	pure la rosa
 PSB137	sì poi cioè
@@ -867,7 +867,7 @@ PSB136	e infatti c'erano quelli che si chiamavano cucchiai bianchi che erano que
 PSB136	e cucchiai neri e i cucchiai neri erano cuochi non conosciuti da nessuno quelli proprio sconosciuti però comunque bravi
 PSB136	e il vincitore alla fine è stato appunto un cucchiaio nero
 PSB136	ed è questo chef che si chiama napoli mafia
-PSB136	e poi a parte che è una genialata perché mafia è scritto mat fia che quindi mat vuol dire sapore in coreano quindi ci sta un sacco
+PSB136	e poi a parte che è una genialata perché mafia è scritto #mat #fia che quindi #mat vuol dire sapore in coreano quindi ci sta un sacco
 PSB137	s~
 PSB137	ah oh wow mhmh
 PSB136	ehm ha vinto perché è stato a parte che è stato bravissimo è stato un genio

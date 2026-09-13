@@ -24,7 +24,7 @@ PSB066	un anno (.) [quasi un anno].
 PSB065	[sì sì quasi] un anno quasi un anno
 PSB005	okay e chi (.) l'idea (.) di ch[i è stata]?
 PSB066	[e:::h] (.) non è una idea c'è una:
-PSB066	smīyt-ha l-jamʕiyya
+PSB066	#_ smīyt-ha l-jamʕiyya
 PSB066	una: m:h
 PSB065	universi- ah no
 PSB066	come dici #jamʕiyya ((ride)) for[se]? ((ride))
@@ -363,7 +363,7 @@ PSB066	no mie figlie non sono nate ((ride))
 PSB065	((ride))
 PSB066	adesso ven- (.) una ventitré anni: l'altra venti[quattro anni e un bi]mbo di c- quindici anni. ((ride))
 PSB065	shāʔa ḷḷāh]
-PSB065	mā shāʔa ḷḷāh
+PSB065	#_ mā shāʔa ḷḷāh
 PSB065	sì,
 PSB005	[e:]
 PSB066	[s:]ì
@@ -466,7 +466,7 @@ PSB065	[AH]
 PSB065	eh tua: dove abiti?
 PSB005	a bologna.
 PSB066	ah okay (.) [xxx] è la prima volta che sei venuta qua no?
-PSB065	a:h [bologna]. (.) {xxx}
+PSB065	a:h [bologna]. (.) ((xxx))
 PSB005	[°sì°]
 PSB005	allora (.) io sono stata
 PSB005	qua vicino,
@@ -643,25 +643,25 @@ PSB065	[no anch'io vado con] mio marito nel castello quello con [cla xx xxxx]
 PSB066	[se:]
 ???	((bussano))
 PSB066	[sì °castello°].
-???	xx?
+???	#_ xx?
 PSB005	prego nessun [problema]
 PSB066	[sì]
 PSB005	mi stava raccontando s[cxx]
-PSB065	yāk-ma d-drāri ka-ydīru shi ḥāja?
-PSB065	l-yūma gha-ttqtənni
-???	xxx
+PSB065	#_ yāk-ma d-drāri ka-ydīru shi ḥāja?
+PSB065	#_ l-yūma gha-ttqtənni
+???	#_ xxx
 PSB066	((ride))
 PSB065	((ride))
-???	xx
+???	#_ xx
 PSB066	sì [#sīri]
-PSB065	[xx] nārī, a-xti, ḍārra-h ḍ-ḍaṛṣa gha-nəddi-h ʕand ṭ-ṭbīb °ḥshūma°
-???	xx
+PSB065	#_ [xx] nārī, a-xti, ḍārra-h ḍ-ḍaṛṣa gha-nəddi-h ʕand ṭ-ṭbīb °ḥshūma°
+???	#_ xx
 PSB066	ma-taʕṭā-sh lī-h°
 PSB065	[ah]
-???	xx
-PSB066	a-sīri [a-sīri]
-PSB065	[wāh] a-xti ṛā-h [(.)] a-sīri a-[sīri]
-PSB066	[#sīri]
+???	#_ xx
+PSB066	#_ a-sīri [a-sīri]
+PSB065	#_ [wāh] a-xti ṛā-h [(.)] a-sīri a-[sīri]
+PSB066	#_ [#sīri]
 PSB066	[xxx]
 PSB005	io sono contenta se vi piace bologn[a]
 PSB065	[ah sì]? ((ride))
@@ -899,9 +899,9 @@ PSB005	e: tu?
 PSB065	e:h io: una: un villaggio vicino di casablanca #bən #aḥməd
 PSB066	#bən- A:[:H] #mzābiyya?
 PSB065	[sì]
-PSB065	sì #mzābiyya ((ride))
+PSB065	sì #mzābiyya [((ride))]
 PSB066	[A:H ūlād (ḥməd) xti] ((ride)) brava ((ride))
-PSB065	mzābiyya
+PSB065	#_ mzābiyya
 PSB066	a::: rājəl xti mzābī ocche:i
 PSB065	okay ((ride))
 PSB066	((ride)) è vicino da noi sì
@@ -915,22 +915,22 @@ PSB005	[mhmh]
 PSB005	[sì sì sì]
 PSB065	[que]lli villaggio un pochino diver(si)
 PSB005	mhmh
-PSB066	sì mmh [mmh xx]
-PSB065	[ma:] mhm eh #ka-tkūn:: mmh #kunna: mmh
+PSB066	sì mhmh [mmh xx]
+PSB065	[ma:] mhmh eh #ka-tkūn:: mhmh #kunna: mhmh
 PSB066	sì
 PSB065	come si chiama:
 PSB066	āsh-ən-hīya in arabo?
 PSB065	ehm
-PSB065	bāsh (.) mātālān
+PSB065	#_ bāsh (.) mātālān
 PSB065	emilia romagna ehm tutte un:
 PSB005	le regione? [la regione]?
 PSB066	[le regione sì]
 PSB065	[ah]
 PSB066	sì
-PSB065	come#bən #aḥməd in #sṭṭāt
+PSB065	#_ come#bən #aḥməd in #sṭṭāt
 PSB066	[sì]
-PSB065	#muhi[mm]
-PSB066	[ḥna] kull-shi l-casablan- tābʕīn casablanca
+PSB065	#_ #muhi[mm]
+PSB066	#_ [ḥna] kull-shi l-casablan- tābʕīn casablanca
 PSB065	[sì sì]
 PSB065	[sì]
 PSB066	[s]ì lei: sì m:h
@@ -965,6 +965,7 @@ PSB005	mhmh
 PSB066	c'è dei paese [belli]ssima
 PSB065	[se]
 PSB005	sono [stata:]
+PSB066	#_
 PSB005	sono stata a fès
 PSB066	fès fès
 PSB065	a[:h okay]
@@ -1006,12 +1007,12 @@ PSB065	[xx]
 PSB065	[sì]
 PSB065	villaggio vicino di [mar(e)]
 PSB066	[sì]
-PSB065	eh::: āna dāba ta-nʕīsh f-casablanca ḥīt ṛājli mən casablanca [ma::] eh:: [fīn]
+PSB065	#_ eh::: āna dāba ta-nʕīsh f-casablanca ḥīt ṛājli mən casablanca [ma::] eh:: [fīn]
 PSB066	[a:h]
 PSB066	[dov'è]?
-PSB065	jūḥara
-PSB066	[#jūḥara]
-PSB065	qaṭʕa jūḥara di sīdī mūmən
+PSB065	#_ jūḥara
+PSB066	#_ [#jūḥara]
+PSB065	#_ qaṭʕa jūḥara di sīdī mūmən
 PSB066	ah #sīdī #mūmən [ah sì] sì
 PSB065	[sì]
 PSB066	adesso il suo marito: casablanca.
@@ -1364,7 +1365,7 @@ PSB005	[poi ho] questa zuppa e poi anche: una: °m:h° tipo [era una s]pecie di 
 PSB066	[sì]
 PSB066	e:h #pastilla?
 PSB065	[A:H] #bəsṭīla [brava]
-PSB066	[#bəsṭīla]
+PSB066	#_ [#bəsṭīla]
 PSB066	[perché: dentro: e:h(m) c'[è:]
 PSB065	[c'è c]arne cot- [no pollo o: pesce sì:]
 PSB066	[sì sì sì sì sì sì sì sì: sì] mandorle:
@@ -1388,7 +1389,7 @@ PSB005	[o no]?
 PSB066	[è fac:ile il #ta]jine è fac:ile
 PSB065	fra un:'ora quasi un:'[ora]
 PSB005	°[e] [allora]°
-PSB065	ṭ-ṭājīn bāsh ywəjjəd
+PSB065	#_ ṭ-ṭājīn bāsh ywəjjəd
 PSB066	A[:H]
 PSB065	[il] couscous preso un po' di tem- e:hm un tempo m:h un po:' mh di più [per il #ta]jine
 PSB005	[sì]
@@ -1559,7 +1560,7 @@ PSB066	arabo loro benissimo parlano com- come dei marocchini
 PSB065	sì[:]
 PSB066	[con qu]ando andate in marocco parlano solo l'a:rabo
 PSB065	mhmh,
-PSB066	m 'ha detto mia sorella PARLA ITALIANO così: io cap- NO. NO.
+PSB066	mh 'ha detto mia sorella PARLA ITALIANO così: io cap- NO. NO.
 PSB066	[ma sì no non] ((ride)) non mi parlano in italiano
 PSB065	[eh ma xx xx]
 PSB066	(in marocco) a me parlano bene l'arabo e l'italiano tutti e due
@@ -1623,7 +1624,7 @@ PSB005	vediamo se trovo qualcosa di divertente da chiedervi A:H Sì que- avete f
 PSB066	[SÌ: °sì°]
 PSB066	che del DEL: pec(x) ((ride))
 PSB005	xx sacrificio come si. xx [si chiama sacrificio]
-PSB066	e:h [sì s- sacrificio sì] ((ride))
+PSB066	e:h [sì s- sacrificio sì ((ride))]
 PSB005	e: che cosa avete: fatto (.) cosa si fa,
 PSB065	°allora°
 PSB066	abbiamo: preso la pec- non come si chiama la pecora no?
@@ -1715,7 +1716,7 @@ PSB005	forse [xx]
 PSB066	[(quelli) mace-] macello e il macello li porta: nel:: come si chiama ((schiocca_le_dita))
 PSB065	[questo]
 PSB005	[sai che non lo]
-PSB066	#baṭwār
+PSB066	#_ #baṭwār
 PSB005	forse non lo so io eh
 PSB065	hai capito?
 PSB005	sì sì [sì >sì sì sì<]
@@ -1744,7 +1745,7 @@ PSB065	[foresta]
 PSB066	[in foresta]
 PSB005	fuori (.) all'[aperto sì]
 PSB065	[questa:::] nel casalicchio f- m:h cosa:
-PSB065	f-j-jbəl fū:q
+PSB065	#_ f-j-jbəl fū:q
 PSB066	[a:h sì in] (.) in montagna xx in [monta]gna [xx]
 PSB065	[ah montagna]
 PSB005	[okay]
@@ -1794,8 +1795,8 @@ PSB066	ṭaʕāl āh]
 PSB066	[di l:- e:hm]
 PSB065	e::hm
 PSB066	c- c'è un'altra festa?
-PSB065	hādāk ma-ka-nḥtāfəl-sh [bī-h anāya] a:nch'io
-PSB066	[ḥtta āna ma-ka-nḥtāfəl-sh] bī-h
+PSB065	#_ hādāk ma-ka-nḥtāfəl-sh [bī-h anāya] a:nch'io
+PSB066	#_ [ḥtta āna ma-ka-nḥtāfəl-sh] bī-h
 PSB065	allora [solo d]ue (.) [questo di ramadan e] quella dell'agnello
 PSB066	[c'è solo due]
 PSB005	[x principali sì]
@@ -1943,7 +1944,7 @@ PSB005	e e dopo tu hai deciso voi insomma voi tu avete deciso di trasferirvi qui
 PSB065	m:h non ho [capito]
 PSB066	[m:h spo]sata no?
 PSB065	[ah ancora no]
-PSB066	juwwujti ʕād jīti no?
+PSB066	#_ juwwujti ʕād jīti no?
 PSB065	ah sì
 PSB065	io
 PSB066	[no] sì
@@ -1951,7 +1952,7 @@ PSB065	[ti sei]
 PSB065	per me sì quando (è) sposata e:: [xxx]
 PSB066	[AH AH ERA Lì] con la ma[mma]
 PSB065	[s]ì
-PSB066	yāk kətti mʕa ṃāṃā-k?
+PSB066	#_ yāk kətti mʕa ṃāṃā-k?
 PSB065	sì [sì]
 PSB066	[sì] era lì con la mamma [forse]
 PSB065	[mhmhmh]
@@ -2007,9 +2008,9 @@ PSB066	[sì] è bella per: imparare sì
 PSB066	e poi non: non deve dimenticare questa lingua de: genitori de- de nonne sì (.) parlano
 PSB066	mia figlia de- c- una marocchina marocchina quando parla: l'arabo: una marocchina che nata al marocco
 PSB065	non è xx
-PSB066	ʕrafti ka-dgūl shi [ḥwāyəj] ma-tgūli-sh wāsh
+PSB066	#_ ʕrafti ka-dgūl shi [ḥwāyəj] ma-tgūli-sh wāsh
 PSB065	[sì sì]
-PSB065	eh: k- bḥāl l-bnāt xti (.) [mmh]
+PSB065	#_ eh: k- bḥāl l-bnāt xti (.) [mmh]
 PSB066	[#ma-tgūlī]-š #wāš #mā #smiyyt-ha (.) #hā-hīya #dāyra #l-l-āngle: spagna
 PSB065	[xx] parlan[o]
 PSB066	[sp]agnolo inglese
@@ -2020,7 +2021,7 @@ PSB065	ma: la la la prima studia terza superiore adesso anche parla inglese molt
 PSB005	mhmh
 PSB065	loro piaciono questa [xx]
 PSB066	[questa:] ah questa
-PSB066	dda f- f- ha preso la [sua:] sì questa,
+PSB066	#_ dda f- f- ha preso la [sua:] sì questa,
 PSB065	[sì sì]
 PSB005	[sì]
 PSB066	[da] piccola questa da adesso [va]
@@ -2034,10 +2035,10 @@ PSB005	mhmh
 PSB066	dimenti[cata]
 PSB005	[molto] [carine]
 PSB066	[(non molto)] x sì
-PSB065	[āh hīya mā shāʔa ḷḷāh] mā shāʔa ḷḷāh
-PSB066	dərriyyāt-i (.) bnāt-i (.) hīya ka-təshbəh l-ək āh [((ride))]
+PSB065	#_ [āh hīya mā shāʔa ḷḷāh] mā shāʔa ḷḷāh
+PSB066	#_ dərriyyāt-i (.) bnāt-i (.) hīya ka-təshbəh l-ək āh [((ride))]
 PSB065	#ā(na) #ṛā-ni #tlaqīt #mʕa-hum [#hnāya xx #ma-ka-yjīw-sh]? (.) aa: a posto #ḥīt #ʕammaṛ-ni #ma-shəft-hum
-PSB066	[la, la (.) ma-ta-yjīw-sh f- ma-ka-ykūnū-sh] f-mulinella ((ride)) no la, ma-ta-yxurjū-sh
+PSB066	#_ [la, la (.) ma-ta-yjīw-sh f- ma-ka-ykūnū-sh] f-mulinella ((ride)) no la, ma-ta-yxurjū-sh
 PSB065	[a:h]
 PSB066	[MA: #xəddāmāt #xəddāmīn āh]
 PSB066	lavorano [sì]

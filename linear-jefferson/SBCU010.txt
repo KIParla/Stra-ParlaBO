@@ -39,7 +39,7 @@ PSB150	ti hanno accompagnato nel tragitto
 PSB149	((inspira)) bellissimo
 PSB150	questo xxxx qua?
 PSB149	per te
-PSB150	u menya krugloe litso
+PSB150	#_ u menya krugloe litso
 PSB150	de tutto
 PSB149	((ride)) kolobok
 PSB150	ehm
@@ -56,7 +56,7 @@ PSB149	ma questo qua eh
 PSB150	eh
 PSB149	cosa c'è qua dentro la patata
 PSB149	nero
-PSB150	nu ne eš' xx
+PSB150	#_ nu ne eš' xx
 PSB150	allora
 PSB149	no metti via pi~ due dita olio?
 PSB150	non mi fa bene
@@ -361,7 +361,7 @@ PSB150	solo a parole grave xxxx
 PSB150	se li prendi uno per uno,
 PSB149	sì sì lo so
 PSB150	vedrai che li passa la paura
-PSB150	kohda rot otkroesh tebia vse boiatsia uzhe
+PSB150	#_ kohda rot otkroesh tebia vse boiatsia uzhe
 PSB149	ah quello sì
 PSB149	però ecco (.) sono stronzate che
 PSB150	no
@@ -397,10 +397,10 @@ PSB150	poi dopo ti cresce la pancia
 PSB149	mh
 PSB150	allora c'è io
 PSB149	ah uff
-PSB150	mozhno idti ty chto vodu ne p'esh'? prinesi butylku u tebya v komnate stoit
+PSB150	#_ mozhno idti ty chto vodu ne p'esh'? prinesi butylku u tebya v komnate stoit
 PSB149	un rotolo di carne
 PSB150	dove?
-PSB150	davaj pomazh'
+PSB150	#_ davaj pomazh'
 PSB150	oh no no no no no dov'è andato?
 PSB149	cosa è successo?
 PSB150	cascato la mia (.) vitamina
@@ -408,14 +408,14 @@ PSB150	costa cento euro (.) il xx perciò [fai attenzione]
 PSB149	[eh lasciala in giro]
 PSB150	eh
 PSB149	((canta))
-PSB150	davaj pa mazhem
+PSB150	#_ davaj pa mazhem
 PSB149	((canta))
 PSB149	((canta))
 PSB150	xxxxx
 PSB149	stasera vado a suonare (.) con gli aristofatti
 PSB149	ahia che male
 PSB149	mh
-PSB150	mazh v techenie mesia[tsa]
+PSB150	#_ mazh v techenie mesia[tsa]
 PSB149	[sì]
 PSB150	xxx ce l'ho coso cerotto xxxx -petta te
 PSB150	xxxx cerotto

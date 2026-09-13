@@ -123,7 +123,7 @@ PSB143	[quando ce l'ha]i?
 PSB142	[mh]
 PSB142	fra un mese circa
 PSB143	sì
-PSB142	āllāḥ y-3āwn-ek, āmīn
+PSB142	#_ āllāḥ y-3āwn-ek, āmīn
 PSB142	che si chiama: strutture dati e algoritmi
 PSB142	[è diviso in due pa]rti teoria e programmazione laboratorio
 PSB143	[sì]
@@ -249,7 +249,7 @@ PSB143	sì
 PSB142	sì cerca di capir[e]
 PSB143	[se mi pre]ndono
 PSB143	boh
-PSB142	inshāllāh
+PSB142	#_ inshāllāh
 PSB143	si vedrà #inshāllāh
 PSB143	però sì questi corsi avevo intenzione di farli
 PSB142	ma sì ma sì

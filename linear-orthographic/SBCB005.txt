@@ -37,7 +37,7 @@ PSB049	e urla lui iniziato ehm notte undici iniziato urlare come matto
 PSB049	e a dice chiama adesso pulizia io vado come mi taglio non rimango e come ha iniziato ma e pro~ proprio pazzo
 PSB049	come matto che m~ mh
 PSB049	sedia butta di qua e q~ quello che sta davanti butta tutto terra e iniziato a fare così
-PSB049	e per così suo papa troppo offence hai capito lui non ne sta mai casa a parlargli non fa risponde mai normale casa
+PSB049	e per così suo papa troppo #offence hai capito lui non ne sta mai casa a parlargli non fa risponde mai normale casa
 PSB049	perché adesso verrà sentito da~ sa~ da suo papa adesso anche
 PSB050	mhmh
 PSB050	sì sì dici che è vero anzi è peggio
@@ -463,7 +463,7 @@ PSB049	quindi ehm londra
 PSB049	un secondo
 PSB050	vai vai
 PSB049	ma perché
-PSB049	hello
+PSB049	#_ hello
 PSB049	ehm eh per ospedale per
 PSB049	mamma e quelli che mi hanno asso~ partito di mio presidente khaleda zia
 PSB050	eh

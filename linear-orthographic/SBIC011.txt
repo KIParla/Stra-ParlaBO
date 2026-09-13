@@ -763,11 +763,11 @@ PSB005	mhmh
 PSB005	mhmh
 PSB078	fine serata ecco
 PSB005	ah io non ci vado da un secolo però ho degli amici che vanno a giocare a flipper
-PSB078	sì soccia flipper
+PSB078	sì #soccia flipper
 PSB005	sì
 PSB005	sì
 PSB005	pensa
-PSB078	ah scusami non sapevo se se soccia si pot~ dovesse dire
+PSB078	ah scusami non sapevo se se #soccia si pot~ dovesse dire
 PSB078	non è una bella parola
 PSB005	perché
 PSB078	ehm
@@ -1210,12 +1210,12 @@ PSB078	festa del del luna piena
 PSB005	mhmh
 PSB078	che
 PSB078	inglese
-PSB078	si chiama moon cake mangiamo
+PSB078	si chiama #moon #cake mangiamo
 PSB078	diciamo di questi
 PSB078	mh dolcetti cinesi
 PSB078	con l'uovo
 PSB078	sodo dentro
-PSB078	che si chiamano moon cake eh eh
+PSB078	che si chiamano #moon #cake eh eh
 PSB078	torta del del del eh della luna
 PSB005	della luna sì
 PSB078	e per mantenere questo diciamo questa cultura
@@ -1247,7 +1247,7 @@ PSB005	ma i dolcetti li preparate in casa o si comprano
 PSB078	i dolcetti sono son~
 PSB078	penso che siano pre~ perché io non li so fare
 PSB005	okay
-PSB078	quindi li andiamo a comprare dai china market dai negozi cinesi
+PSB078	quindi li andiamo a comprare dai #china #market dai negozi cinesi
 PSB005	no sai io non so bene come sono magari sono difficilissimi non so
 PSB078	no no no son tonde
 PSB078	secondo me non sono neanche tanto difficili

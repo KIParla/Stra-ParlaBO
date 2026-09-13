@@ -515,7 +515,7 @@ PSB029	sì
 PSB054	sì
 PSB029	come cina che a volte che vedi che gente che cammina è uno che non conosce un altro
 PSB005	mh
-PSB029	esempio sì proprio come a volte su su su mov~ cioè su film noi guardiamo che una persona che sta camminando
+PSB029	esempio sì proprio come a volte su su su #mov~ cioè su film noi guardiamo che una persona che sta camminando
 PSB029	mille persone che sta attraversando no
 PSB005	mhmh
 PSB029	cioè esempio così che se tu vai a camminare che passa mille gente che tu non conosci neanche

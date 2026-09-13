@@ -106,7 +106,7 @@ PSB054	[hai] notato differenze dell'università da: insomma da qui a bologna ris
 PSB057	sì[: è più] sì sì un po' diverso ma
 PSB054	[è diverso],
 PSB057	#more e più e #strict
-PSB057	strict strict strict
+PSB057	#_ strict strict strict
 PSB057	ma come si dice #strict
 PSB028	[ri]gido for[se]
 PSB054	[x]
@@ -166,8 +166,8 @@ PSB054	un po' per la via
 PSB028	okay
 PSB028	invece questa zona?
 PSB057	questa zona
-???	salamhuleikum
-PSB057	oi maiya friend tar mar student ra interview nite asche
+???	#_ salamhuleikum
+PSB057	#_ oi maiya friend tar mar student ra interview nite asche
 ???	a:h
 PSB028	salve
 PSB057	mia suocera
@@ -287,10 +287,10 @@ PSB057	[e sì sì nel] n~ nella zona sì
 PSB028	okay
 PSB028	e:hm
 PSB057	come e: quindici minuti e: co~ >come si dice<
-PSB057	eh fifteen minute wa~ walk like
+PSB057	#_ eh fifteen minute wa~ walk like
 PSB028	mh
 PSB054	sì [sì]
-PSB057	[you] know?
+PSB057	#_ [you] know?
 PSB054	quin[dici minu]ti: a piedi (.) [sì]
 PSB028	[sì sì sì]
 PSB057	[sì sì sì]
@@ -1170,7 +1170,7 @@ PSB057	((ride))
 PSB028	sì
 PSB054	capito
 PSB028	e: non ho capi~ e cos'è che fa?
-PSB057	software engineering
+PSB057	#_ software engineering
 PSB028	ah
 PSB057	informatico
 PSB028	sì sì sì
@@ -1247,11 +1247,11 @@ PSB028	mhmh
 PSB054	sì grazie
 PSB028	bello fresco ci voleva effettivamente ((ride))
 PSB057	((ride))
-???	°xxx°
-PSB057	°xx°
-???	°xx°
-PSB057	°xx°
-???	°xx°
+???	#_ °xxx°
+PSB057	#_ °xx°
+???	#_ °xx°
+PSB057	#_ °xx°
+???	#_ °xx°
 PSB028	°madonna mia sto facendo una sauna°
 PSB054	((ride))
 PSB028	e e poi ti a proposito di a me sta cosa fa morire perché è la mia via di casa giù

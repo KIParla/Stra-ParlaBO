@@ -89,7 +89,7 @@ PSB005	mhmh
 PSB079	che
 PSB005	okay
 PSB079	sì sono
-PSB079	vulgaire
+PSB079	#_ vulgaire
 PSB079	dipende co- ca- al paesino
 PSB005	mhmhmhmh
 PSB079	chi sono gente educate
@@ -132,11 +132,11 @@ PSB079	sì sì c'è lì c'è
 PSB005	ciao
 PSB079	ciao
 ???	ciao
-???	che bella xxx
+???	che bella #xxx
 PSB005	vedete non c'è problema se ci interrrompiamo
 ???	ciao
-PSB067	salam xxx
-???	labas labas
+PSB067	#_ salam xxx
+???	#_ labas labas
 PSB005	niente quindi okay ho capito
 PSB005	anche perché bologna da raggiungere è lontano da qui come si fa
 PSB079	eh con il treno perché abbiamo il treno a consandolo
@@ -268,7 +268,7 @@ PSB080	argenta
 PSB080	amikat
 PSB005	eh
 PSB005	mi ha mi ha detto mh
-PSB079	xx wlad-ek 3ajebhum l-ḥal fi ash smit-u
+PSB079	#_ xx wlad-ek 3ajebhum l-ḥal fi ash smit-u
 PSB080	sì
 PSB005	sì
 PSB005	con i com~ hanno amici amiche
@@ -639,7 +639,7 @@ PSB080	io aşfī
 PSB005	okay
 PSB080	eh
 PSB005	che dov'è
-PSB067	asfi fin kayn fi-l-maghrib
+PSB067	#_ asfi fin kayn fi-l-maghrib
 PSB080	eh
 PSB005	sul mare
 PSB079	sul sì sì brava sul mare sul mediterrane~ no eh l'atlantico
@@ -652,8 +652,8 @@ PSB079	una bella città piccolina ma bellissima
 PSB005	mhmh e è ne~ è più fresco
 PSB080	sì
 PSB079	sì sì fresco eh sono aspetta
-PSB079	sono famose per il fakhar
-PSB067	xxxxx
+PSB079	sono famose per il #fakhar
+PSB067	#_ xxxxx
 PSB079	s~ fa quelle fanno tajine
 PSB067	xx terracotta
 ???	taj~
@@ -679,12 +679,12 @@ PSB079	vicino al mare fresco ma
 PSB067	l'importante è che è secco non è umido
 PSB005	mh
 PSB005	sì
-PSB080	ḥda l-mare
+PSB080	#_ ḥda l-mare
 PSB079	mito credo che è un clima mito
 PSB005	mhmh
 PSB005	sì
-PSB067	xxxxx
-PSB079	xxxx ((ride))
+PSB067	#_ xxxxx
+PSB079	#_ xxxx ((ride))
 PSB067	awili io l'ho detto xxx ho detto studi studi
 PSB005	no ma no eh no no no
 PSB079	spontaneamente
@@ -704,7 +704,7 @@ PSB079	eh turista il questo il problema diventa
 PSB005	sì sì
 PSB005	mh
 PSB005	c'è una piazza giusto
-PSB080	jem~ jemaa el-fnaa no bellissima
+PSB080	#jem~ #jemaa #el-fnaa no bellissima
 PSB005	okay okay
 PSB079	è diventata anche cara
 PSB080	mh
@@ -748,11 +748,11 @@ PSB079	siamo uguale nel primaria l'asilo le medie abbiamo la stessa
 PSB080	mhmh
 PSB005	mhmh
 PSB079	aspetta
-PSB067	bi l-3arbiya
+PSB067	#_ bi l-3arbiya
 PSB079	eh
-PSB079	3adna nafs l-hadra
-PSB067	3adna nafs l-mustawa
-PSB079	nafs l-ḥaq
+PSB079	#_ 3adna nafs l-hadra
+PSB067	#_ 3adna nafs l-mustawa
+PSB079	#_ nafs l-ḥaq
 PSB067	ah abbiamo lo stesso eh
 PSB079	di di~ diritto brava
 PSB067	x diritto di italiani
@@ -762,10 +762,10 @@ PSB080	eh sì
 PSB079	è è un'altra cosa
 PSB005	sì sì
 PSB067	sì ma a parte quello di che non siamo colonizzati dalla francia
-PSB080	walakin hadshi mashi kan ki tabi3at lḥal xxx
-PSB067	abbiamo anche le les émission mh ash ki gulu li-hum bi l-talianiya
+PSB080	#_ walakin hadshi mashi kan ki tabi3at lḥal xxx
+PSB067	abbiamo anche le #les émission mh #ash #ki #gulu #li-hum #bi #l-talianiya
 PSB067	le scuole in francese
-PSB079	eh sì sì eh eh le les émissions france marche kifach ghadi tguli li-ha
+PSB079	eh sì sì eh eh le #les émissions france marche kifach ghadi tguli li-ha
 PSB067	si si
 PSB067	perché qua in italia non esistono allora voi non non sapete come funziona è è una parola francese
 PSB005	eh
@@ -776,7 +776,7 @@ PSB067	ma eh studi solo francese
 PSB005	cioè è una scuo~ ma ho capito è una scuola
 PSB005	come se fosse una scuola francese ma in territorio straniero sì
 PSB067	sì straniero sì
-PSB079	brava così quando finiscono ash smitu vanno in francia
+PSB079	brava così quando finiscono #ash #smitu vanno in francia
 PSB067	vanno a finire in francia
 PSB005	mh sì sì
 PSB079	hanno lo stesso pre~ programma quello di francia
@@ -796,7 +796,7 @@ PSB079	sì
 PSB079	sì
 PSB080	ah
 PSB079	ah sì primo perché noi eh
-PSB080	l-3washer
+PSB080	#_ l-3washer
 PSB067	noi siamo lunare
 PSB079	lunare
 PSB067	lunare
@@ -821,14 +821,14 @@ PSB079	tradizioni
 PSB067	perché ognuno di noi cucina quello che
 PSB079	sì sì facciamo il cous cous eh compriamo
 PSB079	la frutta secca
-PSB080	trid (.) trid
-PSB079	eh fa~ fanno un un altro noi no noi invece facciamo il cous cous loro fanno un'altra cosa si chiama trid
-PSB080	trid
+PSB080	#_ trid (.) trid
+PSB079	eh fa~ fanno un un altro noi no noi invece facciamo il cous cous loro fanno un'altra cosa si chiama #trid
+PSB080	#_ trid
 PSB079	non lo so eh come si fa con
-PSB079	bi l-ḥarsha
+PSB079	#_ bi l-ḥarsha
 PSB005	un piatto
-PSB080	no è l-msemmen
-PSB079	eh quel l-msemmen non so se hai mangiato il msemmen l'altra volta
+PSB080	no è #l-msemmen
+PSB079	eh quel #l-msemmen non so se hai mangiato il #msemmen l'altra volta
 PSB067	sì sì c'erano quello che
 PSB005	sì
 PSB005	sì sì sì
@@ -841,13 +841,13 @@ PSB079	sì
 PSB005	buono buono
 PSB079	ma invece noi non facciamo il cous cous e compriamo la frutta secca la
 PSB079	tutta la frutta secca l~
-PSB080	ash smit l-ṭa3rija?
+PSB080	#_ ash smit l-ṭa3rija?
 PSB067	si chiama
-PSB079	e festeggiamo con una cosa non lo so come si chiama xxx fi l-internet
+PSB079	e festeggiamo con una cosa non lo so come si chiama #xxx #fi #l-internet
 PSB079	festeggiamo con una cosa non lo so come si chiama spetta che la cerche su
-PSB067	ma kaynash smit smit-ha tampo~ tampone tampo~
+PSB067	#ma #kaynash #smit #smit-ha tampo~ tampone tampo~
 ???	aspetta aspetta che mi dice questo nome
-PSB067	hadik xxxx ash smit-ha
+PSB067	#_ hadik xxxx ash smit-ha
 PSB079	come tamburo ma non è un tamburo è una cosa
 ???	tampone
 PSB005	okay
@@ -866,7 +866,7 @@ PSB067	qua in ita~ in italia ma in marocco no
 PSB079	sì sì sì sì
 PSB067	in marocco noi i bambini li festeggiamo fuori
 PSB005	ah
-PSB067	mu3ad
+PSB067	#_ mu3ad
 PSB079	sì sì in eh sì
 PSB067	in marocco
 PSB079	eh qui lo festeggiamo
@@ -877,7 +877,7 @@ PSB005	tutti ins~ tra grandi insomma
 PSB079	sì insieme sì insieme
 PSB005	okay
 PSB005	e vi vestite
-PSB079	sì sì tradizionali djellaba oppure il kaftan oppure il tackchita
+PSB079	sì sì tradizionali #djellaba oppure il #kaftan oppure il #tackchita
 PSB080	sì
 PSB005	okay
 PSB079	e festeggiamo
@@ -887,7 +887,7 @@ PSB080	ah qui
 PSB079	ci sono ma pochi c'è c'è una bologna che si chiama hijab paradise
 PSB080	poco non tanto
 PSB005	sì d~ dov'è
-PSB079	fin kayna fi hijab paradise sta a bologna al centro di bologna sì
+PSB079	#fin #kayna #fi #hijab #paradise sta a bologna al centro di bologna sì
 PSB080	centro centro centro
 PSB067	a bologna
 PSB005	in centro centro
@@ -900,13 +900,13 @@ PSB079	oppure
 PSB079	sì la mia suocera va al marocco le prende
 PSB005	certo
 PSB005	ma anche gli uomini hanno i vestiti tradizionali
-PSB079	sì sì sì la stessa cosa una hanno il djellaba
+PSB079	sì sì sì la stessa cosa una hanno il #djellaba
 PSB080	sì
 PSB079	e cosa ancora
 PSB005	ah bello
 PSB079	ti faccio vedere una
 PSB005	questa hijab paradise
-PSB067	xxxx
+PSB067	#_ xxxx
 PSB079	sì sì
 PSB005	bellissimo
 PSB079	eh
@@ -918,8 +918,8 @@ PSB067	sì ma le puoi tagliare
 PSB005	no ma figurati è bellissimo no no ci manchere~ assoluta~
 PSB079	aspetta
 PSB079	guarda
-PSB079	s- kaftan si chiama kaftan
-PSB005	kaftan sì sì bellissimo
+PSB079	s- #kaftan si chiama #kaftan
+PSB005	#kaftan sì sì bellissimo
 PSB079	grazie
 PSB005	bellissimo
 PSB005	sì me lo sono provato e mi va benissimo però non mi
@@ -945,12 +945,12 @@ PSB067	col cous cous così assaggi il cous cous
 PSB005	va bene sì sì sì mi piacerebbe moltissimo mi piacerebbe molti~
 PSB067	viene anche la chiara e poi
 PSB005	ah sì lei sarebbe contenta molto sì sì sì infatti
-PSB080	cous cous trid tajine
+PSB080	#_ cous cous trid tajine
 PSB079	sì
 ???	qualsiasi cosa sì
 PSB079	ognuna di noi fa qualcosa
 PSB005	anche noi
-???	xxxx
+???	#_ xxxx
 PSB005	anch'io
 PSB005	e io a me piace cucinare ma non ho mai tempo però
 PSB005	però mi piace faccio la pizza ero diventata un po' brava
@@ -1094,7 +1094,7 @@ PSB005	mhmh sì
 PSB079	anche la mia figlia ha fatto ma quest'anno ha detto di voleva provare il tennis
 PSB005	mhmh okay okay
 PSB079	vediamo
-PSB080	e basket bellissimo e pae- tipo ki xurju barra bezaf
+PSB080	e basket bellissimo e pae- tipo #ki #xurju #barra #bezaf
 PSB079	ah danno fuori sì
 PSB080	fuori due giorni in molinella tre giorni fuori molinella
 PSB005	sì
@@ -1137,14 +1137,14 @@ PSB005	e vai per le vacanze
 PSB080	sì
 PSB005	tutti gli anni
 PSB067	è tornata
-PSB079	kat mshi kulla 3am ah
+PSB079	#_ kat mshi kulla 3am ah
 PSB080	in tre anni tre anni
 PSB067	dipende
 PSB005	okay
 PSB005	e ti piace andare a casa
 PSB080	sì
 PSB005	e mh quando vai vai a visit~
-PSB067	yak yallah jiti men l-magrib yak yallah jiti men l-maghrib
+PSB067	#_ yak yallah jiti men l-magrib yak yallah jiti men l-maghrib
 PSB080	mh
 PSB067	appena arrivata dal marocco lei
 PSB080	eh una settimana
@@ -1165,7 +1165,7 @@ PSB080	sì
 PSB005	delle loro cugine
 PSB080	sì
 PSB080	mh e questa non
-PSB080	mh bghat tbqa fi l-magrib
+PSB080	#_ mh bghat tbqa fi l-magrib
 PSB079	eh voleva stare in marocco
 PSB080	c'è l'italia xx marocco
 PSB079	invece miei no
@@ -1219,7 +1219,7 @@ PSB079	dove ci sono la mia c'è la mia cognata prepariamo onu~ ognuno
 PSB079	prepara una cosa per esempio uno dolce un altro ognuno prepara qualcosa
 PSB005	mh
 PSB079	eh facciamo il carne con li prugne
-PSB079	eh seffa un tipo non so come una pasta
+PSB079	eh #seffa un tipo non so come una pasta
 PSB079	la facciamo oppure il cous cous
 PSB005	mhmh
 PSB079	e così
@@ -1228,7 +1228,7 @@ PSB079	e festeggiamo insieme
 PSB005	anche tu
 PSB080	sì per tutto il marocco qua
 PSB080	per tutto il marocco qua
-PSB079	e fin ket fteḥlu bih l fil 3id sghir per esempio
+PSB079	#_ e fin ket fteḥlu bih l fil 3id sghir per esempio
 PSB080	xx la marito il bambino sta a casa
 PSB079	eh okay
 PSB005	okay quindi in un gruppo piccolo in una famiglia ristretta
@@ -1251,16 +1251,16 @@ PSB005	mhmh
 PSB005	è un è bello è un mese bello
 PSB079	s~ s~ sì sì
 PSB005	okay
-PSB079	ashnahya ruḥ ḥami bi l-talianiya
-PSB080	xx
+PSB079	#_ ashnahya ruḥ ḥami bi l-talianiya
+PSB080	#_ xx
 PSB079	eh
-PSB067	xxxx
+PSB067	#_ xxxx
 PSB079	mh
 PSB079	ehm
-PSB079	ru-ḥi
+PSB079	#_ ru-ḥi
 PSB067	finimento
-PSB079	ma3art ki fash ket dgal
-PSB067	xxxx
+PSB079	#_ ma3art ki fash ket dgal
+PSB067	#_ xxxx
 PSB079	eh
 PSB079	eh
 PSB079	qualcosa che
@@ -1283,20 +1283,22 @@ PSB005	okay
 PSB079	per ese~ un giorno fai per esempio un piatto per esempio io a casa
 PSB079	eh baso sull'insalata faccio un giorno faccio li bistecche
 PSB079	oppure pesce e facciamo anche
-PSB079	briwat un tipo di dolce
+PSB079	#briwat un tipo di dolce
+PSB080	#_
 PSB079	un zuppa
+PSB080	#_
 PSB005	questa l'ho mangiata è molto buona sì
 PSB080	sì
 PSB067	sì
-PSB080	msemmen
-PSB079	zuppa bi l-basla bi l-p~
-PSB079	bi l~
+PSB080	#_ msemmen
+PSB079	zuppa #bi l-basla #bi l-p~
+PSB079	#_ bi l~
 PSB080	cipollo
 PSB079	cipolla
 PSB079	eh cosa ancora
-PSB080	tajine
+PSB080	#_ tajine
 PSB079	eh ognuna fa
-PSB079	chebakia
+PSB079	#_ chebakia
 PSB005	comunque è un periodo diverso cioè
 PSB079	un tipo di dolce
 PSB067	no sì vabbè
@@ -1308,15 +1310,15 @@ PSB005	per un mese tanto lavoro
 PSB080	ah sì
 PSB079	sì
 PSB079	sì vero
-PSB079	ma dopo vediamo che prendiamo eh l-ajer
-PSB080	xxx
-PSB079	non lo so ashnahuwa l-ajer in a~ eh in italiano
-PSB080	eh ash bqi-ti ket ćehhay
+PSB079	ma dopo vediamo che prendiamo eh #l-ajer
+PSB080	#_ xxx
+PSB079	non lo so #ashnahuwa #l-ajer in a~ eh in italiano
+PSB080	#_ eh ash bqi-ti ket ćehhay
 PSB005	difficile
 PSB079	eh aspetta facciamo la parola
 PSB067	xxxxx
 PSB080	sì
-PSB079	al-ajer
+PSB079	#_ al-ajer
 PSB079	dio t~
 PSB079	compinsione
 PSB067	ricompensa
@@ -1375,7 +1377,7 @@ PSB079	ordiniamo una pizza opp~ oppure facciamo qualcosa mangia~ mangiamo insiem
 PSB005	sì sì quindi per natale anche con i bambini non neanche per gioco fa~ fate l'a~ per esempio l'albero non lo so
 PSB079	no no no no l'albero no non faccia~ no
 PSB005	regali no
-PSB080	fi 3ayshora ki yaxdu li-hum lu3ab
+PSB080	#_ fi 3ayshora ki yaxdu li-hum lu3ab
 PSB079	sì
 PSB079	è questo è il nostro per i giochi eccetera eccetera facciamo questo
 PSB005	okay
@@ -1395,7 +1397,7 @@ PSB079	è chiaro e noi a solo ai bambini bambini
 PSB067	solo i bam~ i bambini
 PSB080	solo i bambini
 PSB005	poi in certe famiglie
-PSB080	ken naxdu ta ḥna t3arej
+PSB080	#_ ken naxdu ta ḥna t3arej
 PSB005	per esempio nella mia famiglia
 PSB005	già sono già tanti tanti anni che abbiamo deciso solo bambini
 PSB005	perché se no si da da un po' di anni da tan~ da tantissimi anni facciamo solo i bambini io infatti non
@@ -1414,7 +1416,7 @@ PSB005	invece in casa di mio marito si fanno regali a tutti
 PSB079	eh ma cost~
 PSB005	zia zia nonna cugina la prozia tut~ tutti
 PSB067	sì ma costa
-PSB079	bessaḥ kayna mushkilat l-mesruf
+PSB079	#_ bessaḥ kayna mushkilat l-mesruf
 PSB067	mh
 PSB080	sì sì
 PSB005	e poi non lo so da voi ma per me ogni tanto il natale è un po' uno stress
@@ -1424,7 +1426,7 @@ PSB079	no
 PSB005	ah non lo so gli a~
 PSB079	effettivamente
 PSB067	come posso spiegare voi avete un
-PSB067	xxx
+PSB067	#_ xxx
 PSB005	son curiosa sì
 PSB067	sì perché voi avete tutto
 PSB067	un po' costretti di farli siete costre~
@@ -1458,7 +1460,7 @@ PSB005	ah allora come noi
 PSB079	eh brava
 PSB067	come voi
 PSB005	xxxxx come noi sì sì
-PSB079	xxx
+PSB079	#_ xxx
 PSB067	perché noi cuciniamo tipo in marocco tutte le domeniche fanno il cous cous
 PSB005	mh quanto ci vuole a fare il cous cous
 PSB067	ah dipende
@@ -1535,12 +1537,12 @@ PSB005	okay certo certo
 PSB079	dai
 PSB067	invece a me mi piace cucinare la pasta con i frutti di mare
 PSB005	eh buono hai ragione xxxxx
-PSB080	ki qra 3la hadshi la
-PSB079	la ki qalleb fi smitu u ki dir
+PSB080	#_ ki qra 3la hadshi la
+PSB079	#_ la ki qalleb fi smitu u ki dir
 PSB080	ah ah
 PSB079	gli piace
 PSB080	qualcun~
-PSB067	3awli djeweji bent-ek
+PSB067	#_ 3awli djeweji bent-ek
 PSB080	ecco
 PSB005	bene che bravi no mh
 PSB005	non lo so la qualche natale io un po' ho sofferto certe volte
@@ -1644,7 +1646,7 @@ PSB079	e si finisce alle sei e mezza sei sei e mezza
 PSB067	al mas~ sì però non di pomeriggio
 PSB079	sì sì dipende se ha due o tre ore al giorno
 PSB067	sì
-PSB080	ah ki qraw nhar kullo
+PSB080	#_ ah ki qraw nhar kullo
 PSB067	sì sì tutto il giorno troppo
 PSB005	ma io però non ho bambini quindi
 PSB067	sì ma non c'entra a parte quello lì
@@ -1676,10 +1678,10 @@ PSB079	eh
 PSB067	xxxxx
 PSB005	eh mhmh sì mh
 PSB067	poi il professore se fa la lezione la mattina non la fa al pomeriggio
-PSB080	xxxx
+PSB080	#_ xxxx
 PSB005	sì sì
 PSB005	mh okay
-PSB080	wash kayn l-mgharba bezaf fi l-madrasa
+PSB080	#_ wash kayn l-mgharba bezaf fi l-madrasa
 PSB067	ci sono arabi in marocco
 PSB005	eh mh
 PSB079	università
@@ -1710,16 +1712,16 @@ PSB067	sì sì
 PSB005	più rapporti sì
 PSB005	sì sì sicuramente
 PSB067	fanno anche delle delle
-PSB079	taw'ama
-PSB067	no eh haduk li ki diru
-PSB067	lqor3at li ki diru bash ki jiw i qarriw fi fransa
-PSB080	ki jiw fs~ xxx
-PSB079	hadik ash smitu borsa di studio li kat l-marocco
-PSB067	no kayin daba ma ustad dyal fǝ fil oujda
-PSB067	dar hadik u ja l-beljika come si chiama in ital~ eh in francese si chiama tirage au sort
+PSB079	#_ taw'ama
+PSB067	no eh #haduk #li #ki #diru
+PSB067	#_ lqor3at li ki diru bash ki jiw i qarriw fi fransa
+PSB080	#_ ki jiw fs~ xxx
+PSB079	#hadik #ash #smitu borsa di studio #li #kat #l-marocco
+PSB067	no #kayin #daba #ma #ustad #dyal #fǝ #fil oujda
+PSB067	#dar #hadik #u #ja #l-beljika come si chiama in ital~ eh in francese si chiama #tirage #au #sort
 PSB067	in italiano
 PSB005	e dillo più lentamente
-PSB067	tirage au sort
+PSB067	#_ tirage au sort
 PSB005	in francese
 PSB079	ci sono delle professore che vengono scelte dalle università per
 PSB005	ah
@@ -1793,7 +1795,7 @@ PSB079	quando è andata in francia era ha fatto un esame
 PSB079	ma era sup~ superiore di loro
 PSB005	eh sì sì ma poi soprattut~
 PSB067	sì perche noi sono tutti severi
-PSB080	ma ki noqsush li-hum ki zidu li-hum
+PSB080	#_ ma ki noqsush li-hum ki zidu li-hum
 PSB079	mh
 PSB005	di
 PSB079	no no ma st~ stavo parlando per la mia sorella ma
@@ -1853,7 +1855,7 @@ PSB005	e anche tu sei andata a scuola in marocco sì
 PSB080	mhmh poco
 PSB005	un poco okay
 PSB080	poco
-PSB080	sades ashna-huwa sedes
+PSB080	#_ sades ashna-huwa sedes
 PSB067	non ha preso la quinta
 PSB005	com'era la scuola
 PSB079	la quinta gli manca
@@ -1861,29 +1863,29 @@ PSB005	come funzionava la scuola ti piaceva
 PSB080	eh in marocco no
 PSB005	no okay perché
 PSB080	eh
-PSB080	ḥeddash sheft waḥed l-ustad drab waḥed l-bent u ment temma
+PSB080	#_ ḥeddash sheft waḥed l-ustad drab waḥed l-bent u ment temma
 PSB079	ah ha visto un la mae~ il maestro
 PSB079	che
-PSB080	kant ket beki meskina
+PSB080	#_ kant ket beki meskina
 PSB079	e la bambina che piangeva allora dal quel giorno
 PSB005	terribile
-PSB080	matet l-bent meskina
+PSB080	#_ matet l-bent meskina
 PSB005	hai fatto bene
-PSB080	matet l-bent
+PSB080	#_ matet l-bent
 PSB079	eh è morta la eh quella bambina
 PSB080	sì
-PSB079	fash drabha
-PSB080	drabha l-ras
+PSB079	#_ fash drabha
+PSB080	#_ drabha l-ras
 PSB079	eh
 PSB080	cade la testa pa~
 PSB080	xxx
 PSB079	mamma mia
 PSB005	hai fatto bene
-???	hadi jarima
-PSB067	bayna nari troppo
-PSB080	men temma safi ma bqitč la scuola
-PSB079	wellat phobiya
-PSB080	mabghitč
+???	#_ hadi jarima
+PSB067	#bayna #nari troppo
+PSB080	#men #temma #safi #ma #bqitč la scuola
+PSB079	#wellat phobiya
+PSB080	#_ mabghitč
 PSB005	beh ci hai
 PSB005	certo sì sì
 PSB005	certo cer~
@@ -1893,11 +1895,11 @@ PSB080	adesso no poca
 PSB079	adesso è cambiato tutto
 PSB080	eh sì
 PSB005	okay okay
-PSB067	la daba la
+PSB067	#_ la daba la
 PSB079	adesso xxxxxxx
 PSB067	xx no
 PSB067	adesso non so
-???	xxx
+???	#_ xxx
 PSB079	ah ha de~ ha detto in campagna sì
 PSB067	o prima sì prima sì
 PSB005	mh
@@ -1911,10 +1913,10 @@ PSB067	non è che ti ti da così due sbe~
 PSB079	se lo sgridi dic~
 PSB005	eh vabbè
 PSB079	sì ma
-PSB080	xxx
+PSB080	#_ xxx
 ???	no
-PSB080	ah la la guddam-i bqa shad l-ras dyal-ha u ti drob fi-ha
-???	xxxxx
+PSB080	#_ ah la la guddam-i bqa shad l-ras dyal-ha u ti drob fi-ha
+???	#_ xxxxx
 PSB079	disastri
 PSB005	non l'avevo mai sentita questa terribile
 PSB079	anch'io la prima volta
@@ -1987,7 +1989,7 @@ PSB067	affittano xx c'è anche l'albergo
 PSB005	mhmh
 PSB005	beh se son molto lontani
 PSB079	sì sì
-PSB079	ashna-huwa l-ḥayy l-jami3i
+PSB079	#_ ashna-huwa l-ḥayy l-jami3i
 PSB067	eh non lo so
 PSB079	non lo so se c'è in italia
 PSB067	in italia qua non c'è in italia
@@ -2045,8 +2047,8 @@ PSB079	sì sì dai
 PSB005	è una gioia sì sì sì
 PSB005	ho capito sì
 PSB005	e al tuo matrimonio ti sei vestita con un vestito bellissimo
-PSB079	sì sì con con un takshita
-PSB079	tre takshita
+PSB079	sì sì con con un #takshita
+PSB079	tre #takshita
 PSB079	eh col vestito abbiamo fe~ fatto una piccola
 PSB079	festa
 PSB005	mhmh
@@ -2059,10 +2061,10 @@ PSB005	una festa piccola o una festa grande
 PSB080	piccola no grande
 PSB005	piccola okay
 PSB080	sì
-PSB067	lbes-ti takshita
-PSB080	takshita sì
-PSB067	tleta ula rab3a
-PSB080	tleta
+PSB067	#_ lbes-ti takshita
+PSB080	#takshita sì
+PSB067	#_ tleta ula rab3a
+PSB080	#_ tleta
 PSB079	tre anche lei ha fatto tre
 PSB080	una piccola una grande
 PSB067	tre vestite
@@ -2072,7 +2074,7 @@ PSB005	che colore si mette
 PSB080	bianca verde e rosso
 PSB079	eh io no io il verde il il bianco
 PSB005	ah okay
-PSB080	l-xder dyal l-ḥenna l-ḥenna
+PSB080	#_ l-xder dyal l-ḥenna l-ḥenna
 PSB080	xxx
 PSB079	eh sì brava s~ anch'io ho fatto il verde per il
 PSB080	e dopo rosso dopo bianco vai via
@@ -2080,10 +2082,10 @@ PSB079	brava eh no no io sono rimasta a casa
 PSB079	che perché mio marito è venuto in italia
 PSB005	mhmh
 PSB079	dopo u~ diciamo otto mesi sono
-PSB080	che c'è il coche
+PSB080	che c'è il #coche
 PSB005	venuta x
-PSB080	m3a marraksh
-PSB079	l-coche lo conosci quello quel carrozza
+PSB080	#_ m3a marraksh
+PSB079	#l-coche lo conosci quello quel carrozza
 PSB067	è la carrozza la carrozza col cavallo
 PSB005	wow
 PSB079	non sei mai andata a marrakech no no
@@ -2099,12 +2101,12 @@ PSB079	la carrozza dei romani sì
 PSB079	uguale a quella
 PSB005	bellissimo
 PSB005	e e l'henné
-PSB080	xx
+PSB080	#_ xx
 PSB005	tu sai fare
-PSB079	hadik l-sa3a ket diriha fi l-ma'
+PSB079	#_ hadik l-sa3a ket diriha fi l-ma'
 PSB005	chi lo fa di voi no
 PSB080	no no
-PSB080	ket deri l-scotch u tan nhar kullo
+PSB080	#_ ket deri l-scotch u tan nhar kullo
 PSB079	eh eh lei p~ fa una
 PSB079	un tipo come una scotch
 PSB067	stencil
@@ -2117,7 +2119,7 @@ PSB005	stencil ah okay okay
 PSB080	sì
 PSB079	sì
 PSB005	io ho il xx
-PSB080	walakin kaynin l-benat li ki diro l-ḥenna hna
+PSB080	#_ walakin kaynin l-benat li ki diro l-ḥenna hna
 PSB079	eh ci sono
 PSB080	xx person~
 PSB079	c c'erano delle ragazzine che fanno sì
@@ -2131,7 +2133,7 @@ PSB067	sì ma comprano già xx
 PSB079	conosco un italiano che vende a fatima
 PSB079	lui che ha prepara
 PSB005	mhmh
-PSB079	l-ḥenna
+PSB079	#_ l-ḥenna
 PSB067	mhmh
 PSB005	l'inchiostro sì
 PSB067	ah
@@ -2165,21 +2167,21 @@ PSB079	eh sì
 PSB005	fa niente non non mi non mi ricordo
 PSB079	eh c'è in tutte mh sono andata eh in tanti posti
 PSB079	ma s~ sempre ti fregano
-PSB080	xxxxx
+PSB080	#_ xxxxx
 ???	ciao
-PSB080	xxxxxx
+PSB080	#_ xxxxxx
 PSB005	wow
-PSB080	xxx
+PSB080	#_ xxx
 PSB005	bellissimo bellissimo
-PSB080	ourika
-PSB080	kulshi zwin
+PSB080	#_ ourika
+PSB080	#_ kulshi zwin
 PSB079	ah sì è nostro questo nostro abito tradizionale quello chi i berberi
 PSB005	ah okay sì ma mi sembrava di averlo già visto infatti
-???	rah ki sem3o
-???	xxx
+???	#_ rah ki sem3o
+???	#_ xxx
 PSB005	e
-???	bghit-ha tsme3 lebsa shelḥa
-PSB079	ah sheft si chiama lebsa il vestito per i berberi
+???	#_ bghit-ha tsme3 lebsa shelḥa
+PSB079	ah #sheft si chiama #lebsa il vestito per i berberi
 PSB005	okay okay
 PSB005	ma la lingua berbera chi è che mi ha detto che la sa
 PSB079	sì sì io
@@ -2187,7 +2189,7 @@ PSB005	com'è cioè è difficile è amore per l~
 PSB080	eh
 PSB079	p~ r~ d~ come cinese se uno parla parla con con il die~ cin il bie~ con il dialetto
 PSB079	somiglia a cinese
-PSB080	labes tlata
+PSB080	#_ labes tlata
 PSB005	okay quindi è diversissimo sì
 PSB079	e lei è anche lei berbera ma non abbiamo la stessa
 ???	xxx
@@ -2202,8 +2204,8 @@ PSB079	sì sì
 PSB067	no sono berberi s~ ci sono due dialetti diversi
 PSB079	o tre
 PSB067	non erano quattro
-PSB067	tamazight tarifit w (.) tashelḥit tamazight tarifit
-PSB079	safi tre
+PSB067	#_ tamazight tarifit w (.) tashelḥit tamazight tarifit
+PSB079	#safi tre
 PSB067	tre
 PSB079	tre ci sono tre
 PSB005	ma il io non non so niente del berbero vie~ quando lo usate lo usate
@@ -2335,7 +2337,7 @@ PSB079	allora tre~
 PSB005	è una classe piccola
 PSB079	sì tredici diciamo che
 PSB079	ci sono due eh un pa~ due due pakistane
-PSB080	xxx
+PSB080	#_ xxx
 PSB079	e c'è una marocchina
 PSB005	mhmh
 PSB079	le altre de~ no
@@ -2378,8 +2380,8 @@ PSB005	okay beh
 PSB067	e anche per ispri~ l'isprimento di qualcosa loro non sanno dire xxx
 PSB005	sì sì ho capito sì
 PSB005	allora vediamo se cosa posso chiedere ma forse
-PSB067	kat hadri bi l-3arbiya ula bi l-talianiya
-PSB067	u ḥayidi id-ik ra ḥayyeti-hum bash tghesli fumm-ek
+PSB067	#_ kat hadri bi l-3arbiya ula bi l-talianiya
+PSB067	#_ u ḥayidi id-ik ra ḥayyeti-hum bash tghesli fumm-ek
 PSB005	ah sì ma ci sono cioè eh
 PSB005	per esempio il telegiornale dei canali marocchini riuscite a vederli qui della televisione
 PSB079	a dire la verità io no ma quando c'è la mia suocere sì

@@ -395,10 +395,10 @@ PSB005	tantissimo infatti tipo per esempio voi di quale parte della cina siete
 PSB046	eh noi siamo vicino mare
 PSB046	sotto shanghai
 PSB005	okay
-PSB046	non so se hai presente regione zhejiang
+PSB046	non so se hai presente regione #zhejiang
 PSB046	ma comunque m~ maggior parte della cina viene da lì
 PSB005	okay
-PSB046	regione zhejiang
+PSB046	regione #zhejiang
 PSB005	okay
 PSB046	poi xx poche parte vengo un po' in
 PSB046	no~ su~ nord sud nord
@@ -407,7 +407,7 @@ PSB046	no al nord
 PSB005	nord sì
 PSB046	e nord è parte più fredda
 PSB005	okay
-PSB046	se no di solito è tutto parte regione zhejiang
+PSB046	se no di solito è tutto parte regione #zhejiang
 PSB005	eh ma
 PSB005	ma perché qui c'è una migrazione da quella zona proprio a bologna
 PSB005	oppure perché è più popolata

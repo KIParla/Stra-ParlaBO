@@ -78,9 +78,9 @@ PSB034	[tu] non parli arabo?
 PSB014	no allora io parlo il dialetto, però n c~ non arabo tradizonale #fuṣḥā capito?
 PSB034	°sì°
 PSB014	no
-PSB034	dārija ((ride))
+PSB034	#_ dārija ((ride))
 PSB014	#dārija bravo ((ride))
-PSB034	dārija xx dārija ((ride))
+PSB034	#_ dārija xx dārija ((ride))
 PSB033	ehm:: (.) e perché sei venuto qua, se posso chiedere, perché sei venuto qua a bologna?
 PSB034	m::h
 PSB014	per lavoro:, studio:?
@@ -185,10 +185,10 @@ PSB034	[°i verbi°]
 PSB014	e:h son tantissimi
 PSB033	[°eh°] è vero
 PSB034	[°sì°]
-PSB014	è un problema ((ride))
+PSB014	è un problema [((ride))]
 PSB033	[sono] difficili anche per noi qui[ndi]
 PSB014	[sì::] anche noi li [sbaglia]mo
-PSB033	((ride))
+PSB033	[((ride))]
 PSB034	((ride))
 PSB014	>sìsì[sìsì]<
 PSB033	[eh sì] infatti
@@ -255,12 +255,12 @@ PSB034	°cosa cibo?°
 PSB033	cibo:, [°cibo°]
 PSB014	[pizza], pasta
 PSB033	[pizza] pasta, o::
-PSB034	tajine ((ride))
-PSB033	taj[ine eh]
+PSB034	#_ tajine ((ride))
+PSB033	#_ taj[ine eh]
 PSB014	#tajine ((ride)) e quindi preferisci quello [marocchino]?
 PSB033	[ta~] #tajine o pizza?
-PSB033	taj[ine]
-PSB034	[tajine] tajine ((ride))
+PSB033	#_ taj[ine]
+PSB034	#_ [tajine] tajine ((ride))
 PSB033	meglio [#tajine] più buo[no]
 PSB014	[e::h], lo so, è un casino
 PSB033	e (.) qua a bolo[gna]
@@ -269,7 +269,7 @@ PSB033	buo[na], °è buona°
 PSB014	[pizz~ è]
 PSB033	e::
 PSB034	[in] italia, in marocco no
-PSB033	[e:h] ((ride))
+PSB033	[e:h ((ride))]
 PSB014	[e:h], eh sì, lo so
 PSB033	((ride))
 PSB034	((ride))
@@ -362,7 +362,7 @@ PSB034	italiana e araba
 PSB033	mh
 PSB014	ah, di italiano cosa ascolti?
 PSB034	ghali
-PSB033	gha[li] ((ride))
+PSB033	gha[li ((ride))]
 PSB014	[ghali ((ride)) (.) giustamente]
 PSB014	eh ghali:: aiuta
 PSB034	°e::, #baby gang°
@@ -381,7 +381,7 @@ PSB014	okay, sì lo conosco ((ride))
 PSB014	sì ((ride))
 PSB034	((ride))
 PSB033	eh io no, io non lo [conosco]
-PSB014	[] vuol dire tipo:, tipo pistola
+PSB014	#_ [] vuol dire tipo:, tipo pistola
 PSB033	ah
 PSB014	xxx ((ride))
 PSB033	xxx ((ride))
@@ -491,7 +491,7 @@ PSB033	[°eh sì°]
 PSB034	xxx
 PSB014	io parlo tedesco e, [difficile]
 PSB033	xxx
-PSB034	((ride))
+PSB034	[((ride))]
 PSB033	più var~, più d'[italiano]
 PSB014	[più], più dell'italiano?
 PSB034	sì
@@ -509,8 +509,8 @@ PSB033	fr[eddo]?
 PSB014	[a:::h]
 PSB034	[sì]
 PSB034	marocco caldo, quanti caldo
-PSB014	troppo caldo ((ride)) [, lo so]
-PSB034	((ride))
+PSB014	troppo caldo [((ride)) , lo so]
+PSB034	[((ride))]
 PSB014	però::, a me non piace il freddo
 PSB014	mh (.) invece tipo, la montagna, il mare, cosa preferisci?
 PSB034	#(ni tu)
@@ -534,7 +534,7 @@ PSB034	e modena
 PSB033	ah tanti [posti]
 PSB014	[io son(o)] di modena
 PSB034	°sì°
-PSB014	((ride)) [sì] ((ride))
+PSB014	[((ride)) sì ((ride))]
 PSB034	[°tu sei di modena?°] ((ride))
 PSB014	com'è modena? ti piace?
 PSB034	poco
@@ -585,11 +585,11 @@ PSB034	m::h, lucca
 PSB014	[lucca? a::h]
 PSB033	[°ah okay°]
 PSB014	e com'è?, bella?
-PSB033	mh[mh,] ((ride))
-PSB034	[poco] ((ride))
-PSB014	((ride))
+PSB033	mh[mh, ((ride))]
+PSB034	[poco ((ride))]
+PSB014	[((ride))]
 PSB014	meglio bolo[gna]?
-PSB034	((ride))
+PSB034	[((ride))]
 PSB014	meglio bologna?
 PSB034	ah, bologna °bel(l)a°
 PSB014	[bella], [e:h, sìsì], è bella grande:
@@ -652,12 +652,12 @@ PSB034	mono°pattino°
 PSB014	[monopattino], perché? ((ride))
 PSB033	[monopattino]
 PSB033	più diver[tente]
-PSB034	((ride)) sì ((ride))
+PSB034	[((ride))] sì [((ride))]
 PSB033	[per il] vento?
 PSB034	sì
-PSB033	((ride))
+PSB033	[((ride))]
 PSB014	[O::H], [a me fa paura]
-PSB034	((ride))
+PSB034	[((ride))]
 PSB033	((colpo_di_tosse))
 PSB034	((sospiro))
 PSB014	°a te?° ((ride))
@@ -681,8 +681,8 @@ PSB014	<PIENA>
 PSB034	xxx
 PSB014	troppo
 PSB034	°sì°
-PSB014	((ride)) , o::h, vabbè, e::hm::, >o t-<, >ti piace< la tua zona dove abiti, ti pi[ace]?
-PSB034	((ride))
+PSB014	[((ride))], o::h, vabbè, e::hm::, >o t-<, >ti piace< la tua zona dove abiti, ti pi[ace]?
+PSB034	[((ride))]
 PSB034	[sìsì]
 PSB014	mhmh, c'è [tutto vicino]
 PSB034	[°tranquilla zo]na, [tranquilla sì°]
@@ -709,7 +709,7 @@ PSB014	no:?
 PSB034	no
 PSB014	nono [ok°ay°]
 PSB033	[me]glio qua, si sta bene qua
-PSB034	sì ((ride))
+PSB034	sì [((ride))]
 PSB014	[okay, e:hm:], >hai detto che hai provato< cibo italiano, m::h, ti piace quindi?, e::
 PSB033	piatto preferito?
 PSB014	italiano

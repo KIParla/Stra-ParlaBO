@@ -81,7 +81,7 @@ PSB054	sì
 PSB133	mh per anche io cioè per dire se torno a casa tardi
 PSB054	mh
 PSB133	eh la sera eccetera eh
-PSB133	quando tor~ lavoravo un po' lontano tornavo a ca~ casa facevo anche gli shift di notte tornavo
+PSB133	# quando tor~ lavoravo un po' lontano tornavo a ca~ casa facevo anche gli #shift di notte tornavo
 PSB133	eh la sera mi sentivo un po' eh
 PSB133	non mi sentivo molto bene allora cioè dico non mi sentivo sicuro più che altro non mi sentivo sicuro
 PSB054	mhmh
@@ -247,7 +247,7 @@ PSB133	tra l'altro siamo comunque in europa e devo dire
 PSB133	cioè comunque siamo anche fra virgolette messi meglio secondo me rispetto a posti come l'america secondo me almeno questa è una mia opinione
 PSB054	mh
 PSB133	e già siamo messi così figuriamoci in posti come in america dove cioè per dire
-PSB133	la salute mentale è all'orlo e ci sono come dire i mass shooting lì a scuola cioè per dirti
+PSB133	# la salute mentale è all'orlo e ci sono come dire i #mass #shooting lì a scuola cioè per dirti
 PSB054	sì sì sì
 PSB133	cioè questo è è è il mondo
 PSB133	secondo me occidentale dove
@@ -309,7 +309,7 @@ PSB133	poi sì se tu
 PSB133	mi fai domande poi poi cioè nel senso
 PSB133	puoi farmi anche tu domande ma proprio per curiosità tua così poi posso andare avanti se no poi ad una certa mi fermo non so come
 PSB054	sì sì
-PSB054	sì sì sì no ma ero stavo ascolta~ ero ero molto interessata stavo ascol~ no vabbe è vero è un problema
+PSB054	sì sì sì no ma ero stavo ascolta~ ero ero molto interessata stavo ascol~ no vabbè è vero è un problema
 PSB054	è un problema
 PSB054	questo della salute mentale
 PSB054	anche i reparti di psichiatria negli ospedali sono
@@ -452,7 +452,7 @@ PSB054	mh
 PSB054	mamma mia
 PSB135	è una roba orribile non fare nulla fare stage perche non ti pagano e poi sei non fai nulla
 PSB054	eh certo
-PSB135	tra le due polevano farmi pulire i pavimenti vabbe comunque
+PSB135	tra le due polevano farmi pulire i pavimenti vabbè comunque
 PSB054	s~
 PSB135	mh è stato un inferno quasi
 PSB135	tra l'altro avevo già i problemi di alcool ecce~ vabbe comunque è stato un casino
@@ -943,7 +943,7 @@ PSB054	ah
 PSB133	povero come merda tipo
 PSB133	nel ge~ cose molto ma c'ha delle cose che non posso dire ora cioè già
 PSB135	xxx
-PSB133	sì è eh è molto anche come black humor politicamente scorretto quindi c'ha delle
+PSB133	# sì è eh è molto anche come #black #humor politicamente scorretto quindi c'ha delle
 PSB054	okay
 PSB135	gli piace andare al cassero dai
 PSB133	no lui no proprio è diretti~ cioè non no ma ma lui ha rischiato di prendere a botte da uno perché
@@ -1359,9 +1359,9 @@ PSB133	allora c'è allora
 PSB054	cioè ne avete una di riferimento diciamo
 PSB133	sì sì no abbiamo veramente cioè allora sì
 PSB133	abbia~ i a bologna è dif~
-PSB135	strong believer qual è
+PSB135	#strong #believer qual è
 PSB133	eh
-PSB135	strong believer xx
+PSB135	#strong #believer xx
 PSB133	no allora allora arrivo arrivo
 PSB133	ehm cioè noi abbiamo allora a bologna la moschea ufficiale a livello burocratico è si trova in via
 PSB054	mhmh
@@ -1523,7 +1523,7 @@ PSB135	eh sì esatto
 PSB133	non lo so come funziona vanno molto a passaparola mentre
 PSB135	no neanch'io
 PSB133	tipo persona che è stata appunto espulso lui va proprio
-PSB133	lui legge il corano legge la traduzione e lui f~ si comporta in un determinato modo ha rispetto lo vedi che proprio e poi vabbe ogni tanto sì si lascia un po' andare nel senso che per certi versi tipo
+PSB133	lui legge il corano legge la traduzione e lui f~ si comporta in un determinato modo ha rispetto lo vedi che proprio e poi vabbè ogni tanto sì si lascia un po' andare nel senso che per certi versi tipo
 PSB054	mhmh
 PSB133	lo ve~ cioè lui è molto mal compreso perché lui non è cattivo lui a volte alza il tono ma proprio ha un suo modo di fare caratteristico non è cattivo
 PSB054	mhmh
@@ -1609,13 +1609,13 @@ PSB133	guarda
 PSB133	io lui molte volte cioè o io molte volte gli dico a lui tipo è buddista e ci prendiamo in giro ma non ho mai xx i monasteri o lui li mi fa ah brut~ fatti esplodere
 PSB135	no no non è xx
 PSB135	poi
-PSB133	cioè c'è una certa black humor ma perché cioè
+PSB133	cioè c'è una certa #black #humor ma perché cioè
 PSB054	sì sì vabbè c'è un rapporto certo
 PSB133	se io mi fido di lui lui si fida di me ma se
 PSB133	uno viene a dirmi qualcosa tipo oh brutto musulmano ma vai
 PSB054	mh
 PSB133	che gli spacco la fa~ cioè nel senso ti cioè divento violen~ ti
-PSB054	no vabbe certo c'è un rapporto
+PSB054	no vabbè certo c'è un rapporto
 PSB133	è diverso capito cioè lui muo~ muove io gli dico delle cose che cioè se le dici a qualcun'altro mi romperebbe due bottiglie in testa mentre
 PSB054	certo sì sì
 PSB054	no cer~ sì sì sì
@@ -1645,17 +1645,17 @@ PSB133	cioè finche no tu
 PSB133	sei diverso da me allora io ti devo non so tenere sotto contro~ cioè non so picchiarti quelle robe non so per dire a me
 PSB133	io non sono contro gli ebrei però mi sta sul cazzo l'idea del sionismo che tu per avere la tua terra per dio devi lanciare i missili
 PSB133	sì ha bisogno
-???	eh where reading xx
-PSB133	eh what
+???	#_ eh where reading xx
+PSB133	#_ eh what
 PSB134	eh cosa
-???	reading there
-PSB133	reading if you want you can sit there if you want to read
-PSB134	leggere se vuoi puoi sederti lì se vuoi leggere
-???	no i am searching for a place xx
-PSB133	ah eh i don't know eh you can w~ see if there i~ it's here i don't know
-???	ah xx thank you
+???	#_ reading there
+PSB133	#_ reading if you want you can sit there if you want to read
+PSB134	#_ leggere se vuoi puoi sederti lì se vuoi leggere
+???	#_ no i am searching for a place xx
+PSB133	#_ ah eh i don't know eh you can w~ see if there i~ it's here i don't know
+???	#_ ah xx thank you
 PSB133	io non lo so
-PSB133	ah welcome
+PSB133	#_ ah welcome
 PSB133	ehm
 PSB133	cos'è che stavo dicendo ah si per dire che a me da fastidio che cioè l~ l'idea estermi~ eh
 ???	ah niente scusa
@@ -1937,7 +1937,7 @@ PSB133	cioè lui col è sempre col lì
 PSB135	cioè è alcool neanche da dire è xx
 PSB133	ma lui cioè solo pensa a come è diventato ricco cioè lui ha po~
 PSB133	eh fa le eh
-PSB133	human trafficking non so come dire
+PSB133	# #human #trafficking non so come dire
 PSB135	ma quello dicono sia un falso co~ è diventato ricco vabbè è diventato ricco menandola sempre de~ detta detta sinceramente
 PSB133	no ma che cazzo dici
 PSB133	no ma ma ma no vabbè vabbè vabbè poi ti xx
@@ -2136,7 +2136,7 @@ PSB054	sì sì sì
 PSB054	no infatti eh cioè xx ci sono tantissime associazioni tantissimi collettivi e pochi spazi
 PSB135	no infatti bologna sia per quanto riguarda le questioni religiose ma anche non religiose ho notato che non è messa male eh
 PSB054	però
-PSB135	secondo me una strong believer n~ al sud o comunque in altre zone anche del nord non la troviamo facilmente
+PSB135	secondo me una #strong #believer n~ al sud o comunque in altre zone anche del nord non la troviamo facilmente
 PSB054	no vabbè bologna su certe cose è proprio un mondo a parte una bolla lo
 PSB135	eh sì
 PSB135	anche di ne~ ho notato molti negozi aperti da giovani dai trentacinque in giù quindi della nostra gen~ adesso non so quanti anni avete però siete più o meno della nostra credo

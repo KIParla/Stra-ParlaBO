@@ -33,7 +33,7 @@ PSB073	no no puoi truccarti proprio
 PSB074	che bello i tatuaggi fluo
 PSB072	pe~ per truccare per halloween
 PSB071	è bello
-PSB071	ma come facciamo la black mask
+PSB071	ma come facciamo la #black #mask
 PSB072	no
 PSB071	e poi
 PSB072	tu che cosa vuoi truccarti anna
@@ -392,23 +392,23 @@ PSB071	ah sì sì l'ho visto l'ho visto
 PSB074	vabbè della differenza in scala degli uragani e veramente cioè
 PSB074	non possiamo nemmeno percepire quanto è grande noi che non li abbiamo mai dopo ve lo faccio vedere
 PSB071	cioè una cosa micidale tipo apocalittica hai presente
-PSB072	du~ no due anni fa son~ no tre quattro anni fa in india c'era uno di questi che si chiama amphan vi giuro quell'anno era piccolo
+PSB072	du~ no due anni fa son~ no tre quattro anni fa in india c'era uno di questi che si chiama #amphan vi giuro quell'anno era piccolo
 PSB073	sì
 PSB071	è vero
 PSB071	sì sì c'è stato uno in
 PSB073	è arrivato anche in bangladesh
 PSB071	ah te eri lì
 PSB072	era piccolo
-PSB071	tu eri a ca~ cioè eri in kolkata
+PSB071	tu eri a ca~ cioè eri in #kolkata
 PSB072	ero in india
 PSB072	abitavo sedicesimo piano
 PSB071	ha fatto un danno quello
-PSB074	ma dove a kolkata
+PSB074	ma dove a #kolkata
 PSB072	a kolkata
-PSB071	sì è non è passato a kolkata però è passato lì cioè era grande
-PSB072	sì sì a kolkata si
+PSB071	sì è non è passato a #kolkata però è passato lì cioè era grande
+PSB072	sì sì a #kolkata si
 PSB073	sì sì anche il bangladesh xxx
-PSB072	ha passato bangladesh kolkata
+PSB072	ha passato bangladesh #kolkata
 PSB071	eh ha passato il ban~ ha distr~ ha fatto una marea di morti perché poi lì son~ è catapecchie
 PSB072	sì poi ma dove abitavo io no
 PSB074	ah ah
@@ -430,8 +430,8 @@ PSB071	ma tipo uragano tifone ciclone
 PSB073	sì sì sì sì sì sì sì sì
 PSB071	uragani sono in america poi non so in india mi sa che o sono cicloni o sono tifoni
 PSB073	tifoni sì
-PSB071	typhone sì perché da noi si dice typhone
-PSB073	sìsì typhone sì
+PSB071	#typhone sì perché da noi si dice #typhone
+PSB073	sìsì #typhone sì
 PSB074	perché perché perché
 PSB071	eh sono nomi internazionali in base alla zona hanno questi nomi qui
 PSB073	sì
@@ -452,7 +452,7 @@ PSB071	è una cosa bellissima poi
 PSB073	e poi me
 PSB072	no io non l'ho mai fatto
 PSB071	piove
-PSB073	ogni tanto scendevo anche e nel laghetto pukura no e sopra il pukura c'è c'è il coso e l'albero di mango
+PSB073	ogni tanto scendevo anche e nel laghetto #pukura no e sopra il #pukura c'è c'è il coso e l'albero di mango
 PSB071	ah sì
 PSB071	e
 PSB073	allora cadeva nell'acqua no quindi andav~ e io aspettavo sotto nell'acqua
@@ -542,10 +542,10 @@ PSB071	ah cavolo
 PSB072	del
 PSB071	no
 PSB073	no e
-PSB073	jhinuka come come si
-PSB072	ah jhinuka è uno di conchiglie
+PSB073	#jhinuka come come si
+PSB072	ah #jhinuka è uno di conchiglie
 PSB073	no no no
-PSB072	xxx
+PSB072	#_ xxx
 PSB071	no non è xx mare
 PSB073	quella grande quello nero
 PSB071	cozze tipo
@@ -565,12 +565,12 @@ PSB071	okay
 PSB073	dentro quelli quelli grandi
 PSB071	ah
 PSB073	prendevamo quelli il guscio di quelle facevam- in mezzo facevamo il buco e q~ quelli li è tagliente proprio davvero proprio diventavano un pel~ pela pelapatate
-PSB072	tu hai il setting spray
+PSB072	tu hai il #setting spray
 PSB074	sì
 PSB072	brava
 PSB073	cosa
 PSB071	eh eh
-PSB072	setting spray sai cos'è
+PSB072	#setting spray sai cos'è
 PSB074	ma perché ho preso hai preso tutti i trucchi di eri perché mi son truccata a casa sua quindi ho preso tutto
 PSB073	no
 PSB072	no io io l'ho comprato uno di mac
@@ -592,15 +592,15 @@ PSB072	eh quello e sotto anche
 PSB074	in estate lì
 PSB074	ma ma è che quello cioè se hai la pelle in realtà se hai la pelle mista grassa secca qualsiasi quello va benissimo
 PSB072	poi poi cosa facevamo sai c'è c'è laghetto no intorno ci sono delle case
-PSB072	dei case di altri e proprio o a~ alla riva del laghetto c'è c'erano dei dei dei alberi delle di giuggiolo boroi no
+PSB072	dei case di altri e proprio o a~ alla riva del laghetto c'è c'erano dei dei dei alberi delle di giuggiolo #boroi no
 PSB071	sì
 PSB073	e allora se andavi a prendere da da da fa~ facevi
 PSB071	ah xxx
 PSB073	ti urlavano in faccia no non puoi prendere xxx e allora cosa facevamo
 PSB071	eh certo
 PSB073	nuotavamo là andavamo lì alla riva rimaneva nel~ nell'acqua e lanciavo dei sassi sopra e cadevano giù e prendevamo e tornavamo indietro
-PSB072	no io invece io casa di mia nonna pa~ materna aveva proprio il albero del catal jack fruit
-PSB073	jack fruit
+PSB072	no io invece io casa di mia nonna pa~ materna aveva proprio il albero del #catal #jack #fruit
+PSB073	#_ jack fruit
 PSB073	ma ma ma hai mangiato lei
 PSB072	e
 PSB071	chi
@@ -621,11 +621,11 @@ PSB074	no io anche anche il frutto
 PSB071	il frutto è dentro lo sciroppo però
 PSB073	detto da mia madre
 PSB072	eh
-PSB071	jack fruit te non sai cosa sia allora
+PSB071	#jack #fruit te non sai cosa sia allora
 PSB072	no
 PSB074	sì
 PSB072	eh
-PSB071	quello pungiglio~ che sembra che sembra il durial
+PSB071	quello pungiglio~ che sembra che sembra il #durial
 PSB074	sì
 PSB073	ah okay
 PSB071	mah vabbè intera l'abbiamo mai preso no
@@ -633,16 +633,16 @@ PSB072	sì
 PSB074	non con te con mia mamma
 PSB071	xx
 PSB071	intero
-PSB072	ma durian è uguale il sapore
+PSB072	ma #durian è uguale il sapore
 PSB073	no aspe~ no no
 PSB071	no dico che è più faci~
 PSB072	eh
 PSB074	mia mamma ha sempre comprato xx
 PSB073	xx
-PSB072	perché durian in uno cioè u~
+PSB072	perché #durian in uno cioè u~
 PSB071	sì tua mamma me l'ha detto
 PSB073	dicono che puzza xxx
-PSB071	no sua mamma ha comprato il jack fruit
+PSB071	no sua mamma ha comprato il #jack #fruit
 PSB072	sì
 PSB071	però non sapev~ si son sporcati di colla
 PSB074	sì ma perché non s~ era era anni fa
@@ -655,7 +655,7 @@ PSB072	vero
 PSB071	però i semini son buonissimi
 PSB073	sì
 PSB071	semini cotti o
-PSB073	soprattutto con shutki o o beh non lo hai mai mangiato
+PSB073	soprattutto con #shutki o o beh non lo hai mai mangiato
 PSB072	che schifo
 PSB071	col pesce secco
 PSB072	ahia
@@ -666,12 +666,12 @@ PSB071	no
 PSB071	mango
 PSB073	eh quelli quellidevi devi prendere dal~ dall'albero tuo non è perché quelli che vendono così
 PSB072	e io mi ricordo che mia nonna tutte e due
-PSB072	appena finiva di mangiare jack fruit lo teneva semi lo lasciava asciugare sotto il sole un paio di giorni
+PSB072	appena finiva di mangiare #jack #fruit lo teneva semi lo lasciava asciugare sotto il sole un paio di giorni
 PSB074	buono sarà
 PSB072	ma anche come si chiama
 PSB071	sì perché tipo castagne sembra di castagne
 PSB073	sì
-PSB072	anche pumpkin
+PSB072	anche #pumpkin
 PSB074	ah sì buonissime della zucca della zucca
 PSB071	quelle le fa sì sì
 PSB072	sì quello di zucca pure

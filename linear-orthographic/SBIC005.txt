@@ -47,10 +47,10 @@ PSB005	comunque tu se per caso eh ti viene in mente qualche frase in inglese o p
 PSB009	sì sì
 PSB005	va bene puoi dirmi
 PSB009	oh
-PSB009	it's okay
+PSB009	#_ it's okay
 PSB005	sì sì certo
 PSB005	sì sì
-PSB009	so we have a group
+PSB009	#_ so we have a group
 PSB005	sì
 PSB009	ehm
 PSB009	questo io
@@ -72,13 +72,13 @@ PSB005	e ti scrivi con i tuoi colleghi che sono cinesi immagino
 PSB009	sì sì sì
 PSB005	okay
 PSB009	tutti sono cinesi
-PSB009	eh (.) at first i think at first i think we have seven hours difference
+PSB009	#_ eh (.) at first i think at first i think we have seven hours difference
 PSB005	mhmh
 PSB005	sì ah giusto sì
-PSB009	it's gonna be a big problem
+PSB009	#_ it's gonna be a big problem
 PSB005	eh sì
-PSB009	but actually not
-PSB009	actually not
+PSB009	#_ but actually not
+PSB009	#_ actually not
 PSB005	ah e come fate
 PSB009	perché perché il tempo
 PSB009	ehm
@@ -214,7 +214,7 @@ PSB009	eh in cina
 PSB009	eh
 PSB009	prima studio nel liceo normalmente normale
 PSB005	mhmh
-PSB009	e poi deciso di studio l'arte come un major
+PSB009	e poi deciso di studio l'arte come un #major
 PSB005	sì
 PSB009	eh
 PSB009	quando ho sedici anni sedici anni
@@ -357,9 +357,9 @@ PSB009	eh anche preparo di scelgo lavoro o continuo a studiare
 PSB009	ma
 PSB009	eh
 PSB009	solo come come come dice
-PSB009	i will try the
-PSB009	try the
-PSB009	to
+PSB009	#_ i will try the
+PSB009	#_ try the
+PSB009	#_ to
 PSB009	c~
 PSB009	l'esame non l'ho superato quello di mia accademia di milano non ho superato perché s~ su internet eh c'è succe~ successo qualche cosa non non preciso
 PSB005	okay
@@ -368,9 +368,9 @@ PSB009	forse
 PSB009	e poi deciso eh due~ duemila~ duemilaventitré nove lavoro solo lavoro
 PSB005	okay sì
 PSB009	eh
-PSB009	anche lavoro è un~ importante per per la mia major
+PSB009	anche lavoro è un~ importante per per la mia #major
 PSB005	sì
-PSB009	per la scenografia è un major molto xx come dice
+PSB009	per la scenografia è un #major molto xx come dice
 PSB005	molto molto pratico
 PSB009	xx pratico pratico pratico non solo su su scritto o eh
 PSB005	sì forse sì
@@ -399,7 +399,7 @@ PSB009	mhmh
 PSB005	ehm scusami ma io non conosco per niente questo sono curiosa molto quindi spiegami tutto
 PSB009	sì sì
 PSB009	due di
-PSB009	mh but forse vediamo dei
+PSB009	mh #but forse vediamo dei
 PSB005	degli esempi sì
 PSB009	sì sì degli esempi
 PSB009	eh ques~ questo reality show è ci sono quattro stagioni
@@ -1004,13 +1004,13 @@ PSB005	molto bello
 PSB005	poi c'è questa è la germania
 PSB009	biolge eh bolge
 PSB005	belgio ah
-PSB009	belgio hai ragione sì eh netherland
+PSB009	belgio hai ragione sì eh #netherland
 PSB005	mhmh
-PSB009	netherland e questo vicino
+PSB009	#netherland e questo vicino
 PSB005	mhmh eh
 PSB009	eh tre paesi xx
 PSB005	vicino sì sì
-PSB009	switzerland
+PSB009	#_ switzerland
 PSB005	mhmh
 PSB009	dan~ danimarca
 PSB005	eh io non s~ eh non sono stata in un sacco di questi posti in svizzera sì questa è la svizzera no
@@ -1478,9 +1478,9 @@ PSB009	c'è un
 PSB009	c'è un come dice
 PSB009	c'è un modo di dire modo di dire
 PSB005	mhmh
-PSB009	sik1 tai2 m4 sik1 gaa
+PSB009	#_ sik1 tai2 m4 sik1 gaa
 PSB005	mhmh
-PSB009	xx significa
+PSB009	#xx significa
 PSB009	le persone può si può capire ma non può
 PSB005	sì sì
 PSB005	eh ma è chiaro è un'altra cosa abbastanza tipica sì sì
@@ -1612,9 +1612,9 @@ PSB009	anche ah la mia la mia amica genia~ geniale geniale xxxxx
 PSB005	sì sì
 PSB005	mhmh
 PSB009	eh
-PSB009	god father
-PSB009	god father
-PSB009	più o meno god father più o meno
+PSB009	#_ god father
+PSB009	#_ god father
+PSB009	più o meno #god #father più o meno
 PSB005	sì sì padrino sì
 PSB005	sì sì
 PSB009	ehm
@@ -1636,7 +1636,7 @@ PSB009	è difficile ma
 PSB009	eh ho guardato il testo in cinese
 PSB009	ehm ho de~
 PSB009	una volta ehm mi ha detto un'amica italiana
-PSB009	you don't know how smart i am when i speak chinese
+PSB009	#_ you don't know how smart i am when i speak chinese
 PSB009	mh anche quando eh prima della entrare da entrato nel accademia ehm io posso faccio più bello nel liceo anche primo e letteratura
 PSB005	mhmh okay
 PSB005	ho capito okay
@@ -1695,9 +1695,9 @@ PSB005	eh
 PSB005	okay
 PSB009	eh forse io faccio
 PSB009	faccio design due di o tre di quindi
-PSB009	questo sign sign
+PSB009	questo #sign #sign
 PSB005	mhmh mhmh
-PSB009	questi piccoli sign
+PSB009	questi piccoli #sign
 PSB005	mhmh
 PSB009	capito subito sì
 PSB009	capisco subito
@@ -1791,8 +1791,8 @@ PSB005	ehm il mio insegnante
 PSB005	è un ginnasta
 PSB005	vediamo
 PSB005	quindi fa
-PSB009	oh my god
-PSB009	oh my god
+PSB009	#_ oh my god
+PSB009	#_ oh my god
 PSB005	è questo
 PSB009	wow
 PSB005	ah

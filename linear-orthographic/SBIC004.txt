@@ -211,7 +211,7 @@ PSB008	sì sì anche perché sono tutti stranieri quindi i tuoi amici sono tutti
 PSB005	sì sì
 PSB008	e non è una un modo buono per conoscere la cultura italiana
 PSB005	mhmh
-PSB008	soprattutto quando hai un bias or o pregiudizio già
+PSB008	soprattutto quando hai un #bias #or o pregiudizio già
 PSB005	già mh
 PSB008	sì sì sì anche perugini sono un po'
 PSB008	non ho conosciuto nessun perugino sì
@@ -223,7 +223,7 @@ PSB005	ehm
 PSB008	è piccola
 PSB005	eh ero in una città grande ma mh
 PSB005	e~ era come se tutti l'org~ gli eventi organizzati per eh per gli erasmus sono per gli erasmus e i lo~ i locali non vanno quindi io m~ mi ricordo di aver di essermi
-PSB008	local (.) locals
+PSB008	#_ local (.) locals
 PSB008	esatto
 PSB005	come dire sforzata molto e alla fine avevo fatto amicizia e però è stata
 PSB008	esatto
@@ -333,7 +333,7 @@ PSB005	mhmh
 PSB008	con mia mamma parlo un po' gia~ coreano
 PSB005	ah e tu lo conosci bene il coreano
 PSB008	non bene
-PSB008	è un po' come heritage heritage
+PSB008	è un po' come #heritage #heritage
 PSB005	sì sì sì sì
 PSB008	sì perché non lo uso tanto perché
 PSB008	eh non ci sono coreani
@@ -746,7 +746,7 @@ PSB008	tanto perché
 PSB008	puoi mettere fagioli puoi mettere cavolf~ fiori
 PSB005	sì sì
 PSB008	mette anzi
-PSB008	carnell~ eh come si dice quello squid
+PSB008	carnell~ eh come si dice quello #squid
 PSB005	sì calamari
 PSB008	calamari
 PSB008	e poi ho in~ ho assaggiato tanto da la
@@ -928,7 +928,7 @@ PSB008	italianizzata sì
 PSB005	certo sì sì
 PSB008	quindi
 PSB008	se io davvero davvero ho
-PSB008	craving
+PSB008	#_ craving
 PSB008	eh faccio qualche però non è andato molto bene anche perché la mia c~ cucina
 PSB008	e non è molto p~
 PSB005	la cucina in casa qui
@@ -1545,7 +1545,7 @@ PSB008	e loro hanno un gatto e poi
 PSB005	okay
 PSB008	come mh delle persone contra~ incontrano le persone e
 PSB008	e siamo molto
-PSB008	in cinese si eh si dice hépāi
+PSB008	in cinese si eh si dice #hépāi
 PSB008	cioè abbiamo
 PSB008	lo stesso ritmo
 PSB005	okay bello

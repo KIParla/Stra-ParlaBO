@@ -1010,7 +1010,7 @@ PSB003	tipo da noi
 PSB003	non c'è la differenza tra
 PSB003	signore e s~ se~ signora
 PSB005	mhmh
-PSB003	quindi una volta ho detto nv a yi cioè proprio femmina signora in cinese
+PSB003	quindi una volta ho detto #nv #a #yi cioè proprio femmina signora in cinese
 PSB005	cioè hai hai flesso
 PSB003	ah
 PSB003	sì
@@ -1203,11 +1203,11 @@ PSB003	è un
 PSB004	totalmente diverso
 PSB005	sì sì sì
 PSB003	ma ti ha detto
-PSB003	è wu yu
+PSB003	è #wu #yu
 PSB004	comunque eh quella zona lì comunque
 PSB003	però sì è vero che anche su wikipedia no cioè diversi scelte di lingue
 PSB005	mhmh
-PSB003	eh però c'è però un dialetto cinese che si chiama wu yu hanno creato pure delle pagine
+PSB003	eh però c'è però un dialetto cinese che si chiama #wu #yu hanno creato pure delle pagine
 PSB005	eh okay
 PSB003	in quello continua il il dialetto sì ah c'è proprio quella delle iniziative per eh
 PSB004	okay

@@ -756,10 +756,10 @@ PSB005	e con i be[ngalesi parlavate italiano]
 PSB017	[lui deve per forza sì] parla con il co~ con il:
 PSB017	mh
 PSB017	con la me~ italiano sai co~ come si dice la
-PSB017	b-ṭalyāniyya bḥāl kat-gūl ṭalyāniyya dyāl wālu
-PSB016	ṭalyāniyya
+PSB017	#_ b-ṭalyāniyya bḥāl kat-gūl ṭalyāniyya dyāl wālu
+PSB016	#_ ṭalyāniyya
 PSB017	ah?
-PSB016	b-ṭalyān?
+PSB016	#_ b-ṭalyān?
 PSB017	#y-hdar però non
 PSB016	non parlano bene italiano non: non
 PSB017	lui non parla bene i[taliano] ma io eh mio primo mese
@@ -1262,7 +1262,7 @@ PSB016	cittadino italiano
 PSB016	((ride))
 PSB017	cittadino italiano però categoria b non:
 PSB005	((ride))
-PSB017	vale per adesso per la gue[rra] quando sa[rà xxx come li chiamano a quelli che hanno] preso [cittadinanza xxx] ((ride))
+PSB017	vale per adesso per la gue[rra] quando sa[rà xxx come li chiamano a quelli che hanno] preso [cittadinanza xxx ((ride))]
 PSB016	[okay]
 PSB016	[e quando lo vedevo:]
 PSB016	[parlare all'inizio quando non parlavo] una parola italiana ero: c(io)è mi accompagnava: in macchina
@@ -1364,7 +1364,7 @@ PSB005	[lascia]mo stare
 PSB017	#gul #li-ha #dir #dir intervento
 PSB017	per via #dyāl #hādāk corso il percorso di #lli #kat-qra #hiyya
 PSB016	eh
-PSB017	ma-dī-sh y-xallū-ha t-njāh fī-h
+PSB017	#_ ma-dī-sh y-xallū-ha t-njāh fī-h
 PSB016	perché?
 PSB017	xxx de prossima volta sbagliato no?
 PSB016	no
@@ -1546,13 +1546,13 @@ PSB017	posso dire perso:
 PSB017	un po' di:
 PSB017	di: non di verbi di:
 PSB005	di parole?
-PSB017	e:h conjugaison
+PSB017	#_ e:h conjugaison
 PSB016	e:hm
 PSB016	la grammatica
 PSB017	no[n la] gra[m~]
 PSB005	[mhmh]
 PSB016	[no] la m:h
-PSB017	la conjugaison
+PSB017	#_ la conjugaison
 PSB005	la congiu~ la coniugazio[ne]
 PSB017	[b]r[avo]
 PSB005	[la coniug]az[ione] sì sì
@@ -1669,7 +1669,7 @@ PSB017	[eh sì]
 PSB016	[sempre qua]si così
 PSB017	((ride))
 PSB005	sì sì sì (.) eh ma [è tipico sì]
-PSB016	[xxx ghan]
+PSB016	#_ [xxx ghan]
 PSB016	e::h domani a che ora andia[mo]?
 PSB005	[mhmh]
 PSB016	magari quella domani ti viene in automatico
@@ -1713,7 +1713,7 @@ PSB016	[di ramadan]
 PSB016	e::h sì
 PSB016	sì la maggioranza
 PSB017	da quando diventano adulti
-PSB017	shnū gālǝt hiyya f-waqāsh kay-bdāw y-sūmu
+PSB017	#_ shnū gālǝt hiyya f-waqāsh kay-bdāw y-sūmu
 PSB016	[sì]
 PSB016	no:: [ha de]tto:: ha de~ eh
 PSB017	[ah]
@@ -1998,9 +1998,9 @@ PSB016	è la stessa
 PSB016	tipo
 PSB016	e:h se prendiamo
 PSB016	e:::h
-PSB016	mi'a
+PSB016	#_ mi'a
 PSB016	magari qua si di~ #miyya
-PSB016	hiya [(.) ma'a] (.) miyya
+PSB016	#_ hiya [(.) ma'a] (.) miyya
 PSB005	[mhmh]
 PSB016	ma
 PSB016	ma sempre la stessa però non riesci se non se io siccome guardo il film eh e cose, sono aperto alla loro cultura

@@ -222,7 +222,7 @@ PSB137	mhmh
 PSB136	poi (.) ce ne sarebbe uno grande così ma grigio
 PSB137	okay
 PSB136	che è il fratello maggiore lo chiamiamo:
-PSB136	pangege
+PSB136	#_ pangege
 PSB137	e dov'è quello grigio?
 PSB136	è a casa sua [insieme a un al]tro grande grigio
 PSB137	[ah okay]

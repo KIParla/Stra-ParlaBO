@@ -511,12 +511,12 @@ PSB091	naso
 PSB091	nasul
 PSB005	eh sì
 PSB091	pane
-PSB091	pâine
+PSB091	#_ pâine
 PSB091	latte
-PSB091	lapte
-PSB091	capra capră carne carne capito
+PSB091	#_ lapte
+PSB091	capra #capră carne #carne capito
 PSB005	ah per così tanto così tanto simili
-PSB091	barca barcă
+PSB091	barca #barcă
 PSB091	sì sì
 PSB091	sì
 PSB091	cioè quindi se uno ha anche cioè tipo loro rumeni quando vengono loro subito imparano l'italiano
@@ -524,18 +524,18 @@ PSB005	si infatti
 PSB091	perché
 PSB005	sì sì sì sì sì sì
 PSB091	tipo lavoro
-PSB091	lucru capito quindi una anche un pochino se ti vai a
+PSB091	#lucru capito quindi una anche un pochino se ti vai a
 PSB005	mhmh
 PSB091	a buttare
 PSB091	tipo con
 PSB005	si si
-PSB091	unu (.) doi (.) trei (.) patru
+PSB091	#_ unu (.) doi (.) trei (.) patru
 PSB005	mhmh
 PSB005	ah
-PSB091	cinci
-PSB091	șase (.) șapte
-PSB091	opt
-PSB091	nouă zece zece
+PSB091	#_ cinci
+PSB091	#_ șase (.) șapte
+PSB091	#_ opt
+PSB091	#_ nouă zece zece
 PSB005	ma quindi sai un po'
 PSB005	sai un po' di rumeno
 PSB091	si si si si si si ma poca ro~ poca roba
@@ -2263,9 +2263,9 @@ PSB005	se ce l'ho perché
 PSB091	oh scusami devo rispondere a xxx
 PSB005	sì sì
 PSB005	ma poi alla fine è tardi devo andare
-PSB091	allo
+PSB091	#_ allo
 PSB005	tra poco
-PSB091	allo
+PSB091	#_ allo
 PSB091	non c'era i contatti
 PSB005	mh
 PSB005	ma

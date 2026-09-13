@@ -35,7 +35,7 @@ PSB031	ehm
 PSB031	mi piace anche mh
 PSB031	anche zona con molti eh verdi con alberi mi piace
 PSB031	in centro mh
-PSB031	not too muchride
+PSB031	#_ not too muchride
 PSB005	mhmh infatti sì
 PSB031	sì
 PSB005	però
@@ -49,7 +49,7 @@ PSB005	o ti piace vivere in centro
 PSB005	vuoi cambiare
 PSB031	eh no ehm io vivo con mio ragazzo
 PSB005	okay
-PSB031	sì e hm
+PSB031	sì e mh
 PSB031	noi ehm
 PSB031	conosciamo
 PSB005	sì sì sì
@@ -82,10 +82,10 @@ PSB031	no
 PSB005	così
 PSB031	no no
 PSB031	ehm noi ehm
-PSB031	we meet in ristorante in ucraina
+PSB031	#we #meet in ristorante in ucraina
 PSB005	ah okay okay è
 PSB031	sì
-PSB005	un a chance
+PSB005	un #a #chance
 PSB005	una una
 PSB005	un caso
 PSB005	che vi siete incontrati
@@ -132,7 +132,7 @@ PSB030	prima volte ehm non posso
 PSB030	ehm c'è differenza dove ehm sono dove sono eh
 PSB030	come uguale da poco tempo a questo altri posti
 PSB030	ehm
-PSB030	ja by sejčas v otdych
+PSB030	#_ ja by sejčas v otdych
 PSB030	c'è una mh libra ehm zona ehm
 PSB030	vicino
 PSB031	portici portici
@@ -218,7 +218,7 @@ PSB005	ah sì
 PSB030	mie mia figlia
 PSB005	sì sì
 PSB030	eh che ha tredici anni
-PSB030	inizia eh mangiare eh tuna qui
+PSB030	inizia eh mangiare eh #tuna qui
 PSB005	mhmh
 PSB030	prima no
 PSB005	co~ come mai perché
@@ -232,15 +232,15 @@ PSB031	anche io
 PSB031	eh adesso ho mangio tutto
 PSB031	ehm
 PSB031	quando ehm
-PSB031	when start war in ukraine
+PSB031	#_ when start war in ukraine
 PSB005	mhmh
 PSB031	ehm ho stress
 PSB031	forse non lo so ho mangio ho s~ ehm
-PSB031	i start eat everything
-PSB031	i eat very a lot and
-PSB031	i have six kilo more
+PSB031	#_ i start eat everything
+PSB031	#_ i eat very a lot and
+PSB031	#_ i have six kilo more
 PSB005	okay
-PSB031	for two months
+PSB031	#_ for two months
 PSB005	mh
 PSB031	ehm sì
 PSB031	però eh primo prima gue~ guerra
@@ -251,7 +251,7 @@ PSB031	otto anni
 PSB005	okay ah tanto
 PSB005	sì sì sì
 PSB031	sì e adesso eh ho mh
-PSB031	i think stop again ((ride))
+PSB031	#_ i think stop again ((ride))
 PSB005	eh beh puoi provare puoi con calma
 PSB031	sì
 PSB005	puoi provare
@@ -259,10 +259,10 @@ PSB005	ehm e cibo ucraino
 PSB005	com'é
 PSB005	cosa si mangia
 PSB030	xx
-PSB030	molto famoso è boršč la boršč
+PSB030	molto famoso è #boršč la #boršč
 PSB005	sì sì sì giusto
-PSB030	ehm varenyki varenyki come ehm
-PSB030	na ščo tam sсhoži
+PSB030	ehm #varenyki #varenyki come ehm
+PSB030	#_ na ščo tam sсhoži
 PSB031	come ehm pasta ehm come tortellini
 PSB030	tortellini tortellini ma più grande eh
 PSB005	sì tipo
@@ -283,7 +283,7 @@ PSB031	con ehm frutta
 PSB030	ah ah
 PSB031	con
 PSB030	celia celia molto buono
-PSB030	vyšnja
+PSB030	#_ vyšnja
 PSB031	sì sì sì sì
 PSB031	ciligie o
 PSB030	ciliegio ciliegio
@@ -298,10 +298,10 @@ PSB031	mh
 PSB005	rossi
 PSB031	no no no
 PSB031	xx
-PSB031	jakos' vony po-inšomu nazyvajut'sja
-PSB030	net ty ščo chočeš skazat'
+PSB031	#_ jakos' vony po-inšomu nazyvajut'sja
+PSB030	#_ net ty ščo chočeš skazat'
 PSB005	mirtilli mirtilli forse
-PSB030	ne tak samo . ja dyvylasja tak samo
+PSB030	#_ ne tak samo (.) ja dyvylasja tak samo
 PSB031	no no no
 PSB005	beh cerca cerca
 PSB030	mhmh
@@ -311,7 +311,7 @@ PSB030	e
 PSB031	è come ciliegie
 PSB030	similare
 PSB031	però ehm
-PSB030	tak samo pyšet'sja
+PSB030	#_ tak samo pyšet'sja
 PSB030	ciliegia ma ehm non dolce
 PSB005	ah okay eh forse non ci sono in italia
 PSB030	i e c'è in italia c'è
@@ -335,7 +335,7 @@ PSB005	però la pasta
 PSB005	mh
 PSB005	l~ l'esterno bisogna impastarlo
 PSB030	sì
-PSB030	tonko tonko ne znaju ja
+PSB030	#_ tonko tonko ne znaju ja
 PSB005	difficile secondo me sì
 PSB030	eh sì ehm
 PSB030	ehm bisogna mh avere el~ el tempo libero per fare questo
@@ -381,7 +381,7 @@ PSB005	e ne hai fatto uno grande
 PSB031	sì grande mh eh du~ due mile eh o
 PSB005	pezzi
 PSB031	sì
-PSB031	mh big
+PSB031	mh #big
 PSB005	molto grande sì no no io no
 PSB005	invece il balcone
 PSB031	mhmh
@@ -409,8 +409,8 @@ PSB031	prim~ e tempo fa adesso noi guardiamo mh film in netfilx
 PSB005	mhmh
 PSB031	o
 PSB030	come si chiama
-PSB030	ta po-moemu takže
-PSB031	ta kožnoho dnja novyj dyvymosja ((ride))
+PSB030	#_ ta po-moemu takže
+PSB031	#_ ta kožnoho dnja novyj dyvymosja ((ride))
 PSB030	ah ogni giorno è nuovo
 PSB005	ah cioé sì sì sì tipo serie tivù anche forse
 PSB031	sì
@@ -489,7 +489,7 @@ PSB030	sono andata a scuola ehm
 PSB030	era piccola informazione per ehm ucraina letteratura
 PSB030	ehm più russia letteratura
 PSB005	mhmh mhmh
-PSB030	ma ora eh aprire nuovi ehm vektor
+PSB030	ma ora eh aprire nuovi ehm #vektor
 PSB030	nuovi libri nuovi ehm
 PSB005	sì sì sì
 PSB030	interessanti poeti
@@ -562,9 +562,9 @@ PSB005	vedi
 PSB005	eh piccoli sì
 PSB030	sei
 PSB031	depende ehm quale
-PSB031	which age going school
+PSB031	#_ which age going school
 PSB005	mhmh
-PSB031	first school
+PSB031	#_ first school
 PSB005	sì sì
 PSB005	ho capito sì
 PSB005	eh in italia studiamo molti anni
@@ -597,11 +597,11 @@ PSB030	sì
 PSB005	io i numeri per me i numeri
 PSB005	sono difficli
 PSB031	mhmh
-PSB031	per me too
+PSB031	per me #too
 PSB005	eh che che cosa hai fatto tu cosa facevi tu
 PSB031	ehm
 PSB031	mi~ mia mh
-PSB031	ehm my education è economia
+PSB031	ehm #my #education è economia
 PSB005	mhmh
 PSB005	mhmh eh vedi
 PSB031	però ho lavoro in ufficio in grande
@@ -609,11 +609,11 @@ PSB031	com~
 PSB005	sì
 PSB031	compagnia
 PSB005	sì
-PSB031	in grande compagnia ehm they produce ehm
-PSB031	profile for windows for
+PSB031	in grande compagnia ehm #they #produce ehm
+PSB031	#_ profile for windows for
 PSB005	mh sì sì sì sì
 PSB031	molta grande
-PSB031	zovut ego
+PSB031	#_ zovut ego
 PSB031	mul~ multa grande fabbrica ehm lavora per tutta europa
 PSB005	mhmh
 PSB031	ehm
@@ -648,18 +648,18 @@ PSB030	mh
 PSB005	bologna è più piccola
 PSB030	xxxxx
 PSB005	sì sì
-PSB031	nu takož mil'jon je
+PSB031	#_ nu takož mil'jon je
 PSB030	ehm anche dnipro circa milione
 PSB031	eh adesso ehm
 PSB031	più perché molte persone mh
-PSB031	movimente to mh
-PSB031	to safe place ((ride))
+PSB031	movimente #to mh
+PSB031	#_ to safe place ((ride))
 PSB005	sì sì sì certo e perché la tua città è più sicura
 PSB031	mh
 PSB005	di altre
 PSB030	xxxx
 PSB005	un po'
-PSB031	eh altre al~ eh altre ehm è molto vicino to occupate territori
+PSB031	eh altre al~ eh altre ehm è molto vicino #to occupate territori
 PSB005	sì sì
 PSB005	quindi sì
 PSB005	però fuori
@@ -670,7 +670,7 @@ PSB031	sì
 PSB030	sì ma
 PSB030	ogni giorno c'è ehm bombarda
 PSB005	mhmh
-PSB030	bombardirovat'
+PSB030	#_ bombardirovat'
 PSB005	sì sì sì sì
 PSB005	sì sì sì
 PSB005	ho capito
@@ -837,7 +837,7 @@ PSB030	mhmh
 PSB030	eh eh due lingua
 PSB005	mhmh
 PSB030	due lingue eh in scuola ehm per me era ehm lingua russa
-PSB030	a ty tože
+PSB030	#_ a ty tože
 PSB031	ah no no no per me in scuola lingua ucraina anche dopo
 PSB030	ah
 PSB030	ehm in università e b~
@@ -1001,8 +1001,8 @@ PSB005	è diverso
 PSB030	ah
 PSB030	okay
 PSB005	ehm
-PSB005	working class ehm
-PSB005	this is very difficult sto cercando di spiegare ma è abbastanza difficile
+PSB005	#_ working class ehm
+PSB005	#this #is #very #difficult sto cercando di spiegare ma è abbastanza difficile
 PSB030	mhmh
 PSB005	eh l'italiano della strada lo spagnolo della strada delle persone normali
 PSB030	mhmh
@@ -1011,7 +1011,7 @@ PSB005	ehm
 PSB005	un po' di~ un po' difficile chi non è non è andato a scuola non è abituato a studiare le lingue quindi fanno fatica lo stesso
 PSB030	la lingua spagnola in perù
 PSB005	sì
-PSB030	uguale lingua spagnola in s~ in spanish
+PSB030	uguale lingua spagnola in s~ in #spanish
 PSB005	eh
 PSB030	o no
 PSB005	sì sì
@@ -1038,7 +1038,7 @@ PSB030	xx
 PSB005	ehm
 PSB005	ma eh
 PSB005	non vi preoccupate
-PSB005	it's difficult eh sto cercando di spiegare una cosa difficile
+PSB005	#it's #difficult eh sto cercando di spiegare una cosa difficile
 PSB005	eh e per voi l'italiano è difficile
 PSB030	sì eh perché c'è
 PSB030	differenza
@@ -1049,7 +1049,7 @@ PSB030	eh roma~ romagna gruppa italiano
 PSB005	mhmh
 PSB005	mhmh
 PSB005	mhmh
-PSB030	ehm nostra lingua è è gruppa slavjanskaja
+PSB030	ehm nostra lingua è è #gruppa #slavjanskaja
 PSB005	sì slava sì sì sì
 PSB030	sì
 PSB005	ma per voi è più difficile
@@ -1068,7 +1068,7 @@ PSB030	altri modi
 PSB005	mhmh
 PSB031	sì sì ehm
 PSB005	okay
-PSB031	ev~ everything is different
+PSB031	#_ ev~ everything is different
 PSB005	mhmh sì sì sì
 PSB005	si ma eh
 PSB005	io ho un'amica polacca

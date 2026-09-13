@@ -43,9 +43,9 @@ PSB039	sì
 PSB039	quasi impossibile
 PSB005	perché
 PSB039	perché la la
-PSB039	rivers
+PSB039	#_ rivers
 PSB005	sì sì canali sì sì
-PSB039	yeah can~ canali eh
+PSB039	# #yeah can~ canali eh
 PSB039	comunicazione i~ in quella città è m~ molto difficile
 PSB005	mhmh quindi sei stato un po' di anni
 PSB039	eh
@@ -62,7 +62,7 @@ PSB005	mh
 PSB005	mhmh mhmh
 PSB005	no io non vorrei vivere in centro no
 PSB039	no vivere no però
-PSB039	eh just walk around
+PSB039	#_ eh just walk around
 PSB005	sì sì
 PSB005	certamente
 PSB005	e la parte del centro che ti piace di più qual è
@@ -109,12 +109,12 @@ PSB039	c~ come come ho detto eh mi piace molto vostra architettura europea in ge
 PSB005	mhmh mhmh sì sì sì certo
 PSB005	ehm
 PSB005	ma tu che cosa fai qui e
-PSB039	ah ancora niente studio le lingue e ancora studio il mio college in ucraina
+PSB039	# ah ancora niente studio le lingue e ancora studio il mio #college in ucraina
 PSB005	mhmh
 PSB039	quindi quando eh
-PSB039	when i will (.) know
+PSB039	#_ when i will (.) know
 PSB005	mhmh
-PSB039	a bit more
+PSB039	#_ a bit more
 PSB005	mhmh
 PSB039	eh eh io proverò a trovare un un lavoro
 PSB005	mh che cosa studi
@@ -122,7 +122,7 @@ PSB039	ah tipo informatica però non so qua in italia
 PSB039	n~ non vorrei eh studiare sempre quello
 PSB005	mhmh
 PSB005	mhmh
-PSB039	magari eh un business o qualcosa però in in europa mol~ molto expensive come come posso
+PSB039	# magari eh un business o qualcosa però in in europa mol~ molto #expensive come come posso
 PSB005	costoso sì
 PSB039	costoso sì
 PSB005	mhmh
@@ -136,7 +136,7 @@ PSB005	aprire un business
 PSB039	sì sì
 PSB005	però tu hai
 PSB039	spe~ speciale in europa perché molto costoso e se
-PSB039	if you not success
+PSB039	#_ if you not success
 PSB005	mhmh
 PSB005	sì sì
 PSB005	e che tipo di business ti piacerebbe aprire
@@ -144,14 +144,14 @@ PSB039	ah
 PSB039	mh
 PSB039	in ucraina noi con mio padre a~ abbiamo
 PSB039	ah tipo
-PSB039	ah wooden pellets
-PSB039	ehm it's like fool fuel
+PSB039	#_ ah wooden pellets
+PSB039	#_ ehm it's like fool fuel
 PSB005	mhmh
 PSB039	ehm
 PSB039	and s~ eh
 PSB039	vorrei ehm trovare qua eh qualche persone che
 PSB039	eh
-PSB039	interested
+PSB039	#_ interested
 PSB005	mhmh sì sì interessato
 PSB039	sì
 PSB005	sì sì
@@ -166,15 +166,15 @@ PSB005	sì molto
 PSB005	sì ma hai iniziato già l'università però
 PSB039	ah eh qua o o in ucraina
 PSB005	sì in ucraina sì
-PSB039	in ucraina ancora no college
+PSB039	# in ucraina ancora no #college
 PSB039	noi abbiamo un po' un po' diversi sistema di
 PSB005	ah no ah s~
 PSB005	sì spiega spiega
-PSB039	di eh edu~ education
+PSB039	# di eh edu~ #education
 PSB005	mhmh
 PSB039	eh quindi
 PSB039	eh quest~ quest'anno è ultimo
-PSB039	eh per eh il mio college in ucraina e dopo non so
+PSB039	# eh per eh il mio #college in ucraina e dopo non so
 PSB039	magari eh proverò
 PSB039	mh eh a regis~ a registrare ehm a una uni~ università in ucraina però online
 PSB005	mhmh
@@ -192,7 +192,7 @@ PSB039	ehm
 PSB005	quale lingua parli con la tua famiglia
 PSB039	ehm
 PSB005	con la mamma
-PSB039	ehm ukrainian
+PSB039	#_ ehm ukrainian
 PSB005	okay sì sì ucraino okay
 PSB039	sì
 PSB005	e l'ho chiesto perché alcune persone ucraine mi hanno raccontato che
@@ -220,16 +220,16 @@ PSB005	mhmh
 PSB005	e il russo l'hai imparato a scuola
 PSB039	no no ehm
 PSB039	ehm io ho ehm ho guardato molti video su ehm youtube
-PSB039	ehm e anche ehm movies
+PSB039	# ehm e anche ehm #movies
 PSB005	mhmh
-PSB039	movies in cinema
+PSB039	# #movies in cinema
 PSB005	mhmh
-PSB039	in the
+PSB039	#_ in the
 PSB005	ma e sei appassionato di cinema ti piace il cinema
 PSB005	ti piacciono i video
 PSB039	ehm
 PSB039	sì sì
-PSB039	ehm especially quando io ero mh ero più piccolo
+PSB039	# ehm #especially quando io ero mh ero più piccolo
 PSB005	e ti piacciono anche non so ti piace la musica mh
 PSB039	no la musica non mi piace neanche nostra e neanche russa mi piace di più inglese
 PSB005	mhmh
@@ -241,7 +241,7 @@ PSB005	ah io non conosco per niente
 PSB039	mh
 PSB039	ma magari eh sai kalush tipo eh loro ehm
 PSB039	ehm
-PSB039	won eh eurovision
+PSB039	#_ won eh eurovision
 PSB005	ah sì sì
 PSB005	sì sì sì
 PSB005	hai hai guardato l'eurovision o
@@ -260,7 +260,7 @@ PSB005	non la conoscevo
 PSB039	anche da noi eh non si guardavano
 PSB039	solo ehm l'ultimi anni che
 PSB005	mh okay
-PSB039	s~ eh sono stati più è stato più popular
+PSB039	# s~ eh sono stati più è stato più #popular
 PSB005	sì sì famoso sì sì sì sì
 PSB039	più famoso
 PSB005	ehm invece l'italiano cosa mh
@@ -271,20 +271,20 @@ PSB005	ma a casa fai da solo
 PSB039	sì
 PSB005	co~ mh come ti sei organizzato
 PSB039	mh tipo
-PSB039	ehm ho un text or ehm ehm like google translate
+PSB039	# ehm ho un #text #or ehm ehm #like google translate
 PSB005	mhmh
 PSB039	ehm funziona male però meglio di niente
 PSB005	sì sì no ma non funziona così male
-PSB039	sì s~ s~ se se provi a to translate from ukrainian to italian
+PSB039	# sì s~ s~ se se provi a #to #translate #from #ukrainian #to #italian
 PSB005	mh
 PSB005	mhmh
-PSB039	it's kinda bad
+PSB039	#_ it's kinda bad
 PSB005	mhmh
-PSB039	but if you try to translate (.) from english to italian is (.) much better
+PSB039	#_ but if you try to translate (.) from english to italian is (.) much better
 PSB005	mhmh
 PSB005	eh sì
 PSB005	è una cosa tipica
-PSB039	yeah
+PSB039	#_ yeah
 PSB005	sì sì sì
 PSB005	e hai provato mai a tipo parlare con chat gpt
 PSB005	per esempio in italiano tu pa~ provi a scrivere
@@ -307,7 +307,7 @@ PSB039	sì
 PSB039	sì
 PSB039	vicino
 PSB005	mcfit
-PSB039	ehm vicino a fuel station
+PSB039	# ehm vicino a #fuel #station
 PSB005	sì
 PSB039	mh
 PSB005	ho capito s~ ah sì allora è di qua e poi a sinistra
@@ -339,7 +339,7 @@ PSB005	mhmh sì sì no certo sì sì sì capisco
 PSB005	ma la voi siete venuti qua insieme o la mamma abitava già qui
 PSB039	ehm la la mamma sono stato in in italia prima
 PSB039	ehm ehm già mh già lo sa
-PSB039	already (.) already knew
+PSB039	#_ already (.) already knew
 PSB005	sì sì s~ giusto era giusto sì
 PSB039	la lingua
 PSB039	sì ehm la lingua e quindi
@@ -358,11 +358,11 @@ PSB005	e come mai perché
 PSB039	ehm
 PSB039	in europa c'è ehm un gran problema
 PSB039	ehm
-PSB039	you have to ehm (.) have to have like ehm tons of documents per for everything
+PSB039	#_ you have to ehm (.) have to have like ehm tons of documents per for everything
 PSB005	mhmh
 PSB039	ehm in uk~ in ucraina è molto più semplice
 PSB039	ehm anche più semplice aprire un business o qualcosa
-PSB039	quindi noi abbiamo problemi però noi abbiamo anche nostre strong sides
+PSB039	# quindi noi abbiamo problemi però noi abbiamo anche nostre #strong #sides
 PSB005	sì sì sì sì sì no ma è abbastanza tipico la burocrazia
 PSB039	mhmh
 PSB039	sì
@@ -371,7 +371,7 @@ PSB039	però ehm però ehm però non è problema di italia problema di quasi tut
 PSB005	mhmh
 PSB005	e ci sono altri problemi qui secondo te
 PSB039	no secondo me no
-PSB039	m~ magari che ehm your stores doesn't work ehm like after eleven pm
+PSB039	# m~ magari che ehm #your #stores #doesn't #work ehm #like #after #eleven #pm
 PSB005	mhmh
 PSB005	mhmh
 PSB039	ehm noi abbiamo tante tante che lavorano ventiquattro per sette
@@ -383,7 +383,7 @@ PSB005	ma tu quindi stavi in una città grande
 PSB039	ehm no io io ho studiato in una città grande però
 PSB005	mhmh
 PSB039	ehm
-PSB039	lived in a small city
+PSB039	#_ lived in a small city
 PSB005	ah okay e anche in una città piccola ci sono i i negozi che
 PSB039	sì
 PSB005	apro~ sono aperti fino a tardi
@@ -410,12 +410,12 @@ PSB039	sì
 PSB005	preferisci la spiaggia o il mare o la montagna
 PSB005	per vacanza
 PSB039	mh
-PSB039	dipende how many time you have to spend
+PSB039	# dipende #how #many #time #you #have #to #spend
 PSB005	mh
 PSB005	mhmh
-PSB039	ehm if it's a bit ehm (.) larger periods of time
+PSB039	#_ ehm if it's a bit ehm (.) larger periods of time
 PSB039	ehm montagne
-PSB039	se shorter ehm then ehm spiagge
+PSB039	# se #shorter ehm #then ehm spiagge
 PSB005	mhmh
 PSB039	eh il mare sì
 PSB005	spiaggia okay
@@ -435,7 +435,7 @@ PSB039	mh
 PSB005	a bologna fa molto caldo d'estate
 PSB039	ehm mh sì sì
 PSB039	na~ non è ehm una grande difrezione però
-PSB039	però vostra area
+PSB039	# però vostra #area
 PSB005	mhmh
 PSB039	ehm è caldo nostra s~ no~ anche se noi abbiamo tipo trentatré trentaquattro gradi ehm non è così come come qua
 PSB005	forse è l'umidità
@@ -452,8 +452,8 @@ PSB005	con le persone italiane
 PSB005	ti sei trovato bene o hai notato molte differenze
 PSB039	sì
 PSB039	ehm
-PSB039	ehm da voi piace parlare ehm about food how did you how did you eat today and stuff
-PSB039	noi mh non we we don't talk about it almost almost nothing
+PSB039	# ehm da voi piace parlare ehm #about #food #how #did you #how #did #you #eat #today #and #stuff
+PSB039	# noi mh non #we #we #don't #talk #about #it #almost #almost #nothing
 PSB005	sai perché rido perché un'altra ragazza mi ha detto la stessa cosa
 PSB005	ma anche i ragazzi maschi in italia gli uomini parlano di cibo
 PSB039	mh
@@ -468,7 +468,7 @@ PSB005	ma il cibo italiano ti piace hai provato
 PSB039	sì sì
 PSB005	cos'hai provato
 PSB039	ehm mh mh molte
-PSB039	kinds of of pasta
+PSB039	#_ kinds of of pasta
 PSB039	ehm come si chiama lasagna
 PSB039	ehm tortellini
 PSB039	mh
@@ -525,17 +525,17 @@ PSB039	mh non so non so
 PSB005	no no non lo so infatti non lo so neanch'io scusami
 PSB005	ehm
 PSB039	italia non è ehm non è ehm nat~
-PSB039	this country which is (.) like to put a lot of money to improve ehm like progra~ mh
+PSB039	#_ this country which is (.) like to put a lot of money to improve ehm like progra~ mh
 PSB005	mhmh
-PSB039	pro~ program education and stuff it's n~ it's not country for start-up or something
+PSB039	#_ pro~ program education and stuff it's n~ it's not country for start-up or something
 PSB005	mh
 PSB005	mhmh
-PSB039	unfortunately though
+PSB039	#_ unfortunately though
 PSB005	sì sì è possibile sì
 PSB005	ehm e in questi due anni tu sei venuto a scuola qui
 PSB039	ehm non tutti n~ non due anni i~
 PSB039	quando sono arrivato io ero qua da sei mesi magari un po' di meno
-PSB039	ehm da settembre ques~ ehm last year
+PSB039	# ehm da settembre ques~ ehm #last #year
 PSB005	mhmh
 PSB039	ehm io studio sempre va~ vado quasi ogni giorno
 PSB005	mhmh
@@ -587,7 +587,7 @@ PSB005	ma dico capisci però
 PSB005	a parte la lettura diciamo ad alta voce
 PSB039	ehm sì ehm
 PSB039	sì
-PSB039	mh because of ehm context
+PSB039	#_ mh because of ehm context
 PSB005	sì sì
 PSB005	certamente
 PSB005	certamente e in generale gli italiani

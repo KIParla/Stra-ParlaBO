@@ -848,7 +848,7 @@ PSB005	è vero capisco
 PSB005	io sono stata in tanti posti soprattutto perché mi sono venuti a trovare delle persone
 PSB077	ah okay quindi sei andata
 PSB077	ah come si dice fare
-PSB077	guide
+PSB077	#_ guide
 PSB077	come si chiama
 PSB005	sì
 PSB005	la guida
@@ -1337,7 +1337,7 @@ PSB077	scrivi
 PSB077	usi la tastiera no italiana anche
 PSB005	sì
 PSB005	sì sì sì
-PSB077	qua c'è scritto nì hao
+PSB077	qua c'è scritto #nì #hao
 PSB005	mhmh
 PSB077	poi ci sono qua tutte le
 PSB077	puoi scegliere

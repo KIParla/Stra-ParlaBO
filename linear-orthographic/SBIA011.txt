@@ -195,11 +195,11 @@ PSB064	sì eh dipende a quale colonizzazione era er~ il paese
 PSB064	e dipende anche
 PSB064	come loro parlano nell
 PSB064	nell
-PSB064	nel~ nella parte palestina lebanon
+PSB064	nel~ nella parte palestina #lebanon
 PSB063	mhmh
 PSB064	ehm
 PSB064	parlano in un modo
-PSB064	e nella parte di saudi arabia e l'emirati
+PSB064	e nella parte di #saudi #arabia e l'emirati
 PSB063	parlano in un altro
 PSB064	eh in altro modo
 PSB063	ma tu lo capisci
@@ -278,10 +278,10 @@ PSB063	diverse caste della società
 PSB064	no no
 PSB005	secondo me scavi
 PSB063	ah okay okay
-PSB064	caves caves
+PSB064	#_ caves caves
 PSB005	ah
 PSB064	scavi
-PSB005	no caves è tipo grotte
+PSB005	no #caves è tipo grotte
 PSB063	no eh lui dice
 PSB005	no
 PSB063	ci sono delle miniere
@@ -361,7 +361,7 @@ PSB005	secondo te cosa~
 PSB064	vado alla posta vado da solo non chiedo qualcuno che parla eh
 PSB064	italiano niente
 PSB064	se vado a fare qualcosa
-PSB064	è la friction
+PSB064	è la #friction
 PSB063	sì
 PSB063	eh il contatto
 PSB064	il contatto con la lingua
@@ -378,7 +378,7 @@ PSB064	spie
 PSB005	eh
 PSB064	hai capito cosa è
 PSB005	prova a dirmi continua la frase
-PSB064	a spy
+PSB064	#_ a spy
 PSB063	sì
 PSB005	sì sì sì
 PSB064	una spia
@@ -664,7 +664,7 @@ PSB005	bello quindi a te piace questo musica qui
 PSB005	questa musica un po' alternativa
 PSB064	no no devi
 PSB064	non mi piace molto ma
-PSB064	il vibe di di d~
+PSB064	il #vibe di di d~
 PSB005	certo
 PSB063	del festival
 PSB005	sì
@@ -692,7 +692,7 @@ PSB005	quindi proprio proprio da un'altra parte
 PSB005	e mi è piaciuto tantissimo
 PSB005	solo che mh
 PSB005	fra tutti i viaggi che ho fatto è stato l'unica volta in cui io mi sono sentita una turista
-PSB005	proprio ins~ inside
+PSB005	proprio ins~ #inside
 PSB005	cioè non non non mi sono
 PSB005	sentita parte della delle persone loca~ cioè ero c'era troppa din~ differenza fra me e le persone
 PSB064	hai visto tanta
@@ -801,7 +801,7 @@ PSB005	okay però festeggi
 PSB064	sì festeggio sono buono
 PSB005	che cosa cosa avete fatto
 PSB005	per esempio non c'è stata una festa due settimane fa
-PSB064	sì è l'eid
+PSB064	sì è l'#eid
 PSB005	mh
 PSB064	non l'ho fatta questo anno ma l'ho fatta l'altro anno
 PSB005	ah e che cosa si fa
@@ -858,7 +858,7 @@ PSB005	ah nella moschea avete fatto
 PSB064	nella mos~
 PSB005	ah okay niente un ragazzo mi ha raccontato un'altra cosa va bene
 PSB064	eh perché n~ ti ha raccontato l~ la festa
-PSB064	l~ la preghiera collettiva nel nel giorno del eid o
+PSB064	l~ la preghiera collettiva nel nel giorno del #eid o
 PSB064	della festa o in altri giorni normali
 PSB005	quand~ mi ha detto che il giorno in cui finisce il ramadan si fa una preghiera tutti insieme quelli di bologna
 PSB064	mh
@@ -906,7 +906,7 @@ PSB063	però facciamo un pranzo tutti insieme noi
 PSB063	e anche con- con i regaz
 PSB063	e
 PSB063	i regaz sono le persone che studiano
-PSB005	non c'è bisogno di spiegare sì
+PSB005	non c'è bisogno di spiegare sì ride
 PSB063	qui nella nostra scuola
 PSB063	ehm
 PSB063	e quindi niente si cucina insieme e poi mangiamo

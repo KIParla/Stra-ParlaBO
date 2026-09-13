@@ -440,7 +440,7 @@ PSB164	((ride))
 PSB165	por~ [un lui lu~ una] volta lui e mi hanno fatto uno sche:rzo
 PSB164	[non ne potevi più]
 PSB164	cos'han [fatto]?
-PSB165	[>praticamente<] eravamo al rimini beach are[na] (.) c'era c'era il: e:h il: m il memorabilia grati[s]
+PSB165	[>praticamente<] eravamo al rimini beach are[na] (.) c'era c'era il: e:h il: mh il memorabilia grati[s]
 PSB164	[mh]
 PSB164	[o]kay
 PSB165	cioè già il nome
@@ -650,7 +650,7 @@ PSB164	[eh]
 PSB164	[davvero:]?
 PSB165	[(>°son anda~ so°<)] eh >sì< perché t~ richiedono il l~ livello quattro #*icao
 PSB164	[tosta]
-PSB165	[internat]ional civil aviatio[n organizat]ion e::h
+PSB165	#_ [internat]ional civil aviatio[n organizat]ion e::h
 PSB164	[certo]
 PSB165	del resto non ser~ mh (.) [a un ca]
 PSB164	[non ti serve nie]nte

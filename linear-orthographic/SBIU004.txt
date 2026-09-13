@@ -11,7 +11,7 @@ PSB018	eh forse può aiutare eh sten~ straniere mh
 PSB005	mh
 PSB018	in fu~ no in futuro ma sì sì in futuro ehm
 PSB005	sì sì
-PSB018	study
+PSB018	#_ study
 PSB005	sì
 PSB018	stu~ studio
 PSB005	studio studio sì sì
@@ -27,7 +27,7 @@ PSB018	sì sì e questo è chiaro
 PSB005	sia livello molto basso sia livello molto alto non non c'è problema sì
 PSB018	non c'è problema ma l'unica cosa se il mio italiano era sarà ne abbastanza per mh
 PSB005	mhmh
-PSB018	answer
+PSB018	#_ answer
 PSB005	per rispondere
 PSB018	eh rispondere i tuoi
 PSB005	sì sì sì sì
@@ -40,7 +40,7 @@ PSB018	io
 PSB018	eh sì sì eh quella quella era la mia mh il mio sogno da da da dieci anni non mi ricordo perché quello eh era un tempo dopo uniti sovietiche eh una u~ i~
 PSB005	mhmh mhmh
 PSB018	no età e il tempo quanto eh tante canzone film cartellone
-PSB018	tutto ehm came da west ovest
+PSB018	tutto ehm #came da #west ovest
 PSB005	ovest sì sì ovest sì sì sì sì
 PSB018	ovest
 PSB018	europa e america
@@ -63,13 +63,13 @@ PSB018	e quello era il l'inizio e quello era come una causa per iniziare a studi
 PSB005	mhmh
 PSB018	eh sì traduttore
 PSB018	traduttrice traduttore e anche
-PSB018	come si dice la persona chi lavora in aereo stjuardessa
+PSB018	come si dice la persona chi lavora in aereo #stjuardessa
 PSB005	sì hostess
 PSB018	hostess anche anche quello era la mia mh
 PSB005	noi diciamo sì
 PSB018	il mio sogno
 PSB018	ma sempre tutti eh miei desideri erano mh
-PSB018	closely connected con inglese
+PSB018	#closely #connected con inglese
 PSB005	mhmh okay
 PSB018	sì e per questo motivo forse ho studiato
 PSB005	sì
@@ -82,7 +82,7 @@ PSB005	mhmh mhmh ma hai eh p~ pe~ trascorso dei periodi in germania per studia~
 PSB018	no purtroppo no perché eh un'altra volta era il tempo dopo s~ uniti sovietiche eh
 PSB005	mhmh
 PSB018	quello era un eh un periodo per la nostra pae~ per il nostro paese mh difficile e tutti i
-PSB018	financial mh da università scuola tutti organizzazione era molto molto eh poveri
+PSB018	#financial mh da università scuola tutti organizzazione era molto molto eh poveri
 PSB005	mhmh
 PSB018	e per questo motivo non c'era tante possibilità per andare andare in este~
 PSB005	sì sì sì
@@ -111,11 +111,11 @@ PSB018	la prima lingua
 PSB005	quindi difficile
 PSB018	eh sì difficile e abbiamo fatto qualche lezione ma normalmente generalm~ eh mente solo inglese
 PSB018	per noi eh lezioni con americani e i
-PSB018	english men
+PSB018	#_ english men
 PSB005	mhmh
 PSB018	eh tedeschi con il livello tedesco noi abbiamo fatto eh
 PSB018	non
-PSB018	was interested
+PSB018	#_ was interested
 PSB005	mhmh no sì non eri interessata sì sì sì sì certo okay ah io ho studiato anche lingue ho studiato lingue e traduzione
 PSB018	sì sì
 PSB018	mhmh
@@ -194,7 +194,7 @@ PSB018	mh
 PSB018	ma
 PSB018	molto vicina
 PSB018	e questo è
-PSB018	una advantaggio per eh come una cosa naturale quando eh due cose vicini come due paesi vicini hanno influence each other
+PSB018	una advantaggio per eh come una cosa naturale quando eh due cose vicini come due paesi vicini hanno #influence #each #other
 PSB018	e ucraina più o meno è il livello
 PSB018	de~ della mia paese è molto alta
 PSB005	mhmh
@@ -203,7 +203,7 @@ PSB005	mhmh
 PSB018	ma la mia vita lì era la stessa
 PSB005	okay
 PSB018	o tante po~ io
-PSB018	so non so se una informazia eh ma io sono una mamma da sola e sono insegnante non ho un business o una professija con i busta paga alta no
+PSB018	so non so se una informazia eh ma io sono una mamma da sola e sono insegnante non ho un business o una #professija con i busta paga alta no
 PSB005	mhmh
 PSB018	ma sempre noi hanno la po~ la possibilità viaggiare più o meno due volte a l'anno
 PSB018	no maldivi ma turchia egitto ehm grecia anche
@@ -215,12 +215,13 @@ PSB005	mhmh rispon~ sì sì
 PSB018	ehm il livello d~ della mia paese della ucraina sì un po' più bassa ma
 PSB005	mhmh
 PSB018	normale molto normale per vivere la vita
-PSB018	mh full
+PSB018	#_ mh full
 PSB005	mhmh
+PSB018	#_
 PSB005	sì sì sì
 PSB018	e per la persona eh
-PSB018	of middle
-PSB018	middle economy
+PSB018	#_ of middle
+PSB018	#_ middle economy
 PSB005	mhmh
 PSB018	livello
 PSB005	mhmh
@@ -228,7 +229,7 @@ PSB018	ah allora e per questo eh ma
 PSB018	i tradiz~ le tradizi sono diverse
 PSB005	mhmh
 PSB018	eh storia è anche diversa e tutto questo ehm
-PSB018	è un upground xx per la nostra cultura
+PSB018	è un #upground xx per la nostra cultura
 PSB005	mhmh
 PSB018	e
 PSB018	ma che era la tua domanda
@@ -252,14 +253,14 @@ PSB018	soldi soldi soldi
 PSB018	mh allora
 PSB005	cioè danno dei finanziamenti danno xx
 PSB018	sì qualcuno che fa fa fun~
-PSB005	funding
-PSB018	funding sì sì allora
+PSB005	#_ funding
+PSB018	#funding sì sì allora
 PSB005	sì sì
 PSB018	eh c'è s~ ci sono tante organizzazioni che possano aiuta aiutare e vogliono aiutare e anche le studente e le i fami~ la famiglia le famiglie eh
 PSB005	mh mhmh
 PSB018	mh hanno tante possibilità viaggiare da solo
 PSB005	mhmh
-PSB018	senza qualche funding e per questo motivo e anche internet quando io era la studentessa il mio source era solo traduttore questi libri
+PSB018	senza qualche #funding e per questo motivo e anche internet quando io era la studentessa il mio #source era solo traduttore questi libri
 PSB005	sì sì sì
 PSB005	certo sì
 PSB018	il libro dal oxford era un sogno
@@ -267,7 +268,7 @@ PSB005	mh
 PSB018	e dopo quando i mhn
 PSB018	l~ l'ultimi corse l'ultime anni l'ultime anni ahm
 PSB018	noi abbiamo usato internet ma
-PSB018	allora anche lì per usare il cabinetto con internet e computer devo fare un appuntamento per futuro per usare perché tua tu sei ah uno studento non of ai ti o computer ma un eh eh studento di inglese
+PSB018	allora anche lì per usare il cabinetto con internet e computer devo fare un appuntamento per futuro per usare perché tua tu sei ah uno studento non #of #ai #ti o computer ma un eh eh studento di inglese
 PSB005	mh sì sì sì
 PSB005	certo sì
 PSB005	certo
@@ -285,7 +286,7 @@ PSB005	ma mh io a me sembra che mh anche in italia è la stessa cosa
 PSB018	sì eh se noi eh viviamo in tedesca troviamo qualche problemi in norvegia anche lì anche qui in america eh sì tutto è diverso
 PSB005	mhmh
 PSB018	ma adesso i student~ gli studenti hanno grande possibili-
-PSB018	tante possibilità per cercare usare informazia endless
+PSB018	tante possibilità per cercare usare informazia #endless
 PSB005	mhmh
 PSB005	sì sì sì
 PSB018	anche eh immagino ehm io era e~ eh sono appassionata con ehm con jane austen
@@ -298,14 +299,14 @@ PSB018	erano
 PSB018	non possibile
 PSB005	sì sì sì
 PSB018	ma adesso
-PSB018	tu puoi comprare eh trovare libro eh online eh o audio libro audiolibro
+PSB018	tu puoi comprare eh trovare libro eh online eh o #audio libro audiolibro
 PSB018	ci sono tante possibilità l'unica cosa tu devo
 PSB018	avere eh un grande desiderio per fare quello
 PSB005	sì sì certo sì ma io l'ho visto con mh mia s~ io ho una sorella di dieci anni più picc~ che ha dieci anni meno di me
 PSB018	mhmh
 PSB005	e mh
 PSB005	le~ lei ha imparato l'inglese così
-PSB018	sì esatto esatto perché tante source
+PSB018	sì esatto esatto perché tante #source
 PSB005	sì
 PSB005	sì esatto soprattutto mi accorgo che c'è una differenza di
 PSB005	perché io parlavo abbastanza bene ma non capivo niente
@@ -314,7 +315,7 @@ PSB005	in inglese sì
 PSB005	in sì perché quando mh quando non e~ non facevo esercizio di ascolto
 PSB018	ah okay
 PSB005	era difficile fare esercizio di ascol~
-PSB018	eh sì vero eh ascol~ perché come noi sappiamo ci sono quattro main eh cose scrivere eh parlare eh ascoltare e
+PSB018	eh sì vero eh ascol~ perché come noi sappiamo ci sono quattro #main eh cose scrivere eh parlare eh ascoltare e
 PSB005	mhmh
 PSB018	e e e
 PSB005	leggere
@@ -323,7 +324,7 @@ PSB005	sì
 PSB018	mh specifico
 PSB005	sì
 PSB018	ah perché il tuo orecchio
-PSB018	far away di mh della lingua straniera
+PSB018	#far #away di mh della lingua straniera
 PSB018	ma per me adesso quando io studio
 PSB018	italiano
 PSB018	forse la differenza sì è questo no forse ma e questo è eh realtà
@@ -333,7 +334,7 @@ PSB018	per vivere in luogo dove tutte tutte le persone parlano questa lingua tua
 PSB018	stai parla~ eh stai studiando
 PSB005	sì sì
 PSB018	mh
-PSB018	prima cosa tu eh develop
+PSB018	prima cosa tu eh #develop
 PSB005	mhmh
 PSB018	è ascoltare
 PSB005	eh sì perché vivi qui
@@ -342,7 +343,7 @@ PSB005	mh
 PSB018	artificiale
 PSB005	sì eh sì
 PSB018	ma qui in italia è un mh situazione eh
-PSB018	xx ehm
+PSB018	#xx ehm
 PSB018	non artifi~ eh artificiale ma l'alt~
 PSB005	il contrario sì
 PSB018	il contrario come
@@ -359,15 +360,15 @@ PSB005	sì
 PSB018	testo eh ascoltare era grande pro~ no problema ma anche come un grande stress
 PSB005	mh
 PSB005	sì sì sì
-PSB018	ma adesso eh tutte le source questi fo~ non so come si fo~
+PSB018	ma adesso eh tutte le #source questi fo~ non so come si fo~
 PSB005	si di~ si dice fonti forse sì sì
 PSB018	e
 PSB018	fonti fonti fonti fonti eh la tivù internet canzone ehm
 PSB005	mhmh
-PSB018	anche turisti tutto sound you eh
+PSB018	anche turisti tutto #sound #you eh
 PSB005	mhmh eh sì
 PSB005	mhmh
-PSB018	come english speaking
+PSB018	come #english #speaking
 PSB005	mhmh
 PSB018	ma per noi anche ah ma per me
 PSB005	sì sì sì
@@ -398,7 +399,7 @@ PSB018	e loro aiutano gr~ tanto ma
 PSB018	per esempio abbiamo iniziato bi uno bi due bi uno bi uno
 PSB018	eh l'estate scorso e abbiamo fatto una terza
 PSB005	mhmh
-PSB018	ma dopo il funding
+PSB018	ma dopo il #funding
 PSB005	è finito
 PSB018	finito e
 PSB005	mhmh
@@ -426,7 +427,7 @@ PSB005	okay
 PSB005	sì sì è chiaro puo~ puoi fare così quando hai un dubbio mi mandi un messaggio e io ti spiego sì
 PSB018	sì ma no un dubbio è questo è un grande grammat~ eh t~ mh pezzo di grammatica quelli pro~ mh
 PSB005	mhmh
-PSB018	pronouns
+PSB018	#_ pronouns
 PSB005	sì pronomi
 PSB018	pronomi
 PSB005	mhmh
@@ -437,7 +438,7 @@ PSB018	mhmh
 PSB005	non so se il livello è giusto forse è troppo facile per te
 PSB018	eh anche facile se non c'è ahm
 PSB005	ma forse ti
-PSB018	obviously no obviously come eh se io non devo eh fare qualche progetti eh e testi e dopo esami ma solo ascoltare e lavorare
+PSB018	#obviously no #obviously come eh se io non devo eh fare qualche progetti eh e testi e dopo esami ma solo ascoltare e lavorare
 PSB005	mhmh
 PSB018	anche questo utile
 PSB018	perché adesso ho una grande base
@@ -502,7 +503,7 @@ PSB018	che cosa devo studiare per iniziare parlare perché
 PSB018	ah una persona eh ha
 PSB018	tutto per parlare grammatica p~ le parole eh ese~ ehm tutto tutta ma questo mh barrier~ barri~ bri~ brie
 PSB018	ah per iniziare parlare
-PSB018	come psychologic
+PSB018	come #psychologic
 PSB005	sì sì sì
 PSB018	barrie~
 PSB005	filtro diciamo noi sì un filtro sì
@@ -566,9 +567,9 @@ PSB005	anche adesso sì xx
 PSB018	tutti le paese parlano adesso due lingue sì gen~ generazione
 PSB005	mhmh
 PSB018	eh nuovo
-PSB005	mhm
+PSB005	mhmh
 PSB018	ehm
-PSB018	mainly generalmente parlano la lingua madre e russo un po'
+PSB018	#mainly generalmente parlano la lingua madre e russo un po'
 PSB005	sì
 PSB005	sì
 PSB005	sì
@@ -607,7 +608,7 @@ PSB005	sì sì sì dì puoi dire quello che vuoi
 PSB018	eh per politica
 PSB005	eh sì
 PSB018	purtroppo ma per eh
-PSB018	development eh della personalità
+PSB018	#development eh della personalità
 PSB005	mhmh
 PSB005	mhmh
 PSB018	eh per il cervello
@@ -621,21 +622,21 @@ PSB018	russa perché ehm online
 PSB018	perché noi eh noi parliamo con lui russo
 PSB005	mhmh okay capisco
 PSB018	ma tutto che
-PSB018	mh connected con le scuole con la scuola sua
+PSB018	mh #connected con le scuole con la scuola sua
 PSB005	mhmh
 PSB018	solo ucraino quando io lavoro online con i i eh con i miei studenti solo ucraino ucraino inglese
 PSB005	mhmh
 PSB018	normalmente inglese ma quando spiego qualcosa eh ucraino no russo
 PSB005	certo
 PSB005	sì
-PSB018	ma everyday life è russo
+PSB018	ma #everyday #life è russo
 PSB005	mhmh
 PSB005	okay okay
 PSB018	sì
 PSB018	e
 PSB018	per questo noi siamo
 PSB018	questi
-PSB018	mu~ mh multi~ multilanguage
+PSB018	mu~ mh multi~ #multilanguage
 PSB005	mhmh
 PSB005	una famiglia plurilingue
 PSB018	sì
@@ -675,7 +676,7 @@ PSB018	sì
 PSB018	ma sono contenta con quello
 PSB018	e
 PSB018	della sua età non c'è grande problema
-PSB018	per studiare la lingua nuova so~ l'unica cosa è questa mh psychcologically eh quando tu devi lasciare la sua vita tutto in passato e inziare qualcosa nuovo è sempre
+PSB018	per studiare la lingua nuova so~ l'unica cosa è questa mh #psychcologically eh quando tu devi lasciare la sua vita tutto in passato e inziare qualcosa nuovo è sempre
 PSB018	ah difficile perché deve dobbiamo fare quel questo ma
 PSB018	tra un po'
 PSB018	co~ mh forse anche mh sei sette mesi sono abbastanze per mh
@@ -697,7 +698,7 @@ PSB018	e da pra~ eh in aprile lui ha iniziato
 PSB005	xx
 PSB005	mhmh
 PSB018	andare a scuola italiana
-PSB005	okay va beh sì subito
+PSB005	okay vabbè sì subito
 PSB018	subito mhmh
 PSB005	sì sì sì ehm ma siete venuti dall'ucraina qui direttamente
 PSB018	direttamente bologna
@@ -745,7 +746,7 @@ PSB018	ah con l'informazia con
 PSB005	se vuoi
 PSB018	no no no no
 PSB005	okay
-PSB018	con qualche actio~ no action sì az~ azione per mh farti sapere farti vedere eh dare ti un mh numero di telefono di della persona che posso aiuta te allora
+PSB018	con qualche #actio~ no #action sì az~ azione per mh farti sapere farti vedere eh dare ti un mh numero di telefono di della persona che posso aiuta te allora
 PSB005	sì sì sì azione sì
 PSB005	mhmh
 PSB018	e questo è molto molto vicino da
@@ -771,7 +772,7 @@ PSB005	sì
 PSB005	mhmh
 PSB018	e sì per questo motivo noi eh
 PSB018	vi ehm
-PSB018	feel ourselves eh bene qui i
+PSB018	#feel #ourselves eh bene qui i
 PSB005	mh
 PSB005	vi sentite bene
 PSB018	se sì noi sentiamo bene qui eh in italia a bologna
@@ -819,7 +820,7 @@ PSB018	dove dormire
 PSB005	mhmh
 PSB018	eh perché in realtà non c'era per tutte le paesi europee era lo so
 PSB018	e come un grande shock
-PSB018	tante persone eh che cosa possibile e tutte devo ehm eh tutte le problemi devono essere solved
+PSB018	tante persone eh che cosa possibile e tutte devo ehm eh tutte le problemi devono essere #solved
 PSB005	sì sì
 PSB005	sì mh
 PSB018	subito
@@ -874,7 +875,7 @@ PSB005	volontaria
 PSB018	e quando lei
 PSB018	mh ha
 PSB018	ehm eh
-PSB018	saw (.) pass
+PSB018	#_ saw (.) pass
 PSB005	visto
 PSB018	visto s~ sì sì visto
 PSB018	lei mi ha chiesto se noi abbiamo un luogo per vivere
@@ -971,7 +972,7 @@ PSB005	sì sì sì sì sì sì
 PSB018	perché noi abbiamo in ucraina tante cose non lo stesse ma simile eh con eh il pane diverse con forse pasta no tutti i tipi di past~ della pasta ma noi abbiamo altre tipi de di cibi
 PSB018	ma presentare la ricetta il prodotto come italiani possono e eh
 PSB018	fare un compiti come italiani fa
-PSB018	fanno è una tradicija è un non so sangue della paese e a me piace molto
+PSB018	fanno è una #tradicija è un non so sangue della paese e a me piace molto
 PSB005	sì c'è questo
 PSB005	questo orgoglio sì molto forte sì sì certo anche secondo me è es~ un po' esagerato certe volte
 PSB018	vero
@@ -1007,7 +1008,7 @@ PSB018	ma secondo me la nostra vita deve essere come questo eh sempre eh
 PSB018	no inventare ma trova creare o in eh trovare qualcosa nuovo
 PSB005	sì creare
 PSB018	per ehm
-PSB018	develop . xx in world
+PSB018	#_ develop (.) xx in world
 PSB005	mhmh
 PSB005	mhmh okay
 PSB018	perché la età quaranta
@@ -1015,7 +1016,7 @@ PSB018	con i bimbi
 PSB018	e dopo nipoti la tua vita
 PSB018	sta mh scon~ la pausa
 PSB005	mhmh okay ho capito sì sì sì sì
-PSB018	o full stop
+PSB018	o #full #stop
 PSB018	purtroppo no no il nostro mo~
 PSB005	mhmh
 PSB018	il mondo nostro mondo è diverso è in~ molto interess~ purtroppo la causa per
@@ -1042,7 +1043,7 @@ PSB005	mhmh
 PSB018	mamma mia ma eh questo è noioso da morire
 PSB005	e in italia non è noioso
 PSB018	no no no sempre eh è sempre
-PSB018	fun
+PSB018	#_ fun
 PSB018	come un sorpresa l'altra g~ l'altro girono l'altro luogo l'altro angolo
 PSB005	sì sì sì
 PSB018	e può essere un sorpresa
@@ -1057,11 +1058,11 @@ PSB018	non è difficile perché
 PSB018	eh le le le
 PSB018	fondazione fonda
 PSB005	sì
-PSB018	eh source source fondi fondi eh
+PSB018	eh #source #source fondi fondi eh
 PSB005	x xx fonti fondi okay
 PSB018	son diversi
 PSB018	da la una
-PSB018	for one side cambiate
+PSB018	#for #one #side cambiate
 PSB005	mhmh
 PSB018	e questo e naturalmente in italia ce sono
 PSB018	tante verdura frutta eh erbe eh questi verde foglie
@@ -1096,7 +1097,7 @@ PSB005	x sì sì
 PSB018	come
 PSB005	ho capito trasf~ trasferire forse mhmh
 PSB018	trasferire sì eh
-PSB018	export import export fare quello eh da tutti pae~ tutte le paese del mondo
+PSB018	#export #import #export fare quello eh da tutti pae~ tutte le paese del mondo
 PSB005	sì sì sì mhmh
 PSB005	mhmh
 PSB018	e ci sono
@@ -1126,7 +1127,7 @@ PSB018	per esempio io ho cambiato eh ehm
 PSB018	cento per centi come totale sì totale
 PSB005	mhmh
 PSB005	sì
-PSB018	tutte le non so le no li eh questi mortadella wurstel sausages tutti i tipi ehm
+PSB018	tutte le non so le no li eh questi mortadella wurstel #sausages tutti i tipi ehm
 PSB005	mhmh
 PSB005	mhmh
 PSB018	queste così x
@@ -1142,13 +1143,13 @@ PSB018	è più chiara
 PSB005	okay
 PSB018	è più buona
 PSB005	okay
-PSB018	eh as far as i know
+PSB018	#_ eh as far as i know
 PSB005	mhmh eh sì
 PSB018	ehm
 PSB018	la la la
 PSB018	ehm
 PSB018	un'organizzazione chi chi
-PSB018	follow ehm della qualità
+PSB018	#follow ehm della qualità
 PSB005	mhmh
 PSB005	sì sì okay ho capito no okay
 PSB018	e in in mh
@@ -1205,7 +1206,7 @@ PSB005	quasi tutto sì sì sì
 PSB018	quasi tutto sì sì sì ma normalmente c'è qualcosa da spagna da marocco da come a~ ananas no ananas ananas
 PSB005	sì
 PSB005	sì sì
-PSB018	pineapple
+PSB018	#_ pineapple
 PSB005	sì giusto giusto
 PSB018	o in questi avocado ma normalmente eh a me piace molto se tutto l'anno è possibile trovare cetrioli pomodori e questi tutti ver~ ehm
 PSB005	sì alcune cose vengono da fuori lont~ sì da lontano
@@ -1224,7 +1225,7 @@ PSB018	ma adesso quando per te la tua vita è così quando tu puoi andare nel
 PSB018	mercato supermercato anche piccolo e trovare tutto tu vuoi
 PSB005	mhmh sì è vero sì sì sì quello sì sicuramente
 PSB018	e pro~ i prodo~ ci sono prodotti ah anche grande per me per me x eh vantaggio come mamma
-PSB018	ci sono tante prodotti come eh mh half made
+PSB018	ci sono tante prodotti come eh mh #half #made
 PSB005	mhmh
 PSB018	quando tu eh devo comprare e solo mettere nel forno o microwave o
 PSB005	ah ho capito sì
@@ -1236,7 +1237,7 @@ PSB005	mhmh
 PSB005	sì
 PSB018	pollo
 PSB018	solo devo scegliere che tipo di te~ eh burger o questi eh
-PSB018	rotondi meatballs
+PSB018	rotondi #meatballs
 PSB005	sì
 PSB005	polpette
 PSB018	polpette
@@ -1264,10 +1265,10 @@ PSB005	mhmh
 PSB018	per questo motivo sì e molto e io sa~ eh è possibile serv~ salvare il tempo per la tua famiglia per il tuo bimbo per
 PSB005	ah
 PSB018	mh mi
-PSB018	myself
+PSB018	#_ myself
 PSB005	sì sì
 PSB018	perché è anche quello tro~ tradizionale la per la la la donna
-PSB018	no solo in ucraina ma post eh ex eh iu es es ar pro~ quella
+PSB018	no solo in ucraina ma post eh ex eh #iu #es #es #ar pro~ quella
 PSB005	sì unioni sovietiche
 PSB018	sì sì sì eh questo q~ una tradizìa eh
 PSB018	essere in cucina
@@ -1278,8 +1279,8 @@ PSB018	e
 PSB018	a me non piace quello
 PSB005	anche in italia è abbastanza simile
 PSB018	per
-PSB018	sì anche quello è eh una tradicija eh s~
-PSB018	per fare tutto ma- eh hand made come a mano
+PSB018	sì anche quello è eh una #tradicija eh s~
+PSB018	per fare tutto ma- eh #hand #made come a mano
 PSB005	sì sì a mano sì
 PSB018	per avere eh il cibo domestico sì
 PSB005	sì
@@ -1391,7 +1392,7 @@ PSB018	mhmh
 PSB005	e non so se magari ci sono delle cose simili perché è al confine ho mangiato soprattutto un tipo di
 PSB018	sì ci sono ci sono
 PSB005	delle specie di ravioli
-PSB018	pirožki ((ride))
+PSB018	#_ pirožki ((ride))
 PSB005	sì esatto sì sono buoni mi piacciono molto
 PSB018	mh sì
 PSB018	e
@@ -1400,9 +1401,9 @@ PSB018	i tipi come noi parliamo bolognese o eh l'altra città a~ a~ allora non m
 PSB005	vici~ che sta vicino mo~ è modena sì
 PSB018	vicino sì modena mod~ modena eh lo stesso cibo è è è possibile preparare in modi un po' diversi
 PSB005	mhmh
-PSB018	anche questi pirožki è la forma
+PSB018	anche questi #pirožki è la forma
 PSB005	mhmh
-PSB018	eh la pasta ehm filling
+PSB018	eh la pasta ehm #filling
 PSB005	sì ripieno sì
 PSB018	ripieno
 PSB018	tutto è simile
@@ -1416,7 +1417,7 @@ PSB018	eh ma è un grande tipo come pasta per italiani di i tipi diversi con la 
 PSB005	mhmh sì
 PSB005	mhmh
 PSB018	come preparare allora
-PSB018	forse no g~ grande così ma come un immagino per te è quello con pirožki
+PSB018	forse no g~ grande così ma come un immagino per te è quello con #pirožki
 PSB005	mhmh
 PSB005	sì sì
 PSB018	è uh piccoli
@@ -1441,7 +1442,7 @@ PSB005	sì sì sì ho capito sì
 PSB018	ed
 PSB005	maionese certo sì sì no però a a me piace anche piace anche l'insalata russa
 PSB018	maiali~ maionese basta
-PSB018	l'unica cosa eh in bologna e in itali~ in italia a me non piace at all era insalata russa come e questo no
+PSB018	l'unica cosa eh in bologna e in itali~ in italia a me non piace #at #all era insalata russa come e questo no
 PSB005	ma perché noi qui la facciamo diversa sì sì
 PSB018	diversa e molto semplice l'ingredie~ no allora no è qua~ eh
 PSB018	tutti italiani chi ha prova~ hanno provato
@@ -1518,19 +1519,19 @@ PSB005	mhmh
 PSB018	e anche questo sì le tradizie è diverse il mondo è diverso per noi ma è an~ è un buon mh esperien~
 PSB018	te
 PSB005	mhmh sì
-PSB018	experience
+PSB018	#_ experience
 PSB005	esperienza
 PSB018	esperienza una buo~ bella esperienza per
 PSB018	capire conoscere come altre persone vivere che chi ehm
 PSB018	chi mh mh
-PSB018	cose buone loro hanno per la sua vita come un values
+PSB018	cose buone loro hanno per la sua vita come un #values
 PSB005	mhmh sì valore un valore sì sì okay è chiaro sì sì sì sì
 PSB018	valore
-PSB018	e anche questo eh può eh develop
+PSB018	e anche questo eh può eh #develop
 PSB005	mhmh
-PSB018	devel~ eh
+PSB018	#_ devel~ eh
 PSB005	ah sviluppare
-PSB018	sviluppare la la il nostro inner world
+PSB018	sviluppare la la il nostro #inner #world
 PSB005	mhmh
 PSB005	e è è molto
 PSB005	sei molto brava secondo me sì va bene adesso ti lascio ti lascio andare eh ti lascio andare sp~ spegniamo qeusto

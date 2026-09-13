@@ -150,9 +150,9 @@ PSB056	sì
 PSB056	eh femmina nato duemiladue
 PSB056	eh lei adesso un anno che padova
 PSB005	mhmh
-PSB056	eh studiano biomedicina english medium
+PSB056	eh studiano biomedicina #english #medium
 PSB005	ah wow okay
-PSB056	e lei x piace english medium bologna no allora ha dovuto andare padova
+PSB056	e lei x piace #english #medium bologna no allora ha dovuto andare padova
 PSB005	non c'è
 PSB005	a pa~
 PSB005	e vive là
@@ -395,11 +395,11 @@ PSB005	mhmh è molto diverso
 PSB056	sì o o no se~ sempre
 PSB056	senti io capisco
 PSB005	mhmh
-PSB056	hindi come xxx
-PSB056	eh lingua indiano hindi
-PSB056	urdu capisco poco poco no non riesce fu~
+PSB056	#hindi come xxx
+PSB056	eh lingua indiano #hindi
+PSB056	#urdu capisco poco poco no non riesce fu~
 PSB005	mhmh
-PSB056	fluently parlare molti aspetti sfuggente capito
+PSB056	#fluently parlare molti aspetti sfuggente capito
 PSB005	certo sì
 PSB005	mhmh
 PSB005	mhmh
@@ -409,7 +409,7 @@ PSB056	no solo eh bengalesi inglesi ufficio inglese capito
 PSB005	solo bengalese
 PSB005	okay okay
 PSB005	okay
-PSB056	perché colonie di british eh
+PSB056	perché colonie di #british eh
 PSB005	certo
 PSB056	inglesi quindi
 PSB005	mhmh
@@ -593,7 +593,7 @@ PSB005	c'era
 PSB056	sì
 PSB056	sì un po' particolare capito
 PSB056	invece italia no ade~ ehm ehm ehm
-PSB056	presente londra east london tutti stranieri
+PSB056	presente londra #east #london tutti stranieri
 PSB056	capito no sono
 PSB056	diciamo de~ bianchi tutti fuori
 PSB005	sì
@@ -604,9 +604,9 @@ PSB005	mhmh
 PSB056	casa popolare mh
 PSB005	sì sì certo sì sì
 PSB056	e invece londra
-PSB056	io mai l'ha visto vicino casa uno eh eh englishman capito tutti
+PSB056	io mai l'ha visto vicino casa uno eh eh #englishman capito tutti
 PSB005	mai
-PSB056	stranieri quello la east london
+PSB056	stranieri quello la #east #london
 PSB005	ma sei stato tanto a londra
 PSB056	no no io due volte andato
 PSB056	e fatto domanda pr~ eh prima di brexit capito fare il documento però
@@ -647,7 +647,7 @@ PSB005	certo sì e con altri del bangladesh di bologna siete amici avete un grup
 PSB056	mh
 PSB056	sì sì eh amici come
 PSB056	amici
-PSB056	insieme quando non è portato famiglia dormiva tutti bachelor capi~ quella
+PSB056	insieme quando non è portato famiglia dormiva tutti #bachelor capi~ quella
 PSB056	non è sposato eh tutti era
 PSB005	certo sì
 PSB005	e secondo te ci sono dei problemi a bologna
@@ -808,7 +808,7 @@ PSB056	fuori
 PSB005	sì sì
 PSB056	medico non è uscito copri~ scoprire
 PSB056	poi quando venuto punto punto fuori
-PSB056	quando è analysis fatto
+PSB056	quando è #analysis fatto
 PSB056	ormai
 PSB056	questo largano largato come tutti
 PSB056	coperto con quella brutta malattia interna
@@ -938,7 +938,7 @@ PSB056	è molto molto
 PSB005	mhmh
 PSB056	guarda prima era trenta bangladesh induista diciamo quando
 PSB005	mhmh
-PSB056	no india in continental era trentasette percento
+PSB056	no india in #continental era trentasette percento
 PSB056	adesso rimasto
 PSB056	sei percento capito capito
 PSB005	sono scappati
@@ -1119,15 +1119,15 @@ PSB056	mio fratello
 PSB056	bangladesh vive no bangladesh suo figlia
 PSB056	uno maschio uno femmina femmina
 PSB005	mhmh
-PSB056	agriculture engineer capito agricoltura
+PSB056	#agriculture #engineer capito agricoltura
 PSB005	eh wow
 PSB056	e lei
 PSB056	studiava
-PSB056	e scriveva international journal eh research
+PSB056	e scriveva #international #journal eh #research
 PSB005	okay wow sì sì
-PSB056	research capito ricercatore
+PSB056	#research capito ricercatore
 PSB005	sì sì sì come me
-PSB056	research capi~
+PSB056	#research capi~
 PSB056	eh ricercatore
 PSB005	sì
 PSB056	e lei
@@ -1137,18 +1137,18 @@ PSB056	florida
 PSB005	mhmh
 PSB056	canada
 PSB005	mhmh
-PSB056	belgium
-PSB056	eh sweden
+PSB056	#_ belgium
+PSB056	#_ eh sweden
 PSB056	anche italia bologna anche padova
 PSB005	mhmh
 PSB056	padova mandato email ge~ non c'era posto ancora perché non c'è
 PSB056	tutti eh prenotato padova fatto dove andato mio figlio
 PSB005	sì sì
 PSB056	perché lei vuole studia
-PSB056	eh con borsa capito full study
-PSB056	xx
+PSB056	eh con borsa capito #full #study
+PSB056	#_ xx
 PSB005	mhmh
-PSB056	allora mandato lettere sweden
+PSB056	allora mandato lettere #sweden
 PSB056	entro in settimana lei accettato
 PSB056	accettato
 PSB005	wow
@@ -1160,7 +1160,7 @@ PSB005	sì sì
 PSB005	sì sì
 PSB056	poi già fatto ai
 PSB056	ai con occhio
-PSB056	fingerprint tutti
+PSB056	#fingerprint tutti
 PSB005	sì sì sì
 PSB056	eh già promosso lei
 PSB056	e
@@ -1180,8 +1180,8 @@ PSB056	venti agosto volo prenotato dubai alla emirate
 PSB005	sì
 PSB005	okay
 PSB005	mhmh
-PSB056	e vanno stockholm
-PSB056	sweden
+PSB056	e vanno #stockholm
+PSB056	#_ sweden
 PSB005	mhmh
 PSB005	sì sì sì
 PSB056	e due settembre dieci giorni prima cordinari
@@ -1196,10 +1196,10 @@ PSB056	eh lei dieci giorni prima inizia lezione due
 PSB056	settembre
 PSB005	wow
 PSB056	due settembre
-PSB056	eh lei in exam fatto bangladesh però altra volta exam sweden xx
+PSB056	eh lei in #exam fatto bangladesh però altra volta #exam #sweden xx
 PSB056	poi
-PSB056	pi eich di
-PSB056	philosophy doctorate fanno belgium
+PSB056	#_ pi eich di
+PSB056	#philosophy #doctorate fanno #belgium
 PSB005	sì sì sì
 PSB056	dopo due anni
 PSB005	mhmh
@@ -1218,7 +1218,7 @@ PSB005	mhmh
 PSB056	eh non è problema non è spe~ ryanair poco costa capito cioè quindi
 PSB005	sì sì certo
 PSB056	non c'è problema
-PSB056	poi se tu vuoi fare anche ancora pi eich di
+PSB056	poi se tu vuoi fare anche ancora #pi #eich #di
 PSB056	tu fai domanda florida
 PSB005	mhmh
 PSB056	florida
@@ -1226,12 +1226,12 @@ PSB005	certo sì sì
 PSB056	eh spiegato così può essere sbaglio lei
 PSB056	eh scrittore
 PSB056	eh che riesci
-PSB056	international giornale
+PSB056	#international giornale
 PSB056	uscito suo scrittura capi~
 PSB005	eh certo
 PSB056	dieci gio~
 PSB005	bravissima
-PSB056	queste approved
+PSB056	queste #approved
 PSB056	presentato a xxx anche università
 PSB005	mhmh
 PSB056	capito loro accettato

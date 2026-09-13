@@ -1,5 +1,5 @@
-PSB118	amo questo nuovo sweater
-PSB118	questo dress
+PSB118	amo questo nuovo #sweater
+PSB118	questo #dress
 PSB095	ques~
 PSB095	questo
 PSB095	xxata ah cos'è
@@ -118,7 +118,7 @@ PSB118	sei euro ti prendi un caffè
 PSB095	madonna
 PSB095	ma quanto costa lì
 PSB095	fare tutto cioè è molto più
-PSB095	pricy
+PSB095	#_ pricy
 PSB118	boh cioè
 PSB118	costa un po' di più
 PSB118	cioè non costa così tanto di meno secondo me
@@ -180,7 +180,7 @@ PSB118	e sono questi fiocchi
 PSB118	fatti da una treccia di capelli
 PSB118	con in mezzo una perla
 PSB118	quindi lui l'ultima volta che l'ho sentito parlare faceva questo
-PSB118	faceva questi hairclip
+PSB118	faceva questi #hairclip
 PSB118	erano tipo appunto
 PSB118	dei fiocchi fatti con una tre~ con una xxx
 PSB118	e
@@ -205,7 +205,7 @@ PSB095	bello
 PSB118	quasi sempre sta a casa a volte deve scendere a milano
 PSB118	per andare a lavoro
 PSB118	però quello che fa essenzialmente sono ricerche non è che deve lavorare sempre non è che sta in chiamata a volte non xx lavori da fare ma
-PSB118	molto chill
+PSB118	molto #chill
 PSB095	ma in che in cosa lavora
 PSB118	lavora da
 PSB118	non mi ricordo il nome del brand
@@ -216,7 +216,7 @@ PSB095	in che senso smart working per un'azienda di fashion
 PSB118	no dai cioè xxxxxx
 PSB118	le dicono tipo
 PSB118	ehm
-PSB118	devi fare una ricerca su questo argomento fai un moodboard tipo
+PSB118	devi fare una ricerca su questo argomento fai un #moodboard tipo
 PSB095	ah bello
 PSB118	perché lei è proprio ufficio stile
 PSB118	e
@@ -236,7 +236,7 @@ PSB095	sì sì sì sì
 PSB118	quest'anno scolastico
 PSB095	oh mio dio
 PSB095	è volato via a te
-PSB118	soon to be graduated
+PSB118	#_ soon to be graduated
 PSB118	mamma mia che paura
 PSB118	no io xxx
 PSB118	cose che non voglio fare
@@ -326,14 +326,14 @@ PSB095	cioè perché dà effettivamente una buona
 PSB118	no no quello assolutamente
 PSB118	boh
 PSB095	poi
-PSB095	xxx shocking
+PSB095	xxx #shocking
 PSB095	ehm
 PSB095	no l'ultima l'ultima giornata di formazione
 PSB095	non c'ho capito molto
 PSB118	ah ah
 PSB095	però tipo hanno spiegato
 PSB095	cioè la parola tipo
-PSB095	un una lezione di legge e e robe di diritto tipo okay cool
+PSB095	un una lezione di legge e e robe di diritto tipo okay #cool
 PSB095	non sapevo niente di tutto ciò però è bene
 PSB118	no io personalmente
 PSB118	quella è proprio la l'ultima delle ultime di spiagge
@@ -341,7 +341,7 @@ PSB118	cioè vado a lavorare in aereoporto anche perché poi allora per quanto i
 PSB118	sarebbe tipo il mio fallimento più grande
 PSB118	per quanto questo sia la verità
 PSB118	vabbè fallimento più grande adesso non esageriamo
-PSB095	oh mio dio questo shame a tua sorell~
+PSB095	oh mio dio questo #shame a tua sorell~
 PSB118	no no no no no no no no non per quello
 PSB095	lo sa che lo di~
 PSB118	no lei lo sa perfettamente lo sa perfettamente che per me è tipo xx ma perché significherebbe che mia sorella mi raccomanderebbe che x lei
@@ -350,16 +350,16 @@ PSB095	ah okay sì
 PSB118	cioè è per quello che ti dico e cioè non centra nulla con quello che voglio fare nella vita
 PSB095	sì sì sì sì
 PSB118	detto questo vabbè però que~
-PSB095	un po' alla host
+PSB095	un po' alla #host
 PSB118	infatti stavo per dire
 PSB118	che ora devo dire che
 PSB118	al check-in
 PSB118	io
-PSB118	your passport
+PSB118	#_ your passport
 PSB095	lo fa
-PSB118	((ride)) of course your passport
+PSB118	#_ ((ride)) of course your passport
 PSB118	quello
-PSB118	quello vibe
+PSB118	quello #vibe
 PSB118	no vabbè ora fallimento nel senso che
 PSB118	se dovessi finire di lavorare
 PSB118	per sempre cioè se io prossimo anno
@@ -373,7 +373,7 @@ PSB118	non so non trovo lavoro perciò devo per forza
 PSB118	ehm ripiegarmi su l'aeroporto di mia sorella
 PSB118	intendo no no
 PSB095	no no
-PSB118	right quello fallimento
+PSB118	#right quello fallimento
 PSB095	no quello sì
 PSB095	è comunque un ottimo piano bi
 PSB095	piano
@@ -387,14 +387,14 @@ PSB118	no no infatti cioè per carità sicuramente non morirei di fame
 PSB095	mh
 PSB118	cioè
 PSB118	infatti non è una brutta opzione
-PSB118	infatti sono in una posizione molto grateful
+PSB118	infatti sono in una posizione molto #grateful
 PSB118	ehm è che comunque ho
 PSB118	mi sento che comunque
 PSB118	no non ho ancora per adesso nella mia vita l'opzione morire di fame
 PSB118	oh a volte io ci penso tipo
 PSB118	l'opzione muoio di fame è seria
 PSB118	cioè
-PSB095	è molto real
+PSB095	è molto #real
 PSB118	però grazie a dio sono abbastanza fortunato nella mia vita di non avere questa tipo di opzione
 PSB095	ma infatti
 PSB118	perché il piano zeta in realtà non è lavorare in areoporto il piano zeta è tornarsene in bangladesh
@@ -443,14 +443,14 @@ PSB118	perché anche io dopo il liceo ho detto
 PSB095	cioè l'ipad ci sta
 PSB095	non è la stessa cosa
 PSB095	poi de~ mh devo assolutamente comprare una tastiera
-PSB095	perché mi sento cringe a non saper typare
+PSB095	perché mi sento #cringe a non saper typare
 PSB118	allora la tastiera io ce l'ho una tastiera non so manco usarla
 PSB095	ah bella
 PSB118	non serve mh comprarla sì
 PSB118	ma che poi
 PSB118	allora io sono ancora dell'idea
 PSB118	almeno cioè no aspetta nella mia università
-PSB118	perché a volte tipo con esce fuori questo topic
+PSB118	perché a volte tipo con esce fuori questo #topic
 PSB118	io sono ancora dell'idea che
 PSB118	un ipad i~ nella mia università
 PSB118	può sostituire un computer un computer non può sostituire un ipad
@@ -474,7 +474,7 @@ PSB118	è un
 PSB118	è un macbook air
 PSB095	ua
 PSB118	no sì sicuramente un mac no io prendo in considerazione solo apple
-PSB118	io apple header through and through
+PSB118	io apple #header #through #and #through
 PSB095	oh okay
 PSB118	ehm è un macbook air duemila
 PSB118	ventuno
@@ -491,8 +491,8 @@ PSB118	vorrebbe fare un upgrade uno proprio bo
 PSB118	bello bello tosto
 PSB095	mhmh
 PSB118	perciò voleva vendere il suo infatti mi ha chiesto più volte se lo volevo comprare io
-PSB118	io le ho detto hold on a second let me think about that
-PSB095	hold on
+PSB118	io le ho detto #hold #on #a #second #let #me #think #about #that
+PSB095	#_ hold on
 PSB118	e
 PSB118	però non lo so in realtà mia sorella sta insomma a pushare questa cosa che vorrebbe prendermi lei il computer
 PSB118	a una certa
@@ -529,9 +529,9 @@ PSB118	s~ solo perché poi da maggio giugno dovrò appunto lavorare
 PSB118	all'impaginazione del progetto finale e al portfolio e alla la tesi
 PSB095	oddio la tesi
 PSB118	io fare la tesi con l'ipad
-PSB095	no cringe no lì
+PSB095	no #cringe no lì
 PSB118	no cioè quello è proprio da spararsi
-PSB095	cioè no cringe poi
+PSB095	cioè no #cringe poi
 PSB118	cioè non so come farla con proxx
 PSB095	no sì non ci sono i mezzi cioè
 PSB118	xx a quel punto per quando dovrò fare la tesi penso sarò gia a casa
@@ -541,10 +541,10 @@ PSB118	però cazzo quando ho capito xx il gran sbatto
 PSB118	cioè purtroppo
 PSB095	la tastiera
 PSB095	no
-PSB118	no è un po' più il li~ l'ambienten ecco l' environment t d l
+PSB118	no è un po' più il li~ l'ambienten ecco l' #environment t d l
 PSB095	no c'è tipo una mia
 PSB095	una mia collega che
-PSB095	però cringe veramente perché tipo lei
+PSB095	però #cringe veramente perché tipo lei
 PSB095	e lei anche lei è abituata a usare il mac e robe
 PSB095	infatti a lavoro che usiamo windows eh e cose del genere
 PSB118	sì
@@ -555,7 +555,7 @@ PSB095	cioè ci vuo~
 PSB095	è lì il pulsante cliccalo cioè
 PSB118	xxx il computer quello lì cioè anche io ci riesco
 PSB095	eh no infatti cioè più che altro
-PSB095	okay brainwashed ma non a questo punto cioè
+PSB095	okay #brainwashed ma non a questo punto cioè
 PSB118	io la cosa che amo sicuramente è che a prescindere non so utilizzare né un mac né un
 PSB118	computer normale
 PSB118	perché effetivamente non utilizzo un computer da
@@ -578,7 +578,7 @@ PSB095	bello
 PSB095	beh sì
 PSB095	poi me
 PSB095	sì no
-PSB095	no mega cringe
+PSB095	no mega #cringe
 PSB095	che
 PSB095	mi sa che te l'avevo anche detto
 PSB095	dovevamo fare tipo
@@ -587,9 +587,9 @@ PSB095	e la mia collega
 PSB095	me l'aveva passato a me perché era tipo vabbè sei tu quella che
 PSB095	sei stata più tempo così no
 PSB118	ah sì me l'hai detto
-PSB095	e io stavo usando il mousepad un po' come una boomer e lei tipo sai che puoi fare ci tri elle e io tipo sì che lo so però cioè dammi un seco-
-PSB118	i'm just a bro
-PSB095	i'm just a girl
+PSB095	e io stavo usando il mousepad un po' come una #boomer e lei tipo sai che puoi fare ci tri elle e io tipo sì che lo so però cioè dammi un seco-
+PSB118	#_ i'm just a bro
+PSB095	#_ i'm just a girl
 PSB095	e lui sì
 PSB095	vabbè
 PSB118	ventitré
@@ -626,7 +626,7 @@ PSB118	quello sì assolutamente
 PSB118	altrimenti
 PSB095	a semplicemente anche perché è più manuale più più mh
 PSB095	più veloce come un compu~ come un computer cioè l'ipad magari può fare le stesse cose però
-PSB095	è più ci sono altre alternative all'ipad cioè
+PSB095	è più ci sono altre alternative all' ipad cioè
 PSB095	devi trovarle
 PSB095	è quello
 PSB095	x
@@ -647,7 +647,7 @@ PSB095	comprai una scrivania portatile
 PSB118	se
 PSB118	mamma mia cioè ma puoi guardare il lo schermo e guardare la tua mano
 PSB095	ma infatti
-PSB095	cringe ehm
+PSB095	#_ cringe ehm
 PSB095	al concerto
 PSB095	che mi mi si era seduta una sorella di qualcuno
 PSB095	e aveva iniziato a lavorare col computer e a~ ha tirato fuori il mouse e poi ha xxxxx tipo
@@ -661,27 +661,27 @@ PSB095	vabbè
 PSB095	okay
 PSB095	eh era stra carina mi aveva offerto delle patatine oh
 PSB118	oh
-PSB118	would you like some chips
+PSB118	#_ would you like some chips
 PSB095	esa~
-PSB118	some chips
-PSB095	you want some chips
-PSB095	oh thank you ((ride))
+PSB118	#_ some chips
+PSB095	#_ you want some chips
+PSB095	#_ oh thank you ((ride))
 PSB118	oddio
-PSB095	why you so sweet
-PSB095	oh are you american
+PSB095	#_ why you so sweet
+PSB095	#_ oh are you american
 PSB118	a che
 PSB095	mi aveva chiesto tipo sei americana
 PSB095	e io tipo no
-PSB118	yes
+PSB118	#_ yes
 PSB095	perché il mio accento sembra americano
-PSB118	are you an american
-PSB118	smartbox
+PSB118	#_ are you an american
+PSB118	#_ smartbox
 PSB095	x
 PSB095	e io tipo
 PSB095	ho dro-
 PSB095	le ho detto no sono italiana
 PSB095	mi ha guardato malissimo tipo
-PSB118	un commento più wild no non più wild però tipo uno x erano i primi giorni ad anversa che ero andato in un festival musicale
+PSB118	un commento più #wild no non più #wild però tipo uno x erano i primi giorni ad anversa che ero andato in un festival musicale
 PSB118	e c'era tipo
 PSB118	e questo tipo ha detto sei italiano
 PSB118	non sei un po' scuro per essere italiano
@@ -699,7 +699,7 @@ PSB118	poi a una certa gli faccio vabbè io comunque sono un x
 PSB118	no no grazie mille lo capisco
 PSB095	okay a tutto
 PSB118	la diversità si ferma in xx
-PSB118	no poi è real che molte persone del sud sembrano
+PSB118	no poi è #real che molte persone del sud sembrano
 PSB095	no no sì infatti infatti cioè
 PSB118	sacrosanto
 PSB095	sono la prima a dire queste cose perché tipo
@@ -709,7 +709,7 @@ PSB095	c'è un un range
 PSB095	tra il bianco e il nero
 PSB118	sì no è vero è vero per carità
 PSB095	però comunque c'è xxxxxx a parte che glielo avevo spiegato
-PSB118	proud to be xxxx
+PSB118	#_ proud to be xxxx
 PSB095	no anche perché tipo lei in realtà
 PSB095	cioè era di quel posto però tipo anche lei penso fosse di origini
 PSB095	pakistane indiane
@@ -759,7 +759,7 @@ PSB118	però tipo xxxxxxxx gli occhi a mandorla
 PSB118	questa xxx è una grande parte quella in bangladesh
 PSB095	xx mia madre non mi ha detto nulla
 PSB095	forse ha fatto
-PSB118	damn she okay
+PSB118	#_ damn she okay
 PSB095	no vabbè
 PSB095	non non avrebbe potuto perché mi ha fatto qui
 PSB095	ah no sì avrebbe potuto

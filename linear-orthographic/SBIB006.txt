@@ -280,8 +280,8 @@ PSB049	lui eh
 PSB049	lui si chiama
 PSB050	xx
 PSB049	perché abbiamo fatto una
-PSB049	ho mandato mio zio per fare di una come si chiama abbiamo per mettere banner come si chiama quello che mettere di qua
-PSB050	ah sì banner il
+PSB049	ho mandato mio zio per fare di una come si chiama abbiamo per mettere #banner come si chiama quello che mettere di qua
+PSB050	ah sì #banner il
 PSB050	lo striscione
 PSB049	queste fatte così stamp~ fatte stampare vicino eh
 PSB049	strada maggiore c'è una come si chiama per stampare x
@@ -330,7 +330,7 @@ PSB050	ah l'avete l'avete messo voi
 PSB049	sì sì
 PSB049	su facebook anche quello abbiamo messo
 PSB049	qua c'è scritto quello che data stiamo facendo dove eh quello che abbiamo scritto qua questo xxx quello per xxx
-PSB049	quello che ti ho fatto vedere è questo è la banner solo per mettere al muro che il giorno di otto quando facciamo noi
+PSB049	quello che ti ho fatto vedere è questo è la #banner solo per mettere al muro che il giorno di otto quando facciamo noi
 PSB049	questo per mettere solo di là
 PSB049	perché dentro moschea non posso mettere con foto di qualcuno
 PSB049	per così
@@ -435,9 +435,9 @@ PSB049	sì questo x festa perché eh perché se tu sei tanti però non conosci n
 PSB049	un exemplo tu sitta di noacali
 PSB049	però tu non mi conosci che anche io sono sitta di noacali per così un esempio io ti chiamato questo giorno abbiamo questa festa venga io chiamato un altro lui chiamato per così abbiamo organizzato questo festa
 PSB050	ah
-PSB050	che grande insomma quindi sei un party planner
+PSB050	che grande insomma quindi sei un #party #planner
 PSB049	eh
-PSB050	sei un party planner
+PSB050	sei un #party #planner
 PSB049	xxxx
 PSB050	quindi non c'entra niente col partito
 PSB049	no questo non per l'altra mia attività xx x due questo una comunità come organizzato per noi solo di sitta
@@ -522,9 +522,9 @@ PSB049	se vede quello foto che sono qua eh
 PSB050	ah
 PSB050	è pericoloso
 PSB049	sì pericoloso per così non messo
-PSB049	solo messo che quello che sono andato eh museum di bi em vu
+PSB049	solo messo che quello che sono andato eh #museum di bi em vu
 PSB050	come
-PSB049	eh museum di bi em vu bi em doble u
+PSB049	eh #museum di bi em vu bi em #doble #u
 PSB050	ah il mu~ ah sì
 PSB049	e eh andato anche lì quindi ho messo
 PSB050	certo
@@ -781,7 +781,7 @@ PSB049	così
 PSB050	e
 PSB050	però non tutti i bengalesi che sono a bologna
 PSB050	sono musulmani
-PSB049	no c'è anche hindu
+PSB049	no c'è anche #hindu
 PSB050	okay sì sì
 PSB050	e loro dove vanno
 PSB049	loro eh vanno quello che loro vanno a pregare eh loro non hanno di eh come
@@ -795,11 +795,11 @@ PSB049	festa di eh cosa
 PSB050	tipo le feste nazionali
 PSB049	sì sì le feste nazionale sì
 PSB050	cioè siete tutti insieme
-PSB049	però in bangladesh eh per religione per hindu musulmana questi cose non abbiamo niente di
+PSB049	però in bangladesh eh per religione per #hindu musulmana questi cose non abbiamo niente di
 PSB049	eh casino non abbiamo perché in bangladesh siamo amici
-PSB049	per anche mio un amico hindu
+PSB049	per anche mio un amico #hindu
 PSB049	che studia xx
-PSB049	e lui hindu però l'hindu non manda mangia carne di mucca
+PSB049	e lui #hindu però l'#hindu non manda mangia carne di mucca
 PSB049	eh non mangia
 PSB049	quindi eh
 PSB049	un exempio oggi andato in a casa di un amico

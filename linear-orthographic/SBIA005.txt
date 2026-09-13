@@ -431,7 +431,7 @@ PSB005	mhmh
 PSB027	se al marocco o in italia
 PSB027	devo trattare le altre persone anche se non sono musilmane devo trattarle per bene
 PSB005	mhmh
-PSB027	perché il nostro libro qur'ān
+PSB027	perché il nostro libro #qur'ān
 PSB027	ha parlato di queste cose qua
 PSB027	non c'è differenza da uno
 PSB005	mh
@@ -1126,7 +1126,7 @@ PSB027	casablanca wydad
 PSB005	mhmh
 PSB027	casablanca
 PSB027	e poi ultimamente prima c'era una squadra che si chiama far
-PSB027	in arabo ǧayš al-malakī
+PSB027	in arabo #ǧayš #al-malakī
 PSB027	e c'era un'altra mi sa berkane
 PSB027	adesso le ultime diciamo famose
 PSB005	okay ma e

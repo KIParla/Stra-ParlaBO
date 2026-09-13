@@ -86,23 +86,23 @@ PSB107	e da questo punto di vista ovviamente trump ci spaventa alla grande perch
 PSB106	ma mh
 PSB106	tra virgolette perché tanto uno spara le cazzate
 PSB107	chi è arrivato
-PSB107	hey kyziunia entra dai
+PSB107	hey #kyziunia entra dai
 PSB106	eh però non entra
 PSB107	mh tesoro
 PSB107	dai vieni vieni dai
-PSB107	kisia
+PSB107	#_ kisia
 PSB107	chiamala
 PSB106	bella vieni
-PSB107	vieni kyziunia dai vieni a mangiare
+PSB107	vieni #kyziunia dai vieni a mangiare
 PSB106	bella
 PSB107	vieni vieni vieni bella vieni
-PSB107	kyziunia allora ci prova
+PSB107	#kyziunia allora ci prova
 PSB106	vabbè ma lei ha dormito sempre qua o da voi ha dormito
 PSB107	no qua
 PSB106	perché il gatto dormiva da voi
 PSB107	no no non c'era nessuno non è venuto nessuno a dormire da noi
 PSB106	hanno deciso hanno deciso ehm
-PSB107	vieni kyziunia vieni malenko
+PSB107	vieni #kyziunia vieni #malenko
 PSB106	ma luca dove era andato ieri a fare le
 PSB107	no è andato con matteo
 PSB106	calcio
@@ -117,7 +117,7 @@ PSB107	xxx è spaventato
 PSB106	eh mi è venuta la tosse che devo fare
 PSB107	non tossire
 PSB106	e non tossire devi morire per non spaventare la gatta
-PSB107	mangia bella mangia kyziunia
+PSB107	mangia bella mangia #kyziunia
 PSB106	giusto eh certo
 PSB107	eh certo
 PSB107	tua sorellina
@@ -348,7 +348,7 @@ PSB107	mhmh
 PSB106	tipo il drone vola con questa mitraglietta leggera che spara già direttamente dal drone
 PSB107	sì ho già sentito queste che fanno così
 PSB106	ma poi la cosa che mi è piaciuta che loro avevano fatto loro proprio l'azienda di ivan aveva fatto questo programma per eh i
-PSB106	sia i portatili sia ehm come si chiamano planshet come si chiamano
+PSB106	sia i portatili sia ehm come si chiamano #planshet come si chiamano
 PSB107	palmabile pal~ pal~ pal~
 PSB106	palmabile spalmabile
 PSB107	palmare non lo so come si chiama

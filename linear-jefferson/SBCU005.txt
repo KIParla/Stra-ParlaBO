@@ -90,7 +90,7 @@ PSB107	hey [#kyziunia] entra (.) da:i
 PSB106	[eh però non entra]
 PSB107	m:h tesoro
 PSB107	((ride)) dai (.) vieni vieni dai
-PSB107	kisia
+PSB107	#_ kisia
 PSB107	chiamala
 PSB106	bella: (.) vieni
 PSB107	vieni #kyziunia [dai] (.) vieni a mangiare

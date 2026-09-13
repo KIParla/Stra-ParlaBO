@@ -47,7 +47,7 @@ PSB086	ah pensavo che vuoi
 PSB091	io ho preso gli strofinacci quindi
 PSB130	io adesso entro in modalità professione professionista te lo dico
 PSB036	sono sono xxxx praticamente
-PSB128	davaj vkazivky
+PSB128	#_ davaj vkazivky
 PSB036	no problem
 PSB128	xxxx
 PSB091	voi
@@ -179,19 +179,19 @@ PSB129	no facciamo
 PSB036	tanto eh non ci andrà nient'altro oltre che l'umido
 PSB005	sì infatti
 PSB005	grazie mille questo lo tiriamo su così
-PSB091	èto s ložkoj eš'
-PSB091	tomu ščo zaraz zalipyt'sja meni
+PSB091	#_ èto s ložkoj eš'
+PSB091	#_ tomu ščo zaraz zalipyt'sja meni
 PSB005	volevo solo metterlo contro
-PSB128	ladno
+PSB128	#_ ladno
 PSB005	sì grazie eh
-PSB128	nel'zja
+PSB128	#_ nel'zja
 PSB005	il gel eventualmente è dentro la tasca esterna
 PSB036	x x x x
 PSB005	sì
 PSB036	non sto qua a mettere il gel ogni volta
-PSB128	kušat' prišla
-PSB128	_vody vody xxx
-PSB086	uže greetsja
+PSB128	#_ kušat' prišla
+PSB128	#_ _vody vody xxx
+PSB086	#_ uže greetsja
 PSB005	quindi è questo tutto l'impasto
 PSB129	okay farina uova e sale
 PSB005	ed erano due chili di farina
@@ -216,13 +216,13 @@ PSB086	oppure una merenda
 PSB086	xxx
 PSB130	giusto
 PSB129	anche da noi si fa così veramente
-PSB091	nado čutočku eščë
+PSB091	#_ nado čutočku eščë
 PSB129	soprattutto al sud da dove vengo io
 PSB091	dai un po' di olio
 PSB129	tutto a occhio
 PSB091	un po' di olio
 PSB130	ma voi questo li mangiate tipo
-PSB091	to ščo
+PSB091	#_ to ščo
 PSB130	sempre
 PSB130	o tipo come primo piatto
 PSB091	oddio ehm è un po' impegnativo quindi
@@ -231,9 +231,9 @@ PSB128	m~ misuriamo
 PSB091	no a occhio
 PSB005	sì non basta
 PSB005	se no vengono come le tagliatelle su~ super uovose
-PSB091	dyvysja ne roblju tak davaj
+PSB091	#_ dyvysja ne roblju tak davaj
 PSB130	quindi adesso ci insegna anche a chiuderli
-PSB091	eščë eščë eščë
+PSB091	#_ eščë eščë eščë
 PSB005	eh secondo me noi principalmente li chiuderemo
 PSB091	esatto
 PSB091	forse
@@ -242,11 +242,11 @@ PSB130	non so se apriranno fors~
 PSB091	vediamo
 PSB005	no no
 PSB129	no io mi diverto tantissimo a chiudere xxx
-PSB091	my často robymo taku posypku
+PSB091	#_ my často robymo taku posypku
 PSB086	avete perso un passaggio
 PSB005	l'olio abbiamo visto quanto olio
 PSB086	abbiamo fatto una voragine e xxx
-PSB128	@nadya
+PSB128	#_ @nadya
 PSB129	a occhio
 PSB086	olio
 PSB005	e poi ci avete messo dell'olio sì
@@ -284,7 +284,7 @@ PSB086	x x x x x eh cos'è con amarena
 PSB127	sì di più
 PSB130	quando
 PSB127	più grandi
-PSB086	zvyshneju
+PSB086	#_ zvyshneju
 PSB127	xxxx
 PSB091	si fanno s~ sia salati e anche dolci tipo con le amarene facciamo con semi di papavero facciamo con ricotta mettiamo un po' di
 PSB129	dolci
@@ -336,11 +336,11 @@ PSB086	ah sì
 PSB128	dal dal
 PSB130	sì soprattutto col salmone sempre aneto
 PSB091	vado io
-PSB091	chočeš na
-PSB091	ne pytaju
+PSB091	#_ chočeš na
+PSB091	#_ ne pytaju
 PSB128	xx
-PSB091	ščob ne skazaly ščo ja
-PSB128	ni bože borony
+PSB091	#_ ščob ne skazaly ščo ja
+PSB128	#_ ni bože borony
 PSB086	xx salmone
 PSB086	solo l'aneto
 PSB128	xx
@@ -350,17 +350,17 @@ PSB128	xxxx
 PSB130	basilico il prezzemolo
 PSB091	xxxx
 PSB129	sì origano
-PSB128	uspokojsja
+PSB128	#_ uspokojsja
 PSB129	da me giù tanto tanto origano
 PSB130	origano
 PSB091	xxxx
 PSB130	rosmarino quelle cose lì però l'aneto
-PSB128	xxx zaškvar xxx
+PSB128	#_ xxx zaškvar xxx
 PSB129	l'aneto xx
 PSB130	forse più erba cipollina
 PSB129	mh
 PSB130	mh
-PSB128	ja do vs'oho normal'no vidnošus'
+PSB128	#_ ja do vs'oho normal'no vidnošus'
 PSB091	xxx
 PSB128	xx
 PSB091	sì sì a posto
@@ -425,11 +425,11 @@ PSB091	anche noi lo faremo con mattarello
 PSB036	sì sì sì
 PSB130	cioè io non
 PSB091	brava
-PSB128	u mene vže holova syva
+PSB128	#_ u mene vže holova syva
 PSB091	eh cosa vuol dire sono tante persone
 PSB091	che sono grandi e non sanno
 PSB091	non sanno fare
-PSB128	ja vam rozkažu ja vam rozkažu odnu bajku
+PSB128	#_ ja vam rozkažu ja vam rozkažu odnu bajku
 PSB086	non sanno niente sì
 PSB086	perché fa la mamma perché fa marito
 PSB091	in italiano in italiano
@@ -485,7 +485,7 @@ PSB129	per fortuna o per sfortuna non lo so non ho mai avuto nonne a nessuna del
 PSB129	quindi
 PSB091	credo che è a posto
 PSB129	loro non erano molto cioè hanno sempre delegato molto in cucina
-PSB128	chočeš šče či ne treba tomu ščo nu bažano čut' čut' ščob vono vse
+PSB128	#_ chočeš šče či ne treba tomu ščo nu bažano čut' čut' ščob vono vse
 PSB005	okay ah no
 PSB036	bellino il mattarello blu
 PSB129	sì
@@ -529,9 +529,9 @@ PSB091	ti dico uno dice bisogna mettere a riposare cioè n~
 PSB091	non c'è il lievito non c'è da riposare niente
 PSB005	beh xx proprio
 PSB091	impasto povero
-PSB128	a jakščo ty robyla tisto tež bez ničoho
-PSB091	tezh bez nichoho
-PSB128	i vytjažnuju xx tež treba daty
+PSB128	#_ a jakščo ty robyla tisto tež bez ničoho
+PSB091	#_ tezh bez nichoho
+PSB128	#_ i vytjažnuju xx tež treba daty
 PSB036	ma sapete tutte impastare io non
 PSB005	non l'hai mai fatto
 PSB036	io da sì però sono un pessimo
@@ -590,8 +590,8 @@ PSB091	no
 PSB091	vabbè faccio io prima
 PSB005	ma abbiamo un mattarello
 PSB091	sì
-PSB127	dica xx si è al~ allenata ieri ha fatto boršč per marito
-PSB086	dica xx si è al~ allenata ieri ha fatto boršč per marito
+PSB127	dica xx si è al~ allenata ieri ha fatto #boršč per marito
+PSB086	dica xx si è al~ allenata ieri ha fatto #boršč per marito
 PSB086	sì tre ore di di di stare dietro dico
 PSB086	perché voglio tanto bene
 PSB091	mi dai un strofinaccio pulito lo copriamo il nostro impasto
@@ -651,12 +651,12 @@ PSB130	dev'essere tanto sottile
 PSB130	fine
 PSB036	l'ho sentita proprio
 PSB091	nostro amico sabato scorso ha fatto
-PSB127	jaki zahrubi majut' buty podyvys' bud' laska
-PSB091	majut' buty trošky hruben'ki ščob my mohly jich natjahuvaty
+PSB127	#_ jaki zahrubi majut' buty podyvys' bud' laska
+PSB091	#_ majut' buty trošky hruben'ki ščob my mohly jich natjahuvaty
 PSB127	super
-PSB091	otut trošečky
-PSB127	dokotaty dokotaty
-PSB127	zmoršky da
+PSB091	#_ otut trošečky
+PSB127	#_ dokotaty dokotaty
+PSB127	#_ zmoršky da
 PSB127	xx
 PSB005	ah quindi si tira voglio vederla lo spessore perché
 PSB005	è importante
@@ -719,7 +719,7 @@ PSB091	sopra
 PSB127	ah okay
 PSB129	questo qualcuno l'ha già pulito no
 PSB127	sì
-PSB127	nam malen'ki ložečky najty da
+PSB127	#_ nam malen'ki ložečky najty da
 PSB036	faccio io
 PSB091	xxxxx
 PSB130	nel ripieno cosa c'è
@@ -755,7 +755,7 @@ PSB005	allora adesso guardo
 PSB091	fai così
 PSB005	sì
 PSB091	così così
-PSB128	chtos' vykrojuje
+PSB128	#_ chtos' vykrojuje
 PSB005	okay
 PSB129	okay posso provare
 PSB091	sì
@@ -1023,13 +1023,13 @@ PSB129	ah
 PSB086	bile
 PSB128	felica f~ come si chiama
 PSB086	bile
-PSB086	žovčnyj
-PSB128	žovč
+PSB086	#_ žovčnyj
+PSB128	#_ žovč
 PSB091	milza
 PSB129	la milza
 PSB127	la milza
 PSB086	bile bile
-PSB128	žovčnyj
+PSB128	#_ žovčnyj
 PSB036	bile
 PSB129	ah la bile
 PSB128	bile
@@ -1547,14 +1547,14 @@ PSB086	sì sì sì poi si dimentica
 PSB005	è difficile adattarsi ai cambiamenti
 PSB129	qui forse mi serve un po' di più
 PSB086	no poi anche se gli menti
-PSB130	sì qua ne ho messo una balocca gigante
+PSB130	sì qua ne ho messo una #balocca gigante
 PSB005	sì
 PSB005	poi quando stavano meglio andavano anche in viaggi magari xxxx
-PSB129	una balocca
-PSB129	una balocca non l'avevo mai sentito
+PSB129	una #balocca
+PSB129	una #balocca non l'avevo mai sentito
 PSB005	cioè c'era più movimento da qual~
 PSB005	da dieci anni almeno sono sempre a casa
-PSB129	una balocca gigante
+PSB129	una #balocca gigante
 PSB005	perché non cioè
 PSB086	lui ottantacinque lei ottanta
 PSB129	ma tu sei proprio bolognese

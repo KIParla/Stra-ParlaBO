@@ -155,7 +155,7 @@ PSB033	oppure più cinesi
 PSB035	ehm noi tanto cinese qua
 PSB033	tanti cinesi
 PSB014	okay
-PSB035	anche noi clienti cè anche qualche boh molto buono aiutare qualcosa cè italiano anche
+PSB035	anche noi clienti cioè anche qualche boh molto buono aiutare qualcosa cioè italiano anche
 PSB033	uhm
 PSB035	ehm
 PSB014	è vero
@@ -188,16 +188,16 @@ PSB035	eh
 PSB014	conosce altre lingue
 PSB035	ehm no quasi niente
 PSB014	okay
-PSB035	noi paesano cè mio paese lingua sì
+PSB035	noi paesano cioè mio paese lingua sì
 PSB014	ah
 PSB035	anche di un altro lingua
 PSB014	il dialetto tipo
-PSB035	ah dialetto duì ah sì sì
+PSB035	ah dialetto #duì ah sì sì
 PSB014	ah
 PSB033	okay
 PSB033	di che città
 PSB035	vicina a wenzhou
-???	nǐ gēn . zài cǎi fǎng (.) yǒu rén zài cǎi fǎng tā (.) děng yī xià ò
+???	#_ nǐ gēn (.) zài cǎi fǎng (.) yǒu rén zài cǎi fǎng tā (.) děng yī xià ò
 PSB033	ah
 PSB035	vicino a
 PSB014	sud nord
@@ -251,7 +251,7 @@ PSB014	okay
 PSB014	eh difficile sì sì
 PSB033	no xx
 PSB014	quindi anche la televisione immagino
-PSB035	ah duì duì televisione sì eh che qua abbiam~
+PSB035	ah #duì #duì televisione sì eh che qua abbiam~
 PSB033	ah
 PSB014	in italiano
 PSB035	sì anche poco non tanto
@@ -366,10 +366,10 @@ PSB014	aha
 PSB014	ah
 PSB035	ehm
 PSB033	eh segue qualche sport qua a bologna
-PSB035	ehm shuō shá
+PSB035	#_ ehm shuō shá
 PSB014	calcio
 PSB035	ehm beh io no però
-PSB035	io io io non cè tempo perché
+PSB035	io io io non cioè tempo perché
 PSB014	no
 PSB014	ehm
 PSB033	ehm
@@ -391,13 +391,13 @@ PSB033	calcio
 PSB035	calcio poco forse però bambino piace
 PSB014	ah piace
 PSB033	okay
-PSB035	perché noi xx come noi età perché prima non cè quello calcio eh quello
+PSB035	perché noi xx come noi età perché prima non cioè quello calcio eh quello
 PSB035	quello sport grande per quello motivo
 PSB033	mhmh
 PSB035	adesso in cina perché il suo
 PSB035	sviluppato tanto politica ogni città
 PSB033	sì
-PSB035	cè grande quello sport quel~ quel calcio
+PSB035	cioè grande quello sport quel~ quel calcio
 PSB033	okay
 PSB033	sì sì sì
 PSB035	mhmh

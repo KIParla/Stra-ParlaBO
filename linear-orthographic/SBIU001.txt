@@ -716,7 +716,7 @@ PSB005	che che attività hai fatto che hai trovato lavoro c'erano delle opportun
 PSB005	qui
 PSB007	eh mh
 PSB007	attualmente io sono ricercatrice
-PSB007	quindi ho mh un contratto di visiting fellow presso università di
+PSB007	quindi ho mh un contratto di #visiting #fellow presso università di
 PSB005	mhmh
 PSB007	e mh adesso io faccio parte del progetto che si chiama
 PSB007	è dedicato alla numismatica bizantina
@@ -1367,19 +1367,19 @@ PSB005	ne volevo trovare una
 PSB005	molto divertente
 PSB005	e è stato quando ero in inghilterra avevo tipo diciasette diciotto anni così
 PSB005	ho passato un periodo di studi in inghilterra e volevo dire ascella
-PSB005	che si dice armpit
+PSB005	che si dice #armpit
 PSB007	mhmh
 PSB005	solo che pit vuol dire
 PSB005	tipo pozzo buco
 PSB007	mhmh
 PSB005	e quindi io
-PSB005	non mi ricordavo bene la parola e ho detto arm hole
+PSB005	non mi ricordavo bene la parola e ho detto #arm hole
 PSB005	che vuol dire buco no
 PSB005	però ero con una ragazza inglese british
 PSB005	perché frequentavo molto spesso stranieri però avevo anche qualche amica proprio di lì e
 PSB005	ha capito però è stato divertentissimo è stato molto divertente poi un'altra volta secondo me
-PSB005	al posto di dire branch
-PSB005	per gli alberi ho detto arms
+PSB005	al posto di dire #branch
+PSB005	per gli alberi ho detto #arms
 PSB005	proprio le braccia dell'albero
 PSB005	queste sono le due migliori che che che mi sono successe xx
 PSB007	eh ma vedi cioè quando tu sei eh tu sei straniera per te sono le le sono solo le parole quindi sì una questa significato un'altra con un altro consonante non so ha un altro s~ significale xx xx

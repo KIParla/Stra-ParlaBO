@@ -1,10 +1,10 @@
 PSB005	allora dimmi bologna è bellissima
-PSB026	prima sì prima italy se bellissimo
+PSB026	prima sì prima #italy se bellissimo
 PSB005	mhmh
-PSB026	anche se italy se bella anche se anche bologna
+PSB026	anche se #italy se bella anche se anche bologna
 PSB026	città anche se bellissimo anche bella anche italiano anche se molto gentili anche se bravi
 PSB005	mhmh
-PSB026	eh io italy quattordici anni
+PSB026	eh io #italy quattordici anni
 PSB005	okay
 PSB026	capito
 PSB026	ecco io lavoro qua anche io abiti qua
@@ -312,7 +312,7 @@ PSB028	va meglio
 PSB026	anche se bene anche due anni prima anche bene però questo tempo me penso
 PSB028	mh
 PSB028	okay
-PSB026	tanto persone arrivato qua italy come libia cina
+PSB026	tanto persone arrivato qua #italy come libia cina
 PSB028	sì sì
 PSB026	tanto mio paesano
 PSB026	tutti i giorno due tre persone cinque persone sei per~ persone scusa
@@ -331,7 +331,7 @@ PSB026	bangladesh pakistan tunisia marocco africa
 PSB026	tanto venuto qua adesso
 PSB028	mhmh
 PSB005	e tu riesci a aiutarli o o no
-PSB026	italy
+PSB026	#_ italy
 PSB026	no no io
 PSB026	no tutte persone non c'è possibilità
 PSB026	se io sentire qualcuno mio
@@ -533,7 +533,7 @@ PSB028	ah ah
 PSB005	e il bangladesh è un paese grande
 PSB005	è bello com'è eh
 PSB026	b~
-PSB026	bangladesh no come italy capito
+PSB026	bangladesh no come #italy capito
 PSB026	europa altra cosa
 PSB005	mh
 PSB028	cosa trovi di diverso cos'è che magari ti piace di più eh qui rispetto a lì
@@ -567,7 +567,7 @@ PSB005	mhmh
 PSB026	hai capito
 PSB005	mhmh
 PSB026	però
-PSB026	italy
+PSB026	#_ italy
 PSB026	è come
 PSB026	quanto se problema
 PSB026	anche cu~ causa
@@ -674,7 +674,7 @@ PSB005	mhmh
 PSB028	sì sì
 PSB005	mhmh
 PSB026	tante persone anche abiti
-PSB026	lavoro anche capital come roma capito loro vuole andare loro famiglia
+PSB026	lavoro anche #capital come roma capito loro vuole andare loro famiglia
 PSB005	mhm
 PSB026	morto trecento persone più
 PSB028	ma perché c'era una festa c'era qualcosa
@@ -723,7 +723,7 @@ PSB005	mhmh mhmh
 PSB028	ma tu ti informi cioè riesci a mh a vedere i telegiornali oppure lo fai tramite i social
 PSB028	eh come come segui le notizie di lì
 PSB026	social
-PSB026	non c'è come italy
+PSB026	non c'è come #italy
 PSB028	ah okay non lo usano come come noi okay
 PSB026	no no non così
 PSB005	mhm
@@ -752,12 +752,12 @@ PSB026	io v~ io v~ io quattordici anni qua io voglio andare mio paese
 PSB005	mhmh
 PSB026	capito perché il mio papa mamma xxx
 PSB005	mhmh
-PSB026	io italy lavoro tanto eh
+PSB026	io #italy lavoro tanto eh
 PSB028	certo soli lì
 PSB005	mhm
 PSB026	però io cuore
 PSB028	certo
-PSB026	una cuore vuole sì una vuole no perché italy meglio tranquillo
+PSB026	una cuore vuole sì una vuole no perché #italy meglio tranquillo
 PSB005	okay
 PSB005	certo sì
 PSB028	lo capisco anche anche io sono lontana da casa quindi io so cosa vuol dire certo
@@ -766,7 +766,7 @@ PSB026	ma sì mangiare dormire lavorare sì tranquillo così
 PSB005	mhmh
 PSB026	capito
 PSB005	mhmh
-PSB026	italy tranquillo io notte non c'è qualcuno io andare dove vuoi
+PSB026	#italy tranquillo io notte non c'è qualcuno io andare dove vuoi
 PSB026	qualcuno
 PSB026	anche no
 PSB026	dammi soldi
@@ -790,8 +790,8 @@ PSB026	bologna
 PSB005	cibo
 PSB005	del bangladesh
 PSB005	ci sono i ristoranti
-PSB026	c'è indian restaurant c'è qua
-???	c'è ristorante indiano c'è qua
+PSB026	c'è #indian #restaurant c'è qua
+???	c'è #ristorante #indiano c'è qua
 PSB005	ma è indiano o del bangladesh
 PSB026	india bangladesh anche uguale
 PSB005	ah okay okay la cucina è uguale
@@ -805,8 +805,8 @@ PSB026	sì sì ao piazza otto agosto fa vedere tanto pakistani
 PSB005	ce lo consigli
 PSB028	mhmh
 PSB005	sì
-PSB026	anche kabab hai ricordi
-PSB026	kabab
+PSB026	anche #kabab hai ricordi
+PSB026	#_ kabab
 PSB005	sì
 PSB028	sì
 PSB005	sì sì sì sì kebab sì sì
@@ -815,20 +815,20 @@ PSB026	anche india bangladesh pakistan quello mangiare
 PSB026	boh uguali
 PSB028	ma tra l'altro ieri per caso sono capitata ad una festa eh indiana dove facevano assaggiare alcuni piatti tipici
 PSB028	ho provato una cosa fenomenale credo si chiami sa~ sa~ samosa forse
-PSB026	samosa samosa
+PSB026	#_ samosa samosa
 PSB028	buonissimo buonissimo
 PSB026	sì
 PSB026	però m~ me piace mangiare come italia pasta
 PSB028	perché
 PSB028	ah sì
-PSB026	frutta verdura a me me piace come italy sistema
+PSB026	frutta verdura a me me piace come #italy sistema
 PSB028	ah ah
 PSB028	no io non avevo mai provato quindi
 PSB028	io adoro il piccante poi e quello era mh piccante sì sì era buonissimo
 PSB026	buono
 PSB026	me piace
 PSB026	eh come
-PSB026	italiano restaurant
+PSB026	italiano #restaurant
 PSB005	mh
 PSB026	loro piace me piace
 PSB026	solo maele no altra cosa io mangiare tutto però mi piace
@@ -880,7 +880,7 @@ PSB026	adesso lo sé
 PSB026	troppo
 PSB026	gente
 PSB026	quando cammina
-PSB005	mhmh mhm
+PSB005	mhmh mhmh
 PSB028	mh
 PSB026	strada così prima dieci anni fa no come xx
 PSB028	confusione
@@ -1009,7 +1009,7 @@ PSB026	sì
 PSB028	sì è difficile per tutti eh
 PSB026	sì
 PSB028	è complicato qui
-PSB026	italy cento person~ cento
+PSB026	#italy cento person~ cento
 PSB026	tutto bellissimo
 PSB026	tutto bene
 PSB026	anche tutto me piace solo adesso problema così
@@ -1056,15 +1056,15 @@ PSB026	non ci conto gradi
 PSB026	troppo
 PSB026	mio paese bangladesh solo freddo
 PSB026	mh
-PSB026	december
+PSB026	#_ december
 PSB005	mhmh dicembre
 PSB026	e gianeo
 PSB005	e gennaio due mesi sì
 PSB026	sì sì solo due mesi
-PSB005	mhm
+PSB005	mhmh
 PSB028	okay quindi tra poco è freddo
 PSB026	freddo
-PSB026	sì december mio paese due mesi freddo come addosso fuori freddo è così
+PSB026	sì #december mio paese due mesi freddo come addosso fuori freddo è così
 PSB005	mhm
 PSB005	okay
 PSB026	no più
@@ -1127,7 +1127,7 @@ PSB005	mh
 PSB026	così
 PSB005	mhmh brividi
 PSB026	poi sì tre quattro giorno me penso sì peggio peggio
-PSB026	poi io andare hospital
+PSB026	poi io andare #hospital
 PSB005	mh
 PSB028	ah okay
 PSB026	capito
@@ -1200,7 +1200,7 @@ PSB026	anche anche altre parti anche lavoro part-time
 PSB026	o anche pulizia pulire
 PSB005	ah okay
 PSB005	okay okay
-PSB026	anche fabbrica xxx xx restaurant c'è amici loro lavoro
+PSB026	anche fabbrica xxx xx #restaurant c'è amici loro lavoro
 PSB005	mhmh
 PSB005	mhmh
 PSB026	quando loro loro lavoro regolare quando bisogno
@@ -1246,8 +1246,8 @@ PSB026	eh certo
 PSB005	è difficile molto
 PSB026	ce~
 PSB026	certo
-PSB026	no italy perché
-PSB026	io italy no parlare anche bene lo sai perché io no andare scuola
+PSB026	no #italy perché
+PSB026	io #italy no parlare anche bene lo sai perché io no andare scuola
 PSB005	ma no non parli male no non parli no
 PSB026	x
 PSB028	no no no ma te la bene
@@ -1271,10 +1271,10 @@ PSB005	va bene dai
 PSB026	anche qua ts~
 PSB026	sì mi piace molto è così generale tutto mi piace
 PSB028	mhmh
-PSB026	italy ha capito
+PSB026	#italy ha capito
 PSB005	mhmh mhmh
 PSB026	anche qua~ quando io unita c'è anche un po' io problema anche reni
-PSB026	quando io andare hospital anche loro aiutare me anche dottore aiutare me hai capito
+PSB026	quando io andare #hospital anche loro aiutare me anche dottore aiutare me hai capito
 PSB005	mhm
 PSB028	ah okay
 PSB028	e invece al tuo paese
@@ -1293,7 +1293,7 @@ PSB026	capito
 PSB005	s~ sono gentili
 PSB026	che dottore
 PSB005	sì
-PSB026	oh italy gentile
+PSB026	oh #italy gentile
 PSB005	oah che bello
 PSB028	ah che bello meno male
 PSB026	x x xx
@@ -1304,7 +1304,7 @@ PSB026	anche se bravo
 PSB005	eh
 PSB028	mhmh
 PSB026	dottore se base bravi quando andare anche dove vuoi anche in esame loro se bravi
-PSB026	anche hospital ogni tanto tante volte anche io stato là
+PSB026	anche #hospital ogni tanto tante volte anche io stato là
 PSB005	mh
 PSB026	tre giorni anche una settimana
 PSB026	anche una volta intervento anche vescica
@@ -1425,12 +1425,12 @@ PSB026	sì
 PSB005	bene bene
 PSB005	bene bene okay
 PSB026	xxx lasciali
-PSB026	na niashche shudu mane apner ie chobi ashe
-???	shada xx
-PSB026	kuno page ashe nai shudu oi email tay ashche
-PSB026	xxx kothaa ta bujsen
+PSB026	#_ na niashche shudu mane apner ie chobi ashe
+???	#_ shada xx
+PSB026	#_ kuno page ashe nai shudu oi email tay ashche
+PSB026	#_ xxx kothaa ta bujsen
 ???	xxxx
-PSB026	poi dottoressa scrive sì italy tutto bene
+PSB026	poi dottoressa scrive sì #italy tutto bene
 PSB005	va bene
 PSB026	me piace però adesso molto
 PSB005	sì sì scrivo scrivo
@@ -1543,7 +1543,7 @@ PSB028	ah okay non c'era
 PSB005	mhmh sìsì
 PSB026	anche anche venticinque anni fa
 PSB005	mhmh
-PSB026	trenta venticinque anni trenta anni fa adesso molto difference bangladesh
+PSB026	trenta venticinque anni trenta anni fa adesso molto #difference bangladesh
 PSB005	mhmh
 PSB005	eh beh sì certo
 PSB026	xx
@@ -1562,13 +1562,13 @@ PSB026	sì
 PSB028	è difficile per loro perché come dici tu non l'hanno magari studiato come abbiamo fatto noi più giovani quindi
 PSB026	eh
 PSB005	sì infatti
-PSB026	anche visto quando se qualcuno se problema chiamare ambulance anche subito però sistema non c'è mio paese
+PSB026	anche visto quando se qualcuno se problema chiamare #ambulance anche subito però sistema non c'è mio paese
 PSB005	mh
 PSB028	ah
 PSB026	qualcuno anche morire anche andare là lui
 PSB005	mhmh
 PSB028	ah certo perché non arrivano
-PSB026	non c'è non c'è come italy capito
+PSB026	non c'è non c'è come #italy capito
 PSB026	quando chiamare hai visto
 PSB005	mhmh
 PSB026	ambulanza anche dottore hai capito

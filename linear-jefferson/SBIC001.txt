@@ -390,7 +390,7 @@ PSB005	per niente,
 PSB001	ma voi, sap~ sapete:, quella: la fac~ la fa~ la $faticoltà, si chiama:
 PSB001	ah fisico eh,
 PSB001	e:h
-PSB001	tiān wén xué (.) zǎ shuō de a
+PSB001	#_ tiān wén xué (.) zǎ shuō de a
 PSB001	fis[ico],
 PSB002	°[ah]°
 PSB002	astronomi[a]?
@@ -955,8 +955,8 @@ PSB001	[sì]
 PSB002	[come, come],
 PSB001	[sì:], piaciuta sì anche, con la: con la: (.) m:h
 PSB001	e:h come si di:- la situazione,
-PSB001	zhè gè dì li
-PSB001	wèi zhì
+PSB001	#_ zhè gè dì li
+PSB001	#_ wèi zhì
 PSB005	>°[sì sì],°<
 PSB002	[è la] posizione geografica?
 PSB001	>ah sì, è [la po]sizio~<,
@@ -971,7 +971,7 @@ PSB002	[ah, x]
 PSB005	mhmh
 PSB001	$nete, #yǒu #wǎng
 PSB002	ah °[bene],°
-PSB001	[zhī zhū wǎng]
+PSB001	#_ [zhī zhū wǎng]
 PSB002	ragnatel,- come si: ra:
 PSB005	okay, [ho ca~] forse ho capito, rete,
 PSB002	°[x]°
@@ -987,20 +987,20 @@ PSB001	un,
 PSB001	>come si dice<,
 PSB001	un ci~ ci circo #yī #quān
 PSB001	circo,
-PSB002	yī quān shén me
-PSB001	yī quān hé yī quān
-PSB002	yī quān hé
+PSB002	#_ yī quān shén me
+PSB001	#_ yī quān hé yī quān
+PSB002	#_ yī quān hé
 PSB001	((ride))
-PSB001	wǒ bù zhī dào zěn me shuō
-PSB001	jiù shì tā nèi gè zhī zhū wǎng
+PSB001	#_ wǒ bù zhī dào zěn me shuō
+PSB001	#_ jiù shì tā nèi gè zhī zhū wǎng
 PSB002	ah
 PSB001	scusa, ((ride))
 PSB005	>no no no, [prego, pr]ego, prego<,
-PSB002	[xx] nǐ shuō
-PSB001	jiù shì (.) jiù shì tā
-PSB001	jiù shì lù dì (.) rán hòu wài miàn yǒu yī quān hé yǒu
+PSB002	#_ [xx] nǐ shuō
+PSB001	#_ jiù shì (.) jiù shì tā
+PSB001	#_ jiù shì lù dì (.) rán hòu wài miàn yǒu yī quān hé yǒu
 PSB002	a:h
-PSB001	rán hòu yòu yī quān lù dì rán hòu yòu yī quān hé yǒu.
+PSB001	#_ rán hòu yòu yī quān lù dì rán hòu yòu yī quān hé yǒu.
 PSB001	>°io cerco di circ~ [circonda],°<
 PSB002	[ah la terra], è circondata, da dai fi[umi, i fiumi] è circ[ond]ata dalla terra, così
 PSB005	[ah] o[kay],
@@ -1260,14 +1260,14 @@ PSB005	mh[mh]
 PSB001	[mo]di,
 PSB001	[a:]h cucinare,
 PSB002	[sì],
-PSB001	suàn ma (.) bā zhǒng zuò fǎ
-PSB002	a, bā zhǒng? wǒ yǐ wéi nǐ shuō
-PSB002	cài xì
-PSB001	°duì a°cài xì wǒ xiǎng shuō [cài xì] dàn wǒ bù zhī dào zěn me qù fān yì
-PSB002	[duì a]
+PSB001	#_ suàn ma (.) bā zhǒng zuò fǎ
+PSB002	#_ a, bā zhǒng? wǒ yǐ wéi nǐ shuō
+PSB002	#_ cài xì
+PSB001	#_ °duì a°cài xì wǒ xiǎng shuō [cài xì] dàn wǒ bù zhī dào zěn me qù fān yì
+PSB002	#_ [duì a]
 PSB001	°mh°
 PSB002	°sì°
-PSB001	bā zhǒng zuò fǎ (.) yīng gāi yě bù shì zuòfǎ.
+PSB001	#_ bā zhǒng zuò fǎ (.) yīng gāi yě bù shì zuòfǎ.
 PSB002	[o]tto filoni, di:
 PSB005	mhmh
 PSB002	c(io)è di cucina,
@@ -1346,12 +1346,12 @@ PSB001	pesce, [sì] anche [pesce sì]
 PSB002	[sì]
 PSB002	[sì s]ì (.) >molto piccante, molto famoso<. cioè un piatto famossisimo in cin[a],
 PSB005	[o]kay
-PSB001	[duò jiāo] yú tóu
+PSB001	#_ [duò jiāo] yú tóu
 PSB002	[sì]
 PSB002	sì
 PSB001	((ride))
 PSB002	sì
-PSB002	duò jiāo yú tóu [sì]
+PSB002	#_ duò jiāo yú tóu [sì]
 PSB005	[ma], è una zuppa o è un:
 PSB002	((ride))
 PSB002	no (.) con la testa di pesce
@@ -1602,14 +1602,14 @@ PSB005	((ride))
 PSB002	della piazza, verde,
 PSB001	((ride))
 PSB005	eh qua, ci devo pensare anch'io
-PSB001	((ride)) dōng shì shén me lái zhe?
+PSB001	#_ ((ride)) dōng shì shén me lái zhe?
 PSB005	VERSO la [stazio]ne?
 PSB002	[est]
 PSB002	e[st].
 PSB001	>[est]<
 PSB001	°eh°
 PSB005	oddio aiuto,
-PSB005	VERSO la stazione, >[o dall']altra parte<?
+PSB005	VERSO la stazione, >[o dall'] altra parte<?
 PSB001	°[sì]°
 PSB002	no sta, dicendo, forse a::
 PSB001	>no comunque c'è là<,
@@ -1620,15 +1620,15 @@ PSB005	>possiamo prenderla, una<, ce ne sono anche delle altre, asp~
 PSB002	((ride))
 PSB001	((ride))
 PSB005	ce ne sono [anche, di °di qua,°]
-PSB002	[dōng dōng-dōng] nán biān
-PSB002	bú shì[°xx°]
-PSB001	[bú shì] jiù shì
-PSB001	tā jiù zài shì zhōngxīn, nǐ zhīdào yǐqián Mòlìhuā zài nǎ ma?
-PSB002	bù zhī dào
-PSB001	jiù hen xiàn zài yǐ jīng [dǎo bì le]
-PSB002	[mò lì] - mò lì huā bù zhī dào
+PSB002	#_ [dōng dōng-dōng] nán biān
+PSB002	#_ bú shì[°xx°]
+PSB001	#_ [bú shì] jiù shì
+PSB001	#_ tā jiù zài shì zhōngxīn, nǐ zhīdào yǐqián Mòlìhuā zài nǎ ma?
+PSB002	#_ bù zhī dào
+PSB001	#_ jiù hen xiàn zài yǐ jīng [dǎo bì le]
+PSB002	#_ [mò lì] - mò lì huā bù zhī dào
 PSB005	gu[ardate, qua è] [qua],
-PSB001	a [zhè er zhè er]
+PSB001	#_ a [zhè er zhè er]
 PSB002	>[qua], abbiamo [trova]to<
 PSB001	[okay]
 PSB005	ve la posso anche dare. se volete,
@@ -1707,7 +1707,7 @@ PSB001	[a::h],
 PSB002	sì
 PSB001	mhmh,
 PSB005	e:: crema,
-PSB001	zuppa
+PSB001	#_ zuppa
 PSB002	[a:h okay],
 PSB001	tipo:, °za[baione],°
 PSB005	[e, si]: m:h
@@ -1716,7 +1716,7 @@ PSB005	si si, si prende un liquore,
 PSB001	mhmh
 PSB005	è alcolico,
 PSB005	e::h
-PSB002	jìn shī de
+PSB002	#_ jìn shī de
 PSB005	sì, con::
 PSB005	non so se ci si mette tipo, del dell'acqua, cioè, più diluito in[somma],
 PSB002	[sì s]ì,
@@ -2105,7 +2105,7 @@ PSB005	[mhmh]
 PSB002	[quindi] un po' di:,
 PSB002	e:h come,
 PSB002	c(io)è vicino a::
-PSB002	nán jīng huà
+PSB002	#_ nán jīng huà
 PSB005	IO, >[comunque non conosco io non so<,nu]lla,
 PSB002	[e:h di nanchino cioè il dialetto],
 PSB001	((ride))
@@ -2254,8 +2254,8 @@ PSB001	e: invece, nán biān huà, un altro dia~ diale~ ade~ dialetto,
 PSB001	è similie con:
 PSB001	il,
 PSB001	capo #wǒ #kě #yǐ #shuō #nèi #gè (.) #wǒ #men
-PSB001	hú nán de
-PSB001	shěng huì chéng shì
+PSB001	#_ hú nán de
+PSB001	#_ shěng huì chéng shì
 PSB002	capoluogo, cioè la: [il dia]le[tto s]ì,
 PSB001	[capoluogo],
 PSB005	[okay],
@@ -2322,10 +2322,10 @@ PSB001	coniuga,- collegato. per du~ due, due, parole
 PSB001	colleg[a],
 PSB005	[mh]mh
 PSB001	>come si dice<
-PSB001	jiù lián yīn
+PSB001	#_ jiù lián yīn
 PSB005	forse sono,
-PSB002	lián-lián yīn
-PSB001	ah bǐ rú shuō yī qǐ shuō de hěn kuài yí xià jiù tīng bù dǒng
+PSB002	#_ lián-lián yīn
+PSB001	#_ ah bǐ rú shuō yī qǐ shuō de hěn kuài yí xià jiù tīng bù dǒng
 PSB002	ah quando si parla molto veloce:, e:hm si f~ fa fati[ca, a capire],
 PSB005	[ah, a capire],
 PSB002	sì
@@ -2438,8 +2438,8 @@ PSB005	[sì]
 PSB005	ti capita?
 PSB005	di leg[gere],
 PSB001	[a:]:h
-PSB002	kàn bào zhǐ zhī lèi de (.) xīn wén
-PSB001	hǎo xiàng
+PSB002	#_ kàn bào zhǐ zhī lèi de (.) xīn wén
+PSB001	#_ hǎo xiàng
 PSB001	no n[o]
 PSB005	[no] no, okay, no no, ma non c'è niente di male, eh, non,
 PSB001	((ride))

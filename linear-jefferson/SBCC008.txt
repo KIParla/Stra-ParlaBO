@@ -7,7 +7,7 @@ PSB104	ero troppo stanca (.) c(io)è ero arrivata veramente a casa morta dall'un
 PSB104	tu dove sei arrivata?
 PSB119	a:l ehm (.) sette:?
 PSB104	la se~ la sette:?
-PSB119	dì s~ dì qī jí
+PSB119	#_ dì s~ dì qī jí
 PSB105	a:h episodio sette
 PSB104	okay[ay]
 PSB105	[settimo]
@@ -110,7 +110,7 @@ PSB104	ehm: elena (.) era ipergelosa (.) di: lila (.) e: nino
 PSB104	e li vedeva insie:me, che si abbracciavano: °c(io)è° queste fisime mentali assurde
 PSB105	((ride))
 PSB104	>io sono< mi sono fermata lì (.) e mi sono proprio detta amo ma
-PSB104	cè tua m~ tua madre sta morendo morendo (.) c(io)è sta >proprio< schiattando e tu pensi a
+PSB104	c(io)è tua m~ tua madre sta morendo morendo (.) c(io)è sta >proprio< schiattando e tu pensi a
 PSB104	ecco io voglio la tua opinione
 PSB104	ma tu cosa ne pensi di nino?
 PSB119	nino? (.) quella: nino salvatore?
@@ -359,7 +359,7 @@ PSB104	[a:h]
 PSB105	[a:h]
 PSB119	è un po' persona che (.) sempre
 PSB119	molto:
-PSB119	nǔ lì
+PSB119	#_ nǔ lì
 PSB119	((ride))
 PSB105	a:h impegnano mol[to]
 PSB104	[a:h] sì è una okay [sì sì]
@@ -416,7 +416,7 @@ PSB119	[bellissimo]
 PSB119	ho visto anche (.) quel libro
 PSB119	la vita (.) adulti di~
 PSB119	no
-PSB119	chéng nián rén de huǎng yán shēng huó
+PSB119	#_ chéng nián rén de huǎng yán shēng huó
 PSB105	ehm: un libro?
 PSB105	ehm: la (.) vita (.) [mentiros~]
 PSB119	[vita bugiarda]
@@ -444,10 +444,10 @@ PSB104	perché sembra gay?
 PSB119	non lo so quel (.) quel
 PSB119	questo romanzo
 PSB119	c'è molto:
-PSB119	yǐng zi zěn me shuō
+PSB119	#_ yǐng zi zěn me shuō
 PSB105	ah (.) ombra
 PSB104	om~ (.) [ombra]?
-PSB119	[duì]
+PSB119	#_ [duì]
 PSB119	cioè è molto simile all'amica geniale
 PSB105	a:h
 PSB119	sembra ogni protagonista (.) come
@@ -492,7 +492,7 @@ PSB105	fai attenzione con preposizione ((ride))
 PSB104	a ma perché l'hai scritto in italiano?
 PSB105	sì
 PSB119	wow
-PSB104	that's impressive
+PSB104	#_ that's impressive
 PSB105	((ride))
 PSB119	((ride))
 PSB105	perché se l'ho scritto
@@ -518,11 +518,11 @@ PSB104	ma in realtà anche in italiano non è così facile da capire eh
 PSB104	sì sì sì c(io)è se lo leggi non è facilissimo da capire all'inizio non hai capito chi ha stuprato chi non si capisce non:
 PSB104	non si capis~ perché questo libro (.) è: (.) parte col botto (.) come dice[: la] la prof
 PSB105	[sì sì]
-PSB105	zhè běn er shū shì yǐ yí gè qiáng jiān kāi tóu de
+PSB105	#_ zhè běn er shū shì yǐ yí gè qiáng jiān kāi tóu de
 PSB119	a:h?
-PSB105	rán hòu wǒ zài fān yì de shí hòu wǒ jiù bú tài míng bái
-PSB119	nǐ de shū ma?
-PSB105	jiù shì nà ge (.) wǒ men yào dú de nà ge shū
+PSB105	#_ rán hòu wǒ zài fān yì de shí hòu wǒ jiù bú tài míng bái
+PSB119	#_ nǐ de shū ma?
+PSB105	#_ jiù shì nà ge (.) wǒ men yào dú de nà ge shū
 PSB119	come si chiama ((ride))
 PSB104	come si dice? ma come si direbbe c'è un titolo xxx in cinese per l'arte della gioia?
 PSB105	no
@@ -588,7 +588,7 @@ PSB119	ehm un altro è sposato (.) è sposato con fidanzato di quella attrice ((
 PSB119	no (.) no no è sposato con quella
 PSB119	ehm: fidanzato che (.) era
 PSB119	fidanza~
-PSB119	no wǒ rén shǎ le (.) jiù shì (.) ehm: tā gēn tā jiě jiě de (.) lǎo gōng jié (.) [jiě jiě] de qián nán yǒu (.) [jié hūn le]
+PSB119	#_ no wǒ rén shǎ le (.) jiù shì (.) ehm: tā gēn tā jiě jiě de (.) lǎo gōng jié (.) [jiě jiě] de qián nán yǒu (.) [jié hūn le]
 PSB105	[a:h]
 PSB105	[a:h]
 PSB105	è una ragazza si è sposata con il ex della sua sorella
@@ -606,9 +606,9 @@ PSB105	[poligamia]
 PSB105	((ride))
 PSB104	sono quattro sorelle (.) ma quanti anni hanno più o meno
 PSB119	coeta~
-PSB119	jiù shì tóng líng rén chà bù dūo
+PSB119	#_ jiù shì tóng líng rén chà bù dūo
 PSB105	a:h hanno [più o] meno (.) la stessa età
-PSB119	bú chà jǐ suì
+PSB119	#_ bú chà jǐ suì
 PSB104	sì ma crescono cioè: (.) vanno avanti nel tempo
 PSB119	sì
 PSB104	certo
@@ -622,9 +622,9 @@ PSB119	[poi in questo (.) romanzo)
 PSB105	((ride))
 PSB105	no (.) non [siete bravi]
 PSB119	[questa] non ha xxx (.) quello (.) autore (.) autore quello ex fidanzato molto famoso in cina
-PSB119	tián chá
-PSB105	shuí
-PSB119	tián chá
+PSB119	#_ tián chá
+PSB105	#_ shuí
+PSB119	#_ tián chá
 PSB105	a:h timothée
 PSB104	ehm
 PSB105	timothée
@@ -632,7 +632,7 @@ PSB105	è un attore (.) francese
 PSB104	a:h ehm (.) timothée chalamet
 PSB119	[hai visto:: #call #me]
 PSB105	sì sì sì
-PSB119	call me by your name
+PSB119	#_ call me by your name
 PSB104	sì (.) no (.) non l'ho mai visto so (.) ehm: ma non i'ho mai visto
 PSB105	((ride))
 PSB119	sì lui è molto [famoso] in cina
@@ -681,19 +681,19 @@ PSB104	ovvio
 PSB105	((ride))
 PSB104	non lo chiedo neanche
 PSB105	((ride))
-PSB119	timo tí mò xī zěn me shuō?
-PSB119	tí mò xī
+PSB119	#_ timo tí mò xī zěn me shuō?
+PSB119	#_ tí mò xī
 PSB105	timothée come si chiama in francese
 PSB104	xxx timothée
 PSB119	timothée
-PSB105	ehm (.) duì
+PSB105	#_ ehm (.) duì
 PSB119	timothée xxx
 PSB104	lo chiamano tutti timoti
 PSB104	all'inglese però sarebbe (.) timotè da [quello che so]
 PSB105	[in cine]se sarebbe #tián #chá cioè
 PSB105	perché the (.) è #chá
 PSB104	certo
-PSB119	sweet tea
+PSB119	#_ sweet tea
 PSB119	((ride))
 PSB104	[a:h]
 PSB105	[#tián] perché è #sweet
@@ -729,8 +729,8 @@ PSB104	chi?
 PSB105	un attore (.) [di] lolita
 PSB104	[eh]
 PSB104	[scusate]
-PSB119	[a:h] (.) tiě tiě shū
-PSB105	duì duì duì duì duì duì
+PSB119	#_ [a:h] (.) tiě tiě shū
+PSB105	#_ duì duì duì duì duì duì
 PSB119	un attore inglese:
 PSB119	gira sempre (.) nel film (.) molto:
 PSB119	immorale
@@ -745,7 +745,7 @@ PSB105	((ride))
 PSB119	lui è co~ cognato
 PSB119	e fa se~ sesso con
 PSB105	ehm: la fidanzata del suo figlio
-PSB119	#yes
+PSB119	#_ #yes
 PSB104	o mio
 PSB105	((ride))
 PSB119	((ride))
@@ -754,7 +754,7 @@ PSB119	lui [fa (.) sempre] qualcosa molto
 PSB104	[a:h]
 PSB104	fai vedere
 PSB119	pazzo ((ride))
-PSB105	wǒ bù zhī dào zhè li yǒu méi yǒu wang
+PSB105	#_ wǒ bù zhī dào zhè li yǒu méi yǒu wang
 PSB119	[ha sempre una faccia xxx]
 PSB105	[lui]
 PSB104	[a:]h
@@ -803,7 +803,7 @@ PSB104	sì ma pensavo fosse un fetish non pensavo che fosse tipo lo standard
 PSB105	ehm
 PSB104	ah
 PSB104	io sapevo che in giappone
-PSB119	bái yòu shòu
+PSB119	#_ bái yòu shòu
 PSB105	ah ah sì
 PSB119	((ride))
 PSB104	sapevo che in giappone c'hanno questi hotel (.) solo per farlo
@@ -839,7 +839,7 @@ PSB104	c(io)è vuol dire che (.) ehm i polsi freddi è che ce l'hai le manette e
 PSB105	[a:h]
 PSB104	[polsi]
 PSB104	senti [le manette]
-PSB105	#[esposas]
+PSB105	#_ #[esposas]
 PSB119	((ride))
 PSB104	[esatto]
 PSB119	oh no
@@ -849,7 +849,7 @@ PSB105	secondo me (.) hanno questa tendenza perché gli uomini asiatici
 PSB105	ehm sono più bassi e sono più deboli e (.) ce li hanno più piccoli quindi per ri~
 PSB119	((ride))
 PSB105	riuscire a (.) a soddisfare una donna c(io)è
-PSB119	((ride)) jiù mìng a
+PSB119	#_ ((ride)) jiù mìng a
 PSB105	devono trovare qualcuna: più: <piccola> e più:
 PSB105	facile da
 PSB119	controllare
@@ -1031,8 +1031,8 @@ PSB105	[non lo sapevi]
 PSB104	no
 PSB119	unione c'è unione
 PSB119	lì c'è una sala di studio e
-PSB119	nèi ge
-PSB119	jiàn shēn fáng zěn me shuō ((ride))
+PSB119	#_ nèi ge
+PSB119	#_ jiàn shēn fáng zěn me shuō ((ride))
 PSB105	ginnasti~
 PSB119	gi~
 PSB104	a[:h]
@@ -1140,8 +1140,8 @@ PSB104	perché sono bellissimi
 PSB104	il (perro) di salsiccia
 PSB105	sì sì sì sì sì
 PSB119	salsiccia
-PSB105	là cháng quǎn
-PSB119	[ao wǒ zhī dào]
+PSB105	#_ là cháng quǎn
+PSB119	#_ [ao wǒ zhī dào]
 PSB104	[perché sono] (.) troppo carini c(io)è
 PSB104	sono grandi così
 PSB105	((ride))
@@ -1154,7 +1154,7 @@ PSB104	[sono bellissi]
 PSB105	[cagano troppo]
 PSB105	((ride))
 PSB104	ah lo porti fuori c'è il giardino
-PSB119	lā bù lā duō
+PSB119	#_ lā bù lā duō
 PSB104	è concime
 PSB105	devo cogliere
 PSB104	beh no se è il tuo giardino (.) ehm
@@ -1174,7 +1174,7 @@ PSB104	non pensare tu pensa bene
 PSB105	((ride))
 PSB104	o:h ma che carino
 PSB105	((ride))
-PSB119	xiǎo là cháng
+PSB119	#_ xiǎo là cháng
 PSB119	salsiccia ((ride))
 PSB104	ah salsiccia
 PSB119	sal[si~]
@@ -1182,7 +1182,7 @@ PSB104	[ah] mio dio
 PSB105	((ride))
 PSB119	((ride))
 PSB104	ma che carino
-PSB119	hǎo kě ài
+PSB119	#_ hǎo kě ài
 PSB104	xxx ma poi (.) c(io)è (.) guarda come sono carini gli metti il cappottino
 PSB119	((ride))
 PSB105	((ride))
@@ -1196,7 +1196,7 @@ PSB104	poi a da a me piacciono tantissimo (.) i corghi
 PSB105	a[:h]
 PSB104	[i ca]ni quelli (.) della regina tipo
 PSB105	sì sì
-PSB119	wa: kē jī
+PSB119	#_ wa: kē jī
 PSB105	quando facevo liceo mi chiama (.) mi chiamavano corghi
 PSB105	perché ho le gambe (.) corte e (.) culo grande
 PSB119	((ride))
@@ -1267,9 +1267,9 @@ PSB105	((ride))
 PSB104	troppo carino
 PSB104	o mio dio (.) ma questo (.) come si chiama
 PSB104	questa applicazione
-PSB105	xiǎo hóng shū
-PSB119	xiǎo hóng shū
-PSB119	[xiǎo hóng shū]
+PSB105	#_ xiǎo hóng shū
+PSB119	#_ xiǎo hóng shū
+PSB119	#_ [xiǎo hóng shū]
 PSB105	[ma ma] sai che: [l'esa~]
 PSB104	[il li] libretto rosso
 PSB105	ehm sì sì
@@ -1278,14 +1278,14 @@ PSB105	((ride))
 PSB104	comunismo
 PSB105	di mao a:h
 PSB104	[ehm]
-PSB119	[xiǎo hóng shū
+PSB119	#_ [xiǎo hóng shū
 PSB105	((ride))
 PSB104	scusa ehm non è xxx libretto rosso di mao
 PSB105	di mao mao
 PSB119	mao mao
 PSB104	ah è vero vero vero vero
 PSB105	((ride))
-PSB119	xiǎo hóng shū
+PSB119	#_ xiǎo hóng shū
 PSB104	ma come sono carini
 PSB104	questo non è proprio un corghi però
 PSB105	((ride))
@@ -1302,7 +1302,7 @@ PSB105	anch'io sono allergica con [i gatti]
 PSB104	[ah [davve[ro]?
 PSB105	[ehm]
 PSB119	xxx qualche gatto non non è (.) alleg~ (.) allergi~
-PSB119	jiù shì yǒu de māo nǐ bú huì gēn tā guò duì tā [guò mǐn]
+PSB119	#_ jiù shì yǒu de māo nǐ bú huì gēn tā guò duì tā [guò mǐn]
 PSB105	[a:h]
 PSB104	ci sono dei effettivamente dei gatti anallergici
 PSB104	ehm perché l'allergia viene dalla dalla saliva del gatto
@@ -1323,7 +1323,7 @@ PSB119	femmina
 PSB105	castrato?
 PSB104	che castrato c(io)è ma poverina
 PSB119	((ride))
-PSB119	duì (.) jué yù le
+PSB119	#_ duì (.) jué yù le
 PSB105	a:h castrato
 PSB119	appena ((ride))
 PSB105	((ride))
@@ -1360,27 +1360,27 @@ PSB105	((ride))
 PSB104	e tutti pelosi c(io)è tipo quella di mia zia
 PSB104	era veramente gigante
 PSB104	ehm pelosissimo tutto pieno di pelo arancione
-PSB119	[jú māo]
+PSB119	#_ [jú māo]
 PSB104	[bellissimo] sembrava garfield
 PSB105	a:h
 PSB104	xxx vi presente [garfield]?
-PSB105	[jiā fēi māo]
+PSB105	#_ [jiā fēi māo]
 PSB119	o:h
 PSB105	((ride))
 PSB104	hanno tradotto veramente tutto
-PSB119	jiā fēi [māo]
+PSB119	#_ jiā fēi [māo]
 PSB104	[c(io)è] voi avete tutti i nomi [tradotti]
 PSB105	[sì sì]
 PSB104	com'è che si chiama?
-PSB119	jiā fēi
-PSB104	jiā fēi
+PSB119	#_ jiā fēi
+PSB104	#_ jiā fēi
 PSB105	garfield
 PSB119	[#jiā #fēi #māo] è una tipo razza di gatto
 PSB104	[ah garfield ehm]
 PSB105	sì sì
 PSB104	è una razza di [gatto] (.) a:h l'hanno chiamato sulla base della razza
 PSB105	[sì sì]
-PSB104	a:h [smart]
+PSB104	#_ a:h [smart]
 PSB119	[mi sembra] sempre molto s~ triste
 PSB119	((ride))
 PSB105	((ride))
@@ -1389,11 +1389,11 @@ PSB104	a:h
 PSB119	((ride))
 PSB105	((ride))
 PSB104	oh mio dio com'è [carino]
-PSB119	[hào] chī lǎn zuò dà féi māo
+PSB119	#_ [hào] chī lǎn zuò dà féi māo
 PSB119	piace mangiare pigro (.) ciccione
 PSB119	((ride))
 PSB104	è bellissimo
-PSB119	xiào sǐ le
+PSB119	#_ xiào sǐ le
 PSB104	troppo bellino
 PSB104	ha gli occhietti: (.) tondi
 PSB119	sì
@@ -1403,7 +1403,7 @@ PSB119	[a:h]
 PSB104	[è un] misto un misto dei due
 PSB105	((ride))
 PSB104	infatti era (.) era bellissimo poi poverina è morto ma è morto di vecchiaia [quindi]
-PSB119	chū bú qù le ((ride))
+PSB119	#_ chū bú qù le ((ride))
 PSB104	ehm
 PSB105	((ride))
 PSB104	ah
@@ -1444,8 +1444,8 @@ PSB105	ehm: a certe province sì
 PSB104	io ho visto una ragazza in cina che mangiava degli scorpioni caramellati
 PSB105	ah
 PSB119	ah?
-PSB119	shén me?
-PSB105	tā shuō chī xiē zī (.) kàn dào yǒu rén chī xiē zi
+PSB119	#_ shén me?
+PSB105	#_ tā shuō chī xiē zī (.) kàn dào yǒu rén chī xiē zi
 PSB104	anch'io l'ho guardato molto male
 PSB119	xxx ((ride))
 PSB105	sì sì mia mamma mi aveva chiesto di provare (.) s~ scorpione: fritto
@@ -1454,7 +1454,7 @@ PSB104	quanto sono grandi così
 PSB105	no tipo così
 PSB104	ah sono picc[oli:ni (.) non sono]
 PSB105	[sì sì] croccante
-PSB104	tasty
+PSB104	#_ tasty
 PSB105	((ride))
 PSB119	a yunnan sì (.) quella provincia vicino (.) del molto sud (.) quasi fuori di cina
 PSB105	((ride))
@@ -1549,9 +1549,9 @@ PSB105	((ride))
 PSB104	ma il piatto più strano che avete in cina qual è? che proprio uno dice
 PSB105	ehm: sai che: alcuni: cioè per: risolvere i corpi umani lo (.) [fanno come cibi]
 PSB119	[a:h]
-PSB105	xiàng yún nán (.) jiù shì bèi chá chū lái (.) zuò rén ròu
-PSB119	zhēn de jiǎ de ah
-PSB119	((ride)) hǎo kǒng bù a
+PSB105	#_ xiàng yún nán (.) jiù shì bèi chá chū lái (.) zuò rén ròu
+PSB119	#_ zhēn de jiǎ de ah
+PSB119	#_ ((ride)) hǎo kǒng bù a
 PSB104	cos'è che fanno con i corpi umani?
 PSB105	ehm: lo fanno come cibi
 PSB105	e: li vendono
@@ -1576,14 +1576,14 @@ PSB105	ma a una provincia mangiano anche pipistrello perché in cinese
 PSB105	pipistrello si chiama: #fú
 PSB105	e fortuna si chiama [#fú (.) quindi:]
 PSB104	[ehm #fú ehm infatti stavo dice]ndo sembrava fortuna
-PSB119	a: (.) chī shén mo?
+PSB119	#_ a: (.) chī shén mo?
 PSB119	((ride))
-PSB105	jiù shi hé nán hái shì hé bei tā men chī biān fú zài guò niàn de shí hou
-PSB105	jiù shì [tā men jué de chī biān fú] néng dài lái fú qì
-PSB119	[zhēn de jia de]
+PSB105	#_ jiù shi hé nán hái shì hé bei tā men chī biān fú zài guò niàn de shí hou
+PSB105	#_ jiù shì [tā men jué de chī biān fú] néng dài lái fú qì
+PSB119	#_ [zhēn de jia de]
 PSB105	((ride))
 PSB119	[oh no]
-PSB119	[#crazy]
+PSB119	#_ [#crazy]
 PSB105	((ride))
 PSB104	che schifo
 PSB104	ehm:
@@ -1604,9 +1604,9 @@ PSB104	io io rimango sul pollo
 PSB105	((ride))
 PSB104	è buono quello
 PSB119	oh no
-PSB105	pollo (.) o polla
+PSB105	#_ pollo (.) o polla
 PSB105	((ride))
-PSB119	#polla
+PSB119	#_ #polla
 PSB119	(di) #polla
 PSB119	((ride))
 PSB105	((ride))
@@ -1615,20 +1615,20 @@ PSB105	((ride))
 PSB105	((ride))
 PSB119	°xxx°
 PSB105	ehm?
-PSB119	shén me? shén me? tā whèn shén me wǒ wàng le
+PSB119	#_ shén me? shén me? tā whèn shén me wǒ wàng le
 PSB104	tipo cosa: ehm tipo di carne che ti piace di più
 PSB119	manzo
 PSB104	manzo
 PSB119	in realtà mangio molto frutti di mare perché mia città è vicino al mare
 PSB119	c'è una piatto strano (.) che vien dal mio [ambiente]
-PSB105	[xī hú] cù yú
+PSB105	#_ [xī hú] cù yú
 PSB105	((ride))
 PSB119	[no °viene°] il mio ambiente strano è
 PSB119	tipo i: gamberi però me (.) è vivo
 PSB105	ehm
 PSB119	e metti (.) vino (.) così (.) è ubriacato (.) [ehm:]
-PSB105	[a:h] zuì xiā
-PSB119	duì
+PSB105	#_ [a:h] zuì xiā
+PSB119	#_ duì
 PSB119	sì
 PSB119	però quando è freschissimo quando arriva tuo (.) tua bocca
 PSB104	sì
@@ -1642,11 +1642,11 @@ PSB104	c'era questo pescatore che andava in giro per il mare e (.) una cosa che 
 PSB104	cioè li pescava li schiacciava tra le mani e li mangiava <che in realtà>
 PSB104	se non hai uno stomaco molto potente è una cosa rischiosissima
 PSB105	[ew]
-PSB119	[nǐ yǒu] méi yǒu kàn guò gǎn hǎi shì pín? ((ride))
-PSB105	něi ge?
+PSB119	#_ [nǐ yǒu] méi yǒu kàn guò gǎn hǎi shì pín? ((ride))
+PSB105	#_ něi ge?
 PSB119	questi giorni sto guardando video così che che uomo (.) va a pescare e poi prendi il pesce e poi mangiare ((ride))
 PSB105	ew:
-PSB105	[ah wǒ yě kàn guò nèi ge]
+PSB105	#_ [ah wǒ yě kàn guò nèi ge]
 PSB104	[non è una cosa così strana]
 PSB119	xxx [strana]
 PSB105	[anche] polpo
@@ -1687,14 +1687,14 @@ PSB104	però un po' mi (.) mi dis~ [mi tocca un po']
 PSB119	[cos'è]?
 PSB105	[cos'è]?
 PSB105	pesce [palla]
-PSB119	[wò] kào wò kào
+PSB119	#_ [wò] kào wò kào
 PSB119	è è [velenoso]
-PSB105	[zhè bù] pào fu lao shī
+PSB105	#_ [zhè bù] pào fu lao shī
 PSB119	((ride))
 PSB104	[no:] ma cazzo è velenosissimo
 PSB104	il pesce palla è veleno[so]
 PSB119	[(qui)] lo usa lui per
-PSB119	shuā xié
+PSB119	#_ shuā xié
 PSB105	((ride))
 PSB119	((ride))
 PSB105	c(io)è (.) la strofinano sulle scarpe per pulire
@@ -1859,9 +1859,9 @@ PSB104	[quello delle stagioni]
 PSB105	mhmh
 PSB104	non so se l'hai mai sentito
 PSB104	è: [la: dea]
-PSB105	[pò er] sài fú niè
-PSB119	zhè shá ya
-PSB105	jiù shi xī là shén huà
+PSB105	#_ [pò er] sài fú niè
+PSB119	#_ zhè shá ya
+PSB105	#_ jiù shi xī là shén huà
 PSB119	a:h okay
 PSB104	con zeus con non con ade
 PSB104	è il mito delle stagioni teoricamente
@@ -1902,7 +1902,7 @@ PSB104	io conoscevo
 PSB104	il mito quello del ehm (.) ehm:
 PSB104	(adesso) non mi viene più
 PSB104	ehm: dei ehm ehm: che darebbe origine al vostro san valentino sostanzialmente
-PSB119	qī xī [jié]
+PSB119	#_ qī xī [jié]
 PSB105	[a:h]
 PSB104	quello (.) ehm di che si incontrano: e ci [sono]
 PSB119	[rubare] i suoi vestiti e portare i suoi [vestiti via] e così bella deve stare con lui ((ride))
@@ -1940,7 +1940,7 @@ PSB105	è un po': (.) sintomo di: (.) $stoccolmo
 PSB104	sto~ (.) a:h sindrome di stoccolma
 PSB105	((ride))
 PSB119	perché lei è una dea che fa
-PSB119	zhī bù
+PSB119	#_ zhī bù
 PSB105	a:h (.) che:
 PSB104	tesse?
 PSB105	fa la tessu~
@@ -1986,7 +1986,7 @@ PSB104	sono troppo passionali
 PSB119	sì
 PSB105	((ride))
 PSB104	hanno troppo
-PSB119	jiē bú zhù tā men de qíng xù
+PSB119	#_ jiē bú zhù tā men de qíng xù
 PSB105	((ride))
 PSB104	ah
 PSB105	e francese come sta andando?
@@ -2051,7 +2051,7 @@ PSB105	[ci sono] tre (.) storie
 PSB105	no?
 PSB104	c(io)è ehm: (.) #blu #blanc (.) #blu #blanc #rouge sarebbe la storia (.) di massala massara
 PSB104	Il protagonista che è: (.) Il: romanzo sostanzialmente inizia con lui che sta tornando in congo (.) a a brazzaville
-PSB119	zài shuō shén me a
+PSB119	#_ zài shuō shén me a
 PSB104	xx (.) no sai che secondo me non non c'entra
 PSB105	non è non è la stessa?
 PSB104	no secondo me no
@@ -2087,12 +2087,12 @@ PSB105	ehm: non famosa in mondo:: (.) in modo positivo
 PSB104	a:h (.) °perché°?
 PSB105	((ride))
 PSB105	c(io)è: maltratta: il suo marito
-PSB119	a nǐ zài shuō shén me a
-PSB105	mài lín
-PSB119	ah zhè shì mài lín ma?
-PSB105	duì duì duì
+PSB119	#_ a nǐ zài shuō shén me a
+PSB105	#_ mài lín
+PSB119	#_ ah zhè shì mài lín ma?
+PSB105	#_ duì duì duì
 PSB105	((ride))
-PSB119	yuán lái shì zhè yàng
+PSB119	#_ yuán lái shì zhè yàng
 PSB104	[maltra~ maltrata] il marito?
 PSB105	[lo puoi guardare]
 PSB105	sì
@@ -2115,10 +2115,10 @@ PSB104	non ho questo livello così avanzato
 PSB104	(as)petta
 PSB105	aspetta
 PSB119	°avanzato°
-PSB104	zhū
+PSB104	#_ zhū
 PSB119	((ride))
 PSB105	a[:h]
-PSB119	[háo] zhū
+PSB119	#_ [háo] zhū
 PSB104	e le memorie (.) del porcospino
 PSB104	viene da una favola congolese africana
 PSB119	congolese?
@@ -2128,8 +2128,8 @@ PSB104	<è:> africa (.) <no:rd>
 PSB104	<africa>
 PSB105	congo
 PSB104	(ecco) il congo sì
-PSB105	[gāng guo]
-PSB119	[gāng] guo ya
+PSB105	#_ [gāng guo]
+PSB119	#_ [gāng] guo ya
 PSB119	((ride))
 PSB105	((ride))
 PSB104	ehm lui lui è originario del congo
@@ -2210,7 +2210,7 @@ PSB119	perché cina non è una paese (.) che molti etnia
 PSB105	[ehm]
 PSB119	[xxx molti] lati molti
 PSB105	[quindi va bene per noi]
-PSB119	mín zú zěn me shuō
+PSB119	#_ mín zú zěn me shuō
 PSB105	et[nia]
 PSB104	[etnia] sì
 PSB104	>lo sapevo anch'io<
@@ -2417,7 +2417,7 @@ PSB119	come duecento (.) voti [in meno]
 PSB105	[sì sì] ecco perché tanti paren~ tanti genitori decidono di fare i bambini all'estero (.) così hanno: una nazionalità diversa
 PSB104	e possono tornare e fare gli stranieri
 PSB105	sì
-PSB104	a:h smart
+PSB104	#_ a:h smart
 PSB105	((ride))
 PSB105	((ride))
 PSB119	((ride))
@@ -2468,12 +2468,12 @@ PSB119	a:h
 PSB105	((ride))
 PSB104	<brutto>
 PSB104	ma voi avrete sentito un sacco di:
-PSB104	ehm bīng qi lín
+PSB104	#_ ehm bīng qi lín
 PSB104	da [quando l'ha detto] (.) xxx
 PSB119	[sì sì] ((ride))
 PSB104	io veramente quando ho detto ehm quando facevo tirocinio a scuola avevo dei ragazzi (.) delle delle superiori quando hanno scoperto che studiavo il cinese
 PSB104	quando xxx dicevano
-PSB104	bīng jī lín bīng jī lín
+PSB104	#_ bīng jī lín bīng jī lín
 PSB105	((ride))
 PSB105	((ride))
 PSB119	((ride))
@@ -2483,21 +2483,21 @@ PSB104	era appena uscito e non lo sapevo e quindi dicevo
 PSB104	sì #bīng #qī #lín è è gelato ma cosa stiamo dicendo perché soprattutto lo sai
 PSB105	((ride))
 PSB119	quella regista di
-PSB119	sù dù yu jī qíng
-PSB105	ah sù dù yu jī qíng zen me la?
-PSB119	jiù shì zhè gè dǎo yǎn zài dǒu yīn sháng miàn shuō
+PSB119	#_ sù dù yu jī qíng
+PSB105	#_ ah sù dù yu jī qíng zen me la?
+PSB119	#_ jiù shì zhè gè dǎo yǎn zài dǒu yīn sháng miàn shuō
 PSB105	a:h
-PSB119	zǎo sháng hǎo zhōng guó nǐ xǐ huān chī [bīng jī lín]
+PSB119	#_ zǎo sháng hǎo zhōng guó nǐ xǐ huān chī [bīng jī lín]
 PSB105	[a:h]
 PSB119	quindi è diventato famoso
-PSB105	yào bú yào yī qi
+PSB105	#_ yào bú yào yī qi
 PSB105	ehm se se lo fanno insieme o
 PSB104	sì sì
 PSB104	per me
-PSB105	nǐ men yào bú yào yí kuài er lái
-PSB119	kě yǐ ya ((ride))
+PSB105	#_ nǐ men yào bú yào yí kuài er lái
+PSB119	#_ kě yǐ ya ((ride))
 PSB105	((ride))
-PSB119	lái ya
+PSB119	#_ lái ya
 PSB104	cosa facciamo? interrompiamo e ne facciamo un'altra?
 PSB105	okay
 PSB104	c(io)è così perché è un po' pesante [diventa poi]

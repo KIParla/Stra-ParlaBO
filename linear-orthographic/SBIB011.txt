@@ -13,9 +13,9 @@ PSB005	sì
 PSB062	alcuni sacerdoti una chiesa e così eh un un parentesi dentro qui non c'è fuori niente
 PSB005	sì ho capito
 PSB062	è religione come nell'europa
-PSB062	ma in realtà il nome originale dell'induismo sarebbe sanatana dharma
-PSB062	sana (.) tana (.) dharma (.) sanatan (.) dharma
-PSB062	sanatan vuol dire esisteva esiste esisterà
+PSB062	ma in realtà il nome originale dell'induismo sarebbe #sanatana #dharma
+PSB062	#_ sana (.) tana (.) dharma (.) sanatan (.) dharma
+PSB062	#sanatan vuol dire esisteva esiste esisterà
 PSB062	eterno
 PSB062	perché non può essere che duemila anni fa o tremila anni fa o millecinquecento anni fa arriverà una persona e dice guarda queste sono religione dio mi mandato e vi do questa
 PSB062	non esiste perché religione non è un una regole o una soltanto un libro o qualche frase
@@ -40,13 +40,13 @@ PSB062	con
 PSB062	guarda questo è dio è tuo dio e non esiste altro
 PSB062	o non puoi evitare questa
 PSB005	mhmh
-PSB062	perché le scus~ eh nelle scritture vediche si parla guarda tu leggi il questa veda
+PSB062	perché le scus~ eh nelle scritture vediche si parla guarda tu leggi il questa #veda
 PSB062	tu prendi quella proprio tua ragione con tuo cervello
 PSB062	ti hai libertà
 PSB062	per quel caso nell'induismo se ti vedi che c'è alcuni stare adorando una cosa un'altra persona sta adorando un'altra cosa
 PSB062	ma realtà in fondo sta adorando stessa cosa
 PSB005	okay sì ho capito sì sì sì sì certo
-PSB062	e nel cultura veda ci s~ ecco xxxxxx l~ l~ l~ l~ ehm
+PSB062	e nel cultura #veda ci s~ ecco xxxxxx l~ l~ l~ l~ ehm
 PSB062	le cose sufremo e uno
 PSB062	nell'induismo ci sono ti se ti vai a vedere ti vedi che ci sono impersonalisti e personalisti principalmente diviso due
 PSB005	okay
@@ -73,14 +73,14 @@ PSB062	allora se dio voleva così dio poteva ammazzare direttamente perché la m
 PSB005	certo sì
 PSB062	tutte queste guerre tutte queste cose eh nasce da lì quando uno ragiona guarda io sono ragione tutti
 PSB005	esatto
-PSB062	invece in in sanatana dharma dice guarda lui sta adorando una una dea una cosa va bene
+PSB062	invece in in #sanatana #dharma dice guarda lui sta adorando una una dea una cosa va bene
 PSB062	anche lì c'è il signore supremo
-PSB062	nel bhagavadgītā kṛṣṇa dice anche coloro che adorano i dei
+PSB062	nel #bhagavadgītā #kṛṣṇa dice anche coloro che adorano i dei
 PSB062	indirettamente adora me
 PSB062	perché anche io sono dentro anche di quelli dei sono io sempre
 PSB005	mhmh
 PSB062	quindi non c'è quel guerra che c'è tutto il mondo xxx come religione come per quello dico non
-PSB062	sanatana dharma o come conosciamo induismo non è una cosa
+PSB062	#sanatana #dharma o come conosciamo induismo non è una cosa
 PSB062	come di solito vediamo un po' diverso qui il punto di vista
 PSB062	quindi quando vediamo o rispettiamo guarda lui sta adorando questo dea questo eh
 PSB062	rispettiamo anche dentro c'è stesso dio che adoro io
@@ -93,15 +93,15 @@ PSB005	no no no
 PSB062	ma la loro pregavano
 PSB062	solo per loro comunità
 PSB062	ho visto la preghiera non mi proprio dei comun~ non mi vedo religione loro loro comunità
-PSB062	invece in sanatana dharma nell'induismo dice sarvam sukhinah bhavantu
+PSB062	invece in #sanatana #dharma nell'induismo dice #sarvam #sukhinah #bhavantu
 PSB062	dice tutto sarà feloce felice
 PSB062	ma non solo essere uomini anche tutti animali
-PSB062	là separa la veda amritasya putraha voi siete il figli della nettare
+PSB062	là separa la #veda #amritasya #putraha voi siete il figli della nettare
 PSB062	quindi tutti siamo figli di dio non solo uno
 PSB062	tutti siamo figli di dio anche un un un un cane
 PSB005	mhmh
 PSB062	quindi siamo fratelli siamo sorelle siamo dal stesso dio stesso personaggio
-PSB062	anzi la cultura veda dice guarda non siete cioè un certo livello con qualità
+PSB062	anzi la cultura #veda dice guarda non siete cioè un certo livello con qualità
 PSB062	quella qualità non quantità
 PSB062	di qualità non c'è la differenza fa tra dio e un un essere essere anima
 PSB062	sono uguali perché arrivato dalla dio
@@ -112,7 +112,7 @@ PSB062	ma noi siamo limitato ma siamo dal stesso un scintille del fuoco
 PSB005	bellissimo
 PSB062	siamo
 PSB005	un'immagine bellissima
-PSB062	è un scintille del fuoco questo che parla la veda
+PSB062	è un scintille del fuoco questo che parla la #veda
 PSB062	quando noi vediamo questo punto di vista
 PSB062	noi siamo scintille dal fuoco dio è il fuoco
 PSB062	noi siamo scintille sì alla fine noi siamo fuoco la quantità piccolissimo proprio
@@ -121,10 +121,10 @@ PSB062	quel momento non c'è nessuna discriminazione nel ogni cosa che trovi
 PSB005	mhmh
 PSB062	tutti uguali
 PSB005	è bellissimo sì sì sì
-PSB062	questo è brahman quella che parla la cultura vedica
+PSB062	questo è #brahman quella che parla la cultura vedica
 PSB005	mhmh
-PSB062	cultura veda è il sanatana dharma
-PSB062	se ti vai in posto dove c'è sanatana dharma molto seguito vedi che sta adorando le le le alberi
+PSB062	cultura #veda è il #sanatana #dharma
+PSB062	se ti vai in posto dove c'è #sanatana #dharma molto seguito vedi che sta adorando le le le alberi
 PSB062	sta adorando le fiumi
 PSB062	oggi parliamo di natura le cose noi abbiamo scelto grandi alberi guarda questo dovete adorade adorare come dei
 PSB062	perché danno molto ossigeno
@@ -150,11 +150,11 @@ PSB062	quindi non può essere casa di dio solo per godimento ma godimento dell'a
 PSB005	mh
 PSB005	certo sì
 PSB062	noi siamo taccati tutti con le corpo ma l'induismo parla dell'anima non parla dello perché lascia
-PSB062	noi siamo in sanscrit dice sacchidananda
-PSB062	sacchid è pieno di felicità è pieno di coscienza
+PSB062	noi siamo in #sanscrit dice #sacchidananda
+PSB062	#sacchid è pieno di felicità è pieno di coscienza
 PSB062	siamo di quello quello se è pieno di coscienza pieno di felicità
 PSB062	è eterna
-PSB062	questo siamo noi non siamo questo corpo il primo frase di bhagavadgītā questo guarda voi non siete questo corpo siete la anima
+PSB062	questo siamo noi non siamo questo corpo il primo frase di #bhagavadgītā questo guarda voi non siete questo corpo siete la anima
 PSB005	e come si fa a staccarsi dal corpo
 PSB062	guarda non devi staccare dal corpo perché tu ce hai un veicolo una macchina
 PSB062	sicuramente questa macchina ogni giorno pulisci
@@ -164,32 +164,32 @@ PSB062	però tu non sei quella macchina però c'è taccamento
 PSB005	mhmh
 PSB005	sì
 PSB062	abbiamo noi anche questo attaccamento e un po' rimane questo mondo materiale per quello siamo qui
-PSB062	quando siamo proprio no non c'è quell'attaccamento siamo già liberi siamo yogi
-PSB062	sai cosa vuol dire yoga
-PSB062	voi dite tutto quello che fanno tutti quello yoga che abbiamo tutto il mondo
-PSB062	la vera yoga quella che parla di collegare
+PSB062	quando siamo proprio no non c'è quell'attaccamento siamo già liberi siamo #yogi
+PSB062	sai cosa vuol dire #yoga
+PSB062	voi dite tutto quello che fanno tutti quello #yoga che abbiamo tutto il mondo
+PSB062	la vera #yoga quella che parla di collegare
 PSB062	collegare con cosa collegare con la dio
 PSB062	collegare con quel persona suprema
 PSB005	mhmh
 PSB062	allora adesso e nell'aspetto di dio sono tre tipi che possono vedere
 PSB062	o impersonale
 PSB062	o personale oppure dappertutto
-PSB062	in in sanscrito si si chiama brahma
-PSB062	bhagavan
-PSB062	e paramatma
-PSB062	il brahma
+PSB062	in in sanscrito si si chiama #brahma
+PSB062	#_ bhagavan
+PSB062	e #paramatma
+PSB062	il #brahma
 PSB062	quello che parla solito in tutte le religioni dio è luce infinita
 PSB062	ma il luce ho capito ma luce mai mai mai visto luce senza suo
-PSB062	adhara non so come si dice che non può se se una candella può essere luce se è sole c'è luce
+PSB062	#adhara non so come si dice che non può se se una candella può essere luce se è sole c'è luce
 PSB062	sicuramente qualcosa c'è da da dove viene questa luce c'è una domanda no
 PSB005	mhmh
 PSB062	luce non accende così
 PSB005	no
 PSB062	così dio è un personaggio
-PSB062	si chiama visnu narayana krisna poi rama come vuoi dire
+PSB062	si chiama #visnu #narayana #krisna poi #rama come vuoi dire
 PSB062	e suo luce eterna e illimitata luce che viene dal suo corpo questo è impersonalismo impersone
 PSB005	mhmh
-PSB062	brahma si chiama
+PSB062	#brahma si chiama
 PSB005	mhmh
 PSB062	e quando lui c'è nel ogni atomo
 PSB062	tipo se il sole nel nel cielo se ti vai vedere nel vari laghi
@@ -199,7 +199,7 @@ PSB062	oppure lasci tanti specchi o per
 PSB005	mhmh
 PSB062	la strada guardi
 PSB062	dappertutto c'è il sole
-PSB062	così l'anima suprema è dio è visnu fa questo aspetto
+PSB062	così l'anima suprema è dio è #visnu fa questo aspetto
 PSB062	che vedi da~ da~ dappertutto
 PSB062	quest'anima
 PSB062	quest'anima dappertutto ti vedi questa questa visione si chiama xxx
@@ -218,7 +218,7 @@ PSB062	dappertutto qui c'è anima c'è questo dio anima suprema
 PSB062	noi siamo anima in fianco c'è anche anima suprema anche nel un nel un atomo c'è
 PSB062	e quindi quella è onnipresenza di dio
 PSB062	e così ha onnipresenza di dio c'è dio impersonale
-PSB062	e dio personale bhagavan
+PSB062	e dio personale #bhagavan
 PSB062	questa cosa solo nel cultura vedica ti spiega
 PSB062	ognuno hanno un'idea di dio ma
 PSB005	sì
@@ -231,32 +231,32 @@ PSB062	okay ma solido
 PSB062	se ti non voglio offendere nessuna religione però
 PSB062	se ti vai una religione dice guarda questa religione nato milleottocento o
 PSB062	duemila anni fa tremila anni fa
-PSB062	nel vai in sanatana dharma nel cultura vedica non esiste una calendario così che
+PSB062	nel vai in #sanatana #dharma nel cultura vedica non esiste una calendario così che
 PSB062	arrivato lui e l'ha portato non esiste perché x
 PSB062	come il mh la scienza
 PSB062	c'è qualcuno dice guarda la scienza l'ha creato einstein scienza l'ha creato ehm quel scienziato edison non esiste
 PSB005	mhmh
 PSB062	perché scienza non è che fatto un persone
 PSB005	no certo sì
-PSB062	così nel sanatana dharma non ha fatto un persone tantissimi ricci saggi
+PSB062	così nel #sanatana #dharma non ha fatto un persone tantissimi ricci saggi
 PSB005	mhmh
-PSB062	collegando loro metodo loro spiritualità loro coscienza è diventato questo sanatana dharma
+PSB062	collegando loro metodo loro spiritualità loro coscienza è diventato questo #sanatana #dharma
 PSB005	okay ho capito
-PSB062	oppure altri maniera la verità la veda non è fatta dagli uomini
-PSB062	dice veda narayanah saksat è veda è direttamente il dio
+PSB062	oppure altri maniera la verità la #veda non è fatta dagli uomini
+PSB062	dice #veda #narayanah #saksat è #veda è direttamente il dio
 PSB062	tipo possiamo fare un esempio
 PSB062	se ti vai vedere nel una fontana magari c'è scritto millenovecento
 PSB062	fatto il comune di bologna quel momento magari era il il come si dice il commissario non lo so che c'era fatto
 PSB062	oppure vai vedere un posto è creato da questo re o vai vedere un una qualcosa c'è fatto da xx
 PSB062	se vai al mare nessun scritto niente mai chi la farà
 PSB005	no certo
-PSB062	quindi nel sanatana dharma esempio mare dove non esiste non esiste uno un personaggio che l'ha creato
+PSB062	quindi nel #sanatana #dharma esempio mare dove non esiste non esiste uno un personaggio che l'ha creato
 PSB005	non si sa sì
 PSB005	sì certo le cose della natura non si può sapere no ci sono delle teorie però
-PSB062	quindi eh la sc~ coscienza del veda la la cultura della veda è è molto diverso
+PSB062	quindi eh la sc~ coscienza del #veda la la cultura della #veda è è molto diverso
 PSB062	da mh molto libertà
 PSB062	non c'è quell'inganno qua non ti non ti legano proprio fare eh questo devi fare no guarda
-PSB062	addirittura se ti leggi le le veda v~ v~ vedrai che dà molta
+PSB062	addirittura se ti leggi le le #veda v~ v~ vedrai che dà molta
 PSB062	mh uno può essere anche un po' confuso insomma
 PSB062	sarebbe così c'è scritto
 PSB062	vuoi mangiare carne vuoi fare amore nel senso attività fisica ehm vuoi bere l'alcol
@@ -273,14 +273,14 @@ PSB062	verrà più toccare quella
 PSB062	quando dice guarda
 PSB062	se ti tocchi questa non è una problema se puoi evitare meglio perché sai che se lo tocchi ti s~ farà questo xx eh
 PSB062	quindi guarda l~ la è meraviglioso
-PSB062	hila-desi veda bhagavadgītā srimad bhagavatam le scri~ scritture vedici eh sicuramente sì
+PSB062	#hila-desi #veda #bhagavadgītā #srimad #bhagavatam le scri~ scritture vedici eh sicuramente sì
 PSB062	vai al centro culturale troverai libri entra la coscienza molto chiaro molto bello
 PSB005	mhmh
-PSB062	poi in sanatana dharma ci sono diversi livelli
+PSB062	poi in #sanatana #dharma ci sono diversi livelli
 PSB062	perché mh tutto non può essere il primo della classe
 PSB005	no certo sì ma come si fa a diventare tu sei un sacerdote un prete come si chiama la figura
 PSB062	solido nel ehm perché le religione mh là ci sono anche più va~ diversi opinioni diversi rami
-PSB062	e nel sanatana dharma solido bene famigliare con le caste e il il sacerdoti
+PSB062	e nel #sanatana #dharma solido bene famigliare con le caste e il il sacerdoti
 PSB005	mhmh
 PSB062	perché là c'è incarnazione che crediamo sarebbe giusto così perché
 PSB062	vedi che tu sei molto bella io ce l'ho una sorella che è bruttissima
@@ -301,7 +301,7 @@ PSB062	cosa succede a questi bambini cosa fatto loro
 PSB062	qual è colpa e allora dio cattivo
 PSB062	uno può dire così no
 PSB005	ah sì
-PSB062	guarda tutto dipende dal nostro karma
+PSB062	guarda tutto dipende dal nostro #karma
 PSB062	quello che sto facendo sicuramente dobbiamo soffrire
 PSB005	è difficile però da accettare un po'
 PSB062	però è verità quella perché madre natura dice guarda
@@ -309,15 +309,15 @@ PSB062	tu vuoi fare così tu vuoi al~ tagliare tutto quegli alberi va bene ti ma
 PSB005	mhmh
 PSB062	giusto così no
 PSB005	sì sì ho capito sì
-PSB062	così madre natura anche noi fa nascere dove abbiamo fatto nostra karma come come così eh
+PSB062	così madre natura anche noi fa nascere dove abbiamo fatto nostra #karma come come così eh
 PSB005	certo sì
 PSB005	sì sì ho capito perfettamente sì sì
 PSB062	quindi uno nasce in una famiglia braminica uno famiglia sacerdoto
-PSB062	perché ha fatto quell'azione karma nel vita precedente
+PSB062	perché ha fatto quell'azione #karma nel vita precedente
 PSB005	ah precedente
 PSB062	però
-PSB062	anche nel cultura veda dice non bastano quest'era
-PSB062	perché ci sono quattro era satya yuga treta yuga dvapara yuga kali yuga era di satya era di emh dvapara treta era di dvapara era di kali
+PSB062	anche nel cultura #veda dice non bastano quest'era
+PSB062	perché ci sono quattro era #satya #yuga #treta #yuga #dvapara #yuga #kali #yuga era di #satya era di emh #dvapara #treta era di #dvapara era di #kali
 PSB005	mhmh
 PSB062	ma questo era sopra tu tu dici guarda non bastano solo nascere in una famiglia braminica
 PSB005	mhmh
@@ -335,7 +335,7 @@ PSB062	quattro tipi di gente nelle nella società
 PSB062	ci sono il braminico sono sacerdoti e la diciamo il livello inter~ intellez~ ~tuale cioè
 PSB062	le persone intelligenti più
 PSB062	emh sarebbe nel maestri i professori ingegnare ingegneri
-PSB062	coloro che fanno proprio politici e sono secondo grado sono nel ksatriya
+PSB062	coloro che fanno proprio politici e sono secondo grado sono nel #ksatriya
 PSB005	mhmh
 PSB062	coloro che fanno poliziotto soldati coloro che proteggono la società
 PSB062	il terzo gradi sono i contadini commercianti
@@ -345,7 +345,7 @@ PSB062	quindi guarda questi quattro livelli esisteva
 PSB062	naturalmente esiste
 PSB005	mhmh
 PSB062	e naturalmente esiste anche adesso
-PSB062	quindi un professore è un brahmana
+PSB062	quindi un professore è un #brahmana
 PSB005	mhmh
 PSB062	un sacerdote in realtà
 PSB005	okay ah okay è chiaro sì mhmh
@@ -353,29 +353,29 @@ PSB062	eh perché lo insegna
 PSB062	e le secondo
 PSB062	fa soldato poliziotto carabinieri quello che c'è
 PSB062	per proteggere la società
-PSB062	sono ksatriya
+PSB062	sono #ksatriya
 PSB005	mhmh
-PSB062	il terzo coloro che fanno contadini coloro che fanno commerciante businessman
-PSB062	e loro sono il vaisya
+PSB062	il terzo coloro che fanno contadini coloro che fanno commerciante #businessman
+PSB062	e loro sono il #vaisya
 PSB005	sì sì
-PSB062	il sudra quelli che non hanno nessun qualità
+PSB062	il #sudra quelli che non hanno nessun qualità
 PSB062	cioè non ha studiato non ha cosa fa
 PSB062	operai
 PSB005	mhmh certo
-PSB062	e allora questa è cultura veda non è che uno diventava da nascita
+PSB062	e allora questa è cultura #veda non è che uno diventava da nascita
 PSB062	in primordiale non è che nato il bramino solo bramino no
-PSB062	in dravanti
+PSB062	in #dravanti
 PSB062	è diventato una sistema di caste nel nel diciamo nel società
 PSB062	ma realtà là anche c'è la libertà uno può scegliere sua sua posizione
 PSB005	mhmh
-PSB062	eh sì g~ guna parama vagisa
-PSB062	a tuo eh guna è tuo karma dipende tutti i due
+PSB062	eh sì g~ #guna #parama #vagisa
+PSB062	a tuo eh #guna è tuo #karma dipende tutti i due
 PSB005	okay
 PSB005	però comunque per diventare esperto cioè a me sembri molto esperto bisogna studiare forse avrai studiato penso
 PSB062	certo certo
 PSB062	uno professore non nasce eh bisogna diventeare diventare
 PSB005	no eh certo sì
-PSB062	così uno brahmana non solo nasce ma può devono diventare anche quello
+PSB062	così uno #brahmana non solo nasce ma può devono diventare anche quello
 PSB005	e dove si studia c'è una scuola
 PSB062	sì abbiamo diversi istituto dove può studiare
 PSB005	anche in italia ci sono
@@ -415,7 +415,7 @@ PSB062	gesù mai andato con la spada a far fare crociere
 PSB005	eh lo so eh ma infatti quando tu parlavi della mh della violenza dell'amore pensavo no a tutte le cose che ha fatto la chiesa non è che
 PSB005	non è che proprio e era proprio quello che diceva no
 PSB062	no ehm
-PSB062	religione sai com'è old testament se vedi nel vecchio testimone di eh nuovo testim~ eh grandi differenze lo sai
+PSB062	religione sai com'è #old #testament se vedi nel vecchio testimone di eh nuovo testim~ eh grandi differenze lo sai
 PSB005	sì sì
 PSB062	si vede no
 PSB005	certamente
@@ -434,20 +434,20 @@ PSB005	sì sì l'an~ l'anno scorso io ho fatto ho lavorato con degli studenti di
 PSB005	è stato abbastanza pesante perché non ero abituata a mi raccontavano tutto della produzione di come funziona
 PSB005	abbastanza pesante
 PSB005	ehm ma le le f~ la festa di domenica eh che c'è stata al centro zonarelli che che cos'è
-PSB062	ma realtà guarda te l'ho detto che in sanatana dharma ci sono vari livelli vari
+PSB062	ma realtà guarda te l'ho detto che in #sanatana #dharma ci sono vari livelli vari
 PSB005	mhmh
 PSB062	allora loro fatto un rispetto una programma di un santo
 PSB005	mhmh
-PSB062	si chiama lokenath baba in bengala
+PSB062	si chiama #lokenath #baba in bengala
 PSB062	tipo come festeggiare in italia diciamo santo stefano
 PSB005	okay sì sì sì la ricorrenza sì
 PSB062	cioè è una riccorenza così un nome una cosa molto vedica una cosa
-PSB062	diciamo più che veda perché è una cosa più locale cioè
+PSB062	diciamo più che #veda perché è una cosa più locale cioè
 PSB005	okay
 PSB005	ma interessante dei dei banga~ dei bengalesi
-PSB062	una cosa una cosa perché regoli le culture mh nella feste nel nella sanatana dharma nel religione induista esiste tre tipi
-PSB062	lokācāra dēśācāra e xxx
-PSB062	coloro che proprio direttamente dalla veda la scritture
+PSB062	una cosa una cosa perché regoli le culture mh nella feste nel nella #sanatana #dharma nel religione induista esiste tre tipi
+PSB062	#lokācāra #dēśācāra e xxx
+PSB062	coloro che proprio direttamente dalla #veda la scritture
 PSB062	alcuni sono fatta per la nazione anche italia fa non è tipo
 PSB062	diciamo giornata di liberazione
 PSB005	okay
@@ -458,12 +458,12 @@ PSB062	dio della foresta
 PSB062	sicuramente quel dio della foresta adorazione non ci sarà nel mezzo nel piazza maggiore
 PSB005	nella città sì sì dai sì sì
 PSB062	non frega niente dio la foresta cioè non conosce neanche
-PSB062	quindi anche l'induismo esiste alcune cose non solo direttamente che viene dal veda ma la vedi che non c'è la litigare
+PSB062	quindi anche l'induismo esiste alcune cose non solo direttamente che viene dal #veda ma la vedi che non c'è la litigare
 PSB005	xx certo capito sì sì certamente
 PSB062	non c'è la litigare quella
 PSB005	e poi c'è una festa grossa a ottobre giusto
-PSB062	durga puja è l è la adorazione di madre natura realtà
-PSB062	durga è l mh energia esterna di dio
+PSB062	#durga #puja è l è la adorazione di madre natura realtà
+PSB062	#durga è l mh energia esterna di dio
 PSB062	perché solito noi abbiamo questa idea nell'occidentali dio un uomo
 PSB062	un maschietto un un forma maschio dio
 PSB005	certo sì sì sì
@@ -478,9 +478,9 @@ PSB062	la la donna come fatto
 PSB005	hai la
 PSB062	e e allora devono avere un aspetto femminile
 PSB005	eh lo so ma sono d'acc~ anche secondo me c'è un problemino qui infatti sì sì
-PSB062	quindi nel cultura veda dice dio ha una forma il maschio anche una forma femminile
+PSB062	quindi nel cultura #veda dice dio ha una forma il maschio anche una forma femminile
 PSB005	quindi a ottobre c'è la festa della della dea mhmh
-PSB062	dea durga xx eh
+PSB062	dea #durga xx eh
 PSB062	è l'energia là ci sono tanti disputi di parlare perché non è non ti posso dire una parola quindi finire queste cose
 PSB005	certo
 PSB062	ci vogliono anni anni per studiare perché sai come eh l'induismo non è una cosa fatta da
@@ -488,24 +488,24 @@ PSB005	xxx
 PSB005	certo sì sì
 PSB005	ma per carità
 PSB005	però eh dura tanti giorni che tipo di festa si fa cosa xxxx
-PSB062	eh allora ci sono adorazione di dea durga
-PSB062	ci sono anche intorno altri dei non solo durga ci sono dea della fortuna laksmi
-PSB062	ci sarà dea della coscienza sarasvati
-PSB062	sarà dea dei soldati dio della soldati eh kārttikeya
+PSB062	eh allora ci sono adorazione di dea #durga
+PSB062	ci sono anche intorno altri dei non solo #durga ci sono dea della fortuna #laksmi
+PSB062	ci sarà dea della coscienza #sarasvati
+PSB062	sarà dea dei soldati dio della soldati eh #kārttikeya
 PSB062	ci sarà il
-PSB062	dio mh ganeśa tipo forma elefante la testa
+PSB062	dio mh #ganeśa tipo forma elefante la testa
 PSB005	mhmh
 PSB005	ah questo è famoso eh sì sì sì
-PSB062	eh molto famoso ganeśa
-PSB062	saranno altri adorazione sarà anche adorazione charak gran shiva o maha ratha yatra e le dio personale suprema
+PSB062	eh molto famoso #ganeśa
+PSB062	saranno altri adorazione sarà anche adorazione #charak gran #shiva o #maha #ratha #yatra e le dio personale suprema
 PSB062	guarda o~ eh s~
-PSB062	sembra vediamo che c'è la durga puja ma ogni cosa verrà offerto al signore
+PSB062	sembra vediamo che c'è la #durga #puja ma ogni cosa verrà offerto al signore
 PSB005	mhmh
 PSB062	poi vanno offerto nei dei
 PSB005	ho capito sì chiarissimo sì
-PSB062	quindi lo scopo della della anche l'adorazione di dea durga o quella che diciamo
+PSB062	quindi lo scopo della della anche l'adorazione di dea #durga o quella che diciamo
 PSB062	alla fine adorazioni indirettamente dio
-PSB062	ma in bhagavadgītā kṛṣṇa eh dice il persona più intellingenti fanno direttamente a noi
+PSB062	ma in #bhagavadgītā #kṛṣṇa eh dice il persona più intellingenti fanno direttamente a noi
 PSB005	mhmh
 PSB062	però coloro che adorano cieli celesti dei
 PSB062	eh c'è un legali c'è mh
@@ -579,7 +579,7 @@ PSB062	sì conosco hindi eh non conosco male riesco a scrivere leggere
 PSB005	okay
 PSB005	come si scrive l'hindi con quali lettere
 PSB062	io
-PSB062	è lettera di devanagari è lettera xx di sanscrito lettera più vecchia del mondo diciamo più o meno
+PSB062	è lettera di #devanagari è lettera xx di sanscrito lettera più vecchia del mondo diciamo più o meno
 PSB005	oh uao
 PSB062	eh parlo sanscrito
 PSB062	eh leggo scrivo
@@ -601,12 +601,12 @@ PSB062	in fami~ in casa parliamo bengala tutti
 PSB005	mhmh
 PSB062	perché sai madrelingua è sempre più dolce
 PSB005	certo sì
-PSB062	nel nel veda c'è un verso narayana
-PSB062	xx xx xx
-PSB062	perché dove è anda~ ramachandra eh sri lanka no
+PSB062	nel nel #veda c'è un verso #narayana
+PSB062	#_ xx xx xx
+PSB062	perché dove è anda~ #ramachandra eh sri lanka no
 PSB062	poi xx era palazzi di oro era pieni di oro era mh opulenza incredibile
 PSB005	mhmh
-PSB062	diceva ramachandra guarda può essere di oro ma non mi interessa
+PSB062	diceva #ramachandra guarda può essere di oro ma non mi interessa
 PSB062	perché mio paese mia madre
 PSB062	è il migliore del paradiso
 PSB005	e tu cosa ne pensi di questa cosa
@@ -694,7 +694,7 @@ PSB062	eh il filo del braminico questo eh abbiamo fatto la festa lì erano sette
 PSB005	ah wow
 PSB005	bellissimo chissà
 PSB062	eh erano feste di tre giorni
-PSB062	abbiamo distribuito cibo vegetariano i prasadas cibo sacrificato di signore
+PSB062	abbiamo distribuito cibo vegetariano i #prasadas cibo sacrificato di signore
 PSB062	per i tutti poveri tutta gente lì
 PSB005	mhmh qual è il posto il paese la città
 PSB062	eh io vivo in periferia di dakha un comune si chiama dohar
@@ -713,7 +713,7 @@ PSB005	certo sì
 PSB062	eh beh era un po' isolato tre giorni uno
 PSB062	in realtà quello è una cosa simbolico
 PSB062	eh adesso tre giorni una volta erano dodici anni
-PSB062	perché genitori lo mandavano alla gurukula
+PSB062	perché genitori lo mandavano alla #gurukula
 PSB005	okay
 PSB062	è il è le scuole dei maestri dove c'erano la maestro e maestra marito moglie con altri discepoli
 PSB062	dove loro imparavano tutto cucinare vagabondare le mucche
@@ -729,7 +729,7 @@ PSB005	da quanto tempo non c'è più questa cosa
 PSB062	finché non è entrato l'inglese avevamo questi sistemi
 PSB005	ah però da tanto comunque cioè sì sì
 PSB062	c'era alcuni posti ancora c'è
-PSB062	se vai in india c'è mahar-gur c'è gurucula dove lasciano bambini per studiare
+PSB062	se vai in india c'è #mahar-gur c'è #gurucula dove lasciano bambini per studiare
 PSB005	wow fantastico
 PSB062	xxx
 PSB005	e nel mondo l'induismo è diffuso o non molto
@@ -748,7 +748,7 @@ PSB062	mh qualche centinaia xx
 PSB005	beh però non è poco sì
 PSB062	speriamo sì
 PSB005	ho parlato domenica con un ragazzo xx
-PSB062	abbiamo fatto una festa del qualche domenica fa festa della xx e domenica prima della quel festa
+PSB062	abbiamo fatto una festa del qualche domenica fa festa della #xx e domenica prima della quel festa
 PSB005	ah sì e co~ che cos'è
 PSB062	è una festa che fanno
 PSB062	il signore perché solito i devoti i vanno alla chiesa alla tempio alla moschea per incontrare dio no
@@ -880,7 +880,7 @@ PSB062	ma coloro proprio vengono per rubare secondo me bisogna mandare al loro p
 PSB062	perché secondo me anche loro paese originale non accetterebbe questa gente cioè capito
 PSB005	no eh cioè no no certamente
 PSB062	perché nel sanscrito c'è un verso dove dice questo tipo di gente
-PSB062	chiamato bhubhara bhubhara bhu è mondo e bhara pesante
+PSB062	chiamato #bhubhara #bhubhara #bhu è mondo e #bhara pesante
 PSB062	è pesante per noi cioè fa pegian~ appesantisce il mondo
 PSB062	non è una persona che ti può aiutare per qualcosa fare buono
 PSB005	quindi bologna è un po' peggiorata
@@ -937,7 +937,7 @@ PSB062	ma c'è non è che non c'è
 PSB062	eh ultimamente
 PSB062	c'è molto radicalismo no cioè
 PSB062	sta facendo questo non c'era così ma
-PSB062	ultimamente sta crescendo molto questo eh educazione di madrasa cioè capito
+PSB062	ultimamente sta crescendo molto questo eh educazione di #madrasa cioè capito
 PSB062	mh che non sicuramente ti dà mh una così una testa un po' chiusa
 PSB062	è quello che non va bene successo tante volte le cose brutte succede
 PSB062	però

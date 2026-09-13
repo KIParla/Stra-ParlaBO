@@ -74,12 +74,12 @@ PSB014	all'università
 PSB033	io studio arabo arabo però so poco lei invece st~ marocchina
 PSB014	sì
 PSB034	tu non parli arabo
-PSB014	no allora io parlo il dialetto però n c~ non arabo tradizonale fuṣḥā capito
+PSB014	no allora io parlo il dialetto però n c~ non arabo tradizonale #fuṣḥā capito
 PSB034	sì
 PSB014	no
-PSB034	dārija ((ride))
-PSB014	dārija bravo
-PSB034	dārija xx dārija ((ride))
+PSB034	#_ dārija ((ride))
+PSB014	#dārija bravo
+PSB034	#_ dārija xx dārija ((ride))
 PSB033	ehm e perché sei venuto qua se posso chiedere perché sei venuto qua a bologna
 PSB034	mh
 PSB014	per lavoro studio
@@ -191,8 +191,8 @@ PSB034	sì
 PSB014	mhmh è dif~ è diverso
 PSB034	sì
 PSB014	mhmh
-PSB033	e invece a casa con tuo fratello quindi pa~ parli dārija in dialetto
-PSB034	no parlo in dārija con con il mio fratello
+PSB033	e invece a casa con tuo fratello quindi pa~ parli #dārija in dialetto
+PSB034	no parlo in #dārija con con il mio fratello
 PSB033	sì mhmh ehm quant~
 PSB034	ah il mio fratello parla poco italiano
 PSB033	ah
@@ -205,7 +205,7 @@ PSB033	è più grande
 PSB034	sì
 PSB014	quindi è da
 PSB033	tu quant~ tu quanti anni hai scusa
-PSB034	eh settembre prossimo kammel venti
+PSB034	eh settembre prossimo #kammel venti
 PSB033	venti ah
 PSB014	ah okay dai
 PSB033	e tuo fratello
@@ -248,13 +248,13 @@ PSB034	cosa cibo
 PSB033	cibo cibo
 PSB014	pizza pasta
 PSB033	pizza pasta o
-PSB034	tajine ((ride))
-PSB033	tajine eh
-PSB014	tajine e quindi preferisci quello marocchino
-PSB033	ta~ tajine o pizza
-PSB033	tajine
-PSB034	tajine tajine ((ride))
-PSB033	meglio tajine più buono
+PSB034	#_ tajine ((ride))
+PSB033	#_ tajine eh
+PSB014	#tajine e quindi preferisci quello marocchino
+PSB033	ta~ #tajine o pizza
+PSB033	#_ tajine
+PSB034	#_ tajine tajine ((ride))
+PSB033	meglio #tajine più buono
 PSB014	eh lo so è un casino
 PSB033	e qua a bologna
 PSB034	però pizza è buono
@@ -264,7 +264,7 @@ PSB033	e
 PSB034	in italia in marocco no
 PSB033	eh
 PSB014	eh eh sì lo so
-PSB033	e qua dove dove mangi il tajine lo fai a casa
+PSB033	e qua dove dove mangi il #tajine lo fai a casa
 PSB014	lo sai fare te
 PSB034	sì vado a casaxxx
 PSB033	ah
@@ -355,22 +355,22 @@ PSB034	ghali
 PSB033	ghali
 PSB014	ghali giustamente
 PSB014	eh ghali aiuta
-PSB034	e baby gang
-PSB014	baby gang eccoci
-PSB033	ah baby gang
-PSB034	il suo cantante preferito baby gang
+PSB034	e #baby gang
+PSB014	#baby gang eccoci
+PSB033	ah #baby gang
+PSB034	il suo cantante preferito #baby gang
 PSB014	non è vero
-PSB033	sì sì lei ama baby gang
+PSB033	sì sì lei ama #baby gang
 PSB014	non è vero
 PSB014	e non è vero
 PSB033	però è vero
 PSB014	e ah bene bene e i~ anche araba hai detto e quale ti piace di più
-PSB034	e l'arabo il marocchino il dārija
+PSB034	e l'arabo il marocchino il #dārija
 PSB014	marocchino
 PSB014	okay sì lo conosco
 PSB014	sì
 PSB033	eh io no io non lo conosco
-PSB014	vuol dire tipo tipo pistola
+PSB014	#_ vuol dire tipo tipo pistola
 PSB033	ah
 PSB014	xxx
 PSB033	xxx
@@ -496,7 +496,7 @@ PSB034	marocco caldo quanti caldo
 PSB014	troppo caldo lo so
 PSB014	però a me non piace il freddo
 PSB014	mh invece tipo la montagna il mare cosa preferisci
-PSB034	ni tu
+PSB034	#ni tu
 PSB014	entrambi
 PSB034	sì
 PSB033	mh
@@ -657,7 +657,7 @@ PSB014	piena
 PSB034	xxx
 PSB014	troppo
 PSB034	sì
-PSB014	oh vabbè ehm o t- ti piace la tua zona dove abiti ti piace
+PSB014	ride oh vabbè ehm o t- ti piace la tua zona dove abiti ti piace
 PSB034	sìsì
 PSB014	mhmh c'è tutto vicino
 PSB034	tranquilla zona tranquilla sì
