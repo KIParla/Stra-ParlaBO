@@ -508,7 +508,7 @@ PSB005	sì sì
 PSB005	mhmh
 PSB091	per esempio
 PSB091	naso
-PSB091	nasul
+PSB091	$nasul
 PSB005	eh sì
 PSB091	pane
 PSB091	#_ pâine
@@ -1523,7 +1523,7 @@ PSB005	possiamo lì c'è la cucina grande
 PSB091	sai dove c'è
 PSB005	da ristorante
 PSB091	bella anche cucina dovrei
-PSB091	ah io ho provato a parlare con i mh anarchisti capito con gli anarchici
+PSB091	ah io ho provato a parlare con i mh $anarchisti capito con gli anarchici
 PSB005	mhmh
 PSB091	con il gruppo
 PSB091	eh

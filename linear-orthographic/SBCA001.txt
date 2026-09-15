@@ -460,14 +460,14 @@ PSB043	eh non è che rimani lì tipo ah a girare o qualcosa basta metti tutti sp
 PSB045	si abbassi la la guardia
 PSB044	ah
 PSB044	okay
-PSB043	eh metti un po' d'acqua su e lasciala bollere ah
+PSB043	eh metti un po' d'acqua su e lasciala $bollere ah
 PSB033	buonissima
 PSB044	mh
 PSB043	come
 PSB043	acqua
 PSB045	l'acqua sì
 PSB033	ah ancora
-PSB043	e dopo si asciuga lascia che tutta l'acqua sì eh quando cosc~ co~ co coce
+PSB043	e dopo si asciuga lascia che tutta l'acqua sì eh quando cosc~ co~ co $coce
 PSB045	si ma tanto non si metterà a farla quindi
 PSB043	no no magari un giorno eh
 PSB045	ah beh
@@ -480,7 +480,7 @@ PSB043	guarda non dici queste anche io ero così da piccola
 PSB044	davvero
 PSB043	mi piace solo la pasticceria da piccola non mi piace proprio queste cose qua
 PSB045	vabbè ma anche adesso ti piace molto di più la
-PSB043	lavori di casa tutti questi cosi io sono quella lì che non mi piace fare nienti
+PSB043	lavori di casa tutti questi cosi io sono quella lì che non mi piace fare $nienti
 PSB033	ah ah
 PSB043	quando ho voglia di entrare in cucina entro a fare
 PSB045	vabbè ma anche adesso ti piace molto di più cucinare eh
@@ -497,7 +497,7 @@ PSB043	quando anche ti dicono hai meno più prendo che penso qualche volta che m
 PSB044	no perché eh
 PSB043	di quando io non ho fiducia tipo a me stessa faccio un piatto
 PSB033	no
-PSB043	ma è buono dico ma ma scherzano forsa
+PSB043	ma è buono dico ma ma scherzano $forsa
 PSB033	ma sei veramente brava
 PSB044	no no eh
 PSB033	no no eh
@@ -647,7 +647,7 @@ PSB045	xx
 PSB043	i~ indecisa
 PSB045	ma io non guido neanche qua che è tutto sistemato così devo guidare lì
 PSB043	no
-PSB043	non guidare però di andare nelli posti sempre hai bisogno di quella compagnia non non aveva quella quindi voi eh
+PSB043	non guidare però di andare $nelli posti sempre hai bisogno di quella compagnia non non aveva quella quindi voi eh
 PSB033	okay
 PSB043	a~ andiamo andiamo si riportate in tutti i posti
 PSB044	ah ecco vieni di qua
@@ -698,7 +698,7 @@ PSB043	perché non hai una cosa mh
 PSB033	non vedo l'ora
 PSB043	una piccola città x dentro una montagna così basta non hai
 PSB044	mhmh
-PSB043	ci sono quel zurro quelle vie così
+PSB043	ci sono quel $zurro quelle vie così
 PSB033	che bello
 PSB043	che se vedono e basta non hai che grandi o così
 PSB044	che ti perdi capito
@@ -1123,7 +1123,7 @@ PSB043	c'ho qua la cannella
 PSB033	eh perfetto
 PSB044	e vist
 PSB044	cosa è cambiato
-PSB043	non compliamo la vita vero
+PSB043	non $compliamo la vita vero
 PSB044	no esa~
 PSB045	xx xx adesso vediamo
 PSB045	ecco qua
@@ -1399,7 +1399,7 @@ PSB033	beh anche
 PSB045	eh beh di sera dopo il digiuno poi
 PSB045	non me la godo
 PSB044	si è vero
-PSB043	appena mangiamo bricchiamo
+PSB043	appena mangiamo $bricchiamo
 PSB043	noi siamo ubriachi
 PSB033	eh vedi vero non puoi mangiare tanto si è vero
 PSB044	ah
@@ -2033,7 +2033,7 @@ PSB033	mh
 PSB043	dopo io rispondo in un modo
 PSB043	allora dico una ah
 PSB045	eh vabbè
-PSB043	che pensano veramente che io intendivo dire quella cosa
+PSB043	che pensano veramente che io $intendivo dire quella cosa
 PSB043	qualche volta e no no rimani così
 PSB043	non ha neanche andò a spiegare perché loro ha~ hanno fatto eh
 PSB044	ah è vero

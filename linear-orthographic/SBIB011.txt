@@ -20,7 +20,7 @@ PSB062	eterno
 PSB062	perché non può essere che duemila anni fa o tremila anni fa o millecinquecento anni fa arriverà una persona e dice guarda queste sono religione dio mi mandato e vi do questa
 PSB062	non esiste perché religione non è un una regole o una soltanto un libro o qualche frase
 PSB005	mhmh
-PSB062	la religione sarebbe una cosa molto eterna che esisteva esisterà esi~ esistisce tipo
+PSB062	la religione sarebbe una cosa molto eterna che esisteva esisterà esi~ $esistisce tipo
 PSB062	se accendiamo fuoco e qui crea un po' di luce e e calore
 PSB062	ma questa cosa è naturale esiste sempre
 PSB005	mhmh
@@ -47,7 +47,7 @@ PSB062	per quel caso nell'induismo se ti vedi che c'è alcuni stare adorando una
 PSB062	ma realtà in fondo sta adorando stessa cosa
 PSB005	okay sì ho capito sì sì sì sì certo
 PSB062	e nel cultura #veda ci s~ ecco xxxxxx l~ l~ l~ l~ ehm
-PSB062	le cose sufremo e uno
+PSB062	le cose $sufremo e uno
 PSB062	nell'induismo ci sono ti se ti vai a vedere ti vedi che ci sono impersonalisti e personalisti principalmente diviso due
 PSB005	okay
 PSB062	là si parla molto di spiritualità
@@ -57,8 +57,8 @@ PSB005	mhmh
 PSB062	ci sono alcuni che ammazzano animali avanti la divinità
 PSB062	ma questi hanno creato il saggi mh vedici perché
 PSB062	evitare evitare
-PSB062	mazzare tanti animali
-PSB062	quindi data una procedura allora in questa maniera lo mazzi
+PSB062	$mazzare tanti animali
+PSB062	quindi data una procedura allora in questa maniera lo $mazzi
 PSB062	coloro che devono mangiare proprio carne proprio devono non puoi evitare allora fai magari una volta al mese questo è un po' xxx
 PSB062	quindi poteva scalare meno violenza
 PSB062	quindi il cultura vedica non esiste la violenza
@@ -94,7 +94,7 @@ PSB062	ma la loro pregavano
 PSB062	solo per loro comunità
 PSB062	ho visto la preghiera non mi proprio dei comun~ non mi vedo religione loro loro comunità
 PSB062	invece in #sanatana #dharma nell'induismo dice #sarvam #sukhinah #bhavantu
-PSB062	dice tutto sarà feloce felice
+PSB062	dice tutto sarà $feloce felice
 PSB062	ma non solo essere uomini anche tutti animali
 PSB062	là separa la #veda #amritasya #putraha voi siete il figli della nettare
 PSB062	quindi tutti siamo figli di dio non solo uno
@@ -126,7 +126,7 @@ PSB005	mhmh
 PSB062	cultura #veda è il #sanatana #dharma
 PSB062	se ti vai in posto dove c'è #sanatana #dharma molto seguito vedi che sta adorando le le le alberi
 PSB062	sta adorando le fiumi
-PSB062	oggi parliamo di natura le cose noi abbiamo scelto grandi alberi guarda questo dovete adorade adorare come dei
+PSB062	oggi parliamo di natura le cose noi abbiamo scelto grandi alberi guarda questo dovete $adorade adorare come dei
 PSB062	perché danno molto ossigeno
 PSB062	dovete salvare questo fiume dovete adorare come madre
 PSB062	e la natura madre natura sono distrutta oggi
@@ -149,7 +149,7 @@ PSB005	mh
 PSB062	quindi non può essere casa di dio solo per godimento ma godimento dell'anima non della corpo
 PSB005	mh
 PSB005	certo sì
-PSB062	noi siamo taccati tutti con le corpo ma l'induismo parla dell'anima non parla dello perché lascia
+PSB062	noi siamo $taccati tutti con le corpo ma l'induismo parla dell'anima non parla dello perché lascia
 PSB062	noi siamo in #sanscrit dice #sacchidananda
 PSB062	#sacchid è pieno di felicità è pieno di coscienza
 PSB062	siamo di quello quello se è pieno di coscienza pieno di felicità
@@ -160,7 +160,7 @@ PSB062	guarda non devi staccare dal corpo perché tu ce hai un veicolo una macch
 PSB062	sicuramente questa macchina ogni giorno pulisci
 PSB062	ogni giorno metti la benzina ogni giorno metti l'olio pulisci fai tutto perché
 PSB062	se sbatte un po' di tua macchina ti senti proprio nel mh ti spacca il cuore guarda mia macchina
-PSB062	però tu non sei quella macchina però c'è taccamento
+PSB062	però tu non sei quella macchina però c'è $taccamento
 PSB005	mhmh
 PSB005	sì
 PSB062	abbiamo noi anche questo attaccamento e un po' rimane questo mondo materiale per quello siamo qui
@@ -187,7 +187,7 @@ PSB062	luce non accende così
 PSB005	no
 PSB062	così dio è un personaggio
 PSB062	si chiama #visnu #narayana #krisna poi #rama come vuoi dire
-PSB062	e suo luce eterna e illimitata luce che viene dal suo corpo questo è impersonalismo impersone
+PSB062	e suo luce eterna e illimitata luce che viene dal suo corpo questo è impersonalismo $impersone
 PSB005	mhmh
 PSB062	#brahma si chiama
 PSB005	mhmh
@@ -290,7 +290,7 @@ PSB062	quella sorella che è molto brutta può dire ma come mai
 PSB062	l'amica sua è così bella ma io così brutto
 PSB062	come mai lui è ricco eh e io povero come mai lui è forte e io debole
 PSB062	come mai lui ha molta coscienza e io non ho niente
-PSB062	molta affulenza io non ho niente io ho molto povertà perché
+PSB062	molta $affulenza io non ho niente io ho molto povertà perché
 PSB062	e allora dio fa discriminazione
 PSB005	mhmh
 PSB062	dio manda la buona famiglia almeno
@@ -312,7 +312,7 @@ PSB005	sì sì ho capito sì
 PSB062	così madre natura anche noi fa nascere dove abbiamo fatto nostra #karma come come così eh
 PSB005	certo sì
 PSB005	sì sì ho capito perfettamente sì sì
-PSB062	quindi uno nasce in una famiglia braminica uno famiglia sacerdoto
+PSB062	quindi uno nasce in una famiglia braminica uno famiglia $sacerdoto
 PSB062	perché ha fatto quell'azione #karma nel vita precedente
 PSB005	ah precedente
 PSB062	però
@@ -373,7 +373,7 @@ PSB062	a tuo eh #guna è tuo #karma dipende tutti i due
 PSB005	okay
 PSB005	però comunque per diventare esperto cioè a me sembri molto esperto bisogna studiare forse avrai studiato penso
 PSB062	certo certo
-PSB062	uno professore non nasce eh bisogna diventeare diventare
+PSB062	uno professore non nasce eh bisogna $diventeare diventare
 PSB005	no eh certo sì
 PSB062	così uno #brahmana non solo nasce ma può devono diventare anche quello
 PSB005	e dove si studia c'è una scuola
@@ -419,7 +419,7 @@ PSB062	religione sai com'è #old #testament se vedi nel vecchio testimone di eh 
 PSB005	sì sì
 PSB062	si vede no
 PSB005	certamente
-PSB062	dio dice che non devi mazzare
+PSB062	dio dice che non devi $mazzare
 PSB062	loro intende solo per questa per uomini no
 PSB062	incluso anche animali
 PSB005	sì sì sì
@@ -739,7 +739,7 @@ PSB062	terzo religione nel mondo
 PSB005	in inghilterra saranno molti penso
 PSB062	sì sono terzo religione del m~ del se se calcoliamo dei dei popolazione è terzo religione del mondo
 PSB005	del mondo
-PSB062	prima sarebbe cristianesimo poi islam e terzo hindu quarto buddo buddismo poi ci sono tante altre
+PSB062	prima sarebbe cristianesimo poi islam e terzo hindu quarto $buddo buddismo poi ci sono tante altre
 PSB005	ah sì
 PSB005	buddismo sì
 PSB005	sì sì certo e invece a bologna perché io ho parlato con tanti ragazzi del del bangladesh ma sono la maggior parte musulmani
@@ -832,7 +832,7 @@ PSB062	mille lire noi sempre compravano così qualche pagina leggevamo le notizi
 PSB005	mhmh
 PSB005	bellissimo arrivava un po' in ritardo forse
 PSB062	nel giornale ba~ magari era giornale di fai finta di giovedì
-PSB062	a lui ave~ arrivavava avevamo domenica
+PSB062	a lui ave~ $arrivavava avevamo domenica
 PSB005	mh sì sì certo tipico
 PSB005	bellissimo quindi comunque tu hai continuato ad aspettare
 PSB062	però aspettavo quando arriva ah guarda oggi hanno comprato devo sapere cosa succede

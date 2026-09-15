@@ -54,7 +54,7 @@ PSB031	noi ehm
 PSB031	conosciamo
 PSB005	sì sì sì
 PSB031	ehm
-PSB031	tri tre anni fa
+PSB031	$tri tre anni fa
 PSB005	okay
 PSB031	in ucraina
 PSB005	okay
@@ -133,7 +133,7 @@ PSB030	ehm c'è differenza dove ehm sono dove sono eh
 PSB030	come uguale da poco tempo a questo altri posti
 PSB030	ehm
 PSB030	#_ ja by sejčas v otdych
-PSB030	c'è una mh libra ehm zona ehm
+PSB030	c'è una mh $libra ehm zona ehm
 PSB030	vicino
 PSB031	portici portici
 PSB030	ah portici
@@ -177,7 +177,7 @@ PSB030	roba da di farina
 PSB005	mhmh
 PSB030	torta
 PSB005	okay
-PSB030	e io non mange carne
+PSB030	e io non $mange carne
 PSB005	mhmh
 PSB030	ma altre eh mangio tutto
 PSB005	okay anch'io non mangio la carne
@@ -282,7 +282,7 @@ PSB005	io sono molto golosa
 PSB031	con ehm frutta
 PSB030	ah ah
 PSB031	con
-PSB030	celia celia molto buono
+PSB030	$celia $celia molto buono
 PSB030	#_ vyšnja
 PSB031	sì sì sì sì
 PSB031	ciligie o
@@ -429,7 +429,7 @@ PSB005	sì sì
 PSB005	dimmi dimmi
 PSB005	vi incontrate raramente
 PSB030	sì
-PSB030	sì solo a curso
+PSB030	sì solo a $curso
 PSB005	okay certo
 PSB030	mhmh
 PSB005	però vi conoscete già da ottobre
@@ -462,7 +462,7 @@ PSB005	ah sì
 PSB030	xx giorni
 PSB031	un mh
 PSB030	eh
-PSB031	directore mh
+PSB031	$directore mh
 PSB031	di film
 PSB031	eh ucraina mh ave~
 PSB031	avete oscar
@@ -510,12 +510,12 @@ PSB030	in
 PSB030	questo anni ehm prov~ proverò proverà
 PSB005	mhmh
 PSB030	eh vado eh andare a università
-PSB030	eh facultia di ingegneria
+PSB030	eh $facultia di ingegneria
 PSB005	wow
 PSB005	difficile
 PSB030	in romeno a romania
 PSB005	difficile
-PSB030	perché sì facultia di inglese ehm
+PSB030	perché sì $facultia di inglese ehm
 PSB005	ah sì giusto
 PSB005	difficile ingegneria
 PSB005	per me no no
@@ -652,7 +652,7 @@ PSB031	#_ nu takož mil'jon je
 PSB030	ehm anche dnipro circa milione
 PSB031	eh adesso ehm
 PSB031	più perché molte persone mh
-PSB031	movimente #to mh
+PSB031	$movimente #to mh
 PSB031	#_ to safe place ((ride))
 PSB005	sì sì sì certo e perché la tua città è più sicura
 PSB031	mh
@@ -668,7 +668,7 @@ PSB030	xx
 PSB031	sì
 PSB031	sì
 PSB030	sì ma
-PSB030	ogni giorno c'è ehm bombarda
+PSB030	ogni giorno c'è ehm $bombarda
 PSB005	mhmh
 PSB030	#_ bombardirovat'
 PSB005	sì sì sì sì
@@ -764,7 +764,7 @@ PSB005	quindi tu hai u~ una figlia
 PSB030	ehm
 PSB030	eh come
 PSB005	hai solo una figlia
-PSB030	no no sone io ho figlio grande
+PSB030	no no $sone io ho figlio grande
 PSB005	okay
 PSB030	e due figlie
 PSB030	che più piccola
@@ -859,7 +859,7 @@ PSB005	okay
 PSB030	mia papà e mamma ora con mia figlia ehm grande io usare ehm lingua ucraina mia figlia piccola lingua russa
 PSB005	perché
 PSB005	è interessante
-PSB030	ehm mh mia figlia grande ehm menta patrioto no russo non usare niente russo
+PSB030	ehm mh mia figlia grande ehm $menta $patrioto no russo non usare niente russo
 PSB030	ehm figlia piccola come lei comodo
 PSB005	è molto divertente questa cosa per me
 PSB030	sì sì
@@ -869,20 +869,20 @@ PSB005	e le due figlie
 PSB030	sì
 PSB005	quando parlano fra di loro
 PSB005	co~ cosa parlano
-PSB030	come ehm vole
+PSB030	come ehm $vole
 PSB005	così
 PSB005	sì
 PSB030	sì
-PSB031	come due lingui sì
+PSB031	come due $lingui sì
 PSB005	tutte e due
-PSB031	in in ucraina è normale due lingui perché ehm mh
+PSB031	in in ucraina è normale due $lingui perché ehm mh
 PSB031	sì anche
 PSB031	mh
 PSB031	mh qualc~ eh qualcuno
 PSB031	qualcuno
 PSB031	per famiglia parlare russa qualcuno parlare ucraina
 PSB005	mhmh
-PSB031	ehm sì mh noi parliamo due lingui per me mia famiglia noi parliamo due lingui
+PSB031	ehm sì mh noi parliamo due $lingui per me mia famiglia noi parliamo due $lingui
 PSB005	tutte e due
 PSB005	sì sì
 PSB031	sì
@@ -1044,8 +1044,8 @@ PSB030	sì eh perché c'è
 PSB030	differenza
 PSB030	ehm fra nostra lingua e lingua italiana
 PSB030	ehm
-PSB030	c'è gruppa
-PSB030	eh roma~ romagna gruppa italiano
+PSB030	c'è $gruppa
+PSB030	eh roma~ romagna $gruppa italiano
 PSB005	mhmh
 PSB005	mhmh
 PSB005	mhmh

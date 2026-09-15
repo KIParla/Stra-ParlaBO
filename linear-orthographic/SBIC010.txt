@@ -745,7 +745,7 @@ PSB077	ah ah
 PSB077	sì infatti io forse lo mangio col riso bianco che così almeno ti
 PSB005	sì un po'
 PSB077	ti eh
-PSB077	al~ allieva
+PSB077	al~ $allieva
 PSB005	allevia sì allevia sì
 PSB077	allevia
 PSB077	allevia un po' il sapore

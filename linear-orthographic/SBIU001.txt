@@ -129,7 +129,7 @@ PSB005	ah okay
 PSB007	sì sì ucraina è un paese super grande
 PSB005	eh no no sì proprio non ho proprio idea sì
 PSB007	mh
-PSB007	eh non non lo so è forse come andare da sicilia fino fino alli alpi quindi tu devi attraversare proprio tutto il paese
+PSB007	eh non non lo so è forse come andare da sicilia fino fino $alli alpi quindi tu devi attraversare proprio tutto il paese
 PSB005	sì sì
 PSB007	e visto che mh mh c'erano tantissime persone
 PSB007	eh
@@ -681,7 +681,7 @@ PSB007	boh
 PSB007	io d~ a c'è anche mh hanno costruito
 PSB007	una scuola interessante sotto sotto
 PSB005	mhmh
-PSB007	terrania
+PSB007	$terrania
 PSB005	mhmh
 PSB007	eh
 PSB007	m~ si trova in nello spazio dove c'era
@@ -784,7 +784,7 @@ PSB005	mhmh certo
 PSB007	aiutarli e
 PSB007	eh no è stato difficile anche perché erano proprio primi mesi
 PSB005	mhmh
-PSB007	quando siamo appeno appena trasferiti da ucraina
+PSB007	quando siamo $appeno appena trasferiti da ucraina
 PSB007	e mh
 PSB007	primi mesi semp~ sono sempre più difficile
 PSB007	e mh
@@ -823,7 +823,7 @@ PSB007	e sì quindi c'erano
 PSB007	le lezioni u~ una z~ una lezione ho creato con aiuto eh con una mia cara amica
 PSB007	eh mh eh quindi la la lezione era dedicata allo stato psicologico di una rifugiato ucraino arrivato eh in italia e
 PSB005	mhmh
-PSB007	mh abbiamo parlato tantissimo delli disturbi che pos~ può avere questa persona disturbi d'ansia e depressione
+PSB007	mh abbiamo parlato tantissimo $delli disturbi che pos~ può avere questa persona disturbi d'ansia e depressione
 PSB007	eh disturbo eh mh
 PSB007	dell'ansia generalizzata attacchi di panico eh cosa si può fare un'insegnante non deve fare niente oppure forse
 PSB005	può
@@ -1027,7 +1027,7 @@ PSB007	lui è
 PSB007	ha imparato abbastanza bene la la nostra zona dove abitiamo dove sei stata tu quindi la la zona è vicino
 PSB005	mhmh
 PSB007	eh non ci sono tante strade non ci sono tan~ tan~ tanti portici
-PSB007	eh in portice lui si sente mh
+PSB007	eh in $portice lui si sente mh
 PSB007	peggio riguarda la il territorio all'aperto
 PSB005	mh
 PSB007	eh
@@ -1126,13 +1126,13 @@ PSB007	ma
 PSB007	comunque io posso uscire
 PSB007	ovviamente
 PSB007	posso andare a vedere a fare due chiacchiere con un'amica oppure facciamo un eh una cena un pranzo
-PSB007	per un gruppo delli amici quando io vedo i miei amici e lì
+PSB007	per un gruppo $delli amici quando io vedo i miei amici e lì
 PSB005	mhmh
 PSB007	vengono anche amici degli amici quindi così conosc~ conosciamo un gruppo più
 PSB005	ah x loro sì sì
 PSB005	certo sì sì sì
 PSB005	mhmh
-PSB007	vastu
+PSB007	$vastu
 PSB005	vasto
 PSB007	vasto
 PSB007	sì
@@ -1147,7 +1147,7 @@ PSB007	quindi un'attività fisica
 PSB005	mhmh
 PSB007	eh
 PSB007	un altro corso di pilates e
-PSB007	l'anno scorso ho frequantato la piscina
+PSB007	l'anno scorso ho $frequantato la piscina
 PSB007	e mh
 PSB007	anche durante questi eh
 PSB007	questi esperienze
@@ -1326,7 +1326,7 @@ PSB007	io dal mio tappetino faccio così
 PSB007	guardando cosa fanno gli altri
 PSB007	non c'è niente
 PSB007	non c'è proprio nessun movimento
-PSB007	quindi io vedo solo che le persone respirono quindi questa parte dove c'è la tora~ torace
+PSB007	quindi io vedo solo che le persone $respirono quindi questa parte dove c'è la tora~ torace
 PSB005	mhmh
 PSB007	sì torace
 PSB007	si muove perché la eh la ragazza dice allora dobbiamo fare un respiro profondo adesso e mh
@@ -1382,7 +1382,7 @@ PSB005	al posto di dire #branch
 PSB005	per gli alberi ho detto #arms
 PSB005	proprio le braccia dell'albero
 PSB005	queste sono le due migliori che che che mi sono successe xx
-PSB007	eh ma vedi cioè quando tu sei eh tu sei straniera per te sono le le sono solo le parole quindi sì una questa significato un'altra con un altro consonante non so ha un altro s~ significale xx xx
+PSB007	eh ma vedi cioè quando tu sei eh tu sei straniera per te sono le le sono solo le parole quindi sì una questa significato un'altra con un altro consonante non so ha un altro s~ $significale xx xx
 PSB005	eh sì
 PSB005	sì s~ esatto sì sì sì sì infatti
 PSB007	eh
@@ -1455,7 +1455,7 @@ PSB007	eh io non capisco dove si trova questa parte questa parte oppure quando d
 PSB007	quindi per me è solo
 PSB007	io voglio ovviamente co~ co~ xx
 PSB005	quello sì
-PSB007	di una cosa tipo salmono oppure non lo so trota molto semplice ma invece se parliamo
+PSB007	di una cosa tipo $salmono oppure non lo so trota molto semplice ma invece se parliamo
 PSB007	de~ dei di pe~ di un pesce più
 PSB005	sì sì ma secondo me s~ anche io non capisco quando mi dicono quale parte devono togliere di quando puliscono il pesce
 PSB005	non ti preoccupare

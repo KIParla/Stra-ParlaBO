@@ -193,7 +193,7 @@ PSB052	zucchero
 PSB051	zucchero
 PSB052	ah xxx frutta
 PSB036	mh
-PSB051	ah mandarone
+PSB051	ah $mandarone
 PSB028	mandorle
 PSB051	sì sì
 PSB028	ah ecco

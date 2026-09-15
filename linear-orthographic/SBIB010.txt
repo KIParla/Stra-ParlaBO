@@ -90,7 +90,7 @@ PSB005	solo maschi certo certo certo
 PSB005	e i tuoi professori come sono
 PSB059	professori tantissimo bravissimo
 PSB005	benissimo
-PSB059	perché quando io non capiscio qualcosa se dico loro mi aiutano tanto
+PSB059	perché quando io non $capiscio qualcosa se dico loro mi aiutano tanto
 PSB005	mhmh
 PSB005	mhmh
 PSB005	e con i tuoi compagni di classe di solito che lingue usi per parlare
@@ -108,7 +108,7 @@ PSB059	eh sì sì
 PSB005	okay tu non conosci altre lingue
 PSB059	sì conosco urdu
 PSB005	ah okay wow
-PSB059	hindi eh notra nostra lingua e italiano e inglese
+PSB059	hindi eh $notra nostra lingua e italiano e inglese
 PSB005	mh
 PSB005	okay
 PSB059	e un po' francia
@@ -315,7 +315,7 @@ PSB059	ma è dive
 PSB059	l'insegnante ce l'ho si si chiama non mi ricordo
 PSB059	però lei mi ha aiutato tanto
 PSB005	mhmh
-PSB059	per imprare imparare italiano
+PSB059	per $imprare imparare italiano
 PSB005	mhmh
 PSB005	mhmh
 PSB005	eri con degli altri ragazzi o da solo
@@ -399,7 +399,7 @@ PSB059	non voglio andare in moschea
 PSB059	non voglio andare a pregare
 PSB005	mhmh
 PSB059	però
-PSB059	io sempre dicio dico che vieni facciamo qualcuno volte pregare basta così
+PSB059	io sempre $dicio dico che vieni facciamo qualcuno volte pregare basta così
 PSB005	mhmh
 PSB005	i~ sì li li chiami li incoraggi
 PSB059	sì
@@ -471,12 +471,12 @@ PSB059	ancora sono giovane non faccio lavoro adesso solo voglio tira~ eh viaggia
 PSB005	sì sì
 PSB005	mhmh dove vorresti viaggiare
 PSB059	eh sono già stato milano roma però voglio andare un un un paese tipo francia
-PSB059	sono in s~ sono andato in svisseria con mio padre da milano
+PSB059	sono in s~ sono andato in $svisseria con mio padre da milano
 PSB005	wow
 PSB005	mhmh
 PSB005	ti è piaciuta la svizzera
 PSB059	sì
-PSB059	sono andato a mare in svisseria
+PSB059	sono andato a mare in $svisseria
 PSB059	è bellissimo
 PSB005	eh bene
 PSB005	nella parte vicino milano
@@ -501,7 +501,7 @@ PSB059	c'è tanti bengalese
 PSB059	eh non mi piacciono voglio restare qua
 PSB005	mhmh
 PSB005	però per vacanza ti cosa ti è piaciuto di più
-PSB059	eh per vacanza questa va- vacanza vado a firano firenze
+PSB059	eh per vacanza questa va- vacanza vado a $firano firenze
 PSB005	mhmh
 PSB059	xxxx da bus
 PSB005	certo sì
@@ -512,7 +512,7 @@ PSB005	qual è meglio
 PSB059	roma
 PSB005	perché
 PSB059	perché c'è
-PSB059	c'è tanti cuginimi
+PSB059	c'è tanti $cuginimi
 PSB059	sì
 PSB059	eh sono andato a colazione di roma
 PSB005	mhmh

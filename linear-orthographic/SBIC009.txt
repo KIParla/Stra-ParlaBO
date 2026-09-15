@@ -454,7 +454,7 @@ PSB046	molto umido
 PSB046	ti senti affogato quindi
 PSB005	okay okay
 PSB046	se se vuoi andarci lì
-PSB046	non ti consiglio andare estate magari sui primivere autunno
+PSB046	non ti consiglio andare estate magari sui $primivere autunno
 PSB005	okay
 PSB005	okay okay
 PSB046	che c'è più bella stagione
@@ -1255,7 +1255,7 @@ PSB046	mh
 PSB046	mattina lo fanno anche bilingue
 PSB005	mh
 PSB046	italiano e cinese per fare capire
-PSB046	per e~ vogliarsi il giovani che vanno
+PSB046	per e~ $vogliarsi il giovani che vanno
 PSB005	di venire sì
 PSB046	mhmh
 PSB046	solo mattina mi sembra do~ do~ io non ci vado perché non c'ho tempo
@@ -1312,7 +1312,7 @@ PSB005	comunque alla fine sono sempre le stesse pi~ cioè la bibbia è la stessa
 PSB046	sì sì
 PSB046	noi eh noi della bibbia
 PSB046	in senso
-PSB046	quando fanno a agruppando
+PSB046	quando fanno a $agruppando
 PSB046	ti spiegano un po'
 PSB046	non so non non è soprattutto della bibbia
 PSB005	mh

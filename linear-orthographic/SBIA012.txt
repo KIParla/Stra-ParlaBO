@@ -555,7 +555,7 @@ PSB066	tranquilla molinella è tranquilla
 PSB065	sì sì
 PSB065	non è il traffico sì
 PSB005	okay
-PSB066	c'è tante giardine c'è
+PSB066	c'è tante $giardine c'è
 PSB065	sì sì sì c'è tanti giardini qua
 PSB066	xxx
 PSB005	ci sono autobus treni mh
@@ -658,7 +658,7 @@ PSB065	ah okay
 PSB005	sì sì
 PSB066	al sant'orsola
 PSB005	sì sì
-PSB066	sì come mio fr- frat- el figlio di mio fratello
+PSB066	sì come mio fr- frat- $el figlio di mio fratello
 PSB005	ah sì
 PSB066	il piccolo
 PSB005	sì sì e poi io sono stata fuori per studiare
@@ -747,9 +747,9 @@ PSB065	mh
 PSB065	ehm da quasi
 PSB065	eh un anno primo mh no
 PSB066	capisce
-PSB065	capiscio
+PSB065	$capiscio
 PSB066	niente
-PSB065	capito capito nienti ma da fra quattro anni anche quando è il mio bimbo studia qua a scuola quando aiuto nel lavori di scuola fare la studia fare traduttore fare la
+PSB065	capito capito $nienti ma da fra quattro anni anche quando è il mio bimbo studia qua a scuola quando aiuto nel lavori di scuola fare la studia fare traduttore fare la
 PSB066	xx fatto i compiti
 PSB066	xxx
 PSB065	sì sì
@@ -1431,7 +1431,7 @@ PSB005	sì sì
 PSB065	perché noi
 PSB066	noi casalinga non c'è da fare nie-
 PSB065	sì perche noi prendi p- il colazione pranzo la merenda e la cena un po'
-PSB066	ce l'hai quattri
+PSB066	ce l'hai $quattri
 PSB005	io mangerei tutto il giorno
 PSB066	tutto il giorno
 PSB065	sì tutto il giorno
@@ -1711,7 +1711,7 @@ PSB005	e avevate dei vestiti tradizionali
 PSB065	sì vestiti nuovi
 PSB066	sì
 PSB065	questi di
-PSB066	sì fatto la la priera la mattina
+PSB066	sì fatto la la $priera la mattina
 PSB005	mh okay
 PSB066	facciamo la preghiera la mattina e dopo
 PSB066	facciamo queste cose che ha detto
@@ -1840,10 +1840,10 @@ PSB065	a marocco è molto bello
 PSB066	-lto bello sì sì
 PSB065	perché ti senti ramadan qua non è senti tanto perché a ma- a marocco c'è mh mh c'è anche la moschea ti senti #l-adān
 PSB066	esci eh
-PSB066	il mercate
-PSB066	hai visto il mercate a fès sì
+PSB066	il $mercate
+PSB066	hai visto il $mercate a fès sì
 PSB005	mhmh sì sì
-PSB066	c'è il mercate pieni di ehm di tutto di ramadan anche il vestite le dolce tutto tutto tutto c'è tutto
+PSB066	c'è il $mercate pieni di ehm di tutto di ramadan anche il vestite le dolce tutto tutto tutto c'è tutto
 PSB065	sì
 PSB065	sì anche la moschea senti #l-adān #əṣ-ṣalāt
 PSB066	per noi la moschea un baxx grande sì sente tu sente il marocco tutto

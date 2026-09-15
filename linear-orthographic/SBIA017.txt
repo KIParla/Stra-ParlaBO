@@ -995,7 +995,7 @@ PSB153	c'è tante persone grande
 PSB146	ci sono pochi giovani
 PSB153	eh sì pochi giovani
 PSB146	sono tutti anziani
-PSB153	tutti inziale non c'è è s- s- solo poco di giovani
+PSB153	tutti $inziale non c'è è s- s- solo poco di giovani
 PSB153	giovani ehm in italia però è vacanza per andare a milano andare a roma andare il l- l- l- verona
 PSB146	cioè vorresti da turista visitarla
 PSB153	sì
@@ -1066,7 +1066,7 @@ PSB147	lei
 PSB153	no belgio
 PSB147	non sa fare business
 PSB146	non sa fare business
-PSB153	aspetta sposato il milionere
+PSB153	aspetta sposato il $milionere
 PSB147	lei s-
 PSB147	lei non si fa business
 PSB146	ah vuoi sposare un milionario
@@ -1107,7 +1107,7 @@ PSB153	perché c'è d- ehm c'è tanta differenza per marocchini e anche gli ital
 PSB153	però c'è tante la- ragazza sposate per la no anche il eh del eh di islam
 PSB146	di tradizioni
 PSB146	la la religione
-PSB153	sì obbligatore marocchine però non è obbligatoro marocchine però
+PSB153	sì $obbligatore marocchine però non è $obbligatoro marocchine però
 PSB147	marocchini musulmane e
 PSB146	xxxx
 PSB147	scusa
@@ -1145,7 +1145,7 @@ PSB146	non vuoi lavorare
 PSB147	sì xxxx
 PSB153	non sveglia alle otto
 PSB147	anche dopo anche dopo dopo
-PSB153	però so sicre- eh sto scherzando
+PSB153	però so $sicre- eh sto scherzando
 PSB153	io voglio sposate con la l'uomo amo
 PSB153	per- cioè c'è l'amore
 PSB146	che ami
@@ -1166,7 +1166,7 @@ PSB147	mh
 PSB146	che segno sei
 PSB147	xxxxx
 PSB146	ehm zodiacale
-PSB153	anche luiè muslimano
+PSB153	anche luiè $muslimano
 PSB146	no no quella è la religione
 PSB153	ah
 PSB146	quando sei nato che mese
@@ -1230,7 +1230,7 @@ PSB147	no #physique chimiques
 PSB153	cimic- eh chimica
 PSB147	ci
 PSB146	chimica
-PSB147	chimica chimiques simica
+PSB147	chimica chimiques $simica
 PSB153	sì chimica
 PSB147	sì chimica
 PSB146	ah c'è una solo chimica alle superiori in marocco
@@ -1378,7 +1378,7 @@ PSB147	eh adesso master sì esatto
 PSB146	sono al secondo poi ho finito basta
 PSB147	sì sì sì finito
 PSB153	brava
-PSB147	devi fare do- dottora no
+PSB147	devi fare do- $dottora no
 PSB146	sì potrei se voglio insegnare all'università
 PSB147	no
 PSB147	sì
@@ -1406,7 +1406,7 @@ PSB153	eh la pizza bia- eh eh la
 PSB147	la pizza di bangladesh
 PSB153	ma basta
 PSB153	la pasta di le di mh fu- perché io piace funghi
-PSB153	eh col pasta del eh bianca anche il quella pomodore
+PSB153	eh col pasta del eh bianca anche il quella $pomodore
 PSB146	e poi
 PSB146	in
 PSB146	pomodoro
@@ -1423,7 +1423,7 @@ PSB146	tu invece
 PSB153	vai parla
 PSB147	oh
 PSB146	lo chef
-PSB153	eh chef cusiniere
+PSB153	eh chef $cusiniere
 PSB147	eh chef esatto chef
 PSB153	delle cucine
 PSB147	allora per me
@@ -1453,7 +1453,7 @@ PSB153	ehm avoca-
 PSB147	oh av-
 PSB153	è giusto
 PSB147	petto di pollo
-PSB147	rezzo
+PSB147	$rezzo
 PSB147	eh riso riso ah okay riso
 PSB153	riso
 PSB146	riso
@@ -1468,7 +1468,7 @@ PSB147	xxxx
 PSB153	perché io lo so
 PSB147	allora
 PSB147	e la mattina io fatto
-PSB153	i pomodore anche il eh il eh no
+PSB153	i $pomodore anche il eh il eh no
 PSB147	no xx
 PSB147	la mattina
 PSB147	io fatto il eh pancake

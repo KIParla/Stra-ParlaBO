@@ -112,7 +112,7 @@ PSB102	quindi ho sc~ quindi ho scegliere ma a italiano e
 PSB054	mh
 PSB102	e quando ho st~ studiato da qui secondo me c'è una grande
 PSB102	grande grande eh sc~ s~ s~ cultura e c'è anche la grande eh
-PSB102	e~ etolio etolio eh #lǐ #lùn
+PSB102	e~ $etolio $etolio eh #lǐ #lùn
 PSB101	teorie
 PSB102	oh sì sì teo~ teoria con st~ con con storia di arte
 PSB054	mh okay okay
@@ -203,9 +203,9 @@ PSB054	okay
 PSB102	eh
 PSB054	ma è è da tanto che sei qui
 PSB054	da quanto tempo sei qui
-PSB102	ah uno uno meso
+PSB102	ah uno uno $meso
 PSB054	ah okay
-PSB102	uno meso
+PSB102	uno $meso
 PSB102	eh mh
 PSB102	uno anno fa
 PSB054	okay
@@ -437,7 +437,7 @@ PSB103	e la casa si è allagata
 PSB054	e lì
 PSB101	#_ nǐ jiù shì nà gè qián jǐ tiān (.) xià dà yǔ de shí hòu nǐ men jiā yǒu shén me (.) wèn tí (.) nǐ gēn wǒ shuō nǐ men jiā yǒu (.) yǒu yī diǎn wèn tí
 PSB102	ah
-PSB102	il eh il mula il mura il muro nel nel mio s~ stanza eh dopo piove ci muffa
+PSB102	il eh il $mula il mura il muro nel nel mio s~ stanza eh dopo piove ci muffa
 PSB101	muro
 PSB054	mh
 PSB054	ah cavolo
@@ -534,7 +534,7 @@ PSB103	è molto occidentalizzata
 PSB101	sì sì
 PSB103	shanghai
 PSB054	mh mh
-PSB101	perché anche già nel secolo scorso a shanghai c'erano tanti stranieri ci sono gli ambasciati stranieri lì
+PSB101	perché anche già nel secolo scorso a shanghai c'erano tanti stranieri ci sono gli $ambasciati stranieri lì
 PSB101	comunque sì poi a pechino c'è una cosa che non mi piace
 PSB103	posso dirlo
 PSB103	#_ zài shàng hǎi yǒu hěn duō měi guó rén

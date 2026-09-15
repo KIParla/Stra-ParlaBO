@@ -404,7 +404,7 @@ PSB151	mh
 PSB152	perché loro cerca e cerca di mettere tutto dentro busta
 PSB151	mettendo tutto dentro la busta però
 PSB152	perché perché te lo di~ e dico
-PSB152	se tu quello che extraordinario che fai
+PSB152	se tu quello che $extraordinario che fai
 PSB152	se ti mette
 PSB152	dentro busta
 PSB152	dopo venti ore
@@ -415,7 +415,7 @@ PSB152	non proprietario
 PSB151	ma veramente
 PSB152	#_ yes
 PSB151	cioè aspetta fammi capire questa cosa
-PSB152	#yes extraordinario
+PSB152	#yes $extraordinario
 PSB151	e~
 PSB151	eh
 PSB152	fino venti ore
@@ -452,13 +452,13 @@ PSB151	per esempio un anno mi ricordo che un mese le ore lavorative erano lavora
 PSB152	per questo che
 PSB151	quelle di più sono straordinario
 PSB152	per questo che sto dicendo
-PSB152	extraordinario ti paga
+PSB152	$extraordinario ti paga
 PSB152	fino a venti ore
 PSB151	mh
 PSB152	dopo
 PSB152	quaranta ore di lavoro
 PSB152	se tu superi venti ore
-PSB152	extraordinario di tasse
+PSB152	$extraordinario di tasse
 PSB152	perché t~ e te lo mette sempre sempre busta
 PSB152	e quello tasse e devi pagare tu
 PSB152	quindi quel tasse
@@ -483,7 +483,7 @@ PSB152	non conta cinque ore se superi venticinque e~
 PSB151	mh
 PSB152	ore
 PSB151	che poi tra l'altro quando su
-PSB152	qui~ quindi se ti mette in busta non è che extraordinario non è che prendi tanti soldi
+PSB152	qui~ quindi se ti mette in busta non è che $extraordinario non è che prendi tanti soldi
 PSB151	no perché tanto
 PSB152	di solito prendi metà
 PSB151	appunto
@@ -514,12 +514,12 @@ PSB151	perché
 PSB151	tu
 PSB151	puoi arrivare fino a quaranta e quindi tu non hai lo stesso aumento come se superi le quaranta c'hai ragione m'ero dimenticata di questa cosa
 PSB152	capito se tu la~ pa~ eh vendi part-time
-PSB152	non è un problema che fai extraordinario perché tu tieni contratto venti ore
+PSB152	non è un problema che fai $extraordinario perché tu tieni contratto venti ore
 PSB151	sì
 PSB152	se tu puoi fare di più va bene per te se non vuoi fare va bene per eh bu~
 PSB151	sì certo certo certo
 PSB152	però chi tiene quaranta ore di lavoro
-PSB152	il proprietario ha già messo quaranta ore di lavoro se tu fai extraordinario
+PSB152	il proprietario ha già messo quaranta ore di lavoro se tu fai $extraordinario
 PSB152	fino a venti ore
 PSB152	ti paga normale dopo venti ore
 PSB151	deve pagarti
@@ -555,7 +555,7 @@ PSB152	meglio dello o se fai più o~ eh più ore devi andare d'accordo con la pr
 PSB151	se ti metti d'accord~ ma anche perché la maggior parte lo so che ma la maggior parte è così
 PSB152	perché se te
 PSB151	si metterà d'accordo
-PSB152	se non vanno d'accordo perché se tu superi extraordinario se tu inizi pagare
+PSB152	se non vanno d'accordo perché se tu superi $extraordinario se tu inizi pagare
 PSB152	i tasse
 PSB152	è lui paga di meno
 PSB151	e certo
@@ -796,7 +796,7 @@ PSB152	sulla barba non fanno
 PSB151	come no
 PSB152	chi mentalità chiusa lo fa
 PSB152	scusate
-PSB152	è dio che ha fatto bianchi io ch'#aggia ch~ aggiala fa non è mica colpa la mia
+PSB152	è dio che ha fatto bianchi io #*ch'#aggia ch~ $aggiala #*fa non è mica colpa la mia
 PSB151	ho capito però
 PSB151	è anche importante secondo me quando tu ti guardi che ti senti bene
 PSB151	ti guardi e sei contento dell'immagine che vedi
@@ -806,7 +806,7 @@ PSB152	eh
 PSB152	eh
 PSB152	eh
 PSB152	adesso dimmi tu do-do~ e dov'è che sbaglio io allora se
-PSB152	i naturale che è fatto bianco io ch'#aggia fa è questo è fashion
+PSB152	i naturale che è fatto bianco io #*ch'#aggia #*fa è questo è fashion
 PSB152	io devo perché p~ e dare soldi
 PSB151	al parrucchiere
 PSB152	perché hai
@@ -1384,7 +1384,7 @@ PSB152	a me interessa solo questo
 PSB151	eh ma è normale cioè è una cosa che mi sembra assolutamente normale uno va a lavorare perché deve lavorare e perché poi lo pagano
 PSB152	questo sto dicendo se tu
 PSB152	hai accettato lavorare
-PSB152	fare extraordinario
+PSB152	fare $extraordinario
 PSB152	vuoi guadagnare
 PSB152	hai accetttato lavorare però n~ quando entri a lavorare non puoi lamentare
 PSB152	scusate
@@ -1581,7 +1581,7 @@ PSB152	quarantotto ore
 PSB151	eh non è f~ però è di più di mh di quello che dovresti fare
 PSB152	eh
 PSB152	questo è se dovuto
-PSB152	tu devi contare extraordiario dopo quarantotto ore
+PSB152	tu devi contare $extraordiario dopo quarantotto ore
 PSB151	eh ma
 PSB152	e stai lavorando sempre e sei giorni e all'otto ore
 PSB151	eh però non è cioè non è giusto così
@@ -1612,7 +1612,7 @@ PSB151	certo
 PSB151	certo
 PSB151	certo
 PSB152	a livello ore di~ dipende quante ore ti deve e ti vuole fare se tu
-PSB152	stai facendo ogni cazzo santo i giorni sta e extraordinario giustamente questa settimana per venticinque aprile io sto facendo sempre di più
+PSB152	stai facendo ogni cazzo santo i giorni sta e $extraordinario giustamente questa settimana per venticinque aprile io sto facendo sempre di più
 PSB151	certo
 PSB152	un'ora un'ora di pi~ e due ore di più sempre
 PSB152	quindi
@@ -1660,7 +1660,7 @@ PSB151	non si può e non hai la disoccupazione non ti paga mica lo stato mhmh
 PSB151	#_ cariño
 PSB151	no no
 PSB152	vai un altra p~ eh un altra parte a a fare prova
-PSB152	finito contratto io ch'#aggià fa'
+PSB152	finito contratto io #*ch'#aggià #*fa'
 PSB151	eh sì se ti finisce il contratto è un discorso ma con l'indeterminato no
 PSB151	no no no no no
 PSB151	non funziona mica così
@@ -1899,7 +1899,7 @@ PSB151	ah sì
 PSB151	eh allora sei un talento nel di enne a
 PSB152	io
 PSB152	io quand~ e
-PSB152	per fornare pizza
+PSB152	per $fornare pizza
 PSB152	non sapevo neanche
 PSB151	non è facile
 PSB152	prime pizza tonde allungavo così
@@ -1908,8 +1908,8 @@ PSB152	primo giorno allungavo così
 PSB151	pure io una volta l'ho rovesciata tutta quanta nel forno
 PSB151	non è facile
 PSB151	però sì cioè
-PSB152	lungato così
-PSB152	primo giorno quando fo~ e fornato non è che primo giorno forn~ fornato s~ quando entrato
+PSB152	$lungato così
+PSB152	primo giorno quando fo~ e $fornato non è che primo giorno forn~ $fornato s~ quando entrato
 PSB152	perché io
 PSB152	imparato e diverso modo
 PSB152	che imparato prima pa~ e impasto
@@ -2155,7 +2155,7 @@ PSB151	sui cinquant'anni
 PSB151	e poi tra l'altro quando superi i trentacinque è sempre più difficile
 PSB152	quello è paro~
 PSB152	tu questo è parole di m~
-PSB152	medicale
+PSB152	$medicale
 PSB152	i dottore
 PSB152	che pa~ eh parlano questo
 PSB152	se a te pure sessant'anni viene ciclo
@@ -2214,7 +2214,7 @@ PSB151	perché io per esempio non mi credo cioè non mi sento cattolica
 PSB152	perché non crede
 PSB152	mh perché non credete
 PSB151	io mi sono posta la domanda perché ho detto scusa perché io devo decidere di essere cattolica
-PSB151	e non musulmana e non induista cioè perché perché devono esserci così tanti dii perché tu hai ragione e io no perché io ho ragione e tu no
+PSB151	e non musulmana e non induista cioè perché perché devono esserci così tanti $dii perché tu hai ragione e io no perché io ho ragione e tu no
 PSB152	io non dico che non sei ragione
 PSB151	eh quello
 PSB152	eh vedi che i ca~
@@ -2313,8 +2313,8 @@ PSB152	se vai a leggere lingua co~ #kuraāna
 PSB152	e se vai i~ a quello di anni anni anni fa
 PSB152	se vai leggere quello lì
 PSB152	se vai leggere adesso quello lì
-PSB152	è guale
-PSB152	guale proprio guale
+PSB152	è $guale
+PSB152	$guale proprio $guale
 PSB151	e tu lo hai letto quello di mille anni fa per sapere questa cosa
 PSB152	m~
 PSB152	ma seco~ e secondo te i arabia saudita non c'è quello di mille anni fa
@@ -2349,7 +2349,7 @@ PSB151	e uno essendo scritto prima che nascesse gesù cristo e il secondo dopo
 PSB151	quindi già sono due momenti che sono diversi
 PSB152	a~ aspetta un attimo vogl~ e voglio capire un'altra cosa
 PSB151	vai
-PSB152	e vostro gesù cristo che religione tene e tiene
+PSB152	e vostro gesù cristo che religione $tene e tiene
 PSB152	vostro gesù che religione tiene
 PSB151	cattolico
 PSB152	eh
@@ -2365,7 +2365,7 @@ PSB152	e che religione tiene
 PSB151	ma il vostro profeta non si chiama maometto
 PSB152	eh
 PSB151	non si chiama maometto
-PSB152	noi teniamo tante profete ultimo che è maometto
+PSB152	noi teniamo tante $profete ultimo che è maometto
 PSB151	ah
 PSB152	ultimo dopo di lui non viene nessuno
 PSB152	e vostra gesù prima di maometto
@@ -2477,7 +2477,7 @@ PSB152	io sto seguendo lui
 PSB151	è la stessa cosa però eh
 PSB152	no lui non eh non detto che pregate ogni domenica vai così rimanete così a
 PSB151	a pregare dio
-PSB152	eh avanti a stamb~ stambo stambo mio
+PSB152	eh avanti a $stamb~ $stambo $stambo mio
 PSB151	no infatti no e e infatti no
 PSB152	vedi che e religione musulmana non esiste che devi devi andare
 PSB152	devi prega~ e devi andare a pregare uno che sto~ e tomba che mette e devi pregare di là
@@ -2539,7 +2539,7 @@ PSB151	tranquilla tranquilla
 PSB151	ma figurati
 PSB151	non ti preoccupare
 PSB151	abbiamo avuto visite
-PSB152	questo è super briaga
+PSB152	questo è super $briaga
 PSB151	sembrava un po' ubriaca sì
 PSB152	o non è un po super ubriaca
 PSB152	si sente pure

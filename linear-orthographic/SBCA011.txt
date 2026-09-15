@@ -445,7 +445,7 @@ PSB165	la techno a manetta
 PSB165	cinque ore cinque ore io non ce la facev~ ma proprio bum bum bum bum bum bum bum così eh ma a mane~ bum bu~ c'era cirillo che suonava lì bum bu~ io
 PSB164	non ne potevi più
 PSB165	io per un'ora me lo son fatto anche andar bene
-PSB165	io dopo un po' guardavo loro loro drinkavano
+PSB165	io dopo un po' guardavo loro loro $drinkavano
 PSB164	certo chi guidava
 PSB165	io no~ ah io io io ho sempre guidato io ho sempre guidato io
 PSB164	pale~
@@ -631,7 +631,7 @@ PSB164	mh mh
 PSB165	però l'inglese aeronautico che son dovuto andare a dar la certificazione in inghilterra
 PSB164	eh
 PSB164	davvero
-PSB165	son anda~ so eh sì perché t~ richiedono il l~ livello quattro icao
+PSB165	son anda~ so eh sì perché t~ richiedono il l~ livello quattro #*icao
 PSB164	tosta
 PSB165	#_ international civil aviation organization eh
 PSB164	certo
@@ -1379,7 +1379,7 @@ PSB164	quel capanno mi sa che l'ha costruito insieme ad alex
 PSB165	ah al~ eh che poi anche lui sta per diventare padre hai visto non lo sai ridendo
 PSB164	eh
 PSB164	non lo sapevo cosa stai dicendo
-PSB165	cosa ti ho spoilerato
+PSB165	cosa ti ho #*spoilerato
 PSB164	ma quando è successo
 PSB165	ah con eh con eh la com'è che si chiama
 PSB164	lei l'ho vista
@@ -1531,7 +1531,7 @@ PSB164	non ne ho proprio xx mamma mia guarda
 PSB165	oh dai il tempo al tempo
 PSB165	dai il tempo al tempo no xxx xxx
 PSB164	non ho fretta
-PSB165	non devi badgiare il ca~ cartellino
+PSB165	non devi #*badgiare il ca~ cartellino
 PSB164	ma io non lo sapevo di alex
 PSB164	ah sono sotto #shock ma mia mamma secondo me non lo sa perché non mi ha detto niente
 PSB165	non lo sa

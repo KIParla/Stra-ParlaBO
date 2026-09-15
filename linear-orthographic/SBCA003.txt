@@ -450,7 +450,7 @@ PSB100	eh perché tanto è l'aereo
 PSB099	è bellissima panamà xxxx nicaragua
 PSB100	eh ciaone va
 PSB099	cioè questo qua è bellissimo però lì è tutto cioè mare
-PSB100	andale x ma no
+PSB100	$andale x ma no
 PSB099	vabbè c'è meno da vedere capito è mare
 PSB100	cioè è tutto mare ma qui
 PSB100	no no dai facciam~

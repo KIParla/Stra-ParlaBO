@@ -1192,7 +1192,7 @@ PSB020	diciamo all'inizio è stato molto duro anche per quello non ehm
 PSB020	non stavo uscendo
 PSB020	non mh con gli ucraini perché mh
 PSB020	tanta gente è arrivata molto traumatizzata
-PSB020	ehm anch'io ho avuto del le mie traume quindi
+PSB020	ehm anch'io ho avuto del le mie $traume quindi
 PSB020	per ognuno è diverso ognuno vive in modo suo
 PSB020	per me in quel periodo era
 PSB020	diciamo più importante
@@ -1230,7 +1230,7 @@ PSB020	a quel quelli in quel in quell'evento
 PSB020	per gli ucraini ah che hanno organizzato anche lì ho conosciuto diciamo la gente
 PSB005	mhmh
 PSB005	e quando esci con queste tue amiche ucraine parlate in ucraino in italiano italiano parlate
-PSB020	sì parlamo in ucraino no parlam~ sì parliamo ucraino
+PSB020	sì $parlamo in ucraino no parlam~ sì parliamo ucraino
 PSB005	mhmh
 PSB020	eh chi parla il russo però la maggior parte parla ucraino
 PSB005	mhmh

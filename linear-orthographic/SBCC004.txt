@@ -35,7 +35,7 @@ PSB104	diciamo
 PSB105	costa azzurra
 PSB104	costa azzurra sì
 PSB104	adesso come si dice in francese
-PSB105	cos azur
+PSB105	$cos $azur
 PSB104	#côte #d'azur
 PSB104	bello bello no il francese è la mia lingua preferita
 PSB105	ma io stavo pensando di andare a mh genova e poi prendere un treno da lì per vedere la
@@ -145,7 +145,7 @@ PSB104	ah
 PSB104	no amo no cioè tu devi trovarti lo #sugar #daddy non che tu diventi la #sugar #mommy se no non va mica bene cioè no no no
 PSB104	no qua bisogna arricchirsi non impoverirsi
 PSB105	sì sì sì
-PSB105	eh se no non è bravo in eh #en la #cama non non lo sceglierei
+PSB105	eh se no non è bravo in eh #en #*la #cama non non lo sceglierei
 PSB104	allora devo essere personalmente onesta
 PSB104	io a valutare una relazione con una con un con un uomo una donna eccetera la parte sessuale per me è importante
 PSB105	mhmh
@@ -302,7 +302,7 @@ PSB105	sì
 PSB105	perché come ti avevo detto c'è la il sistema di istruzione cinese è un po' eh perverti~
 PSB104	davvero
 PSB105	sì sì come ti avevo detto che c'è mh
-PSB105	eh ci alziamo alle cinque e poi finisci di lezionare tipo nove dieci di sera
+PSB105	eh ci alziamo alle cinque e poi finisci di $lezionare tipo nove dieci di sera
 PSB105	e quindi a quel tempo al terzo anno di tr~ no di di liceo
 PSB105	cioè mh frequentavo spesso con una psicologa perché ero malata con mentalmente cioè io non sento i sentimenti
 PSB105	ecco perché non mi importa
@@ -727,7 +727,7 @@ PSB104	ah
 PSB105	e poi io sapevo che quella professoressa era violenta quindi
 PSB105	eh le ho detto che eh hanno finiti tutti
 PSB105	quindi poi lei non non si fida quindi ha controllato di nuovo
-PSB105	e ha scoperto che era una #mentira
+PSB105	e ha scoperto che #*era #*una #mentira
 PSB105	quindi mi ha
 PSB105	mh non mi ricordo quanti schiaffi mi ha dato
 PSB105	e poi mi ha chiesto di disegnare venti vo~
@@ -1080,7 +1080,7 @@ PSB105	sì
 PSB105	e una professoressa di inglese
 PSB105	che voleva
 PSB105	picchiare il mio compagno di banco che sta dormendo
-PSB105	e anche con eh un eh cancellatore
+PSB105	e anche con eh un eh $cancellatore
 PSB104	ah con un cancellino
 PSB104	quelli per la lavagna
 PSB105	cancellino
@@ -1675,7 +1675,7 @@ PSB105	gli uomini possono trovare
 PSB105	diverse donne
 PSB105	fanno i figli e poi
 PSB105	hanno tutti il diritto di
-PSB105	prendere eredizione
+PSB105	prendere $eredizione
 PSB104	ah cioè
 PSB104	solo que~
 PSB105	eredità

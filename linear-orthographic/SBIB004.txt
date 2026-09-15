@@ -63,7 +63,7 @@ PSB041	abbastanza tutti bravi
 PSB005	mhmh e
 PSB005	vengono tante persone qui
 PSB041	sì
-PSB041	vengono tutto bangalese pakistano indiano pak~ italiano altri xx inglese
+PSB041	vengono tutto $bangalese pakistano indiano pak~ italiano altri xx inglese
 PSB041	abbiamo filippini tutto
 PSB005	mhmhmh e la comunicazione
 PSB005	la lingua ti capisci con i clienti
@@ -275,9 +275,9 @@ PSB041	molto passano macchine anche
 PSB005	ah sì sì sì
 PSB005	certo certo
 PSB041	x lì
-PSB041	zona savena più tranquillo così anche c'è casa vicino giardina
+PSB041	zona savena più tranquillo così anche c'è casa vicino $giardina
 PSB005	mhmh è vero sì
-PSB041	qua la xx casa tutto il parte giardina
+PSB041	qua la xx casa tutto il parte $giardina
 PSB041	anche
 PSB041	pulito
 PSB005	mhmh
@@ -286,7 +286,7 @@ PSB005	mhmh
 PSB041	più tranquillo bambini gioca
 PSB005	mhmh
 PSB041	finisci scuola vai là
-PSB041	fare monopatti fai bici
+PSB041	fare $monopatti fai bici
 PSB005	certo
 PSB041	così anche notte
 PSB041	finisco lavoro vado casa fare doccia
@@ -294,10 +294,10 @@ PSB041	mangiare dopo esco
 PSB041	da nove a dieci
 PSB005	mhmh
 PSB041	mezz'ora quaranta minuti cammina io bambini
-PSB041	gioca monopatti oppure bici bici
+PSB041	gioca $monopatti oppure bici bici
 PSB005	mh
 PSB005	mhmh
-PSB041	io moglia girare
+PSB041	io $moglia girare
 PSB041	più tranquillo non
 PSB005	sì sì
 PSB041	non sono problema
@@ -461,7 +461,7 @@ PSB005	per esempio su internet a guardare
 PSB005	non so la televisione del bangladesh o canali xx video
 PSB041	canale non vedo bangladesh
 PSB005	mh
-PSB041	perché io non ho messo parabolo
+PSB041	perché io non ho messo $parabolo
 PSB005	okay
 PSB041	eh mio figlio questa grande
 PSB041	c'è tivù casa però non puoi vedere io
@@ -542,7 +542,7 @@ PSB041	lei dato questa ragazza però
 PSB005	sì sì sì sì sì
 PSB005	bene
 PSB041	una ragazza molto brava
-PSB041	vai casa moglia parlare così
+PSB041	vai casa $moglia parlare così
 PSB041	una ragazza brava molto brava
 PSB005	bene bene
 PSB005	ma siete mai tornati in bangladesh
@@ -589,7 +589,7 @@ PSB005	ed è molto diverso il
 PSB005	bangladesh dall'i~ da bologna
 PSB041	sì
 PSB041	molto diverso
-PSB041	bangladesh c'è sacco di genti paese piccolo
+PSB041	bangladesh c'è sacco di $genti paese piccolo
 PSB041	qua
 PSB041	meno genti
 PSB041	paese grande
@@ -635,7 +635,7 @@ PSB005	mh
 PSB041	paese
 PSB005	okay
 PSB041	un'ora c'è tre ora non c'è cinque ora non c'è
-PSB041	genti non puoi respirare
+PSB041	$genti non puoi respirare
 PSB005	certo
 PSB005	sì perché
 PSB041	così

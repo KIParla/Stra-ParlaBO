@@ -63,7 +63,7 @@ PSB005	per esempio
 PSB068	#_
 PSB067	per esempio non c'è
 PSB067	non c'è tipo una parte dove ci incontriamo solo noi
-PSB067	ci fa ma~ magari se possiamo fare delles attivites
+PSB067	ci fa ma~ magari se possiamo fare #*delles #*attivites
 PSB005	mhmh
 PSB067	quello non c'è
 PSB005	di solito in marocco c~ c'è
@@ -123,7 +123,7 @@ PSB005	mhmh
 PSB005	e studiate grammatica
 PSB005	leggete
 PSB069	no no
-PSB069	matica no
+PSB069	$matica no
 PSB005	grammatica no
 PSB069	no
 PSB005	parlate
@@ -145,7 +145,7 @@ PSB067	si ma dipende dal comune anche dipende da che comune
 PSB069	il comuni non c'è
 PSB005	mhmh
 PSB069	non c'è
-PSB068	e la prima volta che vienire al~ dal marocco viene subito a molinella xxx
+PSB068	e la prima volta che $vienire al~ dal marocco viene subito a molinella xxx
 PSB005	certo sì
 PSB068	tanti anni
 PSB005	mhmh
@@ -484,7 +484,7 @@ PSB005	no
 PSB067	neanche i bimbi parlano ita~ anche se vanno a scuola dell'italiano non parlano in italiano
 PSB005	sì sì
 PSB067	la maggior parte di loro parlano il pakistano
-PSB067	come si dice pakistanese
+PSB067	come si dice $pakistanese
 PSB005	pakistano
 PSB005	no la lingua secondo me è urdu
 PSB067	pakista~ la lingua
@@ -493,7 +493,7 @@ PSB005	di solito di solito però dipende un po' dalla zona del pakistan
 PSB067	xx
 PSB005	in realtà secondo me qualcuno parla anche un punjabi
 PSB067	urdu sì
-PSB067	sì ma son tutti urdu urdi come si dice urdusi urdese
+PSB067	sì ma son tutti urdu $urdi come si dice $urdusi $urdese
 PSB005	no urdu
 PSB067	urdu
 PSB005	la lingua è urdu sì
@@ -517,7 +517,7 @@ PSB069	#_ mtābqīn sharḥa-h jinn
 PSB068	perché perché eh
 PSB067	sì
 PSB068	obbligo obbligo obbligo
-PSB068	muslimano fa ramadan
+PSB068	$muslimano fa ramadan
 PSB005	mhmh
 PSB068	loro loro no
 PSB005	xx xxx
@@ -600,7 +600,7 @@ PSB005	eh no no sì
 PSB068	sì sì
 PSB067	questo è un disastro con l'italia
 PSB068	adesso tutti lingue marocco
-PSB068	l'inglese spazze~ spani~
+PSB068	l'inglese $spazze~ $spani~
 PSB069	inglese francese sì
 PSB067	perché adesso in marocco sono
 PSB068	francesi
@@ -704,7 +704,7 @@ PSB005	mhmh
 PSB068	e c'è una francese dalle tre quattro e c'è alle sei c'è una giornalista di
 PSB068	quella di
 PSB066	francese
-PSB068	spagnes~
+PSB068	$spagnes~
 PSB067	spagnolo
 PSB068	xx
 PSB067	spagnolo poi xx
@@ -915,7 +915,7 @@ PSB068	sì
 PSB068	io nato a a rabat
 PSB005	mhmh
 PSB068	ehm eh
-PSB068	da quattro no da cinque tre sorelle e quattro so~ fratelle
+PSB068	da quattro no da cinque tre sorelle e quattro so~ $fratelle
 PSB068	nato a casablanca ca~ casa
 PSB067	casablanca
 PSB068	e c'è un'altra sorella piccola da me
@@ -926,7 +926,7 @@ PSB005	e alt~ hai vissuto in altre città
 PSB068	sì sì io sì
 PSB005	molte
 PSB068	sì questo marrakesh agadir tan-tan
-PSB068	andato tan-tan perché le fratelle
+PSB068	andato tan-tan perché le $fratelle
 PSB067	tutte nel sud del marocco
 PSB005	okay
 PSB068	sì
@@ -1344,13 +1344,13 @@ PSB067	poi faccio l~ scusami scrivo delle domande così del lavoro
 PSB067	e poi memorizzo anche
 PSB005	ah okay okay
 PSB067	poi mia nonna mi mi imparava però tutto tutto sbagliato
-PSB067	dopo ho capito tipo per tipo il coltello mi dice cortello
-PSB067	dice cortello
+PSB067	dopo ho capito tipo per tipo il coltello mi dice $cortello
+PSB067	dice $cortello
 PSB069	#_ xx kat-hādrī 3līyā anā
 PSB067	poi mi correggo comuni
-PSB067	comuni comu~ comuni dice communi
+PSB067	comuni comu~ comuni dice $communi
 PSB066	comu~ eh sì
-PSB067	poi la verdura dice derdura
+PSB067	poi la verdura dice $derdura
 PSB067	poi non è che imparo poi quando qualcuno mi corregge non è che mi mi dà fastidio no
 PSB066	sì
 PSB066	no
@@ -1367,7 +1367,7 @@ PSB067	ti giuro fai fatica
 PSB005	tu sei stata in puglia per un po'
 PSB067	sì perché devi parlare il dialetto di più dell'italiano
 PSB067	devi cercare di di imparare tutto
-PSB067	tipo domani mattina devi dire a #cre~ #ian #crei #matin
+PSB067	tipo domani mattina devi dire #*a #cre~ #ian #crei #matin
 PSB067	#_ pez cre matin
 PSB067	è così
 PSB067	le carote #pastenait
@@ -1526,7 +1526,7 @@ PSB068	xxx
 PSB066	una musica no no era un
 PSB067	sì sì sì il suono italiano è più bello
 PSB066	suono sì
-PSB068	c'è una parola qualche paroli vicino da francese
+PSB068	c'è una parola qualche $paroli vicino da francese
 PSB066	come la musica
 PSB005	sì sì
 PSB067	tutto vicino
@@ -1542,7 +1542,7 @@ PSB067	sì sì ma ce n'é
 PSB067	solo che il suono maro~ italiano è più bello
 PSB069	mh
 PSB066	sì
-PSB068	vieni vieniri
+PSB068	vieni $vieniri
 PSB005	sì
 PSB068	vieni vieni
 PSB066	#_ viens
@@ -2034,7 +2034,7 @@ PSB067	si è sbattuto qui
 PSB005	il giorno prima di partire per le vacanze
 PSB005	ha sal~ è salito sulla scala avete presente la scala che si a~ quelle scale che si usano in casa
 PSB067	sì
-PSB067	sì sì due due scaletti
+PSB067	sì sì due due $scaletti
 PSB066	sì sì sì eh
 PSB005	una scaletta
 PSB066	tre scale~ sì
@@ -2070,7 +2070,7 @@ PSB067	il gesso per quattro mesi è stato a casa lui
 PSB066	quattro mesi
 PSB068	xxx xxx
 PSB066	eh poverino
-PSB067	perché hanno messo per un mesi poi l'hanno rimesso di nuovo poi l'hanno tolto e ha messo il tutorio
+PSB067	perché hanno messo per un mesi poi l'hanno rimesso di nuovo poi l'hanno tolto e ha messo il $tutorio
 PSB067	poi l'hanno tolto e ha avuto l'algostrofia
 PSB005	mh
 PSB066	le mani

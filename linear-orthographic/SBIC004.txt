@@ -102,7 +102,7 @@ PSB008	sì sì sì
 PSB008	sì
 PSB005	sì okay
 PSB008	e poi eh anche ho conosciuto uno studente che come si dice
-PSB008	che conosciavamo durante l'univers~ durante l'università quindi sono venuta qua
+PSB008	che $conosciavamo durante l'univers~ durante l'università quindi sono venuta qua
 PSB005	mhmh okay
 PSB008	sì però eh c'è la svolta
 PSB005	sì
@@ -172,7 +172,7 @@ PSB005	mh
 PSB008	e poi non è molto isolato t~ cioè
 PSB008	i trasporti sono molto comodi non è che vorrei andare al
 PSB005	mh mh mh
-PSB008	per esempio san la~ san lazzo
+PSB008	per esempio san la~ san $lazzo
 PSB005	mhmh
 PSB008	e poi devo fare così tanti passaggi posso prendere un autobus e poi direttamente
 PSB005	sì sì sì
@@ -374,7 +374,7 @@ PSB005	okay
 PSB005	del nord okay
 PSB008	sì l'origine è del nord
 PSB005	mhmh
-PSB008	e po~ è così e poi nella mia zona è co~ è bilingua
+PSB008	e po~ è così e poi nella mia zona è co~ è $bilingua
 PSB005	co~
 PSB005	mhmh
 PSB008	così eh
@@ -746,7 +746,7 @@ PSB008	tanto perché
 PSB008	puoi mettere fagioli puoi mettere cavolf~ fiori
 PSB005	sì sì
 PSB008	mette anzi
-PSB008	carnell~ eh come si dice quello #squid
+PSB008	$carnell~ eh come si dice quello #squid
 PSB005	sì calamari
 PSB008	calamari
 PSB008	e poi ho in~ ho assaggiato tanto da la
@@ -820,15 +820,15 @@ PSB005	carina
 PSB008	col ogni fine settimana vado con
 PSB008	vado a pren~ pranzare con lei
 PSB008	così posso impar~ imparare qualcosa
-PSB008	per esem~ ciupecca
+PSB008	per esem~ $ciupecca
 PSB005	non non so che cos'è
 PSB008	ciu~
-PSB008	ciufecca eh eh eh ciufecca sì
-PSB008	ciufecca ciufacca ciufecca
+PSB008	$ciufecca eh eh eh $ciufecca sì
+PSB008	$ciufecca $ciufacca $ciufecca
 PSB005	mhmh
 PSB008	intendo quella caffè non è molto buono
 PSB005	okay
-PSB008	si chiama ciuffeca penso di sì
+PSB008	si chiama $ciuffeca penso di sì
 PSB005	no non non lo so
 PSB008	perché
 PSB008	lei
@@ -838,7 +838,7 @@ PSB008	con un solubile
 PSB005	okay
 PSB008	non fa con moka
 PSB005	sì
-PSB008	quindi suo fratello sempre dice ah fai un ca~ caffè ciufecca
+PSB008	quindi suo fratello sempre dice ah fai un ca~ caffè $ciufecca
 PSB005	sì ma allora ho capito
 PSB005	perché una ciofeca in italiano
 PSB008	ah
@@ -861,7 +861,7 @@ PSB008	e poi eh una cosa che
 PSB008	davvero mi fa imo~ imo~ emozionare è
 PSB008	eh la prima volta che sono stata a termoli mi ha chiesto
 PSB008	che
-PSB008	bevenda
+PSB008	$bevenda
 PSB008	ti piace
 PSB005	mhmh
 PSB008	io non mi piace coca-cola
@@ -979,7 +979,7 @@ PSB005	e inizialmente facevi l'insegnante o
 PSB008	no inizialmente faccio
 PSB008	facevo
 PSB008	assistente
-PSB008	sia adi~ adiministrazione
+PSB008	sia adi~ $adiministrazione
 PSB005	mhmh
 PSB008	che insegname~ però insegnamento poco l'anno scorso
 PSB008	quest'anno sono
@@ -1038,7 +1038,7 @@ PSB008	ha
 PSB008	è entrata nel mio gmail
 PSB008	ha caricato tutti i miei documenti
 PSB008	e poi fa~ ha fatto qualcosa
-PSB008	irrucinante
+PSB008	$irrucinante
 PSB008	e mi sentivo davvero male l'anno s~ l'anno scorso
 PSB008	proprio all'in~ alla fine di
 PSB008	di anno
@@ -1234,9 +1234,9 @@ PSB005	mhmh
 PSB008	come
 PSB005	ho capito
 PSB008	una vol~ sì una volta ho fatto interprete per i miei amici
-PSB008	con un eh notario
+PSB008	con un eh $notario
 PSB008	quindi è un documento molto formale
-PSB008	però quando dopo questa questo processo italini usano un'altra parola
+PSB008	però quando dopo questa questo processo $italini usano un'altra parola
 PSB008	rogito
 PSB005	sì
 PSB008	contratto
@@ -1247,7 +1247,7 @@ PSB008	mutuo però lu~ eh quella quella più
 PSB005	sì
 PSB008	ufficiale ferr~ eh
 PSB008	xxx che
-PSB008	ferruzione comunque è una c~ una paro~ che cos'è
+PSB008	$ferruzione comunque è una c~ una paro~ che cos'è
 PSB005	il mutuo
 PSB008	è ve- è il mutuo ah mutuo così sì
 PSB005	sì ci sono molti sinonimi per la stessa cosa sì
@@ -1262,9 +1262,9 @@ PSB005	ah okay
 PSB008	i caratteri t~ lo stesso xx però questi lettere
 PSB008	latine non ha se~ alfabeto non ha senso a è a bi è bi
 PSB005	sì sì
-PSB008	insieme come cocomello non
-PSB008	cocomell~ insieme ha senso
-PSB008	però cocco mello
+PSB008	insieme come $cocomello non
+PSB008	$cocomell~ insieme ha senso
+PSB008	però cocco $mello
 PSB008	anguria
 PSB005	mhmh
 PSB008	e tutt~ per noi anche tutt~ eh
@@ -1359,7 +1359,7 @@ PSB008	per esempio quando
 PSB008	non lo so eh quando
 PSB008	lavoro
 PSB005	mh
-PSB008	mi eh nervosisce un po'
+PSB008	mi eh $nervosisce un po'
 PSB008	ho paura sempre di sbagliare
 PSB005	beh
 PSB005	capisco insomma sì è comprensibile direi

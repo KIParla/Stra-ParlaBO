@@ -107,7 +107,7 @@ PSB005	mh
 PSB005	ma si vive meglio qui o nel sud
 PSB017	tempo fa si vive meglio dappertutto
 PSB017	attualmente non si vive bene da nessuna parte
-PSB017	con l'aumento con la flazione l'aumento caro che c'è
+PSB017	con l'aumento con la $flazione l'aumento caro che c'è
 PSB017	e niente
 PSB005	sì sì
 PSB005	okay ho capito
@@ -478,7 +478,7 @@ PSB005	sì sì sì certo
 PSB005	eh ho visto
 PSB017	però rimane una cosa che ci tengo
 PSB017	che sembra quando
-PSB017	ci incontrere con qualcuno che capisce poco l'italiano
+PSB017	ci $incontrere con qualcuno che capisce poco l'italiano
 PSB017	lo capisce perché anche anche personalmente ci vissuto quella sensazione lì
 PSB005	mhmh
 PSB017	lo capisci
@@ -545,8 +545,8 @@ PSB017	dei ribassi di prezzo un cambiamento a livello nazionale
 PSB017	se no no- non so cosa su-
 PSB017	cosa può venire fuori
 PSB005	e secondo te lo faranno o no
-PSB017	non credo finco ché
-PSB017	eh sappiamoci bene che che al parlamento è troppo difficile
+PSB017	non credo $finco ché
+PSB017	eh $sappiamoci bene che che al parlamento è troppo difficile
 PSB017	non ne ho
 PSB017	non ne ho molti
 PSB017	molti idee che potrebbero essere scelte miglioramento
@@ -563,22 +563,22 @@ PSB017	neanch'io
 PSB005	di miglioramenti ma anche adesso
 PSB017	neanche io se vai vedere stranieri la maggioranza neanche
 PSB005	perché
-PSB017	sappiamoci bene la politica com'è eh
+PSB017	$sappiamoci bene la politica com'è eh
 PSB017	fatta qui in italia eh
 PSB017	questo
 PSB017	c'è la lega nord che ci sta attacando un giorno
 PSB017	ogni momento ogni occasione ogni giorno gli stranieri
 PSB017	a scaricare tutta la
 PSB017	la la la la
-PSB017	la malanda il mala- malevata
+PSB017	la $malanda il mala- $malevata
 PSB017	l'italia li scaricano sugli stranieri
 PSB005	mhmh
 PSB005	mhmh
 PSB017	ma non è giusto
 PSB017	per me eh
 PSB017	roba assurda non sono manco d'accordo
-PSB017	ogni oh l'ultimemente l'ultimemente ma prima è poco
-PSB017	l'ultimemente qualunque politico che vuole fare il boss
+PSB017	ogni oh l'$ultimemente l'$ultimemente ma prima è poco
+PSB017	l'$ultimemente qualunque politico che vuole fare il boss
 PSB017	vieni fuori si mh va attaccare gli stranieri
 PSB017	se andiamo indietro i primi stranieri che sono stati nel mondo sono gli italiani
 PSB005	eh lo so
@@ -689,11 +689,11 @@ PSB017	per il penale o per i l'i- l l'ingiustizie
 PSB017	quelle proprio quelle sto parlando
 PSB017	per i litigi noi come stranieri
 PSB017	è il primo problema
-PSB017	colunqui che vuole metterti ne- col- in difficoltà
+PSB017	$colunqui che vuole metterti ne- col- in difficoltà
 PSB017	va a denunciarti perché tu ti sei alzato la voce
 PSB017	perché tu hai detto il figlio di quello lì il figlio di quell'altro
 PSB017	eh ecco le accuse e quelle denunce ti bloccano
-PSB017	a priscendere prima di arrivare quelle denunce lì
+PSB017	a $priscendere prima di arrivare quelle denunce lì
 PSB017	che sono p-
 PSB017	praticamente e veramente sono pesanti ci sono pure denuce
 PSB017	non ne hanno senso e ti bloccano pure cittadinanza

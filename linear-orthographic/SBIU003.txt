@@ -44,7 +44,7 @@ PSB011	ah
 PSB011	che meraviglia
 PSB012	sì sì
 PSB011	caspita
-PSB012	mh nessuna volta non non ho pensato che viverò di vedere questa bella chiesa proprio davanti a occhi mangi e tu lo vedi
+PSB012	mh nessuna volta non non ho pensato che $viverò di vedere questa bella chiesa proprio davanti a occhi mangi e tu lo vedi
 PSB012	come adesso vedo degli alberi tutto quanto di là vado vedo san luca sì veramente bello
 PSB011	eh sì
 PSB011	bello
@@ -143,7 +143,7 @@ PSB011	mh
 PSB012	e quindi come noi siamo nati
 PSB012	in campagna eccetera
 PSB012	mh
-PSB012	preferamo più
+PSB012	$preferamo più
 PSB012	stare da s~ non è che stare da sole ma mh
 PSB012	diciamo più tranquillità più così ti ti senti non è che uno ti guarda che devi mh
 PSB012	fare e quindi sei libero di fare tutto quello che vuoi
@@ -201,7 +201,7 @@ PSB012	sei senza dita sei invalido non sei invalido raccolgono tutti quindi mh
 PSB011	caspita
 PSB012	sì sì quindi non
 PSB012	e tutti cercano di scappare perché
-PSB012	si raccorgono che prima o poi vengono presi
+PSB012	si $raccorgono che prima o poi vengono presi
 PSB012	vabbè che da noi
 PSB012	ehm
 PSB012	diciamo una campagna piccola
@@ -231,7 +231,7 @@ PSB011	eh
 PSB012	fare qualche mese anche meno di mh
 PSB012	non so li li fanno studiare come tenere in mano come buttare tutti le cose
 PSB012	che li servono e basta non non più di un mese
-PSB012	e poi ti mandono là dove mancano le
+PSB012	e poi ti $mandono là dove mancano le
 PSB011	mamma mia
 PSB012	sì sì non
 PSB012	non guardano nessuno
@@ -262,7 +262,7 @@ PSB012	sì
 PSB012	pure anche quando è arrivato in italia
 PSB011	mh
 PSB012	come diciamo là ho visto che
-PSB012	certamente che veni entri ucraino tu lo vedi mh
+PSB012	certamente che $veni entri ucraino tu lo vedi mh
 PSB012	ti chiedono dove vai
 PSB012	per quale motivo vai eccetera
 PSB012	e quindi ehm mh non l'ho fatto entrare fino a che noi no amo intervenuto
@@ -276,7 +276,7 @@ PSB011	ah
 PSB011	okay
 PSB011	mh
 PSB012	e tutto quanto eh
-PSB012	no non lasciava passare quindi io ho sperato che vegne da là
+PSB012	no non lasciava passare quindi io ho sperato che $vegne da là
 PSB012	il mio ospite
 PSB012	e l'ho fatto entrare
 PSB012	per quindici giorni
@@ -294,9 +294,9 @@ PSB012	sì
 PSB012	sì certo perché sono anche quelli
 PSB012	che diciamo c'hanno più la possibilità già c'hanno la casa lì
 PSB012	ehm
-PSB012	ao cominciato già a fare la suo di di di produrre il suo diciamo
+PSB012	$ao cominciato già a fare la suo di di di produrre il suo diciamo
 PSB012	ci sono le ragazze che fanno le torte
-PSB012	e i ragazzi che diciamo ao lavorato un po' come muratore adesso si ha o ho aperto
+PSB012	e i ragazzi che diciamo $ao lavorato un po' come muratore adesso si ha o ho aperto
 PSB012	diciamo qualcosa al suo no~ non so come chiamarla
 PSB011	ah
 PSB011	ah per c'è una ditta per fare le costruzioni con ah che bravi
@@ -314,7 +314,7 @@ PSB012	se non si è trovato in quel posto cerchiamo di
 PSB011	ah sì
 PSB011	beh è molto bello comunque che ci sia questa rete perché
 PSB012	sì
-PSB012	ci sono anche quelli diciamo che sono arrivati da tanto che ao studiato di qua si sentono con i soldi eccetera
+PSB012	ci sono anche quelli diciamo che sono arrivati da tanto che $ao studiato di qua si sentono con i soldi eccetera
 PSB011	ah
 PSB012	che quando ti guardano ah sì sì sì non ti ho visto da tanto ma
 PSB012	veramente sì sì sì ci vediamo e basta niente altro di più
@@ -374,14 +374,14 @@ PSB011	ma anche un un segnale di vi~ di normalità eh no che che forse è
 PSB012	sì
 PSB012	anche se sono tutti ormai abituati perché
 PSB012	se se dici a qualcuno che è di qua
-PSB012	che da noi oggi ao sparato oppure come all'altro giorno
+PSB012	che da noi oggi $ao sparato oppure come all'altro giorno
 PSB012	ehm a odessa è stato un
 PSB011	mhmh
 PSB011	ho letto
 PSB012	se se una una cosa
 PSB012	ormai eh
 PSB012	siamo abituati posso dire così perché
-PSB012	anche io quando ao sparato pure
+PSB012	anche io quando $ao sparato pure
 PSB012	la nostra campagna i nostri porti ho detto ma mamma non avete paura ma papà ma fratello eccetera
 PSB012	e dici
 PSB012	loro mh non si vogliono spostare
@@ -441,7 +441,7 @@ PSB012	che tantissimi lo mh
 PSB012	lo assomigliano alla odessa
 PSB011	ah sì
 PSB012	e
-PSB012	sì come come ri~ riconstruzione e come sono messe le vie
+PSB012	sì come come ri~ $riconstruzione e come sono messe le vie
 PSB012	perché
 PSB012	da dove non vai ti trovi in centro quindi sono tutti
 PSB011	mh
@@ -593,7 +593,7 @@ PSB012	era su mi sa
 PSB012	se non mi sbaglio
 PSB012	ehm
 PSB012	e quindi quando lavoro
-PSB012	come sono stata constretta a lasciare uno e prendere quell'altro diciamo anzi
+PSB012	come sono stata $constretta a lasciare uno e prendere quell'altro diciamo anzi
 PSB012	anche se sono andata via
 PSB012	qualcuno
 PSB012	mi chiede anche adesso ma non torneresti indietro
@@ -604,7 +604,7 @@ PSB012	sul casalecchio non mi ricordo adesso sul casalecchio mi han mandato
 PSB012	ehm
 PSB012	per aiutare una persona di spostarsi di di qualcosa mh del gene~
 PSB012	e quindi la sua figlia oppure quello che era lì
-PSB012	mh mi ao detto di no perché
+PSB012	mh mi $ao detto di no perché
 PSB012	mi ha mi ha preso come una diciott'anni
 PSB012	e allo~ sì sì
 PSB012	u~ u~ unico unico caso che che mi ha detto di no
@@ -625,7 +625,7 @@ PSB011	mh
 PSB012	anche in questa fabbrica che
 PSB012	che ho cucito perché
 PSB012	io so cucire perché in campagna ehm
-PSB012	alla scuola eccetera si s~ mh facevo del punto cruce t~ tutte queste cose sì
+PSB012	alla scuola eccetera si s~ mh facevo del punto $cruce t~ tutte queste cose sì
 PSB011	mh
 PSB012	ehm
 PSB012	ero molto attiva in questi cosi e quindi sì ah ho visto che
@@ -657,7 +657,7 @@ PSB012	diciamo che fai la badante che tu lasci col vecchietto se
 PSB012	magari ha
 PSB012	se ha l'età #to a chi lo lasci
 PSB011	mh
-PSB012	o lavori sotto un'agenzia che s~ s~ sutistuisce lei
+PSB012	o lavori sotto un'agenzia che s~ s~ $sutistuisce lei
 PSB012	oppure
 PSB011	mhmh
 PSB012	devi cercare qualcuno tu però
@@ -862,7 +862,7 @@ PSB012	sì
 PSB012	e quindi una volta lo chiamavamo su~ sul eh
 PSB012	perché ci abbiamo lingua russa lingua nazionale e e rumena o
 PSB011	okay
-PSB012	una volta lo chiamavamo rumena quell'altra volta diciamo dopo un quarto di di semestro di là
+PSB012	una volta lo chiamavamo rumena quell'altra volta diciamo dopo un quarto di di $semestro di là
 PSB012	e lo scriviamo lingua moldava quell'altro lo scriviamo lingua materna quindi o~
 PSB012	ogni volta cambiava ma purtroppo è una sola però si chiamava diverso
 PSB011	ah ho capito
@@ -872,7 +872,7 @@ PSB012	che anche allora hanno messo all'esame di stato
 PSB012	in mh
 PSB012	in ucraino
 PSB011	in ucraino
-PSB012	sì sì sì allora l'ao messa
+PSB012	sì sì sì allora l'$ao messa
 PSB012	erano
 PSB012	primi mh primo due tre anni che
 PSB012	che ormai già
@@ -927,13 +927,13 @@ PSB012	adesso l~ la pure la scuola lo rialzato come un'accademia
 PSB012	che
 PSB012	i nostri professori mh
 PSB012	tendono che questa scuola diciamo
-PSB012	anche se è un caso che si imparte questa terra che che la scuola resta
+PSB012	anche se è un caso che si $imparte questa terra che che la scuola resta
 PSB012	come è stato anche dai nonni diciamo perché pure se s~ st~ studiavo questo rumeno o moldavo
 PSB011	mhmh
 PSB012	non
 PSB012	tendono di di di avere questa lingua
 PSB012	perché
-PSB012	vabbè il russo l'ao tolto
+PSB012	vabbè il russo l'$ao tolto
 PSB012	certo perché
 PSB012	però
 PSB012	sì ma anche una la lingua russa
@@ -1120,7 +1120,7 @@ PSB012	no
 PSB012	quando sono arrivata qui perché per restare qua ci ci serviva parlare a lavorare
 PSB012	ma se tu non parli non eh fai fatica quindi l'ho l'ho imparato qui
 PSB012	sì
-PSB012	scrivere tutto quanto attorno diciamo studierarle tutte le parole studiarle come una poesia e poi
+PSB012	scrivere tutto quanto attorno diciamo $studierarle tutte le parole studiarle come una poesia e poi
 PSB012	xx
 PSB011	come una poesia
 PSB012	sì sì
@@ -1135,7 +1135,7 @@ PSB012	mi sa che quella chiesa si chiamava san nicolò oppure non non lo so
 PSB012	vicino a due torri c'è c'è una chiesa
 PSB011	mh
 PSB012	che c'era il caritas
-PSB012	e dopo che che dadevano tutti questi aiuti a tutti quanti che se si raccoglievano là
+PSB012	e dopo che che $dadevano tutti questi aiuti a tutti quanti che se si raccoglievano là
 PSB011	ah
 PSB012	ah c'erano i volontari che facevano insegnare quelli che desidera~
 PSB011	ah la lingua
@@ -1145,7 +1145,7 @@ PSB012	è proprio
 PSB012	un poco mi sa che può darsi che c'è anche adesso ci sono delle chiese delle
 PSB012	mh dei posti che fanno insegnare gratis
 PSB012	e ti fanno studiare i verbi diciamo ti fanno un
-PSB012	non so se dico congiugare tutti sì sì sì
+PSB012	non so se dico $congiugare tutti sì sì sì
 PSB011	mhmh
 PSB012	con
 PSB012	come dire diciamo
@@ -1168,7 +1168,7 @@ PSB011	viva la tecnologia
 PSB012	sì sì sì no non si capiva proprio perché
 PSB012	l'insegnante il eh volontario ti spiega però
 PSB012	lui purtroppo sì
-PSB012	c'erano qualcuni che mh
+PSB012	c'erano $qualcuni che mh
 PSB012	sì c'era una signora che la era laureata in lingua russa
 PSB012	mi sa che
 PSB011	mh
@@ -1204,12 +1204,12 @@ PSB012	sì sì
 PSB011	ah e ti~ e l'it~ quindi l'italiano che parlate tra voi è un po' misto insomma un italiano
 PSB012	e misto no~ no~ non è
 PSB012	e poi non è detto corretto dicia~ mh corretto diciamo e
-PSB012	sono le le parole schiacciate le c~ mh parole rutte
+PSB012	sono le le parole schiacciate le c~ mh parole $rutte
 PSB012	così
 PSB012	metà metà
 PSB011	e e invece il tuo fidanzato lo sta imparando adesso proprio l'italia~
 PSB012	sì ma lui ci metterà tantissimo anni perché lui non
-PSB012	mh non si impega quindi lui
+PSB012	mh non si $impega quindi lui
 PSB012	si aiuta tantissimo dal telefono anche lu~
 PSB011	mh
 PSB012	lui non si mette alla memoria di di imparare questa parola lui
@@ -1283,7 +1283,7 @@ PSB012	parliamo meno
 PSB012	quando siamo a casa parliamo meno qua ci sentiamo per tutti questi
 PSB012	whatsapp o viber eccetera
 PSB012	però mh
-PSB012	sì da vista da tu~ tutto qua~ quello che postano come dicano non non sono cuonstretti
+PSB012	sì da vista da tu~ tutto qua~ quello che postano come dicano non non sono $cuonstretti
 PSB012	certamente che non sono più ucraini come come documento
 PSB011	ah okay il loro documento ah e
 PSB012	esa~ certo sì
@@ -1364,7 +1364,7 @@ PSB012	sì della regione op~
 PSB011	mh mh mh vicino a odessa
 PSB012	sì
 PSB012	u~ posso dire proprio proprio regio~ eh regione perché
-PSB012	tutti attorna anche se parlano diciamo mh
+PSB012	tutti $attorna anche se parlano diciamo mh
 PSB012	parlo
 PSB012	parlano diverse lingue
 PSB012	mh
@@ -1444,9 +1444,9 @@ PSB012	non so viene mh velocemente più scritto non so come dirla
 PSB011	ah
 PSB012	però è più
 PSB012	anche diciamo
-PSB012	ah scrivo con le litteri russi
+PSB012	ah scrivo con le $litteri russi
 PSB011	col cirillico mh
-PSB012	sì scrivo con le litteri russi
+PSB012	sì scrivo con le $litteri russi
 PSB012	ma
 PSB012	eh viene letto rumeno
 PSB012	diciamo come sarebbe
@@ -1645,7 +1645,7 @@ PSB012	di là e ci sono
 PSB012	tre o quattro mh diciamo piani che prima
 PSB012	ti insegnano una cosa poi diciamo mh poi vai
 PSB012	in profondo che non è che
-PSB012	tu ti hanno messo una patata ti l'ao dato e basta tu studi in profondo diciamo
+PSB012	tu ti hanno messo una patata ti l'$ao dato e basta tu studi in profondo diciamo
 PSB012	tu~ tutte le cose chimici tutte le cose tu~ tutte le co
 PSB011	la composizione della patata da un punto di vista chimico insomma mh
 PSB012	sì sì sì
@@ -1659,7 +1659,7 @@ PSB011	ah il peso peso sì sì mhmh
 PSB012	eh sì il peso come
 PSB012	come va calcolato dopo quello che è cotta e insomma tu~ tutto quanto non è che
 PSB011	ah
-PSB012	mh vai di lì e ti ao dato una patata e ti ti dice eh lo devi sbucciare cuocere no
+PSB012	mh vai di lì e ti $ao dato una patata e ti ti dice eh lo devi sbucciare cuocere no
 PSB011	no no e quindi è proprio anche per imparare a mh così a creare anche delle nuove ricette
 PSB012	sì proprio
 PSB012	sì sì
@@ -1893,7 +1893,7 @@ PSB012	in chicchi
 PSB012	sì lo fa~
 PSB012	come si fa qua la torta di riso che fai eh
 PSB011	sì
-PSB012	diciamo fai burlire il riso ma di qua si fa c~ si fa burlire il riso fino a che assorbe tutto il latte
+PSB012	diciamo fai $burlire il riso ma di qua si fa c~ si fa $burlire il riso fino a che assorbe tutto il latte
 PSB011	sì
 PSB012	invece
 PSB012	gliela metti di più latte che che resta un po' diciamo un po' liquido
@@ -1979,13 +1979,13 @@ PSB012	ti mandano loro da mh
 PSB012	diciamo da quelli che hanno fatto i contratti oppure
 PSB011	mhmh
 PSB012	oppure ti ti mandano come qua nella zona di mh
-PSB012	agusto eccetera ti mandono vicino al mare eccetera x mh e ti
+PSB012	$agusto eccetera ti $mandono vicino al mare eccetera x mh e ti
 PSB012	ti fanno insegnare poi ti
 PSB012	ti controllano anche come come sai anche se tu hai studiato tutto dal libro e sei bravo bravo ma quando ti trovi in una cucina ah ma io lo so eh fare niente t~
 PSB012	e quindi sì c'ioè ti fanno studiare pure tutto tutto
 PSB011	e a te cos'è che piaceva di più
 PSB011	cioè con
-PSB012	con con la calcolazione sì che andavo un po' perché
+PSB012	con con la $calcolazione sì che andavo un po' perché
 PSB012	non
 PSB012	non mettevo io l'attenzione
 PSB011	mh
@@ -2017,7 +2017,7 @@ PSB012	facevano un sacco di
 PSB012	di prodotti di là
 PSB012	sono mh veramente tantissimi
 PSB012	come ringraziamento gli ho fatto
-PSB012	le ho fatto diciamo questo tavolo che ao servito mh con suo piatto nazionale
+PSB012	le ho fatto diciamo questo tavolo che $ao servito mh con suo piatto nazionale
 PSB011	mh
 PSB012	e quindi
 PSB011	bello
@@ -2142,7 +2142,7 @@ PSB011	eh no n~ non dev'essere semplice no no
 PSB012	eh
 PSB012	sì sì
 PSB012	se non è semplice aprire in suo paese sì perché anche a da~ si è più libero più
-PSB012	mi sarebbe molto più facile però adesso dopo questo che si finiscerà questa cosa non so se se ci saremo liberi come eravamo prima
+PSB012	mi sarebbe molto più facile però adesso dopo questo che si $finiscerà questa cosa non so se se ci saremo liberi come eravamo prima
 PSB011	mh
 PSB011	e chissà
 PSB011	chissà

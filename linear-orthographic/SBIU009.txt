@@ -344,7 +344,7 @@ PSB005	sì sì s~ giusto era giusto sì
 PSB039	la lingua
 PSB039	sì ehm la lingua e quindi
 PSB039	ehm el~ ehm prima di guerra ehm lei ehm arrivata in italia prima di guerra
-PSB039	tipo qualchi giorni prima
+PSB039	tipo $qualchi giorni prima
 PSB039	io otto di di marzo
 PSB005	mh mhmh mhmh okay
 PSB005	e e ti piacerebbe vivere in qualche altro paese dell'europa o ti trovi bene qui ti sta piacendo stare qui
@@ -434,7 +434,7 @@ PSB005	e qui sei stato anche l'estate scorsa eri qui hai sofferto molto il caldo
 PSB039	mh
 PSB005	a bologna fa molto caldo d'estate
 PSB039	ehm mh sì sì
-PSB039	na~ non è ehm una grande difrezione però
+PSB039	na~ non è ehm una grande $difrezione però
 PSB039	# però vostra #area
 PSB005	mhmh
 PSB039	ehm è caldo nostra s~ no~ anche se noi abbiamo tipo trentatré trentaquattro gradi ehm non è così come come qua

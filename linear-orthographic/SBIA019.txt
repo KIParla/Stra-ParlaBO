@@ -617,7 +617,7 @@ PSB159	perché anni e anni e anni
 PSB159	c'è la povertà
 PSB157	sì
 PSB159	non c'è
-PSB159	queste cristalle queste ques~
+PSB159	queste $cristalle queste ques~
 PSB159	e c'è la gente che fanno col terra
 PSB157	mhmh
 PSB159	quello lo fanno con la mano
@@ -641,7 +641,7 @@ PSB160	allora
 PSB160	fanno questo #tajine qua
 PSB159	quello su sopporta il fuoco
 PSB157	mhmh
-PSB159	perché se lo metti sopra la griglia non si splode
+PSB159	perché se lo metti sopra la griglia non si $splode
 PSB159	e prima non c'è la pentola questa perché c'è la povertà non c'è
 PSB157	certo
 PSB159	hanno costruito
@@ -724,7 +724,7 @@ PSB160	xxx
 PSB160	xxx
 PSB159	si eh il museo e queste cose
 PSB159	e
-PSB159	ti ho consigliato di nord perché vedi le genti chiare che come te biondi dopo vai giù piano piano e scurano
+PSB159	ti ho consigliato di nord perché vedi le genti chiare che come te biondi dopo vai giù piano piano e $scurano
 PSB159	così
 PSB157	no dai
 PSB158	per abituarsi
@@ -769,7 +769,7 @@ PSB159	sì sono diventati bravi
 PSB159	non vanno an~ con con la guida a me sono andati com~ come ragazzi come lei sei sette dietro di noi da sole
 PSB158	mhmh
 PSB157	e chi queste
-PSB159	no ehm abbiamo solo xxx di parlare così così che parlano ho sentito mio figlio dice no vo xxx voi spaghette
+PSB159	no ehm abbiamo solo xxx di parlare così così che parlano ho sentito mio figlio dice no vo xxx voi $spaghette
 PSB159	dice come vuoi noi andiamo al marocco per mangiare nostro piatto e voi spaghetti dico no no no
 PSB159	no io voglio spaghetti allora cominciate di parlare così
 PSB157	eh
@@ -914,7 +914,7 @@ PSB159	anche adesso miei figli vedi come adesso sono cresciuti con piano piano c
 PSB159	e in me felice xxx mangia anche il tavolo lui mangia
 PSB159	e lui
 PSB159	tu devi vedere suo viso quanto
-PSB159	ficino quel mese sono fici~
+PSB159	$ficino quel mese sono fici~
 PSB159	sono contenta ma
 PSB157	e loro
 PSB159	anche al al lavoro
@@ -1079,7 +1079,7 @@ PSB160	sì
 PSB160	non è
 PSB160	oh mh
 PSB160	qua c'è anche al~ altre marocchini non è che
-PSB160	non ci spettare nessuna cosa capito
+PSB160	non ci $spettare nessuna cosa capito
 PSB157	quindi voi conoscete anche altre famiglie marocchine qui
 PSB159	mh non solo una una ragazza
 PSB159	e questa cosa
@@ -1708,7 +1708,7 @@ PSB160	sì
 PSB157	okay età di arrivo in italia
 PSB157	quanti anni avevi quando sei arrivato
 PSB160	io arrivato da
-PSB160	allora milla~ novecento
+PSB160	allora $milla~ novecento
 PSB160	eh e~ novantanove
 PSB159	sei arrivato novanta novanta
 PSB160	mille no~

@@ -851,7 +851,7 @@ PSB021	invece adesso dove abito
 PSB021	la zona è bella cioè eh la casa è fatta del treno il trenino
 PSB021	eh c'è il giardino e tutto però lì ci sono
 PSB021	tutti marocchini
-PSB021	tutti i tunesiani tutti i
+PSB021	tutti i $tunesiani tutti i
 PSB021	è che
 PSB021	è molto rischioso stare qua
 PSB005	mh
@@ -1488,7 +1488,7 @@ PSB005	ti ti saluto
 PSB021	tranquillissima
 PSB005	sono curiosa di sapere se con le perché io quand'ero
 PSB005	quando avevo la tua età non avevo il telefono con whatsapp
-PSB005	ci se~ io e le mie amiche ci telefonevamo per
+PSB005	ci se~ io e le mie amiche ci $telefonevamo per
 PSB021	esa~
 PSB005	a voce
 PSB005	e poi ci mettevamo d'accordo per fare i compiti insieme per studiare insieme

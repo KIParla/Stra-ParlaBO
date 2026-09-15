@@ -79,7 +79,7 @@ PSB122	ah dopo pasto
 PSB121	dopo pasto con tanta acqua
 PSB122	ah non prima dopo
 PSB121	sì
-PSB121	non sono eh proprio le sostanzie che conosco
+PSB121	non sono eh proprio le $sostanzie che conosco
 PSB121	però comunque ah~ l~ l'ho chiesto se tipo ha detto che questo aiuta a perdere a proprio togliere bruciare togliere peso bruciare i grassi
 PSB121	xxx così
 PSB121	poi ha detto che ci sono anche metodi di~ eh naturale nel senso di fare
@@ -492,7 +492,7 @@ PSB121	sì la maestra è simpatica
 PSB121	e mi ha portato a crevalcore
 PSB121	per sentire un concerto
 PSB121	perché è mh non lo so perché siamo stati lì ah perché lei era ospite
-PSB121	che loro fanno augurazione di una cosa
+PSB121	che loro fanno $augurazione di una cosa
 PSB121	e poi lei è stata ospite e
 PSB121	l'hanno invitata
 PSB121	però non voleva andarci da sola
@@ -597,7 +597,7 @@ PSB121	eh
 PSB121	xxx
 PSB121	sì guarda che qua dice
 PSB121	integratore alimentare a base di estratti vegetali di trifoglio rosso
-PSB121	cassia momame e grifonia tutiturie
+PSB121	cassia momame e grifonia $tutiturie
 PSB121	mh
 PSB121	adesso ho tanta fame
 PSB121	ho tanto fame mh

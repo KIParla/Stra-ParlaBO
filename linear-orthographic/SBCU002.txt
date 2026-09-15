@@ -76,7 +76,7 @@ PSB088	inglese non parlo però
 PSB088	capisco
 PSB088	e leggo
 PSB088	perché ehm con
-PSB088	compiuteri tutta la vita è tutto inglese
+PSB088	$compiuteri tutta la vita è tutto inglese
 PSB005	mhmh
 PSB005	mhmh
 PSB088	vabbè hai capito
@@ -565,7 +565,7 @@ PSB086	ah commenti bisognava leggere
 PSB005	eh sì sì
 PSB088	poi che che c'è xxxxx
 PSB005	sì sì figurati
-PSB088	sta programmista io non sono programmista
+PSB088	sta $programmista io non sono $programmista
 PSB088	dice eh così così
 PSB088	ma
 PSB088	cazzarola ma è

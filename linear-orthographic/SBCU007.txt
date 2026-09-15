@@ -1000,7 +1000,7 @@ PSB036	certo
 PSB091	sì
 PSB130	certo sì sì sì
 PSB128	ma una cosa
-PSB128	c'era giusta dalla istoria
+PSB128	c'era giusta dalla $istoria
 PSB128	nostra
 PSB128	almeno
 PSB128	quando andavano lavorare dovevano mangiare bene
@@ -1012,16 +1012,16 @@ PSB129	sì sì sì tipo le le proteine i grassi sì sì sì
 PSB128	dal lardo
 PSB091	roba grassa
 PSB128	roba grassa
-PSB128	ecco per stimolare eh il eh felice
+PSB128	ecco per stimolare eh il eh $felice
 PSB091	però li fai belli capito
 PSB091	okay
 PSB128	come si chia~ mh come si dice
 PSB129	il fegato
-PSB128	no eh i felici dove c'è il eh succo di felice
+PSB128	no eh i $felici dove c'è il eh succo di $felice
 PSB129	no
 PSB129	ah
 PSB086	bile
-PSB128	felica f~ come si chiama
+PSB128	$felica f~ come si chiama
 PSB086	bile
 PSB086	#_ žovčnyj
 PSB128	#_ žovč
@@ -1274,7 +1274,7 @@ PSB086	e dobbiamo fare qualche giro
 PSB129	mh no
 PSB005	eh ci vuole un sacco sì
 PSB129	però la la conosce
-PSB129	lavora su universita
+PSB129	lavora su $universita
 PSB005	sì ci vuol tanto sì
 PSB005	ma infatti io non li faccio
 PSB130	vabbè comunque ci vengo volentieri

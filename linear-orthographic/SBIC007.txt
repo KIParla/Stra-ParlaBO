@@ -261,9 +261,9 @@ PSB014	okay
 PSB014	eh e lavoro ha sempre fatto il parrucchiere
 PSB035	eh no io prima lavoro con italiano
 PSB014	okay
-PSB035	sono soli fuori cantire
+PSB035	sono soli fuori $cantire
 PSB014	okay
-PSB035	passa otto anni con cantire fuori fare casa
+PSB035	passa otto anni con $cantire fuori fare casa
 PSB033	aha okay
 PSB035	tutti muratore xx xx tanti otto anni
 PSB014	ah okay
@@ -293,7 +293,7 @@ PSB014	è vero è ver~
 PSB035	per me fuori eh per me anche piace
 PSB033	aha
 PSB033	sì
-PSB035	perché mangia bene tutti giorno mangiare ristorante noi quando fuor~ cantire lavora tutto mangia ristorante ogni giorno così
+PSB035	perché mangia bene tutti giorno mangiare ristorante noi quando fuor~ $cantire lavora tutto mangia ristorante ogni giorno così
 PSB014	mhmh
 PSB014	ehm
 PSB014	ah okay okay okay
@@ -545,7 +545,7 @@ PSB033	italia
 PSB014	ah okay
 PSB033	ah
 PSB033	ah per quello
-PSB035	per quello anche paura quando venì polizia ti chiede non c'ho dopo manda cina
+PSB035	per quello anche paura quando $venì polizia ti chiede non c'ho dopo manda cina
 PSB033	sì certo
 PSB033	controlli
 PSB014	ehm è vero vero

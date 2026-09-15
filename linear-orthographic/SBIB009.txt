@@ -42,14 +42,14 @@ PSB058	mio piace un po'
 PSB005	mhmh
 PSB005	mhmh
 PSB058	però sì grande grande
-PSB058	piove mhmhmh cumigampa conosci cumigampa un po'
+PSB058	piove mhmhmh $cumigampa conosci $cumigampa un po'
 PSB058	mh
 ???	tuoni
 PSB058	tuoni tuoni è mio paura
 PSB005	ah okay
 PSB005	ah perché
 PSB058	tanto anni fa di questo affitto
-PSB058	se cumigampa bum
+PSB058	se $cumigampa bum
 PSB005	ah e cade
 PSB058	eh paura
 PSB005	oka~ allora non i tuoni forse il terremoto
@@ -65,7 +65,7 @@ PSB058	xx
 PSB005	ma la natura il paesaggio com'è fatto
 PSB058	bene bene
 PSB058	ta~ bangladesh non è ta~
-PSB058	non è tanti poveru poco poco persone affitto poco poco persone lì
+PSB058	non è tanti $poveru poco poco persone affitto poco poco persone lì
 PSB005	mh okay
 PSB005	e tu lavori
 PSB005	cosa fai
@@ -227,7 +227,7 @@ PSB005	ho capi~ è una città moderna
 PSB058	sì sì sì sì sì
 PSB005	sì okay
 PSB005	e il traffico è uguale
-PSB058	ah traffico non è tanto però bastanza traffico
+PSB058	ah traffico non è tanto però $bastanza traffico
 PSB005	e tu guidi
 PSB005	la macchina
 PSB058	no moto guidare
@@ -307,7 +307,7 @@ PSB005	adesso è caldo però
 PSB058	sì adesso caldo è bene
 PSB005	ti piace il caldo
 PSB058	sì è caldo per
-PSB058	troppo caldo non piace bastanza più o meno
+PSB058	troppo caldo non piace $bastanza più o meno
 PSB005	mhmh
 PSB005	e adesso
 PSB058	meglio
@@ -319,7 +319,7 @@ PSB005	mhmh
 PSB058	zzzz
 PSB058	mamma mia tanto freddo
 PSB005	ma in bangladesh fa più caldo
-PSB058	sì però bangladesh xx troppo no caldo troppo freddo bastanza più o meno
+PSB058	sì però bangladesh xx troppo no caldo troppo freddo $bastanza più o meno
 PSB005	okay okay
 PSB005	fa due tre mesi
 PSB005	freddo
@@ -638,7 +638,7 @@ PSB005	quale squadra ti piace
 PSB058	e mia squadra piace di
 PSB005	giusto
 PSB005	ma milan juventus
-PSB058	mio piace boloni no perché milano
+PSB058	mio piace $boloni no perché milano
 PSB005	non lo so tutti tifano milan
 PSB058	perché milan
 PSB058	questo bologna non è partito
@@ -683,10 +683,10 @@ PSB005	si corre molto si sta fermi
 PSB058	no fermi però così
 PSB058	okay
 PSB005	ma è difficile il cricket
-PSB058	sì un po' ficile
+PSB058	sì un po' $ficile
 PSB058	bangladesh i cricket
 PSB005	è forte il bangladesh
-PSB058	no bastanza forte
+PSB058	no $bastanza forte
 PSB005	vediamo
 PSB005	e quanti punti bisogna fare per vincere
 ???	ah il cricket
@@ -704,7 +704,7 @@ PSB005	eh non c'è perché non è molto famoso
 PSB058	dirigere il #match
 PSB005	eh lo so
 PSB005	ah tu parli un po' di inglese però mi sembra
-PSB058	un po' non ha tanto bastanza
+PSB058	un po' non ha tanto $bastanza
 PSB005	ti piace di più l'italiano o l'inglese
 PSB058	mi piace anche inglese però non parlo inglese mia piace a #italy
 PSB058	va bene

@@ -739,7 +739,7 @@ PSB130	grano sì
 PSB127	saraceno
 PSB130	sono un po' duri diciamo
 PSB086	eh vedi
-PSB128	pizzoccoli è verdi
+PSB128	$pizzoccoli è verdi
 PSB086	qualcosa di nuovo
 PSB129	sì un po' verdino diciamo
 PSB086	e invece la polenta con cosa si mangia polenta
@@ -809,9 +809,9 @@ PSB036	mhmh
 PSB086	carote sì
 PSB128	deve essere la carota eh tritata
 PSB086	tritata sì
-PSB128	eh tutto insieme e poi si rimpieni
+PSB128	eh tutto insieme e poi si $rimpieni
 PSB036	capito
-PSB128	rimpiene
+PSB128	$rimpiene
 PSB128	con i
 PSB086	x foglia
 PSB036	con le fo~ sì sì sì

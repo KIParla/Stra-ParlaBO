@@ -312,7 +312,7 @@ PSB002	eh sì
 PSB005	mhmh
 PSB005	eh e invece tu da quanto tempo vivi qui
 PSB001	ehm
-PSB001	mi sono trasfermata
+PSB001	mi sono $trasfermata
 PSB001	quattro
 PSB001	volte
 PSB005	okay
@@ -380,7 +380,7 @@ PSB002	non ci sono mai stata
 PSB005	eh anch'io è una zona che non non conosco
 PSB001	sì
 PSB005	per niente
-PSB001	ma voi sap~ sapete quella la fac~ la fa~ la faticoltà si chiama
+PSB001	ma voi sap~ sapete quella la fac~ la fa~ la $faticoltà si chiama
 PSB001	ah fisico eh
 PSB001	eh
 PSB001	#_ tiān wén xué (.) zǎ shuō de a
@@ -464,7 +464,7 @@ PSB005	certo
 PSB002	mhmh
 PSB005	sì
 PSB001	quindi
-PSB001	io volevo sì trasfermarmi
+PSB001	io volevo sì $trasfermarmi
 PSB005	sì sì
 PSB001	ma
 PSB001	eh
@@ -482,7 +482,7 @@ PSB005	mhmh
 PSB001	quindi
 PSB001	ho cercato
 PSB001	di
-PSB001	con~ conten~ conten~ contentare
+PSB001	con~ conten~ conten~ $contentare
 PSB005	mhmh
 PSB001	ah c~ e sì e poi sì mi ha rispo~ risposto quindi
 PSB005	ah okay okay
@@ -911,7 +911,7 @@ PSB001	eh eh
 PSB001	pieno di come si drago
 PSB001	anche quella
 PSB002	cosa
-PSB001	cosi di sesso
+PSB001	$cosi di sesso
 PSB005	sì sì sì
 PSB001	sì
 PSB002	ah okay
@@ -935,10 +935,10 @@ PSB005	che è su~ sul ma~ cioè
 PSB002	certo
 PSB005	che ci sono i fiumi che okay
 PSB001	sì sì sì come un
-PSB001	come nete
+PSB001	come $nete
 PSB002	ah x
 PSB005	mhmh
-PSB001	nete #yǒu #wǎng
+PSB001	$nete #yǒu #wǎng
 PSB002	ah bene
 PSB001	#_ zhī zhū wǎng
 PSB002	ragnatel come si ra
@@ -946,7 +946,7 @@ PSB005	okay ho ca~ forse ho capito rete
 PSB002	x
 PSB005	forse vuoi dire sì
 PSB002	rete
-PSB001	rete sì non nete sì rete
+PSB001	rete sì non $nete sì rete
 PSB005	sì
 PSB005	sì
 PSB001	quindi
@@ -2290,7 +2290,7 @@ PSB005	ho capitosì
 PSB001	sì
 PSB001	anche sì quindi
 PSB005	mhmh
-PSB001	è molto limito
+PSB001	è molto $limito
 PSB001	e poi quando
 PSB001	io arrivo
 PSB001	qua

@@ -11,11 +11,11 @@ PSB050	non ti so dire
 PSB050	mh
 PSB049	per caso se io vedo come funziona
 PSB049	altro ieri cosa ha fatto tu lo sai anche io sono paura ché lui proprio e matto
-PSB049	lui ha preso coltello per mazzare suo fratell~ eh sorella
+PSB049	lui ha preso coltello per $mazzare suo fratell~ eh sorella
 PSB049	infatti
 PSB049	non dici tu questo perché perché segreto per anche suo papa non ha detto quante perché
 PSB050	ma ehm lui il papà lo sa
-PSB049	sì lo sa lui ha preso mazzare sorella e coltello è andato sua camera
+PSB049	sì lo sa lui ha preso $mazzare sorella e coltello è andato sua camera
 PSB049	hai capito che lui proprio matto
 PSB050	è matto eh mamma mia
 PSB049	perché io vedo che
@@ -25,13 +25,13 @@ PSB050	ah ah
 PSB049	o lui dice va bene io vado per cinque minuti parlo io vengo con te
 PSB050	poveretto cioè xxx
 PSB049	per così lui è arrivato
-PSB049	hai capito che come è mazzo ehm matto che è andato per mazzare sorella
+PSB049	hai capito che come è mazzo ehm matto che è andato per $mazzare sorella
 PSB050	ma avevan litigato con la sorella xx
 PSB049	no è perché lui fa sempre funi a~ al muro se vede sorella forse su~ io era e camera lui dato una funi a sorella
 PSB049	poi lei anche arrabbiato perché lui fa-
 PSB050	cioè lui ha dato un pugno alla sorella
 PSB049	sì
-PSB049	poi sorella arrabbiato perché pugni xx altri tutte queste cose a lui andato cucina preso coltello per mazzare lei andato sua camera
+PSB049	poi sorella arrabbiato perché pugni xx altri tutte queste cose a lui andato cucina preso coltello per $mazzare lei andato sua camera
 PSB050	eh
 PSB049	e urla lui iniziato ehm notte undici iniziato urlare come matto
 PSB049	e a dice chiama adesso pulizia io vado come mi taglio non rimango e come ha iniziato ma e pro~ proprio pazzo
@@ -45,7 +45,7 @@ PSB049	sì più peggio lui peggio
 PSB050	eh
 PSB049	che era anche come te io sentito da lui suo papa
 PSB050	mhmh
-PSB049	io ho pensato forse boh non lo so forse un po' lui de xx un exempio adesso beh lui io come lui passa
+PSB049	io ho pensato forse boh non lo so forse un po' lui de xx un $exempio adesso beh lui io come lui passa
 PSB050	porca miseria
 PSB050	no non avevo capito che era così e tu
 PSB049	sì
@@ -79,7 +79,7 @@ PSB050	cioè una un'altra volta è stato
 PSB049	sì sì
 PSB050	e tutta la notte fuori
 PSB049	xxx s~ sì
-PSB049	settimani scorsa sabato
+PSB049	$settimani scorsa sabato
 PSB049	e poi io detto che tuo papa era e tutta la notte seduto divano non dormito io
 PSB050	mh
 PSB049	alle sei sei e mezza sono andato uscito andare bagno vedo che lui seduto qua
@@ -114,15 +114,15 @@ PSB050	sì
 PSB050	eh
 PSB049	ho chiesto che lui fa questi cosa se e e lei come piangere ieri sera
 PSB049	dice io lei paura che qua~ come altro ieri s~ lui andato con coltello
-PSB049	dice che quando lui va c~ mazzare qualcuno cosa fai io non lo so lei dice questi cosi
+PSB049	dice che quando lui va c~ $mazzare qualcuno cosa fai io non lo so lei dice questi cosi
 PSB049	le ho detto se lui fa tuo troppo questi disturba e va bene parla ho detto quan~ te parlare con oppure con l'assistente sociale
 PSB049	se prendono loro manda via perchécosì pericoloso perché io visto cosa ha fatto lui altro ieri
 PSB050	mamma mia certo
 PSB049	poi lei dice io lo so però se io mando lui
 PSB049	eh il il centro sociale se xxx va via e come d~ dopo come io vivo senza lui
-PSB049	perché perché loro e problema che in solo con gli amici di è un exempio
+PSB049	perché perché loro e problema che in solo con gli amici di è un $exempio
 PSB049	noi siamo amici che tu mi chiami e io ti chiamo e io ti disturbo
-PSB049	ah noi non facciamo che di qualcosa droga qualcosa di ilighela~ ighi~ illegale o no
+PSB049	ah noi non facciamo che di qualcosa droga qualcosa di $ilighela~ ighi~ illegale o no
 PSB050	e certo sì sì hai ragione
 PSB049	quindi e xx suo papa sua famiglia p~ pensa anche
 PSB049	e tanti gente quando vede lui qualche parte co~ e gira come matti e
@@ -197,7 +197,7 @@ PSB049	sì solo che
 PSB049	sì per così
 PSB049	perché sai che fe~ festa dell'unità
 PSB049	e
-PSB049	dovo se dove se
+PSB049	$dovo se dove se
 PSB049	ehm comuni grande quello piazza dell'unità
 PSB049	quello palazzo di vetro
 PSB050	sì sì sì
@@ -211,7 +211,7 @@ PSB049	tipo lui
 PSB049	e arrivato notte verso undici qualcosa
 PSB049	e hanno e iniziato litigare mh dice che dare soldi qua arrivato come
 PSB049	e per
-PSB049	prendere soldi per mazzare lui con coltello qualcosa e poi
+PSB049	prendere soldi per $mazzare lui con coltello qualcosa e poi
 PSB049	gli ho dato pugni a sto qua e era arrabbiato così
 PSB050	no aspetta ma a chi al
 PSB049	non è lui
@@ -220,10 +220,10 @@ PSB050	okay
 PSB049	poi
 PSB050	a~ al proprietario del negozio
 PSB049	sì
-PSB049	arrivato per mazzare lui prendere soldi per prendere roba
+PSB049	arrivato per $mazzare lui prendere soldi per prendere roba
 PSB050	una rapina
 PSB049	sì
-PSB049	poi lui chiamato polizia e anche loro mazzato lui
+PSB049	poi lui chiamato polizia e anche loro $mazzato lui
 PSB049	pugnalato e suo bus~ occhio con pietre così
 PSB049	e poi quello persona suo frate~ lui
 PSB049	proprietario di negozio lui anche amico di papa di
@@ -272,9 +272,9 @@ PSB050	è preoccupato ho capito
 PSB050	ma quando è stato via tutta la notte
 PSB050	poi non non v'ha avete parlato
 PSB050	gli avete chiesto dove sei stato cosa hai fatto ehm
-PSB049	e sì io chiamato non mi risponde e una volta forse rispostato sua
+PSB049	e sì io chiamato non mi risponde e una volta forse $rispostato sua
 PSB049	mamma o papà non ricordo chi e sono in mia camera e detto
-PSB049	e p~ e rispostato male e poi fatti spendere cellulare e basta
+PSB049	e p~ e $rispostato male e poi fatti spendere cellulare e basta
 PSB050	ah ha spento il cellulare
 PSB049	così
 PSB050	lui esce cioè il weekend esce il pomeriggio e torna la mattina dopo
@@ -301,7 +301,7 @@ PSB050	e occupato
 PSB049	e sì però e se lavoro va al lavoro anche s~ io ho detto suo papa se lui
 PSB049	non vai scuola così non vai sempre comunque se lui non studiare tu cosa devi fare
 PSB050	ma e xx
-PSB049	ma- mandi qualche parte lavoro desso io
+PSB049	ma- mandi qualche parte lavoro $desso io
 PSB050	sì
 PSB049	lui dice che quindici anni possono
 PSB049	si può lavorare i davvero
@@ -331,9 +331,9 @@ PSB049	hai capito
 PSB050	sì sì ho capito eh perché lui è xxx
 PSB049	loro quando vede quelli a casa loro è paura loro
 PSB049	come noi siamo
-PSB049	me~ xxx che noi siamo paura di mamma papa forse perché se una ha sbagliato qualcosa paura mi picchia un exempio che dopo meno dicio~
+PSB049	me~ xxx che noi siamo paura di mamma papa forse perché se una ha sbagliato qualcosa paura mi picchia un $exempio che dopo meno dicio~
 PSB049	diciotto anni
-PSB049	pauro pa~ mamma papa
+PSB049	$pauro pa~ mamma papa
 PSB050	e certo
 PSB049	però lui non paura loro paura di lui
 PSB050	si ma perché prende coltelli urla
@@ -420,9 +420,9 @@ PSB050	alle riunioni eh
 PSB049	a~ adesso ehm non va perché questo e quello che ab~ abbiamo fatto una comunità
 PSB049	suo pappa è presidente perché
 PSB050	eh
-PSB049	e i~ an~ ag~ anch~ abbiamo c'è una comunità di in italia tut~ per tutta l'talia c'è un centro comunità e poi dopo sepobizia
+PSB049	e i~ an~ ag~ anch~ abbiamo c'è una comunità di in italia tut~ per tutta l'talia c'è un centro comunità e poi dopo $sepobizia
 PSB049	quindi hanno e xx da in bangladesh
-PSB049	hanno fatto diservare tutti comunità fanno di no quindi adesso tutto fermo
+PSB049	hanno fatto $diservare tutti comunità fanno di no quindi adesso tutto fermo
 PSB050	ah
 PSB050	ah quindi sono arrivate le mh
 PSB050	cioè le indicazione direttamente
@@ -534,7 +534,7 @@ PSB049	non due parte non ehm poi perché no~ n- nostro parte politico un po' div
 PSB049	è se come festa
 PSB049	se tu fai il politico
 PSB050	okay
-PSB049	se qui arriva qualche un examplo bologna se arriva ministro non gli interessa a nessuno
+PSB049	se qui arriva qualche un $examplo bologna se arriva ministro non gli interessa a nessuno
 PSB050	infatti
 PSB049	però nostro parte proprio una festa se arriva qualcuno
 PSB050	ah perché sono dei vip sono un po' fam~ son famosi okay
@@ -566,7 +566,7 @@ PSB049	perché l~ lo sa partito che se esce l~ lei da casa tutti arriva strada p
 PSB050	mhmh
 PSB050	ah o~ okay
 PSB049	e poi anche fatto questi cose ha detto partito
-PSB049	lo sai che milione persone da sua casa da gulshan fini al porto tutta l'istrada
+PSB049	lo sai che milione persone da sua casa da gulshan fini al porto tutta l'$istrada
 PSB050	madonna
 PSB049	sua e sua sua e
 PSB049	voli era fatto alle otto di sera
@@ -730,9 +730,9 @@ PSB049	sì perché sai eh quelli che fa perché tutti senza elezione hanno fatto
 PSB049	da lei fino i e
 PSB049	come di bologna tutti ehm mh paese tutti senza elezioni perché era loro
 PSB050	okay
-PSB049	quindi per queste cose anche quando anda scappato lei
+PSB049	quindi per queste cose anche quando $anda scappato lei
 PSB049	e anche dopo fatto e come si chiama tutti
-PSB049	traffichi tutti sinta e fatto come tipo licenziare caposolo non ha solo sitta non c'è capo hai capito
+PSB049	traffichi tutti $sinta e fatto come tipo licenziare caposolo non ha solo $sitta non c'è capo hai capito
 PSB049	chi lavora governo di segretaria di adesso facendo loro lavorano
 PSB050	ah okay
 PSB050	quindi adesso le~ le città sono sono senza sindaco
@@ -741,18 +741,18 @@ PSB050	okay
 PSB050	cioè queste ventisei persone stanno mettendo a posto
 PSB049	sì sì perché questi ventisei persone è mh non è di partito di politico
 PSB050	tutto
-PSB049	io l'ho schiesto anche mio partitopiù lei
+PSB049	io l'ho $schiesto anche mio partitopiù lei
 PSB049	cinque persone altri politico que- quell mio partito detto che no
 PSB049	se da~ togli dieci due persone che tu prendi da pa par~ persone di politico
 PSB049	e poi tutti dic~ dicono che guida noi noi vogliamo che quello che vogliamo noi tu fai così
 PSB049	i e non senza ehm non fa politico
-PSB049	come un exampio che un maestro di d'anche università
+PSB049	come un $exampio che un maestro di d'anche università
 PSB050	sì
 PSB049	lui maestro di ehm e come si chiama di
 PSB049	ehm maestro di xxx studia legge
 PSB050	okay sì sì sì
 PSB049	lui maestro e qualcuno era sempre segretaria di
-PSB049	ehm ministro chi era militario chi non ha persone che politico
+PSB049	ehm ministro chi era $militario chi non ha persone che politico
 PSB049	io quelle persone fatto
 PSB050	okay okay e e le elezioni secondo te fra due anni
 PSB049	secon~ mh no perché ieri lui ha detto
@@ -773,12 +773,12 @@ PSB050	tu diventi ministro
 PSB049	mh sì
 PSB049	minchia
 PSB049	e era e mh tutto paese era e
-PSB049	mh come si chiama eh dove mazzato anche suo papa e anche
+PSB049	mh come si chiama eh dove $mazzato anche suo papa e anche
 PSB049	e quando fatto e
 PSB049	li vedo bangladesh
 PSB050	sì
 PSB049	e poi quando suo papa era ministro lui fatto come adesso lei
-PSB049	e dove mazzato sua papa casa di
+PSB049	e dove $mazzato sua papa casa di
 PSB049	come si chiama
 PSB049	e dove questo lucca sua casa
 PSB050	mh
@@ -803,8 +803,8 @@ PSB049	sì
 PSB049	perché mhmh questi cose non facendo di qualcuno di partito politico
 PSB049	ingannerà le persone
 PSB050	questa era l~ la gente che è arrabbiata
-PSB049	e troppo troppo arrabbiato se uno un exempio ha mazzato tuo figlio
-PSB049	tuo fratello tua sorella chi mazzato per così
+PSB049	e troppo troppo arrabbiato se uno un $exempio ha $mazzato tuo figlio
+PSB049	tuo fratello tua sorella chi $mazzato per così
 PSB050	eh beh
 PSB050	ho capito
 PSB049	dici che lei non vogliamo più questo le persone di sua famiglia in bangladesh
@@ -817,7 +817,7 @@ PSB049	sì ammazzato di proprietari perché era lui tipo come se ehm
 PSB050	era un po' un dittatore
 PSB049	dittatore sì
 PSB050	ma era un militare anche lui
-PSB049	no non era un militare era un politico però mazzato militari perché lui era come lei
+PSB049	no non era un militare era un politico però $mazzato militari perché lui era come lei
 PSB050	no era un politico
 PSB050	okay dopo lui è morto e e lei
 PSB049	sì
@@ -860,7 +860,7 @@ PSB050	okay
 PSB050	okay okay
 PSB049	perché in sedici anni lei fatto mh tutti persone tipo matto
 PSB049	tu non riesci a descrivere con peso tu
-PSB049	ti ricordi era con sono in papia ti ricordi ho detto anche che che una persone vive italia
+PSB049	ti ricordi era con sono in $papia ti ricordi ho detto anche che che una persone vive italia
 PSB049	lui scrive qualcosa come me sul facebook arrestata sua mamma in paese
 PSB050	sì eh un po' sì me l'hai raccontato lei che aveva fatto un video
 PSB049	hai capito quindi gente proprio matto eh

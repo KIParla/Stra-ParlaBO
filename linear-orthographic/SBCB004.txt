@@ -602,7 +602,7 @@ PSB133	quindi sì ho fatto un po'
 PSB054	eh un bel po' di cose
 PSB133	sì ma più che altro sì
 PSB054	mh mh
-PSB133	nulla di ciò mi ha affascinato così tan~ cioè forse la magazzineria in amazon era bello solo che sti qui son furbi fanno quella cosa del ciclaggio
+PSB133	nulla di ciò mi ha affascinato così tan~ cioè forse la magazzineria in amazon era bello solo che sti qui son furbi fanno quella cosa del $ciclaggio
 PSB054	mh
 PSB054	mh
 PSB054	eh

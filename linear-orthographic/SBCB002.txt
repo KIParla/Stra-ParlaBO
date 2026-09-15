@@ -591,10 +591,10 @@ PSB094	quanto tempo fa
 PSB093	e almeno otto anni fa
 PSB005	mhmh
 PSB094	quindi prima di questo matrimonio
-PSB093	matrimonio ha successo proprio poco fa che adesso ha fatto raccongiungimento familiare che la moglie è arrivata qui
+PSB093	matrimonio ha successo proprio poco fa che adesso ha fatto $raccongiungimento familiare che la moglie è arrivata qui
 PSB094	okay
 PSB005	ma come fanno a mentire sui documenti come fai
-PSB093	in bangladesh non avendo un registrazione del matri~ e nascita proprio spontani perché ancora ci sono del parto a casa
+PSB093	in bangladesh non avendo un registrazione del matri~ e nascita proprio $spontani perché ancora ci sono del parto a casa
 PSB005	ah cioè quindi non non hanno tipo il certificato di nascita
 PSB093	esattamente perciò il certificato di nasci~ esatto il certificato di nascita produce il momento che ti servono
 PSB005	eh dichiarano

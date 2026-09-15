@@ -202,7 +202,7 @@ PSB009	magari
 PSB005	io penso di sì ho il dubbio ho il dubbio
 PSB005	di sì perché mi sembra che ci vuole un po' di doti artistiche
 PSB009	ehm sì sì sì
-PSB009	prima prima di farlo sul te~ computer sempre sempre sempre faccio dei schecci o
+PSB009	prima prima di farlo sul te~ computer sempre sempre sempre faccio dei $schecci o
 PSB005	eh sì
 PSB005	eh appunto sì
 PSB005	e io invece non so assolutamente disegnare
@@ -1002,7 +1002,7 @@ PSB005	è uno dei miei posti preferiti
 PSB009	ah giusto
 PSB005	molto bello
 PSB005	poi c'è questa è la germania
-PSB009	biolge eh bolge
+PSB009	$biolge eh $bolge
 PSB005	belgio ah
 PSB009	belgio hai ragione sì eh #netherland
 PSB005	mhmh
@@ -1211,7 +1211,7 @@ PSB009	mh mi piace mangiare provare diverse eh cibo del
 PSB009	giapponese coreane
 PSB009	coreano italiano
 PSB009	non non sono
-PSB009	così impas- impassionato
+PSB009	così impas- $impassionato
 PSB005	appassionato sì
 PSB009	ap~ appassionato
 PSB009	eh oggi voglio
@@ -1604,7 +1604,7 @@ PSB009	sì sì
 PSB009	anche
 PSB005	e guardi con i sottotitoli in cinese
 PSB009	mhmh
-PSB009	non so xè quando quel tempo quando non sto guardando questo filmo
+PSB009	non so xè quando quel tempo quando non sto guardando questo $filmo
 PSB009	non ho ancora studiato l'italiano
 PSB005	mh okay
 PSB009	mhmh

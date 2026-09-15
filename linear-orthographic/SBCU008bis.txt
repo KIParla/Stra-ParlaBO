@@ -231,7 +231,7 @@ PSB005	sì
 PSB091	allora qua con con la figlia di un'amica di mia figlia
 PSB005	ah wow
 PSB005	carina
-PSB091	con la con la eh diciamo che mia figlia l'ha battezzata questa picciotta
+PSB091	con la con la eh diciamo che mia figlia l'ha battezzata questa $picciotta
 PSB005	che bellina
 PSB005	ah bellino
 PSB091	eh ti voleva trov~ trova~ guarda questo è mio fratello

@@ -115,9 +115,9 @@ PSB049	e cucina però cucina cucinotto cucina piccolissima
 PSB050	ah okay
 PSB049	mh eh sala xxx
 PSB049	io quando prima io guardato io pensato che
-PSB049	ingegnerio ingegneri o come si chiama ingegnerio chi fa
+PSB049	$ingegnerio ingegneri o come si chiama ingegnerio chi fa
 PSB050	sì
-PSB049	io pensato ingegnerio cosa è fatto
+PSB049	io pensato $ingegnerio cosa è fatto
 PSB049	in cucina è cucinotto non riesci anche eh entrare due persone cucinotto
 PSB049	piccolissima
 PSB050	ah la
@@ -145,7 +145,7 @@ PSB050	ma eh però c'hai la residenza lì
 PSB049	eh in questo casa ancora non c'è però mi dà residenza
 PSB050	ah
 PSB049	e perché questo casa arrivato forse due tre mesi qua però
-PSB049	due tre mesi forse sì oppure quattro mesi però un example tu non mi conosci
+PSB049	due tre mesi forse sì oppure quattro mesi però un $example tu non mi conosci
 PSB049	eh tu non mi dai subito residenza tu devi capire sono come sono
 PSB049	eh per capire che se sono ladro se sono ubriaco che per così questi cosa motivo per guardare due tre mesi più di no questi cosa normale
 PSB049	un esempio se tu non mi chie~ conosci
@@ -361,14 +361,14 @@ PSB049	quindi è così xx dentro c'è xx
 PSB050	io
 PSB049	quandi passi li guardi c'è quello anche quello un altro negozio c'è alimentari quello vicino farmacia
 PSB049	anche lì c'è dentro ve~ vetro
-PSB049	anche quello che conosci un giorno siamo mangiato quello eh cibo bangalese
+PSB049	anche quello che conosci un giorno siamo mangiato quello eh cibo $bangalese
 PSB049	quello piccolo
 PSB050	sì arancione
 PSB049	anche dentro c'è uno
 PSB049	lì c'è uno
 PSB050	okay
-PSB049	abbiamo messo negozio di nostro bangalese
-PSB049	negozio di bangalese
+PSB049	abbiamo messo negozio di nostro $bangalese
+PSB049	negozio di $bangalese
 PSB050	ah loro sono del bangladesh
 PSB049	sì sì
 PSB050	ah okay
@@ -409,7 +409,7 @@ PSB049	abbiamo mandato e loro fatto news
 PSB050	no
 PSB049	sì
 PSB050	ma siete dei grandi e quan~ ma siete tanti
-PSB049	no siamo eh mh tranne altre sitte noi siamo pochi
+PSB049	no siamo eh mh tranne altre $sitte noi siamo pochi
 PSB049	perché altri come xx eh
 PSB049	xx ehm loro più noi siamo no aspetta meno meno siamo pochi
 PSB050	e dove l'avete fatta la festa
@@ -431,16 +431,16 @@ PSB049	velodromo
 PSB050	ah velodromo
 PSB049	e questo festa eh quello che tanto organizzato xx massimo io
 PSB050	davvero
-PSB049	sì questo x festa perché eh perché se tu sei tanti però non conosci nessuno non capisci chi è lui di mio sitta se così questo xx abbiamo fatto come co~ questo festa abbiamo fatto come conoscere come
-PSB049	un exemplo tu sitta di noacali
-PSB049	però tu non mi conosci che anche io sono sitta di noacali per così un esempio io ti chiamato questo giorno abbiamo questa festa venga io chiamato un altro lui chiamato per così abbiamo organizzato questo festa
+PSB049	sì questo x festa perché eh perché se tu sei tanti però non conosci nessuno non capisci chi è lui di mio $sitta se così questo xx abbiamo fatto come co~ questo festa abbiamo fatto come conoscere come
+PSB049	un $exemplo tu $sitta di noacali
+PSB049	però tu non mi conosci che anche io sono $sitta di noacali per così un esempio io ti chiamato questo giorno abbiamo questa festa venga io chiamato un altro lui chiamato per così abbiamo organizzato questo festa
 PSB050	ah
 PSB050	che grande insomma quindi sei un #party #planner
 PSB049	eh
 PSB050	sei un #party #planner
 PSB049	xxxx
 PSB050	quindi non c'entra niente col partito
-PSB049	no questo non per l'altra mia attività xx x due questo una comunità come organizzato per noi solo di sitta
+PSB049	no questo non per l'altra mia attività xx x due questo una comunità come organizzato per noi solo di $sitta
 PSB049	ad esempio come bolognese solo bolognese qua c'è partito di fidi c'è partito di forza italia e non è quindi c'è tutti però
 PSB049	non è partito questo un altro xx esempio bolognese
 PSB050	sì sì sì
@@ -467,8 +467,8 @@ PSB050	sì
 PSB049	sì sì sono andato lì quando arrivato lei
 PSB050	lei la
 PSB050	eri la eh la presidente
-PSB049	sì sì arrivato eh conferenze di sicurezza come si chiama
-PSB049	una conferenze di venticinque eh presidente forse arrivato lì dal il mondo
+PSB049	sì sì arrivato eh #*conferenze di sicurezza come si chiama
+PSB049	una #*conferenze di venticinque eh presidente forse arrivato lì dal il mondo
 PSB049	di andare là con lei e anche noi eh siamo da bologna siamo andato
 PSB049	eh
 PSB049	germania
@@ -539,11 +539,11 @@ PSB049	xx è meglio
 PSB050	eh sì così succede
 PSB049	sì sì
 PSB049	eh qualche mese fa anche due tre anni quando sono in pavia eh un uno ragazzo che un po' mi scrive come me sul facebook e
-PSB049	mio sitta però un po' lontano
+PSB049	mio $sitta però un po' lontano
 PSB049	e arrestato sua mamma
 PSB049	quando
 PSB050	ah e lui stava a pavia
-PSB049	no no lui stava italia però un'altro sitta non lo so quale sitta
+PSB049	no no lui stava italia però un'altro $sitta non lo so quale $sitta
 PSB050	ah
 PSB049	e
 PSB049	però arrestato sua mamma
@@ -559,7 +559,7 @@ PSB049	no lì no
 PSB050	e le attiv~ le attività
 PSB049	partito no
 PSB049	no
-PSB049	perché pavia sitta piccolo
+PSB049	perché pavia $sitta piccolo
 PSB049	e anche gente poco
 PSB049	pavia
 PSB049	così non ce l'ha però milano c'é
@@ -591,7 +591,7 @@ PSB050	e la maggior parte delle persone
 PSB050	da dove vengono
 PSB049	mh mio paese
 PSB050	eh
-PSB049	quale sitta
+PSB049	quale $sitta
 PSB050	sì
 PSB049	mh xxx xxx maggior parte di loro
 PSB049	poi dopo
@@ -601,8 +601,8 @@ PSB050	anche loro fanno delle feste
 PSB049	sì loro fanno feste però
 PSB049	eh
 PSB049	loro fanno festa di come
-PSB049	non è di tanto di sì un po' fanno quelli che però loro fanno di festa di loro sitta come
-PSB049	sì loro festa di sitta quindi
+PSB049	non è di tanto di sì un po' fanno quelli che però loro fanno di festa di loro $sitta come
+PSB049	sì loro festa di $sitta quindi
 PSB049	festa di loro fanno solo x xx dhaka quello quando fanno questo però
 PSB049	tutti non fanno quelli xx perché tutti non pensano per popolare per xx per democrazia per indipendenza lo-t utti non tutti tanti che comunque tanti pensa che io lavoro io guadagno io mangio miei soldi basta non bisogna pensare di altri
 PSB050	sì hai ragione
@@ -630,8 +630,8 @@ PSB049	e loro prenda questa lista e poi li manda in questo ti vu c'è ufficio lo
 PSB050	ah
 PSB049	questo ti vu e di europa
 PSB049	quindi anche fanno loro xx
-PSB049	perché un exemplo tu avessi il nostro un esempio di partito
-PSB049	il nostro è che non possono mettere tutto i un exemplo non eh come si chiama news
+PSB049	perché un $exemplo tu avessi il nostro un esempio di partito
+PSB049	il nostro è che non possono mettere tutto i un $exemplo non eh come si chiama news
 PSB049	giornale un esempio mezz'ora
 PSB049	di governo dicono quindici minuti solo per governo loro parte xx loro fatto questo loro buono fatto palazzo fatto ponte eh qualcosa di loro
 PSB049	però noi per noi il nostro partito danno due minuti e loro fatto questi cosa e oggi andato fare manifestazione
@@ -653,20 +653,20 @@ PSB050	ed è tutto in bangl~ eh in bangla
 PSB049	sì sì
 PSB050	giornali televisioni
 PSB049	sì però c'è anche qualcosa inglese anche qualche eh
-PSB049	ti vu fanno anche giornale eh exemplo alle otto di sera un exemplo c'è anche giornale dove fanno eh inglese
+PSB049	ti vu fanno anche giornale eh $exemplo alle otto di sera un $exemplo c'è anche giornale dove fanno eh inglese
 PSB049	quindi ad esempio questo news fanno come con inglese
 PSB050	okay
 PSB050	e la televisione che sta in europa
 PSB050	fa le cose in inglese
-PSB049	ogni mh o~ ogni ora non fanno inglese qualche ore un exemplo dodici fanno inglese alle due fanno bangla così eh
+PSB049	ogni mh o~ ogni ora non fanno inglese qualche ore un $exemplo dodici fanno inglese alle due fanno bangla così eh
 PSB050	okay
 PSB050	e perché lo fanno anche in inglese
-PSB049	perché un exemplo tu in europa guardano qualcuno quindi guardano eh gli italiani un exemplo che cosa succede guardo per così quindi per capire cosa
+PSB049	perché un $exemplo tu in europa guardano qualcuno quindi guardano eh gli italiani un $exemplo che cosa succede guardo per così quindi per capire cosa
 PSB049	succede questi cose
 PSB050	okay
 PSB049	anche quando fanno eh come si chiama mh giornale di internazionale
 PSB049	eh mh quando fanno news internazionale questi news fanno con inglese
-PSB049	per exemplo xx fatto questi cose eh eh quello di come si chiama
+PSB049	per $exemplo xx fatto questi cose eh eh quello di come si chiama
 PSB049	iran fatti un altre cose questi cose fanno con inglese
 PSB050	ah okay
 PSB050	nelle notizie internazionali
@@ -676,7 +676,7 @@ PSB050	e voi
 PSB050	a milano bologna roma fate tutto in bangla
 PSB049	sì sì
 PSB050	in italiano no
-PSB049	no italiano no perché eh no quando facciamo un exempio facciamo manifestazione
+PSB049	no italiano no perché eh no quando facciamo un $exempio facciamo manifestazione
 PSB049	come roma quando arrivato lei roma abbiamo fatto manifestazione abbiamo dato uno volta una lettera di ministro del eh interno ministro dell'interno in italia
 PSB049	abbiamo dato una lettera che noi cosa vogliamo per aiuto di italia come per l'italia x xx xx aiuto
 PSB049	questi cosa quando abbiamo fatto manifestazione roma questi parla italiano
@@ -691,7 +691,7 @@ PSB049	per aiuto
 PSB050	un aiuto su per la situazione in bangladesh
 PSB049	sì sì
 PSB050	e la risposta
-PSB049	risposta sempre governo come si vediamo ti rispostano politici
+PSB049	risposta sempre governo come si vediamo ti $rispostano politici
 PSB050	eh certo
 PSB049	x xx xx che risposta
 PSB050	che xx
@@ -699,7 +699,7 @@ PSB050	qua a bologna siete tanti
 PSB049	sì il gruppo il gruppo sì
 PSB050	però la comunità più grande qual è
 PSB049	comunità più grande qui è
-PSB049	come sitta xx dhaka xxx xx sono xxx loro
+PSB049	come $sitta xx dhaka xxx xx sono xxx loro
 PSB050	no no dico dell'i~ dell'italia
 PSB049	italia
 PSB050	la città italiana che c'ha la comunità
@@ -720,14 +720,14 @@ PSB049	dove
 PSB050	a roma
 PSB049	sì una decina
 PSB049	ero qui mio amici
-PSB049	eh se un exampio in italia è paese mio più amici di politica
+PSB049	eh se un $exampio in italia è paese mio più amici di politica
 PSB049	persone c~ eh mh quali dici fatti amici
 PSB050	okay e dove stanno
-PSB049	un exempio che sono adesso faccio politica in in italia prima arrivato roma non non conosco prima però conosciuto oggi da oggi preso numero da a~ ade~ da inzio adesso inizio a comunicare co
+PSB049	un $exempio che sono adesso faccio politica in in italia prima arrivato roma non non conosco prima però conosciuto oggi da oggi preso numero da a~ ade~ da inzio adesso inizio a comunicare co
 PSB049	hai capito che
 PSB050	ho capito quindi fai amicizia cioè fai il network con il partito
 PSB049	sì sì sì
-PSB049	eh un exempio ti faccio vedere una persona mamma mia qua non c'è connessione non posso anche vedere sul facebook eh lui abita ancona
+PSB049	eh un $exempio ti faccio vedere una persona mamma mia qua non c'è connessione non posso anche vedere sul facebook eh lui abita ancona
 PSB049	e come xx di nostro lui
 PSB049	anche lui era quando due anni fa eh abbiamo conosciuto non due un anno fa
 PSB049	abbiamo conosciuto eh a roma
@@ -747,11 +747,11 @@ PSB049	eh
 PSB049	per noi vietato qua in italia politico
 PSB049	non ci è permesso per fare politico qua quindi non c'è ufficio
 PSB050	ah
-PSB049	un exempio che noi solo facciamo organizziamo un exempio adesso facciamo una
+PSB049	un $exempio che noi solo facciamo organizziamo un exempio adesso facciamo una
 PSB049	eh festa come moschea
 PSB049	o~ oppure quando abbiamo c'è qualche festa noi facciamo di eh pi di sala di pi di
 PSB049	di pi di
-PSB049	eh così che non xx quando prenota eh perché anche pi di detto che quando prenoti non è dici che programma di politico dici che programma di amici xx programma di eh sitta comunità così
+PSB049	eh così che non xx quando prenota eh perché anche pi di detto che quando prenoti non è dici che programma di politico dici che programma di amici xx programma di eh $sitta comunità così
 PSB050	ah okay
 PSB049	perché no per noi non c'è permesso di fare politica qua
 PSB049	però il governo lo sanno polizia lo sanno per cui x x xx eh quando a roma quindi noi eh cinquemila persone arrivano a fare manifestazione quindi da dove arrivano
@@ -802,7 +802,7 @@ PSB049	che studia xx
 PSB049	e lui #hindu però l'#hindu non manda mangia carne di mucca
 PSB049	eh non mangia
 PSB049	quindi eh
-PSB049	un exempio oggi andato in a casa di un amico
+PSB049	un $exempio oggi andato in a casa di un amico
 PSB049	loro organizzato cibo per noi pranzo oppure cena quindi noi xx lui come si chiama xx
 PSB049	xx
 PSB049	quindi noi diciamo che lui non mangia carne non lasciato lì ah no lui dice che no no si può mangiare si può mangiare chi vuole si può mangiare anche lui mangiato con noi carne
@@ -822,23 +822,23 @@ PSB049	eh sì sì bologna
 PSB050	a bologna
 PSB049	sì sì bologna
 PSB050	perché
-PSB049	perché è una sitta grande pulito e
-PSB049	io girato lo sai che tante sitte girato in italia io
+PSB049	perché è una $sitta grande pulito e
+PSB049	io girato lo sai che tante $sitte girato in italia io
 PSB050	sì sì
-PSB049	quindi ho visto un una cosa che per sicurezza per pulito di anche di documenti in bologna io visto diverso di altre sitte
+PSB049	quindi ho visto un una cosa che per sicurezza per pulito di anche di documenti in bologna io visto diverso di altre $sitte
 PSB049	per così mi piace
 PSB050	ti piace xx
-PSB049	perché bologna un po' più più eh diversa di come altre sitte
+PSB049	perché bologna un po' più più eh diversa di come altre $sitte
 PSB050	perché diverso
-PSB049	perché un exempio che
+PSB049	perché un $exempio che
 PSB049	proprio come si chiama di
-PSB049	una sitta non xx non lo so
+PSB049	una $sitta non xx non lo so
 PSB049	che eh
 PSB049	io sono andato
-PSB049	come si chiama sicilia un exempio mio amici dice che portafoglio prendi davanti che forse tua cammini xx quindi xx portafoglio anche roma un exempio
+PSB049	come si chiama sicilia un $exempio mio amici dice che portafoglio prendi davanti che forse tua cammini xx quindi xx portafoglio anche roma un $exempio
 PSB049	però sono abito bologna eh quasi cinque anni mai io pensato questi cose che mio portafoglio devo
 PSB049	eh eh sicurezza devo mettere davanti
-PSB049	quindi quando andato qualche sitta anche per questi cose sicurezza anche visto che eh tanti però una cosa non è problema di italiani problema di
+PSB049	quindi quando andato qualche $sitta anche per questi cose sicurezza anche visto che eh tanti però una cosa non è problema di italiani problema di
 PSB049	una cosa per per me anche una cosa dire xx xxx però questi cose fanno più marocchini fanno più africani però più marocchini albania
 PSB049	loro vanno che rubare xx casino xx x
 PSB049	ma no italiani non sto dicendo però per questi cose ho visto che eh bologna è un po'
@@ -847,7 +847,7 @@ PSB049	controllano bene qualcosa di genere
 PSB049	però eh qua a bologna un po' meno
 PSB050	più tranquilla
 PSB049	sì più tranquilla
-PSB049	eh un exemplo non è per dire te un exemplo io detto prima detto non italia
+PSB049	eh un $exemplo non è per dire te un $exemplo io detto prima detto non italia
 PSB050	io non m'offendo
 PSB049	sì sì sì però eh io ti dico quando anno anno scorso sono andato anche ancona
 PSB049	e sul bus eh mio amico portafoglio non c'è
@@ -861,7 +861,7 @@ PSB049	per così
 PSB050	a~ anche pavia in realtà
 PSB049	ma queste cose eh ti dico di no non è parlo italia perché io vedo i xx ti parlo io xx
 PSB050	ah
-PSB049	i marocchini africani e albania e un exempio ti dico che dove lavoro sono
+PSB049	i marocchini africani e albania e un $exempio ti dico che dove lavoro sono
 PSB049	eh io eh mh ma ehm novanta per cento di rumeni
 PSB049	quindi eh ogni due tre mesi eh mh arrestano ladro rumeni tutti rumeni
 PSB050	ah e ma
@@ -883,7 +883,7 @@ PSB050	sì sì sì
 PSB049	è così
 PSB050	però anche pavia era tranquilla
 PSB050	io penso che pavia è tranquilla
-PSB049	pavia era è tranquilla però anche pavia un exempio pavia eh non è come bologna grande quindi
+PSB049	pavia era è tranquilla però anche pavia un $exempio pavia eh non è come bologna grande quindi
 PSB049	quando piccolo problema piccolo
 PSB049	x grande problema anche grande
 PSB049	diverso

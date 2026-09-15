@@ -89,7 +89,7 @@ PSB064	è una zona molto multiculturale
 PSB005	sì
 PSB005	tipo che p~ cioè hai degli amici di tanti paesi
 PSB064	io ce l'ho là tanti amici di tanti paesi
-PSB064	ho amici italiani ho amici bangalesi ho ami~ amici da dall'egitto da tunisia
+PSB064	ho amici italiani ho amici $bangalesi ho ami~ amici da dall'egitto da tunisia
 PSB064	anche dal senegal dal da tutte parti
 PSB005	mhmh
 PSB005	mhmh e come li con~ cioè come li hai conosciuti
@@ -107,7 +107,7 @@ PSB005	ma in che lingua vi parlate
 PSB064	e dipende a che persona parlo con
 PSB064	parla il francese con~ con sanga~ senegalesi
 PSB064	l'arabo con gli egiziani e tunisini
-PSB064	italiano con bangalesi
+PSB064	italiano con $bangalesi
 PSB064	anche l'inglese
 PSB005	mhmh
 PSB064	e nigeriani parlo con
@@ -122,7 +122,7 @@ PSB064	sì è la prima
 PSB005	mhmh
 PSB064	nel secondo è e~ e~ la seconda è nella lista è
 PSB064	l'italiano adesso sì
-PSB064	sono più confortabile da
+PSB064	sono più $confortabile da
 PSB005	mhmh
 PSB064	parlare italiano
 PSB005	sì sì sì sì sì
@@ -211,7 +211,7 @@ PSB064	il più difficile è del marocchino
 PSB005	eh vedi
 PSB005	ah come mai
 PSB005	perché
-PSB064	pe- perché loro hanno inventato un eh uno delli parole
+PSB064	pe- perché loro hanno inventato un eh uno $delli parole
 PSB064	loro l'hanno inventate non non hanno nessun relazione in-
 PSB063	mh
 PSB063	con le altre e gli altri diale~
@@ -231,7 +231,7 @@ PSB005	più o meno sì
 PSB064	più o meno
 PSB064	ma
 PSB064	ma non se non parliamo se noi parliamo tanto
-PSB064	in un per un lungo periodo non cap~ capisciamo tutto che loro dicono
+PSB064	in un per un lungo periodo non cap~ $capisciamo tutto che loro dicono
 PSB064	e
 PSB064	noi ehm
 PSB064	algerini e marocchini possiamo parlare perfettamente
@@ -510,10 +510,10 @@ PSB064	dopo hanno creato la città
 PSB064	dopo le la gente dal- dalle paese sono venute per lavorare
 PSB005	mhmh
 PSB064	eh l'hanno dato degli
-PSB064	deli come si chiamano
-PSB064	delli case
+PSB064	$deli come si chiamano
+PSB064	$delli case
 PSB005	sì sì sì
-PSB064	dopo sono diventate delli
+PSB064	dopo sono diventate $delli
 PSB064	delle case costruiti male
 PSB005	mh
 PSB064	dopo
@@ -550,8 +550,8 @@ PSB064	c'era un l'altra città che si chiama el jadida
 PSB005	ah sì sì
 PSB005	un'altro ragazzo che ho intervistato è di lì
 PSB005	mi ha detto sì
-PSB064	jadida era nomata ehm
-PSB064	masaga
+PSB064	jadida era $nomata ehm
+PSB064	$masaga
 PSB005	okay
 PSB005	okay okay
 PSB005	eh
@@ -709,7 +709,7 @@ PSB005	sì quello è vero sì sì
 PSB064	eh paghi tre euro per un bottiglia d'acqua
 PSB005	sì no questo è ve~ perché tu hai viaggiato in europa
 PSB064	no no mai
-PSB064	ma voglio andare a belgia questa
+PSB064	ma voglio andare a $belgia questa
 PSB005	mhmh
 PSB063	in belgio
 PSB064	sì
@@ -806,7 +806,7 @@ PSB005	mh
 PSB064	non l'ho fatta questo anno ma l'ho fatta l'altro anno
 PSB005	ah e che cosa si fa
 PSB064	l'anno scorso
-PSB064	vestiamo delli vestiti ehm
+PSB064	vestiamo $delli vestiti ehm
 PSB064	ehm
 PSB064	tradizionale e
 PSB064	andiamo a

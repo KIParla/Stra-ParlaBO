@@ -266,7 +266,7 @@ PSB150	ma che si fottono i bambini cattivi io ho fatto scuola
 PSB149	ti fanno notare tutto
 PSB150	da noi cioè non so se ho capito
 PSB149	avevi l'uniforme a scuola tu
-PSB150	#gde #ja #v #školu #chodila eh da noi menavano da noi metavano ti facevano saltare i denti i nasi altro che prenderti i~ in giro a parole
+PSB150	#gde #ja #v #školu #chodila eh da noi menavano da noi $metavano ti facevano saltare i denti i nasi altro che prenderti i~ in giro a parole
 PSB149	ve lo ricordano
 PSB149	ti dico avevi l'uniforme
 PSB150	sì che c'entra

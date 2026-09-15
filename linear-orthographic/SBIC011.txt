@@ -178,7 +178,7 @@ PSB078	evitiamo che
 PSB078	eviti di venire proprio sulla stra~ per strada e
 PSB005	sì
 PSB078	e soprattutto sai
-PSB078	da noi non c'è la cultura di bronzarsi
+PSB078	da noi non c'è la cultura di $bronzarsi
 PSB005	mhmh
 PSB078	ecco noi
 PSB078	essere bianchi
@@ -331,7 +331,7 @@ PSB078	la regio~ dentro regione abbiamo
 PSB078	c'ha
 PSB078	adesso sinceramente non mi ricordo ma tanti c'ha di tanti dia~ dialetti diversi
 PSB005	sì sì sì
-PSB078	e noi parliamo un dialetto bastanza difficile
+PSB078	e noi parliamo un dialetto $bastanza difficile
 PSB078	penso che tant~ tut~ tanti tutti i dialetti sono sono difficili
 PSB078	però maggior parte
 PSB078	cambiano magari un po' gli accenti un po'
@@ -881,7 +881,7 @@ PSB005	sì sì sì
 PSB005	ma hai anche cioè magari guardi anche film molto in italiano soprattutto quando eri
 PSB078	eh
 PSB005	più piccolo
-PSB078	guarda sì guardavo bastanza film in italiano cartone animato
+PSB078	guarda sì guardavo $bastanza film in italiano cartone animato
 PSB005	mhmh
 PSB078	manga in italiano
 PSB078	eh sì poi
@@ -1261,7 +1261,7 @@ PSB078	si trovano qui
 PSB078	due tre settimane di di festeggiame~ cioè anche se il giorno è uno
 PSB005	okay okay
 PSB005	il periodo si trovano sì
-PSB078	ma quel periodo esatto periodo di di festimenti e poi andare prendere il primo dopo
+PSB078	ma quel periodo esatto periodo di di $festimenti e poi andare prendere il primo dopo
 PSB005	è come il panettone che si trova solo durante natale sì sì
 PSB078	brava brava brava brava brava brava
 PSB078	rimangono ma ci sono ecco
@@ -1316,7 +1316,7 @@ PSB078	molto piccolo
 PSB005	sì sì sì
 PSB078	e invece in cina
 PSB078	dove son nato cresciuto
-PSB078	nei festamenti
+PSB078	nei $festamenti
 PSB078	nei festeggiamenti
 PSB078	almeno quando era piccolo tra
 PSB078	cinque zii della mamma

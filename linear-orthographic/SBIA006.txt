@@ -617,7 +617,7 @@ PSB014	mh e
 PSB014	e per andare in centro vai a piedi autobus
 PSB034	autobus
 PSB014	autobus
-PSB034	autobus o menopatino
+PSB034	autobus o $menopatino
 PSB033	ah
 PSB014	ah monopattino bello e quanto ci metti
 PSB014	e quanto tempo ci metti

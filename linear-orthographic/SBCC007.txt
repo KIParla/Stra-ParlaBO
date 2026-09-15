@@ -69,7 +69,7 @@ PSB113	lui in dentro
 PSB113	e dice la gente non è neanche tanto
 PSB113	dice la gente là è molto abituata a vederlo
 PSB114	ma dove a roma nella sua zona
-PSB113	probiamente a roma
+PSB113	$probiamente a roma
 PSB113	dov'è mio copri casc~ tastiera
 PSB113	lo hai visto
 PSB114	sì ma non mi ricordo dove
@@ -326,7 +326,7 @@ PSB113	più disciplinati invece qui
 PSB114	il gi~ il giornalista è un po' razzista
 PSB113	sì sì
 PSB113	ma lui dice proprio così
-PSB113	esplicemente perché è nero di brasile
+PSB113	$esplicemente perché è nero di brasile
 PSB113	se guarda statistica
 PSB113	statisticamente è sì è vero
 PSB113	realisticamente secondo me no

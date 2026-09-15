@@ -474,7 +474,7 @@ PSB003	de raccontava un po' la storia di colosseo oppure la città venezia
 PSB003	tutto questo che
 PSB005	okay
 PSB005	okay è è è interessante questa cosa sì
-PSB003	anch'io risco
+PSB003	anch'io $risco
 PSB003	quindi cono~ cioè penso a una cosa che è lontana però molto diversa e affascinante
 PSB003	nella mia mente questo concetto collega proprio subito all'europa oppure a roma italia oppure quella cosa lì
 PSB005	mhmh
@@ -708,7 +708,7 @@ PSB003	più diffcile comprendere sì come ha detto
 PSB005	okay
 PSB003	sì comprendere intendo sia il significato de~ della xxx oppure quello proprio ti serve un contesto culturale oppure
 PSB005	okay ho capito sì
-PSB003	sì uno sente chi parle per capire
+PSB003	sì uno sente chi $parle per capire
 PSB005	sì sì sì
 PSB005	mhmh
 PSB005	sì sì okay okay ma mh

@@ -349,8 +349,8 @@ PSB106	tipo il drone vola con questa mitraglietta leggera che spara già diretta
 PSB107	sì ho già sentito queste che fanno così
 PSB106	ma poi la cosa che mi è piaciuta che loro avevano fatto loro proprio l'azienda di ivan aveva fatto questo programma per eh i
 PSB106	sia i portatili sia ehm come si chiamano #planshet come si chiamano
-PSB107	palmabile pal~ pal~ pal~
-PSB106	palmabile spalmabile
+PSB107	$palmabile pal~ pal~ pal~
+PSB106	$palmabile spalmabile
 PSB107	palmare non lo so come si chiama
 PSB106	parlo un po' male sì eh che eh
 PSB106	nel caso di morte dei soldati tramite gipiesse si cancellano tutti i dati che ci sono là sopra

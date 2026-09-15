@@ -68,7 +68,7 @@ PSB037	invece grande nata cina poi venuta qua italia a dodici anni
 PSB037	allora appena inizia parla italiana lingua difficile
 PSB037	a me nella ogni parole scrivi cinquanta volte
 PSB005	okay
-PSB037	così per capire signifi
+PSB037	così per capire $signifi
 PSB005	sì sì sì sì sì
 PSB037	poi dopo sei mesi lei già con scuola elem~ media
 PSB005	mhmh
@@ -170,7 +170,7 @@ PSB037	con treno avanti dietro
 PSB005	e era comodo il treno
 PSB037	treno comodo
 PSB005	mh
-PSB037	eh xx eh no però telone qua ogni tanto venuta xx ritardo
+PSB037	eh xx eh no però $telone qua ogni tanto venuta xx ritardo
 PSB037	come eh x attività arrivo ritardo dieci minuti venti minu~
 PSB037	e poi noi attività ogni giorno bisogno puntuale apri
 PSB005	mhmh
@@ -206,7 +206,7 @@ PSB037	quello lavoro pesante
 PSB005	mhmh
 PSB037	perché non è come qua in italia lì proprio lavoro con livello
 PSB005	mhmh
-PSB037	una prima xx dica assuma prima mi fa vedere dove diploma
+PSB037	una prima xx $dica $assuma prima mi fa vedere dove diploma
 PSB005	e in italia no
 PSB037	no italia no
 PSB037	italia parto da lavoro pesante o fatica vai
@@ -270,7 +270,7 @@ PSB005	mhmh
 PSB037	loro dialetto
 PSB005	mhmh
 PSB037	come età mia quella sopra cinqua~ cinquanta~ cinquant'anni in poi meno
-PSB037	quasi tutte diciamo quella lingua cinesi ufficiale
+PSB037	quasi $tutte diciamo quella lingua cinesi ufficiale
 PSB005	okay
 PSB037	quella vecchia come sopra sessant'anni allora diciamo
 PSB037	dialetto come italia
@@ -308,12 +308,12 @@ PSB037	devono mangiare allora facciamo tanto eh riso
 PSB005	sì sì
 PSB037	mais patate quella lì
 PSB037	allora lo stesso xxficio devo
-PSB037	fare tanto raccolti
+PSB037	fare tanto $raccolti
 PSB005	sì sì sì okay
 PSB037	la vita così
 PSB005	sì sì certo certo e mh volevo farti una domanda
 PSB005	eh ma eh ah eh sì ma l'italiano come hai fatto a impararlo
-PSB037	col studiare italiano comprato una dizionaria
+PSB037	col studiare italiano comprato una $dizionaria
 PSB037	ogni giorno memoria eh almeno dodici quindici parole
 PSB005	da solo
 PSB037	da solo

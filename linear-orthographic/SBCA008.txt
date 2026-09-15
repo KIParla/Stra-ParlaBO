@@ -25,7 +25,7 @@ PSB140	poi
 PSB140	dobbiare fare il pestato con la carne
 PSB141	mhmh
 PSB141	ma tro~ questo troppo
-PSB141	era momenta
+PSB141	era $momenta
 PSB140	ques~
 PSB140	sì sì sì
 PSB141	involtini
@@ -641,7 +641,7 @@ PSB141	okay
 PSB140	xx eh
 PSB141	va bene
 PSB140	le rosoliamo
-PSB141	mentre tu riso- eh risolare con lo so cos'è
+PSB141	mentre tu riso- eh $risolare con lo so cos'è
 PSB141	eh come dico
 PSB140	no
 PSB141	faccio le pizzette
@@ -727,7 +727,7 @@ PSB141	eh
 PSB140	mangiano come me
 PSB140	mangiano il tonno
 PSB141	eh perché abi~
-PSB141	natano qui
+PSB141	$natano qui
 PSB140	eh sono nati qua
 PSB141	hanno preso
 PSB141	i suoi gu~ sì sì

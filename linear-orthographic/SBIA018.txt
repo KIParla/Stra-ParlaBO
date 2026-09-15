@@ -59,7 +59,7 @@ PSB141	sì sì mi piace venire qua per~ c'è il il centro leonardo grande ci son
 PSB156	mh
 PSB141	almeno taglia il tempo di tutta l~ tutta la settimana sì sì
 PSB156	eh sì
-PSB141	e poi portiamo i bimbi a magdo qua
+PSB141	e poi portiamo i bimbi a $magdo qua
 PSB141	sì sì mi piace imola
 PSB141	è bellina
 PSB156	quanti anni hanno i tuoi figli adesso
@@ -102,7 +102,7 @@ PSB156	mhmh
 PSB156	però glielo vorresti insegnare
 PSB141	sì sì già ho scelto per la bimba l~ le media già ho scelto il primo li~ lingua il francese
 PSB156	eh
-PSB141	e poi l'espagnolo
+PSB141	e poi l'$espagnolo
 PSB156	eh sono fortunati
 PSB156	perché sanno tante lingue eh
 PSB156	eh è bello sapere tante lingue fin da piccoli
@@ -339,7 +339,7 @@ PSB156	mhmh
 PSB141	io ho detto a mie amiche gua~ guar~ guardate devi venire il giovedì anche se non prendi niente almeno vedi
 PSB156	eh ti sei divertita
 PSB141	eh
-PSB141	mi sono divertata eh
+PSB141	mi sono $divertata eh
 PSB141	la sera sono sono arrivata come una piccola bambina
 PSB141	sì sì veramente
 PSB156	quante buste avevi preso
@@ -547,7 +547,7 @@ PSB156	oh come no
 PSB156	non gli piace tipo il calcio
 PSB141	no no no no no
 PSB156	no
-PSB141	gli piace solo la calmezza calm~ gli piace tutto quello che non c'è l'umore non c'è oh dio
+PSB141	gli piace solo la $calmezza calm~ gli piace tutto quello che non c'è l'umore non c'è oh dio
 PSB156	ah
 PSB141	oh dio
 PSB156	gli piace stare tranquillo
@@ -686,7 +686,7 @@ PSB141	no lui un altro carattere
 PSB156	vero
 PSB156	mhmh
 PSB141	forse lei ha preso il carattere del suo padre perché lui ca~
-PSB141	no è calmo significa non eh non piac~ non piace fare tanti cosi non sociabile
+PSB141	no è calmo significa non eh non piac~ non piace fare tanti $cosi non $sociabile
 PSB156	okay gli piace stare un po' da solo
 PSB141	capito
 PSB141	sì
@@ -771,7 +771,7 @@ PSB141	con i miei ge~ genitori non ne uso il francese perché loro non ce l'hann
 PSB156	okay
 PSB156	ah okay
 PSB156	ah ho capito
-PSB141	dipende se uno parla con te l'arabo deve rispondere arabo se parla deve andare col li~ anche se fore con la gente deve andare col livello di loro capito
+PSB141	dipende se uno parla con te l'arabo deve rispondere arabo se parla deve andare col li~ anche se $fore con la gente deve andare col livello di loro capito
 PSB156	sì
 PSB156	eh sì
 PSB156	mhmh
@@ -902,7 +902,7 @@ PSB141	questa
 PSB156	wow
 PSB141	xxxx
 PSB156	bello che cos'era questo che festa era
-PSB141	eh no non è festa questo un velo che fanno gli barberi
+PSB141	eh no non è festa questo un velo che fanno gli $barberi
 PSB156	okay
 PSB156	okay
 PSB141	fanno i barbari significa che c'è una festa per esempio però io ho mes~ ho messo solo per vedere

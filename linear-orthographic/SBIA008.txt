@@ -7,7 +7,7 @@ PSB005	ehm
 PSB005	allora tu abiti qui
 PSB042	sì
 PSB005	da quanto tempo
-PSB042	eh adesso due ane sì
+PSB042	eh adesso due $ane sì
 PSB005	e sei rimasta sempre in questa zona della città
 PSB042	solo qua
 PSB005	e come ti piace mh
@@ -23,7 +23,7 @@ PSB042	importante
 PSB005	e voi avete la macchina
 PSB042	adesso cambiare la mia patente da mia paese difficile ma cambiare finalmente
 PSB042	ma lascia s~
-PSB042	soldi a parte piano piano si truve qualcosa
+PSB042	soldi a parte piano piano si $truve qualcosa
 PSB005	mhmh
 PSB042	sistemare piano piano la vita
 PSB005	certo
@@ -47,7 +47,7 @@ PSB042	difficile
 PSB005	sì quindi qui ti sembra meglio
 PSB042	ma per me per futuro da mio bambino per me è meglio qua
 PSB005	mhmh
-PSB042	solo l'ospit~ la #système de ospitale scola piace a me
+PSB042	solo l'ospit~ la #système #*de ospitale scola piace a me
 PSB005	mhmh okay
 PSB042	e anche no serve privato qua anche la da comune è buono molto buono
 PSB005	mhmh
@@ -56,21 +56,21 @@ PSB042	e come un vita è è buono
 PSB005	okay e
 PSB042	non è così difficile
 PSB005	mhmh e bologna ti piace in g~
-PSB042	sì ma a con la tempo la midità che alta con l'allergia è un #peu difficile per me
+PSB042	sì ma a con la tempo la $midità che alta con l'allergia è #*un #peu difficile per me
 PSB005	mh
 PSB042	piace come la mia vici~ la mia #city vicina al mare buono la tempo
 PSB005	mhmh
-PSB042	per me solo la la tempo e la midità che difficile
-PSB042	eh con l'allergia e #des volte non è respire me~ bene
+PSB042	per me solo la la tempo e la $midità che difficile
+PSB042	eh con l'allergia e #des volte non è $respire me~ bene
 PSB005	mhmh
 PSB005	è un allergia alla eh alle piante a che cosa
-PSB042	alla midità e alla piante e anche #des zanzare queste cose
+PSB042	alla $midità e alla piante e anche #des zanzare queste cose
 PSB042	difficile per me #des volte ci senti vuoi piangere
 PSB005	adesso arriveranno
 PSB005	sì che brutto quando arr~ adesso arriveranno le zanzare e sarà bruttissimo
 PSB042	sì ci s~
-PSB042	provare des spray le cose ma
-PSB042	è passato tre mesi di zanzare di ni mi~ midità alta
+PSB042	provare #*des #*spray le cose ma
+PSB042	è passato tre mesi di zanzare di ni mi~ $midità alta
 PSB005	mhmh
 PSB042	resiste aspettare fine queste mese
 PSB005	eh fine settembre
@@ -82,13 +82,13 @@ PSB042	sì sì
 PSB005	non hai visto altre città dell'italia
 PSB042	eh visto altre città
 PSB042	perché io #dejà arriva la prima volta de~ a cu~
-PSB042	diciassette ane arriva giovane a l'#italie ma non è resiste
+PSB042	diciassette $ane arriva giovane #*a #*l'#italie ma non è resiste
 PSB005	mh
 PSB042	sola no ce l'ho #ni marito #ni niente ma tutto nuovo per me
 PSB042	eh deprime eh ret~ ritorna a mia paese
-PSB042	e dopo #des ane sai non vuoi più vivere a mia paese tutta a posto
+PSB042	e dopo #des $ane sai non vuoi più vivere a mia paese tutta a posto
 PSB042	ma così un giorno vedere mio ho incontrato con mio marito ma mia testa non è pensa no
-PSB042	a matrimonio #ni a l'#italie #ni di niente
+PSB042	a matrimonio #ni #*a #*l'#italie #ni di niente
 PSB042	ma così va e fare matrimo~ e ritorno di nuovo
 PSB005	mhmh
 PSB042	così la dio vuoi
@@ -107,7 +107,7 @@ PSB042	sì
 PSB005	okay
 PSB042	sì ma è giovane non è resiste
 PSB005	mh
-PSB042	ma adesso con grande la #personalité cambia poi resiste
+PSB042	ma adesso con grande #*la #personalité cambia poi resiste
 PSB005	sì sì
 PSB042	ma con giovani
 PSB005	quanto tempo sei fer~ ti sei fermata in italia
@@ -123,11 +123,11 @@ PSB042	eh no
 PSB042	no
 PSB005	b~ volevi lavorare
 PSB042	fare provare l~ polizia ma
-PSB042	difficile non è axepta fare pa~ polizia a mia paese mai fare
+PSB042	difficile non è $axepta fare pa~ polizia a mia paese mai fare
 PSB005	mhmh
 PSB042	ero giovane come fare ma non è piace
 PSB005	mhmh
-PSB042	eh passa solo un année e fare polizia qualcosa ma non è piace
+PSB042	eh passa solo un #*année e fare polizia qualcosa ma non è piace
 PSB005	mhmh
 PSB042	eh sai lascia tutto e ritorna
 PSB005	sì sì sì
@@ -138,31 +138,31 @@ PSB042	facile non è così difficile
 PSB005	sì sì
 PSB042	ma
 PSB005	non ti sei trovata bene no
-PSB042	ma la vita vuoi che io ritorno qua e
+PSB042	ma la vita vuoi #*che io ritorno qua e
 PSB005	mhmh
 PSB005	certo
 PSB042	e
-PSB042	c'è #des cose anche non è pense così
+PSB042	c'è #des cose anche non è $pense così
 PSB005	mhmh
 PSB005	e raccontami la tua città in marocco
 PSB005	com'è fatta io non ci sono stata quindi
-PSB042	a rabat
+PSB042	#*a rabat
 PSB005	sì
 PSB042	eh io a mia città vicina al mare
 PSB042	la tempo bello
 PSB042	c~ come tutta la xxx #en generale bello
 PSB042	e mio lavoro come estetica
 PSB005	mhmh
-PSB042	ah #centre mh sempre lavore a spa con clienti #des donne così
+PSB042	ah #centre mh sempre $lavore a spa con clienti #des donne così
 PSB042	la vita buona
 PSB005	che cosa si xxxx
 PSB042	non è così complicato
 PSB005	mh
-PSB042	la #système da mia paese con
-PSB042	con così le documente la
-PSB042	non è così c'è qua l~ la #système differenza per me
+PSB042	#*la #système da mia paese con
+PSB042	con così #*le $documente la
+PSB042	non è così c'è qua l~ #*la #système differenza per me
 PSB005	mhmh
-PSB042	con le cose sempre online serve fare sempre #des domande se vuoi qualcosa se vuoi
+PSB042	con le cose sempre online serve fare sempre #des #*domande se vuoi qualcosa se vuoi
 PSB042	nuovo cose
 PSB005	sì sì è è la burocrazia
 PSB042	la #système è differenza
@@ -193,13 +193,13 @@ PSB042	c'è #des cose tradizionale per regalo queste cose
 PSB005	mhmh mh
 PSB005	mhmh
 PSB042	qualcosa c'è di nuovo
-PSB042	per la mia sita la più parte cose turistiche
+PSB042	per la mia $sita la più parte cose turistiche
 PSB005	mhmh
-PSB042	come qua bologna sempre c'è le #church
+PSB042	come qua bologna sempre c'è #*le #church
 PSB005	mhmh
 PSB042	eh arriva le turistico fare per mio paese c'è
 PSB005	sì sì sì sì
-PSB042	#des cose musulmane come le moschee vecchie poi fare #des foto
+PSB042	#des cose musulmane come le moschee vecchie poi fare #des #*foto
 PSB005	mhmh
 PSB005	mhmh
 PSB042	è così
@@ -208,11 +208,11 @@ PSB042	no puoi
 PSB005	si puo
 PSB042	per per tutte
 PSB005	ah okay
-PSB042	c'è una parte per la #prière si serve lavare e e respecte
+PSB042	c'è una parte per la #prière si serve lavare e e $respecte
 PSB005	mhmh
 PSB042	con le non è puoi entrare con gli vestiti lo sai
 PSB005	sì sì
-PSB042	per respecte
+PSB042	per $respecte
 PSB005	sì sì sì
 PSB042	se no f~ se non è fare la #prière no serve xx
 PSB005	si puo visitare
@@ -285,7 +285,7 @@ PSB042	sì
 PSB005	e pensi di andare in marocco per vacanza o no
 PSB042	no a questo momento no
 PSB005	okay
-PSB042	serve prepare anche marocco adesso caro
+PSB042	serve $prepare anche marocco adesso caro
 PSB005	mh
 PSB042	se vuoi no puoi
 PSB042	resta con mia famiglia la casa piccola adesso e
@@ -313,7 +313,7 @@ PSB042	sì
 PSB042	sì
 PSB005	sto ancora aspettando
 PSB042	ma #en generale io piace l- ehm le zona vicino al mare calma
-PSB042	e anche a l'#italie cerco così
+PSB042	e anche #*a #*l'#italie cerco così
 PSB005	mhmh ma c'è tanto mare qui
 PSB042	sì c'è
 PSB005	ci sono molti posti
@@ -354,7 +354,7 @@ PSB042	è meglio da loro ci s~
 PSB005	tua sorella è in arabia saudita ah
 PSB042	sì
 PSB042	sì mia mh sorella lo sai qualcosa è meglio da loro
-PSB042	c'è spazio grande per bambino c'è de fare e qua loro
+PSB042	c'è spazio grande per bambino c'è #*de fare e qua loro
 PSB042	eh no c'è per me
 PSB005	mhmh
 PSB042	come spazio da gioco solo piccolo non è così perfetto non è così pulito
@@ -365,7 +365,7 @@ PSB042	come come ci senti europa ma non è così
 PSB005	ah okay quindi tu pensavi
 PSB042	capito
 PSB005	che fosse diverso qui
-PSB042	sì con andare una paese arabo vedi que meglio
+PSB042	sì con andare una paese arabo vedi #*que meglio
 PSB005	mh
 PSB042	sì
 PSB042	ci senti che la paese fare #effort per la sua per la la vita dei bambini spazio per bambini
@@ -402,7 +402,7 @@ PSB005	mhmh
 PSB042	eh è buona
 PSB005	mhmh
 PSB005	mhmh e ma e tu oltre al all'italiano che lingue parli
-PSB042	parle arabo poco francese perché da secondo vengo a mia paese francese
+PSB042	$parle arabo poco francese perché da secondo vengo a mia paese francese
 PSB005	mhmh
 PSB005	mhmh e l'hai studiato a scuola il francese
 PSB042	sì s~
@@ -410,7 +410,7 @@ PSB042	e inglese
 PSB005	e e anch~ e l'hai studiato a scuola anche l'inglese
 PSB042	sì
 PSB005	sì
-PSB042	ma la mia paese la pri~ la primo la primere
+PSB042	ma la mia paese la pri~ la primo la $primere
 PSB042	sei prime sei anni solo no la tre anni primo tre anni solo arabo
 PSB005	mhmh
 PSB005	sì
@@ -596,7 +596,7 @@ PSB005	ah io sono nata in famiglia italiana solo italiano
 PSB042	sì
 PSB005	con mio marito solo italiano
 PSB042	no tuo che se fa se dopo arriva bambino
-PSB042	vuoi tua bambino que parla altre lingua
+PSB042	vuoi tua bambino #*que parla altre lingua
 PSB005	sì le studierà a scuola
 PSB042	vuoi sempre a noi
 PSB042	eh pensi un futuro meglio per nostri bambini
@@ -615,7 +615,7 @@ PSB042	occupata sempre con mio figlio stanca
 PSB005	sì non hai molto tempo libero
 PSB042	no se uscire solo giro eritorno
 PSB005	mhmh
-PSB042	ma non è conosche #beaucoup de
+PSB042	ma non è $conosche #beaucoup #*de
 PSB042	l'ap~ lele altre sempre ce l'ho suo cose occupato
 PSB005	mhmh
 PSB005	xxxxx
@@ -627,7 +627,7 @@ PSB005	hai qualche passione qualche mh
 PSB005	ti piace leggere ti piace guardare film eh
 PSB042	sì
 PSB005	un po' di tempo libero
-PSB042	tempo libero solo se fare giro fer con la tele con se c'è una seriale
+PSB042	tempo libero solo se fare giro $fer con la tele con se c'è una seriale
 PSB005	mhmh
 PSB042	eh sai no c'è qualcosa speciale
 PSB005	ci sono i film eh in marocchini le serie tivù marocchine
@@ -710,9 +710,9 @@ PSB042	eh mamma papà parlare sua lingua no lo so quale lingua questa
 PSB005	e e e tu parli al sei in contatto con la tua famiglia in marocco vi sentite con eh cellulare
 PSB042	sì sì sempre ogni giorno sì
 PSB005	e loro son ven~ sono venuti mai
-PSB042	con la téléphone non è senti que c'è #quand parlare ogni giorno ci senti bene
+PSB042	con la #*téléphone non è senti #*que c'è #quand parlare ogni giorno ci senti bene
 PSB005	sì sì
-PSB042	non è senti que fuori
+PSB042	non è senti #*que fuori
 PSB042	aiuta la #téléphone sì senza #téléphone è difficile
 PSB005	sì sì
 PSB042	per sapere tutte le giorni tutto okay tutto
@@ -735,7 +735,7 @@ PSB042	ma per arriva mio padre mio madre mh per prend~ per la #visa è difficile
 PSB042	serve è bloccato #maroc ades- solo per prendi appuntamento per la #visa una volta al mese
 PSB042	la #embassade #à #l'#italie non è interessa c'è #bureau per queste cose
 PSB005	sì sì
-PSB042	serve troppo documente serve non è così facile
+PSB042	serve troppo $documente serve non è così facile
 PSB005	mhmh
 PSB042	anche se manda tutte le cose che serve aspetta appuntamento chi lo sa c'è la #visa o no
 PSB005	sì sì sì
@@ -778,7 +778,7 @@ PSB005	si trovano i
 PSB005	se vuoi cucinare una cosa marocchina trovi gli ingredienti
 PSB042	sì c'è tutte
 PSB005	dove si comprano
-PSB042	c'è macchina- questo marscindese che di marocchine de arabo c'è pakistano
+PSB042	c'è macchina- questo $marscindese che di marocchine de arabo c'è pakistano
 PSB005	mhmh
 PSB042	che ce l'ho le carni #halal c'è pollo #halal c'è anche #les #épices c'è tutto
 PSB005	mhmh
@@ -799,7 +799,7 @@ PSB005	sì sì sì
 PSB042	eh piace allo~ eh è mangiato a #déjà visito la turkish #istanbul e piace
 PSB005	mh okay sì ah che bello molto
 PSB005	istanbul è molto bella
-PSB042	eh mangiato le grigliata #des cose piace e le romeni uguale le cose
+PSB042	eh mangiato le grigliata #des cose piace e #*le romeni uguale le cose
 PSB005	per me
 PSB005	ehm vedi okay non lo so
 PSB042	sì
@@ -819,8 +819,8 @@ PSB042	cara
 PSB005	sì peccato
 PSB042	ma tutto #le mondo adesso anche la spesa anche qua
 PSB005	mhmh
-PSB042	adesso un anno al bologna la spesa non è come un année fa
-PSB042	ci senti que la soldi cento euro non fa niente
+PSB042	adesso un anno al bologna la spesa non è come un $année fa
+PSB042	ci senti #*que la soldi cento euro non fa niente
 PSB005	eh
 PSB005	ah sì
 PSB042	un anno #plus da un anno
@@ -830,20 +830,20 @@ PSB005	e
 PSB005	mhmh
 PSB005	anche e gli affitti costano molto dicevi no
 PSB042	sì
-PSB042	anche per me les #factures e le #gaz e queste cose ci senti trop~
+PSB042	anche per me #*les #factures e le #gaz e queste cose ci senti trop~
 PSB042	non è così facile come una vita ma
 PSB005	sì mh
-PSB042	se vuoi pagare l~ le g~ tutto les #factures e l'affitto
+PSB042	se vuoi pagare l~ le g~ tutto #*les #factures e l'affitto
 PSB042	difficile
 PSB005	servono molti soldi
 PSB042	sì sì
 PSB042	anche le tasse con mi~ mio marito
 PSB005	mh
-PSB042	shtire troppo tasse
+PSB042	$shtire troppo tasse
 PSB005	perché voi avete un attività avete un bed and breakfast giusto
 PSB042	sì
 PSB042	sì ma anche ce l'ho la suo lavoro ma
-PSB042	come de tasse troppo
+PSB042	come #*de tasse troppo
 PSB005	mhmh
 PSB042	no puoi lascia soldi a parte per eh
 PSB042	per sentire che la tua vita avanti meglio
@@ -914,7 +914,7 @@ PSB042	ma normalmente c'è poste
 PSB005	mhmh
 PSB042	non puoi dire no c'è posto
 PSB005	secondo me trovate
-PSB042	sì perche la l'assistenza dice importante primo de le due la uomo e la donna che lavora eh dopo che ce l'ho due bambine dop~
+PSB042	sì perche la l'assistenza dice importante primo $de le due la uomo e la donna che lavora eh dopo che ce l'ho due bambine dop~
 PSB005	mh
 PSB042	spero va bene
 PSB005	sì
@@ -1083,7 +1083,7 @@ PSB042	perché così fare riservare a~ a sua paese per fare mada~ tempo da coron
 PSB042	e pagare per la sala della festa è
 PSB042	è bloccato colpa corona questo #pèriode e
 PSB042	ma sai
-PSB042	tutto que sposato al co~ tempo da corona non è vale la matrimonio
+PSB042	tutto #*que sposato al co~ tempo da corona non è vale la matrimonio
 PSB005	mhmh
 PSB005	mh
 PSB005	eh io ho aspettato
@@ -1148,9 +1148,9 @@ PSB005	sì
 PSB042	così resta #souvenir
 PSB005	sì certo certo sì sì
 PSB005	e~
-PSB042	cerco #des foto per vedere
+PSB042	cerco #des #*foto per vedere
 PSB005	sì
-PSB042	sempre tradisionele
+PSB042	sempre $tradisionele
 PSB042	così festa se non è fare
 PSB042	la pecora queste c~ per noi come questo bambino non è no ce l'ho nome no ce l'ho
 PSB042	serve questa festa
@@ -1171,7 +1171,7 @@ PSB005	ciao
 PSB005	ciao
 PSB042	eh tati
 PSB005	ciao
-PSB042	mh sempre tradisionele
+PSB042	mh sempre $tradisionele
 PSB005	vediamo mh bello
 PSB005	ma è bellissimo
 PSB042	ma penso visto tu a fez questo

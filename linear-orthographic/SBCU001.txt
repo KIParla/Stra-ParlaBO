@@ -431,11 +431,11 @@ PSB022	due
 PSB005	un intervento grave
 PSB022	grave cuore
 PSB005	mh
-PSB022	intuc
+PSB022	$intuc
 PSB005	mh
-PSB022	stato poi non è intuc com'è questa
+PSB022	stato poi non è $intuc com'è questa
 PSB022	mh
-PSB022	intuc questa no
+PSB022	$intuc questa no
 PSB022	mh
 PSB022	come si chiama fatto
 PSB022	eh stent
@@ -535,7 +535,7 @@ PSB005	sì sì sì sì infatti
 PSB022	ah mh
 PSB022	papà di
 PSB022	arrivato due mh due mesi stato ospedale perché
-PSB022	ca~ come questo si chiama contusia contusia
+PSB022	ca~ come questo si chiama $contusia $contusia
 PSB005	contusione
 PSB022	contusione tantissimo
 PSB005	mhmh
@@ -1036,7 +1036,7 @@ PSB005	mhmh
 PSB022	com'è questa com'è quest~
 PSB005	ma tu non hai pensato di andare a vivere
 PSB022	io io xx già tranquilla e tutto
-PSB022	queste probleme
+PSB022	queste $probleme
 PSB005	ma sono problemi grossi
 PSB022	quali grossi e quali no
 PSB005	certo sì sì sì sì
@@ -1119,7 +1119,7 @@ PSB022	eh sì
 PSB022	sì
 PSB005	sì sì certo
 PSB022	lui andata perché eh la d~ stato amico
-PSB022	poi mico p~ preso
+PSB022	poi $mico p~ preso
 PSB022	# u~ un #grant
 PSB022	eh mh
 PSB022	mh
@@ -1138,7 +1138,7 @@ PSB022	eh cinquanta per cento
 PSB005	mhmh
 PSB022	eh il cinquanta per cento a xx cinquanta e mille euro
 PSB005	ah okay
-PSB022	cinquantamille euro
+PSB022	$cinquantamille euro
 PSB022	più venticinque mille emh
 PSB022	campus
 PSB005	mhmh
@@ -1211,7 +1211,7 @@ PSB022	non lo so cosa v~ lui vuole
 PSB005	mh mh
 PSB022	lu~ eh lu~ eh lui piace
 PSB022	come questa mh
-PSB022	investizione come questa investizione
+PSB022	$investizione come questa $investizione
 PSB022	investit~ quando
 PSB005	forse investimento
 PSB022	i~ investime~ lui piace questo tanto
@@ -1241,11 +1241,11 @@ PSB022	o polonia
 PSB022	mh no lui voglio anche america lui voglio anche
 PSB005	mh
 PSB022	ehm
-PSB022	anglia eh
+PSB022	$anglia eh
 PSB005	mh inghilterra sì sì
 PSB022	inghilterra vuol~
 PSB022	ma
-PSB022	centomille euro minimo
+PSB022	$centomille euro minimo
 PSB005	sì sì no ma costa tanto
 PSB022	xx
 PSB005	perché poi adesso l'inghilterra è anche uscita dall'unione europea no
@@ -1276,7 +1276,7 @@ PSB005	okay okay sì
 PSB022	non gli è piaciuta tanto
 PSB005	mhmh
 PSB022	e poi
-PSB022	perspectiva
+PSB022	$perspectiva
 PSB005	sì
 PSB022	xx non c'è niente
 PSB005	mhmh
@@ -1540,7 +1540,7 @@ PSB022	aiutare
 PSB022	grazie mille lei
 PSB022	eh
 PSB022	tante gente tutte vita
-PSB022	ha lavorato queste appartamenti tutta insiema adesso non c'è niente
+PSB022	ha lavorato queste appartamenti tutta $insiema adesso non c'è niente
 PSB022	paura sempre
 PSB005	mhmh
 PSB005	sì sì sì
@@ -1692,8 +1692,8 @@ PSB022	ha andata qualche volt~ e questa come lei devo andare
 PSB022	adesso
 PSB022	lei dice
 PSB022	ultima volta lei stata
-PSB022	lei adesso abita belghie
-PSB022	be~ belghie
+PSB022	lei adesso abita $belghie
+PSB022	be~ $belghie
 PSB005	mhmh
 PSB022	mh
 PSB022	eh lei ha dato a fratello zaporižžja
@@ -2073,7 +2073,7 @@ PSB022	piccoli
 PSB022	e emh
 PSB022	fr~ frigorifer~ frigoriferi poi
 PSB005	sì sì sì
-PSB022	quando arrivata subita
+PSB022	quando arrivata $subita
 PSB022	no quando andata eh ehm lavorare
 PSB022	eh p~ preso lasciato n~
 PSB022	n- in dentro
@@ -2442,7 +2442,7 @@ PSB022	solo ore
 PSB005	sì sì
 PSB022	perché
 PSB022	a dice no io non voglio ore perché
-PSB022	io devo pagare appartamente
+PSB022	io devo pagare $appartamente
 PSB022	vita una
 PSB005	mhmh esatto
 PSB022	perché io devo mh
@@ -2552,8 +2552,8 @@ PSB022	eh sì
 PSB005	certo sì sì
 PSB022	x
 PSB005	mhmh okay
-PSB022	pensia
-PSB022	ucraina questo non è pensia questo
+PSB022	$pensia
+PSB022	ucraina questo non è $pensia questo
 PSB022	oggi
 PSB005	mh
 PSB005	va bene adesso io vado

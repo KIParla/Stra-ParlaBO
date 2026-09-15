@@ -329,11 +329,11 @@ PSB074	oppure un'altra cosa se ne hai da buttare dei collant
 PSB074	che i collant poi ti faccio vedere un video metti qua
 PSB072	sì
 PSB074	basta tagliare la fine dei collant e puoi anche poi tipo arrotolarli
-PSB072	io ho visto una ragazza che faceva con i calzi
+PSB072	io ho visto una ragazza che faceva con i $calzi
 PSB074	esa~ io l'ho provato sai che ha funzionato
 PSB071	eh xxxx
 PSB074	con i calzini con i calzini
-PSB072	con i calzini li calzi lunghi quelli
+PSB072	con i calzini li $calzi lunghi quelli
 PSB071	calzini
 PSB074	sì quelli lunghi io l'ho provato ti ricordi una sera
 PSB072	eh
@@ -491,7 +491,7 @@ PSB072	c'è c'è c'è è qua
 PSB073	okay
 PSB072	vero che c'è
 PSB072	okay sì sì
-PSB072	e no io non sono mai uscita mia mamma non mi ha mai lasciato andare per quello io racconti come lori loro non ce li ho
+PSB072	e no io non sono mai uscita mia mamma non mi ha mai lasciato andare per quello io racconti come $lori loro non ce li ho
 PSB074	a parte eri anche in una città
 PSB074	ma perché tu alla fine hai vissuto sempre in una città
 PSB072	io sono sempre vissuta cioè casa mia e i miei cugini non erano come loro due per quello non ho visto queste cose
@@ -507,7 +507,7 @@ PSB073	quindi se se prendevamo da qualche albero allor~ all~ no allora no quelli
 PSB073	quelli allo~ quello prendevamo il sale e il pepe e le prendevamo da casa no
 PSB073	invece pe~ per per tagliare per sbucciarli prendevamo tipo il e il guscio del delle conchiglie
 PSB074	o
-PSB073	sì e poi le le sfregavi sul su pietra sul sul pavimento sì in mezzo si faceva un bucuro un un buco in mezzo si faceva un buco tondo e
+PSB073	sì e poi le le sfregavi sul su pietra sul sul pavimento sì in mezzo si faceva un $bucuro un un buco in mezzo si faceva un buco tondo e
 PSB074	ho capito
 PSB072	sulle pietre
 PSB071	ah
@@ -586,7 +586,7 @@ PSB071	perché suda lei
 PSB074	non è non sudo ho la pelle ho la pelle grassa
 PSB072	no no no anch'io pelle non mi suda
 PSB074	ho la pelle grassa
-PSB072	massimo eh sud~ li scelli
+PSB072	massimo eh sud~ li $scelli
 PSB074	eh sì eh per forza
 PSB072	eh quello e sotto anche
 PSB074	in estate lì
@@ -744,7 +744,7 @@ PSB074	eh
 PSB074	noi lo vogliamo fare che è carino
 PSB072	vero amore
 ???	ah ah
-PSB073	ah faccio una cosa mando comprando quel coso là quello che abbiamo vito visto xx
+PSB073	ah faccio una cosa mando comprando quel coso là quello che abbiamo $vito visto xx
 PSB074	no ma il problema è se tu metti una cosa del genere fuori dalla porta poi viene un'infarto ai vicini
 PSB074	chi paga
 PSB074	la denuncia non la voglio io

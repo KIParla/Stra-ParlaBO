@@ -20,7 +20,7 @@ PSB005	che cosa
 PSB005	cioè che
 PSB019	cioè
 PSB005	ti servivano le trascrizioni
-PSB019	per la tesi ho fatto all'univ~ cioè all'università quando ho fatto il master m~ mastric~ magistrale di antropologia
+PSB019	per la tesi ho fatto all'univ~ cioè all'università quando ho fatto il master m~ $mastric~ magistrale di antropologia
 PSB019	ho scritto una tesi sulla costruzione di una identità nazionale attraverso le politiche mediche del corpo diciamo e della mente
 PSB019	prendendo spunto la costruzione dell'identità israeliana nell'an~ nel secolo scorso
 PSB019	praticamente sono andata in israele
@@ -473,7 +473,7 @@ PSB019	e mentre stavo in israele ho preso anche il
 PSB019	un corso di ebraico
 PSB019	adesso sono a un livello di arabo che
 PSB019	posso sopravvivere
-PSB019	però solo nella peninsola araba
+PSB019	però solo nella $peninsola araba
 PSB019	se vado tipo in e~ in egitto marocco non capisco niente zero
 PSB019	quindi se trovo qualcuno della siria del libano della palestina riusciamo a parlare
 PSB019	posso fare la spesa posso chiedere chiedere come stai parlare del meteo
@@ -847,7 +847,7 @@ PSB019	quindi
 PSB019	forse la zona di paladozza era un po' più pulita
 PSB019	e più silenziosa
 PSB005	mh
-PSB019	anche se avevamo la coop sotto casa che faceva un rumore alle quattro di mattina quando gli arrivavano i fornimenti che
+PSB019	anche se avevamo la coop sotto casa che faceva un rumore alle quattro di mattina quando gli arrivavano i $fornimenti che
 PSB019	era
 PSB019	ehm difficile da gestire qua abbiamo altri fonti di rumore però comunque
 PSB005	e hai cambiato per motivi legati diciamo all'affitto a

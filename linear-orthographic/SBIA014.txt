@@ -20,8 +20,8 @@ PSB079	siamo sotto ferrara
 PSB005	sì sì sì
 PSB005	sì sì sì sì
 PSB079	sì un piccolo diciamo paesino
-PSB079	eh contienie de
-PSB079	soprattutte le anziane
+PSB079	eh $contienie de
+PSB079	$soprattutte le anziane
 PSB079	la maggior parte sono anziane
 PSB079	abbiamo una sc~ due scuole una p~ no tre
 PSB079	quella media l~ primaria e l'asilo
@@ -265,7 +265,7 @@ PSB005	le bambine sono contente
 PSB005	della scuola qui
 PSB080	eh
 PSB080	argenta
-PSB080	amikat
+PSB080	$amikat
 PSB005	eh
 PSB005	mi ha mi ha detto mh
 PSB079	#_ xx wlad-ek 3ajebhum l-ḥal fi ash smit-u
@@ -370,7 +370,7 @@ PSB079	diciassette anni
 PSB005	sì
 PSB005	abbastanza
 PSB079	sì sì dai
-PSB080	duemila e q~ dedici
+PSB080	duemila e q~ $dedici
 PSB005	sì
 PSB005	okay okay
 PSB005	circa
@@ -424,7 +424,7 @@ PSB080	sì
 PSB005	e
 PSB079	eh a casa no i miei figli che parlano in italiano io parlo l'arabo
 PSB079	delle volte la mia figlia me mi dice no oggi parliamo per esempio in inglese
-PSB079	diciamo le parolini così dai
+PSB079	diciamo le $parolini così dai
 PSB079	e così
 PSB005	che divertente
 PSB079	l'arabo per esempio del giorni che parliamo arabo l~ eh l'arabo quello non dialetto
@@ -699,7 +699,7 @@ PSB005	ti piace
 PSB080	è bellissimo murrākush
 PSB005	bellissimo okay
 PSB080	sì
-PSB080	certo ris~ pante
+PSB080	certo ris~ $pante
 PSB079	eh turista il questo il problema diventa
 PSB005	sì sì
 PSB005	mh
@@ -721,7 +721,7 @@ PSB005	e c'è molta differenza
 PSB005	tra l'italia e il marocco
 PSB080	sì
 PSB005	qual è la differenza per te
-PSB080	democratismo qua democrat-zia
+PSB080	$democratismo qua democrat-zia
 PSB005	mhmh sì sì ho capito sì
 PSB080	all'ospedale
 PSB005	mhmh
@@ -844,7 +844,7 @@ PSB079	tutta la frutta secca l~
 PSB080	#_ ash smit l-ṭa3rija?
 PSB067	si chiama
 PSB079	e festeggiamo con una cosa non lo so come si chiama #xxx #fi #l-internet
-PSB079	festeggiamo con una cosa non lo so come si chiama spetta che la cerche su
+PSB079	festeggiamo con una cosa non lo so come si chiama spetta che la $cerche su
 PSB067	#ma #kaynash #smit #smit-ha tampo~ tampone tampo~
 ???	aspetta aspetta che mi dice questo nome
 PSB067	#_ hadik xxxx ash smit-ha
@@ -1293,7 +1293,7 @@ PSB067	sì
 PSB080	#_ msemmen
 PSB079	zuppa #bi l-basla #bi l-p~
 PSB079	#_ bi l~
-PSB080	cipollo
+PSB080	$cipollo
 PSB079	cipolla
 PSB079	eh cosa ancora
 PSB080	#_ tajine
@@ -1320,7 +1320,7 @@ PSB067	xxxxx
 PSB080	sì
 PSB079	#_ al-ajer
 PSB079	dio t~
-PSB079	compinsione
+PSB079	$compinsione
 PSB067	ricompensa
 PSB005	ti ricompensa
 PSB079	ti ricompensa dio le
@@ -1736,7 +1736,7 @@ PSB079	non c'è per la lingua
 PSB067	non c'è
 PSB005	non credo no
 PSB079	penso con l~ li~ li~ libia
-PSB067	penso con libani palestani~ sì palesti- palestinesi con i ma~ marocchini no non penso
+PSB067	penso con $libani palestani~ sì palesti- palestinesi con i ma~ marocchini no non penso
 PSB005	no mh
 PSB067	italia no non ho visto un marocchino
 PSB005	eh e e dire che c'è un'emigrazione marocchina cioè tan~ grandissima sì
@@ -1884,7 +1884,7 @@ PSB005	hai fatto bene
 ???	#_ hadi jarima
 PSB067	#bayna #nari troppo
 PSB080	#men #temma #safi #ma #bqitč la scuola
-PSB079	#wellat phobiya
+PSB079	#wellat $phobiya
 PSB080	#_ mabghitč
 PSB005	beh ci hai
 PSB005	certo sì sì
@@ -1938,7 +1938,7 @@ PSB079	sì
 PSB005	molto determinata
 PSB079	sì ma bello è stata l~ l'esperienza di l'università è stata
 PSB079	speciale
-PSB079	divinte non lo so grande
+PSB079	$divinte non lo so grande
 PSB067	grande
 PSB005	xxxxxx da sola
 PSB067	puoi uscire da sola puoi perché da noi non puoi uscire da sola prima
@@ -2377,7 +2377,7 @@ PSB079	eh sì
 PSB005	sì sì sì perché non lo usano molto spesso
 PSB005	mhmh
 PSB005	okay beh
-PSB067	e anche per ispri~ l'isprimento di qualcosa loro non sanno dire xxx
+PSB067	e anche per ispri~ l'$isprimento di qualcosa loro non sanno dire xxx
 PSB005	sì sì ho capito sì
 PSB005	allora vediamo se cosa posso chiedere ma forse
 PSB067	#_ kat hadri bi l-3arbiya ula bi l-talianiya
@@ -2390,7 +2390,7 @@ PSB079	prendi il canale ma io di solito non vedo la ti~ tivù
 PSB005	per niente proprio neanche in italiano
 PSB079	no~
 PSB079	in italiano se ci ci sono de de in estate se ci sono
-PSB079	degli inizioni italiani per esempio quello avanti un altro oppure quel muro quel non lo s~ the wall
+PSB079	degli $inizioni italiani per esempio quello avanti un altro oppure quel muro quel non lo s~ the wall
 PSB005	mhmh mhmh
 PSB079	quello li vediamo ma qualcosa de~ qualcos'altro no
 PSB079	paperissima ma per i miei bambini sempre
@@ -2457,7 +2457,7 @@ PSB079	ma adesso instagram
 ???	vai
 PSB079	eh eh ho fatto instagram solo per seguire mio figlio
 PSB005	okay certo
-PSB079	per dire la verità è in quell'età dodicente allora vedo faccio un po' di spia
+PSB079	per dire la verità è in quell'età $dodicente allora vedo faccio un po' di spia
 PSB005	okay sì sì
 PSB005	e che cosa mette lui che foto posta
 PSB079	eh

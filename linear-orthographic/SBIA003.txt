@@ -11,11 +11,11 @@ PSB023	lì non non si sta bene c'è un po'
 PSB005	perché
 PSB023	un po' razzisti lì eh cioè sì
 PSB005	ah o i trevigiani
-PSB023	invece qua dopo sono trasferto a modena
+PSB023	invece qua dopo sono $trasferto a modena
 PSB023	eh
 PSB023	lì è stato due anni si sta bene anche a modena
 PSB005	mhmh
-PSB023	e dopo sono sposato sono trasferto a bologna ah
+PSB023	e dopo sono sposato sono $trasferto a bologna ah
 PSB005	ah
 PSB023	e rimasto a bologna
 PSB005	da~
@@ -40,7 +40,7 @@ PSB023	siamo la stessa zona
 PSB023	quindi siamo trovati bene qua
 PSB005	mhmh
 PSB023	poi anche lavoro qua cioè prima si si lavora
-PSB023	tramite le age~ la la l'agencì però
+PSB023	tramite le age~ la la l'$agencì però
 PSB023	la~ lavoro lo trovi
 PSB023	hai capito
 PSB005	mhmh
@@ -66,7 +66,7 @@ PSB005	ed è una zona che ti piace
 PSB023	sì
 PSB023	prima abito in centro via la~ cioè
 PSB005	okay
-PSB023	dopo sono trasferto sempre la stessa zona sempre centro
+PSB023	dopo sono $trasferto sempre la stessa zona sempre centro
 PSB005	mhmh
 PSB005	ma eh e forse è un po' più c'è un po' più di confusione risp~
 PSB023	no eh
@@ -104,7 +104,7 @@ PSB024	mh
 PSB005	sì sì sì sì
 PSB023	adesso grazie a dio che c'è la casa col garage
 PSB005	sì sì
-PSB023	arrivi e entre senza problemi
+PSB023	arrivi e $entre senza problemi
 PSB005	mhmh
 PSB005	eh io ho cercato un po' casa
 PSB005	negli anni scorsi eh i garage costano sempre
@@ -172,7 +172,7 @@ PSB023	eh
 PSB023	vicino autostazione perché
 PSB023	quando a
 PSB005	mhmh
-PSB023	sto facendo quella scuola lì quando trasferto la~ lasciato sempre lì eh
+PSB023	sto facendo quella scuola lì quando $trasferto la~ lasciato sempre lì eh
 PSB005	sì sì sì
 PSB023	sì
 PSB005	ah okay okay
@@ -305,12 +305,12 @@ PSB024	non abbiamo nessun
 PSB024	siamo uguali come tutti
 PSB023	sì
 PSB024	arrivi al punto da f~ da casa
-PSB024	schiacciano il bottone rosso allerta alli stranieri
+PSB024	schiacciano il bottone rosso allerta $alli stranieri
 PSB005	mhmh
 PSB024	ma stranieri non è che ti ha fatto qualcosa di male straniero
-PSB024	è uno che viene qua ha un sogno da riasiare
-PSB024	da riasire
-PSB024	a portare sua famiglia a vivere con li sui diritti umani che esistono in tutto il mondo
+PSB024	è uno che viene qua ha un sogno da $riasiare
+PSB024	da $riasire
+PSB024	a portare sua famiglia a vivere con li $sui diritti umani che esistono in tutto il mondo
 PSB024	alla fine vieni vedi vedi che un diritto umano viene tolto
 PSB024	apposta da uno che non so
 PSB005	mhmh
@@ -444,9 +444,9 @@ PSB023	finché che uno
 PSB024	sì
 PSB023	si capisc~ come eh capito come si gira
 PSB005	mhmh
-PSB023	e dopo piano piano so' trasfero da mio amico
+PSB023	e dopo piano piano so' $trasfero da mio amico
 PSB023	sempre a treviso
-PSB023	dopo sono trasferto a san donato di piave
+PSB023	dopo sono $trasferto a san donato di piave
 PSB023	girato quella zona lì sì
 PSB023	alla fine quando sono
 PSB023	è venuto a modena
@@ -487,7 +487,7 @@ PSB023	logistica
 PSB023	e dopo rimasto in logistica
 PSB005	okay
 PSB005	okay quindi guidi
-PSB023	sì faccio il tratterista sì
+PSB023	sì faccio il $tratterista sì
 PSB005	mhmh okay okay
 PSB005	ma a parte il lavoro dico nel nel resto della giornata avete tempo per fare altre cose
 PSB023	beh faccio
@@ -500,7 +500,7 @@ PSB023	piccolo porto a calcio eh
 PSB023	l~ l~ l~ l'altra farà
 PSB023	nuoto
 PSB023	così eh sabato domenica
-PSB023	sempie sempre fuori porto mia fa~ famiglia con me fuori facciamo un giro
+PSB023	$sempie sempre fuori porto mia fa~ famiglia con me fuori facciamo un giro
 PSB023	o centro commerciale o il mare dipende dalla giorna~
 PSB023	dai si sta
 PSB023	si sta bene dai non è
@@ -519,7 +519,7 @@ PSB023	amici di miei figli son~ sono tutti italiani c'è anche marocchini però 
 PSB023	qua
 PSB005	mhmh
 PSB023	la sua amica più
-PSB023	firesa è italiana sempre eh stanno a fare il compiti insieme tutti insieme
+PSB023	$firesa è italiana sempre eh stanno a fare il compiti insieme tutti insieme
 PSB005	mhmh
 PSB005	mhmh
 PSB023	però non sentivano quella differenza sono italiani
@@ -784,7 +784,7 @@ PSB023	sì
 PSB024	sì sì
 PSB024	sì sì no
 PSB005	cioè si è diffusa un po' di informazione
-PSB024	ci sono qualche xxx però cioè la maggior parte come detto lui sono sanno sono sapevoli dei loro diritti
+PSB024	ci sono qualche xxx però cioè la maggior parte come detto lui sono sanno sono $sapevoli dei loro diritti
 PSB005	certo
 PSB005	mhmh
 PSB024	allora io torno al discorso e lì lì si apre
@@ -824,7 +824,7 @@ PSB024	perché anche anche noi
 PSB024	quando simo~ siamo andati a lavorare sia lui sia io sia un altro
 PSB024	siamo iniziati da quella parte lì
 PSB024	ti spiego dove lavoriamo noi nella logistica
-PSB024	io sono andato a buttare nella riera
+PSB024	io sono andato a buttare nella $riera
 PSB024	ma sai quanta roba diecimila
 PSB024	possiam fare diecimila consegna
 PSB024	possono arrivare quindicimila pacchi
@@ -1007,14 +1007,14 @@ PSB005	ma eh invece in cioè vedete non so la televisione in italiano
 PSB023	sì
 PSB023	io la vedo sì tele-telegiornale aiuta
 PSB024	quella è la prima cosa che xx aiutare
-PSB023	sempre ver telegiornale per capire
+PSB023	sempre $ver telegiornale per capire
 PSB024	quella è la prima cosa che deve aiutare
 PSB005	mhmh
 PSB024	e quando tu arriva a un paese che è diverso
 PSB024	tu inizi a parla~ eh imparare
 PSB024	devi seguire devi dimenticare di tuo canale da arabo d~ quella ce l'hai già
 PSB023	si quando arriviamo xx
-PSB024	però devi essere fissato con l'appesidi
+PSB024	però devi essere fissato con l'$appesidi
 PSB023	xxx sempre
 PSB023	con
 PSB005	sì sì
@@ -1122,7 +1122,7 @@ PSB024	ah tutti i marocchini sono appassionati di calcio
 PSB005	ah ah okay
 PSB005	ma eh guardate in televisione
 PSB023	sì
-PSB024	ma no torniamo alli alimentari torniamo alli alimentari l'alimentari adesso quando
+PSB024	ma no torniamo $alli alimentari torniamo $alli alimentari l'alimentari adesso quando
 PSB005	prego prego
 PSB023	ah
 PSB024	ormai adesso ti esistono tutti
@@ -1297,7 +1297,7 @@ PSB005	esatto
 PSB024	può darsi che ribalta un rimorchio può darsi che si sgonfia
 PSB023	sì
 PSB005	eh sì
-PSB024	una ah gomma di una macchina si squalta
+PSB024	una ah gomma di una macchina si $squalta
 PSB005	mhmh
 PSB024	eh l'autostrada è quella quindi
 PSB024	sul sul treni sei
@@ -1441,7 +1441,7 @@ PSB023	girato l'italia però
 PSB023	bologna
 PSB024	no no bologna
 PSB023	anche sono andato a belgio francia
-PSB024	è la città dei musisis musiziani quindi è viva
+PSB024	è la città dei $musisis $musiziani quindi è viva
 PSB023	no bologna
 PSB023	sì infatti
 PSB024	è una città viva dai non c'è da ridere

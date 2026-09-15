@@ -228,7 +228,7 @@ PSB029	non che puoi fare da casa cioè da casa non puoi fare tutto
 PSB005	mhmh ah no no certamente sì sì sì x
 PSB029	esattamente sì
 PSB029	se vuoi se vuoi essere bene eh devi devi venire proprio
-PSB029	a terra per capire come sta facendo come sta culturando le cose
+PSB029	a terra per capire come sta facendo come sta $culturando le cose
 PSB005	mhmh
 PSB029	e poi ma se tu dici guarda che sono sono ot~ pieno pieno di
 PSB029	cioè il mio appartamento se vado a ordinare le cose che la pizza che viene a casa mia io lo mangio ma assolutamente il
@@ -767,7 +767,7 @@ PSB005	okay sì
 PSB029	poi anche sirmione
 PSB005	sì sì sì
 PSB005	okay e hai fotografato il mare hai fotografato la città
-PSB029	montagne mare le citte anche
+PSB029	montagne mare le $citte anche
 PSB029	orvieto che ho fatto anche una foto arrivato molto xxx
 PSB005	ah okay
 PSB005	quindi non non solo paesaggi naturali ha anche città

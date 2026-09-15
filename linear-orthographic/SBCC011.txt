@@ -122,12 +122,12 @@ PSB122	no
 PSB122	mai visto
 PSB121	mh
 PSB122	chissà che cos'è
-PSB121	oh però i viching sì
+PSB121	oh però i $viching sì
 PSB122	i
-PSB121	viching
+PSB121	$viching
 PSB122	vichinghi
 PSB121	mh
-PSB121	i viching sì
+PSB121	i $viching sì
 PSB121	no
 PSB122	boh
 PSB122	vabbè
@@ -228,7 +228,7 @@ PSB122	cosa
 PSB121	tremilasessanta questo bianco
 PSB121	lambretta
 PSB122	centoventicinque specia~
-PSB121	speciaria
+PSB121	$speciaria
 PSB121	è carina
 PSB122	beh d~ dice caratteristiche c'è
 PSB121	mh
@@ -238,7 +238,7 @@ PSB121	la nuova la nuova lambretta vi special centoventicinque
 PSB121	però però però è dotata di un pannello
 PSB121	laterale a doppio strato
 PSB121	la sua base è un'ingegnosa trave centrale in acciaio
-PSB121	da uno virgola due millimitri
+PSB121	da uno virgola due $millimitri
 Commenti	millimitri
 PSB121	che si estende bla bla bla bla
 PSB121	ah dettaglio di prodotto

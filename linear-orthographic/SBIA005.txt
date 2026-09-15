@@ -20,10 +20,10 @@ PSB005	mh okay
 PSB027	è in mezzo
 PSB005	la città di casablanca l'ho sentita nominare
 PSB027	non c'è il mare
-PSB027	eh l'università è stata costruita fuori la città un po' quasi quatre chilometri tre chilom~ perché ci sono sempre quelli scioperi che fanno studen~
+PSB027	eh l'università è stata costruita fuori la città un po' quasi $quatre chilometri tre chilom~ perché ci sono sempre quelli scioperi che fanno studen~
 PSB005	mhmh okay
 PSB005	o~ e quindi preferiscono
-PSB027	allora è stata a ecco fore
+PSB027	allora è stata a ecco $fore
 PSB005	ah è per questo
 PSB027	così si dice qualche
 PSB027	penso di sì
@@ -409,7 +409,7 @@ PSB027	mai
 PSB005	che cosa è cultu~ cultura secondo te
 PSB027	ma
 PSB027	eh la cultura ma
-PSB027	diciamo se c'è una festa la devo fasseggiare per bene
+PSB027	diciamo se c'è una festa la devo $fasseggiare per bene
 PSB005	mhmh
 PSB005	per esempio
 PSB027	tipo il ramadan
@@ -429,13 +429,13 @@ PSB027	fa parte della cultura
 PSB027	allora la rispettare
 PSB005	mhmh
 PSB027	se al marocco o in italia
-PSB027	devo trattare le altre persone anche se non sono musilmane devo trattarle per bene
+PSB027	devo trattare le altre persone anche se non sono $musilmane devo trattarle per bene
 PSB005	mhmh
 PSB027	perché il nostro libro #qur'ān
 PSB027	ha parlato di queste cose qua
 PSB027	non c'è differenza da uno
 PSB005	mh
-PSB027	cristiano o uno musilmano solo la religione
+PSB027	cristiano o uno $musilmano solo la religione
 PSB005	mhmh
 PSB027	può darsi
 PSB027	diciamo se io se ti chiedo
@@ -489,7 +489,7 @@ PSB005	non tutti
 PSB027	ah ecco
 PSB005	no no no
 PSB027	anche da noi c'è quelli che non fanno ramadan però non possono mangiare davanti te
-PSB027	nascoste hai capito ci sono non è che non ci sono
+PSB027	$nascoste hai capito ci sono non è che non ci sono
 PSB005	ho capito
 PSB027	però ci sono quelli praticanti
 PSB005	mhmh
@@ -570,12 +570,12 @@ PSB027	la festa la la fa tutto il mondo arabo
 PSB005	mhmh
 PSB027	tutto il mondo diciamo che
 PSB027	chi fa il ramadan
-PSB027	parlo arabo perché ci sono che ci sono diciamo de albanesi che non parlano arabo ma sono musilmani albanesi
+PSB027	parlo arabo perché ci sono che ci sono diciamo de albanesi che non parlano arabo ma sono $musilmani albanesi
 PSB005	mhmh
 PSB005	mhmh
 PSB027	da tutti il parti del mondo fanno questa festa qua
 PSB027	la mattina pregano o vanno alla moschea a pregare
-PSB027	poi dopo vanno a casa a farseggiare con i famiglie
+PSB027	poi dopo vanno a casa a $farseggiare con i famiglie
 PSB027	pranzo anche quel giorno lì è un giorno sacro diciamo
 PSB005	mhmh
 PSB027	la fine del mese dove diciamo
@@ -726,7 +726,7 @@ PSB027	io ho detto sì
 PSB027	perché
 PSB027	no perché
 PSB027	adesso il colloquio che abbiam fatto l'ha superato è inglese xx
-PSB027	adesso ci mando l diciamo le tarifi
+PSB027	adesso ci mando l diciamo le $tarifi
 PSB027	così lui studia online
 PSB005	eh
 PSB027	detto scusa ma non sono io
@@ -755,7 +755,7 @@ PSB027	adesso lui studia
 PSB027	fa la quinta adesso
 PSB027	elementare
 PSB005	mhmh
-PSB027	come voti sempre novi dieci
+PSB027	come voti sempre $novi dieci
 PSB005	ah che bravo
 PSB005	anche il grande
 PSB027	sempre
@@ -884,7 +884,7 @@ PSB027	all'inizio ma dopo no
 PSB005	mh
 PSB027	non è difficile
 PSB027	basta che devi avere l'orecchio
-PSB027	non è che la personta la persona diciamo davanti te
+PSB027	non è che la $personta la persona diciamo davanti te
 PSB027	ti parlava
 PSB027	e poi
 PSB027	tu non

@@ -955,7 +955,7 @@ PSB127	ah mh come si dice
 PSB127	eh abbiamo sì eh abbiamo
 PSB129	siete andati a sciare
 PSB127	passione per s~ schi~
-PSB127	sci~ schiare sì eh
+PSB127	sci~ $schiare sì eh
 PSB129	sciare
 PSB005	ah
 PSB127	tante volte a l'inverno

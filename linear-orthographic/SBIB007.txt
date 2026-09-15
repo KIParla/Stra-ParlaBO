@@ -29,15 +29,15 @@ PSB056	mh no no
 PSB056	e per io ho anche chiesto tutti gente diceva tu vai chiedere soldi perché
 PSB056	un'attività che andando tu dici me lo no puoi stare qua vado lì
 PSB005	mhmh
-PSB056	però devi dare danneggio capito
+PSB056	però devi dare $danneggio capito
 PSB005	anche secondo me sì
-PSB056	eh ah loro ha detto noi danneggio ah diamo
+PSB056	eh ah loro ha detto noi $danneggio ah diamo
 PSB056	tu
 PSB056	da prendi da spesa tu hai tu prendi questo chiosco metti là
 PSB005	mhmh
 PSB056	allora poi noi vediamo
 PSB005	sì sì sì
-PSB056	allora detto no loro responsability se rompe no x aggiusta no
+PSB056	allora detto no loro $responsability se rompe no x aggiusta no
 PSB005	mhmh
 PSB056	ehm ho preso basta
 PSB005	sì sì sì
@@ -85,7 +85,7 @@ PSB056	ha messo lì
 PSB056	no va bene
 PSB005	certo ma sono tanti anni che dicono
 PSB056	sì tanti già molto anni
-PSB056	che dicono demolire demolizione molizione però
+PSB056	che dicono demolire demolizione $molizione però
 PSB056	ventiquattro è appuntato
 PSB005	è è successo sì sì
 PSB056	eh sì
@@ -232,13 +232,13 @@ PSB056	quello è pieno di studenti tranquillo notte e giorno
 PSB005	mhmh
 PSB056	non è se capita qualcosa capito non è che sempre
 PSB005	sì sì
-PSB056	bossare non c'è bologna diciamo
+PSB056	$bossare non c'è bologna diciamo
 PSB056	adesso è molto tranquillo sempre controllo
 PSB056	eh vedo poliziotti capito
 PSB005	mhmh
 PSB056	notte e giorno tranquillo adesso cioè tranquillo anche mio collega lavora
 PSB005	sì sì sì
-PSB056	hospital maggiore torna verso alle undici
+PSB056	#*hospital maggiore torna verso alle undici
 PSB056	autobus
 PSB005	mhmh
 PSB056	e quindi sì tranquillo x
@@ -488,7 +488,7 @@ PSB056	imparato qua quindi
 PSB056	diverso
 PSB005	mhmh
 PSB056	quando eh mio figlia era piccola quando parlavo italiano c'è qualcosa
-PSB056	scento sbaglio eh papà non è così capito
+PSB056	$scento sbaglio eh papà non è così capito
 PSB005	eh certo
 PSB056	è così
 PSB056	è normale
@@ -657,7 +657,7 @@ PSB056	perché eh
 PSB056	ci sono tanti disoccupati
 PSB056	eh
 PSB056	tu lavori nero capito no pagano
-PSB056	non regola questo cosa qua questo molto profittano
+PSB056	non regola questo cosa qua questo molto $profittano
 PSB056	italiani eh
 PSB056	se nero lavoro ti pago sette euro l'ora o cinque euro l'ora capito questo è
 PSB005	mhmh
@@ -793,7 +793,7 @@ PSB056	andato vedere tutti i giorni
 PSB005	mhmh
 PSB056	eh
 PSB005	ma era giovane
-PSB056	giovani hai visto moglie quanto bella eh giovano
+PSB056	giovani hai visto moglie quanto bella eh $giovano
 PSB005	eh infatti sì
 PSB005	sì sì
 PSB005	eh sì
@@ -810,12 +810,12 @@ PSB056	medico non è uscito copri~ scoprire
 PSB056	poi quando venuto punto punto fuori
 PSB056	quando è #analysis fatto
 PSB056	ormai
-PSB056	questo largano largato come tutti
+PSB056	questo $largano $largato come tutti
 PSB056	coperto con quella brutta malattia interna
 PSB005	sì sì sì
 PSB056	finito prima se scopriva
 PSB005	certo
-PSB056	forse so~ risolveva come itali s~ medico
+PSB056	forse so~ risolveva come $itali s~ medico
 PSB056	isco~ so~ risolvevi
 PSB005	mhmh
 PSB056	però
@@ -826,7 +826,7 @@ PSB056	già quello che ha dava medicina non funzionava capito
 PSB056	perché forse altre cosa
 PSB005	mhmh
 PSB005	sì sì non hanno capito
-PSB056	mh non è uscito capire cosa può essere era proprio vercello interno
+PSB056	mh non è uscito capire cosa può essere era proprio $vercello interno
 PSB005	sì sì
 PSB056	me ne ha detto difficile
 PSB056	per interno varicella
@@ -926,7 +926,7 @@ PSB056	sì sì
 PSB005	sì sì
 PSB005	ma qui non è così
 PSB056	no bologna no bologna dio buono ti chiama centododici
-PSB056	ti mettino vi eh
+PSB056	ti $mettino vi eh
 PSB005	sì sì
 PSB005	eh certo
 PSB056	capito
@@ -953,7 +953,7 @@ PSB056	italia no anche europa no
 PSB005	mhmh
 PSB005	sì sì certo per fortuna
 PSB056	eh
-PSB056	può essere merica colore bianco nero
+PSB056	può essere $merica colore bianco nero
 PSB005	mhmh
 PSB056	negri fa così
 PSB005	sì sì
@@ -1046,7 +1046,7 @@ PSB056	ah
 PSB005	e c'è stato grossi danni alla biblioteca
 PSB056	ah
 PSB005	tutti i libri si sono tutti inzuppati sì
-PSB056	tuttu
+PSB056	$tuttu
 PSB056	zu~
 PSB005	sì sì sì infatti
 PSB005	però io quel giorno per fortuna ero qui
@@ -1080,9 +1080,9 @@ PSB056	intelligenti pure
 PSB005	sì no soprattutto studia molto
 PSB056	ah
 PSB056	no più che altro lo sai
-PSB056	che sengue
+PSB056	che $sengue
 PSB005	mh
-PSB056	diventa anche sengue pemilie capito
+PSB056	diventa anche $sengue $pemilie capito
 PSB005	sì forse perché anche i miei genitori
 PSB056	eh eh
 PSB005	fanno i medici
@@ -1092,7 +1092,7 @@ PSB056	eh eh medico quindi io devi
 PSB056	eh studiare bene no chi barbone faccio capito
 PSB005	mhmh
 PSB056	genitori a dava sicuramente questo non ci sono dubbi
-PSB056	o parola dava due casciò
+PSB056	o parola dava due $casciò
 PSB056	vai studiare
 PSB056	capito
 PSB056	questo molto dipende
@@ -1110,7 +1110,7 @@ PSB005	anche l'esempio in casa comunque sì
 PSB056	de~ eh eh
 PSB056	tu eh dico
 PSB056	io sono uno
-PSB056	pemilia povero capito
+PSB056	$pemilia povero capito
 PSB005	mhmh
 PSB056	però
 PSB056	studiosa tutti capito
@@ -1155,7 +1155,7 @@ PSB005	wow
 PSB056	adesso è tutti documento pronto
 PSB056	lo eh lo timbrano passaporto eh vista
 PSB056	solo danno
-PSB056	carta eh residenzi capito solo mandano loro qua
+PSB056	carta eh $residenzi capito solo mandano loro qua
 PSB005	sì sì
 PSB005	sì sì
 PSB056	poi già fatto ai
@@ -1184,7 +1184,7 @@ PSB056	e vanno #stockholm
 PSB056	#_ sweden
 PSB005	mhmh
 PSB005	sì sì sì
-PSB056	e due settembre dieci giorni prima cordinari
+PSB056	e due settembre dieci giorni prima $cordinari
 PSB056	chiarisci per eh loro
 PSB056	eh spiegano dove
 PSB005	dove deve andare sì
@@ -1205,7 +1205,7 @@ PSB056	dopo due anni
 PSB005	mhmh
 PSB056	poi
 PSB056	mi ha detto guarda se florida ti offerto
-PSB056	offertato di vieni qua studi qua florida
+PSB056	$offertato di vieni qua studi qua florida
 PSB005	mhmh
 PSB005	mhmh
 PSB056	io ha detto florida troppo lontano

@@ -24,19 +24,19 @@ PSB005	mhmh
 PSB026	anche quello brutto lo sai perché
 PSB005	mhmh
 PSB026	qua troppo anche arabo
-PSB026	anche eh tunisino anche magrebi anche africano anche le se ladro
+PSB026	anche eh tunisino anche $magrebi anche africano anche le se ladro
 PSB026	troppo ladro
 PSB028	mh
 PSB005	mh
 PSB026	e questi giorno fa
-PSB026	eh una cliente venuto qua mio negozì lasciato una bici
+PSB026	eh una cliente venuto qua mio $negozì lasciato una bici
 PSB026	lui già parlando con me anche lei hai capito
 PSB028	mhmh
 PSB026	subito rubato una bici ha capito
 PSB005	oddio
 PSB026	anche tante volta hai capito
 PSB005	mhmh
-PSB026	mio negozì venuto qua a me due persone
+PSB026	mio $negozì venuto qua a me due persone
 PSB026	io prima una persona davanti parlare me altre persone guardare rubare anche cover
 PSB028	qua dentro
 PSB026	ha portato cosa qua dentro è così
@@ -57,7 +57,7 @@ PSB005	mhmh
 PSB005	mhmh perché lo rivendono c'è un mercato così
 PSB026	io no compro e così
 PSB026	sì
-PSB026	sì mercato loro vuole io vendere anche là là c'è mio paesano altro negozì là
+PSB026	sì mercato loro vuole io vendere anche là là c'è mio paesano altro $negozì là
 PSB028	mhmh
 PSB026	ha capito anche c'è mio alimentari mio paesano bangladesh
 PSB028	okay
@@ -76,7 +76,7 @@ PSB026	polizia anche loro
 PSB026	lo sai
 PSB005	mhmh
 PSB026	loro sentito quella zona
-PSB026	troppo ladro troppo questa mio fastito
+PSB026	troppo ladro troppo questa mio $fastito
 PSB005	mhmh
 PSB005	mhmh
 PSB005	mhmh ma in via petroni alla notte c'è molto rumore
@@ -103,9 +103,9 @@ PSB026	sì sì sì
 PSB028	sì
 PSB005	e questo negozio da quanti anni hai
 PSB026	capito
-PSB026	io questo negozì
+PSB026	io questo $negozì
 PSB005	sì sì
-PSB026	io negozì qua
+PSB026	io $negozì qua
 PSB026	prima mio
 PSB026	ehm un amico qua cinque anni prima altro mio paesano anche lui anche dieci anni
 PSB026	io qua lavoro anche tre anni
@@ -243,7 +243,7 @@ PSB028	ah okay
 PSB026	capito
 PSB005	ma eh eh stanno abbastanza bene
 PSB026	sì
-PSB026	bastanza se vanno bene
+PSB026	$bastanza se vanno bene
 PSB005	ah ah
 PSB005	sono forti
 PSB026	sì io grande famiglia sei fratelli cinque sorelle
@@ -343,7 +343,7 @@ PSB005	mhmh
 PSB026	hai capito
 PSB005	certo
 PSB026	anche qua c'è conosco anche italiani
-PSB026	anche barista anche camerani
+PSB026	anche barista anche $camerani
 PSB026	c'è amici
 PSB005	mhmh
 PSB026	anche prima anche tante persone anche io aiuto
@@ -414,7 +414,7 @@ PSB026	dove adesso abiti io visto quell'affitto io chiamare
 PSB028	mhmh
 PSB028	e hai scritto lì
 PSB005	okay
-PSB026	sé gabetti
+PSB026	$sé gabetti
 PSB026	capito quell'agenzia
 PSB005	ah okay
 PSB005	sì sì gabetti sì sì
@@ -471,7 +471,7 @@ PSB005	certo sì sì
 PSB005	ma ehm dove abit~ dov'è la tua famiglia in quale città del bangladesh
 PSB026	eh dove
 PSB005	sì
-PSB026	eh dove capitalo dhaka
+PSB026	eh dove $capitalo dhaka
 PSB005	dhaka che è la capitale
 PSB026	sì
 PSB026	sì sì sì
@@ -480,13 +480,13 @@ PSB005	sì
 PSB005	è una città grande
 PSB026	grande sì
 PSB005	più grande di bologna
-PSB026	no mia città dhaka capitalo no come
+PSB026	no mia città dhaka $capitalo no come
 PSB026	bologna se grande grande
 PSB005	mhmh
 PSB005	però
 PSB026	eh no bologna se grande
 PSB026	lo sai
-PSB026	eh e dhaka mio capitalo come bologna
+PSB026	eh e dhaka $mio $capitalo come bologna
 PSB028	okay
 PSB005	sì sei sicuro
 PSB026	sì
@@ -514,7 +514,7 @@ PSB026	bologna capito
 PSB005	mhmh
 PSB028	mhmh
 PSB005	sì sì
-PSB026	poi dopo lui studiare andare capitalo dhaka
+PSB026	poi dopo lui studiare andare $capitalo dhaka
 PSB028	mhmh
 PSB026	lui sempre dhaka
 PSB026	mio una bambino lui anche studierà adesso
@@ -540,7 +540,7 @@ PSB028	cosa trovi di diverso cos'è che magari ti piace di più eh qui rispetto 
 PSB026	prima bangladesh una cosa
 PSB026	troppo ladri
 PSB028	ah
-PSB026	lo sai che ladri italia io no visto con carabini polizia loro ladri no visto
+PSB026	lo sai che ladri italia io no visto con $carabini polizia loro ladri no visto
 PSB026	capito mai
 PSB028	mh
 PSB026	mio paese polizia ladro
@@ -581,9 +581,9 @@ PSB026	poi così ca~ xxx sì
 PSB005	anche in italia un po' mh
 PSB026	però anche mio paese anche spaccio hai capito
 PSB005	mhmh
-PSB026	devi der polizia soldi mai lavoro
+PSB026	devi $der polizia soldi mai lavoro
 PSB028	okay
-PSB026	tranquilla anche co~ lassa lassa
+PSB026	tranquilla anche co~ $lassa $lassa
 PSB028	le lasciano stare
 PSB005	mhmh
 PSB026	sì
@@ -609,12 +609,12 @@ PSB026	ehm
 PSB026	bangladesh minimo ogni giorno
 PSB026	venti persone
 PSB026	morto
-PSB026	solo litigalla cortello e così
+PSB026	solo $litigalla cortello e così
 PSB005	ah
 PSB028	ah ah
 PSB005	ah okay ah
 PSB028	certo
-PSB026	uno giorno gener~ gener~ sì generalì
+PSB026	uno giorno gener~ gener~ sì $generalì
 PSB005	cioè c'è molta criminalità sì
 PSB028	xxxx
 PSB028	sì sì
@@ -665,7 +665,7 @@ PSB026	xx mio paese così
 PSB028	fanno un po' come vogliono
 PSB028	mh sì
 PSB005	okay sì
-PSB026	tutti il giorno tanti persona morta anche xidenti matti matti tanto tanto
+PSB026	tutti il giorno tanti persona morta anche $xidenti matti matti tanto tanto
 PSB028	eh quindi c'erano anche gli incidenti certo
 PSB005	sì sì sì sì sì
 PSB026	io visto eh
@@ -678,21 +678,21 @@ PSB026	lavoro anche #capital come roma capito loro vuole andare loro famiglia
 PSB005	mhm
 PSB026	morto trecento persone più
 PSB028	ma perché c'era una festa c'era qualcosa
-PSB026	no nono tutti macchine xidenti
+PSB026	no nono tutti macchine $xidenti
 PSB005	ah okay perché c'era alla fine del ramadan molto c'era molto traffico
 PSB028	ah okay
 PSB026	sì sì una settimana morte trecento persone più
 PSB005	ah okay okay
 PSB028	mamma mia
 PSB005	ma tu hai fat~ eh lo rispetti il ramadan o sei religioso o no
-PSB026	no io recspetto io non amo da mio problema però io recspetto
+PSB026	no io $recspetto io non amo da mio problema però io $recspetto
 PSB005	okay
 PSB026	però io non lo amo tanto
 PSB005	però non lo fai
 PSB028	xx
 PSB026	io non fa~
 PSB005	no non lo fai okay beh beh si anche io sì
-PSB026	x io recspetto sì
+PSB026	x io $recspetto sì
 PSB005	volevo chiedere se l~ mh se anche tu partecipavi o no
 PSB005	non hai partecipato quindi
 PSB026	mh
@@ -716,7 +716,7 @@ PSB026	anche politica loro anche tutti sei ladro
 PSB026	questo problema anche litigato questo problema
 PSB026	anche tutto il giorno con la macchina
 PSB028	mhmh
-PSB026	gli azidente tante tante persone
+PSB026	gli $azidente tante tante persone
 PSB005	mhmh
 PSB026	morte hai visto una settimana trecento persone più morte
 PSB005	mhmh mhmh
@@ -795,9 +795,9 @@ PSB026	c'è #indian #restaurant c'è qua
 PSB005	ma è indiano o del bangladesh
 PSB026	india bangladesh anche uguale
 PSB005	ah okay okay la cucina è uguale
-PSB026	sì guale
+PSB026	sì $guale
 PSB028	cioè
-PSB026	sì guale
+PSB026	sì $guale
 PSB005	eh sono buoni questi ristoranti
 PSB026	indiani sì
 PSB005	consi~ lo consigli
@@ -831,7 +831,7 @@ PSB026	eh come
 PSB026	italiano #restaurant
 PSB005	mh
 PSB026	loro piace me piace
-PSB026	solo maele no altra cosa io mangiare tutto però mi piace
+PSB026	solo $maele no altra cosa io mangiare tutto però mi piace
 PSB028	mhm okay
 PSB005	che cosa ti piace soprattutto il tuo preferito
 PSB026	capito
@@ -934,12 +934,12 @@ PSB005	sì
 PSB005	o è difficile
 PSB026	n~
 PSB026	eh lingua
-PSB026	bangladesh lo sai quello ficile
+PSB026	bangladesh lo sai quello $ficile
 PSB028	ah okay
 PSB005	difficile
-PSB026	ficile xxx
+PSB026	$ficile xxx
 PSB005	facile
-PSB026	ficile
+PSB026	$ficile
 PSB005	sì
 PSB028	x xx x xx
 PSB026	lingua
@@ -967,7 +967,7 @@ PSB028	sì
 PSB005	ma perché hai degli amici mh
 PSB005	che abitano
 PSB026	cioè
-PSB026	mio aviti c'è tutto bologna tutte parti dove vuoi
+PSB026	mio $aviti c'è tutto bologna tutte parti dove vuoi
 PSB005	e vai a trovarli a casa
 PSB026	si anche nel corticella mio zio
 PSB005	okay okay
@@ -1041,7 +1041,7 @@ PSB026	ieri xxx
 PSB005	sì infatti
 PSB005	ma eh io spero che diventa più caldo perché
 PSB005	e
-PSB026	experiamo prossima settimana
+PSB026	$experiamo prossima settimana
 PSB005	sì
 PSB026	sì
 PSB028	eh ma così dicono
@@ -1058,7 +1058,7 @@ PSB026	mio paese bangladesh solo freddo
 PSB026	mh
 PSB026	#_ december
 PSB005	mhmh dicembre
-PSB026	e gianeo
+PSB026	e $gianeo
 PSB005	e gennaio due mesi sì
 PSB026	sì sì solo due mesi
 PSB005	mhmh
@@ -1382,8 +1382,8 @@ PSB026	xxxxxx
 PSB026	eh io avvocato
 ???	ah
 PSB005	ah
-PSB026	bravo ragazì
-PSB026	qua bravo bravo quando io non ce l'ho documentari vado qua
+PSB026	bravo $ragazì
+PSB026	qua bravo bravo quando io non ce l'ho $documentari vado qua
 PSB005	mh
 PSB005	mhmh
 PSB026	poi lui aiutare me per xxxx
@@ -1509,7 +1509,7 @@ PSB028	dai dai
 PSB005	okay
 PSB026	capito
 PSB005	forza
-PSB026	experiamo
+PSB026	$experiamo
 PSB028	sì speriamo speriamo che ce la fai
 PSB026	quando se trovi
 PSB005	sì esatto
@@ -1599,7 +1599,7 @@ PSB026	xxx proprio
 PSB026	sì sì ho studiato
 PSB005	ah che cosa hai studiato elettronica no
 PSB026	no no
-PSB026	io istudiare ingegneria istrada
+PSB026	io $istudiare ingegneria $istrada
 PSB005	ah
 PSB005	okay stradale
 PSB026	strada

@@ -650,7 +650,7 @@ PSB017	conoscenza o famiglia
 PSB017	e c'è ci sono alt~ alcuni che hanno trovato piatto pronto okay
 PSB017	l'ha portato la z~ lo zio la la zia il su~
 PSB017	la sorella il fratello comunque
-PSB017	lo s~ lo sostenieva per
+PSB017	lo s~ lo $sostenieva per
 PSB005	mhmh
 PSB005	sì sì
 PSB017	per imparare e integrare questo paese io quando sono venuto qua come un
@@ -882,7 +882,7 @@ PSB005	mhmh
 PSB016	quindi era così più o meno la
 PSB016	e il terzo anno parte il loro magazzino
 PSB016	eh la granarolo dove sono durata
-PSB016	quelli venti mesi li ho lì
+PSB016	$quelli venti mesi li ho lì
 PSB005	mhmh
 PSB016	e il te~ il terzo anno era l'obbligo di presenza
 PSB016	perché devi fu~ ci sono cinque progetti da fare con il gruppo con un gruppo di lavoro
@@ -1762,7 +1762,7 @@ PSB005	ah okay okay
 PSB016	e andavo in chie~
 PSB016	andavo per compagnia per eh
 PSB016	poi a n~ a a noi mh comunque maometto non è che impedisce
-PSB016	o ce l'ha contro il cristianismo o contro gli ebrei o con~
+PSB016	o ce l'ha contro il $cristianismo o contro gli ebrei o con~
 PSB005	mhmh
 PSB005	mhmh
 PSB016	anzi ci ha detto

@@ -273,7 +273,7 @@ PSB119	che
 PSB119	lezione orale o lezione scritto
 PSB119	che è composto da due libri
 PSB104	mhmh
-PSB120	dua libri
+PSB120	$dua libri
 PSB119	una libri
 PSB119	alta così
 PSB119	che in totale c'è mille pagine
@@ -342,7 +342,7 @@ PSB105	puoi corromperlo
 PSB104	puoi corromperlo come
 PSB120	#_ xxx
 PSB120	#_ zěn me kǎo ?
-PSB105	con la mia fascinanza
+PSB105	con la mia $fascinanza
 PSB120	#_ xxx
 PSB120	#_ jǐ dào tí ?
 PSB104	seduzione
@@ -352,8 +352,8 @@ PSB105	all'esame orale
 PSB120	#_ nà tā méi yǒu gěi xxx , méi yǒu tīng kè de huà , jiù zhǐ shuō gēn wǒ de xxx yǒu guān
 PSB120	non voglio eh
 PSB120	ah
-PSB120	non voglio prepa~ pa~ prepare i libri allora
-PSB120	non voglio preparare il eh il medi
+PSB120	non voglio prepa~ pa~ $prepare i libri allora
+PSB120	non voglio preparare il eh il $medi
 PSB120	eh ehm medico
 PSB120	ah e di giornalismo
 PSB120	eh critica e la salita
@@ -581,7 +581,7 @@ PSB104	ah
 PSB119	ah e voglio frequentare però
 PSB119	cioè perché era era un problema di
 PSB104	mhmh
-PSB119	ma il pref~ prof ha detto che ah non posso
+PSB119	ma il $pref~ prof ha detto che ah non posso
 PSB119	contarti come frequenta frequentante perché
 PSB119	hai mancato però in fine
 PSB105	anche se anche se non ha frequentato abbastanza lezioni secondo me
@@ -909,7 +909,7 @@ PSB104	ah macron
 PSB105	sì sì
 PSB104	okay
 PSB120	xxx
-PSB104	ah le le le #president
+PSB104	ah #*le #*le #*le #president
 PSB105	#_ eh (.) eh oui
 PSB104	xx
 PSB120	#_ nà gè zǔ yuán zěn me shuō , xxx
@@ -2189,7 +2189,7 @@ PSB119	laurea o un diploma
 PSB119	basta che guadagni soldi basta per una ragazza basta
 PSB119	sposarsi a un uomo ricca
 PSB105	ah
-PSB119	perché lei è contra a questo però è molto inconsa-in
+PSB119	perché lei è $contra a questo però è molto inconsa-in
 PSB104	influenzata sì sì sì sì ho capito ho capito eh
 PSB104	mh no si guarda dipende molto dalla persona perché anche
 PSB104	cioè io ho visto persone via~ viaggiare tantissimo
@@ -2312,7 +2312,7 @@ PSB105	mol~ eh
 PSB119	xx ci sono molti cattivi padre qui
 PSB105	eh
 PSB119	perché in cina a wenzhou se tu se~ stai a wenzhou
-PSB119	hai un reciclo
+PSB119	hai un $reciclo
 PSB119	di famiglia
 PSB119	che se tu sei
 PSB119	è un è una

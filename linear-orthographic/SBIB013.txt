@@ -382,7 +382,7 @@ PSB076	uguale
 PSB005	la la le persone non sono cambiate sono simili
 PSB076	no no no simili anche
 PSB076	se qualcuno anche prima abiti tante persone
-PSB076	però qualcuni è andato quello inghilterra
+PSB076	però $qualcuni è andato quello inghilterra
 PSB005	mhmh
 PSB076	quando ho preso passaporto quello italiano loro anche piaciu~ andato
 PSB076	però io piace io noi noi piace qua
@@ -565,7 +565,7 @@ PSB075	è prop~ cioè un po' anche a prova di bambino quindi
 PSB075	cioè nel senso
 PSB076	mh
 PSB075	anche ciclabile perché ci sono tutte le piste ciclabili ovunque per tutte le strade del paese quindi
-PSB076	ciclonatò
+PSB076	$ciclonatò
 PSB005	mhmh
 PSB075	per chi volesse
 PSB005	mhmh
@@ -579,7 +579,7 @@ PSB005	e tu vai a bologna qu~
 PSB005	qualche volta
 PSB076	sì sì quando io bisogno sempre andare bologna
 PSB005	mh
-PSB076	anche sì sì sì ande
+PSB076	anche sì sì sì $ande
 PSB005	per fare shopping per
 PSB076	sì sì tutte cose
 PSB005	per fare una passeggiata
@@ -1202,14 +1202,14 @@ PSB076	sempre arriva male per lui
 ???	ospedale
 PSB076	malattia ma sempre
 PSB005	eh okay
-PSB076	quando c'è caldo tanto caldo anche diaria quest'anno anche quando andato
+PSB076	quando c'è caldo tanto caldo anche $diaria quest'anno anche quando andato
 PSB076	lui è subito preso
-PSB076	diaria
+PSB076	$diaria
 PSB005	mhmh
 PSB076	dopo è andato a ospedale
 PSB005	ah
 PSB075	non ci sono quegli standard di sicurezza del
-PSB076	dopo lassato
+PSB076	dopo $lassato
 PSB005	oh no
 PSB076	dopo due giorni l'hanno
 PSB075	del cibo che ci sono poi la ovviamente quindi
@@ -1238,7 +1238,7 @@ PSB005	okay
 PSB075	infatti dopo lo ve~ eh cioè capiamo perché quando tu bevi l'acqua
 PSB075	da una bottiglia comprata pensando che effettivamente quell'acqua è è buona eccetera
 PSB005	eh non è sufficiente
-PSB075	una settimana ti passa la seconda settimana la diarria
+PSB075	una settimana ti passa la seconda settimana la $diarria
 PSB075	cioè
 PSB005	okay
 PSB075	è inevitabile
@@ -1296,7 +1296,7 @@ PSB005	non ti vengon delle parole in italiano
 PSB076	sì ogni tanto sì
 PSB076	no molto perché io pensato quando io parlo prima di parlare io penso
 PSB076	non parlo italiano perché loro non capisce però quando io parlo
-PSB076	loro capisciono
+PSB076	loro $capisciono
 PSB076	io per moda di quando io andato a italia quando io parlo parl~ italiano però
 PSB076	io non piace così io sempre penso che non dico io
 PSB005	mhmh
@@ -1409,7 +1409,7 @@ PSB076	ah no no a bologna no no
 PSB075	no no
 PSB005	non c'è
 PSB005	no bisogna organizzarlo
-PSB076	solo è vi~ solo è visto iutubux qualcuno ne insegna
+PSB076	solo è vi~ solo è visto $iutubux qualcuno ne insegna
 PSB075	e su poi youtube ci sono persone che
 PSB076	eh
 PSB075	infatti mia mamma ha anche un x dai aprilo anche a zia come fai
@@ -1822,7 +1822,7 @@ PSB005	sì sì sì
 PSB076	loro sempre vengono qua è pomeriggio
 PSB005	mhmh
 PSB076	tante persone qua meglio
-PSB076	piace giardina
+PSB076	piace $giardina
 PSB005	è molto carino qua
 PSB005	infatti
 PSB076	sì molto carino
@@ -2023,8 +2023,8 @@ PSB076	perché quando io non tolto tutte le parte rossa non va bene anche
 PSB076	messo ieri però quando io lavato faccia
 PSB076	visto un pochino
 PSB075	hai presente tipo #holi #holi #holi festival
-PSB005	no holi
-PSB075	holi
+PSB005	no $holi
+PSB075	$holi
 PSB075	non hai present~
 PSB005	no
 PSB076	tanta polvere fanno cose olio
@@ -2100,7 +2100,7 @@ PSB076	x quando una zona del mio sposato
 PSB076	io usato dopo io lasciato tutte cose lasciato a lui anche a lo
 PSB076	non lo so
 PSB076	quando loro sposano io dare regalo
-PSB076	la sciopè lora sì
+PSB076	la $sciopè $lora sì
 PSB005	alla sposa
 PSB076	anche tante cose anche collana anche vestiti
 PSB076	io lasciato sì
@@ -2223,7 +2223,7 @@ PSB075	xx
 PSB076	no xx sì
 PSB075	delle cose di argenteria diciamo xxx poi
 PSB005	sì sì oka~
-PSB076	sia sì sì lo piatto però non ne ho ceramico non ne ho acciaio
+PSB076	sia sì sì lo piatto però non ne ho $ceramico non ne ho acciaio
 PSB076	#_ kashat ki koy
 PSB075	ehm di un altro materiale
 PSB076	un materiale
@@ -2319,8 +2319,8 @@ PSB076	tutte cose quando morto quelle tutte cose nuovo anche dare come come spos
 PSB005	mhmh
 PSB075	che poi
 PSB076	anche tut~ quelli marito dare quelle tutte cose però
-PSB076	quando già anno del puogio
-PSB076	b~ barello
+PSB076	quando già anno del $puogio
+PSB076	b~ $barello
 PSB076	quello mano
 PSB076	mano
 PSB005	mhmh
@@ -2841,7 +2841,7 @@ PSB005	che bello avete fatto benissimo
 PSB075	e~ e~ ehm il prete ci ha dato questa questa ostia e poi noi l'abbiam mangiata assaggiamolo che cos'è vediamo
 PSB005	ma sì
 PSB075	però è stato carino cioè e~
-PSB076	cioè quello cibo io io pensato quello quando cibo non è scritto in in musulmania cristiano anche tutte cose xxx anche tutte cose
+PSB076	cioè quello cibo io io pensato quello quando cibo non è scritto in in $musulmania cristiano anche tutte cose xxx anche tutte cose
 PSB005	infatti infatti
 PSB075	no ma è ch~ ma infatti eravamo
 PSB005	per me avete fatto benissimo
@@ -2871,7 +2871,7 @@ PSB075	xxx siamo molto aperti xx
 PSB076	però quando prima volta quando io entro io pensato io pensato
 PSB076	forse a~ forse andare o no forse andare o no io dubbio
 PSB005	sì sì
-PSB076	io forse è permesso che io ando o no io andare o no dopo qualcuno ha detto tu quando interessa vieni con me che dopo io entrata adesso io tranquilla io andare
+PSB076	io forse è permesso che io $ando o no io andare o no dopo qualcuno ha detto tu quando interessa vieni con me che dopo io entrata adesso io tranquilla io andare
 PSB005	sì sì
 PSB005	sì sì
 PSB075	no ma tipo semplicemente anche tipo nelle moschee no non è che è sempre permesso entrare

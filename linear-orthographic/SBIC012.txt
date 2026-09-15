@@ -118,7 +118,7 @@ PSB081	qua qua pochi quella cucinano meglio impossibile non c'è la canna fumari
 PSB005	eh
 PSB005	no ah okay cioè non potete proprio
 PSB082	eh no devi avere la cucina in ordine
-PSB081	oggi sempre per dire arrivano roba dopo facciamo o scatole con roba o scata
+PSB081	oggi sempre per dire arrivano roba dopo facciamo o scatole con roba o $scata
 PSB082	eh certo
 PSB081	e bene così però anche loro funziona sempre così
 PSB082	sì la mia compagna lavora in bar stessa cosa lei sta in cucina in bar e fa tutto con il xx
@@ -196,7 +196,7 @@ PSB081	sempre a forlì
 PSB082	ma dove
 PSB005	in centro
 PSB081	eh
-PSB081	più o meno in centro bastanza in centro ehm eh via eh
+PSB081	più o meno in centro $bastanza in centro ehm eh via eh
 PSB082	mh e io sai che la mia università è a forlì io ci vado ogni tanto però faccio tipo stazione
 PSB081	sì
 PSB081	stazione dopo ehm piazza vittoria
@@ -241,7 +241,7 @@ PSB082	sì sì
 PSB005	okay
 PSB081	si chiama
 PSB005	okay
-PSB081	io la~ lavoro lì via per l'incrocio di di ah non mi ricordo bene però lavoro bastanza bene
+PSB081	io la~ lavoro lì via per l'incrocio di di ah non mi ricordo bene però lavoro $bastanza bene
 PSB005	okay
 PSB081	ciao prego
 ???	ciao lattementa xx
@@ -344,7 +344,7 @@ PSB082	cambiato proprio
 PSB081	xxx
 PSB082	io fino a prima ero sempre fuori andavo in bar al bar a un certo punto ho smesso proprio
 PSB081	sì
-PSB081	sai perché esempio come come l'età deve servare la vita noi tutti i giorni che passa dormire e basta dormire così una vita sola qualcosa deve fare
+PSB081	sai perché esempio come come l'età deve $servare la vita noi tutti i giorni che passa dormire e basta dormire così una vita sola qualcosa deve fare
 PSB082	no certo
 PSB082	eh sì
 PSB005	giusto sì
@@ -448,7 +448,7 @@ PSB081	sì
 PSB082	alle possibilità
 PSB082	le cose possono cambiare quindi
 PSB081	sì sì
-PSB081	quando quando cambiare vuol dire sempre arriva una cosa occasione vicino una fortuna o succede hai capito xx un sogno se una volta una fortuna si pia~ si prende subito
+PSB081	quando quando cambiare vuol dire sempre arriva una cosa occasione vicino una fortuna o succede hai capito xx un sogno se una volta una fortuna si $pia~ si prende subito
 PSB082	certo certo
 PSB082	eh vero vero bisogna essere attenti
 PSB081	dopo cambia tutta la vita
@@ -521,7 +521,7 @@ PSB081	sì anche andato milano modena tutto a cercare controllare
 PSB081	dopo ho trovato qua a bologna in via
 PSB005	eh ma è una buona posizione questa
 PSB082	sì sì
-PSB081	perché qua ho visto bastanza gente quando quando manifestazione
+PSB081	perché qua ho visto $bastanza gente quando quando manifestazione
 PSB082	ah vero
 PSB081	sì
 PSB082	e passano sempre di qua
@@ -601,7 +601,7 @@ PSB081	no no no se esempio se io sono xx per lavoro qua se io dormire se la casa
 PSB005	no no no io non vivr~ non so se vivrei in centro
 PSB081	se qua eh la sera se se dopo le dieci camminare paura
 PSB082	sì vero qua qua vicino alla stazione è un po'
-PSB081	sì io già successo una volta mi ha rotto tre costile
+PSB081	sì io già successo una volta mi ha rotto tre $costile
 PSB005	sì
 PSB081	sì
 PSB082	ah sì
@@ -736,7 +736,7 @@ PSB081	sì la gente sono tante maleducati
 PSB082	mhmh
 PSB081	eh tanto io non sono italiano che mi frega io non pago
 PSB081	fa la multa
-PSB081	che cosa cosa fide io tanto tra due anni vado vado via vado francia vado america
+PSB081	che cosa cosa $fide io tanto tra due anni vado vado via vado francia vado america
 PSB082	vado via
 PSB082	certo
 PSB082	e poi se i soldi non ce li ho come pago la multa
@@ -827,7 +827,7 @@ PSB081	noi venire qua non per vacanza è lavoro
 PSB082	eh certo
 PSB005	sì sì sì
 PSB005	quind~
-PSB081	se da solo difficile vivere solo una persona è il nostro spendio
+PSB081	se da solo difficile vivere solo una persona è il nostro $spendio
 PSB005	mhmh
 PSB082	mhmh
 PSB082	mhmh
@@ -1141,7 +1141,7 @@ PSB081	non è che è sempre come bambina chiede soldi alla madre
 PSB082	mhmh
 PSB005	ma forse gli italiani sono un po' viziati
 PSB081	no non è
-PSB081	perché italiani è bandonato non manca mai latte
+PSB081	perché italiani è $bandonato non manca mai latte
 PSB081	capito non manca mai cibo mangiare è diverso
 PSB081	come noi come già cambiato
 PSB081	perché nato qui è cambiato tanto che non è cervello non è come noi

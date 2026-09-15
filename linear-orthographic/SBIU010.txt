@@ -212,7 +212,7 @@ PSB005	quindi sono due professioni molto diverse queste che hai svolto mi sembra
 PSB070	sì sono
 PSB070	cioè tu calcola che io
 PSB070	ah
-PSB070	ho fatto prima il bacelorato presso
+PSB070	ho fatto prima il $bacelorato presso
 PSB070	eh il a roma
 PSB070	e poi eh mi sono iscritto alla facoltà di scienze politiche
 PSB070	quindi il ramo che avevo scelto di specializzazione era il eh il diritto internazionale umanitario

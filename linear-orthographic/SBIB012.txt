@@ -914,7 +914,7 @@ PSB073	due tre quattro
 PSB072	sì
 PSB071	e così hai venti sulla mano
 PSB073	e cinque sei sette otto
-PSB072	così ogni dite ha quattro
+PSB072	così ogni $dite ha quattro
 PSB073	venti
 PSB071	venti in mano
 PSB072	ha venti
@@ -1618,13 +1618,13 @@ PSB073	perché io
 PSB073	mh in mezzo al eh scuola superiore ho fatto anche il cefal
 PSB073	per il corso
 PSB073	lì c'erano pieno di bengalesi
-PSB073	e tuttu musulmani lui
+PSB073	e $tuttu musulmani lui
 PSB073	io non è che sto lamentando lui lo sa l'ha visto
 PSB073	perché mi conosc~ cioè siamo
 PSB072	sì
 PSB073	ci conosciamo da anni ormai
 PSB073	lui ha visto che tutti questi persone che sono del bangladesh del pakistan c'erano di pochi
-PSB073	e l'unica induista proprio tutti taccava me
+PSB073	e l'unica induista proprio tutti $taccava me
 PSB073	mi dicevano tante quelle parole che mi sentiva s~ mi sentivo proprio male
 PSB073	io per quello
 PSB073	amici
@@ -1715,10 +1715,10 @@ PSB072	sì
 PSB073	e poi
 PSB071	invece in bangladesh
 PSB071	sia nel cib~ cioè qua l'unica cosa culturale e religiosa che vedo è il natale
-PSB073	e poi loro non disrespetta le altre religioni
+PSB073	e poi loro non $disrespetta le altre religioni
 PSB073	italian~ italiano
 PSB073	italiani che io ho visto
-PSB073	disrespetta per
+PSB073	$disrespetta per
 PSB073	io quello che ha visto io quello che ho sofferto
 PSB073	voi lo sapete
 PSB072	vabbè non guardare così magari trovi ogni tanto quel cretino che
@@ -1726,7 +1726,7 @@ PSB074	no non ho sentito
 PSB074	non ho sentito
 PSB073	ah non l'hai sentito
 PSB072	non rispetta
-PSB073	no non lo disrispetta altro religione io non l'ho visto
+PSB073	no non lo $disrispetta altro religione io non l'ho visto
 PSB071	quello sì
 PSB071	invece da noi sì proprio ci si comporta in modo diverso ci si veste
 PSB072	sì sì sì sì
@@ -2469,7 +2469,7 @@ PSB071	adesso stavamo parlando prima forse c'è un negozio che fa
 PSB071	uno snack autentico del bangladesh in piazza dell'unità
 PSB072	sì
 PSB072	sì
-PSB073	aspetta prima prov~ andiamo noi saggiamo poi ti diciamo
+PSB073	aspetta prima prov~ andiamo noi $saggiamo poi ti diciamo
 PSB071	e poi
 PSB073	perché quel snack c~ sta dicendo
 PSB071	se vuoi
@@ -2840,7 +2840,7 @@ PSB071	da vivi
 PSB072	sì
 PSB071	cioè lì li vendon vivi che li ammazzano sul da vai dal macellaio ce li han vivi okay
 PSB071	in delle gabbie
-PSB073	mamma che brutto vedere quando mazzano
+PSB073	mamma che brutto vedere quando $mazzano
 PSB071	te scegli prendi quante ne vuoi loro te li ammazzano
 PSB074	io non riuscivo a mangiare quello
 PSB072	sai che in bangladesh è

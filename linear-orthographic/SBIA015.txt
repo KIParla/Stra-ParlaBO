@@ -66,7 +66,7 @@ PSB144	perché la la prima volta
 PSB144	eh secondo per me eh venuta qua in italia
 PSB144	sempre sempre depressione
 PSB146	mhmh
-PSB144	perché non ci la familia non ci suno
+PSB144	perché non ci la familia non ci $suno
 PSB144	non c'è la lingua
 PSB144	eh sempre così ma adesso è meglio
 PSB146	sì
@@ -210,7 +210,7 @@ PSB146	eh quin~ eh avete visitato anche altre città in italia oppure s- solo in
 PSB144	no io già
 PSB144	sono andata qualche paese
 PSB146	mh
-PSB144	qualche citte
+PSB144	qualche $citte
 PSB144	sono andata prima volta sono andata a messina sicilia
 PSB146	mhmh
 PSB144	eh reggio emilia
@@ -246,7 +246,7 @@ PSB144	ah
 PSB144	ti xx
 PSB146	ed ehm ti sei spostata per per lavoro di tuo marito o
 PSB146	perché lei ha detto per problemi di salute no
-PSB144	no io venuta con mio marito eh giun~ giungi~ giungimelio di familiare
+PSB144	no io venuta con mio marito eh giun~ giungi~ $giungimelio di familiare
 PSB146	o anche in generale
 PSB146	ah okay
 PSB146	mhmh
@@ -373,7 +373,7 @@ PSB144	eh sì
 PSB146	okay quindi entrambe avete
 PSB146	ci sono scuole diverse qui c'è tipo lingue c'è
 PSB146	lette~
-PSB144	ma a marocco tante di scoli
+PSB144	ma a marocco tante di $scoli
 PSB144	privato
 PSB146	ah privato
 PSB144	tanti di persone studiano a privato
@@ -419,7 +419,7 @@ PSB146	mh
 PSB144	ah adesso
 PSB144	tutti
 PSB144	tutti c'è trasporto
-PSB144	le scoli vicino
+PSB144	le $scoli vicino
 PSB146	però è un peccato se ti piaceva
 PSB144	eh
 PSB144	ma io mi piace studiare ma adesso difficili mh
@@ -528,7 +528,7 @@ PSB144	non cucinare ma cucinare ma non hai come sud
 PSB146	eh no al sud molto di più
 PSB144	ah sì sì
 PSB146	mia mamma è del sud
-PSB144	eh e s~ e le persone di sud e farlano tu~ tutti
+PSB144	eh e s~ e le persone di sud e $farlano tu~ tutti
 PSB145	ah
 PSB144	di s~ da soli
 PSB146	sì
@@ -550,7 +550,7 @@ PSB146	mhmh
 PSB144	ci modenesi io sempre sono andata da a casa di
 PSB144	di
 PSB144	un altri
-PSB144	mh vido
+PSB144	mh $vido
 PSB144	cosa parlare cosa cucinare cosa studiare
 PSB146	mhmh
 PSB144	eh cosa tutta la vita di di italiano
@@ -563,7 +563,7 @@ PSB146	la moda
 PSB145	sì la moda
 PSB144	eh
 PSB145	mh
-PSB144	eh la la prima la prima italia la prima dil moda
+PSB144	eh la la prima la prima italia la prima $dil moda
 PSB145	sì
 PSB145	sì mi piace tanto
 PSB144	eh sì
@@ -767,10 +767,10 @@ PSB145	ah
 PSB145	ancora ricordo eh
 PSB145	quando vieni alla eh
 PSB145	parrucchiera e metto il il #kaftan ho trovato tutti
-PSB145	mia famiglia accogliarmi con li fiori
+PSB145	mia famiglia $accogliarmi con li fiori
 PSB146	mhmh
 PSB145	veramente il mio
-PSB145	festa la m~ mia festa matrimenio matrimonio è molto
+PSB145	festa la m~ mia festa $matrimenio matrimonio è molto
 PSB144	grande
 PSB145	ah grande e bella
 PSB144	s~
@@ -999,13 +999,13 @@ PSB144	adesso andata da sola
 PSB146	eh xx
 PSB144	parlo con la mia dottoressa da sola
 PSB144	o leggo li esa~ li mio li esami da sola
-PSB144	ho capio tu~ ho capito tutto
+PSB144	ho $capio tu~ ho capito tutto
 PSB145	mh
 PSB145	sìsì
 PSB146	eh sì bisogna più uno parla più
 PSB144	eh sì sì anche io leggo le
 PSB145	sì
-PSB144	le li imagi di dove dove andata lì
+PSB144	le li $imagi di dove dove andata lì
 PSB146	mhmh
 PSB144	eh e ingresso dove la ingresso dove le la porta dove
 PSB145	mh
@@ -1059,7 +1059,7 @@ PSB145	eh
 PSB145	ho preso l'aeroplano e x vieni
 PSB146	era la prima volta che
 PSB145	eh sì prima volta ca quando vieni in italia
-PSB145	eh non lo so eh leggi e dove usci eh usci eh sì
+PSB145	eh non lo so eh leggi e dove usci eh $usci eh sì
 PSB144	usciti
 PSB146	sì
 PSB145	no no non ho trovato non ho trovato la la la porta per
@@ -1138,7 +1138,7 @@ PSB144	io sempre eh sempre andato vicino mare guardato li
 PSB146	prendete l'autobus
 PSB144	eh le le navi grandicon i turisti
 PSB146	sì
-PSB144	turistichi
+PSB144	$turistichi
 PSB144	ho guardato
 PSB146	da cro~ le crociere
 PSB144	eh sì
@@ -1240,14 +1240,14 @@ PSB145	femminili
 PSB145	rosso è femminili
 PSB146	poi tu hai anche tutti gli abiti colorati
 PSB144	io ho solo
-PSB144	la biscletta
+PSB144	la $biscletta
 PSB146	beh bella la bicicletta
 PSB144	eh
 PSB146	ma poi qua c'è anche la ci~
-PSB144	io uso la biscletta molto eh
+PSB144	io uso la $biscletta molto eh
 PSB146	qua anche ci sono le ciclabili comode da spilamberto a vignola
 PSB144	eh sì sì
-PSB144	andata da lavorare con la biscletta
+PSB144	andata da lavorare con la $biscletta
 PSB144	e il supermercato
 PSB145	ma meglio per la tua salute ah
 PSB144	eh
@@ -1457,14 +1457,14 @@ PSB144	eh è fatta
 PSB144	un po' non hai
 PSB144	pronta pronta dopo ci un un po~ una gallina
 PSB146	okay
-PSB144	eh anche tanti di pezi
+PSB144	eh anche tanti di $pezi
 PSB144	o metto l~ la pasta dopo metto le il brodo
 PSB145	il brodo con
 PSB146	buono
 PSB144	eh
 PSB145	con la cipolla
 PSB144	con la
-PSB144	con il vagiolini bian~ eh piccoli con i cipolla con tante cose
+PSB144	con il $vagiolini bian~ eh piccoli con i cipolla con tante cose
 PSB146	eh buona buono con tutte anche le verdure
 PSB144	eh sì sì eh buona molto buona
 PSB146	mh
@@ -1508,7 +1508,7 @@ PSB146	il tuo piatto forte
 PSB146	quello che ti viene meglio
 PSB145	ah anch'io mi piace il
 PSB144	e quello piatti mi scusi
-PSB144	quelli piatti i classichi
+PSB144	quelli piatti i $classichi
 PSB146	mhmh
 PSB144	anche la anche marocco la cucina moderna
 PSB146	della tradizione
@@ -1535,7 +1535,7 @@ PSB145	sì
 PSB146	però sì se ti piace il pesce poi dopo ti porta a messina che lì lo fanno sicuro buono in sicilia
 PSB144	ah sì
 PSB144	ah sì
-PSB145	ah per me mi piace mi piacio
+PSB145	ah per me mi piace mi $piacio
 PSB145	eh bene l~ il pesce
 PSB146	mhmh
 PSB145	perché sono andata nella città
@@ -1594,7 +1594,7 @@ PSB146	eh bella però con i carri
 PSB145	ma al ce~ al centro sì ho guardato
 PSB145	che che
 PSB145	ogua- o
-PSB145	oga ogarinazione
+PSB145	$oga $ogarinazione
 PSB146	inaugurazione
 PSB145	zione
 PSB146	mhmh
@@ -1620,7 +1620,7 @@ PSB144	#_ ḥabb l-mulūk
 PSB146	#_ abbi muluk
 PSB144	eh
 PSB145	eh #ḥabb #l-mulūk d~ eh x un po' de tradizionale
-PSB145	eh eh li rige
+PSB145	eh eh li $rige
 PSB146	mh
 PSB145	eh
 PSB145	re re
