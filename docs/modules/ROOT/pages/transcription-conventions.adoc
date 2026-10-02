@@ -48,16 +48,8 @@ A child tier named `<speaker>_trad` (for example `PSB033_trad`) carries an Itali
 speaker's foreign-language speech. These tiers are not tokenized: they are collected in the
 `translations/` folder of the repository.
 
-=== `suoni` tier
-
-Non-speech sounds and music that are not part of any speaker's turn (for example `((musica))`)
-are reported on a `suoni` tier rather than on a speaker tier. It is not a participant tier.
-
 == Overrides
 
 Cases where Stra-ParlaBO applies a different or stricter rule than the shared conventions.
 
-=== Music and inserts tier name
-
-Overrides xref:portal:transcription-conventions.adoc#nvb[Non-verbal behaviour, noise and music]:
-the dedicated tier for music and similar inserts is called `suoni`, not `musica`.
+_None._
