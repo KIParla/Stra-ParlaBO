@@ -76,7 +76,7 @@ PSB072	[a noi meglio] non fare perché, se no torniamo a casa subito in [bagno] 
 PSB071	((ride))
 PSB071	[lavare]
 PSB071	e doccia: su doccia
-suoni	((musica))
+environment	((musica))
 PSB074	beh oh
 PSB074	i~ i~ io, io per restare un po' sveglia oggi, l'ho fatto si~ sia ieri sera che stamattina (.) [se no::: non (xx)]
 PSB072	[ma io stamattina non l'ho] fatto::, [però quan]do torno a casa sicuro [che vado al:, fare la doccia]
@@ -103,7 +103,7 @@ PSB074	eh beh
 PSB071	((ride))
 PSB072	((ride))
 PSB073	((ride))
-suoni	((risate_generali))
+environment	((risate_generali))
 PSB073	[anche i~]
 PSB074	[anche io] ((ride))
 PSB073	tipo, [gioca l'acqua] e poi gioca con quello
@@ -496,11 +496,11 @@ PSB074	[vuole dormire]?
 PSB071	per [far cadere] [a rami a]
 PSB072	[°andiamo°]?
 PSB073	[sì], >sì sì [sì sì]<
-suoni	[xxx]xx
+environment	[xxx]xx
 PSB074	ho i piedi freddi:
 PSB073	>che è successo<?
 PSB074	avete fre[ddo]?
-suoni	[xx]
+environment	[xx]
 PSB072	mare?
 PSB071	okay
 PSB072	mare

@@ -471,11 +471,11 @@ PSB074	vuole dormire
 PSB071	per far cadere a rami a
 PSB072	andiamo
 PSB073	sì sì sì sì sì
-suoni	xxxxx
+environment	xxxxx
 PSB074	ho i piedi freddi
 PSB073	che è successo
 PSB074	avete freddo
-suoni	xx
+environment	xx
 PSB072	mare
 PSB071	okay
 PSB072	mare
