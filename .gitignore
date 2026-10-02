@@ -9,3 +9,6 @@ tmp/.DS_Store
 tmp/
 
 original/
+.DS_Store
+.vscode/
+*.xlsx
