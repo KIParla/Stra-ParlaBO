@@ -524,17 +524,17 @@ PSB005	mhmh
 PSB091	scusami
 PSB005	no vai vai
 PSB091	((sospirando)) #da ((parla_al_telefono))
-PSB091	#_ ja doma de ((parla al telefono))
+PSB091	#_ ja doma de ((parla_al_telefono))
 PSB091	((tossisce))
 PSB091	ah? ((parla_al_telefono))
-PSB091	#_ ty kuda jdeš ((parla al telefono))
-PSB091	#_ z jakimi chlopcami ((parla al telefono))
+PSB091	#_ ty kuda jdeš ((parla_al_telefono))
+PSB091	#_ z jakimi chlopcami ((parla_al_telefono))
 PSB091	((parla_al_telefono))
-PSB091	#_ skaži ščo dlja sebe chočeš ((parla al telefono))
-PSB091	#_ a ne dlja chlopciv ((parla al telefono))
+PSB091	#_ skaži ščo dlja sebe chočeš ((parla_al_telefono))
+PSB091	#_ a ne dlja chlopciv ((parla_al_telefono))
 PSB091	((sospira))
-PSB091	#_ dobre ((parla al telefono))
-PSB091	#_ davaj ((parla al telefono))
+PSB091	#_ dobre ((parla_al_telefono))
+PSB091	#_ davaj ((parla_al_telefono))
 PSB005	invece questa è mia sorella:
 PSB005	ne ho un'al~ c(io)è siamo in tre
 PSB091	((ride))
@@ -864,7 +864,7 @@ PSB091	[°no no assolu]tamente°
 PSB091	guarda ti dico guarda io li baciavo dappertutto capito?
 PSB005	((ride)
 PSB091	nel culetto nei piedi erano i miei loro proprio quando mi vedevano
-PSB091	#_ #DA:DA #DA:DA
+PSB091	#DA:DA #DA:DA
 PSB091	c(io)è ((sospira)) troppo b~ troppo belli troppo (.) °mamma mia°
 PSB005	((ride))
 PSB091	troppo belli
@@ -1704,7 +1704,7 @@ PSB091	((tossisce)) erano tutti giovani ero più più grande di loro
 PSB091	((schiocco_di_lingua))
 PSB091	e::::: che il suo ragazzo faceva ucraina italia
 PSB091	ucrai~ [ucraina] fi~ a::ndava:a da centregross [a centergross]
-PSB005	[m..h.]
+PSB005	[mh]
 PSB005	[(pi~) okay]
 PSB091	co:n: camion era camionista
 PSB091	a lui hanno propsto di restare in italia:::
@@ -1894,7 +1894,7 @@ PSB005	[sì]
 PSB091	i::l:
 PSB005	si è messo a lavorare [ma aveva gli strumen]ti? c(io)è li ha trovati? eh
 PSB091	[si è messo a lavorare]
-PSB091	abbiamo comprato tutto [abbiamo spedito comprato tutto sì}
+PSB091	abbiamo comprato tutto [abbiamo spedito comprato tutto sì]
 PSB005	[eh anche perché se c(io)è uno anche se] sa no? non è che
 PSB091	guarda tra tra gli attrezzi abbiam sp~ perché tutti i soldati chiedono attrezzi capito?
 PSB091	tanti chiavi tante cose noi anche attrezzi quanti abbiamo comprato eh

@@ -183,7 +183,7 @@ PSB036	tanto eh non ci andrà nient'altro oltre che l'umido:
 PSB005	sì infatti
 PSB005	grazie mille questo lo tiriamo su così
 PSB091	#_ èto s ložkoj eš'
-PSB091	#_ tomu ščo zaraz zalipyt'sja meni
+PSB091	#_ tomu ščo zaraz zalipyt'sja meni
 PSB005	volevo solo metterlo contro:
 PSB128	#_ ladno
 PSB005	sì grazie eh
@@ -193,7 +193,7 @@ PSB036	x x x x
 PSB005	sì
 PSB036	(non sto qua) a mettere il gel ogni volta
 PSB128	#_ kušat' prišla
-PSB128	#_ #_vody vody xxx
+PSB128	#_ vody vody xxx
 PSB086	#_ uže greetsja
 PSB005	quindi è questo tutto l'impasto?
 PSB129	okay farina uova e sale
@@ -251,7 +251,6 @@ PSB091	#_ [my často robymo taku posypku]
 PSB086	[avete perso un passa:ggio]
 PSB005	l'olio abbiamo visto [quanto olio]
 PSB086	[abbiamo fa]tto: una voragine e [xxx]
-PSB128	#_ @nadya
 PSB129	[a occhio]
 PSB086	olio
 PSB005	e poi ci [avete messo dell'o]lio sì
@@ -344,7 +343,7 @@ PSB091	[vado io]?
 PSB091	#_ [chočeš? na]
 PSB091	#_ ne pytaju
 PSB128	xx
-PSB091	#_ ščob ne skazaly ščo ja
+PSB091	#_ ščob ne skazaly ščo ja
 PSB128	#_ ni, bože boron[y]
 PSB086	[xx] salmone
 PSB086	solo l'ane[to]
@@ -434,7 +433,7 @@ PSB128	#_ u mene vže holova syva
 PSB091	e:h cosa vuol dire sono tante persone:
 PSB091	che sono grandi e non sanno:
 PSB091	[non sanno fare]
-PSB128	#_ [ja vam rozkažu ja vam rozkažu odnu bajku]
+PSB128	#_ [ja vam rozkažu ja vam rozkažu odnu bajku]
 PSB086	[non sanno niente sì]
 PSB086	perché fa [la mamma perché fa marito],
 PSB091	[in italiano (.) in italiano]
@@ -493,7 +492,7 @@ PSB129	per fortuna o per sfortuna non lo so non ho mai avuto nonne, a nessuna de
 PSB129	quind[i]
 PSB091	[credo] che è a posto
 PSB129	loro non erano molto:: [(.) cioè hanno sempre delegato molto in cucina]
-PSB128	#_ [chočeš šče, či ne treba? tomu ščo nu bažano čut' čut' ščob vono vse]
+PSB128	#_ [chočeš šče, či ne treba? tomu ščo nu bažano čut' čut' ščob vono vse]
 PSB005	[okay ah no]
 PSB036	bellino il mattarello blu
 PSB129	sì[::]
@@ -539,7 +538,7 @@ PSB005	beh xx [proprio]
 PSB091	[impasto po]vero
 PSB128	#_ a jakščo ty robyla tisto tež bez ničoho?
 PSB091	#_ tezh bez nichoho
-PSB128	#_ i vytjažnuju xx tež treba [daty]
+PSB128	#_ i vytjažnuju xx tež treba [daty]
 PSB036	[ma sapete tutte im]pastare io [non:]
 PSB005	[non] l'hai mai [fatto]?
 PSB036	[io da sì però sono un pe]ssimo:
@@ -659,8 +658,8 @@ PSB130	dev'essere tanto: sottile?
 PSB130	fine?
 PSB036	l'ho sentita proprio
 PSB091	nostro amico: sabato scorso ha fatto
-PSB127	#_ jaki (zahrubi) majut' buty? podyvys' bud' laska
-PSB091	#_ majut' buty trošky hruben'ki, ščob my mohly jich natjahuvaty
+PSB127	#_ jaki (zahrubi) majut' buty? podyvys' bud' laska
+PSB091	#_ majut' buty trošky hruben'ki, ščob my mohly jich natjahuvaty
 PSB127	super
 PSB091	#_ otut trošeč[ky]
 PSB127	#_ [do]kotaty dokotaty

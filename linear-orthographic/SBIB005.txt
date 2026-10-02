@@ -224,11 +224,11 @@ PSB051	eh qui si chiama mh nostro paese #jorda #jorda #jorda
 PSB053	dolce riso
 PSB053	bangla
 PSB028	ah #jo~ jorda
-PSB051	#_ jorda
+PSB051	#jorda
 PSB028	okay bello
-PSB051	#_ recording
+PSB051	#recording
 PSB054	come
-PSB051	#_ record
+PSB051	#record
 PSB054	sì sì sì registriamo e
 PSB052	ah
 PSB054	sì sì sì
@@ -290,11 +290,11 @@ PSB051	nostro paese tutte persone piace piccante
 PSB028	a~ anche a me
 PSB054	eh è buono
 PSB028	anche a casa mia
-PSB051	#_ spicy
+PSB051	#spicy
 PSB028	sì sì sì sì
 PSB028	buono
 PSB051	perché nostro paese mh
-PSB051	#_ biryani
+PSB051	#biryani
 PSB028	ah ah
 PSB051	riso con carne
 PSB028	mh

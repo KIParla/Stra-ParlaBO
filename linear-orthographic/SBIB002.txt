@@ -815,7 +815,7 @@ PSB026	anche india bangladesh pakistan quello mangiare
 PSB026	boh uguali
 PSB028	ma tra l'altro ieri per caso sono capitata ad una festa eh indiana dove facevano assaggiare alcuni piatti tipici
 PSB028	ho provato una cosa fenomenale credo si chiami sa~ sa~ samosa forse
-PSB026	#_ samosa samosa
+PSB026	#samosa #samosa
 PSB028	buonissimo buonissimo
 PSB026	sì
 PSB026	però m~ me piace mangiare come italia pasta

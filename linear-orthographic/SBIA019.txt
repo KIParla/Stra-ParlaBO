@@ -603,7 +603,7 @@ PSB157	ah
 PSB159	c'è #tajine c'è #bstela
 PSB160	#_ ta~ tajine
 PSB157	e cosa che che cos'è la to~ to
-PSB157	#_ tajine
+PSB157	#tajine
 PSB159	#_ tajine
 PSB157	#tajine cos'è
 PSB159	è questo
@@ -759,7 +759,7 @@ PSB160	xxx xxxda bologna no da bologna vai a milano vai a roma vai a
 PSB159	cinquanta euro anche meno
 PSB159	trenta euro
 PSB160	vai a firenze vai dove dove vuoi capito
-PSB160	è uguale il maroccoil marocco arrivi lì
+PSB160	è uguale il marocco il marocco arrivi lì
 PSB158	sì sì sì
 PSB160	c'è la taxi c'è la tutti c'è anche la guida lì
 PSB160	fanno guidare e portare dove vuoi eh
@@ -782,7 +782,7 @@ PSB157	ah okay okay
 PSB159	xx
 PSB159	xx prima volta sono andati con due marocchini
 PSB157	okay
-PSB160	e il pubblico italiano con il pubblicoil pubblico marocchino
+PSB160	e il pubblico italiano con il pubblico il pubblico marocchino
 PSB157	mhmh
 PSB160	è uguale
 PSB157	sì
@@ -797,7 +797,7 @@ PSB159	ah ma noi siamo ah noi siamo
 PSB160	e anche qua
 PSB159	xxxx
 PSB158	ospi~ sì sì sì
-PSB160	anche quaanche all'italia
+PSB160	anche qua anche all'italia
 PSB159	sì ma lui lo sa perché lui come noi e allora abbiamo la stessa x
 PSB160	ma anche le tas~ va bene loro vedono un'altra cosa un po' diversa
 PSB158	no però l'ospite è importante eh
@@ -1426,7 +1426,7 @@ PSB157	e anche di prestare il consenso quindi questa eh
 PSB159	ci penso io
 PSB160	ah okay
 PSB157	qua qua le crocette
-PSB159	#_ ta-jab-liya naddader 3afak
+PSB159	#_ nta jāb li-ya nḍḍāḍər ʕafak
 PSB159	non vedo oddio oh mamma mia
 PSB160	sarà dietro di dietro con le chiavi lì grazie
 PSB158	dobbiamo mettere
@@ -1463,8 +1463,8 @@ PSB158	quasi sei anni
 PSB157	eh
 PSB158	eh
 PSB157	non sono mica pochi eh
-PSB160	#_ haki l-hna
-PSB160	#_ yeh yeh n-la3bo
+PSB160	#_ hāki l-hna
+PSB160	#_ iyyāh iyyāh nlaʕbu
 PSB157	va bene
 PSB158	questo
 PSB159	era
@@ -1476,20 +1476,20 @@ PSB159	addirittura
 PSB157	eh mi dispiace sono cose molto noiose e molto brutte
 PSB159	ah
 PSB159	ah
-PSB159	#_ mennana
+PSB159	#_ mammana
 PSB157	ed è la cosa che odiamo di più tutti quanti raccogliere questi dati qua
 PSB160	eh
-PSB159	#_ m3attal
-PSB159	#_ jab-liya l-portafoglio
+PSB159	#_ mʕaṭṭal
+PSB159	#jāb li-ya #l-portafoglio
 PSB159	oh
-PSB159	#_ mn saki
-PSB159	lillah
+PSB159	#_ mn sāk-i
+PSB159	#_ baraka li-ḷḷāh
 PSB158	tu hai registrato
 PSB157	si
 PSB158	a me mi ha fatto solo due registrazioni da venti minuti
 PSB158	cioè da due da dieci
 PSB157	vabbè
-PSB159	#_ tha baqa n sign-ak antha
+PSB159	#_ tta bāqa nsign-ək anta
 PSB157	no va bene
 PSB157	non c'è problema
 PSB157	adesso mi prendo giù qualche dato anche personale
@@ -1660,7 +1660,7 @@ PSB160	ventuno
 PSB160	ventuno
 PSB159	no
 PSB159	no no
-PSB159	#_ mn jith ana shahal kn 3endi mn 3am
+PSB159	#_ mn jīt āna shḥāl kān ʕand-i mn ʕām
 PSB160	ah okay
 PSB159	oka~
 PSB160	okay
@@ -1856,7 +1856,7 @@ PSB158	se guardi sotto eh
 PSB160	quattro piani sono dodici metri
 PSB157	mamma mia
 PSB159	bravo
-PSB159	#_ mashallah
+PSB159	#_ mashaḷḷāh
 PSB158	ah beh sì è vero
 PSB160	era dodici dodici metri eh
 PSB158	allora cinque sì
@@ -1930,7 +1930,7 @@ PSB159	e dove che non vado volentieri tu hai voglia io non è voglia mi obblighi
 PSB158	certo
 PSB159	dammi soldi e
 PSB158	no no è vero
-PSB160	#_ baraka n-thi sadda3thina had shwiya
+PSB160	#_ baraka nti ṣaddaʕti-na ḥādd shwīya
 PSB159	io
 PSB158	dai
 PSB157	vai in palestra adesso

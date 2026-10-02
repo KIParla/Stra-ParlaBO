@@ -1657,7 +1657,7 @@ PSB151	e non è così facile licenziare un indeterminato eh
 PSB151	puoi fare solo
 PSB152	licenzi da sola
 PSB151	non si può e non hai la disoccupazione non ti paga mica lo stato mhmh
-PSB151	#_ cariño
+PSB151	#cariño
 PSB151	no no
 PSB152	vai un altra p~ eh un altra parte a a fare prova
 PSB152	finito contratto io #*ch'#aggià #*fa'

@@ -544,7 +544,7 @@ PSB005	mhmh ed è cinese?
 PSB001	mhmh
 PSB005	ah [okay, okay]
 PSB001	°[cinese sì]°
-PSB005	quindid,iciamo che, in casa, tu parli cinese.
+PSB005	quindi, diciamo che, in casa, tu parli cinese.
 PSB001	ah, ah,
 PSB005	di solito,
 PSB001	io sempre, parlo cine[se] ((ride))
@@ -861,7 +861,7 @@ PSB001	no,
 PSB001	((ride))
 PSB005	no okay, NO, il coro qui, è molto serio, cioè, m:h
 PSB005	si trovano, due volte alla settimana:,
-PSB005	e:, fanno, vannoi,n giro:
+PSB005	e:, fanno, vanno, in giro:
 PSB005	viaggiano,
 PSB002	mh[mh a:h]
 PSB005	>[per fare i co]ncer[ti]:<,
@@ -1039,7 +1039,7 @@ PSB001	il programma:
 PSB001	mi, laurear~,
 PSB001	laure:~,
 PSB001	l[aure]o,
-PSB002	[a~:]
+PSB002	[a~]
 PSB005	mh[mh]
 PSB002	[sì s]ì i[nsie]~
 PSB001	[laure~,]
@@ -1566,7 +1566,7 @@ PSB005	[dif]ferente, sì [sì]
 PSB002	[sì] sì
 PSB005	okay
 PSB001	sì
-PSB005	giustoe.:, invece di cucina bolognese?
+PSB005	giusto. e:, invece di cucina bolognese?
 PSB005	avete provato, dei ristoranti che vi piacciono::
 PSB002	sì
 PSB005	[qual è il vo]stro preferito,
@@ -1683,7 +1683,7 @@ PSB002	[°sì:°]
 PSB002	sì:,
 PSB005	adesso te la faccio vedere
 PSB002	ah cioè, è, è tipico bologn[ese]?
-PSB005	[MA]:d,e~ dell'emilia romagna,
+PSB005	[MA]:, de~ dell'emilia romagna,
 PSB002	ah ok[ay]
 PSB005	[sì] della:, dell'[emili]a,
 PSB002	[>forse<,]
@@ -2196,7 +2196,7 @@ PSB002	[dialetto],
 PSB001	dialetto [sì diale]tto, ((ride))
 PSB002	[xx]
 PSB001	sì, e,
-PSB001	in, (,) in scuola,
+PSB001	in, (.) in scuola,
 PSB001	m::h
 PSB001	mi:, ci hanno chiesto
 PSB001	dobbiamo, parlare, mandarino
@@ -2244,7 +2244,7 @@ PSB001	sì
 PSB001	e invece,
 PSB001	il mio, dialetto:, è simile, con
 PSB001	wu hàn sì chuān
-PSB001	è un'altra, (.) due, l'altra:, mh provincia,
+PSB001	è un' altra, (.) due, l'altra:, mh provincia,
 PSB005	mhmh
 PSB005	o[kay]
 PSB001	[sì]

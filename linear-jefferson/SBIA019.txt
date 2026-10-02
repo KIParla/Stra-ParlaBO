@@ -37,7 +37,7 @@ PSB159	[sì sì sì sì perché so]no:
 PSB159	si capiscono fra di loro:
 PSB158	((ride))
 PSB158	beh
-PSB158	un po' ci a:- ci assomigliamo anche n[o?]
+PSB158	un po' ci a:- ci assomigliamo anche n[o]?
 PSB159	[a]nche [è vero]
 PSB158	[un pochino]
 PSB159	hanno scoperto questo nell'ultimo mese [(cioè)]
@@ -434,7 +434,7 @@ PSB157	((ride)) no:
 PSB158	((ride))
 PSB160	xx duemila quattro fino xx
 PSB157	vabbè
-PSB160	[era del duemila quattro xx eh?]
+PSB160	[era del duemila quattro xx eh]?
 PSB159	[sì il bambino duemila quattro]
 PSB160	fai il conto quanti anni
 PSB157	vabbè c'è::
@@ -643,7 +643,7 @@ PSB159	[c'è] #tajine c'è #bstela
 PSB160	#_ (ta~ tajine)
 PSB157	e cosa: che che cos'è la to~ to
 PSB158	((ride))
-PSB157	#_ #taj[ine]?
+PSB157	#taj[ine]?
 PSB159	#_ [taji]ne
 PSB157	#tajine cos'è?
 PSB159	è questo.
@@ -692,7 +692,7 @@ PSB159	perché è un piatto:
 PSB159	anni e anni è diventato famoso
 PSB157	a me piacerebbe un sacco assaggiarlo ((ride)) adesso mi sono incuriosi[ta]
 PSB158	[a]desso: [ti ci fai] ((ride))
-PSB157	[a base di che cos'è?]
+PSB157	[a base di che cos'è]?
 PSB159	faccia~
 PSB159	va[bbè]
 PSB157	[a] base di che cos'è questo piatto?
@@ -778,7 +778,7 @@ PSB158	((ride))
 PSB157	((ride))
 PSB159	lei fatto il contrario
 PSB159	[l'ho manda~] no è andato dal::
-PSB158	[è parti~?]
+PSB158	[è parti~]?
 PSB159	deserto
 PSB159	[mi] ha mandato foto dico guarda n: a:h è andata di là lei proprio (.) e di là è un'altra cosa
 PSB158	[ah]
@@ -806,7 +806,7 @@ PSB160	xxx [xxx]da bologna no: da bologna [vai a milano] vai a roma vai a:
 PSB159	[cinquanta euro anche meno]
 PSB159	[trenta euro]
 PSB160	vai a firenze vai: dove dove vuoi capito
-PSB160	[è uguale il maro]ccoi.l marocco arrivi lì
+PSB160	[è uguale il maro]cco. il marocco arrivi lì
 PSB158	[sì sì sì]
 PSB160	c'è la taxi c'è la tutti c'è anche la guida lì
 PSB160	fanno guidare e portare dove vuoi eh
@@ -831,7 +831,7 @@ PSB157	a:h okay [okay]
 PSB159	[xx]
 PSB159	[xx] prima volta sono andati con due marocchini
 PSB157	[okay]
-PSB160	e il pubblico italiano [con] il pubblicoi.l pubblico marocchino
+PSB160	e il pubblico italiano [con] il pubblico. il pubblico marocchino
 PSB157	[mhmh]
 PSB160	è uguale
 PSB157	sì.
@@ -846,7 +846,7 @@ PSB159	[ah ma noi] siamo: ah noi siamo
 PSB160	[e anche qua]
 PSB159	[xxxx]
 PSB158	ospi~ sì sì [sì]
-PSB160	[an]che quaa.nche [all'italia]
+PSB160	[an]che qua. anche [all'italia]
 PSB159	[sì ma lui] lo sa perché lui come noi e allora [abbiamo la stessa x]
 PSB160	[ma anche le tas~] (.) va bene loro vedono un'altra cosa un po' diversa
 PSB158	no però l'ospite è importante [e:h]
@@ -1502,7 +1502,7 @@ PSB157	e anche di prestare il consenso qui[ndi: questa] (.) [eh]
 PSB159	[ci penso io
 PSB160	[ah okay]
 PSB157	qua qua (.) le croce[tte]
-PSB159	#_ [ta]-jab-liya naddader 3afak
+PSB159	#_ [(n)ta] jāb li-ya nḍḍāḍər ʕafak
 PSB159	non vedo oddio (.) o::h mamma mia
 PSB160	sarà dietro di dietro con le chiavi [lì grazie]
 PSB158	[dobbiamo mettere]
@@ -1542,8 +1542,8 @@ PSB158	quasi sei anni
 PSB157	eh
 PSB158	e[:h]
 PSB157	[n]on sono mica pochi eh
-PSB160	#_ haki l-hna
-PSB160	#_ yeh yeh n-la3bo
+PSB160	#_ hāki l-hna
+PSB160	#_ iyyāh iyyāh nlaʕbu
 PSB157	°va bene°
 PSB158	°questo°
 PSB159	°era°
@@ -1555,20 +1555,20 @@ PSB159	addirittura?
 PSB157	eh mi dispi[ace:] sono cose molto noi[ose] e molto brutte
 PSB159	[ah]
 PSB159	[ah]
-PSB159	#_ mennana
+PSB159	#_ mammana
 PSB157	ed è [la cosa] che [odiamo] di più tutti quanti raccogliere questi dati qua ((ride))
 PSB160	[eh]
-PSB159	#_ m3attal
-PSB159	#_ #jab-liya #l-portafoglio
+PSB159	#_ mʕaṭṭal
+PSB159	#jāb li-ya #l-portafoglio
 PSB159	oh
-PSB159	#_ mn saki
-PSB159	lillah]
+PSB159	#_ mn sāk-i
+PSB159	#_ [baraka li-ḷḷāh]
 PSB158	[tu hai registrato]?
 PSB157	°si°
 PSB158	a me mi ha fatto solo due registrazioni da venti minuti
 PSB158	cio[è da:] (.) due da dieci
 PSB157	[vabbè]
-PSB159	#_ tha baqa? [n sign-ak antha]
+PSB159	#_ tta bāqa? [nsign-ək anta]
 PSB157	[no va bene]
 PSB157	non c'è problema
 PSB157	adesso:: mi prendo giù qualche dato anche persona:le
@@ -1744,7 +1744,7 @@ PSB160	[ventuno]
 PSB160	ventuno
 PSB159	no
 PSB159	no no
-PSB159	#_ mn jith ana shahal kn 3endi mn 3am
+PSB159	#_ mn jīt āna shḥāl kān ʕand-i mn ʕām
 PSB160	ah okay
 PSB159	oka~
 PSB160	okay
@@ -1955,7 +1955,7 @@ PSB158	se guardi sotto e::h
 PSB160	quattro piani sono [dodici metri]
 PSB157	[mamma mia]
 PSB159	[bra]:vo
-PSB159	#_ mashallah
+PSB159	#_ mashaḷḷāh
 PSB158	ah beh sì è vero:
 PSB160	[era dodici] (.) dodici metri [eh]
 PSB158	[allora] cinque: sì
@@ -2033,7 +2033,7 @@ PSB159	e dove che non vado volen[tieri] tu hai voglia io non è voglia mi obblig
 PSB158	[ce:rto]
 PSB159	[dammi soldi e:]
 PSB158	[no no è vero]
-PSB160	#_ baraka n-thi sadda3thina had shwiya
+PSB160	#_ baraka nti ṣaddaʕti-na ḥādd shwīya
 PSB159	io? ((ride))
 PSB158	dai.
 PSB157	vai in palestra adesso

@@ -28,8 +28,8 @@ PSB005	ma è molto diverso
 PSB067	eh un po'
 PSB067	per eh tipo per esempio eh come ti chiami in lingua araba classica
 PSB067	eh il dialetto non è ca~ non cambia tanto tipo
-PSB067	#_ mā īsmuka
-PSB067	#_ shnū smītak
+PSB067	#_ mā ismu-ka
+PSB067	#_ shnū smīt-ək
 PSB005	è diverso sì
 PSB005	mi sembra
 PSB067	no~ non tanto però è un po' diverso però le altre tipo
@@ -44,7 +44,7 @@ PSB005	bene male vi piace
 PSB068	bene bene bene
 PSB069	bene piace
 PSB005	perché
-PSB067	perché lāsh ajbātk molinella
+PSB067	perché #ʕlāsh #ʕajbāt-k molinella
 PSB069	tutto molinella bella
 PSB069	tutto
 PSB069	zona
@@ -60,7 +60,7 @@ PSB067	ci son delle strutture che mancano per le per noi le donne musulmane
 PSB005	ah
 PSB067	quello lì
 PSB005	per esempio
-PSB068	#_
+PSB068	#_ xx
 PSB067	per esempio non c'è
 PSB067	non c'è tipo una parte dove ci incontriamo solo noi
 PSB067	ci fa ma~ magari se possiamo fare #*delles #*attivites
@@ -157,10 +157,10 @@ PSB068	no
 PSB005	no okay
 PSB005	però hai imparato un po'
 PSB068	sì sì
-PSB069	#_ waḥd shwia xx
+PSB069	#_ wāḥd shwiyya xx
 PSB067	#_ gūli xx
 PSB068	e
-PSB069	#_ kunt b3īda gāt-līyā wāsh kuntī kat-qrāī z3mā ma3āa l-madrasa
+PSB069	#_ kunt bʕīda gāt-lī-ya wāsh kunti ka-tqrāy zaʕma mʕā-ha l-madrasa
 PSB067	ah perché adesso in verità non sta a molinella
 PSB069	no
 PSB005	ah okay
@@ -188,7 +188,7 @@ PSB005	capisco questo problema delle palestre delle piscine mh
 PSB005	le vostre amiche prima mi hanno detto che anche in spiaggia
 PSB005	cioè preferiscono andare un po' lo~ un po' mh non proprio in mezzo alla confusione ecco
 PSB067	eh io non lo so perché io sinceramente il mare non mi piace
-PSB067	#_ gūlīlha mī kat-mshīw l-bḥar ntūmā
+PSB067	#_ gūli lī-ha mənni ka-tmshīw l-bḥar ntūma
 PSB005	a voi piace il mare
 PSB069	sì piace sì
 PSB005	sei andata qui vicino
@@ -196,11 +196,11 @@ PSB069	ehm
 PSB005	sei mai andata al mare in spiaggia qui
 PSB005	vicino a molinella o in italia
 PSB069	sì sì
-PSB067	#_ mshithi l-bḥar
+PSB067	#_ mshīti l-bḥar
 PSB069	eh l ravenna
 PSB005	ravenna
 PSB069	comacchio
-PSB067	#_ fin kath-mshiw ma3a lìn-nes wlā ket-kūnū būḥdkum
+PSB067	#_ fīn ka-tmshi w mʕa l-n-nās wlā ka-tkūnu b-wəḥd-kum
 PSB068	no no c'è un posto eh
 PSB069	no eh
 PSB068	eh posto
@@ -210,12 +210,12 @@ PSB067	tutti i marocchini
 PSB068	solo i m~ marocchini
 PSB005	ma devo~
 PSB068	non i~ non il
-PSB067	#_ keth mshiw shi blasa c'è il mare
+PSB067	#_ ka-tmshīw shi blāṣa c'è il mare
 PSB068	xx c'è mare lì
-PSB069	#_ hādik tassi fi hneya mbqa qriba gatliya th-mshi
+PSB069	#_ hādīk xx fi-h hnā-ya ma-bqa qrība gāt lī-ya tmshi
 PSB005	sì
 PSB068	u~ un posto una zona che c'è zona
-PSB067	#_ guliliḥa xarji xarji m3a had l-xrraj guliliḥa thmshi mqakkar
+PSB067	#_ gūli lī-ha xarji xarji mʕa hād l-xrraj gūli lī-ha thmshi mʕakkar
 PSB068	dove c'è anche
 PSB005	ma voglio venire anch'io
 PSB005	mi dovete dire dov'è
@@ -226,7 +226,7 @@ PSB067	ma io non ci vado perché io non sono
 PSB005	e tu ci sei andata tante volte
 PSB069	sì
 PSB005	con
-PSB067	#_ bzāf m-marrāt
+PSB067	#_ bzzāf marrāt
 PSB005	con i tuoi bambini
 PSB069	sì sì sì
 PSB005	sì
@@ -257,9 +257,9 @@ PSB069	no no
 PSB067	#_ xx
 PSB005	perché
 PSB069	no
-PSB069	#_ māshā n-gūl-līhā
-PSB067	#_ gūlī-līyā n-shraḥ-līk
-PSB069	#_ ki-ḍārbū xx
+PSB069	ma #āsh #ngūl #lī-ha
+PSB067	#_ gūli lī-ya nshraḥ lī-k
+PSB069	#_ ka-yḍarbu xx
 PSB067	si litighi~ si litigano tra di loro
 PSB005	mhmh
 PSB005	per i giochi per
@@ -268,8 +268,8 @@ PSB069	sì li giochi
 PSB067	tra di loro
 PSB069	le macchina eh
 PSB067	ognuno sua macchina
-PSB069	#_ wazzāk
-PSB069	#_ īmmā kī-df3ūhā wḥda
+PSB069	#_ w-zzək
+PSB069	#_ imma ka-ydfʕu-ha wāḥda
 PSB067	sì
 PSB067	cioè con sua una macchina entrambi
 PSB005	mhmh
@@ -293,9 +293,9 @@ PSB066	ah
 PSB066	eh sì
 PSB005	beh però la mia più sorellina più piccola è molto più piccola di me
 PSB005	ha tredici anni in meno sì
-PSB069	#_ ṣghār m-nhā
+PSB069	#_ ṣghār mn-ha
 PSB066	diciannove sono
-PSB069	#_ ṣāḥblī-sh fīhā 3rīshnāt
+PSB069	#_ ṣāḥb lī-sh fī-ha ʕla ʕshrīnāt
 PSB067	no pensavo che hai vent'anni
 PSB005	no
 PSB069	mh
@@ -309,7 +309,7 @@ PSB005	sì sì
 PSB005	e okay
 PSB005	e siete state a bologna
 PSB005	mai
-PSB067	# kāt-mshī l-bologna sì
+PSB067	# ka-tmshi l-bologna sì
 PSB069	sì sì
 PSB005	vi piace
 PSB069	mi piace sì
@@ -318,12 +318,12 @@ PSB069	eh supermarket
 PSB005	mhmh
 PSB069	ehm
 PSB069	#_ xx
-PSB069	#_ bzzāf būḥārat
+PSB069	#_ bzzāf buḥrāt
 PSB068	mercato
 PSB005	mercato
-PSB068	#_ gult-līha būhārāsh
+PSB068	#_ gəlt lī-ha buḥrāt
 PSB005	il mercato
-PSB069	#kan-mshīw #bzāf lago #kan-mshīw #bzāf l-jardāt
+PSB069	#ka-nmshīw #bzzāf #l-lago #ka-nmshīw #bzzāf l-jardāt
 PSB067	lago
 PSB067	lago
 PSB067	sì lago le barche
@@ -359,12 +359,12 @@ PSB067	autista
 PSB069	autista
 PSB005	okay
 PSB067	fa l'autista
-PSB069	#_ 3andī-sh, mā f-rāsnī
+PSB069	#_ ʕandī-sh mā f-ṛās-i
 PSB005	l'autista sì
-PSB067	#gūlī fa l'autista
-PSB066	#_ mālahā
-PSB069	f-rāsnī
-PSB066	#_ wa bravo bravo
+PSB067	#gūli fa l'autista
+PSB066	#_ māl-ha
+PSB069	#_ mā f-ṛās-i
+PSB066	#_ wāh bravo bravo
 PSB067	sì sì fa l'autista
 PSB005	sì sì sì certo
 PSB005	ehm e eh dimmi tu se ti pia~ se sei stata a bologna se ti piace se
@@ -385,7 +385,7 @@ PSB067	adesso iniz~ eh s~ adesso
 PSB066	di più
 PSB067	ma prima erano pochissimi
 PSB067	adesso erano
-PSB069	#_ 3āmrāt bzāf
+PSB069	#_ ʕammrat bzzāf
 PSB067	sì anche
 PSB067	tantissimi se noi se non
 PSB067	come devo dire
@@ -408,10 +408,10 @@ PSB067	s~ sì sì sì
 PSB005	ma non~
 PSB067	anche se siamo mh faccia~ mh lo stesso religione però siamo divers~ siamo separati
 PSB005	mhmh
-PSB066	#_ ki-ḥtārmūsh
+PSB066	#_ ka-yḥtarmū-sh
 PSB067	sì sì non rispettano
 PSB069	sì
-PSB069	#_ wāḥed l-nhār l-nar y-mshīw
+PSB069	#_ wāḥd n-nhār l-nār ymshīw
 PSB067	sì sì manca il rispetto a noi
 PSB005	ah okay e con le donne mh pakistane non
 PSB005	non avete molti contatti
@@ -513,7 +513,7 @@ PSB068	non tutti
 PSB005	okay
 PSB067	perché dicono se uno va a lavorare non deve far~ non deve stare a digiuno perché ha
 PSB067	bisogno dell'acqua xx
-PSB069	#_ mtābqīn sharḥa-h jinn
+PSB069	#_ mṭābqīn sharḥa-ha jinn
 PSB068	perché perché eh
 PSB067	sì
 PSB068	obbligo obbligo obbligo
@@ -649,9 +649,9 @@ PSB068	da piccoli
 PSB005	o no
 PSB069	sì sì film in xx
 PSB067	cosa intendi intendi
-PSB069	#_ fil madārīsa xāṣṣa ki-dīrū frānsā mn tānī
+PSB069	#_ fi-l-madārisa xāṣṣa ka-ydīru frānsā mn tānī
 PSB067	no xx cosa guarda tuo figlio
-PSB069	#_ ki bdū
+PSB069	#_ ka-ybdū
 PSB005	cartoni animati in francese
 PSB068	sì anche tivù
 PSB068	sì sì guardano
@@ -687,16 +687,16 @@ PSB005	ceuta e melilla
 PSB068	televisione sì gio~ tre la li~ tre gio~
 PSB067	tre lingue sì è vero
 PSB068	sì
-PSB067	#_ 3andak l-ḥaq
+PSB067	#_ ʕand-ək l-ḥaqq
 PSB068	c'è eh a~ arabo
 PSB067	spagnolo sì
 PSB068	da mattina
 PSB067	no quattro
 PSB066	inglese
-PSB067	#_ shīlḥa
+PSB067	#_ shəlḥa
 PSB068	ling~ eh
 PSB068	c'è una ehm
-PSB067	#_ shīlḥa
+PSB067	#_ shəlḥa
 PSB068	eh
 PSB066	un arabo
 PSB067	no berbera
@@ -726,9 +726,9 @@ PSB068	sì
 PSB005	e mi mi vuoi dire di quale parte del marocco sei
 PSB005	ehm quale città
 PSB068	xx
-PSB067	#_ fīn n-tī fil-maghrīb
+PSB067	#_ fīn nti fi-l-maghrib
 PSB068	ehm
-PSB069	#_ āsh mndīna
+PSB069	#_ āshmən mdīna
 PSB068	béni mellal
 PSB005	ah sì
 PSB068	meta x x x
@@ -747,7 +747,7 @@ PSB005	cosa c'è c'è il mare ci son le montagne xxx x mh
 PSB067	no il mare no xx la montagna è bella l'acqua
 PSB068	eh c'è c'è
 PSB068	c'è quella di
-PSB067	#_ 3īni sardūn
+PSB067	#_ ʕīni sardūn
 PSB068	come si chiama le
 PSB066	ah
 PSB067	eh l~ cascate
@@ -788,7 +788,7 @@ PSB005	e fa caldo fa freddo
 PSB068	no marrakesh caldo
 PSB005	no nella tua città
 PSB067	no lì è freddo per me
-PSB069	#_ ah lak bnī mllāl
+PSB069	#_ āh l-ak bnī mllāl
 PSB068	cald~ eh fre~ caldo quando c'è le
 PSB069	caldo
 PSB068	agosto anche l~ luglio ca~ caldo
@@ -808,14 +808,14 @@ PSB068	non eh perché non c'è l'umidità
 PSB005	quasi sì
 PSB005	è secco che bello
 PSB067	e questa qui è diverso non è da béni mellal
-PSB067	#_ ntī mnīn
+PSB067	#_ nti mnīn
 PSB069	ah
 PSB005	di dove sei tu
-PSB069	fqīh bn sālāḥ
+PSB069	fqīh bn ṣāləḥ
 PSB005	ah ecco questo non lo conosco
 PSB068	vicino a béni mellal
 PSB069	sì
-PSB069	#_ walākīn ki-tā3nī
+PSB069	#_ wālākīn ka-ytaʕni
 PSB068	eh come come la
 PSB069	#_ xx
 PSB068	come molinella alberino
@@ -839,41 +839,41 @@ PSB069	troppo
 PSB005	sì sì sì
 PSB005	e c'è un fiume quindi
 PSB005	c'è un fiume con le cascate avete detto
-PSB067	#_ xx tūmā
+PSB067	#_ xx ttūma
 PSB069	sì
 PSB005	e s~
 PSB067	#_ xx c'è il wād
-PSB069	#_ si kāyn hnā ta fī-ḍḍār 3adnā kāyn dūr xxx
+PSB069	#_ si kāyn hna tta fī-d-dār ʕadd-na kāyn duwər xxx
 PSB069	sì
 PSB067	#_ c'è il wād xx
 PSB005	e andate
 PSB067	#_ xx
 PSB005	le famiglie vanno a fare una passeggiata
-PSB069	#_ hūwa qrīb yā3nī mn dār kan shūfū kan shūfū
-PSB067	#_ kat-mshīw t-krjū gtl-īk passeggiata
-PSB067	no gtl-īk wāsh kat t-krjū-līh
+PSB069	#_ hūwa qrīb yāʕni mn dār ka-nshūfu-h ka-nshūfu-h
+PSB067	#_ ka-tmshīw təxrju gət l-īk passeggiata
+PSB067	no #_ gət l-īk wāsh ka-təxrju lhīh
 PSB067	no
 PSB069	no
 PSB005	no
 PSB069	no
-PSB069	#_ māt qādr-īsh
+PSB069	#_ ma-tqādri-sh
 PSB005	okay
-PSB069	#_ xx mī tī-kūn xx
+PSB069	#_ xx mmay ta-ykūn xx
 PSB068	solo la de scuola
 PSB068	quando andato gita
 PSB005	okay ma
 PSB005	okay
 PSB005	okay
-PSB069	#_ māt qādrī-sh t-xṛjī thm t-kāfī sh-shjar
+PSB069	#_ ma-tqādri-sh təxṛji təmm txāfī sh-shjār
 PSB068	con albero tanto
 PSB005	okay
-PSB066	#_ fssrīlīhā xx
+PSB066	#_ fəssri li-ha xx
 PSB067	sì non puoi uscire perché c'è rischio
-PSB069	#_ māki qdar-sh mākāyn-sh l-xx
+PSB069	#_ ma-ka-yqdar-sh ma-kāyn-sh l-xx
 PSB005	okay sì
 PSB005	no n~ io non lo so non non conosco quindi chiedo ma
 PSB067	sì nemmeno io béni mellal sì ma
-PSB068	#_ 3addī hnā l-katār
+PSB068	#_ ʕadd-i hna l-xaṭar
 PSB067	io non lo conosco
 PSB005	mhmh
 PSB005	okay
@@ -893,12 +893,12 @@ PSB068	io nato io non è nato a béni mellal nato eh
 PSB066	xx
 PSB067	casablanca
 PSB068	no a rabat
-PSB068	#_ slām
-PSB067	#_ slām
-PSB068	#_ sī-gā3 l-harāwī
+PSB068	#_ s-salām
+PSB067	#_ s-salām
+PSB068	sì #gāʕ #l-ṣaḥrāwī
 PSB067	#_ xx gharb
 PSB068	#_ xx
-PSB067	#_ rā gharbān
+PSB067	#_ ṛāh gharbān
 PSB005	okay okay xx okay
 PSB068	nato da algeria e andato a béni mellal perché la mio padre
 PSB068	eh lavoro di
@@ -945,7 +945,7 @@ PSB068	sì
 PSB005	tip~ secondo te è bello avere tanti fratelli sorelle
 PSB068	s~ perché
 PSB068	io xx
-PSB066	#_ wāsh 3ājba hālīk kūth bzāf
+PSB066	#_ wāsh ʕājba l-īk xūt bzzāf
 PSB068	sì perché grande non so se
 PSB067	adesso sì perché è diventata grande ma piccoli no si litigano xx
 PSB068	sì
@@ -967,11 +967,11 @@ PSB068	io sì
 PSB067	no no per me no
 PSB068	#_ xx
 PSB068	perché mh
-PSB069	#_ māmshītlīksh
+PSB069	#_ ma-mshīt li-h-sh
 PSB066	casablanca
 PSB068	non è non è no
 PSB068	non è abita solo
-PSB067	#_ wāsh kit-3ājbak agādīr zwīna hsan mn cāzā
+PSB067	#_ wāsh ka-tʕajb-ək agādīr zwīna ḥsan mn kāzā
 PSB068	#_ xx
 PSB067	no no la più bella è casablanca
 PSB005	okay
@@ -986,7 +986,7 @@ PSB067	si chiama nouaceur
 PSB005	okay
 PSB067	non si chiama casablan~
 PSB005	ah ecco ecco
-PSB069	#_ wā xārjīhā
+PSB069	#_ wāh xarrji-ha
 PSB005	avevo solo un cambio
 PSB005	non non sono uscita dall'aeroporto
 PSB066	ah
@@ -1022,16 +1022,16 @@ PSB067	come si chiama chi parla
 PSB005	volubilis
 PSB005	eh è il nome romano però eh
 PSB067	come si chiama volublis
-PSB066	#_ māshī xx volubilis
+PSB066	#_ māshi xx volubilis
 PSB005	volubilis adesso
 PSB067	#_ xx
 PSB066	chefchaouen chef~ chefchaouen
 PSB005	aspettate vi faccio vedere dov'è
-PSB069	#_ rbāḥnā f-hādā
-PSB067	#_ tāl3ī tāl3ī xx hādrī hādrī xx
+PSB069	#_ rbaḥna f-hāda
+PSB067	#_ ṭalʕi ṭalʕi xx hādri hādri xx
 PSB066	#_ xx
-PSB068	#_ lā lā hādrī bl 3ārbīyā xx
-PSB067	#_ xallīhā t-hdar bāsh t-xrūj tālyānīyā
+PSB068	#_ lā lā hādri b-lʕārbiyya xx
+PSB067	#_ xalli-ha thdar bāsh txruj ṭ-ṭālyāniyya
 PSB066	#_ xx
 PSB005	vicino a meknes
 PSB066	come si chiama
@@ -1053,36 +1053,36 @@ PSB005	mhmh
 PSB067	sì meknes x allora
 PSB005	è carino molto carino
 PSB067	ma dov'è qua
-PSB068	#_ qaids
+PSB068	#_ qayd
 PSB067	qu~ questo
 PSB005	questo è meknes e questo e il sito archeologico
 PSB067	di volu~
 PSB005	sì
 PSB067	volubis
 PSB005	volubilis e~ ci sono le rovine romane
-PSB068	#_ ghāī kūn ghā athārāt
+PSB068	#_ gha-ykūn gha-athārāt
 PSB005	così
 PSB005	sì
-PSB067	#_ āshi wālīī
+PSB067	#_ āsh walīlī
 PSB005	cioè è piccolino
-PSB068	#_ no no wālīī mā-kāynāsh tammā
+PSB068	#_ no no walīlī mā-kāyna-sh tamma
 PSB068	aspetta
 PSB066	#_ xx
-PSB068	#_ bllātī
+PSB068	#_ bəllāti
 PSB068	posso
-PSB066	#_ kāynā fās hunā
+PSB066	#_ kāyna fās huna
 PSB067	allora qui sefron è nata mia mia mamma e mia zia
 PSB005	okay
 PSB068	aspetta xx
 PSB067	aspetta
-PSB068	#_ bllātī n-shūf hdāhā shnhā
-PSB068	#_ musāwā lā ghāī kūn vīlāj ghā ṣghīwar
-PSB067	#_ mūlāy 3āqūb
-PSB067	adesso questo qui mūlāy āqūb il marito di mia sorella è di qua
+PSB068	#_ bəllāti nshūf ḥdā-ha shnha
+PSB068	#_ musāwā lā gha-ykūn vīllāj ṛāh ṣghīwər
+PSB067	#_ mūlāy yaʕqūb
+PSB067	adesso questo qui mūlāy yaʕqūb il marito di mia sorella è di qua
 PSB068	ah okay
 PSB005	okay
 PSB068	ah
-PSB067	xx mūlāy āqūb
+PSB067	xx mūlāy yaʕqūb
 PSB068	#_ xx
 PSB067	poi aspetta
 PSB066	prima del xx ro~ romano
@@ -1091,7 +1091,7 @@ PSB005	mhmh dei romani
 PSB067	poi
 PSB066	i romani hanno #xx
 PSB005	i romani sì
-PSB067	questa parteīn l-lūḥ
+PSB067	questa parte #_ ʕīn l-lūḥ
 PSB005	rovine romane
 PSB066	#_ xx
 PSB067	questa è xx dove è andato mio papà a lavorare
@@ -1102,8 +1102,8 @@ PSB005	lontano
 PSB067	sì sì
 PSB005	sì
 PSB067	io quando ero piccola non andavo
-PSB066	#_ xx blāṣā qrība-lintī
-PSB066	vicino #dārnā
+PSB066	#_ xx blāṣa qrība lli nti
+PSB066	vicino #dār-na
 PSB067	qui
 PSB066	dov'è xx
 PSB067	io quando ero piccola non andavo
@@ -1111,7 +1111,7 @@ PSB067	perché è troppo lontano qui
 PSB005	eh sì
 PSB005	ah okay
 PSB005	ah wow
-PSB066	#_ xx blāsā xx
+PSB066	#_ xx blāṣa xx
 PSB005	okay
 PSB067	abitavo a casablanca e venivo qua
 PSB005	vediamo dov'è
@@ -1126,7 +1126,7 @@ PSB005	il marocco è molto grande
 PSB067	quello lì è la parte di mio papà ma non c'è niente
 PSB067	proprio niente niente niente
 PSB005	okay okay okay
-PSB067	#_ yā l-qifār
+PSB067	#_ l-qifār
 PSB005	no io s~ dopo sono andata per quattro giorni alla città blu
 PSB067	a chefchaouen chefchaouen
 PSB005	sì
@@ -1135,7 +1135,7 @@ PSB067	okay
 PSB005	molto bello
 PSB067	sì sì bellissimo
 PSB005	ma a me è piaciuto tutto
-PSB069	#_ 3āūdīnā 3lāh 3omro mshītīlish
+PSB069	#_ ʕāwdi-na ʕlā-h ʕammar ma-mshīt lī-h-sh
 PSB005	tutto bellissimo
 PSB067	sì sì
 PSB069	#_ xx
@@ -1172,12 +1172,12 @@ PSB067	fes più bella di marrakesh
 PSB005	sì
 PSB067	marrakesh sì quella quella parte lì
 PSB067	come si chiama #xx
-PSB066	#_ jāmā3 l-fnā
-PSB066	#_ jāmā3 l-fnā
-PSB067	#_ s-smīt ṣ-ṣāḥā
-PSB069	#_ jāmā3 l-fnā
-PSB066	#_ jāmā3 l-fnā
-PSB067	s-smī-t ṣ-ṣāḥā come si chiama spazio
+PSB066	#_ jāmaʕ l-fnā
+PSB066	#_ jāmaʕ l-fnā
+PSB067	#_ smīt s-sāḥa
+PSB069	#_ jāmaʕ l-fnā
+PSB066	#_ jāmaʕ l-fnā
+PSB067	smīt s-sāḥa come si chiama spazio
 PSB005	ah la piazza piazza
 PSB068	la piazza
 PSB066	piazza
@@ -1212,7 +1212,7 @@ PSB005	mhmh
 PSB005	ah devo an~ devo andare assolutamente
 PSB067	però lì ci sono le persone
 PSB067	come devo dire #high #class
-PSB066	#_ high class
+PSB066	#high #class
 PSB005	okay cap~ a #tanger okay ride
 PSB067	hanno anche anche l'a~ il cento come parlano loro mamma mia è troppo
 PSB067	si vede più elegante
@@ -1254,7 +1254,7 @@ PSB068	francia
 PSB068	in francia
 PSB067	vanno in germania
 PSB005	okay
-PSB068	#_ mshāw shī
+PSB068	#_ mshāw shi
 PSB066	germania parlano l'italiano
 PSB067	e e olanda
 PSB005	perché son~ perché è più turistico forse sì
@@ -1301,7 +1301,7 @@ PSB005	io sì prego prego sì sì
 PSB005	io posso venire una volta mi piacerebbe moltissimo
 PSB067	sì sì sì vieni
 PSB066	sì vieni vedere
-PSB067	così studi #alif #ba #ta #ca #gin #ha #ho
+PSB067	così studi #alif #ba #ta #ka #jīm #ha #hu
 PSB066	le lettere
 PSB066	almeno le lettere dopo
 PSB005	eh sì xx
@@ -1311,9 +1311,9 @@ PSB067	facilissimo per i grande
 PSB067	perché la prima cosa ti studi l'alfabeto e poi dopo vocale
 PSB005	sì
 PSB067	dopo riesci a fare un una parola
-PSB069	#_ qur'ān
-PSB066	#_ no hādāk sh-shī xx
-PSB067	#_ no no hādāk sh-shī no
+PSB069	#_ qurʔān
+PSB066	#_ no hādāk sh-shi xx
+PSB067	#_ no no hādāk sh-shi no
 PSB067	dopo riesci a fare una parola e poi da lì usi il dizionario
 PSB005	mh
 PSB067	così per capire
@@ -1346,7 +1346,7 @@ PSB005	ah okay okay
 PSB067	poi mia nonna mi mi imparava però tutto tutto sbagliato
 PSB067	dopo ho capito tipo per tipo il coltello mi dice $cortello
 PSB067	dice $cortello
-PSB069	#_ xx kat-hādrī 3līyā anā
+PSB069	#_ xx ka-thadri ʕlī-ya āna
 PSB067	poi mi correggo comuni
 PSB067	comuni comu~ comuni dice $communi
 PSB066	comu~ eh sì
@@ -1441,7 +1441,7 @@ PSB067	è diverso
 PSB067	#_ pz cre matin
 PSB005	no certo
 PSB067	è diverso
-PSB066	#_ mkāīnsh tfhmīhum mn dialetto
+PSB066	#_ ma-kāyn-sh tfəhmi-hum mn dialetto
 PSB067	no no se parlano più veloce non capisci
 PSB066	c'è
 PSB066	non è come la la nostra
@@ -1514,7 +1514,7 @@ PSB067	perché tra la u e la~ perché voi dice u
 PSB066	u
 PSB067	e loro dicono u
 PSB005	sì
-PSB069	#_ tnā mākā-tf-ham-ūsh
+PSB069	#_ tta āna ma-ka-nfahm-u-sh
 PSB067	poi loro dicono #err e qua dicono erre
 PSB005	sì ma la pronuncia
 PSB005	è molto diversa il suono è molto diverso quando io sento
@@ -1531,7 +1531,7 @@ PSB066	come la musica
 PSB005	sì sì
 PSB067	tutto vicino
 PSB068	domani sì doma~ #demain #demain domani
-PSB069	#_ kulshī bḥāl bḥāl
+PSB069	#_ kull shi bḥāl bḥāl
 PSB005	sì sì
 PSB005	sì sì sì
 PSB067	c'è anche la #liberté la libertà
@@ -1545,8 +1545,8 @@ PSB066	sì
 PSB068	vieni $vieniri
 PSB005	sì
 PSB068	vieni vieni
-PSB066	#_ viens
-PSB068	#_ viens
+PSB066	#viens
+PSB068	#viens
 PSB005	sì sì sì
 PSB005	ma voi se andate in francia riuscite a parlare tranquillamente francese con i francesi
 PSB005	o a comunicare
@@ -1592,7 +1592,7 @@ PSB005	sì sì
 PSB005	e e anche voi
 PSB066	forse sì
 PSB068	mia marito
-PSB066	#_ twahshīhā
+PSB066	#_ twaḥḥshī-ha
 PSB068	sì mio marito andato al francia
 PSB066	ah vuole rimanere lì
 PSB068	d~ d~ da due anni vuoi
@@ -1601,13 +1601,13 @@ PSB068	andati mh via via da qui da francia
 PSB068	due anni
 PSB069	#_ xx
 PSB068	ritorna qui
-PSB067	#_ 3ishtū fī-ṭālyān
+PSB067	#_ ʕishtu f-ṭ-ṭālyān
 PSB005	preferisce qui sì
 PSB069	#_ xx
-PSB067	#_ gū-līlhā bello
+PSB067	#_ gūli l-ha bello
 PSB005	meglio sì
 PSB066	voglio andare la voglio andare con lei e portare i miei figli e tutto
-PSB069	#_ īwa tarjmlī tarjmlī
+PSB069	#_ īwa tarjim lī tarjim lī
 PSB005	mhmh no
 PSB068	rimane sola se ne va
 PSB005	in dove era in francia quale città
@@ -1615,14 +1615,14 @@ PSB068	#_ eh lyon
 PSB005	lione okay sì
 PSB067	lyon lyon
 PSB068	#_ lyon
-PSB069	#_ gha glsī hnā māt-mshī-sh
+PSB069	#_ gha-gəlsi hna ma-tmshī-sh
 PSB005	io non conosco bene la francia
 PSB068	no xx
 PSB067	no io sì se dicono vai in francia o per trovarti finché posso posso venire in italia
 PSB066	anch'io
 PSB005	anche anche voi siete d'accordo
 PSB068	sì sì
-PSB067	#_ kī 3jbk ṭālyān wā-t-mshī
+PSB067	#_ ka-yʕjb-ək ṭ-ṭālyān wla tmshi
 PSB069	sì
 PSB067	francia
 PSB069	no
@@ -1630,7 +1630,7 @@ PSB068	no no
 PSB067	italia
 PSB069	italia sì
 PSB067	posto xxx
-PSB066	#_ t-rāj3ī l-maghrīb t3īshī fīh
+PSB066	#_ trajʕi l-l-maghrib tʕīshi fī-h
 PSB069	molto bella
 PSB067	io vorrei solo tornare del xx
 PSB069	no
@@ -1661,12 +1661,12 @@ PSB067	neanche un mese io riesco a fare in marocco faccio venti giorni
 PSB069	mi piace il marocco
 PSB005	mhmh
 PSB067	ti piace il marocco
-PSB069	no eh waldī
-PSB069	#_ mabqāsh bāghī mabqāsh bāghī
+PSB069	no eh #wald-i
+PSB069	#_ ma-bqā-sh bāghi ma-bqā-sh bāghi
 PSB066	ah il fi~ figlio
-PSB066	#_ āh sawltī xx
+PSB066	#_ āh sawwəlti xx
 PSB067	#_ xx
-PSB069	#_ mābāqīsh xx
+PSB069	#_ ma-bāqi-sh xx
 PSB005	ma perché si annoiano perché fanno fatica con la lingua
 PSB005	sanno l'arabo i tuoi bimbi
 PSB067	sì sì
@@ -1675,13 +1675,13 @@ PSB069	sì
 PSB069	sì
 PSB005	okay
 PSB005	quando siete in marocco non sono contenti perché si annoiano non sanno cosa fare
-PSB067	#_ ‘a3lāsh mā-tī3jbu-hūmsh l-maghrīb tāsh mā-tībgh-īūsh ymshīw
-PSB066	#_ wāsh tī xx
-PSB069	#_ tī-mām ki-qnṭū
-PSB066	#_ wā hādkshī lī-gāt-lāk
+PSB067	#_ ʕlāsh ma-ta-yʕjbu-hum-sh l-maghrib ḥttāsh ma-tbghīw-sh ymshīw
+PSB066	#_ wāsh tti xx
+PSB069	#_ tta hūma ka-ytqənqu
+PSB066	#_ w-hādāk-sh-shi lli gət l-ək
 PSB067	si annoiano
 PSB005	si annoia~ in~ io ci ho pensato infatti sì sì
-PSB069	#_ hūmā zāydīn hunā xx
+PSB069	#_ hūma zāydīn huna xx
 PSB068	xx
 PSB068	anche mio figlio grande nato a marocco
 PSB005	mhmh
@@ -1700,13 +1700,13 @@ PSB005	è interessante
 PSB067	sì sì è la verità non è la verità io non riesco da tornare in marocco da vivere
 PSB067	perché tutta la mia gioventù l'ho fatta qua in italia secondo lei cosa devo fare in marocco io
 PSB005	mh
-PSB069	#_ walakin hā kān-gūlū hnā
+PSB069	#_ wālākīn ḥna ka-ngūlu hna
 PSB069	piace marocco
 PSB067	no io
-PSB066	#_ ānā bntī ktār mn marrāt mchāt fīh hād l-3ām
+PSB066	#_ āna bənt-i ktār mn marrāt mshāt fī-h hād l-ʕām
 PSB067	io l'anno sco~ sono tre anni che non torno
-PSB069	#_ kāt-mshīw
-PSB066	#_ ghā t-mshī ktār 3ad t-mshī 3āwtānī hīyya s-sātta
+PSB069	#_ ka-tmshīw
+PSB066	#_ gha-tmshi ktār ʕad tmshi ʕawd tānī hiyya s-sətta
 PSB069	#_ xx
 PSB005	mh
 PSB005	ma
@@ -1796,7 +1796,7 @@ PSB005	però io dico per sicurezza no per per per essere sicura per star tranqui
 PSB066	no no c'è c'è
 PSB005	sì sì
 PSB067	io sono andata l'anno scorso a napoli con mia amica
-PSB066	#_ āsh gāt-lāk
+PSB066	#_ āsh gət l-ək
 PSB069	#_ xx
 PSB067	entravamo al bar per prendere un caffè e parlano parlano con noi inglese
 PSB068	#_ xx
@@ -2010,7 +2010,7 @@ PSB005	okay okay
 PSB067	ad andalo
 PSB066	anno prossimo
 PSB067	perché mio marito è stato
-PSB067	#_ msha hūwa ū-muṣṭafa
+PSB067	#_ msha hūwa w-muṣṭāfa
 PSB066	ah
 PSB067	sono stata a trieste
 PSB067	eh sai dove sei stato lui
@@ -2022,9 +2022,9 @@ PSB068	poverino sì
 PSB005	o no
 PSB005	o no
 PSB005	che disastro
-PSB066	ha fatto un viaggio #kīfāsh mā-kāll-hum zaṭṭā
+PSB066	ha fatto un viaggio #kīfāsh ma #qālū #mzaṭṭa
 PSB067	lui ha fatto un viaggio lì si ma secondo
-PSB068	#_ kāṣṣhā shī hādī
+PSB068	#_ xāṣṣ-ha shi hādi
 PSB067	secondo te
 PSB067	se tu non sai la bici vai via
 PSB005	no esatto
@@ -2116,11 +2116,11 @@ PSB067	#_ shkīkū
 PSB005	sì
 PSB067	#_ xx shkīkū
 PSB068	#_ xx
-PSB066	#_ hna xx shkīkū ((ride))
+PSB066	#_ ḥna xx shkīkū
 PSB005	sì sì
 PSB067	no io no
 PSB066	no
-PSB066	#_ ṣāfī nmshīwā
+PSB066	#_ ṣāfi nmshi wāh
 PSB066	io va~ io vado in vacanza
 PSB069	#_ xx
 PSB067	certo
@@ -2128,7 +2128,7 @@ PSB005	è tardi
 PSB069	no sì
 PSB005	sì sì
 PSB066	eh suo figlio
-PSB069	#_ xx kī-jīw m3a s-sā3a sḥal fā-sā3a
+PSB069	#_ xx ka-yjīw mʕa s-sāʕa sḥāl f-s-sāʕa
 PSB066	lei non abita qua
 PSB005	sì lontano sì abita lontano
 PSB066	#_ xx

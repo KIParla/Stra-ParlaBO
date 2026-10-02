@@ -133,7 +133,7 @@ PSB071	invertite cioè si sono fatte due fiori uguali però l~ lei ce l'ha a tes
 PSB072	eh
 PSB073	sì
 PSB072	s su
-PSB072	eh contrario eh bie~ eh leivero quel~
+PSB072	eh contrario eh bie~ eh lei vero quel~
 PSB074	no
 PSB074	xxx
 PSB073	te quando lo fai hai deciso di fare
@@ -149,7 +149,7 @@ PSB071	sì sì
 PSB074	sì
 PSB071	e ha pagato duecento
 PSB074	e sni
-PSB071	duecento euroti ricor~ in due
+PSB071	duecento euro ti ricor~ in due
 PSB074	ah s~ duecentocinqua~ duecento
 PSB071	duecentocinquanta in due
 PSB074	sì
@@ -471,11 +471,11 @@ PSB074	vuole dormire
 PSB071	per far cadere a rami a
 PSB072	andiamo
 PSB073	sì sì sì sì sì
-commenti	xxxxx
+suoni	xxxxx
 PSB074	ho i piedi freddi
 PSB073	che è successo
 PSB074	avete freddo
-commenti	xx
+suoni	xx
 PSB072	mare
 PSB071	okay
 PSB072	mare
@@ -537,7 +537,7 @@ PSB073	no aspetta no~ non conchiglie il coso il eh
 PSB071	xxx
 PSB073	se xx
 PSB072	e noce di cocco
-PSB073	nonono sempresempre il coso
+PSB073	no no no sempre sempre il coso
 PSB071	ah cavolo
 PSB072	del
 PSB071	no
@@ -551,7 +551,7 @@ PSB073	quella grande quello nero
 PSB071	cozze tipo
 PSB073	cozze sì quelli delle cozze
 PSB071	ma ci son le cozze là te stai in mare
-PSB073	sìsìsì
+PSB073	sì sì sì
 PSB073	no no nel fiu~ a~ anche nel fiume
 PSB071	ah sì
 PSB073	cioè anche anche anche nei laghetti ci son delle cozze
@@ -559,7 +559,7 @@ PSB071	mai visto
 PSB073	sì però quelli col guscio più grande che ci sono cozze anche così grande dov~ dove fanno a il coso
 PSB071	ah
 PSB071	e si mangiano da noi
-PSB073	nono da noi non si mangiano dove f~ dove dove nascono le perle
+PSB073	no no da noi non si mangiano dove f~ dove dove nascono le perle
 PSB071	ah
 PSB071	okay
 PSB073	dentro quelli quelli grandi
@@ -600,7 +600,7 @@ PSB073	ti urlavano in faccia no non puoi prendere xxx e allora cosa facevamo
 PSB071	eh certo
 PSB073	nuotavamo là andavamo lì alla riva rimaneva nel~ nell'acqua e lanciavo dei sassi sopra e cadevano giù e prendevamo e tornavamo indietro
 PSB072	no io invece io casa di mia nonna pa~ materna aveva proprio il albero del #catal #jack #fruit
-PSB073	#_ jack fruit
+PSB073	#jack #fruit
 PSB073	ma ma ma hai mangiato lei
 PSB072	e
 PSB071	chi
@@ -675,7 +675,7 @@ PSB072	anche #pumpkin
 PSB074	ah sì buonissime della zucca della zucca
 PSB071	quelle le fa sì sì
 PSB072	sì quello di zucca pure
-PSB072	non lascia ma
+PSB072	non lascia ma~
 PSB071	puoi farlo quando facciamo vuoi tenere i semi
 PSB074	ma io solitamente lo faccio eh però solo
 PSB071	lo fate la zucca con

@@ -875,8 +875,8 @@ PSB005	è giusto
 PSB022	anche che quando questo anche per me difficile
 PSB005	perché dimmi
 PSB022	perché sempre devo
-PSB022	#_ ba
-PSB022	#_ ba
+PSB022	#ba
+PSB022	#ba
 PSB022	no~ nonna nonna
 PSB022	dai questa nonna dai do~ da~
 PSB022	io voglio questo io vo~
@@ -2787,7 +2787,7 @@ PSB022	stata m~ militare e sempre
 PSB022	to- t~ germania
 PSB022	poi bielorussia poi
 PSB022	ehm
-PSB022	#_ zaporižžja
+PSB022	#zaporižžja
 PSB005	mhmh
 PSB022	e quando sono arrivati #zaporižžja in ucraina
 PSB022	ah
@@ -2822,7 +2822,7 @@ PSB022	eoh
 PSB022	ogni giorno
 PSB022	due pulizie due case e tutti
 PSB022	eh diversi mamma mia
-PSB022	come tu puoi lei settanta anni eh co non è possibile così
+PSB022	come tu puoi lei settanta anni eh co~ non è possibile così
 PSB005	mhmh ma forse
 PSB005	forse lei guarda anche la televisione in italiano
 PSB022	no no no
@@ -2944,7 +2944,7 @@ PSB022	xx
 PSB005	perché io lavoro alla adesso
 PSB005	forse è lo stesso posto
 PSB022	no no lei dice ts~ mh
-PSB022	#_ da
+PSB022	#da
 PSB022	cost~ qui non c'è
 PSB022	#_ k~ kak kak že eё familija blin zabyla
 PSB022	no
@@ -2999,7 +2999,7 @@ PSB022	ah sì
 PSB005	magari lo vedo
 PSB005	e poi
 PSB022	#vot c~ eh eh gira ehm
-PSB022	#_ ne
+PSB022	#ne
 PSB005	vabbè quando ti viene in mente poi me lo dici non ti preoccupare
 PSB022	xxx
 PSB005	era una curiosità solo

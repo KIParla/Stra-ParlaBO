@@ -53,7 +53,7 @@ PSB013	nel eh duemila diciassette
 PSB005	mhmh
 PSB013	sono venuto qua per il programma turandot
 PSB005	okay
-PSB013	e poi dopo un anno ho passato l'esame di ammissione dell'eh dell'accademia delle arti di bologna
+PSB013	e poi dopo un anno ho passato l'esame di ammissione dell' eh dell'accademia delle arti di bologna
 PSB005	mhmh
 PSB013	poi sono entrato
 PSB013	ehm
@@ -138,7 +138,7 @@ PSB005	va bene ma non dobbiamo parlare di argomenti difficili assolutamente
 PSB005	ehm okay
 PSB005	poi hai fatto la scuola e poi hai fatto l'accademia
 PSB013	sì
-PSB005	e il~ l l'organzzazione dell'accademia i corsi ti sono piaciuti ti sei trovato bene
+PSB005	e il~ l~ l'organzzazione dell'accademia i corsi ti sono piaciuti ti sei trovato bene
 PSB013	allora questo
 PSB013	una storia molto lungo lunga
 PSB005	racconta tutto
@@ -1437,7 +1437,7 @@ PSB013	anche tanti
 PSB013	come posso dire
 PSB013	quelle mh
 PSB013	mh come si chiama
-PSB013	#_ homeless
+PSB013	#homeless
 PSB005	sì ho capito
 PSB005	barboni
 PSB013	sì barboni

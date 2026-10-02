@@ -2,7 +2,7 @@ PSB014	°sì fa freddo° ((ride))
 PSB033	okay (.) eccoci
 PSB033	ehm::
 PSB014	okay, scusa
-PSB033	ehm: ti piace bologna?, c(io)è viv~ vivi qua a bologna?
+PSB033	ehm: ti piace bologna? c(io)è viv~ vivi qua a bologna?
 PSB034	sì, °mi° piace bologna
 PSB033	e vivi qua?
 PSB034	°vivo qua, sì°
@@ -26,7 +26,7 @@ PSB033	[ah], parli benissimo italiano
 PSB034	poco
 PSB033	((ride))
 PSB014	l'hai imparato là?
-PSB014	l'hai imparato in marocco?, oppu[re] sei venuto qua e hai imparato ita[liano]?
+PSB014	l'hai imparato in marocco? oppu[re] sei venuto qua e hai imparato ita[liano]?
 PSB034	°sì°
 PSB034	[sì sì] parlato in:, in italiano
 PSB014	a:[:h]
@@ -161,8 +161,8 @@ PSB034	sì
 PSB014	sì? e stai imparando a scrivere, a leggere?
 PSB034	>sìsì<
 PSB034	leggere b(u)ono
-PSB033	mhmh, difficile secondo te?, l'italiano, [diffici]le?
-PSB014	[è diffici]le?, ma tu sai anche il francese?
+PSB033	mhmh, difficile secondo te? l'italiano, [diffici]le?
+PSB014	[è diffici]le? ma tu sai anche il francese?
 PSB014	sai anche il francese?
 PSB034	poco
 PSB014	((ride))
@@ -212,7 +212,7 @@ PSB033	è più grande?
 PSB034	>sì>
 PSB014	[>quindi è da<]
 PSB033	[tu quant~] (.) tu quanti anni hai scusa?
-PSB034	e::h (.) settembre (.) prossimo (#kammel) venti
+PSB034	e::h (.) settembre (.) prossimo (#nkəmməl) venti
 PSB033	venti? a:h
 PSB014	a::h okay dai
 PSB033	e tuo fratello?
@@ -221,7 +221,7 @@ PSB033	ah (.) [okay]
 PSB014	[ah] dai, quindi l'hai raggiunto insomma, >sei venuito da lui<?
 PSB034	>sì<
 PSB014	mhmhmh
-PSB014	e: quante volte vieni qua a scuola?, una volta a settimana? due:?
+PSB014	e: quante volte vieni qua a scuola? una volta a settimana? due:?
 PSB034	una al mese
 PSB014	oh
 PSB033	ah, ah
@@ -229,7 +229,7 @@ PSB014	una al mese?
 PSB034	°sì°
 PSB014	a::h >okay okay<
 PSB033	°e::h poi?°
-PSB014	guardi programmi in italiano per caso? cinema?, film? (.) in italiano?
+PSB014	guardi programmi in italiano per caso? cinema? film? (.) in italiano?
 PSB034	film
 PSB014	sì?
 PSB034	°sì°
@@ -255,13 +255,13 @@ PSB034	°cosa cibo?°
 PSB033	cibo:, [°cibo°]
 PSB014	[pizza], pasta
 PSB033	[pizza] pasta, o::
-PSB034	#_ tajine ((ride))
-PSB033	#_ taj[ine eh]
-PSB014	#tajine ((ride)) e quindi preferisci quello [marocchino]?
-PSB033	[ta~] #tajine o pizza?
-PSB033	#_ taj[ine]
-PSB034	#_ [tajine] tajine ((ride))
-PSB033	meglio [#tajine] più buo[no]
+PSB034	#_ ṭājīn ((ride))
+PSB033	#_ ṭāj[īn eh]
+PSB014	#ṭājīn ((ride)) e quindi preferisci quello [marocchino]?
+PSB033	[ta~] #ṭājīn o pizza?
+PSB033	#_ ṭāj[īn]
+PSB034	#_ [ṭājīn] ṭājīn ((ride))
+PSB033	meglio [#ṭājīn] più buo[no]
 PSB014	[e::h], lo so, è un casino
 PSB033	e (.) qua a bolo[gna]
 PSB034	[però] pizza è b(u)ono
@@ -273,7 +273,7 @@ PSB033	[e:h ((ride))]
 PSB014	[e:h], eh sì, lo so
 PSB033	((ride))
 PSB034	((ride))
-PSB033	e qua, dove, dove mangi il #tajine? (.) lo fai a casa:?
+PSB033	e qua, dove, dove mangi il #ṭājīn? (.) lo fai a casa:?
 PSB014	lo sai fare te?
 PSB034	°sì vado a [casaxxx°]
 PSB033	[ah]
@@ -291,7 +291,7 @@ PSB014	e tuo fratello invece ha imparato italiano, vivendo qua hai detto, >oppur
 PSB034	°il mio fratello?°
 PSB014	mhmh
 PSB034	sì
-PSB014	ha fatto una scuola anche lui?, come questa?
+PSB014	ha fatto una scuola anche lui? come questa?
 PSB034	no
 PSB014	no no
 PSB034	lui studiare in imola
@@ -352,7 +352,7 @@ PSB014	ah ah, e: centro commericale magari?
 PSB014	tipo::
 PSB014	il gran reno, conosci?
 PSB034	no
-PSB014	no?, okay
+PSB014	no? okay
 PSB033	e:h, eheheh e:hm::
 PSB014	m::h
 PSB014	vediamo, e:, hai >abbiamo parlato di< <calcio:> (.) musica, ascolti musica?
@@ -381,7 +381,7 @@ PSB014	okay, sì lo conosco ((ride))
 PSB014	sì ((ride))
 PSB034	((ride))
 PSB033	eh io no, io non lo [conosco]
-PSB014	#_ [] vuol dire tipo:, tipo pistola
+PSB014	#xxx vuol dire tipo:, tipo pistola
 PSB033	ah
 PSB014	xxx ((ride))
 PSB033	xxx ((ride))
@@ -408,7 +408,7 @@ PSB014	mhmhmh
 PSB033	°m:::h°
 PSB014	((ride))
 PSB033	°(bene)°
-PSB014	e::h, >abbiamo detto< sport, cinema, >(potevam~ di~) guardi la televisione<? l'abbiamo detto?, tv, la guardi?
+PSB014	e::h, >abbiamo detto< sport, cinema, >(potevam~ di~) guardi la televisione<? l'abbiamo detto? tv, la guardi?
 PSB034	poco
 PSB033	poco
 PSB014	anch~ >anche in italiano<?
@@ -419,7 +419,7 @@ PSB034	film
 PSB014	film?
 PSB033	okay
 PSB014	>cosa ti pi[ace]<?
-PSB033	[pia]ce film: d'azione?, film polizia:, [film di miste]ri: (.) [film paura:]
+PSB033	[pia]ce film: d'azione? film polizia:, [film di miste]ri: (.) [film paura:]
 PSB014	thriller, horror
 PSB034	no::, [film di polizia]
 PSB014	POLI[ZIA]?
@@ -513,7 +513,7 @@ PSB014	troppo caldo [((ride)) , lo so]
 PSB034	[((ride))]
 PSB014	però::, a me non piace il freddo
 PSB014	mh (.) invece tipo, la montagna, il mare, cosa preferisci?
-PSB034	#(ni tu)
+PSB034	#(xx xx)
 PSB014	entrambi?
 PSB034	°sì°
 PSB033	m::h
@@ -568,7 +568,7 @@ PSB034	e pakistan
 PSB033	e:h
 PSB014	è vero, >sisisi<
 PSB014	e:hm::
-PSB014	>tra tutte queste città<, milano, modena, bologna (.) qual è quella che, tu hai amato di più?, quella che ti piace di più
+PSB014	>tra tutte queste città<, milano, modena, bologna (.) qual è quella che, tu hai amato di più? quella che ti piace di più
 PSB014	>dove ti trovi< <meglio:>?
 PSB034	niente
 PSB014	mh
@@ -584,7 +584,7 @@ PSB014	toscana firenze, sei andato?
 PSB034	m::h, lucca
 PSB014	[lucca? a::h]
 PSB033	[°ah okay°]
-PSB014	e com'è?, bella?
+PSB014	e com'è? bella?
 PSB033	mh[mh, ((ride))]
 PSB034	[poco ((ride))]
 PSB014	[((ride))]
@@ -626,7 +626,7 @@ PSB014	alfabeto arabo?
 PSB034	[sì]
 PSB014	[m::h]
 PSB033	°okay°
-PSB014	mhmh, behq,uindi: sai anche il f~, c(io)è, sai due alfabeti
+PSB014	mhmh, beh, quindi: sai anche il f~, c(io)è, sai due alfabeti
 PSB014	bello
 PSB014	e::, hai detto che abiti:: mh, qua vicino?
 PSB014	in che zona abiti, di bologna?
@@ -668,8 +668,8 @@ PSB014	[però l'auc~], [e::h]
 PSB034	[perché] non mi piace
 PSB014	no:?
 PSB014	però l'autobus:, c'è tante gente:, non mi piace neanche, quindi::
-PSB014	hai preso anche il treno, per caso?, treno
-PSB034	[sì]s,ì
+PSB014	hai preso anche il treno, per caso? treno
+PSB034	[sì], sì
 PSB014	mhmh, per andare nelle altre città?
 PSB034	sì
 PSB014	m:h, okay
@@ -703,14 +703,14 @@ PSB014	[ok]ay
 PSB014	però:, ti piacerebbe >andare a-<, altrove?
 PSB034	non capi°to°
 PSB014	ehm::
-PSB014	ti piacerebbe spostarti magari?, altra città?
+PSB014	ti piacerebbe spostarti magari? altra città?
 PSB034	m::h, no
 PSB014	no:?
 PSB034	no
 PSB014	nono [ok°ay°]
 PSB033	[me]glio qua, si sta bene qua
 PSB034	sì [((ride))]
-PSB014	[okay, e:hm:], >hai detto che hai provato< cibo italiano, m::h, ti piace quindi?, e::
+PSB014	[okay, e:hm:], >hai detto che hai provato< cibo italiano, m::h, ti piace quindi? e::
 PSB033	piatto preferito?
 PSB014	italiano
 PSB033	e la pasta:

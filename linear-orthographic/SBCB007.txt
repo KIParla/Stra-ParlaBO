@@ -554,7 +554,7 @@ PSB005	ah ieri okay
 ???	eh abbiamola carta d'identità della signora
 PSB005	scusa
 ???	ma
-PSB093	e codice fiscaleokay
+PSB093	e codice fiscale okay
 ???	sì sì
 PSB093	si può controllare
 PSB093	con carta d'identità codice fiscale sentire

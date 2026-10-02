@@ -132,7 +132,7 @@ PSB099	xxx però sarebbe bellissimo un tour dell'america latina
 PSB100	boh io (.) non lo so ti dico la verità torno a casa (.) lo sai come sono io posso anche eh domani ti dico facciamo un biglietto adesso ((ride))
 PSB099	io posso cioè l[o faccio xx]
 PSB100	[io torno eh de~] (.) torno a casa vedo (.) il costo
-PSB099	guardiamo l #kharita intanto
+PSB099	guardiamo l #xarīṭa intanto
 PSB100	eh
 PSB099	cioè tipo [i paesi che potremmo andare
 PSB100	[paesi che non sappiamo neanche dove] certi sono ((ride))
@@ -236,8 +236,8 @@ PSB099	cazzo ne so [io]
 PSB100	[ah] non c'è te lo sicuro
 PSB100	vai a vedere (.) skyscanner
 PSB099	cartagena
-PSB100	#ktbi 3i cartagena
-PSB099	no c'è cartagena xx c'è cartagena #fi #mirican c'è [cartagena xx]
+PSB100	#kətbi ʕa cartagena
+PSB099	no c'è cartagena xx c'è cartagena #fi-mīrīkān c'è [cartagena xx]
 PSB100	[ce ne vuole uno che:] vai
 PSB099	ce ne sono mille questo si chiama cartagena mille
 PSB100	vai
@@ -251,7 +251,7 @@ PSB100	[c'è (.) minchia]
 PSB099	ma[drid]
 PSB100	[ma]drid eh bogotà
 PSB100	x x x (.) x x x
-PSB100	#_ wajh-ek qāṣaḥ
+PSB100	#_ wajh-ək qāsiḥ
 PSB099	secondo [me uno diretto c'è (.) no perché abbiamo messo] oggi per ti pare? oggi te lo dà dir[etto]
 PSB100	[deve avere sempre ragione]
 PSB100	[e va b]ene va bene [hai ragione ca~]
@@ -320,7 +320,7 @@ PSB099	medellin cioè avevo guarda~
 PSB100	ah ah
 PSB099	medellin
 PSB100	vab[bè quella la fai] tranquillamente col pullman
-PSB099	[e sarebbe xata]?
+PSB099	[e sarebbe #xaṭā]?
 PSB099	esatto
 PSB099	e poi da medellin c'è se c'è il volo (.) si va a cartagena
 PSB099	da cartagena si va a barranquilla (.) che sta qua col [bus]
@@ -349,7 +349,7 @@ PSB099	eh ci sta
 PSB100	eh no okay
 PSB099	un'ora e quaranta
 PSB100	ma io dico per questo
-PSB099	#hadik #gelna #lik il volo
+PSB099	#hādīk #gəlna #lī-k il volo
 PSB100	il volo ma (.) eh probabilmente potrebbe anche dirti torna a bogotà e poi sali e sali
 PSB099	cosa non ho capito
 PSB100	da medellin (.) all'altra ti può anche dirti devi tornare a bogotà

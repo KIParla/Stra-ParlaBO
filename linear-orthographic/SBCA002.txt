@@ -30,7 +30,7 @@ PSB085	mh
 PSB084	diventa fredda
 PSB083	mangiamo
 PSB084	mh
-PSB084	#t-wassxeh #sirwal-ek #b-l #b~ sugo
+PSB084	#ʕand-ək #twassəx #sirwāl-ək #b-l #b~ sugo
 PSB084	gli ho detto non sporcare i pantaloni con sugo perché non va via eh
 PSB085	ah eh
 PSB083	e allora
@@ -493,9 +493,9 @@ PSB085	mh
 PSB084	mh e e li dentro sono tutti camerieri marocchini
 PSB083	proprio da #hammam proprio #hamman ha la spa
 PSB084	no no eh no è una cosa antica del
-PSB083	però è tipo #hammam
+PSB083	però è tipo #ḥammām
 PSB085	xx
-PSB084	sì #hammam da noi però questo è un bagno turco
+PSB084	sì #ḥammām da noi però questo è un bagno turco
 PSB083	ma non era una un le terme o una
 PSB084	le terme no le terme volevo dire
 PSB085	sì sì sì no io avevo capito
@@ -623,8 +623,8 @@ PSB083	faceva i mille e cinque
 PSB084	mh
 PSB085	ehm
 PSB083	com'è che si chiama guerrouji di nome
-PSB084	#_ wallah ma 3qalt ma bqa-sh 3and-i l-3qal
-PSB084	#_ ma 3art
+PSB084	#_ waḷḷāh ma-ʕqalt ma-bqā-sh ʕand-i l-ʕqal
+PSB084	#_ ma-ʕart
 PSB083	non è #hmed
 PSB084	no
 PSB084	ah vai su google
@@ -695,7 +695,7 @@ PSB084	con la je je
 PSB083	con la je je cosa vuol dire
 PSB084	la je
 PSB083	cosa vuol dire
-PSB084	la je di jennifer a~ #luxra #li #dāyra-ha
+PSB084	la je di jennifer a~ #l-uxra #lli #dāyra-ha
 PSB083	la gi di genova
 PSB084	eh
 PSB084	no

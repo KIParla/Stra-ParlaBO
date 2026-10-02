@@ -306,8 +306,8 @@ PSB014	((ride))
 PSB033	[cer]to
 PSB014	ma eh eh in cina fa fa più caldo o più freddo di [qua]?
 PSB035	[e:h] quasi: più caldo
-PSB014	[più caldo?]
-PSB033	[più caldo?]
+PSB014	[più caldo]?
+PSB033	[più caldo]?
 PSB035	[xx] in cina caldo dopo qui (.) differenza un po
 PSB033	mhmh
 PSB035	in cina un po' umido

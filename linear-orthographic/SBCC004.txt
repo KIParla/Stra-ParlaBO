@@ -72,7 +72,7 @@ PSB105	e poi cioè volevo comprare una bottiglia d'acqua e poi cioè loro anche 
 PSB105	e quindi
 PSB105	e quindi ho detto
 PSB104	xx
-PSB105	#_ eh je veux je v~ acheter eh l'eau ((ride))
+PSB105	#_ eh je veux je v~ acheter eh l'eau
 PSB105	e poi mi hanno dato un litro d'acqua
 PSB105	eh no no no
 PSB104	ah
@@ -85,7 +85,7 @@ PSB105	strategia
 PSB104	beh e per beh gli hai chiesto effettivamente detto così come me l'hai detto tu gli v gli hai chiesto proprio gli hai chiesto proprio che volevi dell'acqua
 PSB104	perché se no eh dovevi chiedere
 PSB105	sì
-PSB104	#_ je peux aller à la toilette (.) où se trouve la toilette
+PSB104	#_ je peux aller à la toilette où se trouve la toilette
 PSB105	sì ma dovevo comprare qualcosa per per poter usare
 PSB105	no
 PSB104	beh non necessariamente cioè sì è buon uso in realtà
@@ -234,7 +234,7 @@ PSB104	cioè se effettivamente se tipo anche in francese se tu dici #excité
 PSB104	cioè #excité è come cioè
 PSB105	ah sì sì
 PSB104	è #horny
-PSB105	#_ cachonda
+PSB105	#cachonda
 PSB104	eh
 PSB104	sai che io lo spagnolo a me dispiace perché oggi ragionavo e io ho fatto cinque anni perché l'ho fatto alle superiori
 PSB105	ahah
@@ -390,7 +390,7 @@ PSB104	ah capito
 PSB104	capito
 PSB104	beh però interessa~ ma tu l'hai scelto l'italiano per una questione di crediti o perché ti interessava
 PSB105	eh mh per questione di crediti
-PSB104	fai if i have to say
+PSB104	fai #_ if i have to say
 PSB104	era per crediti
 PSB104	però mh
 PSB105	però ero fortunata sai perché
@@ -643,7 +643,7 @@ PSB104	del resto le donne picchiate i bambini traumatizzati
 PSB105	eh
 PSB105	ecco perché ho il dis~
 PSB105	eh #dis- -order
-PSB105	#_ antisocial
+PSB105	#antisocial
 PSB105	perché secondo me non è che io sono malata è che la società è malata
 PSB104	ah beh sì sì sì sì sì cioè alla fine se
 PSB104	ehm un bambino viene constantemente picchiato in questo modo se ha un qualsiasi tipo di reazione che non è conforme a quelle che vuole qualcuno
@@ -1353,10 +1353,10 @@ PSB104	eh mh
 PSB104	carriera quindi ad esempio non so avere gli stessi titoli di studio e av~ a~ mh
 PSB104	avendo come ambizione la stessa posizione di lavoro
 PSB104	okay
-PSB105	#_ glass ceiling ((ride))
+PSB105	#_ glass ceiling
 PSB104	e
 PSB104	mh
-PSB105	#_ glass (.) ceiling
+PSB105	#_ glass ceiling
 PSB104	il eh il eh il eh
 PSB104	come si dice
 PSB104	il soffitto a ve~
@@ -1372,8 +1372,8 @@ PSB105	sì
 PSB104	no mai senti~
 PSB105	cioè le donne guadagnano meglio
 PSB104	no secondo me intende il #gap
-PSB105	#_ cap
-PSB104	#_ gap
+PSB105	#cap
+PSB104	#gap
 PSB104	di solito si parla di #gender #gap
 PSB105	no
 PSB104	di solito si va s~ di solito si parla di #gender #gap nel senso che

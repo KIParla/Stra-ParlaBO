@@ -287,7 +287,7 @@ PSB020	il e:hm:
 PSB020	dove (.) seppellivano [le] (.) le perso[ne]
 PSB005	[sì]
 PSB005	[un] cimitero
-PSB005	un cimitero [mh.]
+PSB005	un cimitero [mh]
 PSB020	[sì però anti]co non sarà un cimitero perché non sapevano che lì c'era il eh
 PSB005	e::h
 PSB005	c(io)è è un luogo di s~ (.) eh non lo so neanche io vedi
@@ -645,7 +645,7 @@ PSB005	[no]?
 PSB005	[sì ah >sì sì] sì< [questi sì]
 PSB020	[#pierogi] da noi si chiam(ano) (.) perché abbiamo diversi nomi ma una cosa più: abbastanza (.) dicia(mo) abbastanza simi[le]
 PSB005	[son] buoni
-PSB020	#pierogi, che noi chiamiamo (.) son buoni e come qui tipo ravioli non: però:
+PSB020	#pierogi, che noi chiamiamo #varényky (.) son buoni e come qui tipo ravioli non: però:
 PSB005	sì °mh [non è proprio uguale°]
 PSB020	[però non non fa~] (.) la pasta è diver[sa]
 PSB005	[mh]mh

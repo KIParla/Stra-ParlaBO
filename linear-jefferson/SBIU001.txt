@@ -954,7 +954,7 @@ PSB007	[IO HO STUDIATO IN RUSSO]
 PSB007	[russo in russo]
 PSB007	[per me] in russo [sì]
 PSB005	[sì]
-PSB005	e poi c'era (.) una materia che si chiamava ucraino:, e [imparavate l'ucr]aino: [okay]
+PSB005	e poi c'era (.) una materia che si chiamava ucraino:, e [imparavate l' ucr]aino: [okay]
 PSB007	[certo] (.) [lingua u]craina e[::]
 PSB005	[sì]
 PSB007	c'era anche la materia lingua russa,
@@ -1451,7 +1451,7 @@ PSB007	io devo
 PSB007	concentrarmi non solo sulla lingua ma anche sull'argomento, dico di che cosa parli[amo:], devo::
 PSB005	[mhmh]
 PSB007	e:h fare le domande che mi:: (.) perché è la mia [salute:],
-PSB005	[giusto (:) sì] sì
+PSB005	[giusto (.) sì] sì
 PSB005	certo
 PSB007	se sbaglio:
 PSB007	qualcosa:, dopo non si può come: si può [recuper]are:,

@@ -1,30 +1,30 @@
 PSB125	#_
-PSB126	#hād #hād #inshāllāh #l-maghrib #ghādi #dīr #lī-ha matrimonio casa una festic~ una festi~ festicciola
-PSB125	eh
-PSB125	#_ wash f-l-maghrib wla fī ṭalyān?
-PSB126	no #fī #l-maghrib #fī già #dārt-o #fī già #dārt-o
-PSB125	#_ f-l-maghrib
-PSB125	#fi-dar #dyal eh a casa di #tata #wla
+PSB126	#hād #l-ʕām #hād #l-ʕām #inshāḷḷāh #nhbǝṭu #l-l-maghrib #ghādi #ddīr #lī-ha matrimonio casa una festic~ una festi~ festicciola
+PSB125	#_ wāsh eh
+PSB125	#_ wāsh f-l-maghrib wla fī ṭ-ṭalyān
+PSB126	no #fī #l-maghrib #fī #ṭ-ṭalyān già #dārtu #fī #ṭ-ṭalyān #ṭ-ṭalyān già #dārtu
+PSB125	#f-l-maghrib
+PSB125	#fi-dār #dyāl eh a casa di #tātā #wla
 PSB126	eh
-PSB126	casa #dyal #tata-k
+PSB126	casa #dyāl #tātā-k
 PSB126	una piccola fe~ festa
-PSB125	#_ bqā 3and-ha deuxième hiya
+PSB125	#_ bqā ʕand-ha deuxième hīya
 PSB126	mhmh
-PSB126	#t-inviti eh #nas #l-maghrib
-PSB125	ehm invece #huwa #fīn #ki-skun #f-l-maghreb
-PSB126	#_ xx
-PSB126	#_ huwa f-eh hāda f-qnītra f-qnītra
+PSB126	#tinviti eh #n-nās #tāʕ #l-maghrib #w-ṣḥāb-ha #w-l-ʕaʕila
+PSB125	ehm invece #hūwa #fīn #ka-yskun #f-l-maghrib #ḥdā-na
+PSB126	#xx
+PSB126	#_ hūwa f-eh hāda f-qnīṭra f-qnīṭra
 PSB125	quindi vicino o no
 PSB126	sì vicino a casablanca
 PSB125	ah okay
-PSB126	eh #hna #ki #shfti #dārat #dārat la festa di matrimonio però manca quella del marocco
-PSB126	eh #n-hdru #inshāllāh #w~ #t-kūn-i #nti #ashmǝn vestito #t-shri vestito
+PSB126	eh #hna #f-ṭ-ṭalyān #ki #shəfti #dārt #dārt la festa di matrimonio però manca quella del marocco
+PSB126	eh #ḍarūrī #xāṣṣ-na #nḥḍru #inshāḷḷāh #w~ #ḥtta #tkūni #nti #ashmǝn vestito #xāṣṣ-k #tshri vestito
 PSB125	quello di sempre quello
 PSB126	no no uno nuovo
-PSB125	a me non piacciono #ma #ki
-PSB126	no hāga jdīda
+PSB125	a me non piacciono #ma #ki #ma-ʕjab-ni-sh
+PSB126	no #ḥāja #jdīda
 PSB125	no no quello di sempre cioè
-PSB126	no no no #hāduk #bī-hom #hnāyā
+PSB126	no no no #hāduk #ḥḍarti #bī-hum #hnāya
 PSB125	no
 PSB125	no no
 PSB126	li hai indossati qua non non si può
@@ -32,8 +32,8 @@ PSB125	tanto i ves~ vestiti che voglio mettere io non si possono mettere quindi 
 PSB125	t~ te l'ho anche detto
 PSB126	vuoi mettere quelle scollate quelle nude
 PSB126	eh
-PSB126	#_ 3aryānīn?
-PSB126	w-bābā-k
+PSB126	#_ ʕaryānīn
+PSB126	#_ nti w-bābā-k
 PSB125	eh
 PSB125	quando sei andata in marocco e mi hai detto vai scegli e ti ho detto non me ne frega niente scegl~ cioè sceglin~ sc~ scegli te
 PSB126	no però xx lo metti tu
@@ -43,7 +43,7 @@ PSB126	non ti piace il kaftano
 PSB126	che gira che gira tutto il mondo
 PSB125	non mi pia~
 PSB125	no tipo quello marocchino non mi cioè ci sono quelli belli
-PSB126	il kaftano #f-l-maghrib
+PSB126	il qafṭān #maʕrūf #f-l-maghrib
 PSB125	no ci sono
 PSB125	ci sono quelli belli che però costano tanto
 PSB126	eh eh quelli costano
@@ -60,12 +60,12 @@ PSB125	appu~ cosa ti sto cosa ti sto dicendo cosa ti sto dicendo
 PSB126	eh
 PSB125	i kaftani che compri te che compri eh non son belli cioè non sono neanche di buona qualità
 PSB125	ma sono anche molto semplici cioè non c'è niente da vedere
-PSB126	ma sei una ragazzina ci vuole eh eh una cosa semplice
+PSB126	ma sei una ragazzina ci vuole eh eh #xāṣṣ-k #ḥāja una cosa semplice
 PSB125	sì una ragazzina ho ventidue anni
 PSB126	eh una ragazzina
 PSB125	quindi o un bel kaftano che proprio si ve~ cioè è proprio bello ha del particolare è bello se no non lo metto
 PSB125	perché non non mi piace preferisco mettermi un altro vestito
-PSB126	#mā eh eh #qdar-sh #n-shri #lī-k #dyāl mille euro
+PSB126	#mā eh eh #qdar-sh #nshri #lī-k #dyāl mille euro
 PSB125	però appunto
 PSB125	ma non non non lo voglio neanche
 PSB125	non lo voglio neanche bisogna mettersi i kaftani ai matrimoni marocchini va bene
@@ -78,7 +78,7 @@ PSB126	una tradizione non è una regola una tradizione
 PSB125	ho cap~
 PSB126	nostra
 PSB125	ma allora mamma
-PSB126	#_ _fī 3rǝs-na dāyman kan dīru l-qaftān dāyman l-qaftān f-3rǝs-na
+PSB126	#_ fī ʕrǝs-na dāʔiman kān ydīru l-qafṭān dāʔiman l-qafṭān f-ʕrǝs-na
 PSB126	qualsiasi matrimonio trovi tutti in~ indossare il kaftano
 PSB125	va bene va bene va bene okay bisogna per forza mettersi il kaftano però
 PSB126	non per forza la tradizione la tradizione
@@ -116,9 +116,9 @@ PSB125	mh
 PSB125	vabbè
 PSB125	quindi
 PSB126	e quindi non so cosa ti dico
-PSB125	no eh dyal
-PSB126	#_ eh l-3rs dyāl @sara n-dīru-h xāṣ-na n-hdru inshāllāh xāṣ ki t-lbsi inshāllāh xāṣ ki
-PSB126	eh #ta-huwa un costu~ un un
+PSB125	no eh #_ l-ʕars dyāl
+PSB126	#_ eh l-ʕrs dyāl ndīru-h xāṣṣ-na nḥḍru inshāḷḷāh xāṣṣ-k təlbsi inshāḷḷāh xāṣṣ-k
+PSB126	eh #xāṣṣ #tta hūwa un costu~ un un
 PSB125	sì vabbè
 PSB126	un ehm smog
 PSB126	dobbiamo comperare pure
@@ -152,7 +152,7 @@ PSB126	speriamo
 PSB126	eh si spera sempre
 PSB125	speriamo eh
 PSB125	lu~
-PSB126	mn llāh
+PSB126	#_ tmannāw mn ḷḷāḥ
 PSB125	lui può non venire al matrimonio però io sono obbligata
 PSB126	se tu non vuoi venire
 PSB126	non
@@ -162,7 +162,7 @@ PSB126	cosa ti dico
 PSB125	no non è quello
 PSB126	no no se tu n~ si n~ si tu non vuoi andare al marocco ne~ nessuno ti obbliga
 PSB125	eh mamma ma non rispondere adesso stiam parlando
-PSB126	#_ xallī-ha t-ghāwt
+PSB126	#_ xallī-ha tghāwt
 PSB125	no eh metti silenzioso cioè togli il coso eh
 PSB125	no non è quello il p~ cioè abbiamo già parlato di questo
 PSB126	no si
@@ -181,84 +181,84 @@ PSB126	se voi due non volete andare
 PSB126	amen
 PSB126	però anch'io non non non vado non vado tutti gli anni da sola ecco
 PSB126	se volete venire con me va bene
-PSB126	#n-mshiw #n-mshiw tutti insieme
-PSB126	#_ _n-hdru inshāllāh l-3rs
+PSB126	#nmshīw #nmshīw tutti insieme
+PSB126	#_ nḥḍru inshāḷḷāh l-ʕrs
 PSB126	e poi
 PSB125	e invece in egitto vuoi andarci quest'anno
 PSB126	no l'egitto no l'egitto è perché
 PSB126	è queste queste
 PSB126	non sappiamo ancora cosa succ~ cosa succede da qui fin
-PSB125	#_ māmā hḍrī:: hḍrī 3ādi za3ma
-PSB126	#_ eh ana kan ḥḍar 3ādi 3ādi
-PSB125	#_ ma kat ḥaḍri-sh b-l-3arabiya bezzaf b-ṭalyāniyya bzzāf mn-i (.) kan kun ghir ana
-PSB126	#_ la ana kan ḥḍar ghīr b-ṭalyāniyya bzzāf
+PSB125	#_ ṃ āṃā hḍrī hdrī ʕādi zaʕma
+PSB126	#_ eh āna kān nhdar ʕādi ʕādi
+PSB125	#_ ma- ka-thadri-sh b-l-ʕarabiya bəzzāf b-ṭ-ṭalyāniyya bəzzāf mn-i kān kūn ghīr āna
+PSB126	#_ la āna kān nhdar ghīr b-ṭ-ṭālyāniyya bzzāf
 PSB125	mh
-PSB126	#_ _īwa huwa bnīt-i ma-bghīt-i-sh t-mshi ash-bghīt-i n-dīr lī-k
+PSB126	#_ īwa hūwa bnīt-i ma-bghīti-sh tmshi ash bghīti ndīr lī-k
 PSB126	a me l'egitto
 PSB126	un'altra
-PSB126	#_ inshāllāh (.) īla bghā llāḥ
-PSB126	li-anna t-qdar t-kūn lharb
+PSB126	#_ inshāḷḷāh īla bghā ḷḷāh
+PSB126	#_ liʔanna liʔanna tqdar tkūn l-ḥarb
 PSB125	vabbè
-PSB126	#_ t-qdar t-kūn eh
+PSB126	#_ tqdar tkūn eh
 PSB125	in che senso scusa
 PSB126	guerra non sappiamo dicono così
 PSB126	dicono non sappiamo eh
-PSB126	#_ ma3fnash wash bessah ula (.) ula ghir kdub ula ghir ki
-PSB126	#_ ma 3rǝf-na-sh
-PSB126	#_ w-mǝn tǝmma ihannīllāḥ
-PSB126	#_ ana bghīt n-mshi m3ā-kum bghīt n-mshiw eh b-tlāta bī-na n-mshiw (.) inshāllāh l-maghrib (.) t-shūf-hu dār-kum (.) xxx fī-ha shwiya inshāllāh
+PSB126	#_ ma-ʕrafnā-sh wāsh b-ssāḥḥ wla wla ghīr kdūb wla ghīr ki
+PSB126	#_ ma-ʕrǝfna-sh
+PSB126	#_ w-mǝn tǝmma yhannī ḷḷāh
+PSB126	#_ āna bghīt nmshi mʕā-kum bghīt nmshīw eh b-tlāta bī-na nmshīw inshāḷḷāh l-maghrib tshūfu dār-kum xxx fī-ha shwiyya inshāḷḷāh
 PSB125	vabbè
-PSB126	eh sì #īh #lā #ana #ma #ghan #ghulsh #li-kom tutti gli anni andiamo però #īh #lā
-PSB126	pure a #īh due anni no
+PSB126	eh sì #ʕām #iyyəh #w-ʕām #lā #āna #ma-gha-nghūl-sh #li-kum tutti gli anni andiamo però #ʕām #iyyəh #w-ʕām #lā
+PSB126	pure a #ʕām #iyyəh due anni no
 PSB125	mh
-PSB126	#_ īh w-ṣāfī (.) n-tmannāw mǝn llāḥ inshāllāh w (.) n- n-tmannāw mǝn llāḥ @lsaid ta-huwa y-zāwj (.) w-nti tanti zāwj-i inshāllāh mǝn t-kammli qirāy-tik īla kammalti-ha inshāllāh (.) w-t-xdmi
-PSB126	#_ dīrī ṭūmūbīl, dāwzī pīrmī dīrī ṭūmūbīl inshāllāh
-PSB125	kat hadri ma
-PSB126	#mǝrra #mǝrra #dāba #mǝnni #zwǝjjat troppo impegnata mh
-PSB126	#_ _ma-bqīnā-sh, ma-bqīnā-sh n-tsām3ū bzzāf kīma kānat
+PSB126	#_ iyyəh w-ṣāfī ntmannāw mǝn ḷḷāh inshāḷḷāh w n- ntmannāw mǝn ḷḷāh tta hūwa yzawwəj w-nti tta nti tzawwəji inshāḷḷāh mǝn tkammli qirāyt-ik īla kammalti-ha inshāḷḷāh w-txdmi
+PSB126	#_ ddīrī ṭūmūbīl ddāwzī pīrmī ddīrī ṭūmūbīl inshāḷḷāh
+PSB125	#maʕ-ak ka-thadri mʕa
+PSB126	#mǝrra #mǝrra #dāba #mǝn #zwǝjjat troppo impegnata mh
+PSB126	#_ ma-bqīnā-sh ma-bqīnā-sh ntsāmʕu bzzāf kīma kānat
 PSB125	sei andata a casa sua
 PSB126	eh
 PSB125	sei andata a casa sua
 PSB126	no #la
-PSB126	#_ bāqī ma-mshīnā-sh bāqī mā shrāt-sh ṭabla b-krāsh-a bāqā
-PSB126	#_ bāqā ma-ṣāwbā-t-sh dār come si
-PSB126	#bāqā non è pronta
+PSB126	#_ bāqī ma-mshīnā-sh bāqī mā-shrāt-sh ṭabla b-krās-a bāqā
+PSB126	#_ bāqā ma-ṣāwwbat-sh d-dār come si
+PSB126	#bāqa non è pronta
 PSB125	e con e #bnāt-ha
 PSB125	ancora ti senti
-PSB126	#_ @fatima l-3umra mshāt l-ḥajj mshāt l-3arabiyya sau~
+PSB126	#_ l-ʕumra mshāt l-ḥajj mshāt l-ʕarabiyya sau~
 PSB125	ma quindi cioè il rapporto com'è tra te e
 PSB126	parla anche tu arabo eh
-PSB126	#shuft-ek #ana tu mai impari larabo
-PSB126	#īla #bqīt-i #hakkā italiano italiano italiano
-PSB125	#kan #kan #n-hdar #shwiya se no #hādī #ma-kat-fham #ta #shi #gālit #lī-ya anche in italiano
+PSB126	#ḥaqqāsh #shuft-ək #āna #ma-ka-thdrī-sh #b-l-ʕarbiyya #ʕammr-ək #ʕādi #tʕallmi tu mai impari larabo
+PSB126	#īla #bqīt-i #bḥāl #hākka #thdrī italiano italiano italiano
+PSB125	#kān #kān #xāṣṣ-ni #ḍārūrī #nhdar #shwiyya #b-ṭ-ṭalyāniyya #ḥīt se no #hādi #ma-ka-təfham #tta #shi #ḥāja #gālat #lī-ya #hdri anche in italiano
 PSB126	eh eh
-PSB126	shtish kunt kannhdr btalyāniyya nti gūlt-i lī-ya lā mathdrīsh btalyāniyya
-PSB125	#la #nti #ana #ta #ana #ana #bzzāf eh #kan nhdr come tutti i giorni
-PSB125	#fham-ti #bes la cosa poi mh #kat #ban eh
+PSB126	#_ ma-shtī-sh kunt ka-nəhdr b-ṭ-ṭalyāniyya nti gūlti lī-ya lā ma-thdrī-sh b-ṭ-ṭalyāniyya
+PSB125	#la #zaʕma #nti #hdrī #ʕādi #āna #tta #āna #xāṣṣ-ni #ʕādi #āna #ma-ka-nhdrī-sh #bzzāf eh #b-l-ʕrǝbiyya #yaʕnī #ka-nəhdər #ʕādi come tutti i giorni
+PSB125	#fhamti #bass la cosa poi mh #zaʕma #ka-tbān eh
 PSB126	mh
-PSB125	#_ kat ban
-PSB126	#n-tmannāw #mǝn #n-tmannāw #mǝn #y-kūn #khīr #inshāllāh #w #hād #jdīd #alfayn venticinque #y-kūn #inshāllāh
-PSB125	quindi #ma #kat
-PSB126	#_ ma-kan hḍr-sh m3ā-hom
-PSB125	#_ safi
-PSB126	#_ m3ā men
-PSB125	#_ ma3a @fatima bnat-ha
-PSB126	gūlt lī-k hiyya flǝmra
-PSB125	sì ma
+PSB125	#_ ka-tbān
+PSB126	#ntmannāw #mǝn #ḷḷāh #ntmannāw #mǝn #ḷḷāh #ykūn #xīr #inshāḷḷāh #w #hād #l-ʕām #jdīd #alfayn venticinque #ykūn #inshāḷḷāh
+PSB125	quindi #ma-kat-hadri-sh #mʕa-hum
+PSB126	#_ ma-ka-nhdər-sh mʕa-hum
+PSB125	#_ ṣāfi
+PSB126	#_ mʕa mən
+PSB125	#_ mʕa bnāt-ha
+PSB126	#_ iyyəh gūlt lī-k hiyya f-l-ʕǝmra
+PSB125	sì #_ f-l-ʕərs ma-
 PSB125	ma non ha invitato l~
 PSB125	ah mamma cioè ha invitato
 PSB125	tutte le sorelle
 PSB126	mh
 PSB125	le le figlie di tranne quella che gli stava
 PSB125	antipatica
-PSB126	no non è quello non è #ma-shi #hadak #huwa #l-moshkil
+PSB126	no non è quello non è #māshi #hādak #hūwa #l-mushkil
 PSB125	beh
 PSB125	inviti
 PSB126	è il ristorante non possiamo eh invitare tanta gente
 PSB126	è ristorante costa
 PSB126	eh non è come
-PSB126	#_ _bḥāl l-3rǝs lli f-l-maghrib l-3rǝs lli kay-kūnu hnāya f-l-qā3a; nās kāmʿ-hā kat-ākul kat (.) qḍrī dī ṣḥāb-t-ek, qḍrī dī
-PSB126	#amma #l il ristorante costa alla persona
+PSB126	#_ bḥāl l-ʕrǝs lli f-l-maghrib l-ʕrǝs lli ka-ykūnu hnāya f-l-qāʕa; n-nās kāmʕ-ha ka-tākul ka-t tqdri ddī ṣḥābt-ək tqdrī ddī
+PSB126	#amma #l-il ristorante costa alla persona
 PSB126	non p~ tu non puoi invitare più di venti uo~ venti venticinque persone
 PSB126	se no
 PSB126	un bordello
@@ -278,7 +278,7 @@ PSB125	eh buonissimi solo che appunto cioè eravamo stra
 PSB125	avevamo mangiato troppo
 PSB125	eh eravamo già tutti pieni
 PSB125	quindi
-PSB126	però #dāz #zwīn
+PSB126	però #dāz #ʕand-ha #zwīn
 PSB125	boh cioè sì normale
 PSB126	il giorno della chiesa
 PSB126	quello più bello
@@ -286,16 +286,16 @@ PSB125	eh
 PSB126	eh del comune mi sempre
 PSB126	mi confondo con la chiesa e il comune
 PSB126	il giorno del comune
-PSB126	#_ shḥāl dāz zwīn 3and-ha w-kān hādāk nhār ṣabbat shta subḥānallāḥ
+PSB126	#_ shḥāl dāz zwīn ʕand-ha w-kān hādāk nhār ṣabbat shta subḥānaḷḷāh
 PSB126	eh
-PSB126	#_ l-3ugba lī-k inshāllāh
-PSB126	#_
+PSB126	#_ l-ʕujba lī-k inshāḷḷāh
+PSB126	#_ inshāḷḷāh
 PSB125	però mamma mia cioè
 PSB125	che dio mi perdoni però quella bambina
 PSB126	quale
 PSB125	quella bambina
 PSB125	dai la neonata la bambina
-PSB126	no era #zwina
+PSB126	no era #zwīna
 PSB125	mamma
 PSB125	ma cosa stai dicendo ma l'hai vista
 PSB126	l'ho vista
@@ -310,7 +310,7 @@ PSB125	no vabbè che dio mi perdoni però
 PSB126	no no
 PSB125	ma aveva il mono~ il d~ eh il monociglio
 PSB125	ave~ i baffetti il monociglio era stra pelosa
-PSB126	#xxxx xx tantii capelli #ma #ma #wlīdāt xx
+PSB126	#xxxx xx tantii capelli #ma #ʕammr-ək #ma #ma-thdrī-sh #ʕla #ūlīdāt #ṣghār #yaʕni xx
 PSB125	eh
 PSB125	no vabbè lo so mi dispiace però era talmente
 PSB125	poco insomma
@@ -321,17 +321,17 @@ PSB126	ma non eh non
 PSB125	li guardi anche se sono particolarmente brutti
 PSB125	no allora mamma ci sono delle persone che da bambini sono brutti e poi crescono e s'aggiustano va bene
 PSB126	no
-PSB126	#drārī #kull-hum #zwīnīn tutti belli
+PSB126	#d-drāri #ṣ-ṣghār #kull-hum #zwīnīn tutti belli
 PSB125	poi ci sono quelli che sono sempre stati belli o quelli che erano belli solo da piccoli e poi son peggiorati
 PSB126	tutti
 PSB125	però oggettivamente ti sto dicendo la bambina era cioè
 PSB125	cioè
-PSB126	assomi- #kat-shbah b-bābā-ha
+PSB126	assomi~ #ka-tshbah #ḅāḅā-ha
 PSB125	no la mamma
-PSB126	che mamma #kat-shbah b-bābā-ha
+PSB126	che mamma #ka-tshbah ḅāḅā-ha
 PSB125	ma il il papà era quello pelato
 PSB126	è tutta suo padre
-PSB126	no quello eh con #xāl
+PSB126	no quello eh con #shʕār #xāl
 PSB125	ah boh
 PSB125	perché c'era
 PSB125	ah pensavo fosse lui
@@ -341,20 +341,20 @@ PSB126	eh
 PSB125	quella che sembra un po' tipo persiana il naso
 PSB126	eh sta alta
 PSB126	no di xx grande più bassa
-PSB126	#_ l-qsira
+PSB126	#_ l-qṣīra
 PSB125	l'altra era quella vestita con ehm il gilet
-PSB126	hāzza bǝnt-ha
+PSB126	#_ kānt hāzza bǝnt-ha
 PSB125	no
 PSB125	vabbè
-PSB126	#_ iwa kānt hāzza bǝnt-ha
+PSB126	#_ īwa kānt hāzza bǝnt-ha
 PSB125	però le sorelle cioè
 PSB125	tipo sembrano
 PSB125	non sembrano neanche marocchine vero sembrano tipo persiane
 PSB125	tipo
-PSB125	#_ mǝn s3ūdiyya
+PSB125	#_ mǝn s-suʕūdiyya
 PSB125	non so il naso gli occhi poi il fatto che sono tanto pelose
 PSB126	la bocca quella l'ha già fatta la bocca
-PSB126	#_ fūm-ha l-uxra l-kbīra l-grande
+PSB126	#_ fəm-ha l-uxra l-kbīra l-grande
 PSB125	in che senso la bocca
 PSB126	cioè gonfia gonfiato le labbra
 PSB125	no non sto dicendo la bocca sto dicendo il naso gli occhi i capelli
@@ -365,12 +365,12 @@ PSB126	però
 PSB126	la bocca
 PSB126	e
 PSB125	vabbè quella non l'ho notata io ho notato solo gli occhi e il naso
-PSB126	#_ walakin eh l-ṣghīra
+PSB126	#_ wālākīn eh l-ṣghīra
 PSB126	la mamma della bambina no quella non è rifatta
 PSB126	niente
 PSB125	ma no ma non sto dicendo che son rifatte
 PSB126	è naturale
-PSB126	lo so tu stai parlando #gīlt-i #ki #shbhu l-persiani #gīlt-i #lī-k #hāduk #qnanef #kull-hom #hāduk #lli #kaynīn #f-l-khaleej #kull-hom #qnanef-hom
+PSB126	lo so tu stai parlando #gəlti #ka-yshbhu l-persiani #gəlti #lī-k #ḥaqqāsh #ʕand-hum #hādūk #qnānəf #ḥīt #kull-hum #hādūk #lli #kāynīn #f-l-xalīj #kull-hum #mʕammrīn #qnānəf-hum
 PSB125	ma no allora m~
 PSB125	non sta in quello ti sto dicendo
 PSB126	no ma forse o~ capisco l'italiano forse
@@ -430,24 +430,24 @@ PSB125	vabbè io ti sto dicendo che loro mi sembrano mi sembrano da da come da c
 PSB126	eh da come eh iraniane sì
 PSB126	però sì ti
 PSB125	dalle fattezze
-PSB126	gīlt lī-k ki t-shbhu
+PSB126	#_ āna gəlt lī-k ka-ytshbhu
 PSB125	non mi sembrano
-PSB125	#_ ah
-PSB126	#mǝrra #tlaqīt iraniana #kunt #mshīt #l-mondo convenienze #l-cuzina #wāhda #xaddāma #tim
-PSB126	#ana #kunt #tsenna #xǝrt #nakhud trenta #w~ #bǝrka #f-l-fermata #hiyya #ta-hiyya #xaddāma #tǝmma #xǝrjat #kat-shīd l-fermata
-PSB126	#_ bqāt kat-shūf fī-ya
-PSB126	#_ _bqāt kat-shūf fī-ya gālǝt lī-ya
+PSB125	#_ āh
+PSB126	#mǝrra #tlaqīt #mʕa iraniana #kunt #mshīt #l-mondo convenienze #ʕla #l-cuzina #wāhda #xaddāma #təmm
+PSB126	#āna #kunt #tsənna #xǝdt #naxud trenta #w~ #bǝrka #f-l-fermata #hiyya #tta hiyya #xaddāma #tǝmma #xǝrjāt #ka-tshidd #mʕā-ya l-fermata
+PSB126	#_ bqāt ka-tshūf fī-ya
+PSB126	#_ bqāt ka-tshūf fī-ya gālǝt lī-ya
 PSB125	ha pensato che tu fossi persiana
 PSB126	eh xx da dove sei
-PSB126	io #gīlt #lī-ha #rāni #maghribiyya
-PSB126	#āh #gālǝt #lī-ya #āh #hnā #kull-na #zwīnīn #w~ #hiyya #zwīna #w~ lei è bella
+PSB126	io #gəlt #lī-ha #ṛā-ni #maghribiyya
+PSB126	#āh #gālǝt #lī-ya #āh #ḥna #kull-na #zwīnīn #w~ #fəʕlān #hiyya #zwīna #w~ #fəʕlān lei è bella
 PSB125	vabbè ma perché cioè t'ha visto che c'hai
 PSB126	gli occchi xx grande gli eh capelli gr~ neri
 PSB126	una bella una bella ra~ una donna donna
 PSB125	ma perché t'ha t'ha visto che c'hai c'avevi il velo quindi ha pensato
 PSB126	sì eh
 PSB126	i~ eh lo so che sono musulmana però da dove eh
-PSB126	#gīlt-lī-ha #l-maghrib #āh #gālǝt #lī-ya anche il #maghrib siete belli siete così
+PSB126	#sawwlət-ni #gəlt-lī-ha #l-maghrib #āh #gālǝt #lī-ya anche il #maghrib siete belli siete così
 PSB125	vabbè
 PSB126	ci somigliamo tanto
 PSB125	vabbè sì ci assomigliamo però cioè ti sto dicendo cioè
@@ -459,7 +459,7 @@ PSB125	no ma niente no niente di male ti sto solo dicendo
 PSB126	ognuno bello di suo
 PSB126	o~ siamo tutti belli
 PSB125	ti sto solo dicendo
-PSB126	xx #zwinx
+PSB126	xx #zwīnx
 PSB126	tutti esseri umani belli
 PSB125	punto
 PSB125	punto ti s~ ti stavo solo dicendo
@@ -469,11 +469,11 @@ PSB126	c'è chi è bello poco c'è chi è bello tanto c'è chi è medio c'è chi
 PSB125	chissà poi come verranno fuori i bambini
 PSB126	quali bambini
 PSB125	di e
-PSB126	#_ īh y-kūnu zwīnīn 3lāsh mā-l-hom
+PSB126	#_ iyyəh ykūnu zwīnīn ʕlāsh māl-hum
 PSB125	mah non lo so
-PSB126	#_ @sara ma-bī-ha-sh
+PSB126	#_ ma-bī-ha-sh
 PSB125	non lo so eh
-PSB126	#_ @yussef ma-bi-h-sh (.) mh
+PSB126	#_ ma-bī-h-sh mh
 PSB125	con quelle con quei due nasoni
 PSB126	no xx no no no
 PSB125	allora già allora già tu~ tutta la fami~ allora no aspe~ aspe~
@@ -483,7 +483,7 @@ PSB126	mh
 PSB125	però devi mettere in co~ cioè devi mh
 PSB125	devi capire che poi
 PSB125	è l'unico con un naso
-PSB126	anche la #xxx #zwin
+PSB126	anche la #xxx #zwīn
 PSB125	accettabile aspe'
 PSB125	è l'unico co~ nella sua famiglia
 PSB125	nei suoi parenti
@@ -491,7 +491,7 @@ PSB125	con un naso più o meno accettabile
 PSB125	perché poi tutti tutta la sua famiglia poi c'ha quel naso lì
 PSB125	anche la
 PSB125	la
-PSB126	#_ @sara 3and-ha n-ngda
+PSB126	#_ ʕand-ha n-ngda
 PSB125	vabbè vabbè sì vabbè
 PSB125	comunque
 PSB126	beh però neonato viene assomigliare il padre e alla mamma
@@ -510,7 +510,7 @@ PSB125	okay
 PSB125	gli occhi gli occhi potrebbero essere grandi
 PSB125	perché allora dalla parte di
 PSB125	non ha gli occhi grandi
-PSB125	#tata miriam
+PSB125	#tātā miriam
 PSB126	no ce l'ha gli occhi grandi
 PSB125	no non ha gli occhi grandi
 PSB126	eh xxx
@@ -521,7 +521,7 @@ PSB125	non ha gli occhi grandi
 PSB126	abbastan~ abbastanza abbastanza
 PSB125	tu hai gli occhi grandi io ho gli occhi grandi
 PSB125	vabbè
-PSB125	e la sara non ha gli occhi grandi #tata miriam pure
+PSB125	e la sara non ha gli occhi grandi #tātā miriam pure
 PSB125	invece tutta la famiglia di invece ha gli occhi grandi
 PSB125	quindi avrà nasone
 PSB125	occhi grandi
@@ -529,7 +529,7 @@ PSB125	e labbra normali insomma
 PSB125	la ce le ha carnose quindi potrebbe avere delle belle delle grandi labbra
 PSB125	quindi io me la immagino se una sì potrebbe essere sia maschio che femmina
 PSB125	con occhi grandi scuri
-PSB126	wāhd makīraf dak-shī kīraf ī llāh
+PSB126	#_ ḥtta wāḥd ma-ka-yʕrəf dāk-sh-shi ka-yʕərf ʕī ḷḷāh
 PSB125	spe~
 PSB125	occhi grandi scuri
 PSB125	capelli medio scuri
@@ -539,7 +539,7 @@ PSB125	e eh bocca bocca normale semi grande insomma
 PSB125	e
 PSB125	sì questo
 PSB125	ma cioè
-PSB126	#kat #bqāy #t-fakkri #fī #hād le piccole cose
+PSB126	#ka-tbqāy #tfakkri #fī-hād le piccole cose
 PSB125	la la bambina o bambino me lo immagino così
 PSB126	eh importante è che nasca
 PSB126	eh eh
@@ -552,30 +552,30 @@ PSB126	eh
 PSB125	scontatissimo
 PSB125	ovvio
 PSB126	eh beh
-PSB126	adesso vediamo anche tu #inshāllāh #t-kammli #qrayt-ek #w~ #inshāllāh #īmta #ghādi #dāwzi #permit
+PSB126	adesso vediamo anche tu #inshāḷḷāh #tkammli #qrayt-ək #w~ #inshāḷḷāh #īmta #ghādi #ddāwzi #permit
 PSB125	no mamma dai basta
 PSB125	no no bas~
 PSB125	non lo so
 PSB125	eh
-PSB126	#_ īmta ghādi t-bdāy hād xxx
+PSB126	#_ īmta ghādi tbdāy hād xxx
 PSB125	non lo so non lo so non lo so se n~ se non te ne ho parlato è perché non lo so
-PSB126	no #imta #ghad #tbday #had #l-corso di segretaria
+PSB126	no #īmta #ghādi #tbdāy #hād #l-corso di segretaria
 PSB125	ventun gennaio dovrebbe partire in teoria ventun gennaio
 PSB126	il ventuno
 PSB125	sì
-PSB126	quan~ #īmta #ghāy #sālī
+PSB126	quan~ #īmta #ghā-yṣāli
 PSB125	no dura tipo qua~ eh cinque o sei mesi
-PSB126	eh quan~ #mǝrra #ghād #t-mshi #f-simāna
+PSB126	eh quan~ #shḥāl #mǝrra #ghādi #tmshi #f-sīmāna
 PSB125	due volte a settimana
 PSB126	però ha detto che è un diploma che che vale
 PSB125	l'attestato
 PSB126	stato
 PSB125	l'attestato
-PSB126	#_ t-qādri t-xadmi bī-h
+PSB126	#_ tqādri txaddmi bī-h
 PSB125	secondo te
-PSB126	#_ kīma t-xdī-h bdāy (.) dfa3ī īla l-qīt l-xadma llāh y-sahhal 3lī-k
+PSB126	#_ kīma txdī-h bdāy t-fai īla lqīt l-xadma ḷḷāh ysahhal ʕlī-k
 PSB125	vabbè ma
-PSB126	#xadmi #bāsh~ #qray #kammli #qray #ṭāl #mǝn #t-shiddī un posto
+PSB126	#xəddmi #bāsh~ #qrāy #kammli #qrāy #tta #mǝn #baʕd #muḥīmm #tshəddi un posto
 PSB125	vabbè
 PSB125	ma scusami ma mh
 PSB125	s~ eh
@@ -583,34 +583,34 @@ PSB125	cosa ti volevo dire
 PSB126	mh
 PSB125	tu qui hai ancora qualche amica
 PSB125	oltre a
-PSB126	#_ 3and-i @latifa
-PSB126	#_ 3and-ī @latifa mammat ashraf w-3andī @souad ṣḥābt-ī
-PSB126	#_ w~ ṣāfī
-PSB126	#_ hādu-huma ṣḥābti
-PSB125	#_ _wākhā
+PSB126	#_ ʕand-i
+PSB126	#_ ʕand-i mammat ashraf w-ʕand-i ṣḥābt-i
+PSB126	#_ w~ ṣāfi
+PSB126	#_ hādu hūma ṣḥābt-i
+PSB125	#_ _wāxxa
 PSB125	e quindi con tua sorella non non ti senti più
 PSB126	no
-PSB126	#_ mǝrra mǝrra kan-n-3ayyǝt 3lī-ha (.) mǝrra mǝrra
+PSB126	#_ mǝrra mǝrra ka-nʕayyǝt ʕlī-ha mǝrra mǝrra
 PSB125	ma poi cioè che com'era il tuo rapporto con lei
-PSB126	#_ īh kull wāḥed mdī-ha f-rās-o
+PSB126	#_ iyyəh kull wāḥəd məddī-ha f-ṛās-u
 PSB125	no come mai cioè com'è st~ com'è com'è stato il tuo rapporto con lei crescendo
-PSB126	#_
+PSB126	#_ məzyan
 PSB125	ah sì
-PSB126	#mzīyen però eh eh
-PSB126	#_ kǝnna m-xaṣmīn w~ ṣāl-nā
+PSB126	#rjǝʕ #mzyān però eh eh
+PSB126	#_ kǝnna mxāṣmīn w~ tṣalḥna
 PSB125	a parte il fatto che lei
 PSB125	è la gemella secondo me son gemelle
-PSB125	co~ eh di #tat~ di #tata f~ eh
+PSB125	co~ eh di #tāt~ di #tātā f~ eh
 PSB125	sono uguali
 PSB125	sono uguali
-PSB126	#sh kat-gūlī cosa stai dicendo
+PSB126	#āsh #ka-tgūli cosa stai dicendo
 PSB125	ma sì ma sono uguali
 PSB125	ma allora tra di voi le uniche due
 PSB125	che si assomigliano veramente
 PSB125	sono loro
 PSB125	sembrano due gocce d'acqua
 PSB125	solo che secondo me
-PSB125	mh chi è peggiore #tata o la #tata io mi ricordo una volta quando ero piccola
+PSB125	mh chi è peggiore #tātā o la #tātā io mi ricordo una volta quando ero piccola
 PSB125	che ancora loro abitavano f~ tetouan non so dove
 PSB125	dove
 PSB126	tetouan
@@ -621,7 +621,7 @@ PSB125	tipo
 PSB125	non so quanti anni avevo però ero ero piccola avrò avuto quei undici anni dodici non mi ricordo
 PSB125	e tipo
 PSB125	cioè lei non mi è mai particolarmente stata simpatica
-PSB126	māl-ha shnū dārǝt lī-k
+PSB126	#_ ʕlāsh māl-ha shnū dārǝt lī-k
 PSB125	cioè
 PSB125	no ma l'ho sempre sentita un po' falsa un po' mh n~ cioè boh
 PSB125	niente poi alla fine tipo dovevamo uscire lei doveva uscire a comprare una roba
@@ -641,7 +641,7 @@ PSB125	genuino da parte sua perché da come lo ricordo io cioè
 PSB125	l'ha fatto solo per per poterti dire
 PSB125	guarda ho comprato qualcosa a a tua figlia ma in realtà tipo non gliene fregava niente
 PSB126	quelle cose non eh
-PSB126	t-bqāy t-shūfī fī-hom b-hādīk tarīqa sāfī shrāt-lī-k una cosa
+PSB126	#ma-xaṣṣə-k-sh #tbqāy #tshūfi #fī-hum #b-hādīk #ṭ-ṭarīqa #ṣāfi #shrāt #lī-k una cosa
 PSB125	vabbè cioè ci sta alla fine cioè ero anche una bambina
 PSB126	basta
 PSB125	ci sta
@@ -650,26 +650,26 @@ PSB125	cioè non non ho mai sentito
 PSB125	che fosse una persona genuina nei miei confronti
 PSB125	poi cioè mh da quel poco che
 PSB125	da quel poco che insomma l'ho vissuta
-PSB126	#_ ḥaqqāsh ma-kbrtī-sh m3ā-ha w-3ashtī-sh m3ā-ha
+PSB126	#_ ḥaqqāsh ma-kbərtī-sh mʕā-ha w-ʕashtī-sh mʕā-ha
 PSB125	eh appunto anche quello
 PSB125	anche quello
 PSB125	ma quindi cioè a te ti è sempre stata simpatica
-PSB126	#_ eh eh kht-i
+PSB126	#_ eh eh xt-i
 PSB126	è mia sorella cosa stai dicendo
 PSB125	vabbè non lo so
-PSB126	#_ kbar-nā kbar-nā jmī3
-PSB126	però #hiyya #tjawjat ventidue anni
+PSB126	#_ kbarna kbarna jmīʕ
+PSB126	però #hiyya #djawwjat #ʕla ventidue anni
 PSB125	mamma mia
 PSB126	#_ eh mshat~
 PSB125	con suo cugino tra l'altro
 PSB126	eh eh
-PSB126	#_ hnā wla t-jāwjī b-l-cugino
+PSB126	#ḥna #ma-ʕand-nā-sh #ʕand-nā-sh #ʕayb #wla #ḥrām #tjāwwji #b-l-cugino
 PSB125	bleah
 PSB125	ma sono sono
 PSB126	ma che #xxxx
 PSB125	sono cresciuti insieme
 PSB126	ma no ma che insieme no
-PSB126	#huwa #w~ #hiyya #f-dār l-bayda ma che cosa
+PSB126	#hūwa #f-sṭāt #w~ #hiyya #f-d-dār l-bayḍa ma che cosa
 PSB126	no
 PSB126	non erano insieme in casa poi cresciuti insieme e poi si sono sposati
 PSB125	vabbè
@@ -677,66 +677,66 @@ PSB126	ah ma dobbiamo andare giù a portare quel quell'armadio in cantina dai su
 PSB126	andiamo xxx
 PSB125	sì un attimo aspetta ancora un po'
 PSB125	ma quindi dov'è
-PSB126	adesso īh #lī-h
-PSB126	#_ hādāk īla ma-3ayyat-sh lī-h tāni
+PSB126	adesso iyyə #xāṣṣ-ni #nʕayyǝt #lī-h
+PSB126	#_ hādāk īla ma-ʕayyat-sh lī-h tāni
 PSB125	mh vabbè
 PSB125	allora scendiamo adesso così posso entrare in doccia
 PSB125	e che devo insomma devo lavarmi i capelli e tutto
 PSB125	domani domani sono via quasi tutto il giorno con il volontariato
-PSB126	#_
-PSB126	basta basta che xxx
+PSB126	#_ xxx
+PSB126	basta basta che #tərjʕi #mʕā-hum #mʕā xxx
 PSB125	sì mi riportano loro in macchina
-PSB126	#_ muhim
+PSB126	#_ muhimm
 PSB125	mi riportano loro in macchina
 PSB125	verso le otto
 PSB125	se no
 PSB125	eh c'è la relazione alle nove quindi se
 PSB125	vogliono riportarmi loro anche dopo le nove che finisce la relazione va bene se no mi tocca se no mi riporteranno prima a casa
-PSB126	oppure #īla #īla #kuntī #t-qādri #y-jībūk #ṭāl fermata #t-axdī #tūbis
+PSB126	oppure #īla #ṣallīti #mʕā #īla #kunti #tqādri #yjībū-k #ʕī #tta l-fermata #təxdi #t-tūbīṣ
 PSB125	ma no no no cioè non è un problema mi riportano lo~ cioè mi riportano loro
-PSB126	#_ fīn kat-kūnu ghadda 3and-kom
+PSB126	#_ fīn ka-tkūnu ghadda ʕand-kum
 PSB125	ma non lo so dove andiamo cioè mh andiamo fuori a diffondere fuori bologna non so
 PSB125	non ho capito non mi ha detto dove di preciso
 PSB125	lo saprò domani
-PSB126	rǝddī bāl-ek
-PSB126	#_ ma-daxlī-sh f-shī ḥāja li li li b3īda mǝn-ek
+PSB126	#_ muhimm rǝddī bāl-ək
+PSB126	#_ ma-daxlī-sh f-shī ḥāja lli lli lli bʕīda mǝn-ək
 PSB125	cosa
-PSB126	#_ w~ subḥānallāḥ t-waqʿa shī mushkil w-la xx ma-kat-3arfī-sh l-ḍurūf shnū kat-jīb
+PSB126	#_ w~ subḥānaḷḷāh twaqʕa shi mushkīl w-la xx ma-ka-tʕarfī-sh l-ḍurūf shnū ka-tjīb
 PSB125	vabbè
 PSB125	vabbè mamma cioè senza neanche doverlo
 PSB125	dire cioè non
 PSB125	su~ non succede niente
 PSB126	eh
-PSB126	#dirt la zuppa del cereale
+PSB126	#dərt la zuppa del cereale
 PSB126	eh cena
 PSB126	e poi
-PSB126	#_ n-dīru shī ḥāja u-uxra
+PSB126	#_ ndīru shi ḥāja uxra
 PSB126	xx facciamo qualcosa
 PSB125	no basta io ho già mangiato
 PSB125	prima il pane
 PSB125	voglio provare quella quella maschera mh
-PSB125	#_ hadek b-l-rūz
+PSB125	#_ hādāk b-l-ruzz
 PSB126	eh
-PSB125	#_ dyal l-wajh
-PSB125	maschera #dyal #l-wajh #dyal #rūz
+PSB125	#_ dyāl wajh
+PSB125	maschera #dyāl #l-wajh #dyāl #ruzz
 PSB126	ah xxxx
-PSB125	#_ dyal rūz
-PSB126	#_ āh rūs mṭhūn u~
-PSB125	lsel
+PSB125	#_ dyāl ruzz
+PSB126	#_ āh ruzz mṭḥūn u~
+PSB125	#_ w-l-ʕsəl
 PSB126	u la fe~ la fe~
-PSB126	#hadik fecola
+PSB126	#hādīk fecola
 PSB125	cosa fa la fecola s~ perché hai messo anche la fecola
 PSB126	tutta roba roba eh
-PSB126	#_ zwina
-PSB126	#_ 3and-ek hadik
+PSB126	#_ zwīna
+PSB126	#_ ʕand-ək hādīk
 PSB125	anche il miele ci hai messo
 PSB125	che io avevo visto questa ricetta con
 PSB126	no no aspetta
-PSB126	#ghādi #hādī #lli #gālt #lī-k #u~ #ghādi #ybān #lī-k #l-farq #ghādi #y-bān #lī-k #f i primi due o tre giorni
-PSB126	#_ fi-ha nsha'
+PSB126	#ghādi #tbʕī #hādi #lli #gālt #lī-k #w~ #ghādi #ybān #lī-k #l-farq #ghādi #ybān #lī-k #f- i primi due o tre giorni
+PSB126	#_ fi-ha nshāʔ
 PSB125	ma quanto tempo l'hai fatta
 PSB125	ancora buona
-PSB126	ancora buona #f-tellaja
-PSB126	#fī-ha #bellāti #fī-ha l-avena
+PSB126	ancora buona #f-t-təllāja
+PSB126	#fī-ha #bəllāti #fī-ha #l-avena
 PSB126	la polvere d'avena
-PSB126	l-avena #fī-h eh
+PSB126	#ṭḥant-ha l-avena #ṭḥant-ha #fī-h eh

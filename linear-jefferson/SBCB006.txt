@@ -26,13 +26,13 @@ PSB093	gli argomenti sensibili che loro non ((squilla_un_cellulare))
 PSB093	non non non ha (.) non
 PSB093	non costruiscono questo tipo di dibattito o discorso
 PSB093	°eh vabbè vabbè (.) vabbè°
-PSB093	#_ ((parla al telefono)) na o accha jete chaccho e hummm
+PSB093	#_ ((parla_al_telefono)) na o accha jete chaccho e hummm
 PSB093	okay (.) va bene ((parla_al_telefono))
 PSB005	°okay°
-PSB093	#_ ((parla al telefono)) onk shomoy chole jabe to sir ami gele shomoy noshto hoy jabe onk
+PSB093	#_ ((parla_al_telefono)) onk shomoy chole jabe to sir ami gele shomoy noshto hoy jabe onk
 PSB093	era questo: xx ((parla_al_telefono))
 PSB093	eh ((parla_al_telefono))
-PSB093	((parla_al_telefono)) nite hobe onk robbar er jonno
+PSB093	((parla_al_telefono)) #_ shobji nite hobe onk robbar er jonno
 PSB093	okay ((parla_al_telefono))
 PSB093	grazie ((parla_al_telefono))
 PSB005	okay

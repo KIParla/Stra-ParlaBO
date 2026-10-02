@@ -745,7 +745,7 @@ PSB105	((ride))
 PSB119	lui è co~ cognato
 PSB119	e fa se~ sesso con
 PSB105	ehm: la fidanzata del suo figlio
-PSB119	#_ #yes
+PSB119	#yes
 PSB104	o mio
 PSB105	((ride))
 PSB119	((ride))
@@ -839,7 +839,7 @@ PSB104	c(io)è vuol dire che (.) ehm i polsi freddi è che ce l'hai le manette e
 PSB105	[a:h]
 PSB104	[polsi]
 PSB104	senti [le manette]
-PSB105	#_ #[esposas]
+PSB105	#[esposas]
 PSB119	((ride))
 PSB104	[esatto]
 PSB119	oh no
@@ -1583,7 +1583,7 @@ PSB105	#_ jiù shì [tā men jué de chī biān fú] néng dài lái fú qì
 PSB119	#_ [zhēn de jia de]
 PSB105	((ride))
 PSB119	[oh no]
-PSB119	#_ [#crazy]
+PSB119	[#crazy]
 PSB105	((ride))
 PSB104	che schifo
 PSB104	ehm:
@@ -1606,7 +1606,7 @@ PSB104	è buono quello
 PSB119	oh no
 PSB105	#_ pollo (.) o polla
 PSB105	((ride))
-PSB119	#_ #polla
+PSB119	#polla
 PSB119	(di) #polla
 PSB119	((ride))
 PSB105	((ride))

@@ -68,7 +68,7 @@ PSB094	sì
 PSB093	ehm
 PSB093	#_ there's no problem
 ???	#_ xxx
-PSB093	#_ eita haray jabena oikhane rekhegele ami to konodin jante parbona bhujteo parbona (.) oikhane rekegese ami ki niashbo naki khorbo
+PSB093	#_ eita haray jabena oikhane rekhegele ami to konodin jante parbona bhujteo parbona oikhane rekegese ami ki niashbo naki khorbo
 ???	eh
 ??	xxx
 ??	#_ dorja khola ami to ante gechilam
@@ -515,7 +515,7 @@ PSB093	tutto quanto qui perciò succede che quell'epoca inglesi loro strategia e
 PSB005	sì
 PSB093	con chi c~ strettamente tu fai collaborazione porti queste persone lavorare in inghilterra
 PSB094	sì
-PSB093	stato questo noperché come loro veniva a lavorare qui alcuni per~ alcuni lavori che molto costoso in inghilterra era molto molto mh conveniente
+PSB093	stato questo no perché come loro veniva a lavorare qui alcuni per~ alcuni lavori che molto costoso in inghilterra era molto molto mh conveniente
 PSB094	sì
 PSB094	andavano lì
 PSB094	prima x
@@ -883,7 +883,7 @@ PSB094	è bravissimo poi a disegnare tu dagli qualsiasi cosa da disegnare e lui
 PSB005	mhmh
 PSB093	sì
 PSB005	mhmh
-PSB094	la riseguirà io ho dei suoi xx io ho dei disegni che lui ha fatto per me quest'estate conservati dove mi ha disegnata insieme alla sore
+PSB094	la riseguirà io ho dei suoi xx io ho dei disegni che lui ha fatto per me quest'estate conservati dove mi ha disegnata insieme alla sore~
 PSB005	era felicissimo e infatti
 PSB005	mhmh
 PSB005	ah davvero
@@ -969,7 +969,7 @@ PSB094	anche ogni tanto mh non come si impegna capisce quello che stiamo facendo
 PSB093	questa ragazza che molto grande della sua
 PSB094	è alta e magrissima
 PSB093	ua okay okay
-PSB094	no è la sorella dihasan quel bambino piccolo
+PSB094	no è la sorella di quel bambino piccolo
 PSB093	oh loro sono appena arrivati
 PSB095	eh sì
 PSB094	sì quest'estate sono hanno iniziato

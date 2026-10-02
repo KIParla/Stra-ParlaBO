@@ -44,7 +44,7 @@ PSB147	eh no- non si fa fare con eh inglese non so
 PSB146	mhmh
 PSB146	sì lo devi fare in italiano all'università
 PSB147	sì sì
-PSB147	sì sìsì
+PSB147	sì sì sì
 PSB146	esatto
 PSB146	e tu invece adesso cosa stai facendo
 PSB153	adesso niente
@@ -72,7 +72,7 @@ PSB146	xxxxxx
 PSB147	no lei segue io
 PSB153	no lui
 PSB147	ah no
-PSB146	tu non faitiktok
+PSB146	tu non fai tiktok
 PSB147	xx no io n- non ce l'ho
 PSB146	e allora perché ti segue
 PSB147	non ce l'ho tiktok
@@ -101,7 +101,7 @@ PSB147	io giocare ai videogames
 PSB153	ehm ma m- altro cosa mh dormire
 PSB147	x
 PSB153	perché sempre dormi
-PSB147	eparla tanto
+PSB147	e parla tanto
 PSB146	e parla tanto
 PSB153	e parla tanto
 PSB147	xx xx
@@ -186,7 +186,7 @@ PSB153	mhmh
 PSB146	tu invece mi hai detto che vuoi fare
 PSB147	eh informatica #cyber #security
 PSB146	info-
-PSB146	#_ cyber security
+PSB146	#cyber #security
 PSB147	esatto
 PSB146	okay e pe- come mai
 PSB146	volete vuoi fare questa cosa
@@ -214,7 +214,7 @@ PSB147	eh
 PSB153	eh sì
 PSB146	caftan
 PSB153	sì #qafṭān marocch- marocch- -ino
-PSB147	#_
+PSB147	#_ qafṭān
 PSB147	sì
 PSB146	così oppure abiti più
 PSB153	sì questo anche un altro cosa per le le #ʕabāya così
@@ -234,12 +234,12 @@ PSB147	io ho detto xxx lui fa il brand
 PSB146	mhmh
 PSB147	eh così
 PSB153	di a- a- sì anch'io xxx
-PSB146	dovetefare una società
+PSB146	dovete fare una società
 PSB147	sì dobbiamo br- br- brand questo è un brand
 PSB147	cosa f-
 PSB146	un brand
 PSB153	un brand tipo xx
-PSB147	sì sì anche in inin italiano eh sì sì perché vorrei fare il brand per le
+PSB147	sì sì anche in in in italiano eh sì sì perché vorrei fare il brand per le
 PSB146	in italiano un brand
 PSB146	mhmh
 PSB147	maglia g- eh felpa capito
@@ -270,7 +270,7 @@ PSB146	l- okay prima l'abbigliamento e poi studi
 PSB147	sì
 PSB147	sì sì sì già ho già fa- già fatto il programma eh
 PSB153	per me non è
-PSB153	non èadesso
+PSB153	non è adesso
 PSB147	eh per me già fatto il programma con il mio amici
 PSB153	ah
 PSB146	ah quindi già preparato
@@ -282,9 +282,9 @@ PSB147	comprare il #machine da #china
 PSB146	okay le macchine
 PSB147	le macchine esatto
 PSB146	mhmh okay i macchinari
-PSB147	#_ machine
+PSB147	#machine
 PSB147	sì i macchinari dal eh
-PSB147	eh non so come si chiama xyāṭa #machine xyāṭa
+PSB147	eh non so come si chiama #_ dyāl xyāṭa machine _ dyāl xyāṭa
 PSB153	mhmh
 PSB147	#_ dyāl xyāṭa
 PSB153	#ma-ʕrəft-sh non lo so
@@ -359,7 +359,7 @@ PSB146	okay
 PSB146	ehm
 PSB153	eh magari la
 PSB147	per me ti piace parlare tanti lei
-PSB153	magaricon xx
+PSB153	magari con xx
 PSB146	sì tu mi hai detto che conosci tante lingue tu quant- che lingue conosci
 PSB147	xx sì sì
 PSB153	francese
@@ -453,7 +453,7 @@ PSB153	ma
 PSB146	allora da poco
 PSB153	sì
 PSB146	okay quindi lui studia
-PSB153	dove èil mio regalo
+PSB153	dove è il mio regalo
 PSB146	ah non ha fatto il regalo
 PSB153	eh no
 PSB147	io
@@ -567,10 +567,10 @@ PSB147	no
 PSB153	mhmh
 PSB146	eh costa di più
 PSB147	magari
-PSB147	xxcosta di più sì
+PSB147	xx costa di più sì
 PSB147	però magari
 PSB146	però quindi fai
-PSB153	magaricambiare in italia
+PSB153	magari cambiare in italia
 PSB146	eh è costosa bologna
 PSB147	eh sì sì bologna
 PSB146	però sei in affitto dove
@@ -624,7 +624,7 @@ PSB147	io non c'è tempo
 PSB146	non la guardi
 PSB147	veramente non c'è tempo
 PSB146	vabbè tu fai tre lavori quindi
-PSB147	sìfai tre lavori
+PSB147	sì fai tre lavori
 PSB147	vado palestra e
 PSB147	anche cucino
 PSB146	eh
@@ -650,7 +650,7 @@ PSB146	non li vuole
 PSB153	non gli piacciono
 PSB146	e quindi
 PSB146	combatti
-PSB147	xxsì sì
+PSB147	xx sì sì
 PSB147	nel mio negozio
 PSB146	ah bello anche lui viene a fare il taglio
 PSB147	sì esatto
@@ -688,7 +688,7 @@ PSB147	eh italiano
 PSB146	in italiano
 PSB153	anch'io
 PSB147	sì
-PSB146	ma che cisono in tivù o al cinema
+PSB146	ma che ci sono in tivù o al cinema
 PSB147	sì
 PSB147	no anche in cinema
 PSB146	anche al cinema
@@ -698,7 +698,7 @@ PSB146	wow che bello
 PSB147	anche cinema da
 PSB147	casalecchio
 PSB147	è grande esatto sì sì sì
-PSB146	ah casalecchio ah belloquello dal eh gran reno
+PSB146	ah casalecchio ah bello quello dal eh gran reno
 PSB153	casalecchio è grande
 PSB146	sì que- eh quello al gran reno
 PSB147	sì sì
@@ -732,7 +732,7 @@ PSB146	e guardate in italiano i film okay
 PSB153	sì
 PSB146	e riesci a capire abbastanza
 PSB147	mh
-PSB153	sì eccocè il problema del eh del- della lingua italiana che io capito tutto
+PSB153	sì ecco c'è il problema del eh del- della lingua italiana che io capito tutto
 PSB146	sì
 PSB146	mhmh
 PSB153	però per parlare c'è l- la
@@ -789,10 +789,10 @@ PSB147	france- francese
 PSB147	francese
 PSB146	anche francese okay
 PSB147	però per me
-PSB147	#_ like
+PSB147	#like
 PSB147	cinquanta per cento ing- inglese
 PSB146	inglese
-PSB147	almenoesatto
+PSB147	almeno esatto
 PSB147	xxxxxx rock esatto
 PSB146	sì vabbè rock così sono
 PSB153	mh
@@ -904,7 +904,7 @@ PSB146	perché tifi napoli
 PSB153	perché mi piace i napolita-
 PSB146	ah ti piacciono i napoleta-
 PSB147	xxx eh l'accento napoletano l'accento
-PSB146	no noa lei piacciono i napoletani
+PSB146	no no a lei piacciono i napoletani
 PSB147	ah okay io mi pia- mi piace
 PSB153	perché uguali di l- di l'arabi
 PSB146	sì l'han detto anche l'altra volta le altre
@@ -987,7 +987,7 @@ PSB147	è difficile
 PSB147	perché difficile
 PSB153	perché diffi-
 PSB147	perché difficile
-PSB153	l-ḥṛām
+PSB153	#_ wuld l-ḥṛām
 PSB147	dai spiega
 PSB153	perché difficile ecco
 PSB153	perché in italia non c'è tanti il ehm
@@ -1101,7 +1101,7 @@ PSB146	tu stavi dicendo belgio olanda
 PSB153	ah ecco belgio e olanda c'è tanti marocchini ricchi
 PSB146	tu vuoi sposare un marocchino o un napoletano
 PSB147	esatto sì sì
-PSB153	sino marocchino
+PSB153	si no marocchino
 PSB146	un marocchino
 PSB153	perché c'è d- ehm c'è tanta differenza per marocchini e anche gli italiani
 PSB153	però c'è tante la- ragazza sposate per la no anche il eh del eh di islam
@@ -1118,13 +1118,13 @@ PSB153	no
 PSB146	no
 PSB147	#ʕlāsh sì xx sì
 PSB146	e quindi perché l'islam
-PSB153	#_ kīfāsh
+PSB153	#kīfāsh
 PSB147	eh sei religiosa
 PSB147	#_ eh muslīma
 PSB153	ah sì sono musulmana
 PSB147	sì esatto sì eh
 PSB153	no oh scusa non capito
-PSB146	sì sì sei musulmana peròmh segui le regole cioè ad esempio non hai il velo no
+PSB146	sì sì sei musulmana però mh segui le regole cioè ad esempio non hai il velo no
 PSB153	sì
 PSB147	sì sì
 PSB153	no
@@ -1150,7 +1150,7 @@ PSB153	io voglio sposate con la l'uomo amo
 PSB153	per- cioè c'è l'amore
 PSB146	che ami
 PSB146	sì è uno scherzo su
-PSB147	esatto xxxnoi con il soldi
+PSB147	esatto xxx noi con il soldi
 PSB153	sì tu non non parli eh per l'amore per favore perché questo persona
 PSB146	lui che è stato lasciato
 PSB147	no perché
@@ -1166,7 +1166,7 @@ PSB147	mh
 PSB146	che segno sei
 PSB147	xxxxx
 PSB146	ehm zodiacale
-PSB153	anche luiè $muslimano
+PSB153	anche lui è $muslimano
 PSB146	no no quella è la religione
 PSB153	ah
 PSB146	quando sei nato che mese
@@ -1185,7 +1185,7 @@ PSB146	ventotto marzo okay
 PSB147	esatto
 PSB153	però ariete
 PSB146	saranno traditori gli scorpioni
-PSB153	shhaṛ
+PSB153	#_ īna shhaṛ
 PSB147	mh novembre
 PSB153	ah okay
 PSB147	primo novem-
@@ -1226,11 +1226,11 @@ PSB153	eh sì economia aziendale allora stai zitto
 PSB146	tu cosa hai fatto alle superiori
 PSB147	ehm
 PSB153	niente
-PSB147	no #physique chimiques
+PSB147	no #physique #_ sciences chimiques
 PSB153	cimic- eh chimica
 PSB147	ci
 PSB146	chimica
-PSB147	chimica chimiques $simica
+PSB147	chimica #_ sciences chimiques $simica
 PSB153	sì chimica
 PSB147	sì chimica
 PSB146	ah c'è una solo chimica alle superiori in marocco
@@ -1293,7 +1293,7 @@ PSB153	e sono bocciata quella seconda superiore
 PSB153	la terzo anno non voglio fa-
 PSB146	ma non hai fa- finito qua le superiori
 PSB153	no
-PSB153	solo ilsecondo superiore
+PSB153	solo il secondo superiore
 PSB146	ah
 PSB146	ah non hai finito le superiori ah okay okay
 PSB153	no
@@ -1365,7 +1365,7 @@ PSB147	sì prima quattro anni
 PSB147	però dipende cosa
 PSB146	sì di quello che studi sì sì sì
 PSB147	sì esatto
-PSB153	anchetu sei in università
+PSB153	anche tu sei in università
 PSB146	sì io ho fatto tre anni e adesso sto facendo gli altri due
 PSB153	mh
 PSB146	di lingue
@@ -1473,13 +1473,13 @@ PSB147	no xx
 PSB147	la mattina
 PSB147	io fatto il eh pancake
 PSB146	pancake
-PSB147	panc- dopo alle dieci fatto un snack da protei- anche #shūfān non lo so #shūfān
+PSB147	panc~ dopo alle dieci fatto un snack da protei~ anche #shūfān non lo so #shūfān
 PSB146	okay
 PSB153	ecco di proteine
 PSB147	xx snack
 PSB147	proteine eh
 PSB147	dalle undici dodici ho fatto un riso p- di eh petto di pollo anche pomodoro
-PSB147	#salade un originaire
+PSB147	#salade un #_ salade originaire
 PSB146	okay
 PSB147	dai cin- dal cinque ai sei de poi a- anche uno snack sì e fatto
 PSB146	quanti pasti fai tanti pasti

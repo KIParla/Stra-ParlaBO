@@ -175,7 +175,7 @@ PSB062	allora adesso (.) e nell'aspetto di dio (.) sono tre (.) tipi che possono
 PSB062	o impersonale
 PSB062	o personale (.) oppure (.) dappertutto
 PSB062	in in sanscrito (.) si si chiama #brahma
-PSB062	#_ #bhagavan
+PSB062	#bhagavan
 PSB062	e #paramatma
 PSB062	il #brahma
 PSB062	quello che parla solito in tutte le religioni <dio è luce (.) infinita>

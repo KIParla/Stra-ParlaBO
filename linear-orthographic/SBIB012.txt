@@ -2102,7 +2102,7 @@ PSB071	#_ bongit
 PSB072	l'ha usato già
 PSB005	ah è lo stesso ma non sono di qua cioè sono
 PSB072	lei guarda sempre il s~ sempre sì
-PSB071	no no è de proprio di calcutta è un sono youtuber
+PSB071	no no è de~ proprio di calcutta è un sono youtuber
 PSB005	okay
 PSB073	no io sono fissata con il cibo indiana io
 PSB073	qualsiasi parte me le mandi dev'essere cibo indiana
@@ -2528,7 +2528,7 @@ PSB072	sì sì sì
 PSB072	sì #bhorta
 PSB073	ah #bhorta no #bhorta pure c'è calcutta
 PSB072	sì
-PSB071	#_ bhorta
+PSB071	#bhorta
 PSB072	cioè è un tipo di un tipo di pesto sì
 PSB071	però son di meno
 PSB073	poca ma poca
@@ -3050,7 +3050,7 @@ PSB072	uh
 PSB074	oh
 PSB071	eh
 PSB072	sembra sembrano proprio come il serpente
-PSB073	#_ yes
+PSB073	#yes
 PSB005	io io sono un po' difficile su sulle bestie diciamo sulle
 PSB073	stai zit~
 PSB071	su alcuni pesci

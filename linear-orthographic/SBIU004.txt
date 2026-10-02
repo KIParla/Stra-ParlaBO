@@ -217,7 +217,7 @@ PSB005	mhmh
 PSB018	normale molto normale per vivere la vita
 PSB018	#_ mh full
 PSB005	mhmh
-PSB018	#_
+PSB018	#_ life
 PSB005	sì sì sì
 PSB018	e per la persona eh
 PSB018	#_ of middle
@@ -875,7 +875,7 @@ PSB005	volontaria
 PSB018	e quando lei
 PSB018	mh ha
 PSB018	ehm eh
-PSB018	#_ saw (.) pass
+PSB018	#_ saw pass
 PSB005	visto
 PSB018	visto s~ sì sì visto
 PSB018	lei mi ha chiesto se noi abbiamo un luogo per vivere
@@ -1008,7 +1008,7 @@ PSB018	ma secondo me la nostra vita deve essere come questo eh sempre eh
 PSB018	no inventare ma trova creare o in eh trovare qualcosa nuovo
 PSB005	sì creare
 PSB018	per ehm
-PSB018	#_ develop (.) xx in world
+PSB018	#_ develop xx in world
 PSB005	mhmh
 PSB005	mhmh okay
 PSB018	perché la età quaranta
@@ -1392,7 +1392,7 @@ PSB018	mhmh
 PSB005	e non so se magari ci sono delle cose simili perché è al confine ho mangiato soprattutto un tipo di
 PSB018	sì ci sono ci sono
 PSB005	delle specie di ravioli
-PSB018	#_ pirožki ((ride))
+PSB018	#_ pirožki
 PSB005	sì esatto sì sono buoni mi piacciono molto
 PSB018	mh sì
 PSB018	e
@@ -1413,7 +1413,7 @@ PSB005	sì sì sì sì
 PSB018	qualche $ingrediento per la pasta
 PSB005	mhmh certo
 PSB018	qualche tipo come fritte o al forno o un altro modo
-PSB018	eh ma è un grande tipo come pasta per italiani di i tipi diversi con la salsa diversa i forma e
+PSB018	eh ma #_ pirožki è un grande tipo come pasta per italiani di i tipi diversi con la salsa diversa i forma e
 PSB005	mhmh sì
 PSB005	mhmh
 PSB018	come preparare allora

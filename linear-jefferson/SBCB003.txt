@@ -691,7 +691,7 @@ PSB118	#_ y[e:s]
 PSB095	[perché] il mio accento sembra america[no]
 PSB118	#_ [are] you an american?
 PSB095	((ride))
-PSB118	#_ [#smart]box
+PSB118	[#smart]box
 PSB095	[x]
 PSB095	e io tipo
 PSB095	ho dro-

@@ -1167,7 +1167,7 @@ PSB070	e: quando facevo la guardia lavoravo: per la
 PSB070	e:
 PSB070	mi avevano fermato due tre volte
 PSB070	la polizia locale e: mi fanno ascolta
-PSB070	tu hai la residenza da più di (,) un anno
+PSB070	tu hai la residenza da più di (.) un anno
 PSB070	quindi devi sdoganarla
 PSB070	e immatricolarla con la ta~ xx con la targa ucraina e italiane
 PSB070	insomma

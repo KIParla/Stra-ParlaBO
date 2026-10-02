@@ -129,7 +129,7 @@ PSB130	cheese
 PSB036	cheese
 PSB005	cheese
 PSB091	#_ syr
-PSB128	harno
+PSB128	#_ ce harno
 PSB127	a posto
 PSB091	#_ davaj davaj
 PSB129	grazie

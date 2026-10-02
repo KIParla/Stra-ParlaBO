@@ -154,16 +154,16 @@ PSB140	un po' di grana
 PSB141	mhmh
 PSB140	riesci ad aprirlo
 PSB141	un attimino cara mia
-???	#_ wa @yussef
-???	#_ @yussef
-???	#_ @yussef
+???	#_ wa
+???	#_
+???	#_
 ???	#_ xxx
 PSB141	non lo puoi aprire aspetta un attimo
 PSB140	non si apre
 PSB141	mhmh
 PSB140	mettine metà
-PSB141	#_ l-3rūbiyya 3rūbi
-???	#_ ash ka dīr
+PSB141	#_ l-ʕrūbiyya ʕrūbi
+???	#_ āsh ka-ddīr
 PSB141	okay
 PSB140	altra metà
 PSB140	di parmigiano
@@ -583,17 +583,17 @@ PSB141	eh sì sì
 PSB140	noi diciamo soffriggere non so voi come dite
 PSB141	basta
 PSB140	basta sì sì
-PSB141	lascialo #xallī-h #hāk xx
+PSB141	lascialo #ʕa #xallī-h #hāk xx
 PSB141	eh
 PSB141	#_ xx
 ???	#_ xx
 PSB141	#_ xallī-h drūk xx ma-msālī-sh xallī-h
 ???	#_ xx
-PSB141	#_ wa 3a: xallī-h
-PSB141	#_ xallī dīrī y-tsārreḥ
-???	#_ xxx
+PSB141	#_ wa ʕa xallī-h
+PSB141	#_ xallī dīrī ytsārreḥ
+???	#xxx
 ???	#_ xxx xxx
-PSB141	#_ wash bghīt-i t-fāyq-u ?
+PSB141	#_ wāsh bghīti tfāyq-u
 PSB140	ecco
 PSB141	allora
 PSB141	mhmh
@@ -612,10 +612,10 @@ PSB141	ah
 PSB140	va bene dai
 ???	#_ xx
 PSB140	metti via quello
-???	#_
+???	#_ xxx
 PSB141	eh okay
-???	#_ xx wa shrit-o xxx
-PSB141	#_ shūf īla kayn ḥda nāmūsiyya
+???	#_ xx wa-shrīt-u xxx
+PSB141	#_ shūf īla kāyn ḥda nāmūsiyya
 PSB141	eh allora
 PSB141	vuoi una forchetta
 PSB140	sì

@@ -116,7 +116,7 @@ PSB049	ho chiesto che lui fa questi cosa se e e lei come piangere ieri sera
 PSB049	dice io lei paura che qua~ come altro ieri s~ lui andato con coltello
 PSB049	dice che quando lui va c~ $mazzare qualcuno cosa fai io non lo so lei dice questi cosi
 PSB049	le ho detto se lui fa tuo troppo questi disturba e va bene parla ho detto quan~ te parlare con oppure con l'assistente sociale
-PSB049	se prendono loro manda via perchécosì pericoloso perché io visto cosa ha fatto lui altro ieri
+PSB049	se prendono loro manda via perché così pericoloso perché io visto cosa ha fatto lui altro ieri
 PSB050	mamma mia certo
 PSB049	poi lei dice io lo so però se io mando lui
 PSB049	eh il il centro sociale se xxx va via e come d~ dopo come io vivo senza lui
@@ -129,7 +129,7 @@ PSB049	e tanti gente quando vede lui qualche parte co~ e gira come matti e
 PSB049	loro dicono che lui forse fa qualcosa di
 PSB049	forse illegale qualcosa di come
 PSB049	vedi che qualcuno gira come ruba qualche portano droga qualcosa lui
-PSB049	perché lui non arriva in centro in centrale per girare lui vapodromo lui va piazza unità lui v~ va lui fuori no
+PSB049	perché lui non arriva in centro in centrale per girare lui va $podromo lui va piazza unità lui v~ va lui fuori no
 PSB050	certo certo sta
 PSB049	non era in mezzo ad amici che v~ va lui visiti e p~ porta maggiore qualcosa va
 PSB050	ma
@@ -250,7 +250,7 @@ PSB050	ah
 PSB049	e lui mi dice che eh c'è
 PSB049	ehm una strada senza lavoro posso guadagnare
 PSB049	e poi ogni tanto anche lui dice che
-PSB049	tue
+PSB049	tu e
 PSB049	fa~ fai porti droga de~ devi non devi lavorare arriva solo soldi po~
 PSB049	porti droga e dai q~ qualcuno droga lui mi dice così e poi dice no no scherzo scherzo
 PSB049	se tu non l'hai non lo sai questo in strada tu come dici che senza lavoro posso guadagnare
@@ -288,7 +288,7 @@ PSB050	sì
 PSB049	no no stamattina non stava male stamattina ho ve~ visto che sta bene
 PSB050	però non è andato a scuola e ha scritto motivi di salute non era vero
 PSB050	ho capito senti va bene io
-PSB050	cioèka sono sincero io ci parlo
+PSB050	cioè sono sincero io ci parlo
 PSB050	però
 PSB050	è difficile
 PSB050	sentirlo a una con
@@ -463,7 +463,7 @@ PSB049	quindi ehm londra
 PSB049	un secondo
 PSB050	vai vai
 PSB049	ma perché
-PSB049	#_ hello
+PSB049	#hello
 PSB049	ehm eh per ospedale per
 PSB049	mamma e quelli che mi hanno asso~ partito di mio presidente khaleda zia
 PSB050	eh
@@ -560,7 +560,7 @@ PSB049	poi quando arriva lei da casa e al porto
 PSB050	mhmh
 PSB049	eh prima un giorno prima ha dato una
 PSB049	le~ gior~ lettera p~ per giornale anche per di
-PSB049	pae chi supporto di pa~ e supporto di partito di nostro
+PSB049	pae~ chi supporto di pa~ e supporto di partito di nostro
 PSB049	che me- non venite nessun in strada per bloccare che lei va
 PSB049	perché l~ lo sa partito che se esce l~ lei da casa tutti arriva strada per vedere per salutare lei
 PSB050	mhmh
@@ -732,7 +732,7 @@ PSB049	come di bologna tutti ehm mh paese tutti senza elezioni perché era loro
 PSB050	okay
 PSB049	quindi per queste cose anche quando $anda scappato lei
 PSB049	e anche dopo fatto e come si chiama tutti
-PSB049	traffichi tutti $sinta e fatto come tipo licenziare caposolo non ha solo $sitta non c'è capo hai capito
+PSB049	traffichi tutti $sinta e fatto come tipo licenziare capo solo non ha solo $sitta non c'è capo hai capito
 PSB049	chi lavora governo di segretaria di adesso facendo loro lavorano
 PSB050	ah okay
 PSB050	quindi adesso le~ le città sono sono senza sindaco
@@ -741,7 +741,7 @@ PSB050	okay
 PSB050	cioè queste ventisei persone stanno mettendo a posto
 PSB049	sì sì perché questi ventisei persone è mh non è di partito di politico
 PSB050	tutto
-PSB049	io l'ho $schiesto anche mio partitopiù lei
+PSB049	io l'ho $schiesto anche mio partito più lei
 PSB049	cinque persone altri politico que- quell mio partito detto che no
 PSB049	se da~ togli dieci due persone che tu prendi da pa par~ persone di politico
 PSB049	e poi tutti dic~ dicono che guida noi noi vogliamo che quello che vogliamo noi tu fai così
@@ -792,7 +792,7 @@ PSB049	mh
 PSB049	ti faccio vedere non so come si chiama
 PSB050	sì
 PSB050	ma e il
-PSB049	casa di suo papa quello chedhaka
+PSB049	casa di suo papa quello che dhaka
 PSB049	ieri altro ieri fatto così
 PSB050	e il papà di chi
 PSB049	e c'ha i casini chi era scappato

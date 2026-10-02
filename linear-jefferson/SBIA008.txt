@@ -40,7 +40,7 @@ PSB005	rispetto al marocco (.) è diverso?
 PSB042	e:h per me con ce l'ho una famiglia
 PSB042	importante la bambino, per l'ospita:le: per la: la #système #scolaire queste cose per me (.) è meglio.
 PSB005	mhmh
-PSB042	per mia paese: se vuoi qualcosa buona, (,) serve privato serve paga.
+PSB042	per mia paese: se vuoi qualcosa buona, (.) serve privato serve paga.
 PSB042	se no ce l'ho lavoro buono a mia pe~ paese (.) per una vita per un: mio bambino futuro non è buono.
 PSB005	mhmh
 PSB042	difficile
@@ -91,7 +91,7 @@ PSB042	e:h (deprime). eh ret~ ritorna a mia paese
 PSB042	e do:po #des $an(e) sai (.) non vuoi più: vivere a mia paese tutta a posto
 PSB042	ma così un giorno: vedere mio: (.) ho incontrato con mio marito ma mia testa non è pens(a) no:
 PSB042	a matrimonio #ni #*a #*l'#italie #ni di niente
-PSB042	ma così,. [(.)] va: e: fare matrimo~ e ritorno: di nuovo
+PSB042	ma così, [(.)] va: e: fare matrimo~ e ritorno: di nuovo
 PSB005	[°mhmh°]
 PSB042	così la dio vuoi.
 PSB005	sì sì
@@ -392,7 +392,7 @@ PSB005	qui
 PSB042	sì. è [vero].
 PSB005	[di pi]ù nei paesi arabi secondo [te].
 PSB042	[sì].
-PSB042	#_ (#vrai)
+PSB042	(#vrai)
 PSB005	ah eh io non lo so perché non lo conosco molto:.
 PSB005	è interessante questo: [(.)] questa cosa che dici.
 PSB042	[è ve°ro.°]
@@ -540,7 +540,7 @@ PSB005	mhmh.
 PSB042	ma #en gira~ generale, tutto (.) capisco e parlare l'ara[bo].
 PSB005	[mh]mh. mhmh.
 PSB005	[e po~]
-PSB042	[co]me mia madre, co[me l~:]. mia:. (.) mi grande:. [ara]bo.
+PSB042	[co]me mia madre, co[me l~]. mia:. (.) mi grande:. [ara]bo.
 PSB005	[mhmh],
 PSB005	[sì sì]
 PSB005	mhmh
@@ -630,7 +630,7 @@ PSB005	sì non hai molto tempo libe[ro]
 PSB042	[no]:. se uscire solo giro:. e°(ritorno)°
 PSB005	mhmh
 PSB042	ma non è $conosche #beaucoup #*de
-PSB042	l'ap~ le:l.e altre sempre ce l'ho. suo cose: occupato.
+PSB042	l'ap~ le: le altre sempre ce l'ho. suo cose: occupato.
 PSB005	mhmh
 PSB005	[(xxxxx)]
 PSB042	[tutto] è:. occupato.
@@ -667,7 +667,7 @@ PSB005	[mh].
 PSB005	sì. però, c'è bi[sogno di un po' di tempo]
 PSB042	((ride)) [serve, a me, s]c(u)ola. sì.
 PSB005	sì
-PSB042	ma la sc(u)ola sempre: no c'è posto a:l. mattina anche io occupata la mattina.
+PSB042	ma la sc(u)ola sempre: no c'è posto a:l mattina anche io occupata la mattina.
 PSB005	mh[mh]
 PSB042	[c'è] sempre l'orario, (.) tardi. sette, ot[to],
 PSB005	[mh].
@@ -794,7 +794,7 @@ PSB042	sì c'è tutte.
 PSB005	dove si comprano?
 PSB042	c'è macchina:- questo $marscindese che di maro[cchine]. de arabo. c'è pakistano,
 PSB005	[mhmh]
-PSB042	ch(e):, ce l'ho le carni #hala:l [c'è]:. pollo #halal [c'è] anch°e° #les #épices c'è tutto.
+PSB042	ch(e):, ce l'ho le carni #hala:l [c'è]:. pollo #hala:l [c'è] anch°e° #les #épices c'è tutto.
 PSB005	[mhmh]
 PSB005	[mhmh]
 PSB005	mhmh
@@ -1094,7 +1094,7 @@ PSB005	e: (.) sono andata dalla parrucchiera,
 PSB042	mhmh?
 PSB005	però basta.
 PSB005	in faccia[:], una mia amica mi ha aiutato[:],
-PSB042	face)]
+PSB042	#_ en face)]
 PSB042	[è] brav~ ((ride))
 PSB005	ma tu, ti sei sposata qui?
 PSB042	no. mia paese.
@@ -1137,7 +1137,7 @@ PSB042	perché [sempre]: eh. nascita.
 PSB005	[per la nascita].
 PSB042	#quand arriva bambino, serve compra:. compra mio padre una:.
 PSB042	come si chiama.
-PSB042	#_ #mouton
+PSB042	#mouton
 PSB005	mhmh?
 PSB042	lo sai cos'è #mouton?
 PSB005	no[:]?
@@ -1147,7 +1147,7 @@ PSB042	eh,
 PSB005	°mh° pr[ova a spiegarmi. pr~]
 PSB042	[dimenticato] sì sì sì aspetta. ara:bo, italia°no.°
 PSB005	sì.
-PSB042	#_ #kharoof.
+PSB042	#xarūf.
 PSB042	peco:ra.
 PSB005	ah sì. [ah] ma lo sapevo allora. sì che scema [sì].
 PSB042	[be:]. ((ride))
@@ -1184,7 +1184,7 @@ PSB005	c'è il battesimo in chiesa.
 PSB042	serve fare.
 PSB005	solo:. (.) se sei: cristiano?
 PSB042	ah sì.
-PSB005	fai: una:,. cerimonia in chiesa.
+PSB005	fai: una:, cerimonia in chiesa.
 PSB042	a:h.
 PSB005	sì.
 PSB042	no per noi, no serve #ni mosche #ni niente. solo a casa

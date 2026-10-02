@@ -76,7 +76,7 @@ PSB072	[a noi meglio] non fare perché, se no torniamo a casa subito in [bagno] 
 PSB071	((ride))
 PSB071	[lavare]
 PSB071	e doccia: su doccia
-commenti	((musica))
+suoni	((musica))
 PSB074	beh oh
 PSB074	i~ i~ io, io per restare un po' sveglia oggi, l'ho fatto si~ sia ieri sera che stamattina (.) [se no::: non (xx)]
 PSB072	[ma io stamattina non l'ho] fatto::, [però quan]do torno a casa sicuro [che vado al:, fare la doccia]
@@ -84,7 +84,7 @@ PSB073	[cosa]?
 PSB074	[(a)]
 PSB071	[a:h quello sì, dopo il viaggio si]curo
 PSB072	senza fare doccia è:: (.) faticoso andare a letto
-PSB072	ha fa]tto (.) [che è il bambi]no che non li lava ma::i:: ((ride)) ,
+PSB072	ha fa]tto (.) [che è il bambi]no che non li lava ma::i::, ((ride))
 PSB074	[a~]
 PSB074	[ha fatto]?
 PSB073	((ride))
@@ -103,7 +103,7 @@ PSB074	eh beh
 PSB071	((ride))
 PSB072	((ride))
 PSB073	((ride))
-commenti	((risate_generali))
+suoni	((risate_generali))
 PSB073	[anche i~]
 PSB074	[anche io] ((ride))
 PSB073	tipo, [gioca l'acqua] e poi gioca con quello
@@ -141,7 +141,7 @@ PSB071	[invertite], c(io)è si son(o) fatte due fiori uguali (.) però l~ lei ce
 PSB072	[eh]
 PSB073	[sì]
 PSB072	[s:: su]
-PSB072	[°eh° contra]rio (.) [eh bie~] e:h leiv,ero?, [quel:~]
+PSB072	[°eh° contra]rio (.) [eh bie~] e:h lei, vero? [quel:~]
 PSB074	[(°no°)]
 PSB074	[xxx]
 PSB073	[te quando lo fa]i? [(.) hai de]ciso di fare?
@@ -157,7 +157,7 @@ PSB071	>sì [sì]<
 PSB074	[sì:]
 PSB071	e ha pagato (.) duecento?
 PSB074	e::: (.) sni
-PSB071	duecento euro[,ti ricor~? °in° due]
+PSB071	duecento euro, [ti ricor~? °in° due]
 PSB074	[a::h s~, duecen]tocinqua~ (.) [°duecento°]
 PSB071	[duecentocinquanta in] due
 PSB074	s[ì]
@@ -181,7 +181,7 @@ PSB072	più:, c(io)è se fai po:- posto dove c'è più ossa fa male m:h
 PSB074	e[::h]
 PSB072	[al] (.) dove c'è più carne fa un [pochino °meno°]
 PSB074	[voglio farlo] (.) [qui:]
-PSB071	>[chi] è che si era fatto [sulla c~]<? (.) [ale] si era fatto qua (.) sulla clavicola
+PSB071	>[chi] è che si era fatto [sulla c~]?< (.) [ale] si era fatto qua (.) sulla clavicola
 PSB074	[ale]
 PSB074	[ale] se l'è fatto su~, in tutti i [posti dolorosi, e lei] ha detto che non gli ha fatto male
 PSB073	[eh]
@@ -307,14 +307,14 @@ PSB074	((ride))
 PSB071	(dire) che tipo collana ti fa
 PSB072	((RIDE))
 PSB073	((ride)) sì sì::
-PSB074	oppure ti tatui quella roba che t~, si tiene in mano, come si chiama?, il::
+PSB074	oppure ti tatui quella roba che t~, si tiene in mano, come si chiama? il::
 PSB073	eh sì [il:, [c~] c~, rosario sì, sì]
 PSB071	[il rosario]
 PSB074	[eh (.) il rosario te lo tatui: sulla mano]
 PSB071	[tutti] e tre i rosari fai:: (.) fai il rosario cristiano, fai quello:: [induista (.) esatto]
 PSB072	((ride))
 PSB073	((ride))
-PSB072	[quello e:: musulmano, quello no]stro, sì, tutte [((ride)) , sì]
+PSB072	[quello e:: musulmano, quello no]stro, sì, tutte, [((ride)) sì]
 PSB071	[fai tre, le tre palli]ne e tre:: (.) beh, figo però eh
 PSB072	eh ((ride)) sì
 PSB073	((ride))
@@ -496,11 +496,11 @@ PSB074	[vuole dormire]?
 PSB071	per [far cadere] [a rami a]
 PSB072	[°andiamo°]?
 PSB073	[sì], >sì sì [sì sì]<
-commenti	[xxx]xx
+suoni	[xxx]xx
 PSB074	ho i piedi freddi:
 PSB073	>che è successo<?
 PSB074	avete fre[ddo]?
-commenti	[xx]
+suoni	[xx]
 PSB072	mare?
 PSB071	okay
 PSB072	mare
@@ -563,21 +563,21 @@ PSB073	[no, aspet]ta, no~, non conchiglie, il coso il: e:h
 PSB071	>xxx<?
 PSB073	se:::, xx
 PSB072	e:: noce:: di cocco::?
-PSB073	>non,on,o< (.) >[sempre]s,empre< il coso
+PSB073	>no no no< (.) >[sempre], sempre< il coso
 PSB071	(°ah ca[volo]°)
 PSB072	del?
 PSB071	[no:]
 PSB073	[no:] e:::
 PSB073	#jhinuka (.) come: come si:
 PSB072	ah #jhinuka è uno di [conchiglie:]
-PSB073	[>no, no, no<]
+PSB073	[>no no no<]
 PSB072	#_ xxx?
 PSB071	no::, non è xx m[are:]
 PSB073	[quel]la grande, quello nero
 PSB071	cozze °tipo°
 PSB073	cozze sì, quelli delle cozze
 PSB071	ma ci son le cozze [là? (.) te] stai in mare:?
-PSB073	[>sìs,ìs,ì<]
+PSB073	[>sì sì sì<]
 PSB073	>no, no< nel fiu~ a~ anche nel fiume
 PSB071	°ah [sì]?°
 PSB073	[c(io)è], anche, anche, anche nei laghetti ci son delle cozze
@@ -585,7 +585,7 @@ PSB071	°mai vist[o]°
 PSB073	[sì] però:::, quelli col guscio più grande, ch[e: ci sono] cozze anche così grande, dov~ dove::, fanno a::, [(il coso)]
 PSB071	[a:h]
 PSB071	[e si mangiano] da noi?
-PSB073	>non,o< da [noi] non si mangiano, dove f~, dove::, dove nascono le perle
+PSB073	>no, no< da [noi] non si mangiano, dove f~, dove::, dove nascono le perle
 PSB071	[°a:h°]
 PSB071	okay
 PSB073	dentro (.) >quelli, quelli< grandi
@@ -619,7 +619,7 @@ PSB072	[eh quello:], e, sotto anche:::
 PSB074	in estate lì
 PSB072	((ride))
 PSB074	>ma, ma< (.) è che quello, c(io)è se hai la pelle, in realtà se hai la pelle >mista, grassa, secca<, qualsiasi (.) quello va benissimo
-PSB072	poi, poi cosa facevamo, sai (.) c'è, c'è laghetto no?, intorno ci sono delle case
+PSB072	poi, poi cosa facevamo, sai (.) c'è, c'è laghetto no? intorno ci sono delle case
 PSB072	(dei) case di altri, e proprio: o, a~, alla riva del laghetto, c'è, c'erano dei::, dei::, dei alberi delle:, di giuggiolo, #boroi no?
 PSB071	sì
 PSB073	e allora, se andavi a prendere [da (.) da, da, fa~], facevi::
@@ -628,7 +628,7 @@ PSB073	ti urlavano in faccia no, non puoi prendere: x[xx] e allora cosa facevamo
 PSB071	[°eh certo°]
 PSB073	nuotavamo là, andavamo lì: alla riva:, rimaneva nel~ nell'acqua e lanciavo dei sassi sopra e cadevano giù ((ride)) e prendevamo (e tornavamo indietro) ((ride))
 PSB072	no io:, invece io, casa di mia <nonna> (.) pa~ <materna> (.) aveva proprio il::, albero del:: (.) #catal (.) #jack #fruit
-PSB073	#_ °#jack #fruit°
+PSB073	°#jack #fruit°
 PSB073	[>ma, ma<], ma hai mangiato lei?
 PSB072	[e::]
 PSB071	chi?
@@ -640,7 +640,7 @@ PSB071	[e poi lo] abbiamo comprato[::]
 PSB074	[sì], al supermerc[ato::]
 PSB071	[quello sciro]ppato (.) °quello sotto sci[roppo]°
 PSB073	[a:h], ok[ay]
-PSB074	°[cos'è] quello sciroppato?, perché quello sciroppato?°
+PSB074	°[cos'è] quello sciroppato? perché quello sciroppato?°
 PSB073	dove l'avete trovato?
 PSB071	[xxx] quello:: (.) è in liquido, è:, il coso
 PSB074	no io non l'ho mai bevuto così
@@ -674,7 +674,7 @@ PSB071	[no::], sua mamma ha comprato il #jack #fruit
 PSB072	sì:
 PSB071	però::, non sapev~ (.) si son sporcati [di:: <colla>]
 PSB074	[sì ma perché non s~] (.) [era, era] an[ni fa:]
-PSB073	[>sì, sì, sì<]
+PSB073	[>sì sì sì<]
 PSB073	>[devi, devi], devi, devi< [mettere:: olio prima: (.) prima: prima di farlo:]
 PSB071	[xx OLIO xxx]
 PSB074	[era]vamo verame~, c(io)è, avevo quattordici anni, non sapevamo [un cavolo di xxx]
@@ -704,7 +704,7 @@ PSB072	anche #pumpkin::
 PSB074	a::h sì:: buonissime:: (.) [della zucca, [°della zucca?°]
 PSB071	[quelle le fa sì sì]
 PSB072	[sì, quello] di zucca pure::
-PSB072	non [lascia ma~::]
+PSB072	non [lascia ma~]
 PSB071	[puoi farlo quando fac]ciamo:: (.) vuoi tenere i semi?
 PSB074	ma io solitamente lo faccio eh, [°però (solo°)]
 PSB071	[lo fate la] zucca, con (.)
@@ -725,8 +725,8 @@ PSB071	con
 PSB074	eh
 PSB071	fai:::
 PSB074	potete fare che, voi la tagliate e lu~ lui vi aiuta, ma la sua la [può °colorare°]
-PSB071	[lui la svuota] (°se [lo vuole°) (.) o la dipinge, colora (:) gli fa la maschera (anche)]
-PSB074	[lui la può colorare anche, la dipinge (:) dipingere] con le temeper[e]
+PSB071	[lui la svuota] (°se [lo vuole°) (.) o la dipinge, colora (.) gli fa la maschera (anche)]
+PSB074	[lui la può colorare anche, la dipinge (.) dipingere] con le temeper[e]
 PSB071	[e]cco, vuole truccare, trucca e[:::]
 PSB074	[no è belli]ssimo, c(io)è può disegnare tutto quello che vuole, è un'attività molto bella
 PSB071	[dai, in questi giorni, fatelo]

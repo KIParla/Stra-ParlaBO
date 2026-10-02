@@ -17,7 +17,7 @@ PSB143	prima stavo facendo i quiz di patente
 PSB142	eh come sta andando
 PSB143	ma guarda è di una noia mortale
 PSB142	lascia stare lascia stare
-PSB143	guarda spero di prenderla #inshāllāh però
+PSB143	guarda spero di prenderla #inshāḷḷāh però
 PSB142	sì sì
 PSB143	di questo passo non so eh quando
 PSB142	eh
@@ -113,8 +113,8 @@ PSB142	mh
 PSB143	e niente vabbè ho l'esame il ventisei giugno
 PSB142	mh
 PSB142	dai
-PSB142	ce la fai secondo me #inschallah
-PSB143	sì #inshallah speriamo di sì
+PSB142	ce la fai secondo me #inshaḷḷāh
+PSB143	sì #inshaḷḷāh speriamo di sì
 PSB143	tu invece che cosa stai facendo
 PSB142	adesso sto preparando un esame
 PSB143	mhmh
@@ -122,7 +122,7 @@ PSB143	quando ce l'hai
 PSB142	mh
 PSB142	fra un mese circa
 PSB143	sì
-PSB142	#_ āllāḥ y-3āwn-ek, āmīn
+PSB142	#_ allāḥ yʕāwn-ək āmīn
 PSB142	che si chiama strutture dati e algoritmi
 PSB142	è diviso in due parti teoria e programmazione laboratorio
 PSB143	sì
@@ -248,8 +248,8 @@ PSB143	sì
 PSB142	sì cerca di capire
 PSB143	se mi prendono
 PSB143	boh
-PSB142	#_ inshāllāh
-PSB143	si vedrà #inshāllāh
+PSB142	#_ inshāḷḷāh
+PSB143	si vedrà #inshāḷḷāh
 PSB143	però sì questi corsi avevo intenzione di farli
 PSB142	ma sì ma sì
 PSB143	e
@@ -286,11 +286,11 @@ PSB142	sì sì sì sì
 PSB143	le vacanze
 PSB142	subito
 PSB143	no infatti
-PSB143	ehm quindi direi di no magari #inshāllāh dopo l'estate
+PSB143	ehm quindi direi di no magari #inshāḷḷāh dopo l'estate
 PSB142	mh
 PSB143	potrei andare lì a vedere la mia famiglia però è an~ cioè è ancora difficile perché sarebbero i primi mesi
 PSB142	esatto
-PSB143	però secondo me mia madre #inshāllāh potrebbe andare da sola
+PSB143	però secondo me mia madre #inshāḷḷāh potrebbe andare da sola
 PSB142	e tua sorella rimarrebbe qua con te
 PSB143	e
 PSB143	eh io non lo so perché avrebbe poi la sessione
@@ -307,7 +307,7 @@ PSB142	dei weekend da qualche parte non farmi una vacanza di un tre settimane du
 PSB142	cioè in marocco che non studio torno a casa che non ho toccato libro per tre settimane mi cioè riprendere mh non è
 PSB142	non è me~ cioè il massimo
 PSB142	quindi non lo so adesso vedo non lo so ci devo pensare
-PSB142	stavo comu~ vol~ parlavo con che volevamo andare a fare la
+PSB142	stavo comu~ vol~ parlavo con che volevamo andare a fare la #l-ʕomrah
 PSB142	a dicembre
 PSB143	ci sta
 PSB142	che costa avevamo trovato costa anche poco quattrocento cinquecento euro
@@ -317,7 +317,7 @@ PSB142	sì
 PSB142	eh mio padre vorrebbe farlo anche con e
 PSB142	però non lo so
 PSB143	mh
-PSB142	mh però dicono che comunque i bambini lì cioè
+PSB142	mh però #subḥān #aḷḷāḥ dicono che comunque i bambini lì cioè
 PSB142	mh non lo so che comunque essendo un luogo di culto è comunque la
 PSB142	cioè mh
 PSB142	di pellegrinaggio e così via cioè comunque che si senta che s~ e sia un luogo anche molto pacifico per per i bimbi nel senso che
@@ -367,8 +367,8 @@ PSB142	eh i mie genitori vorrebbero fa~ vorrebbero farne dieci
 PSB143	mhmh
 PSB142	però per me va bene anche otto giorni
 PSB143	ma sì
-PSB143	vabbè che la potrebbe essere anche tre giorni forse meno
-PSB142	ma la la fai anche in tre o~ la fa in tre ore letteralmente
+PSB143	vabbè che la #ʕumra potrebbe essere anche tre giorni forse meno
+PSB142	ma la #ʕumra la fai anche in tre o~ la fa in tre ore letteralmente
 PSB143	sì
 PSB143	sì
 PSB142	però di loro vorrebbero tornare lì e tornare lì cioè
@@ -382,7 +382,7 @@ PSB143	dopo potresti mandarmi il sito del
 PSB142	sì ma adesso adesso c~ cioè adesso che vado a casa perché devo andare te lo mando subito va bene
 PSB143	xx x
 PSB143	mhmh
-PSB143	dai va bene #inshāllāh grazie mille
+PSB143	dai va bene #inshāḷḷāh grazie mille
 PSB142	gra~ ma grazie a te per questa merenda ci vediamo
 PSB143	dai ci vediamo a domani
 PSB142	cia~

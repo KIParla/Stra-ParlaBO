@@ -77,9 +77,9 @@ PSB034	tu non parli arabo
 PSB014	no allora io parlo il dialetto però n c~ non arabo tradizonale #fuṣḥā capito
 PSB034	sì
 PSB014	no
-PSB034	#_ dārija ((ride))
+PSB034	#_ dārija
 PSB014	#dārija bravo
-PSB034	#_ dārija xx dārija ((ride))
+PSB034	#_ dārija xx dārija
 PSB033	ehm e perché sei venuto qua se posso chiedere perché sei venuto qua a bologna
 PSB034	mh
 PSB014	per lavoro studio
@@ -205,7 +205,7 @@ PSB033	è più grande
 PSB034	sì
 PSB014	quindi è da
 PSB033	tu quant~ tu quanti anni hai scusa
-PSB034	eh settembre prossimo #kammel venti
+PSB034	eh settembre prossimo #nkəmməl venti
 PSB033	venti ah
 PSB014	ah okay dai
 PSB033	e tuo fratello
@@ -248,13 +248,13 @@ PSB034	cosa cibo
 PSB033	cibo cibo
 PSB014	pizza pasta
 PSB033	pizza pasta o
-PSB034	#_ tajine ((ride))
-PSB033	#_ tajine eh
-PSB014	#tajine e quindi preferisci quello marocchino
-PSB033	ta~ #tajine o pizza
-PSB033	#_ tajine
-PSB034	#_ tajine tajine ((ride))
-PSB033	meglio #tajine più buono
+PSB034	#_ ṭājīn
+PSB033	#_ ṭājīn eh
+PSB014	#ṭājīn e quindi preferisci quello marocchino
+PSB033	ta~ #ṭājīn o pizza
+PSB033	#_ ṭājīn
+PSB034	#_ ṭājīn ṭājīn
+PSB033	meglio #ṭājīn più buono
 PSB014	eh lo so è un casino
 PSB033	e qua a bologna
 PSB034	però pizza è buono
@@ -264,7 +264,7 @@ PSB033	e
 PSB034	in italia in marocco no
 PSB033	eh
 PSB014	eh eh sì lo so
-PSB033	e qua dove dove mangi il #tajine lo fai a casa
+PSB033	e qua dove dove mangi il #ṭājīn lo fai a casa
 PSB014	lo sai fare te
 PSB034	sì vado a casaxxx
 PSB033	ah
@@ -370,7 +370,7 @@ PSB014	marocchino
 PSB014	okay sì lo conosco
 PSB014	sì
 PSB033	eh io no io non lo conosco
-PSB014	#_ vuol dire tipo tipo pistola
+PSB014	#xxx vuol dire tipo tipo pistola
 PSB033	ah
 PSB014	xxx
 PSB033	xxx
@@ -496,7 +496,7 @@ PSB034	marocco caldo quanti caldo
 PSB014	troppo caldo lo so
 PSB014	però a me non piace il freddo
 PSB014	mh invece tipo la montagna il mare cosa preferisci
-PSB034	#ni tu
+PSB034	#xx xx
 PSB014	entrambi
 PSB034	sì
 PSB033	mh
@@ -606,7 +606,7 @@ PSB014	alfabeto arabo
 PSB034	sì
 PSB014	mh
 PSB033	okay
-PSB014	mhmh behquindi sai anche il f~ cioè sai due alfabeti
+PSB014	mhmh beh quindi sai anche il f~ cioè sai due alfabeti
 PSB014	bello
 PSB014	e hai detto che abiti mh qua vicino
 PSB014	in che zona abiti di bologna
@@ -645,7 +645,7 @@ PSB034	perché non mi piace
 PSB014	no
 PSB014	però l'autobus c'è tante gente non mi piace neanche quindi
 PSB014	hai preso anche il treno per caso treno
-PSB034	sìsì
+PSB034	sì sì
 PSB014	mhmh per andare nelle altre città
 PSB034	sì
 PSB014	mh okay

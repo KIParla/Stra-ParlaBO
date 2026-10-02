@@ -313,7 +313,7 @@ PSB003	quando facevo la laurea
 PSB003	italia in italia si dice trienna~ mentre per da noi è quadriennale
 PSB005	okay
 PSB003	durano quattro anni la laurea
-PSB003	sì una xx xx poi co i miei colleghi della classe
+PSB003	sì una xx xx poi co~ i miei colleghi della classe
 PSB005	ah okay
 PSB003	mhmh
 PSB005	e a napoli ti sei trovata bene
@@ -470,7 +470,7 @@ PSB005	okay
 PSB003	anche ra~ venezia
 PSB003	sono delle cose secondo me eh abbiamo imparato dall'elementare ci sono dei testi nel manuale di cinese
 PSB005	mhmh
-PSB003	de raccontava un po' la storia di colosseo oppure la città venezia
+PSB003	de~ raccontava un po' la storia di colosseo oppure la città venezia
 PSB003	tutto questo che
 PSB005	okay
 PSB005	okay è è è interessante questa cosa sì

@@ -218,7 +218,7 @@ PSB005	[mhmh]
 PSB018	normale molto normale per vivere la <vita>
 PSB018	#_ m:h full
 PSB005	mh[mh]
-PSB018	#_
+PSB018	#_ [li]fe
 PSB005	sì sì sì
 PSB018	e per la persona eh
 PSB018	#_ of middle:
@@ -785,7 +785,7 @@ PSB005	[°sì sì°]
 PSB005	[eh bene]
 PSB005	e mi fa piacere
 PSB018	sì e que[sto no]n è come un: e:hm complimento per farti: e[:h ma que]sto è re~ re~ [realtà] la mia real[tà la mi]a: m:h
-PSB005	[°molto°*
+PSB005	[°molto°
 PSB005	[certo sì sì]
 PSB005	[sì sì sì]
 PSB005	[°mhmh°]
@@ -1419,7 +1419,7 @@ PSB005	[sì] sì sì sì
 PSB018	qualche $ingrediento per la pas[ta]
 PSB005	[mh]mh certo
 PSB018	qualche tipo come <fritte> o al forno o un altro modo
-PSB018	e:h ma è un gra:nde: tipo come pasta per itali[ani] di i tipi diversi con la salsa diversa i: for[ma:] e:
+PSB018	e:h ma #_ pirožki è un gra:nde: tipo come pasta per itali[ani] di i tipi diversi con la salsa diversa i: for[ma:] e:
 PSB005	[mhmh sì]
 PSB005	[mhmh]
 PSB018	come preparare allora

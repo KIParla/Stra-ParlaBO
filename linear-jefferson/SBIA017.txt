@@ -44,7 +44,7 @@ PSB147	eh no- non si fa fare con e:h (.) INGLESE [°non so°]
 PSB146	[mhmh]
 PSB146	sì lo (.) [devi fare] in italiano all'uni[versità]
 PSB147	[°sì sì°]
-PSB147	[sì sì] sì
+PSB147	[sì sì] sì
 PSB146	esatto
 PSB146	e: tu invece adesso cosa stai facendo
 PSB153	adesso: (.) niente ((ride))
@@ -76,7 +76,7 @@ PSB147	((ride))
 PSB147	no (.) lei segue (io) ((ride))
 PSB153	no: [lui]
 PSB147	[(ah no)]
-PSB146	[tu non fai] tiktok
+PSB146	[tu non fai] tiktok
 PSB147	[xx] (.) no io: (.) n- non ce l'ho
 PSB146	e [allora perché] ti segue
 PSB147	[non ce l'ho tiktok]
@@ -107,7 +107,7 @@ PSB153	e:hm (.) ma m- altro cosa? °m:h° (.) dormire ((ride))
 PSB146	((ride))
 PSB147	[x]
 PSB153	[perché sem]pre dormi
-PSB147	e parla tanto
+PSB147	e parla tanto
 PSB153	((ride))
 PSB146	e pa[rla tanto]
 PSB153	[e parla tanto]
@@ -197,7 +197,7 @@ PSB153	mh[mh]
 PSB146	[tu] invece mi hai detto che vuoi fare
 PSB147	e:h informatica (.) [#cyber] #security
 PSB146	[info-]
-PSB146	#_ #cyber #security
+PSB146	#cyber #security
 PSB147	esatto
 PSB146	okay °e pe-° come mai?
 PSB146	°volete° vuoi fare questa cosa?
@@ -225,7 +225,7 @@ PSB147	°[(eh)]°
 PSB153	eh sì
 PSB146	caftan
 PSB153	sì [#qafṭān] marocch- (.) marocch- [(.)] [-ino]
-PSB147	#_
+PSB147	#_ [qafṭān]
 PSB147	[°sì°]
 PSB146	[così], oppure abiti più:
 PSB153	sì questo anche: un altro cosa per le le #ʕabāya così
@@ -245,12 +245,12 @@ PSB147	io ho detto °xxx° lui fa il brand
 PSB146	mhmh
 PSB147	e:h [(così)]
 PSB153	[di a- a-] sì anch'io ((ride)) [xxx] ((ride))
-PSB146	dovete fare (.) una società
+PSB146	dovete fare (.) una società
 PSB147	sì (.) dobbiamo br- br- brand (.) questo è un brand
 PSB147	(°cosa f-°)
 PSB146	un brand?
 PSB153	un [brand tipo xx]
-PSB147	[sì sì anche (in] in) in italia[no (eh sì sì perché)] vorrei fare il brand per le:
+PSB147	[sì sì anche (in] in) in italia[no (eh sì sì perché)] vorrei fare il brand per le:
 PSB146	[in italiano (.) un brand]
 PSB146	[mhmh]
 PSB147	maglia g- e:h (.) felpa (.) capito?
@@ -281,7 +281,7 @@ PSB146	l- okay [(.) pr]ima l'abbigliamento e [poi studi]
 PSB147	[sì]
 PSB147	[sì sì sì già ho [già fa- già] fatto il [programma eh]
 PSB153	[per me non è:]
-PSB153	[non è] adesso
+PSB153	[non è] adesso
 PSB147	eh per me già fatto il programma con il mio: [amici]
 PSB153	[ah]
 PSB146	°ah° [quindi già: (.) preparato]
@@ -293,9 +293,9 @@ PSB147	comprare: il #machine da #china
 PSB146	okay le macchine
 PSB147	le macchine esatto
 PSB146	°mhmh okay° (.) [i macchinari]
-PSB147	#_ #machine
+PSB147	#machine
 PSB147	sì i macchinari dal: e:h
-PSB147	eh: non so come (si chiama) xyāṭa? (.) #machine xyāṭa?
+PSB147	eh: non so come (si chiama) #_ dyāl xyāṭa? (.) #machine #_ dyāl xyāṭa?
 PSB153	mhmh
 PSB147	#_ dyāl xyāṭa
 PSB153	#ma-ʕrəft-sh ((ride)) [non lo so] ((ride))
@@ -370,7 +370,7 @@ PSB146	okay
 PSB146	e:h[m::]
 PSB153	[e:h magari la:]
 PSB147	[per me] (.) ti piace parlare tanti [lei]
-PSB153	[magari] con [xx]
+PSB153	[magari] con [xx]
 PSB146	[sì tu mi hai detto che conosci tante] lingue tu quant- che lingue conosci?
 PSB147	[°xx sì sì°]
 PSB153	francese
@@ -464,7 +464,7 @@ PSB153	[°ma°]
 PSB146	allora da poco
 PSB153	sì:
 PSB146	okay quindi: lui [studia]?
-PSB153	[dove è] il mio regalo
+PSB153	[dove è] il mio regalo
 PSB146	ah non ha fatto il rega[lo]
 PSB153	[eh] ((ride)) no ((ride))
 PSB147	io
@@ -578,10 +578,10 @@ PSB147	[no:]
 PSB153	[mhmh]
 PSB146	[e:h] (.) [costa di più]
 PSB147	[magari]
-PSB147	[xx] costa di più sì
+PSB147	[xx] costa di più sì
 PSB147	però magari
 PSB146	però [quindi fai]
-PSB153	[magari] cambiare in italia
+PSB153	[magari] cambiare in italia
 PSB146	e:h è cost[osa bologna]
 PSB147	[e:h sì] sì bologna:
 PSB146	però [sei in af]fitto dove:
@@ -636,7 +636,7 @@ PSB147	[io non c'è tem]po
 PSB146	[non la guardi]
 PSB147	veramente non c'è tempo
 PSB146	vabbè tu fai tre lavori [°quindi°]
-PSB147	[sì] fai (.) tre lavori
+PSB147	[sì] fai (.) tre lavori
 PSB147	vado palestra e:
 PSB147	anche cucino
 PSB146	eh
@@ -663,7 +663,7 @@ PSB146	non li vuole
 PSB153	°(non gli piacciono)° ((ride))
 PSB146	e: quindi
 PSB146	[(combatti)]
-PSB147	[xx] sì sì ((ride))
+PSB147	[xx] sì sì ((ride))
 PSB147	nel mio negozio
 PSB146	ah [bello (.) anche lui] viene a [fare il taglio] ((ride))
 PSB147	[sì esatto]
@@ -704,7 +704,7 @@ PSB147	[(eh)] (.) italiano
 PSB146	in [italiano]
 PSB153	[anch'][io:]
 PSB147	[s]ì
-PSB146	[ma che] [ci sono] in tivù:, o al cinema?
+PSB146	[ma che] [ci sono] in tivù:, o al cinema?
 PSB147	[sì]
 PSB147	no anche in cinema
 PSB146	anche [al cine(ma)]
@@ -715,7 +715,7 @@ PSB153	((ride))
 PSB147	anche cinema da:
 PSB147	casalecchio
 PSB147	[è grande (.) esatto °sì sì sì°]
-PSB146	[a:h casalecchio ah bello quello dal e:h gran reno]
+PSB146	[a:h casalecchio ah bello quello dal e:h gran reno]
 PSB153	[casalecchio] è grande?
 PSB146	sì que- eh [(.)] quello al [gran reno]
 PSB147	[sì sì]
@@ -749,7 +749,7 @@ PSB146	e guardate in [italiano] °(i film)° (.) okay
 PSB153	[SÌ]
 PSB146	[e:] riesci a capire abbastanza?
 PSB147	[mh]
-PSB153	sì [ecco] c'è il problema del e:h del- della lingua italiana che io capito tutto
+PSB153	sì [ecco] c'è il problema del e:h del- della lingua italiana che io capito tutto
 PSB146	[sì]
 PSB146	mhmh
 PSB153	però per parlare c'è l- la ((ride))
@@ -806,10 +806,10 @@ PSB147	[°france- francese]
 PSB147	[francese]
 PSB146	[anche] francese? (.) ok[ay]
 PSB147	[pe]rò per me:
-PSB147	#_ (#like)
+PSB147	(#like)
 PSB147	cinquanta per ce:nto ing- inglese
 PSB146	in[glese]
-PSB147	[almeno] °(esatto)°
+PSB147	[almeno] °(esatto)°
 PSB147	xxx[xxx rock] esatto
 PSB146	[sì vabbè: rock così sono:]
 PSB153	[mh]
@@ -924,7 +924,7 @@ PSB146	perché tifi napoli? ((ride))
 PSB153	((ride)) perché mi piace i napolita- ((ride))
 PSB146	[ah ti piacciono i napoleta-] ((ride))
 PSB147	[xxx (.) e:h] l'accento napoletano [l'accento]
-PSB146	[no no] a lei piacciono i napole[tani] ((ride))
+PSB146	[no no] a lei piacciono i napole[tani] ((ride))
 PSB147	[a:h okay] io mi pia- [mi piace]
 PSB153	[perché] uguali di l- di l'arabi:
 PSB146	[sì l'han detto anche l'altra volta le altre:]
@@ -1008,7 +1008,7 @@ PSB147	[è diffi]cile
 PSB147	perché difficile
 PSB153	perché diffi-
 PSB147	perché diffici[le]
-PSB153	l-ḥṛām°
+PSB153	#_ wuld l-ḥṛām°
 PSB147	[dai (.) (spiega)]
 PSB153	[perché difficile], (.) ecco
 PSB153	perché in italia non c'è tanti il e:hm
@@ -1126,7 +1126,7 @@ PSB146	tu stavi dicendo belgio, [olanda],
 PSB153	[a:h ec]co belgio e olanda c'è tanti marocchini ricchi ((ride))
 PSB146	[tu vuoi sposare un marocchi]no (.) o un [napoletano]
 PSB147	[esatto sì sì]
-PSB153	[s:i] no marocchino
+PSB153	[s:i] no marocchino
 PSB146	un marocchi(no) ((ride))
 PSB153	perché c'è d- e:hm (.) c'è tanta differenza per marocchini e anche gli italiani
 PSB153	però [c'è tante (la- ragazza)] sposate per la (.) no: (.) anche il eh del e:h (.) di islam
@@ -1144,13 +1144,13 @@ PSB153	no:
 PSB146	no?
 PSB147	#ʕlāsh? sì: (.) [xx sì]
 PSB146	[e quindi perché l'islam]
-PSB153	#_ [#kīfāsh]?
+PSB153	[#kīfāsh]?
 PSB147	eh sei religiosa
 PSB147	#_ eh muslīma
 PSB153	ah sì sono musulma(na) ((ride))
 PSB147	sì esatto [sì e:h]
 PSB153	[no: oh scusa non capito]
-PSB146	[sì sì sei musulmana però: mh] segui le regole? cioè ad esempio non hai il velo no?
+PSB146	[sì sì sei musulmana però: mh] segui le regole? cioè ad esempio non hai il velo no?
 PSB153	[sì:]
 PSB147	[sì sì]
 PSB153	n:o
@@ -1176,7 +1176,7 @@ PSB153	io voglio sposate con la l'uomo: ((sospira)) amo
 PSB153	per- c(io)è [c'è l'amore:]
 PSB146	[che ami]
 PSB146	[°(sì)° è uno scherzo °(su)°]
-PSB147	[esatto xxx] noi con il [soldi]
+PSB147	[esatto xxx] noi con il [soldi]
 PSB153	[(sì) tu] >non non< parli e:h ((ride)) per l'amore ((ride)) per favore ((ride)) [perché questo persona] ((ride))
 PSB146	[(lui che:) è stato lasciato]
 PSB147	[no: perch]é::
@@ -1194,7 +1194,7 @@ PSB147	mh?
 PSB146	che segno sei
 PSB147	xxxxx
 PSB146	e:hm (.) zo[diacale]
-PSB153	[anche lui:] è: $muslimano
+PSB153	[anche lui:] è: $muslimano
 PSB146	no no [(.)] quella è la religione
 PSB153	[ah]
 PSB146	quando sei nato? (.) che mese
@@ -1213,7 +1213,7 @@ PSB146	ventotto marzo [okay]
 PSB147	[esa]tto
 PSB153	però [ariete:]
 PSB146	[saranno traditori gli scorpioni ((ride))
-PSB153	((ride)) shhaṛ?
+PSB153	((ride)) #_ īna shhaṛ?
 PSB147	mh (.) novembre
 PSB153	ah okay
 PSB147	pr[imo novem-]
@@ -1255,11 +1255,11 @@ PSB153	eh sì: (.) economia aziendale (.) allora stai [zitto]
 PSB146	[tu cosa] hai fatto alle superiori
 PSB147	e:hm
 PSB153	niente ((ride))
-PSB147	[no::] #physique: (.) chimiques<
+PSB147	[no::] #physique:> #_ sciences chimiques<
 PSB153	cimic- [e:h chimica]
 PSB147	[ci]
 PSB146	[chimi]ca?
-PSB147	chimica chimiques< [$simica]
+PSB147	chimica > #_ sciences chimiques< [$simica]
 PSB153	[sì (.) chi]mic[a]
 PSB147	[sì] chimica
 PSB146	ah c'è una solo chimica alle superi[ori in marocco]?
@@ -1322,7 +1322,7 @@ PSB153	e sono bocciata quella: seconda superiore
 PSB153	la terzo anno non voglio fa- ((ride))
 PSB146	ma non hai fa- finito qua le superiori?
 PSB153	no
-PSB153	[solo il] secondo superiore
+PSB153	[solo il] secondo superiore
 PSB146	[a:h]
 PSB146	ah non hai finito le supe[riori a:h] okay okay
 PSB153	[no]
@@ -1394,7 +1394,7 @@ PSB147	°[sì] prima quattro anni°
 PSB147	però dipende: cosa:
 PSB146	sì di quello che stu[di sì sì sì]
 PSB147	[sì esatto]
-PSB153	anche tu sei: (in) universi[tà]
+PSB153	anche tu sei: (in) universi[tà]
 PSB146	[sì] io ho fatto tre anni, e adesso sto facendo gli altri due
 PSB153	mh
 PSB146	di lingue
@@ -1507,13 +1507,13 @@ PSB147	[no: xx]
 PSB147	la mattina
 PSB147	io fatto il (.) e:h pancake
 PSB146	pancake
-PSB147	°panc-° (.) dopo: (.) alle dieci fatto un: snack da: protei::- [anche] #shūfān non lo so #shūfān
+PSB147	°panc~° (.) dopo: (.) alle dieci fatto un: snack da: protei::~ [anche] #shūfān non lo so #shūfān
 PSB146	[okay]
 PSB153	[ecco di prote]i:ne
 PSB147	[xx snack]
 PSB147	protei:ne e:h
 PSB147	dalle undici dodici ho fatto un (.) riso p- di e:h (.) petto di pollo: anche pomodoro
-PSB147	#salade (.) un originaire
+PSB147	#salade (.) un #_ salade originaire
 PSB146	okay
 PSB147	dai cin- dal cinque ai sei de poi [a- anche uno snack (.) sì e fatt]o
 PSB146	[quanti pasti fai tanti pasti]

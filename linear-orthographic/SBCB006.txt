@@ -26,13 +26,13 @@ PSB093	gli argomenti sensibili che loro non
 PSB093	non non non ha non
 PSB093	non costruiscono questo tipo di dibattito o discorso
 PSB093	eh vabbè vabbè vabbè
-PSB093	#_ parla al telefono na o accha jete chaccho e hummm
+PSB093	#_ na o accha jete chaccho e hummm
 PSB093	okay va bene
 PSB005	okay
-PSB093	#_ parla al telefono onk shomoy chole jabe to sir ami gele shomoy noshto hoy jabe onk
+PSB093	#_ onk shomoy chole jabe to sir ami gele shomoy noshto hoy jabe onk
 PSB093	era questo xx
 PSB093	eh
-PSB093	nite hobe onk robbar er jonno
+PSB093	#_ shobji nite hobe onk robbar er jonno
 PSB093	okay
 PSB093	grazie
 PSB005	okay

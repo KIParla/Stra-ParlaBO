@@ -1,12 +1,12 @@
 PSB005	va bene okay ehm dimmi che cosa hai studiato in marocco
 PSB027	ho studiato fisica e chimica
-PSB027	alluniversità eh di una città che si chiama el jadida
+PSB027	alluniversità eh di una città che si chiama #əl-jadīda
 PSB005	okay e d~
-PSB027	la città si chiama el jadida ma l'università si chiama chouaib doukkali
+PSB027	la città si chiama əl-jadīda ma l'università si chiama #chouaib #doukkali
 PSB005	okay e dove si trova
 PSB027	l'università
-PSB027	el jadida
-PSB027	la città si chiama el jadida
+PSB027	#əl-jadīda
+PSB027	la città si chiama #əl-jadīda
 PSB005	nella zona del quale ma- zona del marocco
 PSB027	mh marocco diciamo più vicino a~ al mare proprio la città
 PSB005	mhmh
@@ -15,7 +15,7 @@ PSB027	tanti qua diciamo italiani non la conoscano
 PSB005	infatti
 PSB027	se non hanno visitato il marocco
 PSB027	però ti posso dire che è più vicino a casablanca di cento chilometri più o meno
-PSB027	è tra una città che si chiama asafi e una città che si chiama casablanca
+PSB027	è tra una città che si chiama #asfī e una città che si chiama casablanca
 PSB005	mh okay
 PSB027	è in mezzo
 PSB005	la città di casablanca l'ho sentita nominare
@@ -35,7 +35,7 @@ PSB027	l'università di più di trent'anni
 PSB005	mh okay mh okay
 PSB027	perché è l'unica che c'era
 PSB027	diciamo lì
-PSB027	dove abitavo io si chiama sepatz la città
+PSB027	dove abitavo io si chiama #sebt #saiss la città
 PSB005	mhmh
 PSB027	ma tutti quelle che diciamo
 PSB027	vanno a fare l'università o vanno a una città che si chiama marrakech o vanno a casablanca o vanno a el jadida
@@ -431,7 +431,7 @@ PSB005	mhmh
 PSB027	se al marocco o in italia
 PSB027	devo trattare le altre persone anche se non sono $musilmane devo trattarle per bene
 PSB005	mhmh
-PSB027	perché il nostro libro #qur'ān
+PSB027	perché il nostro libro #qurʔān
 PSB027	ha parlato di queste cose qua
 PSB027	non c'è differenza da uno
 PSB005	mh
@@ -1126,7 +1126,7 @@ PSB027	casablanca wydad
 PSB005	mhmh
 PSB027	casablanca
 PSB027	e poi ultimamente prima c'era una squadra che si chiama far
-PSB027	in arabo #ǧayš #al-malakī
+PSB027	in arabo #ghaysh #al-malakī
 PSB027	e c'era un'altra mi sa berkane
 PSB027	adesso le ultime diciamo famose
 PSB005	okay ma e

@@ -383,7 +383,7 @@ PSB005	qui
 PSB042	sì è vero
 PSB005	di più nei paesi arabi secondo te
 PSB042	sì
-PSB042	#_ vrai
+PSB042	#vrai
 PSB005	ah eh io non lo so perché non lo conosco molto
 PSB005	è interessante questo questa cosa che dici
 PSB042	è vero
@@ -528,7 +528,7 @@ PSB005	mhmh
 PSB042	ma #en gira~ generale tutto capisco e parlare l'arabo
 PSB005	mhmh mhmh
 PSB005	e po~
-PSB042	come mia madre come l mia mi grande arabo
+PSB042	come mia madre come l~ mia mi grande arabo
 PSB005	mhmh
 PSB005	sì sì
 PSB005	mhmh
@@ -616,7 +616,7 @@ PSB005	sì non hai molto tempo libero
 PSB042	no se uscire solo giro eritorno
 PSB005	mhmh
 PSB042	ma non è $conosche #beaucoup #*de
-PSB042	l'ap~ lele altre sempre ce l'ho suo cose occupato
+PSB042	l'ap~ le le altre sempre ce l'ho suo cose occupato
 PSB005	mhmh
 PSB005	xxxxx
 PSB042	tutto è occupato
@@ -1071,7 +1071,7 @@ PSB005	e sono andata dalla parrucchiera
 PSB042	mhmh
 PSB005	però basta
 PSB005	in faccia una mia amica mi ha aiutato
-PSB042	face
+PSB042	#_ en face
 PSB042	è brav~
 PSB005	ma tu ti sei sposata qui
 PSB042	no mia paese
@@ -1113,7 +1113,7 @@ PSB042	perché sempre eh nascita
 PSB005	per la nascita
 PSB042	#quand arriva bambino serve compra compra mio padre una
 PSB042	come si chiama
-PSB042	#_ mouton
+PSB042	#mouton
 PSB005	mhmh
 PSB042	lo sai cos'è #mouton
 PSB005	no
@@ -1123,7 +1123,7 @@ PSB042	eh
 PSB005	mh prova a spiegarmi pr~
 PSB042	dimenticato sì sì sì aspetta arabo italiano
 PSB005	sì
-PSB042	#_ kharoof
+PSB042	#xarūf
 PSB042	pecora
 PSB005	ah sì ah ma lo sapevo allora sì che scema sì
 PSB042	be

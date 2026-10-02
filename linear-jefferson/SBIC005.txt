@@ -1022,7 +1022,7 @@ PSB009	#netherland e questo [(.) vicino]
 PSB005	[mhmh (.) eh]
 PSB009	eh tre paesi xx
 PSB005	vicino sì sì
-PSB009	#_ #switzerland
+PSB009	#switzerland
 PSB005	mhmh
 PSB009	dan~ danimarca
 PSB005	eh io non s~ eh non sono stata in un sacco di questi posti in svizzera sì questa è la svizzera no?
@@ -1289,7 +1289,7 @@ PSB009	eh q~ qua~ qual~ cosa: mi piace:
 PSB009	e:::h
 PSB009	questo parola
 PSB005	sì sì (.) intui[zione sì sì]
-PSB009	[mi piace:] (.) intu~ (~) intuito
+PSB009	[mi piace:] (.) intu~ (.) intuito
 PSB005	mhmh
 PSB009	e:::h ho trovato
 PSB009	solo una perso~ -sona piace (.) altezza
@@ -1660,7 +1660,7 @@ PSB009	eh ho guardato il testo in cinese
 PSB009	e:hm ((ride)) ho de~
 PSB009	una volta ehm mi ha detto un'amica italiana
 PSB009	#_ you don't know how smart i am when i speak chinese
-PSB009	((ride))
+PSB009	((ride)) #_ so
 PSB009	m:h anche quando: eh prima della entrare da (.) entrato nel accademia ehm io (posso) faccio più bello nel:: liceo anche (primo) e letteratura
 PSB005	mhmh okay
 PSB005	ho capito okay

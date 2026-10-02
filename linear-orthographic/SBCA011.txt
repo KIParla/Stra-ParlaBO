@@ -392,7 +392,7 @@ PSB165	io i miei la mia musica é l- musica latina
 PSB164	ah okay ci sta e allora la riviera è perfetta per te
 PSB165	io io s~ s~ ah eh ma insomma
 PSB164	non si trova molto
-PSB165	cioè ti dico io son~ il weekend vado sul lungo mare ma i #chiringuiti chiudono alle undici e mezza
+PSB165	cioè ti dico io son~ il weekend vado sul lungo mare ma i #*chiringuiti chiudono alle undici e mezza
 PSB164	mhmh
 PSB164	ma infatti io sta cosa non la capisco
 PSB165	eh perché ci son gli hotel dietro perché così dopo villa delle rose come si fa a riempire villa papete come si riempie cioè capito tutta questione di business il coconuts come si riempie
@@ -580,7 +580,7 @@ PSB165	infatti io non l'ho mai più vista
 PSB164	cioè adesso è a casa qua però è sempre con dei clienti quindi fai fatica a incontrarla
 PSB164	ma mh
 PSB165	ah certo certo così infatti
-PSB164	però anche lei ha otto anni più di me quindi ne ha ha trenta
+PSB164	però anche lei ha otto anni più di me quindi ne ha ha trenta~
 PSB164	trentatré anni quest'anno sì
 PSB165	trentatré
 PSB164	esatto li compie
@@ -625,13 +625,13 @@ PSB165	sai cosa mi serve adesso quando vado tra le nuvole eh l'inglese
 PSB164	mh
 PSB165	l'inglese con cui p~ con cui puo~
 PSB164	che ti hanno ra~ ti hanno spiegato male magari a~ alle scuole
-PSB165	sì cioè l'unica roba che mi serve cioèmh tutto il resto non mi serve a niente e io cioè prendo da lì decollo vado su l'unica roba che mi serve è l'inglese
+PSB165	sì cioè l'unica roba che mi serve cioè mh tutto il resto non mi serve a niente e io cioè prendo da lì decollo vado su l'unica roba che mi serve è l'inglese
 PSB164	mhmh
 PSB164	mh mh
 PSB165	però l'inglese aeronautico che son dovuto andare a dar la certificazione in inghilterra
 PSB164	eh
 PSB164	davvero
-PSB165	son anda~ so eh sì perché t~ richiedono il l~ livello quattro #*icao
+PSB165	son anda~ so eh sì perché t~ richiedono il l~ livello quattro icao
 PSB164	tosta
 PSB165	#_ international civil aviation organization eh
 PSB164	certo
@@ -856,7 +856,7 @@ PSB165	ci sta no no ma ti dico ci sta ma io quella roba ti giuro non
 PSB164	mh
 PSB165	non ci ho mai capito non non mi sono mai appassion~ cioè vedo le person~
 PSB164	no no ma sì sì
-PSB165	ci sono delle mie amiche che tutti i giorni vanno a vedere lì il #robo com'è che si chia~ il
+PSB165	ci sono delle mie amiche che tutti i giorni vanno a vedere lì il robo com'è che si chia~ il
 PSB164	certo
 PSB164	co-star
 PSB164	la l~ quell'app
@@ -951,7 +951,7 @@ PSB165	no no no
 PSB165	quello quello è vero assolutamente però cioè quello ti crepa nelle mani per per mille e cinquecento euro
 PSB164	mh
 PSB164	capito
-PSB164	no devi essere #straforte non non sarebbe lavoro per me
+PSB164	no devi essere straforte non non sarebbe lavoro per me
 PSB165	no neanche io no in ospedale ma va là l'infermiere
 PSB164	non ce la farei
 PSB164	ma poi magari ti arrivano i bambini
@@ -1093,7 +1093,7 @@ PSB164	sì sì
 PSB164	mhmh
 PSB165	se no prenditi una tachipirina mille
 PSB164	ma anche per dire se devi lavorare ci sta prendere qualcosa
-PSB165	sì mh anc~ l'oki #task quello da prendere sotto la lingua poi basta poi non deve essere una droga
+PSB165	sì mh anc~ l'oki task quello da prendere sotto la lingua poi basta poi non deve essere una droga
 PSB164	esatto
 PSB164	sì
 PSB164	no no è vero
@@ -1126,7 +1126,7 @@ PSB164	sì è vero a me fa ridere perché sì
 PSB165	il cactu~ al cactus va lui entra vedi chi entra oh more~ conosci morelli del cactus
 PSB164	sì sì sì
 PSB165	morelli dai su fammi un caffè va là
-PSB164	no mi fa #straridere anche perché
+PSB164	no mi fa straridere anche perché
 PSB165	guarda il casco
 PSB164	io io anche quando vado a bellaria che magari incontro dei miei amici no gli racconto sempre di jean claude e loro quando vanno a santarcangelo che poi lo incontrano lo riconoscono sì sì
 PSB165	lo becchi lì
@@ -1397,7 +1397,7 @@ PSB164	ah no
 PSB164	no no no
 PSB165	non lo sapevi io pensavo che lo sapevi
 PSB164	no
-PSB164	sono sotto #shock
+PSB164	sono sotto shock
 PSB165	tutti stan~ oh tutti tu~
 PSB164	ma è presto ragazzi ma non c'è fretta
 PSB165	giulia siamo rimasti solo noi giulia siamo rimasti solo noi
@@ -1533,7 +1533,7 @@ PSB165	dai il tempo al tempo no xxx xxx
 PSB164	non ho fretta
 PSB165	non devi #*badgiare il ca~ cartellino
 PSB164	ma io non lo sapevo di alex
-PSB164	ah sono sotto #shock ma mia mamma secondo me non lo sa perché non mi ha detto niente
+PSB164	ah sono sotto shock ma mia mamma secondo me non lo sa perché non mi ha detto niente
 PSB165	non lo sa
 PSB165	ah se la desirée non
 PSB164	ah s~ forse non l'ha detto

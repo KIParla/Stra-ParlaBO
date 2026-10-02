@@ -307,7 +307,7 @@ PSB093	[n]o::
 PSB094	si è gonfiato a[desso]?
 PSB093	[si è] un po' gonfiato adesso, [la ma]ttina un po':: [(°andate°)]
 PSB094	[nero]?
-PSB094	[livido]?, è uscito °il livido°?
+PSB094	[livido]? è uscito °il livido°?
 PSB093	°m::h°, la mattina [l'ho vi]sto ancora un po' aden~ che:, c(io)è un po' gon[fio], però, m:h, non è, m:h, non si vede [molto]
 PSB094	[°mh°]
 PSB094	[sì:]
@@ -359,7 +359,7 @@ PSB093	questa ragazzina:
 PSB094	mhmh
 PSB093	mhmh
 PSB093	[e]
-PSB094	[e c]ome:?, ma, è f~, è [una paren]te di:
+PSB094	[e c]ome:? ma, è f~, è [una paren]te di:
 PSB093	[e
 PSB093	mhmh
 PSB094	ah
@@ -540,7 +540,7 @@ PSB093	tutto quanto qui, perciò succede: [che] quell'epoca:, (.) inglesi loro s
 PSB005	[°sì°]
 PSB093	con chi:, c~, strettamente tu fai collaborazione, (.) porti queste persone lavorare in inghilterra
 PSB094	>sì<
-PSB093	stato questo [no:]pe,rché, come loro veniva a lavorare qui, alcuni per~, alcuni lavori [:, che molto] costoso, in inghilterra, e[ra molt]o, molto: m:h, CON[VENIENTE]
+PSB093	stato questo [no:] perché, come loro veniva a lavorare qui, alcuni per~, alcuni lavori:, [che molto] costoso, in inghilterra, e[ra molt]o, molto: m:h, CON[VENIENTE]
 PSB094	[>sì<]
 PSB094	[andavano lì]
 PSB094	[prima x]
@@ -916,7 +916,7 @@ PSB094	è bravissimo poi a disegnare [tu dagli] qualsiasi [cosa da] [disegna]re:
 PSB005	[mhmh]
 PSB093	[°sì°]
 PSB005	[°mhmh°]
-PSB094	[la riseguirà, io ho dei suoi xx], io ho dei disegni che lui ha f[atto per] me quest'estate conservati dove mi ha disegnata insieme alla sore~::
+PSB094	[la riseguirà, io ho dei suoi xx], io ho dei disegni che lui ha f[atto per] me quest'estate conservati dove mi ha disegnata insieme alla sore~
 PSB005	[era felicissimo, ((ride)) e infatti:] ((ride))
 PSB005	[°mhmh°]
 PSB005	[a:h davve]ro:?
@@ -954,7 +954,7 @@ PSB094	[io:]
 PSB005	[sì:]
 PSB094	[io s]olo per qualche bambino ho:, sono un po': preoccupata, per esempio (.) un po' mi pre[occupa:]
 PSB093	[sì: per]ché lei ha una malattia genetica
-PSB094	A:H, °e nessuno me l'ha detto ° ((ride))
+PSB094	A:H, °e nessuno me l'ha detto° ((ride))
 PSB093	((ride))
 PSB005	che cosa?
 PSB093	e: lei m::h, avuto:, m:h, un malformazione
@@ -1003,7 +1003,7 @@ PSB094	anche ogni tanto:: m::h, NON come si impegna capisce quello che stiamo fa
 PSB093	questa ragazza che: <MOLTO> grande [della sua:]
 PSB094	[è alta e] magrissima:
 PSB093	(ua) okay [°okay°]
-PSB094	[no è la s]orella di:@,hasan [quel bambino piccolo:]
+PSB094	[no è la s]orella di:, [quel bambino piccolo:]
 PSB093	oh, loro] sono appena arriv[ati:][::]
 PSB095	[°eh sì°]
 PSB094	[sì quest'esta]te son[o:: hanno iniziato]
@@ -1037,7 +1037,7 @@ PSB093	io:: m::h, preoccupavo per l'altra ragazza
 PSB094	quale?
 PSB093	che fa:, scuola media secondo me: questa:, >°prima media [seconda]°<
 PSB094	no
-PSB093	for[se si chia]ma no?, questa è un po' cicciottella:
+PSB093	for[se si chia]ma no? questa è un po' cicciottella:
 PSB094	mhmh
 PSB093	eh (.) perché: (.) lei:
 PSB093	e::h, l'anno scorso la pagella:

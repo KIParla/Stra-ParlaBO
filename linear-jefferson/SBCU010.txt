@@ -41,7 +41,7 @@ PSB150	questo xxxx qua?
 PSB149	per te
 PSB150	#_ u menya krugloe litso
 PSB150	de tutto
-PSB149	((ride)) kolobok
+PSB149	((ride)) #_ kak kolobok
 PSB150	ehm
 PSB149	((ride))
 PSB150	non è vero
@@ -361,7 +361,7 @@ PSB150	solo a parole grave xxxx
 PSB150	se li prendi uno per uno,
 PSB149	sì sì lo so
 PSB150	vedrai che li passa la paura
-PSB150	#_ kohda rot otkroesh tebia vse boiatsia uzhe
+PSB150	#_ kohda rot otkroesh tebia vse boiatsia uzhe
 PSB149	ah quello sì
 PSB149	però ecco (.) sono stronzate che
 PSB150	no
@@ -397,7 +397,7 @@ PSB150	poi dopo ti cresce la pancia
 PSB149	mh
 PSB150	allora c'è io
 PSB149	ah uff
-PSB150	#_ mozhno idti ty chto vodu ne p'esh'? prinesi butylku u tebya v komnate stoit
+PSB150	#_ mozhno idti ty chto vodu ne p'esh'? prinesi butylku u tebya v komnate stoit
 PSB149	un rotolo di carne
 PSB150	dove?
 PSB150	#_ davaj pomazh'

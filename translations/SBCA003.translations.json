@@ -24,19 +24,35 @@
     "text": "no c'è cartagena xx c'è cartagena in america c'è cartagena xx"
   },
   {
-    "tu_id": "257",
+    "tu_id": "246",
+    "speaker": "PSB100_trad",
+    "start": "571.330",
+    "end": "571.790",
+    "parent_tu_id": "245",
+    "text": ""
+  },
+  {
+    "tu_id": "258",
     "speaker": "PSB100_trad",
     "start": "595.480",
     "end": "596.330",
-    "parent_tu_id": "256",
-    "text": "hai la testa dura"
+    "parent_tu_id": "257",
+    "text": "hai la faccia tosta"
   },
   {
-    "tu_id": "356",
+    "tu_id": "328",
+    "speaker": "PSB099_trad",
+    "start": "763.590",
+    "end": "764.550",
+    "parent_tu_id": "327",
+    "text": "[e sarebbe sbagliata?]"
+  },
+  {
+    "tu_id": "358",
     "speaker": "PSB099_trad",
     "start": "835.850",
     "end": "837.220",
-    "parent_tu_id": "355",
+    "parent_tu_id": "357",
     "text": "quella ti abbiamo detto il volo"
   }
 ]

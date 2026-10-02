@@ -405,7 +405,7 @@ PSB156	così puoi fare tante cose quando hai poco tempo fai [comunque] tante cos
 PSB141	[a:h sì]
 PSB156	e i piatti marocchini invece?
 PSB156	li continui [a fare]?
-PSB141	[sì sì] sì sì cous cous #tajine tutte le cose marocchine sì sì
+PSB141	[sì sì] sì sì cous cous #ṭājīn tutte le cose marocchine sì sì
 PSB156	mh
 PSB141	°sì°
 PSB141	PERÒ ADESSO: EH EH EH I MIEI FIGLI PIACCIONO EH EH PIATTI ITALIANI [perché] TUTTA LA GIORNA:[TA:: EH] SÌ
@@ -430,7 +430,7 @@ PSB156	[mhmh]
 PSB156	[mhmh]
 PSB141	quello
 PSB156	quindi: ma c'è: un piatto marocchino che però a loro piace ta:nto?
-PSB141	sì cous cous [o al]tro: si chiama #rfissa
+PSB141	sì cous cous [o al]tro: si chiama #rfīssa
 PSB156	[e:h]
 PSB156	ah [okay]
 PSB141	[fanno] col po:llo: [e::] pane sotti::le
@@ -492,11 +492,11 @@ PSB156	[a:h]
 PSB156	sì::?
 PSB141	prend~ perché in marocco prendiamo i vestiti nuovi per i bi[mbi]
 PSB156	[sì:]
-PSB141	no no fa::- faccio tutto anche facciamo #henna per i bi[mbi] una cosa significa la [gio:ia:]
+PSB141	no no fa::- faccio tutto anche facciamo #ḥənna per i bi[mbi] una cosa significa la [gio:ia:]
 PSB156	[a:h]
 PSB156	[mhmh]
 PSB156	ah c(io)é ogni disegno ha il suo significato?
-PSB141	no no [solo le::] allora l'- l'#henna significa la gi[o:ia] hai capito? [quando] mettiamo mettiamo solo quando c'è una fe:sta: o::
+PSB141	no no [solo le::] allora l~ l'#ḥənna significa la gi[o:ia] hai capito? [quando] mettiamo mettiamo solo quando c'è una fe:sta: o::
 PSB156	[no]?
 PSB156	[ah okay]
 PSB156	[sì]
@@ -823,7 +823,7 @@ PSB156	[ecco]
 PSB156	[okay]
 PSB156	okay
 PSB156	o quando va::i non lo so:: in qualche po[sto::: (.) pubblico]?
-PSB141	[sì sì anche l'- (.) sì]
+PSB141	[sì sì anche l~ (.) sì]
 PSB156	usano il francese?
 PSB141	sì sì
 PSB156	ah okay
@@ -872,9 +872,9 @@ PSB141	sì come ho detto c'è un lago gra::nde m::h tutto il contorno ristora::n
 PSB156	[a::h]
 PSB156	[mhmh]
 PSB141	anc~ mh ci so~ ristoranti b~ bellissimi anche fanno dei cibi buonissimi
-PSB141	poi::: e::::hm trov(i) dentro c'è: (.) ragazze che fanno l'#henna
+PSB141	poi::: e::::hm trov(i) dentro c'è: (.) ragazze che fanno l'#ḥənna
 PSB156	[mhmh]
-PSB141	ci sono tante raga[zze] che fanno (.) #henna
+PSB141	ci sono tante raga[zze] che fanno (.) #ḥənna
 PSB156	[mhmh]
 PSB141	dai beni mellel e::hm
 PSB141	tutti gli turisti che vanno questa parte per[ché è] una parte famo:sa anche c'è un caste:llo
@@ -900,7 +900,7 @@ PSB156	[nel~ in quel]la città o anche in altre città?
 PSB141	ci sono delle altre città mh mio zio a marrakech
 PSB156	mh okay
 PSB141	°sì:°
-PSB141	<vicino una:> piazza che si chiama #jemaa #el-fna
+PSB141	<vicino una:> piazza che si chiama #jāmʕa #əl-fna
 PSB141	°sì sì°
 PSB156	mhmh (.) quindi ci vai ogni tanto anche lì:?
 PSB141	sì sì
@@ -965,7 +965,7 @@ PSB141	questa la mi:a so:rella ha fatto un ehm (.) lei ha avuto due gemelle ha f
 PSB156	[okay]
 PSB156	che b[e:llo]
 PSB141	°[sì] sì è così°
-PSB141	questa è il #henna che si vede
+PSB141	questa è il #ḥənna che si vede
 PSB156	mhmh
 PSB156	ah ti ho vista un giorno che ce l'avevi
 PSB141	((ride))

@@ -237,7 +237,7 @@ PSB039	# e:hm (.) #especially quando io ero: (.) m:h ero più piccolo
 PSB005	e: (.) ti piacciono anche: non so ti piace la musica::: m::h?
 PSB039	no la musica non mi piace neanche nostra e::: neanche: russa mi piace: di più inglese
 PSB005	mhmh
-PSB005	ma però c'è un~ una ci [son dei can]tanti ucra[ini]:,°s[ì]°
+PSB005	ma però c'è un~ una ci [son dei can]tanti ucra[ini]:, °s[ì]°
 PSB039	[sì]
 PSB039	[sì]
 PSB039	[s]ì
@@ -470,7 +470,7 @@ PSB005	o solo le ragazze?
 PSB039	ah io non lo io non lo so e:hm
 PSB039	so: solo: un ragazzo che: che è italiano e: seconda che è american(a) e:
 PSB039	e solo vive: (.) e:hm qua da venti anni
-PSB039	e quindi: quel ragazzo no~: lui: non parla circa di:
+PSB039	e quindi: quel ragazzo no~ lui: non parla circa di:
 PSB005	okay (.) okay
 PSB005	mi ha f~ mi fa ridere questa cosa gli italiani sono molto fissati (.) ossessionati con ((ride)) con il cibo
 PSB005	ma il cibo italiano ti piace hai prova[to:]?
@@ -498,7 +498,7 @@ PSB005	a:h okay
 PSB005	e adesso e:h vabbé non non voglio chiedere:: (.) troppo ((ride)) [quindi]
 PSB039	mh[mh]
 PSB005	°quindi° c'è una tradizione nella tua famiglia
-PSB005	hai g~ sentito parlare dell'italia:: (.) tante volte
+PSB005	hai g~ sentito parlare dell' italia:: (.) tante volte
 PSB005	quando eri piccolino
 PSB039	mh[mh]
 PSB005	[già] sentivi::

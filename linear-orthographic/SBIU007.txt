@@ -251,7 +251,7 @@ PSB031	otto anni
 PSB005	okay ah tanto
 PSB005	sì sì sì
 PSB031	sì e adesso eh ho mh
-PSB031	#_ i think stop again ((ride))
+PSB031	#_ i think stop again
 PSB005	eh beh puoi provare puoi con calma
 PSB031	sì
 PSB005	puoi provare
@@ -301,7 +301,7 @@ PSB031	xx
 PSB031	#_ jakos' vony po-inšomu nazyvajut'sja
 PSB030	#_ net ty ščo chočeš skazat'
 PSB005	mirtilli mirtilli forse
-PSB030	#_ ne tak samo (.) ja dyvylasja tak samo
+PSB030	#_ ne tak samo ja dyvylasja tak samo
 PSB031	no no no
 PSB005	beh cerca cerca
 PSB030	mhmh
@@ -335,7 +335,7 @@ PSB005	però la pasta
 PSB005	mh
 PSB005	l~ l'esterno bisogna impastarlo
 PSB030	sì
-PSB030	#_ tonko tonko ne znaju ja
+PSB030	#_ tonko tonko ne znaju ja
 PSB005	difficile secondo me sì
 PSB030	eh sì ehm
 PSB030	ehm bisogna mh avere el~ el tempo libero per fare questo
@@ -410,7 +410,7 @@ PSB005	mhmh
 PSB031	o
 PSB030	come si chiama
 PSB030	#_ ta po-moemu takže
-PSB031	#_ ta kožnoho dnja novyj dyvymosja ((ride))
+PSB031	#_ ta kožnoho dnja novyj dyvymosja
 PSB030	ah ogni giorno è nuovo
 PSB005	ah cioé sì sì sì tipo serie tivù anche forse
 PSB031	sì
@@ -648,12 +648,12 @@ PSB030	mh
 PSB005	bologna è più piccola
 PSB030	xxxxx
 PSB005	sì sì
-PSB031	#_ nu takož mil'jon je
+PSB031	#_ nu takož mil'jon je
 PSB030	ehm anche dnipro circa milione
 PSB031	eh adesso ehm
 PSB031	più perché molte persone mh
 PSB031	$movimente #to mh
-PSB031	#_ to safe place ((ride))
+PSB031	#_ to safe place
 PSB005	sì sì sì certo e perché la tua città è più sicura
 PSB031	mh
 PSB005	di altre
@@ -692,7 +692,7 @@ PSB030	mh
 PSB005	perché in italia proprio
 PSB030	perché in italia ehm
 PSB030	perché mia figlia eh a fare mh ginnastica ritmica
-PSB030	e noi aiutare ehmnomesocietà
+PSB030	e noi aiutare ehm
 PSB005	ah
 PSB030	ehm ehm noi scrive a ponte vecchio e ehm
 PSB030	a noi rispondere

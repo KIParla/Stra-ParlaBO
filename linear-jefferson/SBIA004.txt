@@ -468,7 +468,7 @@ PSB005	e magari un po' vi riuscite a capire
 PSB017	si con quelli sì
 PSB017	ma è poco si parla di egitto:
 PSB017	o li:bia, tunisia, algeria
-PSB017	e:h #saʕūdi(yya) e basta (sei) paesi quanta ne puoi incontrare di quella gente lì
+PSB017	e:h #_ ʔimārāt #saʕūdi(yya) e basta (sei) paesi quanta ne puoi incontrare di quella gente lì
 PSB017	(uno so) [con mesi]
 PSB005	[ah raramente] quindi raramente
 PSB017	si ma ci sono i pakistani bangladesh eh e:::h romania, ucraina tutto il mondo [qua]
@@ -688,7 +688,7 @@ PSB025	potevo(ci) anche non: [(xxx xxx xxx)]
 PSB017	[scusami
 PSB005	xxx xxx xxx
 PSB017	[ti inte]rrompo non sto parlando per
-PSB017	per il penale o per i l'i- l'- l'ingiustizie
+PSB017	per il penale o per i l'i~ l~ l'ingiustizie
 PSB017	quelle proprio quelle sto parlando
 PSB017	per i litigi noi come stranieri
 PSB017	è il primo problema

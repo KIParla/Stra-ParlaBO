@@ -1,10 +1,18 @@
 [
   {
-    "tu_id": "215",
+    "tu_id": "81",
+    "speaker": "PSB034_trad",
+    "start": "96.507",
+    "end": "97.280",
+    "parent_tu_id": "80",
+    "text": "arabo dialettale marocchino"
+  },
+  {
+    "tu_id": "216",
     "speaker": "PSB034_trad",
     "start": "278.413",
     "end": "283.560",
-    "parent_tu_id": "214",
+    "parent_tu_id": "215",
     "text": "settembre prossimo ne compio venti"
   }
 ]

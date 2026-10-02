@@ -148,7 +148,6 @@ PSB121	sì
 PSB122	no non comprare moto vintage perché
 PSB121	conta
 PSB121	oh ah non sapevo che fosse vintage xxx
-Commenti	vintage
 PSB121	pensavo più
 PSB122	la lambretta
 PSB121	mh
@@ -239,7 +238,6 @@ PSB121	però però però è dotata di un pannello
 PSB121	laterale a doppio strato
 PSB121	la sua base è un'ingegnosa trave centrale in acciaio
 PSB121	da uno virgola due $millimitri
-Commenti	millimitri
 PSB121	che si estende bla bla bla bla
 PSB121	ah dettaglio di prodotto
 PSB121	mh anche questo è carino comunque

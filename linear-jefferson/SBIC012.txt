@@ -600,7 +600,7 @@ PSB081	no: dopo una: una strada diventa bella e esce pulita
 PSB005	mhmh
 PSB081	almeno non c'è buco ((ride)) è vero se no perché c'è un buco sempre c'è un buco capito
 PSB005	certo
-PSB081	perché (potamo) buttar giù un sacco di soldi (,) la strada tutto nuova
+PSB081	perché (potamo) buttar giù un sacco di soldi (.) la strada tutto nuova
 PSB005	certo certo (.) e e bologna ti piace?
 PSB081	mh (.) così così
 PSB081	non è che per piace o non piace l'importante è per lavoro
@@ -1676,7 +1676,7 @@ PSB005	[certo]
 PSB081	io pe~ io pa:- io penso così (.) e:h
 PSB081	io tengo lavoro giusto:
 PSB081	così io datore lavoro xxx
-PSB081	quindi per mie per me lavoro molto tranquillo (~) non mi licenziare mai
+PSB081	quindi per mie per me lavoro molto tranquillo (.) non mi licenziare mai
 PSB005	no cer[to]
 PSB081	[io] penso così
 PSB005	[invece]

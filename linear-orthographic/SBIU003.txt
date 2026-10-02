@@ -327,7 +327,7 @@ PSB011	certo
 PSB012	sì ci sono
 PSB012	ci sono
 PSB011	sì sì
-PSB011	beh però insomma ehm è è bello insomma che che siete qua ma riuscite anche a mantenere magari un po' anche le tradizioni no de mh
+PSB011	beh però insomma ehm è è bello insomma che che siete qua ma riuscite anche a mantenere magari un po' anche le tradizioni no de~ mh
 PSB012	sì
 PSB012	pochino ma
 PSB012	perché
@@ -1313,7 +1313,7 @@ PSB012	sì
 PSB012	sul
 PSB011	da internet
 PSB012	sì sì sì
-PSB012	sul sui giornale si è diciamo l
+PSB012	sul sui giornale si è diciamo l~
 PSB012	ehm
 PSB012	ah come si chiama
 PSB012	che guardi tutti i giorni a alle otto il
@@ -1339,7 +1339,7 @@ PSB011	visto che
 PSB011	comunque la lingua è
 PSB012	eh sì certo però tra di noi si
 PSB012	cercan~ si si trovano quelli
-PSB012	quelli dialetti che n diciamo noi li diciamo mh entro un certo modo loro lo dicono
+PSB012	quelli dialetti che n~ diciamo noi li diciamo mh entro un certo modo loro lo dicono
 PSB011	mh
 PSB012	un'po l'altro
 PSB012	però
@@ -1352,7 +1352,7 @@ PSB012	lo stesso romania diciamo c'ha i regioni che sono più
 PSB011	mhmh
 PSB012	più al avvicinati alla moldavia a noi ucraina oppure alla russia e che anche loro certamente che
 PSB012	parlano tutti questi lingue eh che
-PSB012	no ognun~ ognuno paesino c'ha l mh
+PSB012	no ognun~ ognuno paesino c'ha l~ mh
 PSB011	mhmh
 PSB012	una sua dialetto eccetera
 PSB012	che non no
@@ -1470,8 +1470,8 @@ PSB012	che si usa anche lì e anche qua però è quello
 PSB011	quindi #limba
 PSB011	lo scrivi coi caratteri come si dice lingua
 PSB011	nel nel tuo dialetto
-PSB012	#_ limba
-PSB011	#_ limba
+PSB012	#limba
+PSB011	#limba
 PSB012	sì
 PSB011	eh c~ come in rumeno no
 PSB012	sì sì

@@ -613,7 +613,7 @@ PSB103	perché lo diceva s]empre lo diceva sempre la yan #lǎo #shī
 PSB102	((ride))
 PSB101	((ride))
 PSB103	aspetta (.) stranieri (c'è) #wei w~ [eh]
-PSB101	#_ #wài
+PSB101	#wài
 PSB103	#_ wo
 PSB101	#_ wài
 PSB103	#_ wài:
@@ -771,7 +771,7 @@ PSB054	[quindi:]
 PSB054	°mhmh°
 PSB054	quindi abbiamo assaggiato un bel po' di antipasti poi:
 PSB054	eh mi ricordo il bao piccante
-PSB102	#_ #bāozǐ
+PSB102	#bāozǐ
 PSB054	sì [i panini sì quelli] piccan~ [e però]
 PSB101	[come panino ripieno]
 PSB102	[piccante]?
@@ -1084,7 +1084,7 @@ PSB054	capito
 PSB103	lui parla molto bene l'italiano
 PSB103	è molto molto
 PSB103	fluente?
-PSB054	°sì? ° ((ride))
+PSB054	°sì?° ((ride))
 PSB101	io non l'ho senti[to]
 PSB103	[si dic]e?
 PSB054	((ride)) pen[so di] sì
@@ -1346,7 +1346,7 @@ PSB101	eh coniglio
 PSB103	coniglio
 PSB101	#_ nǐ shǔ shén me? hǔ ba
 PSB102	#_ niú
-PSB101	#_ #niú
+PSB101	#niú
 PSB101	toro
 PSB103	°toro°
 PSB054	°mh°

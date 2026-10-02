@@ -569,7 +569,7 @@ PSB005	[ah ieri okay]
 ???	e:h [abbiamo]la carta d'identità della signora
 PSB005	((starnutisce)) [scusa]
 ???	m[a:]
-PSB093	[°e] codice [fisca]leok?ay°
+PSB093	[°e] codice [fisca]le okay°
 ???	[sì sì]
 PSB093	si può controllare
 PSB093	°con carta d'identità codice fiscale sentire°

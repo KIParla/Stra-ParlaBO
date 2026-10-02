@@ -335,8 +335,8 @@ PSB091	chi dice #skalka
 PSB091	chi dice #kačalka
 PSB091	#_ skalka
 PSB127	#_ skalka
-PSB005	#_ skalka
-PSB129	#_ skalka
+PSB005	#skalka
+PSB129	#skalka
 PSB005	ehm
 PSB128	#_ a u nas šče kažut' skatilka
 PSB086	ecco ecco taglio
@@ -516,7 +516,7 @@ PSB086	importante è chiudere di mezzo così insegnano le nonne dopo ci vai atto
 PSB127	#_ ščo klala vaša znajoma
 PSB127	#_ ščos' bulo ja ne zapamjatala
 PSB091	#_ ja tam ne bula
-PSB127	#_ a ty tam ne bula?
+PSB127	#_ a ty tam ne bula
 PSB086	e questi e queste cinesi ravioli cinesi come sempre farina e acqua immagino cosa mettono altro niente
 PSB005	sì
 PSB005	niente farina e acqua e e poi avevamo una mh
@@ -554,8 +554,8 @@ PSB130	vabbè io domani chiamerò mia nonna e gli dirò guarda che ho imparato a
 PSB086	con le patate
 PSB130	sì
 PSB130	glielo dico
-PSB091	#_ ščo ty chočeš ravlykiv tobi brakuje ty meni skažy
-PSB127	#_ a ce ščo teper marсypany сe bljudo?
+PSB091	#_ ščo ty chočeš ravlykiv tobi brakuje ty meni skažy
+PSB127	#_ a ce ščo teper marсypany сe bljudo
 PSB086	mi piacciono molto di più queste come quelle con ricotta
 PSB086	e poi eh forse sapete già che si mangia con la panna
 PSB129	e quindi
@@ -962,7 +962,7 @@ PSB127	tante volte a l'inverno
 PSB005	okay
 PSB127	eh ah
 PSB127	come si dice a
-PSB127	#_ yizdyly v mynulomu chasi yak to bude?
+PSB127	#_ yizdyly v mynulomu chasi yak to bude
 PSB086	siete andati
 PSB127	sì
 PSB127	siamo andati
@@ -1105,7 +1105,7 @@ PSB129	un'altra un altro termine
 PSB086	come come di sicilia
 PSB129	ho detto #balocca
 PSB005	sì sì sì
-PSB129	#_ balocca
+PSB129	#balocca
 PSB130	tipo una palla fatta male eh sì
 PSB086	palermo palermo
 PSB005	no ma lei ha
@@ -1422,7 +1422,7 @@ PSB036	mhmhmh
 PSB129	quello tipo
 PSB128	somiglia somiglia tipo
 PSB086	x cosa parlate xxx
-PSB129	#_ cottage cheese
+PSB129	#cottage #cheese
 PSB005	ah lo yocca
 PSB129	tipo ricotta
 PSB091	#_ tvoroh xx

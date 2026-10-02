@@ -383,7 +383,7 @@ PSB005	per niente
 PSB001	ma voi sap~ sapete quella la fac~ la fa~ la $faticoltà si chiama
 PSB001	ah fisico eh
 PSB001	eh
-PSB001	#_ tiān wén xué (.) zǎ shuō de a
+PSB001	#_ tiān wén xué zǎ shuō de a
 PSB001	fisico
 PSB002	ah
 PSB002	astronomia
@@ -531,7 +531,7 @@ PSB005	mhmh ed è cinese
 PSB001	mhmh
 PSB005	ah okay okay
 PSB001	cinese sì
-PSB005	quindidiciamo che in casa tu parli cinese
+PSB005	quindi diciamo che in casa tu parli cinese
 PSB001	ah ah
 PSB005	di solito
 PSB001	io sempre parlo cinese
@@ -837,7 +837,7 @@ PSB002	non lo so
 PSB001	no
 PSB005	no okay no il coro qui è molto serio cioè mh
 PSB005	si trovano due volte alla settimana
-PSB005	e fanno vannoin giro
+PSB005	e fanno vanno in giro
 PSB005	viaggiano
 PSB002	mhmh ah
 PSB005	per fare i concerti
@@ -965,8 +965,8 @@ PSB002	ah
 PSB001	scusa
 PSB005	no no no prego prego prego
 PSB002	#_ xx nǐ shuō
-PSB001	#_ jiù shì (.) jiù shì tā
-PSB001	#_ jiù shì lù dì (.) rán hòu wài miàn yǒu yī quān hé yǒu
+PSB001	#_ jiù shì jiù shì tā
+PSB001	#_ jiù shì lù dì rán hòu wài miàn yǒu yī quān hé yǒu
 PSB002	ah
 PSB001	#_ rán hòu yòu yī quān lù dì rán hòu yòu yī quān hé yǒu
 PSB001	io cerco di circ~ circonda
@@ -1005,7 +1005,7 @@ PSB001	il programma
 PSB001	mi laurear~
 PSB001	laure~
 PSB001	laureo
-PSB002	a
+PSB002	a~
 PSB005	mhmh
 PSB002	sì sì insie~
 PSB001	laure~
@@ -1216,14 +1216,14 @@ PSB005	mhmh
 PSB001	modi
 PSB001	ah cucinare
 PSB002	sì
-PSB001	#_ suàn ma (.) bā zhǒng zuò fǎ
+PSB001	#_ suàn ma bā zhǒng zuò fǎ
 PSB002	#_ a bā zhǒng wǒ yǐ wéi nǐ shuō
 PSB002	#_ cài xì
 PSB001	#_ duì acài xì wǒ xiǎng shuō cài xì dàn wǒ bù zhī dào zěn me qù fān yì
 PSB002	#_ duì a
 PSB001	mh
 PSB002	sì
-PSB001	#_ bā zhǒng zuò fǎ (.) yīng gāi yě bù shì zuòfǎ
+PSB001	#_ bā zhǒng zuò fǎ yīng gāi yě bù shì zuòfǎ
 PSB002	otto filoni di
 PSB005	mhmh
 PSB002	cioè di cucina
@@ -1506,7 +1506,7 @@ PSB005	differente sì sì
 PSB002	sì sì
 PSB005	okay
 PSB001	sì
-PSB005	giustoe invece di cucina bolognese
+PSB005	giusto e invece di cucina bolognese
 PSB005	avete provato dei ristoranti che vi piacciono
 PSB002	sì
 PSB005	qual è il vostro preferito
@@ -1539,7 +1539,7 @@ PSB001	e
 PSB002	sud o nord
 PSB002	della piazza verde
 PSB005	eh qua ci devo pensare anch'io
-PSB001	#_ ((ride)) dōng shì shén me lái zhe
+PSB001	#_ dōng shì shén me lái zhe
 PSB005	verso la stazione
 PSB002	est
 PSB002	est
@@ -1614,7 +1614,7 @@ PSB002	sì
 PSB002	sì
 PSB005	adesso te la faccio vedere
 PSB002	ah cioè è è tipico bolognese
-PSB005	MAde dell'emilia romagna
+PSB005	ma de~ dell'emilia romagna
 PSB002	ah okay
 PSB005	sì della dell'emilia
 PSB002	forse
@@ -2152,7 +2152,7 @@ PSB001	sì
 PSB001	e invece
 PSB001	il mio dialetto è simile con
 PSB001	wu hàn sì chuān
-PSB001	è un'altra due l'altra mh provincia
+PSB001	è un' altra due l'altra mh provincia
 PSB005	mhmh
 PSB005	okay
 PSB001	sì
@@ -2338,7 +2338,7 @@ PSB005	sì
 PSB005	ti capita
 PSB005	di leggere
 PSB001	ah
-PSB002	#_ kàn bào zhǐ zhī lèi de (.) xīn wén
+PSB002	#_ kàn bào zhǐ zhī lèi de xīn wén
 PSB001	#_ hǎo xiàng
 PSB001	no no
 PSB005	no no okay no no ma non c'è niente di male eh non

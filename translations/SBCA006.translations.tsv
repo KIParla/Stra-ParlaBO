@@ -6,9 +6,9 @@ tu_id	speaker	start	end	parent_tu_id	text
 10	PSB125_trad	15.440	16.170	9	in marocco
 12	PSB125_trad	16.480	20.044	11	nella casa di zia @miriam o
 15	PSB126_trad	20.050	21.700	14	casa della tua zia @miriam
-18	PSB125_trad	24.320	25.780	17	ha ancora la seconda superiore?
+18	PSB125_trad	24.320	25.780	17	ha ancora la seconda superiore, lei?
 21	PSB126_trad	27.305	34.260	20	inviti le persone del marocco le sue amiche e la famiglia
-23	PSB125_trad	34.260	40.098	22	karim invece dove abita in marocco? vicino a noi?
+23	PSB125_trad	34.260	40.098	22	karīm invece dove abita in marocco? vicino a noi?
 26	PSB126_trad	38.600	43.460	25	lui abita a kenitra
 31	PSB126_trad	48.751	55.400	30	hai visto che qua in italia ha fatto la festa di matrimonio però manca quella del marocco
 33	PSB126_trad	56.250	63.200	32	per forza dobbiamo andare se dio vuole anche tu ci sarai, che vestito dovrai comprare? vestito
@@ -17,7 +17,7 @@ tu_id	speaker	start	end	parent_tu_id	text
 42	PSB126_trad	72.580	75.050	41	no no no quei vestiti li hai usati qua
 51	PSB126_trad	86.818	87.700	50	nude?
 53	PSB126_trad	88.150	89.340	52	tu e tuo padre?
-64	PSB126_trad	112.680	115.084	63	il kaftano conosciuto in marocco
+64	PSB126_trad	112.680	115.084	63	il caftano conosciuto in marocco
 71	PSB125_trad	126.660	129.305	70	alta non so come dire alta moda? di moda
 83	PSB126_trad	150.780	155.271	82	ma sei una ragazzina ci vuole eh eh ti serve una cosa una cosa semplice
 89	PSB126_trad	167.377	170.306	88	non posso comprarti uno da mille euro
@@ -29,138 +29,146 @@ tu_id	speaker	start	end	parent_tu_id	text
 182	PSB126_trad	339.560	340.460	181	speriamo su dio
 194	PSB126_trad	358.840	359.650	193	lasciala suonare
 214	PSB126_trad	400.230	401.990	213	andiamo andiamo tutti insieme
-216	PSB126_trad	403.000	404.986	215	assistiamo al matrimonio se dio vuole
-223	PSB125_trad	423.510	426.980	222	mamma parla normalmente cioè
-225	PSB126_trad	425.690	428.817	224	eh sto parlando normalmente normalmente
-227	PSB125_trad	427.720	432.430	226	non parli molto in arabo in italiano quando sei da sola con me
-229	PSB126_trad	432.081	434.498	228	no io parlo molto in italiano
-232	PSB126_trad	436.950	439.949	231	eh figlia mia non vuoi andare che cosa devo fare io?
-236	PSB126_trad	444.000	446.180	235	se dio vuole se dio vuole
-238	PSB126_trad	447.200	449.650	237	perché perché potrebbe esserci la guerra
-241	PSB126_trad	450.680	452.570	240	potrebbe esserci
-246	PSB126_trad	459.010	463.000	245	non sappiamo se è per davvero o se sono bugie o se
-248	PSB126_trad	464.010	465.260	247	non sappiamo
-250	PSB126_trad	466.410	468.030	249	e poi da lì si vedrà
-252	PSB126_trad	470.052	479.990	251	io vorrei andare con voi vorrei che andassimo in tre se dio vuole in marocco così vedete la vostra casa e ci abitate per un po' se dio vuole
-255	PSB126_trad	482.480	489.496	254	eh sì un anno sì e un anno no io non vi dirò tutti gli anni andiamo però un anno sì e un anno no
-257	PSB126_trad	490.870	493.150	256	pure un anno sì e due anni no?
-260	PSB126_trad	495.450	511.020	259	eh basta speriamo se dio vuole che anche @said si sposa e che anche te ti sposi se dio vuole quando finisci gli studi se li finisci se dio vuole e che tu poi possa lavorare
-262	PSB126_trad	511.460	515.259	261	comprare la macchina prendere la patente e poi comprare la macchina se dio vuole
-264	PSB125_trad	517.164	518.238	263	parli ancora con @sara?
-266	PSB126_trad	519.580	524.150	265	a volte adesso che si è sposata troppo impegnata mh
-268	PSB126_trad	524.860	527.935	267	non ci siamo più sentite tanto com'era una volta
-273	PSB126_trad	531.530	532.289	272	no no
-275	PSB126_trad	533.780	538.188	274	non siamo ancora andati non ha ancora comprato il tavolo con le sedie
-277	PSB126_trad	538.953	541.259	276	non ha ancora messo a posto la casa
-279	PSB126_trad	544.050	545.473	278	ancora non è pronta
-281	PSB125_trad	549.680	552.246	280	e @fatima e le sue figlie?
-284	PSB126_trad	553.299	557.390	283	silla ha fatto il pellegrinaggio è andata in arabia
-288	PSB126_trad	564.780	569.679	287	perché ti ho visto che non parli in arabo non lo imparerai mai così tu mai impari l'arabo
-290	PSB126_trad	571.010	574.250	289	se continui così a parlare solo italiano italiano italiano italiano
-292	PSB125_trad	574.390	583.230	291	devo parlare per forza un po' di italiano se no questa non capirà niente. Mi ha detto parla anche in italiano
-295	PSB126_trad	582.710	585.369	294	non hai visto come prima parlavo in italiano però tu mi hai detto di non parlare più in italiano
-297	PSB125_trad	585.400	595.183	296	no nel senso parla normalmente pure io devo parlare normalmente io non parlo molto in arabo cioè parlo normale come tutti i giorni
-299	PSB125_trad	595.850	600.964	298	capito? così che la cosa poi sembra capito? così che poi la cosa sembra eh
-302	PSB125_trad	602.000	603.950	301	sembra
-304	PSB126_trad	603.000	612.569	303	speriamo in dio se dio vuole che quest'anno duemila e venticinque sia se dio vuole
-306	PSB125_trad	610.620	612.530	305	quindi non parli con loro?
-308	PSB126_trad	613.040	614.194	307	non parlo con loro
-310	PSB125_trad	614.490	615.200	309	basta?
-312	PSB126_trad	616.210	616.845	311	con chi?
-314	PSB125_trad	617.690	619.865	313	con silla e le sue figlie
-316	PSB126_trad	619.360	623.762	315	@samira ti ho detto che @fatima è in pellegrinaggio
-318	PSB125_trad	622.846	624.746	317	al matrimonio non
-326	PSB126_trad	638.770	642.394	325	no non è quello non è non è quello il problema
-333	PSB126_trad	652.080	659.020	332	come i matrimoni in marocco o i matrimoni che si fanno qua nelle sale dove tutti mangiano e puoi invitare anche i tuoi amici
-335	PSB126_trad	659.230	662.779	334	invece il il ristorante costa alla persona
-356	PSB126_trad	716.170	718.113	355	però è passato bene da lei
-365	PSB126_trad	734.861	738.976	364	è stato molto bello e ha pure piovuto quel giorno
-368	PSB126_trad	745.270	746.950	367	sarai tu la prossima (a sposarti) se dio vuole
-370	PSB126_trad	748.610	749.334	369	se dio vuole
-377	PSB126_trad	757.700	759.280	376	era bella
-393	PSB126_trad	784.390	791.215	392	xxx aveva tanti capelli non parlare mai dei bambini piccoli così cioè
-405	PSB126_trad	817.250	820.475	404	i bambini piccoli sono tutti belli
-411	PSB126_trad	831.992	833.873	410	assomi::- assomigliava a suo padre
-414	PSB126_trad	835.480	837.061	413	che mamma assomigliava a suo padre
-418	PSB126_trad	840.770	842.880	417	no quelo con i capelli neri
-429	PSB126_trad	861.569	862.384	428	quella bassa
-432	PSB126_trad	865.730	867.117	431	stava tenendo in mano sua figlia
-436	PSB126_trad	869.960	871.925	435	eh stava tenendo sua figlia
-442	PSB125_trad	881.500	883.010	441	dall'arabia saudita
-446	PSB126_trad	890.030	892.050	445	la bocca dell'altra grande
-458	PSB126_trad	910.010	912.030	457	però quella giovane
-464	PSB126_trad	919.630	927.990	463	eh lo so tu stai parlando hai detto che assomigliano ai persiani e io ti ho detto perché hanno le loro labbra come quelle delle donne degli emirati arabi che hanno tutte le labbra rifatte
-525	PSB126_trad	1075.520	1077.722	524	io ti ho detto che si assomigliano
-528	PSB125_trad	1077.723	1078.553	527	sì
-530	PSB126_trad	1078.870	1083.378	529	una volta ho incontrato una iraniana quando ero andata da mondo convenienza per la cucina e c'era una che lavorava lì
-532	PSB126_trad	1083.910	1090.421	531	io ero uscita ad aspettare il trenta ed ero ferma alla fermata quando anche lei che lavorava lì è andata ad aspettare alla fermata con me
-534	PSB126_trad	1090.589	1091.967	533	ha continuato a guardarmi
-536	PSB126_trad	1092.200	1093.957	535	ha continuato a guardarmi e mi ha detto
-540	PSB126_trad	1098.400	1100.475	539	io le ho detto che ero marocchina
-542	PSB126_trad	1100.800	1105.011	541	mi ha detto ah tutti noi siamo belli ed effettivamente lei è bella
-550	PSB126_trad	1120.220	1125.656	549	me l'ha chiesto le ho detto anche il marocco e mi ha detto anche in marocco siete belli siete così
-563	PSB126_trad	1148.170	1149.264	562	xx bellx
-574	PSB126_trad	1169.780	1172.164	573	eh verranno fuori belli perché cos'hanno
-577	PSB126_trad	1172.580	1173.961	576	@sara non è male
-580	PSB126_trad	1175.011	1176.900	579	@yussef non è male
-591	PSB126_trad	1195.978	1198.311	590	anche @sara ha un bello
-600	PSB126_trad	1210.756	1212.146	599	wafa ha la gobbetta
-620	PSB125_trad	1253.540	1254.630	619	zia @miriam
-632	PSB125_trad	1272.220	1276.615	631	e la sara non ha gli occhi grandi zia @miriam pure
-642	PSB126_trad	1303.710	1307.048	641	nessuno lo può sapere solo dio può saperlo
-653	PSB126_trad	1327.310	1330.278	652	continui a pensare su queste piccole cose
-667	PSB126_trad	1351.520	1358.199	666	adesso vediamo anche tu se dio vuole finirai i tuoi studi e se dio vuole quando prenderai la patente?
-673	PSB126_trad	1361.778	1364.175	672	quando inizierai xx
-676	PSB126_trad	1367.250	1371.559	675	no quando inizierai questo corso di segretaria
-681	PSB126_trad	1377.040	1378.388	680	quan~ quando finirà?
-684	PSB126_trad	1383.545	1385.861	683	quan~ quante volte andrai a settimana?
-691	PSB126_trad	1397.989	1399.100	690	ci puoi lavorare?
-694	PSB126_trad	1403.367	1408.811	693	appena lo prendi inizia a fare domanda per il lavoro che dio ti possa aiutare
-697	PSB126_trad	1410.000	1415.433	696	lavora così che studia finisici i tuoi studi così almeno troverai un posto
-707	PSB126_trad	1429.657	1430.757	706	ho @latifa
-709	PSB126_trad	1432.440	1435.950	708	ho @latifa la figlia di @hanane e ho @souad la mia amica
-711	PSB126_trad	1438.378	1439.597	710	e basta
-713	PSB126_trad	1440.022	1442.811	712	queste sono le mie amiche
-715	PSB125_trad	1446.427	1447.294	714	va bene
-719	PSB126_trad	1463.520	1466.438	718	a volte la chiamo ma solo a volte
-722	PSB126_trad	1471.190	1474.358	721	e:h ognuna si preoccupa solo di sè stesso
-725	PSB126_trad	1476.800	1477.812	724	bene
-728	PSB126_trad	1478.422	1480.611	727	il rapporto è tornato come una volta però eh eh
-730	PSB126_trad	1481.390	1483.722	729	avevamo litigato però poi ci siamo riappacificate
-734	PSB125_trad	1487.790	1490.814	733	di zia @miriam
-738	PSB126_trad	1493.589	1497.000	737	cosa stai cosa stai dicendo
-746	PSB125_trad	1511.360	1516.176	745	mh chi è peggiore zia @miriam o la zia @sou~ io mi ricordo una volta quando ero piccola,
-758	PSB126_trad	1544.589	1546.596	757	perché? cosa ti ha fatto?
-779	PSB126_trad	1609.589	1614.000	778	non devi sempre pensare così. basta. ti ha comprato una cosa
-789	PSB126_trad	1638.978	1642.169	788	perché non sei cresciuta con lei e non hai vissuto con lei
-794	PSB126_trad	1649.656	1650.845	793	eh eh è mia sorella
-798	PSB126_trad	1656.404	1658.255	797	siamo cresciute insieme
-800	PSB126_trad	1660.222	1662.670	799	però lei si è sposata a ventidue anni
-803	PSB126_trad	1664.520	1665.361	802	è andata
-807	PSB126_trad	1669.578	1673.593	806	da noi non è visto male e non è un peccato sposarsi col proprio cugino
-814	PSB126_trad	1681.468	1684.434	813	lui stava a stat e lei stava a casablanca ma che cosa
-823	PSB126_trad	1715.478	1717.289	822	adesso eh devo chiamarlo
-825	PSB126_trad	1718.178	1719.843	824	quello poi se non lo chiamo
-832	PSB126_trad	1736.833	1740.191	831	basta basta che torni con loro xxx
-835	PSB126_trad	1741.689	1742.467	834	vabbè
-842	PSB126_trad	1765.633	1769.989	841	oppure se tu finisci per le loro ti possono portare in fermata e da lì puoi prendere il bus
-845	PSB126_trad	1774.522	1776.378	844	dove siete domani
-850	PSB126_trad	1787.233	1788.311	849	comunque stai attenta
-852	PSB126_trad	1789.011	1792.033	851	non entrare in questioni lontane da te
-855	PSB126_trad	1792.422	1798.578	854	e non si sa mai se potrebbe succedere un problema non sai cosa potrebbe succedere
-862	PSB126_trad	1820.489	1822.800	861	ho fatto la zuppa del cereale
-866	PSB126_trad	1829.345	1830.264	865	facciamo qualcos'altro?
-872	PSB125_trad	1841.767	1843.456	871	quella col riso
-875	PSB125_trad	1844.636	1845.369	874	del viso
-877	PSB125_trad	1846.322	1848.200	876	maschera del viso di riso
-880	PSB125_trad	1848.956	1849.673	879	di riso?
-882	PSB126_trad	1850.256	1852.211	881	si il riso frullato
-884	PSB125_trad	1853.000	1854.011	883	il miele
-887	PSB126_trad	1854.967	1856.279	886	quella fecola
-891	PSB126_trad	1861.167	1861.743	890	bella
-893	PSB126_trad	1862.240	1863.017	892	hai quella
-898	PSB126_trad	1869.578	1874.649	897	devi seguirla (la ricetta) che ti ho detto e vedrai la differenza i primi due o tre giorni
-900	PSB126_trad	1875.120	1876.190	899	ha la fecola
-904	PSB126_trad	1879.000	1880.693	903	ancora buona nel frigo
-906	PSB126_trad	1881.227	1883.160	905	aspetta c'ha l'avena
-909	PSB126_trad	1885.134	1889.032	908	l'ho frullata l'avena l'ho frullata
+217	PSB126_trad	403.000	404.986	216	assistiamo al matrimonio se dio vuole
+224	PSB125_trad	423.510	426.980	223	mamma parla normalmente cioè
+226	PSB126_trad	425.690	428.817	225	eh sto parlando normalmente normalmente
+228	PSB125_trad	427.720	432.430	227	non parli molto in arabo in italiano quando sei da sola con me
+230	PSB126_trad	432.081	434.498	229	no io parlo molto in italiano
+233	PSB126_trad	436.950	439.949	232	eh figlia mia non vuoi andare che cosa ti devo fare io?
+237	PSB126_trad	444.000	446.180	236	se dio vuole se dio vuole
+239	PSB126_trad	447.200	449.650	238	perché perché potrebbe esserci la guerra
+242	PSB126_trad	450.680	452.570	241	potrebbe esserci
+247	PSB126_trad	459.010	463.000	246	non sappiamo se è per davvero o se sono bugie o se
+249	PSB126_trad	464.010	465.260	248	non sappiamo
+251	PSB126_trad	466.410	468.030	250	e poi da lì si vedrà
+253	PSB126_trad	470.052	479.990	252	io vorrei andare con voi vorrei che andassimo in tre se dio vuole in marocco così vedete la vostra casa e ci abitate per un po' se dio vuole
+256	PSB126_trad	482.480	489.496	255	eh sì un anno sì e un anno no io non vi dirò tutti gli anni andiamo però un anno sì e un anno no
+258	PSB126_trad	490.870	493.150	257	pure un anno sì e due anni no?
+261	PSB126_trad	495.450	511.020	260	eh basta speriamo se dio vuole che anche @said si sposa e che anche te ti sposi se dio vuole quando finisci gli studi se li finisci se dio vuole e che tu poi possa lavorare
+263	PSB126_trad	511.460	515.259	262	comprare la macchina prendere la patente e poi comprare la macchina se dio vuole
+265	PSB125_trad	517.164	518.238	264	parli ancora con @sara?
+268	PSB126_trad	519.580	524.150	267	a volte adesso che si è sposata troppo impegnata mh
+270	PSB126_trad	524.860	527.935	269	non ci siamo più sentite tanto com'era una volta
+275	PSB126_trad	531.530	532.289	274	no no
+277	PSB126_trad	533.780	538.188	276	non siamo ancora andati non ha ancora comprato il tavolo con le sedie
+279	PSB126_trad	538.953	541.259	278	non ha ancora messo a posto la casa
+281	PSB126_trad	544.050	545.473	280	ancora non è pronta
+283	PSB125_trad	549.680	552.246	282	e @fatima e le sue figlie?
+286	PSB126_trad	553.299	557.390	285	silla ha fatto il pellegrinaggio è andata in arabia
+290	PSB126_trad	564.780	569.679	289	perché ti ho visto che non parli in arabo non lo imparerai mai così tu mai impari l'arabo
+292	PSB126_trad	571.010	574.250	291	se continui così a parlare solo italiano italiano italiano italiano
+294	PSB125_trad	574.390	583.230	293	devo parlare per forza un po' di italiano se no questa non capirà niente mi ha detto parla anche in italiano
+297	PSB126_trad	582.710	585.369	296	non hai visto come prima parlavo in italiano però tu mi hai detto di non parlare più in italiano
+299	PSB125_trad	585.400	595.183	298	no nel senso parla normalmente pure io devo parlare normalmente io non parlo molto in arabo cioè parlo normale come tutti i giorni
+301	PSB125_trad	595.850	600.964	300	capito? così che la cosa poi sembra capito? così che poi la cosa sembra eh
+305	PSB125_trad	602.000	603.950	303	sembra
+307	PSB126_trad	603.950	612.569	306	speriamo in dio se dio vuole che quest'anno duemila e venticinque sia se dio vuole
+309	PSB125_trad	610.620	612.530	308	quindi non parli con loro?
+311	PSB126_trad	613.040	614.194	310	non parlo con loro
+313	PSB125_trad	614.490	615.200	312	basta?
+315	PSB126_trad	616.210	616.845	314	con chi?
+317	PSB125_trad	617.690	619.865	316	con fatima e le sue figlie
+319	PSB126_trad	619.360	623.762	318	@samira ti ho detto che @fatima è in pellegrinaggio
+321	PSB125_trad	622.846	624.746	320	al matrimonio non
+330	PSB126_trad	638.770	642.394	329	no non è quello non è non è quello il problema
+337	PSB126_trad	652.080	659.020	336	come i matrimoni in marocco o i matrimoni che si fanno qua nelle sale dove tutti mangiano e puoi invitare anche i tuoi amici
+339	PSB126_trad	659.230	662.779	338	invece il il ristorante costa alla persona
+360	PSB126_trad	716.170	718.113	359	però è passato bene da lei
+369	PSB126_trad	734.861	738.976	368	è stato molto bello e ha pure piovuto quel giorno
+372	PSB126_trad	745.270	746.950	371	sarai tu la prossima (a sposarti) se dio vuole
+374	PSB126_trad	748.610	749.334	373	se dio vuole
+381	PSB126_trad	757.700	759.280	380	era bella
+384	PSB125_trad	759.570	762.128	383	
+398	PSB126_trad	784.390	791.215	397	xxx aveva tanti capelli non parlare mai dei bambini piccoli così cioè
+400	PSB125_trad	787.040	787.461	399	
+409	PSB125_trad	812.809	818.185	408	
+412	PSB126_trad	817.250	820.475	411	i bambini piccoli sono tutti belli
+418	PSB126_trad	831.992	833.873	417	assomi::- assomigliava a suo padre
+421	PSB126_trad	835.480	837.061	420	che mamma assomigliava a suo padre
+425	PSB126_trad	840.770	842.880	424	no quelo con i capelli neri
+436	PSB126_trad	861.569	862.384	435	quella bassa
+439	PSB126_trad	865.730	867.117	438	stava tenendo in mano sua figlia
+443	PSB126_trad	869.960	871.925	442	eh stava tenendo sua figlia
+449	PSB125_trad	881.500	883.010	448	dall'arabia saudita
+453	PSB126_trad	890.030	892.050	452	la bocca dell'altra grande
+456	PSB126_trad	893.260	895.313	455	
+466	PSB126_trad	910.010	912.030	465	però quella giovane
+472	PSB126_trad	919.630	927.990	471	eh lo so tu stai parlando hai detto che assomigliano ai persiani e io ti ho detto perché hanno le loro labbra sporgenti come quelle delle donne degli emirati arabi che hanno tutte le labbra rifatte
+533	PSB126_trad	1075.520	1077.722	532	io ti ho detto che si assomigliano
+536	PSB125_trad	1077.723	1078.553	535	sì
+538	PSB126_trad	1078.870	1083.378	537	una volta ho incontrato una iraniana quando ero andata da mondo convenienza per la cucina e c'era una che lavorava lì
+540	PSB126_trad	1083.910	1090.421	539	io ero uscita ad aspettare per prendere il trenta ed ero ferma alla fermata quando anche lei che lavorava lì è andata ad aspettare alla fermata con me
+542	PSB126_trad	1090.589	1091.967	541	ha continuato a guardarmi
+544	PSB126_trad	1092.200	1093.957	543	ha continuato a guardarmi e mi ha detto
+548	PSB126_trad	1098.400	1100.475	547	io le ho detto che ero marocchina
+550	PSB126_trad	1100.800	1105.011	549	mi ha detto ah tutti noi siamo belli ed effettivamente lei è bella
+558	PSB126_trad	1120.220	1125.656	557	me l'ha chiesto le ho detto anche il marocco e mi ha detto anche in marocco siete belli siete così
+571	PSB126_trad	1148.170	1149.264	570	xx bellx
+582	PSB126_trad	1169.780	1172.164	581	eh verranno fuori belli perché cos'hanno
+585	PSB126_trad	1172.580	1173.961	584	@sara non è male
+588	PSB126_trad	1175.011	1176.900	587	@yussef non è male
+599	PSB126_trad	1195.978	1198.311	598	anche @sara ha un bello
+608	PSB126_trad	1210.756	1212.146	607	wafa ha la gobbetta
+628	PSB125_trad	1253.540	1254.630	627	zia @miriam
+630	PSB126_trad	1254.212	1256.697	629	
+641	PSB125_trad	1272.220	1276.615	640	e la sara non ha gli occhi grandi zia @miriam pure
+651	PSB126_trad	1303.710	1307.048	650	nessuno lo può sapere solo dio può saperlo
+662	PSB126_trad	1327.310	1330.278	661	continui a pensare su queste piccole cose
+664	PSB125_trad	1328.130	1331.950	663	
+677	PSB126_trad	1351.520	1358.199	676	adesso vediamo anche tu se dio vuole finirai i tuoi studi e se dio vuole quando prenderai la patente?
+683	PSB126_trad	1361.778	1364.175	682	quando inizierai xx
+686	PSB126_trad	1367.250	1371.559	685	no quando inizierai questo corso di segretaria
+691	PSB126_trad	1377.040	1378.388	690	quan~ quando finirà?
+694	PSB126_trad	1383.545	1385.861	693	quan~ quante volte andrai a settimana?
+696	PSB125_trad	1386.030	1387.084	695	
+702	PSB126_trad	1397.989	1399.100	701	ci puoi lavorare?
+705	PSB126_trad	1403.367	1408.811	704	appena lo prendi inizia a fare domanda per il lavoro che dio ti possa aiutare
+708	PSB126_trad	1410.000	1415.433	707	lavora così che studia finisici i tuoi studi così almeno troverai un posto
+718	PSB126_trad	1429.657	1430.757	717	ho @latifa
+720	PSB126_trad	1432.440	1435.950	719	ho @latifa la figlia di @hanane e ho @souad la mia amica
+722	PSB126_trad	1438.378	1439.597	721	e basta
+724	PSB126_trad	1440.022	1442.811	723	queste sono le mie amiche
+726	PSB125_trad	1446.427	1447.294	725	va bene
+730	PSB126_trad	1463.520	1466.438	729	a volte la chiamo ma solo a volte
+733	PSB126_trad	1471.190	1474.358	732	e:h ognuna si preoccupa solo di sè stesso
+736	PSB126_trad	1476.800	1477.812	735	bene
+738	PSB125_trad	1478.220	1478.701	737	
+740	PSB126_trad	1478.422	1480.611	739	il rapporto è tornato come una volta però eh eh
+742	PSB126_trad	1481.390	1483.722	741	avevamo litigato però poi ci siamo riappacificate
+746	PSB125_trad	1487.790	1490.814	745	di zia @miriam
+750	PSB126_trad	1493.589	1497.000	749	cosa stai cosa stai dicendo
+758	PSB125_trad	1511.360	1516.176	757	mh chi è peggiore zia @miriam o la zia @sou~ io mi ricordo una volta quando ero piccola,
+770	PSB126_trad	1544.589	1546.596	769	perché? cosa ti ha fatto?
+791	PSB126_trad	1609.589	1614.000	790	non devi sempre pensare così. basta. ti ha comprato una cosa
+801	PSB126_trad	1638.978	1642.169	800	perché non sei cresciuta con lei e non hai vissuto con lei
+806	PSB126_trad	1649.656	1650.845	805	eh eh è mia sorella
+810	PSB126_trad	1656.404	1658.255	809	siamo cresciute insieme
+812	PSB126_trad	1660.222	1662.670	811	però lei si è sposata a ventidue anni
+815	PSB126_trad	1664.520	1665.361	814	è andata
+819	PSB126_trad	1669.578	1673.593	818	da noi non è visto male e non è un peccato sposarsi col proprio cugino
+826	PSB126_trad	1681.468	1684.434	825	lui stava a stat e lei stava a casablanca ma che cosa
+835	PSB126_trad	1715.478	1717.289	834	adesso eh devo chiamarlo
+837	PSB126_trad	1718.178	1719.843	836	quello poi se non lo richiamo
+844	PSB126_trad	1736.833	1740.191	843	basta basta che torni con loro xxx
+847	PSB126_trad	1741.689	1742.467	846	vabbè
+854	PSB126_trad	1765.633	1769.989	853	oppure se tu finisci per le loro ti possono portare in fermata e da lì puoi prendere il bus
+857	PSB126_trad	1774.522	1776.378	856	dove siete domani
+862	PSB126_trad	1787.233	1788.311	861	comunque stai attenta
+864	PSB126_trad	1789.011	1792.033	863	non entrare in questioni che sono lontane da te
+867	PSB126_trad	1792.422	1798.578	866	e non si sa mai se potrebbe succedere un problema non sai cosa potrebbe succedere
+874	PSB126_trad	1820.489	1822.800	873	ho fatto la zuppa del cereale
+878	PSB126_trad	1829.345	1830.264	877	facciamo qualcos'altro?
+884	PSB125_trad	1841.767	1843.456	883	quella col riso
+887	PSB125_trad	1844.636	1845.369	886	del viso
+889	PSB125_trad	1846.322	1848.200	888	maschera del viso di riso
+892	PSB125_trad	1848.956	1849.673	891	di riso?
+894	PSB126_trad	1850.256	1852.211	893	si il riso frullato
+896	PSB125_trad	1853.000	1854.011	895	il miele
+899	PSB126_trad	1854.967	1856.279	898	quella fecola
+903	PSB126_trad	1861.167	1861.743	902	bella
+905	PSB126_trad	1862.240	1863.017	904	hai quella
+910	PSB126_trad	1869.578	1874.649	909	devi seguire la ricetta che ti ho detto e vedrai la differenza i primi due o tre giorni
+912	PSB126_trad	1875.120	1876.190	911	ha la fecola
+916	PSB126_trad	1879.000	1880.693	915	ancora buona nel frigo
+918	PSB126_trad	1881.227	1883.160	917	aspetta c'ha l'avena
+921	PSB126_trad	1885.134	1889.032	920	l'ho frullata l'avena l'ho frullata

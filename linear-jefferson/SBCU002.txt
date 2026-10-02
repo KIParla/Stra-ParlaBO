@@ -37,7 +37,7 @@ PSB087	ancora non hai finito quel pani[no]
 PSB090	[ho] appena iniziato
 PSB087	oh mamma mia
 PSB087	tu mangi?
-PSB086	#_ @saša zahryzeš ščos?
+PSB086	zahryzeš ščos?
 PSB005	bisogna prima mangiare poi bere
 PSB088	no io
 PSB088	ecco
@@ -472,7 +472,7 @@ PSB087	non hanno la tenerezza magari m'ha guarda:to m'ha toccato la ma:no
 PSB087	[tutte ste robe qui]
 PSB088	[per me (.) internet]
 PSB088	una una migliore [cosa che: che]
-PSB087	[e ti dico io l'ho vissu]to su mio figlio la mia paura era veramente [tanta]
+PSB087	[e ti dico io l' ho vissu]to su mio figlio la mia paura era veramente [tanta]
 PSB088	[sul mon]do (.) [perché]
 PSB086	[poi no~] non avevamo cellu[lari, non si] poteva usare du[rante lezio:]ni
 PSB088	[a me]
@@ -720,11 +720,11 @@ PSB088	#_ meni (.) kolys' odyn [čuvak]
 PSB086	[italiano italiano]
 PSB086	[non capiamo niente (.) italiano]
 PSB088	[#ne #ne prego prego] xxxxx
-PSB088	#_ meni odyn čuvak kolys' skazav ščo my beremo hroši ne za to (.) [ščo vy ne znajete]
+PSB088	#_ meni odyn čuvak kolys' skazav ščo my beremo hroši ne za to (.) [ščo vy ne znajete]
 PSB086	[dice che: un amico una volta] aveva detto che
 PSB086	noi prendiamo soldi per?
-PSB088	#_ ne ščo vy ne znajete a za to ščo my ne znajemo ne naoborot
-PSB088	#_ ne za to ščo my znajemo, a za to ščo vy ne znajete (.) po (probujte) [xxx]
+PSB088	#_ ne ščo vy ne znajete a za to ščo my ne znajemo ne naoborot
+PSB088	#_ ne za to ščo my znajemo, a za to ščo vy ne znajete (.) po (probujte) [xxx]
 PSB087	[dice faccia][mo pagare]
 PSB086	[tu prendi soldi] guarda [eh]?
 PSB087	[non] per la conoscenza che abbia[mo noi]

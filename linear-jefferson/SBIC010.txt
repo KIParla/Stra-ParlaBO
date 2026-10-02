@@ -734,7 +734,7 @@ PSB005	mi suona che [centri col ci~]
 PSB077	[c'è un] c'è an[che un:] un ristorante loro:: piccante piccante
 PSB005	[esatto]
 PSB005	l'hai provato tu?
-PSB077	s.ì
+PSB077	sì
 PSB077	ci sono stata una due volte io: non riuscivo a mangiare
 PSB005	okay io in quello non ci sono stata sono stata
 PSB005	ad a~ (.) amole
@@ -856,7 +856,7 @@ PSB005	è vero capisco
 PSB005	io sono stata in tanti posti soprattutto perché mi sono venuti a trovare delle persone
 PSB077	a::::h okay quindi sei andata
 PSB077	a:::h come si dice fare:::
-PSB077	#_ #guide
+PSB077	#guide
 PSB077	°come si [chiama]°
 PSB005	[sì]
 PSB005	la guida

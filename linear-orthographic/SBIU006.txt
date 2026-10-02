@@ -632,7 +632,7 @@ PSB005	no
 PSB005	sì ah sì sì sì questi sì
 PSB020	#pierogi da noi si chiamano perché abbiamo diversi nomi ma una cosa più abbastanza diciamo abbastanza simile
 PSB005	son buoni
-PSB020	#pierogi che noi chiamiamo son buoni e come qui tipo ravioli non però
+PSB020	#pierogi che noi chiamiamo #varényky son buoni e come qui tipo ravioli non però
 PSB005	sì mh non è proprio uguale
 PSB020	però non non fa~ la pasta è diversa
 PSB005	mhmh

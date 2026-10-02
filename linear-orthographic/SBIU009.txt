@@ -112,7 +112,7 @@ PSB005	ma tu che cosa fai qui e
 PSB039	# ah ancora niente studio le lingue e ancora studio il mio #college in ucraina
 PSB005	mhmh
 PSB039	quindi quando eh
-PSB039	#_ when i will (.) know
+PSB039	#_ when i will know
 PSB005	mhmh
 PSB039	#_ a bit more
 PSB005	mhmh
@@ -233,7 +233,7 @@ PSB039	# ehm #especially quando io ero mh ero più piccolo
 PSB005	e ti piacciono anche non so ti piace la musica mh
 PSB039	no la musica non mi piace neanche nostra e neanche russa mi piace di più inglese
 PSB005	mhmh
-PSB005	ma però c'è un~ una ci son dei cantanti ucrainisì
+PSB005	ma però c'è un~ una ci son dei cantanti ucraini sì
 PSB039	sì
 PSB039	sì
 PSB039	sì
@@ -280,7 +280,7 @@ PSB005	mh
 PSB005	mhmh
 PSB039	#_ it's kinda bad
 PSB005	mhmh
-PSB039	#_ but if you try to translate (.) from english to italian is (.) much better
+PSB039	#_ but if you try to translate from english to italian is much better
 PSB005	mhmh
 PSB005	eh sì
 PSB005	è una cosa tipica
@@ -339,7 +339,7 @@ PSB005	mhmh sì sì no certo sì sì sì capisco
 PSB005	ma la voi siete venuti qua insieme o la mamma abitava già qui
 PSB039	ehm la la mamma sono stato in in italia prima
 PSB039	ehm ehm già mh già lo sa
-PSB039	#_ already (.) already knew
+PSB039	#_ already already knew
 PSB005	sì sì s~ giusto era giusto sì
 PSB039	la lingua
 PSB039	sì ehm la lingua e quindi
@@ -358,7 +358,7 @@ PSB005	e come mai perché
 PSB039	ehm
 PSB039	in europa c'è ehm un gran problema
 PSB039	ehm
-PSB039	#_ you have to ehm (.) have to have like ehm tons of documents per for everything
+PSB039	#_ you have to ehm have to have like ehm tons of documents per for everything
 PSB005	mhmh
 PSB039	ehm in uk~ in ucraina è molto più semplice
 PSB039	ehm anche più semplice aprire un business o qualcosa
@@ -413,7 +413,7 @@ PSB039	mh
 PSB039	# dipende #how #many #time #you #have #to #spend
 PSB005	mh
 PSB005	mhmh
-PSB039	#_ ehm if it's a bit ehm (.) larger periods of time
+PSB039	#_ ehm if it's a bit ehm larger periods of time
 PSB039	ehm montagne
 PSB039	# se #shorter ehm #then ehm spiagge
 PSB005	mhmh
@@ -461,7 +461,7 @@ PSB005	o solo le ragazze
 PSB039	ah io non lo io non lo so ehm
 PSB039	so solo un ragazzo che che è italiano e seconda che è americana e
 PSB039	e solo vive ehm qua da venti anni
-PSB039	e quindi quel ragazzo no lui non parla circa di
+PSB039	e quindi quel ragazzo no~ lui non parla circa di
 PSB005	okay okay
 PSB005	mi ha f~ mi fa ridere questa cosa gli italiani sono molto fissati ossessionati con con il cibo
 PSB005	ma il cibo italiano ti piace hai provato
@@ -489,7 +489,7 @@ PSB005	ah okay
 PSB005	e adesso eh vabbé non non voglio chiedere troppo quindi
 PSB039	mhmh
 PSB005	quindi c'è una tradizione nella tua famiglia
-PSB005	hai g~ sentito parlare dell'italia tante volte
+PSB005	hai g~ sentito parlare dell' italia tante volte
 PSB005	quando eri piccolino
 PSB039	mhmh
 PSB005	già sentivi
@@ -525,7 +525,7 @@ PSB039	mh non so non so
 PSB005	no no non lo so infatti non lo so neanch'io scusami
 PSB005	ehm
 PSB039	italia non è ehm non è ehm nat~
-PSB039	#_ this country which is (.) like to put a lot of money to improve ehm like progra~ mh
+PSB039	#_ this country which is like to put a lot of money to improve ehm like progra~ mh
 PSB005	mhmh
 PSB039	#_ pro~ program education and stuff it's n~ it's not country for start-up or something
 PSB005	mh

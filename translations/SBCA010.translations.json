@@ -16,459 +16,499 @@
     "text": "era la segreteria qualcosa di"
   },
   {
-    "tu_id": "9",
+    "tu_id": "6",
+    "speaker": "PSB161_trad",
+    "start": "4.610",
+    "end": "5.720",
+    "parent_tu_id": "5",
+    "text": ""
+  },
+  {
+    "tu_id": "10",
     "speaker": "PSB162_trad",
     "start": "9.614",
     "end": "13.020",
-    "parent_tu_id": "8",
+    "parent_tu_id": "9",
     "text": "guarda non c'ho nessun debito di energia"
   },
   {
-    "tu_id": "17",
+    "tu_id": "18",
     "speaker": "PSB162_trad",
     "start": "30.990",
     "end": "33.040",
-    "parent_tu_id": "16",
+    "parent_tu_id": "17",
     "text": "domani ti preparo xx"
   },
   {
-    "tu_id": "21",
+    "tu_id": "22",
     "speaker": "PSB162_trad",
     "start": "33.460",
     "end": "35.580",
-    "parent_tu_id": "20",
+    "parent_tu_id": "21",
     "text": "te lo aggiusterò"
   },
   {
-    "tu_id": "42",
+    "tu_id": "25",
+    "speaker": "PSB162_trad",
+    "start": "35.780",
+    "end": "38.900",
+    "parent_tu_id": "24",
+    "text": ""
+  },
+  {
+    "tu_id": "44",
     "speaker": "PSB161_trad",
     "start": "61.580",
     "end": "63.780",
-    "parent_tu_id": "41",
+    "parent_tu_id": "43",
     "text": "no no ascolta ascolta due secondi"
   },
   {
-    "tu_id": "60",
+    "tu_id": "62",
     "speaker": "PSB161_trad",
     "start": "90.530",
     "end": "92.520",
-    "parent_tu_id": "59",
+    "parent_tu_id": "61",
     "text": "secondo me è andata via la luce"
   },
   {
-    "tu_id": "90",
+    "tu_id": "71",
+    "speaker": "PSB161_trad",
+    "start": "103.080",
+    "end": "108.690",
+    "parent_tu_id": "70",
+    "text": ""
+  },
+  {
+    "tu_id": "93",
     "speaker": "PSB161_trad",
     "start": "144.640",
     "end": "146.130",
-    "parent_tu_id": "89",
+    "parent_tu_id": "92",
     "text": "vabbè chi ti vedrà tanto?"
   },
   {
-    "tu_id": "98",
+    "tu_id": "101",
     "speaker": "PSB161_trad",
     "start": "169.510",
     "end": "169.890",
-    "parent_tu_id": "97",
+    "parent_tu_id": "100",
     "text": "no"
   },
   {
-    "tu_id": "100",
+    "tu_id": "103",
     "speaker": "PSB161_trad",
     "start": "170.930",
     "end": "171.390",
-    "parent_tu_id": "99",
+    "parent_tu_id": "102",
     "text": "te lo giuro"
   },
   {
-    "tu_id": "108",
+    "tu_id": "111",
     "speaker": "PSB161_trad",
     "start": "182.140",
     "end": "182.790",
-    "parent_tu_id": "106",
-    "text": "le hai messe"
+    "parent_tu_id": "109",
+    "text": "le hai inserite"
   },
   {
-    "tu_id": "122",
+    "tu_id": "125",
     "speaker": "PSB161_trad",
     "start": "205.430",
     "end": "206.730",
-    "parent_tu_id": "121",
+    "parent_tu_id": "124",
     "text": "vabbè è uguale"
   },
   {
-    "tu_id": "132",
+    "tu_id": "135",
     "speaker": "PSB161_trad",
     "start": "219.990",
     "end": "221.040",
-    "parent_tu_id": "131",
+    "parent_tu_id": "134",
     "text": "vacca boia"
   },
   {
-    "tu_id": "166",
+    "tu_id": "169",
     "speaker": "PSB161_trad",
     "start": "300.000",
     "end": "302.740",
-    "parent_tu_id": "165",
+    "parent_tu_id": "168",
     "text": "che non capisce niente ed è uno scappato di casa il libanese"
   },
   {
-    "tu_id": "172",
+    "tu_id": "175",
     "speaker": "PSB162_trad",
     "start": "313.639",
     "end": "314.934",
-    "parent_tu_id": "171",
+    "parent_tu_id": "174",
     "text": "come raccontami dall'inizio"
   },
   {
-    "tu_id": "174",
+    "tu_id": "177",
     "speaker": "PSB161_trad",
     "start": "315.344",
     "end": "316.902",
-    "parent_tu_id": "173",
+    "parent_tu_id": "176",
     "text": "allora praticamente che ha detto"
-  },
-  {
-    "tu_id": "181",
-    "speaker": "PSB161_trad",
-    "start": "330.779",
-    "end": "331.693",
-    "parent_tu_id": "180",
-    "text": "cosa fai là?"
   },
   {
     "tu_id": "184",
     "speaker": "PSB161_trad",
+    "start": "330.779",
+    "end": "331.693",
+    "parent_tu_id": "183",
+    "text": "cosa fai là?"
+  },
+  {
+    "tu_id": "187",
+    "speaker": "PSB161_trad",
     "start": "334.090",
     "end": "335.049",
-    "parent_tu_id": "183",
+    "parent_tu_id": "186",
     "text": "grazie mille"
   },
   {
-    "tu_id": "189",
+    "tu_id": "192",
     "speaker": "PSB161_trad",
     "start": "337.836",
     "end": "338.787",
-    "parent_tu_id": "188",
+    "parent_tu_id": "191",
     "text": "la sera andiamo"
   },
   {
-    "tu_id": "191",
+    "tu_id": "194",
     "speaker": "PSB162_trad",
     "start": "338.893",
     "end": "339.664",
-    "parent_tu_id": "190",
+    "parent_tu_id": "193",
     "text": "iniziamo. via"
   },
   {
-    "tu_id": "204",
+    "tu_id": "207",
     "speaker": "PSB161_trad",
     "start": "357.541",
     "end": "362.738",
-    "parent_tu_id": "203",
+    "parent_tu_id": "206",
     "text": "è lei che ha chiesto da sola ogni tanto gli chiede di me così tanto per farmi avere delle informazioni capito"
   },
   {
-    "tu_id": "221",
+    "tu_id": "215",
+    "speaker": "PSB161_trad",
+    "start": "378.402",
+    "end": "379.193",
+    "parent_tu_id": "214",
+    "text": "libanese"
+  },
+  {
+    "tu_id": "218",
+    "speaker": "PSB162_trad",
+    "start": "379.193",
+    "end": "379.525",
+    "parent_tu_id": "217",
+    "text": ""
+  },
+  {
+    "tu_id": "226",
     "speaker": "PSB161_trad",
     "start": "400.525",
     "end": "403.869",
-    "parent_tu_id": "220",
+    "parent_tu_id": "225",
     "text": "perché non voglio che magari dopo glielo va a dire le scappa o qualcosa capito"
   },
   {
-    "tu_id": "235",
+    "tu_id": "240",
     "speaker": "PSB161_trad",
     "start": "431.779",
     "end": "437.604",
-    "parent_tu_id": "234",
+    "parent_tu_id": "239",
     "text": "oppure sì le maglie normali quelle le scarpe da ginnastica non con il mocassino il tallieur"
   },
   {
-    "tu_id": "248",
+    "tu_id": "253",
     "speaker": "PSB161_trad",
     "start": "456.565",
     "end": "458.058",
-    "parent_tu_id": "247",
+    "parent_tu_id": "252",
     "text": "sì mi sono ingrassata un po' sì lo so"
   },
   {
-    "tu_id": "293",
+    "tu_id": "298",
     "speaker": "PSB161_trad",
     "start": "549.084",
     "end": "551.909",
-    "parent_tu_id": "292",
+    "parent_tu_id": "297",
     "text": "è vestito con i jeans come un barbone"
   },
   {
-    "tu_id": "299",
+    "tu_id": "304",
     "speaker": "PSB161_trad",
     "start": "557.838",
     "end": "559.825",
-    "parent_tu_id": "298",
+    "parent_tu_id": "303",
     "text": "la prossima volta devo stare un po' zitta"
   },
   {
-    "tu_id": "312",
+    "tu_id": "316",
     "speaker": "PSB161_trad",
     "start": "582.429",
     "end": "583.208",
-    "parent_tu_id": "311",
+    "parent_tu_id": "315",
     "text": "è così"
   },
   {
-    "tu_id": "314",
+    "tu_id": "318",
     "speaker": "PSB162_trad",
     "start": "584.461",
     "end": "585.182",
-    "parent_tu_id": "313",
+    "parent_tu_id": "317",
     "text": "è così"
   },
   {
-    "tu_id": "360",
+    "tu_id": "364",
     "speaker": "PSB161_trad",
     "start": "689.916",
     "end": "691.994",
-    "parent_tu_id": "359",
+    "parent_tu_id": "363",
     "text": "non ho mai visto un bagno così"
   },
   {
-    "tu_id": "373",
+    "tu_id": "377",
     "speaker": "PSB161_trad",
     "start": "708.500",
     "end": "710.636",
-    "parent_tu_id": "372",
+    "parent_tu_id": "376",
     "text": "i diavoli? xxx"
   },
   {
-    "tu_id": "382",
+    "tu_id": "386",
     "speaker": "PSB161_trad",
     "start": "723.013",
     "end": "725.299",
-    "parent_tu_id": "381",
+    "parent_tu_id": "385",
     "text": "ah fai se~ dai cioè sono io"
   },
   {
-    "tu_id": "390",
+    "tu_id": "394",
     "speaker": "PSB161_trad",
     "start": "731.338",
     "end": "732.032",
-    "parent_tu_id": "389",
+    "parent_tu_id": "393",
     "text": "lavaggio"
   },
   {
-    "tu_id": "396",
+    "tu_id": "400",
     "speaker": "PSB161_trad",
     "start": "742.351",
     "end": "743.487",
-    "parent_tu_id": "395",
+    "parent_tu_id": "399",
     "text": "sì dobbiamo coprirlo"
   },
   {
-    "tu_id": "398",
+    "tu_id": "402",
     "speaker": "PSB162_trad",
     "start": "743.007",
     "end": "746.338",
-    "parent_tu_id": "397",
+    "parent_tu_id": "401",
     "text": "sì ma io faccio così perché sotto c'è il sacchetto"
-  },
-  {
-    "tu_id": "406",
-    "speaker": "PSB162_trad",
-    "start": "753.318",
-    "end": "754.013",
-    "parent_tu_id": "405",
-    "text": "serve una busta"
   },
   {
     "tu_id": "410",
     "speaker": "PSB162_trad",
+    "start": "753.318",
+    "end": "754.013",
+    "parent_tu_id": "409",
+    "text": "serve una busta"
+  },
+  {
+    "tu_id": "414",
+    "speaker": "PSB162_trad",
     "start": "755.896",
     "end": "757.877",
-    "parent_tu_id": "409",
+    "parent_tu_id": "413",
     "text": "giuro su dio se volete sedervi qua fuori d'estate"
   },
   {
-    "tu_id": "415",
+    "tu_id": "419",
     "speaker": "PSB162_trad",
     "start": "761.494",
     "end": "764.416",
-    "parent_tu_id": "414",
+    "parent_tu_id": "418",
     "text": "ci sta ma deve essere ricoperto"
   },
   {
-    "tu_id": "422",
+    "tu_id": "426",
     "speaker": "PSB163_trad",
     "start": "768.331",
     "end": "771.571",
-    "parent_tu_id": "421",
+    "parent_tu_id": "425",
     "text": "ascolta il divano se diventa caldo"
   },
   {
-    "tu_id": "426",
+    "tu_id": "430",
     "speaker": "PSB162_trad",
     "start": "772.182",
     "end": "773.740",
-    "parent_tu_id": "425",
+    "parent_tu_id": "429",
     "text": "beh ora che faccio porto questi in francia?"
   },
   {
-    "tu_id": "429",
+    "tu_id": "433",
     "speaker": "PSB161_trad",
     "start": "774.117",
     "end": "775.292",
-    "parent_tu_id": "428",
+    "parent_tu_id": "432",
     "text": "portali in francia"
   },
   {
-    "tu_id": "447",
+    "tu_id": "451",
     "speaker": "PSB161_trad",
     "start": "802.909",
     "end": "803.818",
-    "parent_tu_id": "446",
+    "parent_tu_id": "450",
     "text": "cosa ne pensi?"
   },
   {
-    "tu_id": "450",
+    "tu_id": "454",
     "speaker": "PSB161_trad",
     "start": "806.630",
     "end": "807.721",
-    "parent_tu_id": "449",
+    "parent_tu_id": "453",
     "text": "lo compro io"
   },
   {
-    "tu_id": "459",
+    "tu_id": "463",
     "speaker": "PSB162_trad",
     "start": "820.883",
     "end": "822.377",
-    "parent_tu_id": "458",
+    "parent_tu_id": "462",
     "text": "ci sta ci sta il divano lì"
   },
   {
-    "tu_id": "466",
+    "tu_id": "470",
     "speaker": "PSB162_trad",
     "start": "832.415",
     "end": "832.883",
-    "parent_tu_id": "465",
+    "parent_tu_id": "469",
     "text": "in cosa?"
   },
   {
-    "tu_id": "501",
+    "tu_id": "505",
     "speaker": "PSB162_trad",
     "start": "892.994",
     "end": "896.955",
-    "parent_tu_id": "500",
+    "parent_tu_id": "504",
     "text": "senti parlo nel dialetto di pa~ tanti dicono mi parli mi di~ mi sembra sempre parmigiano"
   },
   {
-    "tu_id": "504",
+    "tu_id": "508",
     "speaker": "PSB163_trad",
     "start": "899.500",
     "end": "900.300",
-    "parent_tu_id": "503",
+    "parent_tu_id": "507",
     "text": "parma"
   },
   {
-    "tu_id": "508",
+    "tu_id": "512",
     "speaker": "PSB162_trad",
     "start": "901.987",
     "end": "905.013",
-    "parent_tu_id": "507",
+    "parent_tu_id": "511",
     "text": "ha detto parmigian adesso immaginati cosa xx negli anni novana"
   },
   {
-    "tu_id": "514",
+    "tu_id": "518",
     "speaker": "PSB162_trad",
     "start": "912.110",
     "end": "916.545",
-    "parent_tu_id": "513",
+    "parent_tu_id": "517",
     "text": "ma per costruirla ci lavoravo per bene poi dopo ho iniziato a stare zitto"
   },
   {
-    "tu_id": "529",
+    "tu_id": "533",
     "speaker": "PSB162_trad",
     "start": "946.994",
     "end": "951.643",
-    "parent_tu_id": "528",
+    "parent_tu_id": "532",
     "text": "cioè grammaticalmente come te come quello io faccio troppi errori cioè perché non"
   },
   {
-    "tu_id": "549",
+    "tu_id": "553",
     "speaker": "PSB163_trad",
     "start": "987.390",
     "end": "988.377",
-    "parent_tu_id": "548",
+    "parent_tu_id": "552",
     "text": "cosa intendi?"
   },
   {
-    "tu_id": "565",
+    "tu_id": "569",
     "speaker": "PSB162_trad",
     "start": "1008.987",
     "end": "1011.682",
-    "parent_tu_id": "564",
+    "parent_tu_id": "568",
     "text": "come una tipa"
   },
   {
-    "tu_id": "568",
+    "tu_id": "572",
     "speaker": "PSB162_trad",
     "start": "1012.286",
     "end": "1013.565",
-    "parent_tu_id": "567",
+    "parent_tu_id": "571",
     "text": "una che è andata in ospedale"
   },
   {
-    "tu_id": "656",
+    "tu_id": "660",
     "speaker": "PSB161_trad",
     "start": "1166.403",
     "end": "1166.857",
-    "parent_tu_id": "655",
+    "parent_tu_id": "659",
     "text": "ma cosa dici"
   },
   {
-    "tu_id": "789",
+    "tu_id": "793",
     "speaker": "PSB162_trad",
     "start": "1444.630",
     "end": "1447.422",
-    "parent_tu_id": "788",
+    "parent_tu_id": "792",
     "text": "è per quello che il camion si è tutto distrutto da davanti. è per questo."
   },
   {
-    "tu_id": "818",
+    "tu_id": "822",
     "speaker": "PSB163_trad",
     "start": "1484.007",
     "end": "1485.546",
-    "parent_tu_id": "817",
+    "parent_tu_id": "821",
     "text": "spegni quella merda"
   },
   {
-    "tu_id": "829",
+    "tu_id": "833",
     "speaker": "PSB162_trad",
     "start": "1504.286",
     "end": "1505.279",
-    "parent_tu_id": "828",
+    "parent_tu_id": "832",
     "text": "xx semplice no?"
   },
   {
-    "tu_id": "833",
+    "tu_id": "837",
     "speaker": "PSB163_trad",
     "start": "1507.864",
     "end": "1509.182",
-    "parent_tu_id": "832",
+    "parent_tu_id": "836",
     "text": "ti do un pugno finché non voli"
   },
   {
-    "tu_id": "835",
+    "tu_id": "839",
     "speaker": "PSB161_trad",
     "start": "1509.221",
     "end": "1512.149",
-    "parent_tu_id": "834",
+    "parent_tu_id": "838",
     "text": "ma come mi dai un pugno finché volo? questa è roba mia"
   },
   {
-    "tu_id": "837",
+    "tu_id": "841",
     "speaker": "PSB162_trad",
     "start": "1510.533",
     "end": "1514.610",
-    "parent_tu_id": "836",
-    "text": "grazie a dio allah tutta la gloria a lui l'esaltato xxx"
+    "parent_tu_id": "840",
+    "text": "grazie a dio aḷḷāh tutta la gloria a lui l'altissimo xxx"
   }
 ]

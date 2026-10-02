@@ -454,7 +454,7 @@ PSB146	[quindi] invece tu avresti voluto continuare?
 PSB145	m:h
 PSB145	per me ((si_schiarisce_la_voce))
 PSB145	non lo so::
-PSB144	#_ #_shnū kan 3ajb-ek dīrī?
+PSB144	#_ shnū kān ʕajb-ək ddīrī?
 PSB145	m:h
 PSB145	eh e:h
 PSB145	certamente: voglio comp~ completa le le le
@@ -597,11 +597,11 @@ PSB145	[x]
 PSB144	[e:h] la moda di:
 PSB144	come si chiama le
 PSB144	li l'(e)legante:
-PSB144	ma (è) in marocco il #kaftan
-PSB144	lei cono]sca il #kaf[tan]
+PSB144	ma (è) in marocco il #qafṭān
+PSB144	lei cono]sca il #qaf[ān]
 PSB146	[mhmh]
 PSB146	[sì] sì è non è un tessuto?
-PSB144	eh è #kaftan [no un vestito (.) ah sì] (.) vestito
+PSB144	eh è #qafṭān [no un vestito (.) ah sì] (.) vestito
 PSB146	[sì sì anche il vestito mhmh]
 PSB145	[vestito tradi]zionale [che:]
 PSB146	[sì ma è molto]
@@ -610,7 +610,7 @@ PSB145	[e:h]
 PSB146	mhmh
 PSB145	classico di: se: quando:
 PSB145	quando sposare:
-PSB145	e:h devi mette: #kaftan
+PSB145	e:h devi mette: #qafṭān
 PSB144	[come il] come il vestito di sposa[re]
 PSB146	[mhmh]
 PSB146	[da] sposa [ma]
@@ -639,7 +639,7 @@ PSB146	tanti colori? o tanti ves[titi]?
 PSB145	[ta]nti ves[titi:]
 PSB146	[tanti ves]titi? [a:h bello]
 PSB145	[tanti vestiti per me] prima:
-PSB145	prima #kaftan era::
+PSB145	prima #qafṭān era::
 PSB145	eh bianco
 PSB146	mhmh
 PSB145	dopo::
@@ -667,7 +667,7 @@ PSB146	il battesi[mo]?
 PSB144	[il] batte[simo:]
 PSB146	[battesimo]
 PSB144	eh tutti le feste
-PSB144	e::h il compleanno (.) è portante il #kaftan
+PSB144	e::h il compleanno (.) è portante il #qafṭān
 PSB146	[ah ma que]llo: per il matrimonio è diverso?
 PSB144	[indossa x (portante)]
 PSB146	il ves[tito]?
@@ -720,7 +720,7 @@ PSB145	[sì:]
 PSB144	bian]co:
 PSB144	e::h anche un vestito beige
 PSB144	co::n una::
-PSB144	una cosa di:: si chiama
+PSB144	una cosa di:: si chiama #l-ʕammāriyya
 PSB146	mhmh
 PSB144	e::h mettono così quattr(o) ragazzi
 PSB146	beh bello ((ride))
@@ -1407,7 +1407,7 @@ PSB145	[m:h]
 PSB146	[lunghe preparazio(ni)]
 PSB145	[m:h]
 PSB144	[eh] (.) eh
-PSB144	per esempio ho:: ho fa~ ho:: fatto il
+PSB144	per esempio ho:: ho fa~ ho:: fatto il #ṭājīn
 PSB144	eh tre ore eh
 PSB145	((ride))
 PSB146	è con le verdure?
@@ -1515,9 +1515,9 @@ PSB144	io?
 PSB146	la cosa che vi viene meglio
 PSB144	e::h (.) è tanti piatti
 PSB146	tanti piatti
-PSB144	il cous cous, #rfissa:, eh [#bastilla]
-PSB146	che cos'è #rfissa?
-PSB144	#rfissa u:n una pasta:
+PSB144	il cous cous, #rfīssa:, eh [#basṭīla]
+PSB146	che cos'è #rfīssa?
+PSB144	#rfīssa u:n una pasta:
 PSB146	mhmh
 PSB144	e::h è fatta:
 PSB144	un po' non hai::
@@ -1536,11 +1536,11 @@ PSB144	[eh sì sì eh] buona: [molto buona]
 PSB146	[mh]
 PSB145	[molto] buo[na]
 PSB144	[eh]
-PSB144	anche: [#bastilla]
+PSB144	anche: [#basṭīla]
 PSB145	[devi: devi] devi provarla
 PSB146	[eh ehm xx non] la so cucinare però
-PSB144	[anche #bastilla:]
-PSB144	eh anche #bas[tilla anche]
+PSB144	[anche #basṭīla:]
+PSB144	eh anche #bas[ṭīla anche]
 PSB146	[dovete insegnarmi] a cucinare queste [cose]
 PSB144	[no eh] cucina maroc~ marocco di marocco: è molto:
 PSB146	ma qui in zona ci sono anche dei ristoranti: di: cucina marocchina?
@@ -1557,15 +1557,15 @@ PSB144	°non lo so io non (.) non conosco°
 PSB145	anche io no:n ho (.) informazioni con: [x]
 PSB146	[beh] vabbè voi le cucinate a casa
 PSB145	((ride))
-PSB144	ecco [#rfissa]
+PSB144	ecco [#rfīssa]
 PSB145	[ecco]
-PSB145	ec[co #rfissa]
+PSB145	ec[co #rfīssa]
 PSB146	[eh buono:]
 PSB144	eh (.) molto buono
 PSB146	ma tutto sembra molto buono in realtà [tutti i piatti]
 PSB144	[xx e:h]
 PSB146	[c(io)è sembrano:]
-PSB144	[il (.) il bro]do di #rfissa
+PSB144	[il (.) il bro]do di #rfīssa
 PSB146	mh[mh]
 PSB144	[mh]
 PSB146	no sembrano: gustosi con [tante cose]
@@ -1581,8 +1581,8 @@ PSB144	[anche la anche ma]rocco la cucina:: moder[na]
 PSB146	[della tradizione]
 PSB146	[mh]mh
 PSB145	sì
-PSB144	e quello cous cous, #rfissa, #tajine:: m::h
-PSB144	#bastilla e quelli [piatti::]
+PSB144	e quello cous cous, #rfīssa, #ṭājīn:: m::h
+PSB144	#basṭīla e quelli [piatti::]
 PSB145	[piatti tradi]zionali
 PSB144	eh
 PSB146	sì che sono i [più buoni]
@@ -1678,7 +1678,7 @@ PSB144	[mh]
 PSB145	[sì an]che: [al ma]rocco fai una festa:
 PSB146	[mh]
 PSB145	#ḥabb l-mulūk
-PSB144	m:h si anche il marocco #y-fai il festa di ciliegie
+PSB144	m:h si anche il marocco #yfai il festa di ciliegie
 PSB146	a:h di ciliegie [anche lì ci]
 PSB144	[eh sì:]
 PSB145	[si chi]ama #ḥabb #l-mulūk
@@ -1686,7 +1686,7 @@ PSB146	ah
 PSB144	due fes[te]
 PSB145	#_ [ḥa]bb l-mulūk
 PSB144	#_ ḥabb l-mulūk
-PSB146	#_ #abbi #muluk
+PSB146	#abbi #muluk
 PSB144	eh
 PSB145	e:h #ḥabb #l-mulūk d~ eh x un po' de tradizionale:
 PSB145	e::h e::h li $rige

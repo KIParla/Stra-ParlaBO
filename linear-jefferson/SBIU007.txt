@@ -302,7 +302,7 @@ PSB031	xx
 PSB031	#_ jakos' vony po-inšomu nazy[vajut'sja]
 PSB030	#_ net ty ščo chočeš [skazat']
 PSB005	[mirtilli] mirtilli (.) [forse]
-PSB030	#_ [ne tak] samo [(.)] ja dyvylasja tak samo
+PSB030	#_ [ne tak] samo [(.)] ja dyvylasja tak samo
 PSB031	[no no no]
 PSB005	beh cerca cerca
 PSB030	mhmh
@@ -337,7 +337,7 @@ PSB005	però la pasta?
 PSB005	mh
 PSB005	l~ l'esterno bisogna:: [impastar]lo
 PSB030	[sì]
-PSB030	#_ tonko tonko ne znaju ja
+PSB030	#_ tonko tonko ne znaju ja
 PSB005	difficile secondo me sì
 PSB030	eh sì e:hm
 PSB030	e:hm bisogna: m:h (.) avere el~ el tempo lib(e)ro [per fare questo]
@@ -659,7 +659,7 @@ PSB030	mh
 PSB005	bologna è più piccola
 PSB030	[xxxxx]
 PSB005	°sì sì°
-PSB031	#_ nu takož mil'jon je
+PSB031	#_ nu takož mil'jon je
 PSB030	ehm anche dnipro circa mi[lione]
 PSB031	[e:h] adesso e:hm
 PSB031	più perché molte persone m:h
@@ -704,7 +704,7 @@ PSB030	mh
 PSB005	perché in italia proprio?
 PSB030	perché in italia e:hm
 PSB030	perché mia figlia (.) eh a fare:: m:h ginnastica ritmica
-PSB030	e noi aiutare ehm@nomesocietà
+PSB030	e noi aiutare ehm
 PSB005	ah
 PSB030	e:hm (.) ehm noi scrive a ponte vecchio e: e:hm
 PSB030	a noi rispondere

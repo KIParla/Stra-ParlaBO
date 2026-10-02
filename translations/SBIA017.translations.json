@@ -13,7 +13,7 @@
     "start": "418.424",
     "end": "420.854",
     "parent_tu_id": "298",
-    "text": "da cucire? (.) macchina da cucire?"
+    "text": "e non so come si chiama da cucire? macchina da cucire?"
   },
   {
     "tu_id": "302",
@@ -101,110 +101,102 @@
     "start": "1532.347",
     "end": "1534.073",
     "parent_tu_id": "1156",
-    "text": "perché? sì: (.) [xx sì]"
+    "text": "perché? sì xx sì"
   },
   {
-    "tu_id": "1159",
-    "speaker": "PSB146_trad",
-    "start": "1532.353",
-    "end": "1533.332",
-    "parent_tu_id": "1158",
-    "text": ""
-  },
-  {
-    "tu_id": "1161",
+    "tu_id": "1160",
     "speaker": "PSB153_trad",
     "start": "1533.393",
     "end": "1534.033",
-    "parent_tu_id": "1160",
-    "text": "[come?]"
+    "parent_tu_id": "1159",
+    "text": "come?"
   },
   {
-    "tu_id": "1164",
+    "tu_id": "1163",
     "speaker": "PSB147_trad",
     "start": "1535.793",
     "end": "1536.680",
-    "parent_tu_id": "1163",
+    "parent_tu_id": "1162",
     "text": "eh musulmana"
   },
   {
-    "tu_id": "1180",
+    "tu_id": "1179",
     "speaker": "PSB147_trad",
     "start": "1553.154",
     "end": "1557.147",
-    "parent_tu_id": "1179",
+    "parent_tu_id": "1178",
     "text": ""
   },
   {
-    "tu_id": "1219",
+    "tu_id": "1218",
     "speaker": "PSB153_trad",
     "start": "1609.261",
     "end": "1609.915",
-    "parent_tu_id": "1218",
-    "text": "(in) quale mese?"
+    "parent_tu_id": "1217",
+    "text": "quale mese?"
   },
   {
-    "tu_id": "1234",
+    "tu_id": "1233",
     "speaker": "PSB153_trad",
     "start": "1625.854",
     "end": "1627.622",
-    "parent_tu_id": "1233",
-    "text": "((ride)) (in) quale mese?"
+    "parent_tu_id": "1232",
+    "text": "quale mese?"
   },
   {
-    "tu_id": "1277",
+    "tu_id": "1276",
     "speaker": "PSB147_trad",
     "start": "1672.015",
     "end": "1674.498",
-    "parent_tu_id": "1276",
-    "text": "fisica (.) scienze chimiche"
+    "parent_tu_id": "1275",
+    "text": "fisica scienze chimiche"
   },
   {
-    "tu_id": "1325",
+    "tu_id": "1324",
     "speaker": "PSB147_trad",
     "start": "1730.129",
     "end": "1730.898",
-    "parent_tu_id": "1324",
+    "parent_tu_id": "1323",
     "text": "quanto hai preso al diploma?"
   },
   {
-    "tu_id": "1327",
+    "tu_id": "1326",
     "speaker": "PSB147_trad",
     "start": "1731.318",
     "end": "1732.033",
-    "parent_tu_id": "1326",
+    "parent_tu_id": "1325",
     "text": "hai presto il diploma?"
   },
   {
-    "tu_id": "1517",
+    "tu_id": "1516",
     "speaker": "PSB147_trad",
     "start": "1982.752",
     "end": "1983.588",
-    "parent_tu_id": "1516",
+    "parent_tu_id": "1515",
     "text": "come si dice la verdura?"
   },
   {
-    "tu_id": "1520",
+    "tu_id": "1519",
     "speaker": "PSB147_trad",
     "start": "1985.327",
     "end": "1985.822",
-    "parent_tu_id": "1519",
+    "parent_tu_id": "1518",
     "text": "come si dice la verdura?"
   },
   {
-    "tu_id": "1522",
+    "tu_id": "1521",
     "speaker": "PSB153_trad",
     "start": "1985.953",
     "end": "1987.553",
-    "parent_tu_id": "1521",
+    "parent_tu_id": "1520",
     "text": ""
   },
   {
-    "tu_id": "1536",
+    "tu_id": "1535",
     "speaker": "PSB147_trad",
     "start": "2003.174",
     "end": "2010.430",
-    "parent_tu_id": "1534",
-    "text": "°panc-° (.) dopo: (.) alle dieci fatto un: snack da: protei::- [anche] avena non lo so (come si dice) avena"
+    "parent_tu_id": "1533",
+    "text": "panc~ dopo alle dieci fatto un snack da: protei~ anche avena non lo so avena"
   }
 ]

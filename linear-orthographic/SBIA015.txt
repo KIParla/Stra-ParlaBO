@@ -433,7 +433,7 @@ PSB146	quindi invece tu avresti voluto continuare
 PSB145	mh
 PSB145	per me
 PSB145	non lo so
-PSB144	#_ _shnū kan 3ajb-ek dīrī
+PSB144	#_ shnū kān ʕajb-ək ddīrī
 PSB145	mh
 PSB145	eh eh
 PSB145	certamente voglio comp~ completa le le le
@@ -572,11 +572,11 @@ PSB145	x
 PSB144	eh la moda di
 PSB144	come si chiama le
 PSB144	li l'elegante
-PSB144	ma è in marocco il #kaftan
-PSB144	lei conosca il #kaftan
+PSB144	ma è in marocco il #qafṭān
+PSB144	lei conosca il #qafān
 PSB146	mhmh
 PSB146	sì sì è non è un tessuto
-PSB144	eh è #kaftan no un vestito ah sì vestito
+PSB144	eh è #qafṭān no un vestito ah sì vestito
 PSB146	sì sì anche il vestito mhmh
 PSB145	vestito tradizionale che
 PSB146	sì ma è molto
@@ -585,7 +585,7 @@ PSB145	eh
 PSB146	mhmh
 PSB145	classico di se quando
 PSB145	quando sposare
-PSB145	eh devi mette #kaftan
+PSB145	eh devi mette #qafṭān
 PSB144	come il come il vestito di sposare
 PSB146	mhmh
 PSB146	da sposa ma
@@ -613,7 +613,7 @@ PSB146	tanti colori o tanti vestiti
 PSB145	tanti vestiti
 PSB146	tanti vestiti ah bello
 PSB145	tanti vestiti per me prima
-PSB145	prima #kaftan era
+PSB145	prima #qafṭān era
 PSB145	eh bianco
 PSB146	mhmh
 PSB145	dopo
@@ -640,7 +640,7 @@ PSB146	il battesimo
 PSB144	il battesimo
 PSB146	battesimo
 PSB144	eh tutti le feste
-PSB144	eh il compleanno è portante il #kaftan
+PSB144	eh il compleanno è portante il #qafṭān
 PSB146	ah ma quello per il matrimonio è diverso
 PSB144	indossa x portante
 PSB146	il vestito
@@ -693,7 +693,7 @@ PSB145	sì
 PSB144	bianco
 PSB144	eh anche un vestito beige
 PSB144	con una
-PSB144	una cosa di si chiama
+PSB144	una cosa di si chiama #l-ʕammāriyya
 PSB146	mhmh
 PSB144	eh mettono così quattro ragazzi
 PSB146	beh bello
@@ -1348,7 +1348,7 @@ PSB145	mh
 PSB146	lunghe preparazioni
 PSB145	mh
 PSB144	eh eh
-PSB144	per esempio ho ho fa~ ho fatto il
+PSB144	per esempio ho ho fa~ ho fatto il #ṭājīn
 PSB144	eh tre ore eh
 PSB146	è con le verdure
 PSB144	è verdure e carne o pollo pesce
@@ -1449,9 +1449,9 @@ PSB144	io
 PSB146	la cosa che vi viene meglio
 PSB144	eh è tanti piatti
 PSB146	tanti piatti
-PSB144	il cous cous #rfissa eh #bastilla
-PSB146	che cos'è #rfissa
-PSB144	#rfissa un una pasta
+PSB144	il cous cous #rfīssa eh #basṭīla
+PSB146	che cos'è #rfīssa
+PSB144	#rfīssa un una pasta
 PSB146	mhmh
 PSB144	eh è fatta
 PSB144	un po' non hai
@@ -1470,11 +1470,11 @@ PSB144	eh sì sì eh buona molto buona
 PSB146	mh
 PSB145	molto buona
 PSB144	eh
-PSB144	anche #bastilla
+PSB144	anche #basṭīla
 PSB145	devi devi devi provarla
 PSB146	eh ehm xx non la so cucinare però
-PSB144	anche #bastilla
-PSB144	eh anche #bastilla anche
+PSB144	anche #basṭīla
+PSB144	eh anche #basṭīla anche
 PSB146	dovete insegnarmi a cucinare queste cose
 PSB144	no eh cucina maroc~ marocco di marocco è molto
 PSB146	ma qui in zona ci sono anche dei ristoranti di cucina marocchina
@@ -1490,15 +1490,15 @@ PSB145	forse a bol~ eh per perché
 PSB144	non lo so io non non conosco
 PSB145	anche io non ho informazioni con x
 PSB146	beh vabbè voi le cucinate a casa
-PSB144	ecco #rfissa
+PSB144	ecco #rfīssa
 PSB145	ecco
-PSB145	ecco #rfissa
+PSB145	ecco #rfīssa
 PSB146	eh buono
 PSB144	eh molto buono
 PSB146	ma tutto sembra molto buono in realtà tutti i piatti
 PSB144	xx eh
 PSB146	cioè sembrano
-PSB144	il il brodo di #rfissa
+PSB144	il il brodo di #rfīssa
 PSB146	mhmh
 PSB144	mh
 PSB146	no sembrano gustosi con tante cose
@@ -1514,8 +1514,8 @@ PSB144	anche la anche marocco la cucina moderna
 PSB146	della tradizione
 PSB146	mhmh
 PSB145	sì
-PSB144	e quello cous cous #rfissa #tajine mh
-PSB144	#bastilla e quelli piatti
+PSB144	e quello cous cous #rfīssa #ṭājīn mh
+PSB144	#basṭīla e quelli piatti
 PSB145	piatti tradizionali
 PSB144	eh
 PSB146	sì che sono i più buoni
@@ -1609,7 +1609,7 @@ PSB144	mh
 PSB145	sì anche al marocco fai una festa
 PSB146	mh
 PSB145	#ḥabb l-mulūk
-PSB144	mh si anche il marocco #y-fai il festa di ciliegie
+PSB144	mh si anche il marocco #yfai il festa di ciliegie
 PSB146	ah di ciliegie anche lì ci
 PSB144	eh sì
 PSB145	si chiama #ḥabb #l-mulūk
@@ -1617,7 +1617,7 @@ PSB146	ah
 PSB144	due feste
 PSB145	#_ ḥabb l-mulūk
 PSB144	#_ ḥabb l-mulūk
-PSB146	#_ abbi muluk
+PSB146	#abbi #muluk
 PSB144	eh
 PSB145	eh #ḥabb #l-mulūk d~ eh x un po' de tradizionale
 PSB145	eh eh li $rige

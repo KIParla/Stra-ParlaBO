@@ -262,7 +262,7 @@ PSB104	cioè se >effettivamente< se (.) tipo (.) anche in francese se tu dici #e
 PSB104	[>cioè< #excité è come:] c(io)è
 PSB105	[a::h sì sì:]
 PSB104	è: #[horny]
-PSB105	#_ #[cachon]da
+PSB105	#[cachon]da
 PSB104	e:h ((ride))
 PSB105	((ride))
 PSB104	sai che (.) io: lo spagnolo a me dispiace perché: oggi ragionavo (.) e io ho fatto cinque anni (.) [perché l'ho fa]tto alle superiori
@@ -426,7 +426,7 @@ PSB105	((ride))
 PSB104	°capito°
 PSB104	beh però:: (.) interessa~ ma tu l'hai scelto l'italiano (.) per una questione di crediti o perché ti interessava?
 PSB105	e:::h mh per questione di crediti ((ride))
-PSB104	((ride)) fai if i have to say
+PSB104	((ride)) fai #_ if i have to say
 PSB105	((ride))
 PSB104	era per crediti
 PSB105	((ride))
@@ -699,7 +699,7 @@ PSB104	(del) resto le donne picchiate i bambini[: tra]umatizza:ti
 PSB105	[e:h]
 PSB105	ecco perché ho: il (.) dis:~
 PSB105	eh #dis:- (.) -order
-PSB105	#_ #antisocial
+PSB105	#antisocial
 PSB105	perché secondo me non è che io sono malata è che la società è malata
 PSB104	ah beh >sì sì sì sì sì< (.) cioè alla fine se
 PSB105	((ride))
@@ -1495,8 +1495,8 @@ PSB105	sì
 PSB104	[no: mai senti~]
 PSB105	[c(io)è le donne gua]dagnano [meglio]
 PSB104	[no: s]econdo me intende il #gap
-PSB105	#_ #cap?
-PSB104	#_ #gap
+PSB105	#cap?
+PSB104	#gap
 PSB104	>di solito< si parla di #gender #gap
 PSB105	no:
 PSB104	>di solito si va< s~ (.) di solito si parla di #gender #gap nel senso che

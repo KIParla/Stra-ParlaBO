@@ -78,7 +78,7 @@ PSB005	le feste:
 PSB005	più grandi dell'induis[mo]
 PSB076	[gra]nde >quello:< si chiama #durga
 PSB005	mhmh
-PSB076	#_ #durga #puja
+PSB076	#durga #puja
 PSB005	mhmh
 PSB076	quello grande nostro pa~ nostra regione >quello< grande festeggia quello nome
 PSB005	e che cosa (.) che cos'è cosa si festeggia
@@ -88,7 +88,7 @@ PSB005	[okay w]ow [wow]
 PSB075	[il significato del be~] c(io)è (.) base
 PSB076	((ride))
 PSB075	però comunque le festività (del)l'induismo sono: parti[colari nel sen]so che:
-PSB076	#_ [#krishna]
+PSB076	[#krishna]
 PSB075	essendo una religione comunque politeista no
 PSB075	c(io)è che d~ c(io)è ha un modo di vedere un po' particolare rispetto alle altre: confessioni
 PSB075	ehm::
@@ -463,7 +463,7 @@ PSB075	[sì sì]
 PSB075	ma no organizzano tantissime cose c(io)è no: veramente
 PSB075	m:h dicevo che (.) per essere un comune
 PSB075	picc[olo fa moltissime (cos]e)
-PSB076	jonno to hoy]
+PSB076	#_ [hatar jonno to hoy]
 PSB075	poi ci sono le gare di corsa ogni tanto che organizzano:
 PSB005	e tu hai fatto le gare?
 PSB075	io n~ da piccolo una volta
@@ -601,7 +601,7 @@ PSB005	e p~ ti piace bologna?
 PSB076	certo mo:lto ma: come dico io:
 PSB076	°molto molto°
 PSB005	qual è la parte che ti piace di più
-PSB076	allora piace (molto) la piazza
+PSB076	allora piace (molto) la piazza
 PSB005	mhmh
 PSB005	la pia[zza princi]pale
 PSB076	[la piazza]
@@ -982,9 +982,9 @@ PSB005	e il vostro: la vostra città in bangladesh qual è
 PSB005	la tua [ci]ttà o: originaria
 PSB076	[bah]
 PSB076	o::riginaria >quello:<
-PSB076	#_ #(shiragbunch)
+PSB076	#(shiragbunch)
 PSB005	okay (.) è [una città] piccola una città grande:
-PSB076	#_ [#(shiragbunch)]
+PSB076	[#(shiragbunch)]
 PSB076	m::h no no grande
 PSB076	>no no< non (ho) piccola media
 PSB005	okay
@@ -1165,8 +1165,8 @@ PSB076	no ha anche aperto una: e:hm
 PSB076	ristorante?
 PSB076	>quello:<
 PSB076	un nome: scr[i(tto)]
-PSB075	#_ #[kash]miri?
-PSB076	#_ #kashmiri
+PSB075	#[kash]miri?
+PSB076	#kashmiri
 PSB076	è bellissimo
 ???	°bello°
 PSB076	io piaciuto tanto
@@ -2150,7 +2150,7 @@ PSB075	#_ beshi lage
 PSB076	[x]
 PSB076	#_ na chinle ekjon biyar
 PSB076	#_ dekha shona to kore
-PSB076	#_ age @kazi @das bashay duita ar bou bhat tin din
+PSB076	#_ age bashay duita ar bou bhat tin din
 PSB075	#_ tin din na beshi
 PSB076	#_ oi ek shopta
 PSB075	comun[que un]a settimana dura il [°xxxx°]

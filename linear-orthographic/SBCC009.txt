@@ -21,7 +21,7 @@ PSB104	il lunedì da a a devi fare questo
 PSB104	ma poi
 PSB105	qual è il tuo embitiai
 PSB104	il mio embitiai
-PSB119	#_ duì j (.) j rén
+PSB119	#_ duì j j rén
 PSB105	sì sicuramente
 PSB119	#_ xxx
 PSB104	ah sì sì sì sì sì
@@ -128,7 +128,7 @@ PSB120	mhmh
 PSB104	che è tipo un chatgipiti però inventato no
 PSB105	sì
 PSB104	ti scannerizza e ti dice eh
-PSB104	ti fa~ ti sei fatto maledovresti mettere la crema
+PSB104	ti fa~ ti sei fatto male dovresti mettere la crema
 PSB105	sì sì sì sì
 PSB104	ha senso
 PSB105	xxx però c'è
@@ -157,7 +157,7 @@ PSB105	neanche io
 PSB104	anzi lui finisce tutto di con la faccina addirittura l'emoticon viene fuori no
 PSB104	e che è spero ti sia piaciuta la risposta e no io non gli rispondo niente
 PSB104	cioè se ci pensi con una persona è orribile
-PSB104	non st~ non stai rispondendo a nullaé come se tu mi dicessi ti va bene quello che ho scritto
+PSB104	non st~ non stai rispondendo a nulla è come se tu mi dicessi ti va bene quello che ho scritto
 PSB104	e io non ti dico niente
 PSB105	a volte è uscito siri
 PSB105	e io dico rivattene
@@ -180,7 +180,7 @@ PSB105	così
 PSB104	sì
 PSB119	il mio film preferito è
 PSB104	è un po' brutto
-PSB119	#_ her
+PSB119	#her
 PSB105	ma sai che elon musk
 PSB105	ha già inventato fidanzata
 PSB105	robot
@@ -255,10 +255,10 @@ PSB104	allora come è andata la tua settimana
 PSB104	dimmi un po'
 PSB120	questa settimana
 PSB120	ho devo parlare
-PSB120	io ho
+PSB120	io ho #_ exam
 PSB104	okay
 PSB119	che esame hai
-PSB120	#_ méi yǒu ma ? méi yǒu kǎo shì ?
+PSB120	#_ méi yǒu ma méi yǒu kǎo shì
 PSB119	#_ nǐ yǒu shén me kǎo shì
 PSB120	ah diritto dei media
 PSB120	diritto dei media
@@ -341,10 +341,10 @@ PSB120	#_ jiā yóu
 PSB105	puoi corromperlo
 PSB104	puoi corromperlo come
 PSB120	#_ xxx
-PSB120	#_ zěn me kǎo ?
+PSB120	#_ zěn me kǎo
 PSB105	con la mia $fascinanza
 PSB120	#_ xxx
-PSB120	#_ jǐ dào tí ?
+PSB120	#_ jǐ dào tí
 PSB104	seduzione
 PSB120	#_ xxx
 PSB120	#_ xxx suǒ yǒu jiù yī dào tí
@@ -391,7 +391,7 @@ PSB120	posso
 PSB120	posso mh posso
 PSB120	posso
 PSB120	#_ kǎo yī dào tí
-PSB120	bǐ rú shuō
+PSB120	#_ bǐ rú shuō
 PSB119	ah
 PSB119	fare solo una domanda xxxx
 PSB120	sì
@@ -435,7 +435,7 @@ PSB120	telefono
 PSB104	non puoi usare nien~ mh
 PSB105	eh
 PSB104	solo xx mh penna
-PSB120	hái wèn le shǒu jī néng bù néng yòng
+PSB120	#_ wǒ hái wèn le , shǒu jī néng bù néng yòng
 PSB120	penna
 PSB104	penna e foglio
 PSB120	mh
@@ -444,7 +444,7 @@ PSB120	sì sì solo
 PSB119	il prof molto
 PSB119	stile vecchio
 PSB104	qua veramente è terribile
-PSB120	terribile
+PSB120	#_ ok terribile
 PSB120	#_ xxx
 PSB105	con la ceretta
 PSB120	xxx posso usare
@@ -516,7 +516,7 @@ PSB120	ehm noa~
 PSB120	detto me detto mi mi ha detto
 PSB120	ma
 PSB120	eh quando ho ehm siete
-PSB120	ehm miàn shì
+PSB120	ehm #_ hòu miàn shì
 PSB120	insegnante eh e dove è
 PSB120	dove è
 PSB120	so a~ mh pre~
@@ -569,7 +569,7 @@ PSB119	lei ha già visto te come una frequen~ non frequentante no no no non
 PSB105	meglio se lo frequenti il semestre prossimo
 PSB104	mh
 PSB105	mi sa
-PSB105	dice che ogni voltail professore fa l'appello salta lei
+PSB105	dice che ogni volta il professore fa l'appello salta lei
 PSB104	vabbè perché
 PSB119	non so che lei è in ritardo perché è non non arriva
 PSB105	sì sì
@@ -794,7 +794,7 @@ PSB119	#_ zhēn de fán
 PSB104	beh vabbè
 PSB104	è comprensibile dai che vogliano un po'
 PSB104	eh ehm
-PSB104	cioènel senso dato che tu
+PSB104	cioè nel senso dato che tu
 PSB104	tutta la cina
 PSB104	dice che sono una regione cinese quando no~ non è vero
 PSB104	ci sta che un po' vogliano mettere dei confini
@@ -807,10 +807,10 @@ PSB104	beh
 PSB104	beh eh eh cosa vuol dire due stati possono avere la stessa lingua
 PSB119	pandemia #shì shì
 PSB104	e scusa in america e in inghilterra parlano tutte e due inglese
-PSB104	però sono l'america cioè sono stati uniti e
+PSB104	però sono l' america cioè sono stati uniti e
 PSB119	guarda guarda guarda questa lezione adesso capisco che xx così ha detto
 PSB119	leadership per comunicazione e crisi tra pandemia e guerra
-PSB104	#_ what
+PSB104	#what
 PSB104	mamma mia
 PSB119	non lo so è molto politico
 PSB119	leadership e comunicazione
@@ -839,7 +839,7 @@ PSB104	benissimo al livello di al~ alzate l'italiano
 PSB104	che cosa vuol dire parimenti e mi risponde la cinese
 PSB105	quella è uguale
 PSB105	#_ tóng yàng de
-PSB104	tóng yàng de okay yí yàng yí yàng de
+PSB104	tóng yàng de okay #yí yàng yí yàng de
 PSB104	eh
 PSB104	#_ hú tòng de bù tóng de
 PSB105	#_ xiāng tóng de , xiāng tóng de , xiāng tóng de
@@ -850,14 +850,14 @@ PSB104	tā cuò le
 PSB104	ehm
 PSB104	#_ zhè hěn... é... qīng chǔ
 PSB105	mh
-PSB104	ehm dàn tā shì
+PSB104	ehm #_ dàn tā shì
 PSB104	#_ hǎo xīn
 PSB104	ehm
 PSB104	#_ fàn ehm no
 PSB105	commettere
 PSB104	eh no non mi ricordo quello dopo
 PSB104	eh no non me lo dire non me lo dire
-PSB104	eh cuò
+PSB104	eh #_ cuò
 PSB104	#_ cuò jiù cuò wù
 PSB105	#_ cuò wù
 PSB104	#_ cuò wù cosa vuol dire
@@ -867,10 +867,10 @@ PSB104	eh
 PSB104	okay
 PSB104	#_ zhè tóng yàng yě hěn qīng chǔ
 PSB104	#_ yī tóng , yī
-PSB105	tóng
+PSB105	#_ yī tóng
 PSB104	cos'è questo
 PSB104	#_ yī tóng , yī
-PSB105	insieme kuài
+PSB105	insieme #_ yí kuài
 PSB104	#yí kuài ah okay
 PSB104	ah #yí kuài è vero
 PSB104	vabbè a parte a parte questa parentesi su eh io che non so il cinese ma questi sono altri discorsi
@@ -900,7 +900,7 @@ PSB119	#_ xxx
 PSB120	presentazione
 PSB120	presentazione ha avuto
 PSB120	quindi xxx xx
-PSB120	#_ about a (.) xxx
+PSB120	#_ about a xxx
 PSB120	ehm macro
 PSB120	macro
 PSB105	ah sì macron
@@ -910,7 +910,7 @@ PSB105	sì sì
 PSB104	okay
 PSB120	xxx
 PSB104	ah #*le #*le #*le #president
-PSB105	#_ eh (.) eh oui
+PSB105	#_ eh eh oui
 PSB104	xx
 PSB120	#_ nà gè zǔ yuán zěn me shuō , xxx
 PSB119	#_ shén me
@@ -933,11 +933,11 @@ PSB105	cioè per la nostra l'esame
 PSB105	nostro esame di inglese
 PSB105	c'è
 PSB105	praticamente dice che xi jinping deve essere responsabile per la guerra di ucraina
-PSB120	#_ shén me ? zài shuō yī biàn
+PSB120	#_ shén me zài shuō yī biàn
 PSB104	davvero
 PSB105	mhmh perché
 PSB120	#_ zài shuō yī biàn
-PSB105	eh jiù shì
+PSB105	eh #_ jiù shì
 PSB105	glielo
 PSB120	#_ gàn ma
 PSB120	#_ fù zé
@@ -1017,16 +1017,16 @@ PSB120	ah mh eh
 PSB120	#i can't speak mh mh
 PSB120	#_ if i want to join them i needed to speak eh french
 PSB119	francese
-PSB120	#_ a french and ((tossisce)) and if
+PSB120	#_ a french and and if
 PSB120	#_ ehm if i join i needed to
 PSB120	#_ ehm pre~ presentation
 PSB120	#_ and i needed to french
 PSB120	#_ fre~ french
 PSB119	xxx xxx
-PSB120	sìxxx
-PSB120	#_ and i i say you and if you (.) didn't do the presentation (.) that you will
-PSB120	#_ ehm can't (.) yes and i can't
-PSB119	#_
+PSB120	sì xxx
+PSB120	#_ and i i say you and if you didn't do the presentation that you will
+PSB120	#_ ehm can't yes and i can't
+PSB119	#_ xxxx
 PSB120	#can't ehm #commu~ #communicate ehm be~ bene
 PSB120	#_ or do something
 PSB105	mhmh
@@ -1051,7 +1051,7 @@ PSB105	e lei è entrata nel gruppo e xxx più potuto dire xx
 PSB119	#_ xxx wán chéng le
 PSB104	ah
 PSB119	#_ zuì mean de lǎo shī
-PSB119	#_ zuì mean de tóng xué ((ride))
+PSB119	#_ zuì mean de tóng xué
 PSB119	#_ wán chéng le
 PSB104	io non capisco perché questa vuole che tu parli francese però
 PSB119	perché parli a elon musk
@@ -1125,7 +1125,7 @@ PSB104	vabbè no dai anche
 PSB105	no perché io non ho mai sentito parlare in cinese da loro però suppongo che anche loro sono brave
 PSB104	vabbè
 PSB104	ma io cioè nel senso questa qua
-PSB104	non sapev~ non sapeva leggerenon ti dico parlare perché parlare faccio fatica anch'io
+PSB104	non sapev~ non sapeva leggere non ti dico parlare perché parlare faccio fatica anch'io
 PSB104	ma caz~ ma c'erano dei caratteri che io c~ conoscevo a memoria e lei guardava il il muro così
 PSB104	vez ma svegliati
 PSB104	non volevo essere cattiva ma mi veniva da dirti svegliati
@@ -1149,7 +1149,7 @@ PSB119	per una semestre
 PSB119	e gli studenti italiani hanno imparato solo meno di dieci caratteri
 PSB104	madonna meno di dieci
 PSB119	alla
-PSB104	cioè cos'hanno imparatomamma papa e cane
+PSB104	cioè cos'hanno imparato mamma papa e cane
 PSB119	forse alla fine di semestre
 PSB119	la prof ha chiesto cosa è questa carattere questo cosa significa o pronuncia
 PSB119	e
@@ -1252,7 +1252,7 @@ PSB120	sì sì sì ah lo~
 PSB105	sì loro due eh entrambe
 PSB104	ah
 PSB120	comunicazione
-PSB104	che poiposso dire una cosa cattiva rimarcano un po' lo stereotipo del cinese che va a fare le foto eh
+PSB104	che poi posso dire una cosa cattiva rimarcano un po' lo stereotipo del cinese che va a fare le foto eh
 PSB104	so~ un po' cattiva però
 PSB105	sei un po'
 PSB104	cioè i~ ehm cioè
@@ -1262,7 +1262,7 @@ PSB119	sì
 PSB105	ma anche
 PSB104	che ci sta perché l'italia è un bel posto
 PSB104	però è passato molto come stereotipo
-PSB104	che venite qua per fare fotoma a tutto
+PSB104	che venite qua per fare foto ma a tutto
 PSB105	ma siamo turisti
 PSB105	anche i
 PSB119	i turisti fa foto
@@ -1355,7 +1355,7 @@ PSB105	portogallo
 PSB104	sì esatto
 PSB105	mhmh
 PSB104	e praticamente a un certo punto si è detto sì
-PSB104	no torniamo indietrola storia era così
+PSB104	no torniamo indietro la storia era così
 PSB104	quando si è arrivati a conquistare la cina
 PSB105	mhmh
 PSB105	mhmh
@@ -1417,7 +1417,7 @@ PSB104	eh ma l'avevo senti~ cioè io in realtà sapevo
 PSB104	che c'era un problema
 PSB104	eh da un punto di vista amministrativo ad un certo punto
 PSB104	perché la maggior parte della popolazione a hong kong era cinese
-PSB104	eh però l'amministrazione prevedeva la lingua ufficiale inglesee quindi tutti facevano molta fatica nella
+PSB104	eh però l'amministrazione prevedeva la lingua ufficiale inglese e quindi tutti facevano molta fatica nella
 PSB104	comunicazione dei bisogni
 PSB119	parlano quattro lingue cantonesi cinese
 PSB105	cantonese
@@ -1519,7 +1519,7 @@ PSB105	ah
 PSB119	nǎ lǐ a
 PSB105	io non l'avevo mai sentire
 PSB104	eh io sapevo che in alcune zone rurali della cina c'era ancora il baratto
-PSB105	forse sì jiù shì yǐ wù huàn wù bù yòng qián
+PSB105	forse sì #_ jiù shì yǐ wù huàn wù , bù yòng qián
 PSB119	non lo so
 PSB119	xxx
 PSB104	non so forse sper~ spero che sia una diceria perché
@@ -1567,14 +1567,14 @@ PSB119	quindi tedeschi hanno portato vi~ no birra qua
 PSB104	ah bellissimo
 PSB105	birra
 PSB119	marca di sua città
-PSB119	#_ qīng dǎo pí jiǔ ((ride))
+PSB119	#_ qīng dǎo pí jiǔ
 PSB104	bellissimo
 PSB105	poi dopo la guerra
 PSB105	è diventato una parte di giappone
 PSB104	ah
 PSB104	è vero
 PSB120	#_ shān dōng lǚ shùn
-PSB120	#_ shì , lǚ shùn shì nǐ men de ma ?
+PSB120	#_ shì , lǚ shùn shì nǐ men de ma
 PSB105	#_ bú shì qīng dǎo de
 PSB120	#_ shì shān dōng de ma
 PSB105	mhmh
@@ -1595,12 +1595,12 @@ PSB104	eh
 PSB104	xxx
 PSB105	massacro del nanchino
 PSB104	mh
-PSB119	jīng
+PSB119	#_ nán jīng
 PSB104	#_ nán jīng tú shā
 PSB119	sì
 PSB105	sì sì sì
 PSB120	#_ dà tú shā
-PSB104	quello sìe io dovevo eh volevo portarlo tra parentesi come mh
+PSB104	quello sì e io dovevo eh volevo portarlo tra parentesi come mh
 PSB104	argomento perché noi abbiamo fatto storia dell'asia
 PSB104	al primo anno di università
 PSB104	e c~ tra gli argomenti a scelta c'era un libro sul massacro di nanchino
@@ -1615,7 +1615,7 @@ PSB104	e l'hai visto è tremendo
 PSB105	no è troppo crudo in realtà non voglio non voglio vederlo
 PSB104	#_ ě xīn
 PSB104	#_ zhè me ě xīn
-PSB104	si dice ě xīn
+PSB104	si dice #_ ě xīn
 PSB105	ehm
 PSB104	no
 PSB105	no
@@ -1658,7 +1658,7 @@ PSB104	che sarebbe wǔ liù qī cinque sei sette
 PSB104	eh sì no cercalo eh io ho guardato tutte le stagioni è tipo il mio preferito in cinese l'ho guardato sempre
 PSB105	come si chiama
 PSB104	#sister #seven tipo
-PSB104	#_ sister
+PSB104	#sister
 PSB104	#seven no perché non fa lo spazio
 PSB104	ques~ questo
 PSB119	ah cinese e sembra di giappone
@@ -1682,12 +1682,12 @@ PSB104	probabile però è bellissimo c'è su netflix
 PSB104	ehm
 PSB104	io so che mh a un certo punto quando gli doveva dire
 PSB104	ah ma sei così crudele perché uno dei cattivi era crudelissimo gli ha detto
-PSB104	ah me ě xīn
+PSB104	ah #_ zhè me ě xīn
 PSB104	ah
 PSB104	però io mh non so
 PSB105	#ě xīn fa schifo
 PSB104	fa schifo
-PSB105	mhmh xīn
+PSB105	mhmh #_ ě xīn
 PSB104	#_ ě xīn è fa schifo
 PSB104	ma sotto c'era scritto sei così crudele
 PSB120	#_ xxx
@@ -1695,7 +1695,7 @@ PSB104	e allora io son stata convinta per tanto tempo che fosse crudele
 PSB104	cioè volesse dire crudele
 PSB104	per~ ma scusa m~ me lo puoi far vedere in caratteri
 PSB105	quale
-PSB104	ehm xīn
+PSB104	ehm #_ ě xīn
 PSB105	#_ ě xīn
 PSB104	quello che fa schifo okay pensavo fosse
 PSB105	crudele
@@ -1727,11 +1727,11 @@ PSB104	ah c'era la visto che erano
 PSB104	e un po' di azione
 PSB104	e c'erano dei cattivi da sconfiggere e a un certo punto questa diceva sempre
 PSB104	ah
-PSB104	#_ (.) e io ero tipo lì ah allora aspetta ((ride))
+PSB104	#_ e io ero tipo lì ah allora aspetta
 PSB105	è come noi con dylan dog
 PSB104	con eh sì
 PSB105	sì
-PSB120	#_ shén me ? shén me
+PSB120	#_ shén me shén me
 PSB105	#_ tā men yǒu yí gè , nà gè màn huà , jiào dylan dog
 PSB105	#_ jiù wǒ men xué
 PSB105	quando impariamo italiano
@@ -1858,11 +1858,11 @@ PSB105	no chi
 PSB105	ah lei è pisana
 PSB104	lei è pisana
 PSB120	pisana
-PSB105	bǐ sà rén eh
+PSB105	#_ bǐ sà rén eh
 PSB104	è una nostra questa nostra amica
 PSB105	#_ bǐ sà de
 PSB119	#_ bǐ sà rén
-PSB105	pisa bǐ sà rén xié tǎ
+PSB105	pisa #_ bǐ sà rén xié tǎ
 PSB119	#_ bǐ sà , bǐ sà shén me
 PSB119	#_ zěn me le , ō , zhī dào le
 PSB119	mi sembra un'ottima idea
@@ -1889,7 +1889,7 @@ PSB119	ho sentito in supermercato cinese ho sentito i
 PSB119	supermercato cinese perché
 PSB119	a bologna è di~ è più difficile xx avere
 PSB119	applicare
-PSB119	#_ bǔ zhù ? zěn me shuō a
+PSB119	#_ bǔ zhù zěn me shuō a
 PSB105	ah esoneri
 PSB104	xxx
 PSB105	è più difficile avere esoneri per gli stranieri
@@ -2074,7 +2074,7 @@ PSB104	mh mhmh
 PSB104	ma qui~ ma de~ negozi di matrimonio son tipo negozi da sposa
 PSB104	di abiti da sposa
 PSB105	sì sì sì
-PSB104	ahokay
+PSB104	ah okay
 PSB105	tipo
 PSB119	e si sposano molto presto
 PSB119	e vent'anni già due bambi~
@@ -2112,7 +2112,7 @@ PSB120	#_ fǎn zhèng wǒ bà tā cóng tóu dào wěi dōu shuō
 PSB120	#_ tā shuō wǒ shì lái yì dà lì sòng xué lì de
 PSB120	#_ cóng lái bù jué de wǒ shàng kè yǒu duō nàn
 PSB105	#_ gēn , gēn dé guó de liú zi bǐ qǐ lái , jiù shì , zán men shì...
-PSB105	#_ jiù zuò yī xiē ((ride))
+PSB105	#_ jiù zuò yī xiē
 PSB105	#_ dàn shì què shí
 PSB119	ah
 PSB119	#_ wǒ zài shuō nǐ jiù shēng qì le , wǒ bù shuō le
@@ -2276,22 +2276,22 @@ PSB120	#_ rán hòu wǒ bà gēn tā shuō , wèi shén me wǒ lǎo zhǎo tā y�
 PSB105	#_ tā bú shì yīng gāi gěi ma
 PSB119	un po' difficile
 PSB105	#_ dàn shì nǐ mèi gēn nǐ qīn ma
-PSB105	#_ nà nǐ hái gēn tā shuō ((ride))
+PSB105	#_ nà nǐ hái gēn tā shuō
 PSB119	#_ suǒ yǐ nà shí hou wǒ jiù wèn tā , wǒ shuō
 PSB120	#_ qù nǎ lǐ mǎi yī fú de
 PSB105	#_ ó ó ó
 PSB120	#_ zhè gè hǎo guì ó , tā shuō nǐ zhǎo nǐ bà , zhǎo bà bà ya , ràng bà bà gěi nǐ mǎi
 PSB119	#_ rán hòu wǒ zhǎo tā le , rán hòu tā zhè me shuō , wǒ gěi tā jié tú fā gěi wǒ mèi
 PSB120	#_ rán hòu wǒ mèi jiù zhǎo wǒ bà
-PSB119	#_ nǐ zhè shén me mèi a ((ride))
-PSB105	fēng bào xìn ér
+PSB119	#_ nǐ zhè shén me mèi a
+PSB105	#_ tōng fēng bào xìn ér
 PSB105	hai capito
 PSB104	no
 PSB105	è come
 PSB104	io ho capito comprare vestiti
 PSB104	#_ méi yì sī
 PSB105	brava
-PSB104	ha parlato tre anni e ho capito yī fú fine
+PSB104	ha parlato tre anni e ho capito #_ mǎi yī fú fine
 PSB105	sei come me
 PSB105	con letteratura italiana
 PSB105	cioè lei è
@@ -2377,7 +2377,7 @@ PSB119	e sta con sua madre dopo sua padre
 PSB119	andato via quindi sua mamma è molto
 PSB104	è andato via
 PSB104	apprensiva
-PSB104	ho capitoeh
+PSB104	ho capito eh
 PSB105	se il coprifuoco è alle sette quando fa
 PSB105	quando fa la cena
 PSB119	sì non può fare neanche cena con gli amici
@@ -2392,7 +2392,7 @@ PSB104	che cosa vuoi fare a pranzo va e basta con gli amici va a pranzo
 PSB119	tā men lí hūn de tǐng duō de
 PSB119	#_ bù zhǐ
 PSB120	#_ lí hūn duō , chū guǐ de yě duō
-PSB105	ah shì
+PSB105	ah #_ shì
 PSB119	xx puoi vedere xx molto a posto #su xiǎo hóng shū
 PSB105	sì sì sì
 PSB119	#_ wǒ bà shēn biān de péng yǒu , hěn duō dōu bāo dà xué shēng
@@ -2434,7 +2434,7 @@ PSB120	ah
 PSB119	#_ ō , wǒ kàn guò le
 PSB120	xxx dieci minuti
 PSB104	perché me l'ha chiesto lei e~ xx
-PSB104	io l l'avevo visto ma
+PSB104	io l~ l'avevo visto ma
 PSB104	ah io non ho visto il secondo però
 PSB105	ah io l'ho visto tutto
 PSB104	l'hai visto tutto
@@ -2481,7 +2481,7 @@ PSB104	beh
 PSB105	immagino
 PSB104	concludiamo ho fame
 PSB105	sì sì sì
-PSB119	de dōu
+PSB119	#_ nán de dōu
 PSB120	#_ nán de dōu ài miàn zi
 PSB120	#_ miàn zi zěn me shuō a
 PSB104	è la faccia no #miàn zi

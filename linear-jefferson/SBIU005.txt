@@ -194,7 +194,7 @@ PSB005	sì sì sì sì
 PSB019	e: mi occupavo
 PSB019	ci chiamiamo localization editor[s:]
 PSB005	[°okay°]
-PSB019	e ho (:) mi occupavo dei mercati tedeschi
+PSB019	e ho (.) mi occupavo dei mercati tedeschi
 PSB019	quindi austria germania in questo caso
 PSB019	ehm: adesso non ci: lavoro più perché ho trovato:
 PSB019	la mia grande passione sono i videogiochi ho trovato un lavoro per i videogiochi
@@ -345,7 +345,7 @@ PSB019	E [NESS~]
 PSB005	[quale] regione dell'ucraina?
 PSB019	e: sviniski che è praticamente quattro o~ <ore verso l'ovest> dell'ucraina
 PSB019	che è vicino ternopili vinnytsia
-PSB019	eh.m
+PSB019	ehm
 PSB019	°lì°
 PSB019	mio nonno è invece di vladivostok e mio: (.) zio della crimea dove parlano russo
 PSB019	e anche se putin dice che:
@@ -608,7 +608,7 @@ PSB019	si sforzavano (.) il primo anno a parlare con me l'inglese
 PSB019	POI hanno trovato un'altra ragazza ucraina che hanno portata da me così poteva <tradurre un po'>
 PSB019	quindi si sono sforzati molto: molto ad integrarmi poi
 PSB019	spesso mi IMITAV~
-PSB019	#_ #jesus
+PSB019	#jesus
 PSB019	e: poi mi invitavano spesso a vari eventi anche >se non capivo una mazza< mi portavano in giro così non ero a casa
 PSB005	e hai imparato la lingua tramite:?
 PSB005	i [tuoi compagni] della tua età diciam[o]

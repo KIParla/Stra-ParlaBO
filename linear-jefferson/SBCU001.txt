@@ -899,8 +899,8 @@ PSB005	è giusto.
 PSB022	anche che quando questo anche per me difficile.
 PSB005	perché (.) dimmi ((ride))
 PSB022	perché sempre devo:
-PSB022	#_ #BA
-PSB022	#_ #ba
+PSB022	#BA
+PSB022	#ba
 PSB022	no~ no:nna no:nna
 PSB022	dai questa, nonna dai do~ da~
 PSB022	io voglio quest(o) io vo~
@@ -2903,7 +2903,7 @@ PSB022	stata: (.) m~ milita:re: e sempre:
 PSB022	to:- (.) t~ germa:nia,
 PSB022	poi bielorussia:, poi:
 PSB022	e:hm:
-PSB022	#_ #zaporižžja
+PSB022	#zaporižžja
 PSB005	mh[mh]
 PSB022	[e:] quando sono arrivati #zaporižžja in ucrai:na,
 PSB022	a::h
@@ -2939,7 +2939,7 @@ PSB022	e:oh
 PSB022	ogni giorno
 PSB022	due pulizie, due case e tutti
 PSB022	eh diversi °mamma mia°
-PSB022	°come tu puoi° lei settanta anni e:h co~: non è possibile così.
+PSB022	°come tu puoi° lei settanta anni e:h co~ non è possibile così.
 PSB022	((ride))
 PSB005	mhmh. ma (.) forse:
 PSB005	forse lei guarda anche la televisione in ita[lia:no:]
@@ -3066,7 +3066,7 @@ PSB022	xx
 PSB005	perché io lavoro alla adesso.
 PSB005	f[orse è lo stesso posto].
 PSB022	[no no (.)] lei dice: ts~ mh.
-PSB022	#_ #da
+PSB022	#da
 PSB022	cost~ (.) qui non c'è.
 PSB022	#_ k~ kak kak že eё familija blin °zabyla°
 PSB022	n:o.
@@ -3121,7 +3121,7 @@ PSB022	[a]::h [s:ì]
 PSB005	[magari lo] vedo
 PSB005	e poi:
 PSB022	#vot c~ e::h eh gira e:hm:
-PSB022	#_ #ne
+PSB022	#ne
 PSB005	vabbè (.) quando ti viene in mente poi me lo dici non ti preoccupare.
 PSB022	xx[x]
 PSB005	[era] una curiosità solo.

@@ -32,91 +32,115 @@
     "text": "ti giuro che voglio andare via"
   },
   {
-    "tu_id": "184",
+    "tu_id": "183",
+    "speaker": "PSB099_trad",
+    "start": "574.900",
+    "end": "578.220",
+    "parent_tu_id": "182",
+    "text": ""
+  },
+  {
+    "tu_id": "185",
     "speaker": "PSB100_trad",
     "start": "575.810",
     "end": "578.720",
-    "parent_tu_id": "183",
+    "parent_tu_id": "184",
     "text": "me ne voglio andare te lo giuro su dio veramente"
   },
   {
     "tu_id": "187",
+    "speaker": "PSB099_trad",
+    "start": "578.700",
+    "end": "579.980",
+    "parent_tu_id": "186",
+    "text": ""
+  },
+  {
+    "tu_id": "189",
     "speaker": "PSB100_trad",
     "start": "579.110",
     "end": "584.760",
-    "parent_tu_id": "186",
+    "parent_tu_id": "188",
     "text": "no cioè mi sa che me la voglio rischiare frega niente nessu~ vado a spostarmi"
   },
   {
-    "tu_id": "190",
+    "tu_id": "192",
     "speaker": "PSB100_trad",
     "start": "585.120",
     "end": "585.530",
-    "parent_tu_id": "189",
+    "parent_tu_id": "191",
     "text": "dove?"
   },
   {
-    "tu_id": "211",
+    "tu_id": "194",
+    "speaker": "PSB099_trad",
+    "start": "585.620",
+    "end": "586.600",
+    "parent_tu_id": "193",
+    "text": ""
+  },
+  {
+    "tu_id": "214",
     "speaker": "PSB099_trad",
     "start": "623.900",
     "end": "626.640",
-    "parent_tu_id": "210",
+    "parent_tu_id": "213",
     "text": "mi dispiace mi dispiace ma"
   },
   {
-    "tu_id": "332",
+    "tu_id": "335",
     "speaker": "PSB100_trad",
     "start": "916.880",
     "end": "918.880",
-    "parent_tu_id": "331",
+    "parent_tu_id": "334",
     "text": "allora vedi hai la testa dura"
   },
   {
-    "tu_id": "343",
+    "tu_id": "346",
     "speaker": "PSB100_trad",
     "start": "974.990",
     "end": "976.510",
-    "parent_tu_id": "342",
+    "parent_tu_id": "345",
     "text": "in questo c'è del buono in questo c'è del buono"
   },
   {
-    "tu_id": "390",
+    "tu_id": "393",
     "speaker": "PSB100_trad",
     "start": "1076.040",
     "end": "1078.953",
-    "parent_tu_id": "389",
+    "parent_tu_id": "392",
     "text": "non puoi mettere cioè pendolare?"
   },
   {
-    "tu_id": "395",
+    "tu_id": "398",
     "speaker": "PSB100_trad",
     "start": "1083.060",
     "end": "1086.664",
-    "parent_tu_id": "394",
+    "parent_tu_id": "397",
     "text": "cioè okay no io pensavo cioè pensavo che potevi cioè okay"
   },
   {
-    "tu_id": "415",
+    "tu_id": "418",
     "speaker": "PSB100_trad",
     "start": "1117.080",
     "end": "1124.470",
-    "parent_tu_id": "414",
+    "parent_tu_id": "417",
     "text": "sì no no no però sbriga cioè fai pressione cioè cioè per dire della"
   },
   {
-    "tu_id": "419",
+    "tu_id": "422",
     "speaker": "PSB100_trad",
     "start": "1124.810",
     "end": "1128.500",
-    "parent_tu_id": "418",
+    "parent_tu_id": "421",
     "text": "digli dammi sti cavolo di quattro milioni di euro che non è una cosa così"
   },
   {
-    "tu_id": "645",
+    "tu_id": "648",
     "speaker": "PSB099_trad",
     "start": "1669.790",
     "end": "1670.700",
-    "parent_tu_id": "644",
+    "parent_tu_id": "647",
     "text": "innanzitutto"
   }
 ]

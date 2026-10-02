@@ -506,14 +506,14 @@ PSB005	mhmh
 PSB091	scusami
 PSB005	no vai vai
 PSB091	#da
-PSB091	#_ ja doma de parla al telefono
+PSB091	#_ ja doma de
 PSB091	ah
-PSB091	#_ ty kuda jdeš parla al telefono
-PSB091	#_ z jakimi chlopcami parla al telefono
-PSB091	#_ skaži ščo dlja sebe chočeš parla al telefono
-PSB091	#_ a ne dlja chlopciv parla al telefono
-PSB091	#_ dobre parla al telefono
-PSB091	#_ davaj parla al telefono
+PSB091	#_ ty kuda jdeš
+PSB091	#_ z jakimi chlopcami
+PSB091	#_ skaži ščo dlja sebe chočeš
+PSB091	#_ a ne dlja chlopciv
+PSB091	#_ dobre
+PSB091	#_ davaj
 PSB005	invece questa è mia sorella
 PSB005	ne ho un'al~ cioè siamo in tre
 PSB091	ah siete tre sorelle
@@ -828,7 +828,7 @@ PSB091	no no assolutamente
 PSB091	guarda ti dico guarda io li baciavo dappertutto capito
 PSB005	ride
 PSB091	nel culetto nei piedi erano i miei loro proprio quando mi vedevano
-PSB091	#_ dada dada
+PSB091	#dada #dada
 PSB091	cioè troppo b~ troppo belli troppo mamma mia
 PSB091	troppo belli
 PSB005	beh dai sono contenta che ci sono dei bolognesi per bene
@@ -1147,7 +1147,7 @@ PSB091	i miei tutti i miei ucraini com~ compaesani
 PSB005	vai dopo vado giuro che dopo vado
 PSB091	sì
 PSB091	#_ da
-PSB091	#_ peresilaju (.) peresilaju
+PSB091	#_ peresilaju peresilaju
 PSB091	#_ davaj
 PSB005	no ma adesso vado dai
 PSB091	sì gli giro gli giro
