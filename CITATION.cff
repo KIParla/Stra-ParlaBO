@@ -1,0 +1,38 @@
+type: dataset
+cff-version: 1.2.0
+message: "If you use this data, please cite it as below."
+title: "KIParla-Stra-ParlaBO"
+authors:
+- family-names: "Mauri"
+  given-names: "Caterina"
+  orcid: "https://orcid.org/0000-0002-8226-7846"
+- family-names: "Ballarè"
+  given-names: "Silvia"
+  orcid: "https://orcid.org/0000-0002-5568-1611"
+- family-names: "Zucchini"
+  given-names: "Eleonora"
+  orcid: "https://orcid.org/0000-0001-6497-7310"
+version: 1.0.0
+identifiers:
+  - description: "The concept DOI of the work"
+    type: doi
+    value: 10.60760/unibo/stra-parlabo
+# TODO: set to the actual release date (the DOI is dated 2026).
+date-released: YYYY-MM-DD
+repository-code: "https://github.com/KIParla/Stra-ParlaBO"
+license: CC-BY-NC-SA-4.0
+references:
+  - type: article
+    authors:
+      - family-names: "Zucchini"
+        given-names: "Eleonora"
+        orcid: "https://orcid.org/0000-0001-6497-7310"
+      - family-names: "Ballarè"
+        given-names: "Silvia"
+        orcid: "https://orcid.org/0000-0002-5568-1611"
+      - family-names: "Mauri"
+        given-names: "Caterina"
+        orcid: "https://orcid.org/0000-0002-8226-7846"
+    title: "Parlare italiano in contesto migratorio: il corpus Stra-ParlaBO"
+    journal: "Études romanes de Brno"
+    year: 2025
