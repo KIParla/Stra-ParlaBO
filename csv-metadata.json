@@ -84,10 +84,7 @@
           {
             "name": "community",
             "titles": "community",
-            "datatype": {
-              "base": "string",
-              "format": "moroccan|bengali|chinese|ukrainian"
-            }
+            "dc:description": "Migrant community the speakers belong to (Stra-* modules), e.g. moroccan|bengali|chinese|ukrainian."
           }
         ],
         "foreignKeys": [
