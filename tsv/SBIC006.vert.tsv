@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	PSB005	0	0	così	così	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=0.63|End=1.16	_	_	_	_
 1-0	PSB013	1	0	okay	okay	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1.22|End=1.69	_	_	_	_
 2-0	PSB005	2	0	esatto	esatto	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1.72	_	_	_	_
@@ -4302,7 +4302,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1083-3	PSB013	1083	3	non	non	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1083-4	PSB013	1083	4	funghi	funghi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=2424.265	_	_	_	_
 1084-0	PSB013	1084	0	pan~	pan~	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	Interrupted=Yes	Begin=2426.28	_	_	_	_
-1084-1	PSB013	1084	1	#bacon?	bacon	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	Intonation=Rising	End=2427.52	_	_	_	_
+1084-1	PSB013	1084	1	#bacon?	bacon	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	Intonation=Rising	End=2427.52	_	_	_	_
 1085-0	PSB005	1085	0	sì	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2427.52|End=2427.88	_	_	_	_
 1086-0	PSB005	1086	0	pa[nc~	panc~	_	_	_	_	_	linguistic	_	ContainsVariation=No	Interrupted=Yes	Begin=2428.635	_	_	_	2-5(174)
 1086-1	PSB005	1086	1	con	con	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-3(174)
@@ -5540,7 +5540,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1446-1	PSB013	1446	1	come	come	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	_	_	_	_	_
 1446-2	PSB013	1446	2	si	si	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	_	_	_	_	_
 1446-3	PSB013	1446	3	chiama?°	chiama	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising|Volume=low	End=3031.14	_	_	_	_
-1447-0	PSB013	1447	0	#homeless	homeless	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=3031.34|End=3032.11	_	_	_	_
+1447-0	PSB013	1447	0	#homeless	homeless	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=3031.34|End=3032.11	_	_	_	_
 1448-0	PSB005	1448	0	sì	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=3032.56	_	_	_	_
 1448-1	PSB005	1448	1	ho	ho	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1448-2	PSB005	1448	2	capito	capito	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=3033.53	_	_	_	_

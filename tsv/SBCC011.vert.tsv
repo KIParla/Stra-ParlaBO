@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	PSB121	0	0	xx	xx	_	_	_	_	_	unknown	_	ContainsVariation=No	Syllables=2	Begin=0.83|End=1.85	_	_	_	_
 1-0	PSB121	1	0	x	x	_	_	_	_	_	unknown	_	ContainsVariation=No	Syllables=1	Begin=3.23|End=3.58	_	_	_	_
 2-0	PSB122	2	0	((canticchia))	((canticchia))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=4.53|End=12.14	_	_	_	_

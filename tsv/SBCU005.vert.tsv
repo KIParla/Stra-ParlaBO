@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	PSB107	0	0	tu	tu	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=6.53	_	_	_	_
 0-1	PSB107	0	1	bevi	bevi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 0-2	PSB107	0	2	caffè	caffè	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -894,7 +894,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 87-1	PSB107	87	1	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 87-2	PSB107	87	2	arrivato?	arrivato	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising	End=417.197	_	_	_	_
 88-0	PSB107	88	0	hey	hey	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	Begin=420.46	_	_	_	_
-88-1	PSB107	88	1	[#kyziunia]	kyziunia	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-9(36)
+88-1	PSB107	88	1	[#kyziunia]	kyziunia	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-9(36)
 88-2	PSB107	88	2	entra	entra	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	PauseAfter=Yes	_	_	_	_	_
 88-3	PSB107	88	3	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=Yes	_	_	_	_	_	_
 88-4	PSB107	88	4	da:i	dai	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	End=424.155	1x1	_	_	_
@@ -910,13 +910,13 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 92-3	PSB107	92	3	vieni	vieni	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 92-4	PSB107	92	4	vieni	vieni	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 92-5	PSB107	92	5	dai	dai	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=430.36	_	_	_	_
-93-0	PSB107	93	0	#_ kisia	kisia	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=431.918|End=432.691	_	_	_	_
+93-0	PSB107	93	0	#_ kisia	kisia	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=431.918|End=432.691	_	_	_	_
 95-0	PSB107	95	0	chiamala	chiamala	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=435.082|End=435.846	_	_	_	_
 96-0	PSB106	96	0	bella:	bella	_	_	_	_	_	linguistic	_	ContainsVariation=No	PauseAfter=Yes	Begin=436.853	4x1	_	_	_
 96-1	PSB106	96	1	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	_	_	_
 96-2	PSB106	96	2	vieni	vieni	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=438.311	_	_	_	_
 97-0	PSB107	97	0	vieni	vieni	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	Begin=439.022	_	_	_	_
-97-1	PSB107	97	1	#kyziunia	kyziunia	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+97-1	PSB107	97	1	#kyziunia	kyziunia	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 97-2	PSB107	97	2	[dai]	dai	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	PauseAfter=Yes	_	_	_	_	0-3(37)
 97-3	PSB107	97	3	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=Yes	_	_	_	_	_	_
 97-4	PSB107	97	4	vieni	vieni	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
@@ -928,7 +928,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 99-2	PSB107	99	2	vieni	vieni	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 99-3	PSB107	99	3	bella	bella	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 99-4	PSB107	99	4	vieni	vieni	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=446.524	_	_	_	_
-100-0	PSB107	100	0	<#kyziunia>	kyziunia	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	PauseAfter=Yes	Begin=451.492	_	Slow=0-9(0)	_	_
+100-0	PSB107	100	0	<#kyziunia>	kyziunia	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	PauseAfter=Yes	Begin=451.492	_	Slow=0-9(0)	_	_
 100-1	PSB107	100	1	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=Yes	_	_	_	_	_	_
 100-2	PSB107	100	2	allora	allora	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 100-3	PSB107	100	3	ci	ci	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
@@ -976,9 +976,9 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 105-5	PSB106	105	5	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	_	_	_
 105-6	PSB106	105	6	ehm	ehm	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=468.32	_	_	_	_
 106-0	PSB107	106	0	[vieni	vieni	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	Begin=465.184	_	_	_	0-5(41)
-106-1	PSB107	106	1	#kyziunia	kyziunia	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-9(41)
+106-1	PSB107	106	1	#kyziunia	kyziunia	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-9(41)
 106-2	PSB107	106	2	vieni	vieni	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	0-5(41)
-106-3	PSB107	106	3	#malenko]	malenko	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=467.54	_	_	_	0-8(41)
+106-3	PSB107	106	3	#malenko]	malenko	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=467.54	_	_	_	0-8(41)
 108-0	PSB106	108	0	ma	ma	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=469.32	_	_	_	_
 108-1	PSB106	108	1	luca	luca	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 108-2	PSB106	108	2	dove	dove	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -1050,7 +1050,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 122-0	PSB107	122	0	[mangia	mangia	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	Begin=499.79	_	_	_	0-6(44)
 122-1	PSB107	122	1	bell(a)	bella	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	4-5(0)	0-5(44)
 122-2	PSB107	122	2	mangia	mangia	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	0-6(44)
-122-3	PSB107	122	3	#kyziunia]	kyziunia	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=502.013	_	_	_	0-9(44)
+122-3	PSB107	122	3	#kyziunia]	kyziunia	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=502.013	_	_	_	0-9(44)
 124-0	PSB106	124	0	[giusto]	giusto	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=502.293	_	_	_	0-6(45)
 124-1	PSB106	124	1	eh	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 124-2	PSB106	124	2	certo	certo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=503.467	_	_	_	_
@@ -3092,7 +3092,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 363-5	PSB106	363	5	come	come	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 363-6	PSB106	363	6	si	si	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 363-7	PSB106	363	7	chiamano	chiamano	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-363-8	PSB106	363	8	#planshet	planshet	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+363-8	PSB106	363	8	#planshet	planshet	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 363-9	PSB106	363	9	°come	come	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	Volume=low	_	_	_	_	_
 363-10	PSB106	363	10	si	si	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	Volume=low	_	_	_	_	_
 363-11	PSB106	363	11	chiamano°	chiamano	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	Volume=low	End=1576.46	_	_	_	_

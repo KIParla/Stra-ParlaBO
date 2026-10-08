@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	PSB137	0	0	°meglio°	meglio	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	Begin=5.34|End=5.96	_	_	_	_
 1-0	PSB136	1	0	>allora	allora	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=10.2	_	Fast=0-6(0)	_	_
 1-1	PSB136	1	1	come	come	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	Fast=0-4(0)	_	_
@@ -364,7 +364,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 54-1	PSB136	54	1	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 54-2	PSB136	54	2	il	il	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 54-3	PSB136	54	3	classico	classico	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-54-4	PSB136	54	4	#xiang	xiang	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+54-4	PSB136	54	4	#xiang	xiang	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 54-5	PSB136	54	5	qin	qin	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	End=129.62	_	_	_	_
 56-0	PSB137	56	0	sì	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=129.62|End=129.98	_	_	_	_
 57-0	PSB136	57	0	tipo	tipo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=130.03	_	_	_	_
@@ -1214,7 +1214,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 161-9	PSB137	161	9	ci	ci	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 161-10	PSB137	161	10	sia	sia	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 161-11	PSB137	161	11	questo	questo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-161-12	PSB137	161	12	#misunderstanding	misunderstanding	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+161-12	PSB137	161	12	#misunderstanding	misunderstanding	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 161-13	PSB137	161	13	perché	perché	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 161-14	PSB137	161	14	tipo	tipo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 161-15	PSB137	161	15	lei	lei	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	End=417.33	_	_	_	_
@@ -1428,8 +1428,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 196-0	PSB137	196	0	okay	okay	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=496.97|End=497.475	_	_	_	_
 197-0	PSB136	197	0	forse	forse	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	Begin=497.475	_	_	_	_
 197-1	PSB136	197	1	da	da	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-197-2	PSB136	197	2	#penguin	penguin	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=498.53	_	_	_	_
-198-0	PSB137	198	0	#penguin	penguin	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=498.83	_	_	_	_
+197-2	PSB136	197	2	#penguin	penguin	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=498.53	_	_	_	_
+198-0	PSB137	198	0	#penguin	penguin	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=498.83	_	_	_	_
 198-1	PSB137	198	1	sì	sì	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 198-2	PSB137	198	2	[ci	ci	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	0-2(33)
 198-3	PSB137	198	3	sta]	sta	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	End=499.96	_	_	_	0-3(33)
@@ -1571,7 +1571,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 225-4	PSB136	225	4	maggiore	maggiore	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 225-5	PSB136	225	5	lo	lo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 225-6	PSB136	225	6	chiamiamo:	chiamiamo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=555.12	8x1	_	_	_
-226-0	PSB136	226	0	#_ pangege	pangege	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=555.46|End=556.21	_	_	_	_
+226-0	PSB136	226	0	#_ pangege	pangege	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=555.46|End=556.21	_	_	_	_
 228-0	PSB137	228	0	e	e	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=558.62	_	_	_	_
 228-1	PSB137	228	1	dov'	dov'	_	_	_	_	_	linguistic	_	ContainsVariation=No	SpaceAfter=No	_	_	_	_	_
 228-2	PSB137	228	2	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -1611,7 +1611,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 236-0	PSB136	236	0	esatto	esatto	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	Begin=571.43	_	_	_	_
 236-1	PSB136	236	1	lei	lei	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 236-2	PSB136	236	2	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-236-3	PSB136	236	3	#xiao	xiao	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+236-3	PSB136	236	3	#xiao	xiao	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 236-4	PSB136	236	4	pang	pang	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 236-5	PSB136	236	5	perché	perché	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 236-6	PSB136	236	6	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
@@ -1643,7 +1643,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 243-1	PSB137	243	1	sì]	sì	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	0-2(39)
 243-2	PSB137	243	2	che	che	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 243-3	PSB137	243	3	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-243-4	PSB137	243	4	#pan	pan	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+243-4	PSB137	243	4	#pan	pan	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 243-5	PSB137	243	5	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=Yes	_	End=585.99	_	_	_	_
 244-0	PSB136	244	0	[e]	e	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=585.11|End=585.41	_	_	_	0-1(39)
 245-0	PSB136	245	0	sì:	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=586.43|End=587.21	1x1	_	_	_
@@ -1657,7 +1657,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 249-0	PSB136	249	0	e	e	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	Begin=591.34	_	_	_	_
 249-1	PSB136	249	1	lui	lui	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 249-2	PSB136	249	2	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-249-3	PSB136	249	3	#pan	pan	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+249-3	PSB136	249	3	#pan	pan	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 249-4	PSB136	249	4	didi	didi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	End=592.59	_	_	_	_
 251-0	PSB137	251	0	mhmh	mhmh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=592.77|End=593.15	_	_	_	_
 252-0	PSB136	252	0	e	e	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=593.64	_	_	_	_
@@ -1732,7 +1732,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 266-5	PSB136	266	5	che	che	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 266-6	PSB136	266	6	invece	invece	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 266-7	PSB136	266	7	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-266-8	PSB136	266	8	#pan	pan	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+266-8	PSB136	266	8	#pan	pan	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 266-9	PSB136	266	9	jiejie	jiejie	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	End=622.1	_	_	_	_
 268-0	PSB136	268	0	e	e	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=623.08	_	_	_	_
 268-1	PSB136	268	1	tipo	tipo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -2175,7 +2175,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 331-8	PSB136	331	8	che	che	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 331-9	PSB136	331	9	si	si	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 331-10	PSB136	331	10	chiama	chiama	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-331-11	PSB136	331	11	[#		_	_	_	_	_	warning	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-1(49)
+331-11	PSB136	331	11	[#		_	_	_	_	_	warning	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-1(49)
 331-12	PSB136	331	12	ti]po	tipo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	End=778.8	_	_	_	0-2(49)
 333-0	PSB137	333	0	[sì::]	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=777.66|End=778.57	1x2	_	_	0-2(49)
 334-0	PSB137	334	0	aspetta:	aspetta	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=778.88	6x1	_	_	_
@@ -4860,7 +4860,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 654-5	PSB136	654	5	complicate	complicate	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1715.33	_	_	_	_
 655-0	PSB137	655	0	cose	cose	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	Begin=1715.4	_	_	_	_
 655-1	PSB137	655	1	più	più	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-655-2	PSB137	655	2	#fancy	fancy	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+655-2	PSB137	655	2	#fancy	fancy	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 655-3	PSB137	655	3	diciamo	diciamo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 655-4	PSB137	655	4	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=Yes	_	End=1717.18	_	_	_	_
 656-0	PSB137	656	0	che	che	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1718.23	_	_	_	_
@@ -5942,7 +5942,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 760-11	PSB137	760	11	un	un	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 760-12	PSB137	760	12	ristorante	ristorante	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 760-13	PSB137	760	13	molto	molto	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-760-14	PSB137	760	14	#fancy	fancy	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+760-14	PSB137	760	14	#fancy	fancy	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 760-15	PSB137	760	15	dicia[mo]	diciamo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	End=2075.46	_	_	_	4-7(122)
 761-0	PSB136	761	0	[ah]	ah	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2074.86|End=2075.22	_	_	_	0-2(122)
 762-0	PSB137	762	0	tipo	tipo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2075.97	_	_	_	_
@@ -6007,7 +6007,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 767-3	PSB137	767	3	molto	molto	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 767-4	PSB137	767	4	tipo	tipo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 767-5	PSB137	767	5	da	da	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-767-6	PSB137	767	6	#date	date	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+767-6	PSB137	767	6	#date	date	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 767-7	PSB137	767	7	no?	no	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	Intonation=Rising	End=2095.62	_	_	_	_
 769-0	PSB136	769	0	okay	okay	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2095.64|End=2096.17	_	_	_	_
 770-0	PSB137	770	0	e	e	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2096.64	_	_	_	_
@@ -6419,7 +6419,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 823-1	PSB136	823	1	molto	molto	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 823-2	PSB136	823	2	elegante	elegante	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 823-3	PSB136	823	3	molto	molto	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-823-4	PSB136	823	4	#fan[cy]	fancy	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=2239.77	_	_	_	4-6(133)
+823-4	PSB136	823	4	#fan[cy]	fancy	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=2239.77	_	_	_	4-6(133)
 824-0	PSB137	824	0	[sì]	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2239.51|End=2239.74	_	_	_	0-2(133)
 825-0	PSB136	825	0	pure	pure	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2240.12	_	_	_	_
 825-1	PSB136	825	1	la	la	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -6881,11 +6881,11 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 885-9	PSB136	885	9	mafia	mafia	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 885-10	PSB136	885	10	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 885-11	PSB136	885	11	scritto	scritto	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-885-12	PSB136	885	12	#mat	mat	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-885-13	PSB136	885	13	#fia	fia	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+885-12	PSB136	885	12	#mat	mat	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+885-13	PSB136	885	13	#fia	fia	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 885-14	PSB136	885	14	che	che	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 885-15	PSB136	885	15	quindi	quindi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-885-16	PSB136	885	16	#mat	mat	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+885-16	PSB136	885	16	#mat	mat	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 885-17	PSB136	885	17	vuol	vuol	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 885-18	PSB136	885	18	dire	dire	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 885-19	PSB136	885	19	sapore	sapore	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_

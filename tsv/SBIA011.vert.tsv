@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	PSB005	0	0	okay	okay	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1.16|End=1.69	_	_	_	_
 1-0	PSB005	1	0	ah	ah	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1.94	_	_	_	_
 1-1	PSB005	1	1	ma	ma	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -961,7 +961,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 198-1	PSB064	198	1	nella	nella	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 198-2	PSB064	198	2	parte	parte	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 198-3	PSB064	198	3	palestina:,	palestina	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	Intonation=WeaklyRising	_	8x1	_	_	_
-198-4	PSB064	198	4	#lebanon:,	lebanon	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	Intonation=WeaklyRising	End=457.84	6x1	_	_	_
+198-4	PSB064	198	4	#lebanon:,	lebanon	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	Intonation=WeaklyRising	End=457.84	6x1	_	_	_
 200-0	PSB063	200	0	mhmh	mhmh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=457.85|End=458.36	_	_	_	_
 201-0	PSB064	201	0	e:hm	ehm	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=459.0|End=459.78	0x1	_	_	_
 202-0	PSB064	202	0	parlano	parlano	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=460.3	_	_	_	_
@@ -973,8 +973,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 203-1	PSB064	203	1	nella	nella	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 203-2	PSB064	203	2	parte	parte	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 203-3	PSB064	203	3	di	di	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-203-4	PSB064	203	4	#saudi	saudi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-203-5	PSB064	203	5	#arabia	arabia	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+203-4	PSB064	203	4	#saudi	saudi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+203-5	PSB064	203	5	#arabia	arabia	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 203-6	PSB064	203	6	e:	e	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	0x1	_	_	_
 203-7	PSB064	203	7	l'	l'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	SpaceAfter=No	_	_	_	_	_
 203-8	PSB064	203	8	emirati	emirati	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	End=465.72	_	_	_	_
@@ -1409,13 +1409,13 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 282-0	PSB063	282	0	[AH	ah	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=high	Begin=635.51	_	_	_	0-2(39)
 282-1	PSB063	282	1	okay	okay	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-4(39)
 282-2	PSB063	282	2	okay].	okay	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	End=636.53	_	_	_	0-4(39)
-283-0	PSB064	283	0	#_ [caves	caves	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=635.51	_	_	_	0-5(39)
-283-1	PSB064	283	1	caves]	caves	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=636.53	_	_	_	0-5(39)
+283-0	PSB064	283	0	#_ [caves	caves	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=635.51	_	_	_	0-5(39)
+283-1	PSB064	283	1	caves]	caves	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=636.53	_	_	_	0-5(39)
 285-0	PSB005	285	0	AH	ah	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=high	Begin=636.58|End=636.83	_	_	_	_
 286-0	PSB064	286	0	SCAVI	scavi	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=high	Begin=636.83|End=637.14	_	_	_	_
 287-0	PSB005	287	0	no	no	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	PauseAfter=Yes	Begin=637.2	_	_	_	_
 287-1	PSB005	287	1	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=Yes	_	_	_	_	_	_
-287-2	PSB005	287	2	#caves	caves	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+287-2	PSB005	287	2	#caves	caves	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 287-3	PSB005	287	3	è:	è	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	PauseAfter=Yes	_	0x1	_	_	_
 287-4	PSB005	287	4	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=Yes	_	_	_	_	_	_
 287-5	PSB005	287	5	tipo	tipo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
@@ -1832,7 +1832,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 367-4	PSB064	367	4	qualcosa,	qualcosa	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising	End=788.72	_	_	_	_
 368-0	PSB064	368	0	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	Begin=790.33	_	_	_	_
 368-1	PSB064	368	1	la	la	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-368-2	PSB064	368	2	#friction.	friction	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	Intonation=Falling	End=791.63	_	_	_	_
+368-2	PSB064	368	2	#friction.	friction	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	Intonation=Falling	End=791.63	_	_	_	_
 370-0	PSB063	370	0	sì.	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	Begin=791.63|End=791.94	_	_	_	_
 371-0	PSB063	371	0	e:h	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=792.75	0x1	_	_	_
 371-1	PSB063	371	1	il	il	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -1885,8 +1885,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 385-4	PSB005	385	4	continua	continua	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 385-5	PSB005	385	5	la	la	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 385-6	PSB005	385	6	frase?	frase	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising	End=811.87	_	_	_	_
-386-0	PSB064	386	0	#_ a	a	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=811.98	_	_	_	_
-386-1	PSB064	386	1	spy.	spy	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	Intonation=Falling	End=812.69	_	_	_	_
+386-0	PSB064	386	0	#_ a	a	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=811.98	_	_	_	_
+386-1	PSB064	386	1	spy.	spy	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	Intonation=Falling	End=812.69	_	_	_	_
 388-0	PSB063	388	0	sì.	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	Begin=812.97|End=813.27	_	_	_	_
 389-0	PSB005	389	0	sì	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=813.29	_	_	_	_
 389-1	PSB005	389	1	sì	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -3279,7 +3279,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 674-3	PSB064	674	3	molto	molto	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 674-4	PSB064	674	4	ma	ma	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1414.18	_	_	_	_
 675-0	PSB064	675	0	il	il	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	Begin=1415.03	_	_	_	_
-675-1	PSB064	675	1	#vibe	vibe	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+675-1	PSB064	675	1	#vibe	vibe	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 675-2	PSB064	675	2	di:	di	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	1x1	_	_	_
 675-3	PSB064	675	3	[di	di	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	0-2(167)
 675-4	PSB064	675	4	d~]	d~	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	Interrupted=Yes	End=1416.71	_	_	_	0-2(167)
@@ -3442,7 +3442,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 703-20	PSB005	703	20	turista	turista	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1471.714	_	_	_	_
 704-0	PSB005	704	0	proprio	proprio	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	Begin=1472.714	_	_	_	_
 704-1	PSB005	704	1	ins~	ins~	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	Interrupted=Yes	_	_	_	_	_
-704-2	PSB005	704	2	#inside.	inside	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	Intonation=Falling	_	_	_	_	_
+704-2	PSB005	704	2	#inside.	inside	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	Intonation=Falling	_	_	_	_	_
 704-3	PSB005	704	3	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=Yes	_	End=1474.207	_	_	_	_
 706-0	PSB005	706	0	cioè	cioè	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1474.55	_	_	_	_
 706-1	PSB005	706	1	non:	non	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	2x1	_	_	_
@@ -3940,7 +3940,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 814-0	PSB064	814	0	sì	sì	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	Begin=1666.38	_	_	_	_
 814-1	PSB064	814	1	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 814-2	PSB064	814	2	l'	l'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	SpaceAfter=No	_	_	_	_	_
-814-3	PSB064	814	3	#eid	eid	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=1667.09	_	_	_	_
+814-3	PSB064	814	3	#eid	eid	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=1667.09	_	_	_	_
 815-0	PSB005	815	0	mh	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1667.24|End=1667.44	_	_	_	_
 816-0	PSB064	816	0	non	non	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1667.46	_	_	_	_
 816-1	PSB064	816	1	l'	l'	_	_	_	_	_	linguistic	_	ContainsVariation=No	SpaceAfter=No	_	_	_	_	_
@@ -4170,7 +4170,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 871-5	PSB064	871	5	nel	nel	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 871-6	PSB064	871	6	giorno	giorno	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 871-7	PSB064	871	7	del	del	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-871-8	PSB064	871	8	#eid	eid	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+871-8	PSB064	871	8	#eid	eid	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 871-9	PSB064	871	9	o:	o	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	End=1755.74	0x1	_	_	_
 872-0	PSB064	872	0	della	della	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1755.95	_	_	_	_
 872-1	PSB064	872	1	festa	festa	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_

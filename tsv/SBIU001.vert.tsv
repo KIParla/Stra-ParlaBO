@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	PSB005	0	0	non	non	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=0.83	_	_	_	_
 0-1	PSB005	0	1	ci	ci	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 0-2	PSB005	0	2	dimentichiamo:	dimentichiamo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	12x1	_	_	_
@@ -5304,8 +5304,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 718-3	PSB007	718	3	un	un	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 718-4	PSB007	718	4	contratto	contratto	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 718-5	PSB007	718	5	di	di	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-718-6	PSB007	718	6	#visiting	visiting	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-718-7	PSB007	718	7	#fellow,	fellow	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	Intonation=WeaklyRising	_	_	_	_	_
+718-6	PSB007	718	6	#visiting	visiting	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+718-7	PSB007	718	7	#fellow,	fellow	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	Intonation=WeaklyRising	_	_	_	_	_
 718-8	PSB007	718	8	[presso]	presso	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	0-6(186)
 718-9	PSB007	718	9	università	università	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 718-10	PSB007	718	10	di	di	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
@@ -9455,7 +9455,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1386-0	PSB005	1386	0	che	che	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	Begin=4532.3	_	_	_	_
 1386-1	PSB005	1386	1	si	si	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 1386-2	PSB005	1386	2	dice	dice	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-1386-3	PSB005	1386	3	#armpit	armpit	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=4533.63	_	_	_	_
+1386-3	PSB005	1386	3	#armpit	armpit	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=4533.63	_	_	_	_
 1387-0	PSB007	1387	0	mhmh	mhmh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=4534.08|End=4534.64	_	_	_	_
 1388-0	PSB005	1388	0	solo	solo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=4534.67	_	_	_	_
 1388-1	PSB005	1388	1	che	che	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -9478,7 +9478,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1392-6	PSB005	1392	6	e	e	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 1392-7	PSB005	1392	7	ho	ho	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 1392-8	PSB005	1392	8	detto	detto	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-1392-9	PSB005	1392	9	#arm	arm	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+1392-9	PSB005	1392	9	#arm	arm	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 1392-10	PSB005	1392	10	hole	hole	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	End=4543.22	_	_	_	_
 1393-0	PSB005	1393	0	che	che	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=4544.22	_	_	_	_
 1393-1	PSB005	1393	1	vuol	vuol	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -9527,13 +9527,13 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1398-1	PSB005	1398	1	posto	posto	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 1398-2	PSB005	1398	2	di	di	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 1398-3	PSB005	1398	3	dire	dire	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-1398-4	PSB005	1398	4	#branch	branch	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=4562.08	_	_	_	_
+1398-4	PSB005	1398	4	#branch	branch	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=4562.08	_	_	_	_
 1399-0	PSB005	1399	0	per	per	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	Begin=4562.25	_	_	_	_
 1399-1	PSB005	1399	1	gli	gli	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 1399-2	PSB005	1399	2	alberi:,	alberi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	Intonation=WeaklyRising	_	5x1	_	_	_
 1399-3	PSB005	1399	3	ho	ho	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 1399-4	PSB005	1399	4	detto	detto	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-1399-5	PSB005	1399	5	#arms	arms	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=4564.48	_	_	_	_
+1399-5	PSB005	1399	5	#arms	arms	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=4564.48	_	_	_	_
 1400-0	PSB005	1400	0	proprio	proprio	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=4565.48	_	_	_	_
 1400-1	PSB005	1400	1	le	le	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1400-2	PSB005	1400	2	braccia	braccia	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_

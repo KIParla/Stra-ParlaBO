@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	PSB004	0	0	xx	xx	_	_	_	_	_	unknown	_	ContainsVariation=No	Syllables=2	Begin=1.74	_	_	_	_
 0-1	PSB004	0	1	la	la	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 0-2	PSB004	0	2	rotta	rotta	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=2.89	_	_	_	_
@@ -6497,9 +6497,9 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1032-2	PSB003	1032	2	volta	volta	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 1032-3	PSB003	1032	3	ho	ho	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 1032-4	PSB003	1032	4	detto	detto	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-1032-5	PSB003	1032	5	#nv	nv	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-1032-6	PSB003	1032	6	#a	a	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-1032-7	PSB003	1032	7	#yi	yi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+1032-5	PSB003	1032	5	#nv	nv	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+1032-6	PSB003	1032	6	#a	a	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+1032-7	PSB003	1032	7	#yi	yi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 1032-8	PSB003	1032	8	c(io)è	cioè	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	Reduced=Yes	_	_	_	_	_
 1032-9	PSB003	1032	9	proprio	proprio	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 1032-10	PSB003	1032	10	femmina	femmina	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	PauseAfter=Yes	_	_	_	_	_
@@ -7673,8 +7673,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1228-3	PSB003	1228	3	detto	detto	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=3497.97	_	_	_	_
 1229-0	PSB003	1229	0	@lin	@lin	_	_	_	_	_	anonymized	_	ContainsVariation=Yes	Anonymized=Yes	Begin=3498.785	_	_	_	_
 1229-1	PSB003	1229	1	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-1229-2	PSB003	1229	2	#wu	wu	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-1229-3	PSB003	1229	3	#yu	yu	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=3499.875	_	_	_	_
+1229-2	PSB003	1229	2	#wu	wu	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+1229-3	PSB003	1229	3	#yu	yu	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=3499.875	_	_	_	_
 1230-0	PSB004	1230	0	comunque	comunque	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=3500.645	_	_	_	_
 1230-1	PSB004	1230	1	eh	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1230-2	PSB004	1230	2	quella	quella	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -7707,8 +7707,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1233-8	PSB003	1233	8	che	che	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 1233-9	PSB003	1233	9	si	si	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 1233-10	PSB003	1233	10	chiama	chiama	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-1233-11	PSB003	1233	11	#wu	wu	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-1233-12	PSB003	1233	12	#yu	yu	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+1233-11	PSB003	1233	11	#wu	wu	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+1233-12	PSB003	1233	12	#yu	yu	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 1233-13	PSB003	1233	13	hanno	hanno	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 1233-14	PSB003	1233	14	creato	creato	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 1233-15	PSB003	1233	15	pure	pure	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_

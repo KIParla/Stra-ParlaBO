@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	PSB156	0	0	allora	allora	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=0.79|End=1.26	_	_	_	_
 1-0	PSB141	1	0	°no:	no	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	Begin=2.07	1x1	_	_	_
 1-1	PSB141	1	1	non	non	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	_	_	_	_	_
@@ -2370,7 +2370,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 408-3	PSB141	408	3	sì	sì	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 408-4	PSB141	408	4	cous	cous	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 408-5	PSB141	408	5	cous	cous	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-408-6	PSB141	408	6	#ṭājīn	ṭājīn	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+408-6	PSB141	408	6	#ṭājīn	ṭājīn	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 408-7	PSB141	408	7	tutte	tutte	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 408-8	PSB141	408	8	le	le	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 408-9	PSB141	408	9	cose	cose	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
@@ -2537,7 +2537,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 433-4	PSB141	433	4	al]tro:	altro	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	4x1	_	_	0-2(153)
 433-5	PSB141	433	5	si	si	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 433-6	PSB141	433	6	chiama	chiama	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-433-7	PSB141	433	7	#rfīssa	rfīssa	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=973.59	_	_	_	_
+433-7	PSB141	433	7	#rfīssa	rfīssa	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=973.59	_	_	_	_
 434-0	PSB156	434	0	[e:h]	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=971.35|End=971.66	0x1	_	_	0-2(153)
 435-0	PSB156	435	0	ah	ah	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=973.86	_	_	_	_
 435-1	PSB156	435	1	[okay]	okay	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=974.52	_	_	_	0-4(154)
@@ -2848,7 +2848,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 495-4	PSB141	495	4	tutto	tutto	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 495-5	PSB141	495	5	anche	anche	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 495-6	PSB141	495	6	facciamo	facciamo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-495-7	PSB141	495	7	#ḥənna	ḥənna	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+495-7	PSB141	495	7	#ḥənna	ḥənna	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 495-8	PSB141	495	8	per	per	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 495-9	PSB141	495	9	i	i	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 495-10	PSB141	495	10	bi[mbi]	bimbi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	2-5(173)
@@ -2874,7 +2874,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 500-4	PSB141	500	4	allora	allora	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 500-5	PSB141	500	5	l~	l~	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	Interrupted=Yes	_	_	_	_	_
 500-6	PSB141	500	6	l'	l'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	SpaceAfter=No	_	_	_	_	_
-500-7	PSB141	500	7	#ḥənna	ḥənna	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+500-7	PSB141	500	7	#ḥənna	ḥənna	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 500-8	PSB141	500	8	significa	significa	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 500-9	PSB141	500	9	la	la	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 500-10	PSB141	500	10	gi[o:ia]	gioia	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	2x1	_	_	1-5(176)
@@ -3122,7 +3122,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 540-2	PSB156	540	2	quando	quando	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 540-3	PSB156	540	3	gli	gli	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 540-4	PSB156	540	4	dicevo	dicevo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-540-5	PSB156	540	5	#ciò	ciò	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+540-5	PSB156	540	5	#ciò	ciò	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 540-6	PSB156	540	6	mi	mi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 540-7	PSB156	540	7	diceva	diceva	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 540-8	PSB156	540	8	ma	ma	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
@@ -5057,7 +5057,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 876-8	PSB141	876	8	che	che	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 876-9	PSB141	876	9	fanno	fanno	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 876-10	PSB141	876	10	l'	l'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	SpaceAfter=No	_	_	_	_	_
-876-11	PSB141	876	11	#ḥənna	ḥənna	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=2057.66	_	_	_	_
+876-11	PSB141	876	11	#ḥənna	ḥənna	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=2057.66	_	_	_	_
 877-0	PSB156	877	0	[mhmh]	mhmh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2057.81|End=2058.24	_	_	_	0-4(?)
 878-0	PSB141	878	0	ci	ci	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	Begin=2058.25	_	_	_	_
 878-1	PSB141	878	1	sono	sono	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
@@ -5066,7 +5066,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 878-4	PSB141	878	4	che	che	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 878-5	PSB141	878	5	fanno	fanno	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	PauseAfter=Yes	_	_	_	_	_
 878-6	PSB141	878	6	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=Yes	_	_	_	_	_	_
-878-7	PSB141	878	7	#ḥənna	ḥənna	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=2061.8	_	_	_	_
+878-7	PSB141	878	7	#ḥənna	ḥənna	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=2061.8	_	_	_	_
 879-0	PSB156	879	0	[mhmh]	mhmh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2059.49|End=2059.96	_	_	_	0-4(290)
 880-0	PSB141	880	0	dai	dai	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2064.12	_	_	_	_
 880-1	PSB141	880	1	beni	beni	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -5210,8 +5210,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 904-3	PSB141	904	3	che	che	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 904-4	PSB141	904	4	si	si	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 904-5	PSB141	904	5	chiama	chiama	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-904-6	PSB141	904	6	#jāmʕa	jāmʕa	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-904-7	PSB141	904	7	#əl-fna	əl-fna	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=2126.41	_	_	_	_
+904-6	PSB141	904	6	#jāmʕa	jāmʕa	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+904-7	PSB141	904	7	#əl-fna	əl-fna	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=2126.41	_	_	_	_
 905-0	PSB141	905	0	°sì	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	Begin=2127.17	_	_	_	_
 905-1	PSB141	905	1	sì°	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	End=2127.95	_	_	_	_
 906-0	PSB156	906	0	mhmh	mhmh	_	_	_	_	_	linguistic	_	ContainsVariation=No	PauseAfter=Yes	Begin=2128.24	_	_	_	_
@@ -5504,7 +5504,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 969-0	PSB141	969	0	questa	questa	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	Begin=2267.73	_	_	_	_
 969-1	PSB141	969	1	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 969-2	PSB141	969	2	il	il	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-969-3	PSB141	969	3	#ḥənna	ḥənna	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+969-3	PSB141	969	3	#ḥənna	ḥənna	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 969-4	PSB141	969	4	che	che	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 969-5	PSB141	969	5	si	si	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 969-6	PSB141	969	6	vede	vede	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	End=2269.53	_	_	_	_

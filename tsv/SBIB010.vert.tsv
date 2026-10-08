@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	PSB005	0	0	okay	okay	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=0.53|End=0.97	_	_	_	_
 1-0	PSB005	1	0	allora	allora	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1.6|End=2.02	_	_	_	_
 2-0	PSB005	2	0	cosa	cosa	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=4.1	_	_	_	_
@@ -1825,7 +1825,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 357-0	PSB059	357	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=Yes	_	Begin=786.64	_	_	_	_
 357-1	PSB059	357	1	si	si	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 357-2	PSB059	357	2	dice	dice	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-357-3	PSB059	357	3	#barì	barì	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=789.04	_	_	_	_
+357-3	PSB059	357	3	#barì	barì	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=789.04	_	_	_	_
 358-0	PSB005	358	0	okay	okay	_	_	_	_	_	linguistic	_	ContainsVariation=No	PauseAfter=Yes	Begin=789.39	_	_	_	_
 358-1	PSB005	358	1	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	_	_	_
 358-2	PSB005	358	2	[puoi]	puoi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-4(64)
@@ -1843,7 +1843,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 363-1	PSB059	363	1	era	era	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 363-2	PSB059	363	2	così:	così	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	PauseAfter=Yes	_	3x1	_	_	_
 363-3	PSB059	363	3	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=Yes	_	_	_	_	_	_
-363-4	PSB059	363	4	#barì	barì	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=798.7	_	_	_	_
+363-4	PSB059	363	4	#barì	barì	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=798.7	_	_	_	_
 364-0	PSB005	364	0	giusto:?	giusto	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising|PauseAfter=Yes	Begin=798.85	5x1	_	_	_
 364-1	PSB005	364	1	[(.)]	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	_	_	X(66)
 364-2	PSB005	364	2	con	con	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -1922,7 +1922,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 379-0	PSB059	379	0	[xxx	xxx	_	_	_	_	_	unknown	_	ContainsVariation=Yes	Syllables=3	Begin=844.11	_	_	_	0-3(69)
 379-1	PSB059	379	1	sì]	sì	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	0-2(69)
 379-2	PSB059	379	2	[nell]a	nella	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	0-4(70)
-379-3	PSB059	379	3	#quran:	quran	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=846.66	4x1	_	_	_
+379-3	PSB059	379	3	#quran:	quran	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=846.66	4x1	_	_	_
 380-0	PSB005	380	0	[okay]	okay	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=845.24|End=845.79	_	_	_	0-4(70)
 381-0	PSB005	381	0	sì	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=847.06	_	_	_	_
 381-1	PSB005	381	1	sì	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -1951,7 +1951,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 388-0	PSB059	388	0	e:h	eh	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	Begin=855.07	0x1	_	_	_
 388-1	PSB059	388	1	sono	sono	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 388-2	PSB059	388	2	andato	andato	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-388-3	PSB059	388	3	#mosque	mosque	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=856.28	_	_	_	_
+388-3	PSB059	388	3	#mosque	mosque	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=856.28	_	_	_	_
 389-0	PSB005	389	0	certo	certo	_	_	_	_	_	linguistic	_	ContainsVariation=No	PauseAfter=Yes	Begin=857.16	_	_	_	_
 389-1	PSB005	389	1	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	_	_	_
 389-2	PSB005	389	2	in	in	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -3419,7 +3419,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 743-7	PSB059	743	7	riso:	riso	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1508.8	3x1	_	_	_
 744-0	PSB059	744	0	si	si	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	Begin=1509.42	_	_	_	_
 744-1	PSB059	744	1	chiama	chiama	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-744-2	PSB059	744	2	#biryani	biryani	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=1510.4	_	_	_	_
+744-2	PSB059	744	2	#biryani	biryani	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=1510.4	_	_	_	_
 745-0	PSB005	745	0	okay	okay	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1510.44|End=1510.95	_	_	_	_
 746-0	PSB005	746	0	beh	beh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1510.96	_	_	_	_
 746-1	PSB005	746	1	l'	l'	_	_	_	_	_	linguistic	_	ContainsVariation=No	SpaceAfter=No	_	_	_	_	_
@@ -3531,7 +3531,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 773-10	PSB059	773	10	ieri:	ieri	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	3x1	_	_	_
 773-11	PSB059	773	11	sono	sono	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 773-12	PSB059	773	12	mangiato	mangiato	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-773-13	PSB059	773	13	#biryani:	biryani	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=1552.22	6x1	_	_	_
+773-13	PSB059	773	13	#biryani:	biryani	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=1552.22	6x1	_	_	_
 774-0	PSB005	774	0	okay	okay	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1552.23|End=1552.81	_	_	_	_
 775-0	PSB005	775	0	eh:	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1553.9	1x1	_	_	_
 775-1	PSB005	775	1	adesso	adesso	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_

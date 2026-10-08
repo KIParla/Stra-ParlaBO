@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	PSB005	0	0	okay	okay	_	_	_	_	_	linguistic	_	ContainsVariation=No	PauseAfter=Yes	Begin=0.682	_	_	_	_
 0-1	PSB005	0	1	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	_	_	_
 0-2	PSB005	0	2	grazie	grazie	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -1356,8 +1356,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 214-2	PSB008	214	2	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=Yes	_	_	_	_	_	_
 214-3	PSB008	214	3	hai	hai	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 214-4	PSB008	214	4	un	un	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-214-5	PSB008	214	5	#bias	bias	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-214-6	PSB008	214	6	#or	or	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	PauseAfter=Yes	_	_	_	_	_
+214-5	PSB008	214	5	#bias	bias	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+214-6	PSB008	214	6	#or	or	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	PauseAfter=Yes	_	_	_	_	_
 214-7	PSB008	214	7	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=Yes	_	_	_	_	_	_
 214-8	PSB008	214	8	o:	o	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	0x1	_	_	_
 214-9	PSB008	214	9	pregiudizio	pregiudizio	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	PauseAfter=Yes	_	_	_	_	_
@@ -1451,10 +1451,10 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 226-35	PSB005	226	35	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	_	_	_
 226-36	PSB005	226	36	di	di	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 226-37	PSB005	226	37	essermi	essermi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=557.119	_	_	_	_
-227-0	PSB008	227	0	#_ [local	local	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	PauseAfter=Yes	Begin=551.054	_	_	_	0-5(61)
+227-0	PSB008	227	0	#_ [local	local	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	PauseAfter=Yes	Begin=551.054	_	_	_	0-5(61)
 227-1	PSB008	227	1	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=Yes	_	_	_	_	_	X(61)
-227-2	PSB008	227	2	locals	locals	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-6(61)
-227-3	PSB008	227	3	]		_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=552.329	_	_	_	_
+227-2	PSB008	227	2	locals	locals	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-6(61)
+227-3	PSB008	227	3	]		_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=552.329	_	_	_	_
 229-0	PSB008	229	0	[esatto],	esatto	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising	Begin=553.186|End=553.949	_	_	_	0-6(62)
 230-0	PSB005	230	0	>come	come	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=557.443	_	Fast=0-4(0)	_	_
 230-1	PSB005	230	1	dire<	dire	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	Fast=0-4(0)	_	_
@@ -2184,9 +2184,9 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 338-2	PSB008	338	2	po'	po'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 338-3	PSB008	338	3	come:,	come	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	Intonation=WeaklyRising|PauseAfter=Yes	_	3x1	_	_	_
 338-4	PSB008	338	4	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=Yes	_	_	_	_	_	_
-338-5	PSB008	338	5	#heritage	heritage	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	PauseAfter=Yes	_	_	_	_	_
+338-5	PSB008	338	5	#heritage	heritage	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	PauseAfter=Yes	_	_	_	_	_
 338-6	PSB008	338	6	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=Yes	_	_	_	_	_	_
-338-7	PSB008	338	7	[#heritage]	heritage	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=815.038	_	_	_	0-9(102)
+338-7	PSB008	338	7	[#heritage]	heritage	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=815.038	_	_	_	0-9(102)
 340-0	PSB005	340	0	[sì:	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=814.372	1x1	_	_	0-2(102)
 340-1	PSB005	340	1	sì	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-2(102)
 340-2	PSB005	340	2	sì]	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-2(102)
@@ -4184,7 +4184,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 753-3	PSB008	753	3	si	si	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 753-4	PSB008	753	4	dice	dice	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 753-5	PSB008	753	5	quello	quello	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-753-6	PSB008	753	6	#squid	squid	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=1556.815	_	_	_	_
+753-6	PSB008	753	6	#squid	squid	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=1556.815	_	_	_	_
 755-0	PSB005	755	0	sì	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1556.872	_	_	_	_
 755-1	PSB005	755	1	calamari	calamari	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1557.741	_	_	_	_
 756-0	PSB008	756	0	calamari	calamari	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1557.919|End=1558.593	_	_	_	_
@@ -5014,7 +5014,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 939-2	PSB008	939	2	davvero	davvero	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 939-3	PSB008	939	3	davvero	davvero	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 939-4	PSB008	939	4	ho	ho	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1856.258	_	_	_	_
-940-0	PSB008	940	0	#_ craving	craving	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=1856.407|End=1857.08	_	_	_	_
+940-0	PSB008	940	0	#_ craving	craving	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=1856.407|End=1857.08	_	_	_	_
 942-0	PSB008	942	0	eh	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1857.651	_	_	_	_
 942-1	PSB008	942	1	faccio	faccio	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 942-2	PSB008	942	2	qualche	qualche	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -7799,7 +7799,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1562-4	PSB008	1562	4	eh	eh	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 1562-5	PSB008	1562	5	si	si	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 1562-6	PSB008	1562	6	dice	dice	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-1562-7	PSB008	1562	7	#hépāi	hépāi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=3035.526	_	_	_	_
+1562-7	PSB008	1562	7	#hépāi	hépāi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=3035.526	_	_	_	_
 1564-0	PSB008	1564	0	cioè	cioè	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=3036.091	_	_	_	_
 1564-1	PSB008	1564	1	abbiamo:	abbiamo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=3037.27	6x1	_	_	_
 1565-0	PSB008	1565	0	lo	lo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=3037.561	_	_	_	_

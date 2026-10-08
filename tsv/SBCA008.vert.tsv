@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	PSB141	0	0	allora	allora	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1.204	_	_	_	_
 0-1	PSB141	0	1	cosa:	cosa	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=2.408	3x1	_	_	_
 1-0	PSB140	1	0	buonasera	buonasera	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=3.0|End=4.0	_	_	_	_
@@ -547,7 +547,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 155-1	PSB141	155	1	attimino	attimino	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 155-2	PSB141	155	2	cara	cara	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 155-3	PSB141	155	3	mia	mia	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=352.675	_	_	_	_
-156-0	???	156	0	#_ wa:	wa	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=353.398	1x1	_	_	_
+156-0	???	156	0	#_ wa:	wa	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=353.398	1x1	_	_	_
 156-1	???	156	1	@yussef	@yussef	_	_	_	_	_	anonymized	_	ContainsVariation=Yes	Anonymized=Yes	End=354.611	_	_	_	_
 158-0	???	158	0	#_ @yussef	@yussef	_	_	_	_	_	anonymized	_	ContainsVariation=No	Anonymized=Yes	Begin=356.398|End=357.12	_	_	_	_
 159-0	???	159	0	#_ @yussef	@yussef	_	_	_	_	_	anonymized	_	ContainsVariation=No	Anonymized=Yes	Begin=358.806|End=359.67	_	_	_	_
@@ -565,10 +565,10 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 163-0	PSB141	163	0	mhmh,	mhmh	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising	Begin=375.01|End=375.418	_	_	_	_
 164-0	PSB140	164	0	mettine	mettine	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=376.194	_	_	_	_
 164-1	PSB140	164	1	metà,	metà	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising	End=377.472	_	_	_	_
-165-0	PSB141	165	0	#_ l-ʕrūbiyya	l-ʕrūbiyya	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=379.408	_	_	_	_
-165-1	PSB141	165	1	ʕrūbi	ʕrūbi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=380.689	_	_	_	_
-167-0	???	167	0	#_ āsh	āsh	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=381.0	_	_	_	_
-167-1	???	167	1	ka-ddīr	ka-ddīr	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=381.772	_	_	_	_
+165-0	PSB141	165	0	#_ l-ʕrūbiyya	l-ʕrūbiyya	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=379.408	_	_	_	_
+165-1	PSB141	165	1	ʕrūbi	ʕrūbi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=380.689	_	_	_	_
+167-0	???	167	0	#_ āsh	āsh	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=381.0	_	_	_	_
+167-1	???	167	1	ka-ddīr	ka-ddīr	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=381.772	_	_	_	_
 169-0	PSB141	169	0	ok[ay]	okay	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=382.796|End=383.656	_	_	_	2-4(52)
 170-0	PSB140	170	0	[altra	altra	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=383.204	_	_	_	0-5(52)
 170-1	PSB140	170	1	me]tà	metà	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=384.204	_	_	_	0-2(52)
@@ -2329,31 +2329,31 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 592-2	PSB140	592	2	sì:	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1373.948	1x1	_	_	_
 593-0	???	593	0	@yussef	@yussef	_	_	_	_	_	anonymized	_	ContainsVariation=No	Anonymized=Yes	Begin=1376.608|End=1377.0	_	_	_	_
 594-0	PSB141	594	0	lascialo	lascialo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	Begin=1377.392	_	_	_	_
-594-1	PSB141	594	1	#ʕa	ʕa	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-594-2	PSB141	594	2	#xallī-h	xallī-h	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-594-3	PSB141	594	3	#hāk	hāk	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+594-1	PSB141	594	1	#ʕa	ʕa	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+594-2	PSB141	594	2	#xallī-h	xallī-h	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+594-3	PSB141	594	3	#hāk	hāk	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 594-4	PSB141	594	4	xx	xx	_	_	_	_	_	unknown	_	ContainsVariation=Yes	Syllables=2	End=1379.227	_	_	_	_
 596-0	PSB141	596	0	eh	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1379.412|End=1379.814	_	_	_	_
 597-0	PSB141	597	0	#_ xx	xx	_	_	_	_	_	unknown	_	ContainsVariation=No	Syllables=2	Begin=1380.021|End=1380.608	_	_	_	_
 598-0	???	598	0	#_ xx	xx	_	_	_	_	_	unknown	_	ContainsVariation=No	Syllables=2	Begin=1380.608|End=1381.206	_	_	_	_
-599-0	PSB141	599	0	#_ xallī-h	xallī-h	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=1381.206	_	_	_	_
-599-1	PSB141	599	1	drūk	drūk	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+599-0	PSB141	599	0	#_ xallī-h	xallī-h	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=1381.206	_	_	_	_
+599-1	PSB141	599	1	drūk	drūk	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 599-2	PSB141	599	2	xx	xx	_	_	_	_	_	unknown	_	ContainsVariation=Yes	Syllables=2	_	_	_	_	_
-599-3	PSB141	599	3	ma-msālī-sh.	ma-msālī-sh	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	Intonation=Falling	_	_	_	_	_
-599-4	PSB141	599	4	xallī-h	xallī-h	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=1382.77	_	_	_	_
+599-3	PSB141	599	3	ma-msālī-sh.	ma-msālī-sh	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	Intonation=Falling	_	_	_	_	_
+599-4	PSB141	599	4	xallī-h	xallī-h	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=1382.77	_	_	_	_
 601-0	???	601	0	#_ xx	xx	_	_	_	_	_	unknown	_	ContainsVariation=No	Syllables=2	Begin=1382.804|End=1383.423	_	_	_	_
-602-0	PSB141	602	0	#_ wa	wa	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=1384.0	_	_	_	_
-602-1	PSB141	602	1	ʕa:	ʕa	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	1x1	_	_	_
-602-2	PSB141	602	2	xallī-h	xallī-h	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=1385.021	_	_	_	_
-604-0	PSB141	604	0	#_ xallī	xallī	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=1386.078	_	_	_	_
-604-1	PSB141	604	1	dīrī	dīrī	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-604-2	PSB141	604	2	ytsārreḥ	ytsārreḥ	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=1387.227	_	_	_	_
-606-0	???	606	0	#xxx	xxx	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=1387.588|End=1388.247	_	_	_	_
+602-0	PSB141	602	0	#_ wa	wa	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=1384.0	_	_	_	_
+602-1	PSB141	602	1	ʕa:	ʕa	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	1x1	_	_	_
+602-2	PSB141	602	2	xallī-h	xallī-h	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=1385.021	_	_	_	_
+604-0	PSB141	604	0	#_ xallī	xallī	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=1386.078	_	_	_	_
+604-1	PSB141	604	1	dīrī	dīrī	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+604-2	PSB141	604	2	ytsārreḥ	ytsārreḥ	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=1387.227	_	_	_	_
+606-0	???	606	0	#xxx	xxx	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=1387.588|End=1388.247	_	_	_	_
 607-0	???	607	0	#_ xxx	xxx	_	_	_	_	_	unknown	_	ContainsVariation=No	Syllables=3	Begin=1388.814	_	_	_	_
 607-1	???	607	1	xxx	xxx	_	_	_	_	_	unknown	_	ContainsVariation=No	Syllables=3	End=1390.216	_	_	_	_
-608-0	PSB141	608	0	#_ wāsh	wāsh	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=1390.598	_	_	_	_
-608-1	PSB141	608	1	(bghīti)	bghīti	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-608-2	PSB141	608	2	tfāyq-u?	tfāyq-u	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	Intonation=Rising	End=1391.825	_	_	_	_
+608-0	PSB141	608	0	#_ wāsh	wāsh	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=1390.598	_	_	_	_
+608-1	PSB141	608	1	(bghīti)	bghīti	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+608-2	PSB141	608	2	tfāyq-u?	tfāyq-u	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	Intonation=Rising	End=1391.825	_	_	_	_
 610-0	PSB140	610	0	e:cco	ecco	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1393.402|End=1394.619	0x1	_	_	_
 611-0	PSB141	611	0	allora	allora	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1395.402|End=1395.99	_	_	_	_
 612-0	PSB141	612	0	mhmh,	mhmh	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising	Begin=1396.206|End=1396.608	_	_	_	_
@@ -2417,13 +2417,13 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 630-0	PSB141	630	0	e:h	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1440.0	0x1	_	_	_
 630-1	PSB141	630	1	okay	okay	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1441.227	_	_	_	_
 631-0	???	631	0	#_ xx	xx	_	_	_	_	_	unknown	_	ContainsVariation=Yes	Syllables=2	Begin=1442.794	_	_	_	_
-631-1	???	631	1	wa-shrīt-u	wa-shrīt-u	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+631-1	???	631	1	wa-shrīt-u	wa-shrīt-u	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 631-2	???	631	2	xxx	xxx	_	_	_	_	_	unknown	_	ContainsVariation=Yes	Syllables=3	End=1444.914	_	_	_	_
-633-0	PSB141	633	0	#_ shūf	shūf	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=1445.049	_	_	_	_
-633-1	PSB141	633	1	īla	īla	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-633-2	PSB141	633	2	kāyn	kāyn	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-633-3	PSB141	633	3	ḥda	ḥda	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-633-4	PSB141	633	4	nāmūsiyya	nāmūsiyya	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=1446.725	_	_	_	_
+633-0	PSB141	633	0	#_ shūf	shūf	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=1445.049	_	_	_	_
+633-1	PSB141	633	1	īla	īla	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+633-2	PSB141	633	2	kāyn	kāyn	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+633-3	PSB141	633	3	ḥda	ḥda	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+633-4	PSB141	633	4	nāmūsiyya	nāmūsiyya	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=1446.725	_	_	_	_
 635-0	PSB141	635	0	e:h	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1454.0	0x1	_	_	_
 635-1	PSB141	635	1	allora	allora	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1455.01	_	_	_	_
 636-0	PSB141	636	0	vuoi	vuoi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1455.216	_	_	_	_

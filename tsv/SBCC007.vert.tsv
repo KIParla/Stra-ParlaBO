@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	PSB113	0	0	stanis	stanis	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=3.11	_	_	_	_
 0-1	PSB113	0	1	quanto	quanto	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 0-2	PSB113	0	2	ha	ha	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -926,11 +926,11 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 227-7	PSB114	227	7	pallone	pallone	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 227-8	PSB114	227	8	d'	d'	_	_	_	_	_	linguistic	_	ContainsVariation=No	SpaceAfter=No	_	_	_	_	_
 227-9	PSB114	227	9	oro,	oro	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising	End=764.066	_	_	_	_
-228-0	PSB114	228	0	#_ if	if	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=764.564	_	_	_	_
-228-1	PSB114	228	1	you	you	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-228-2	PSB114	228	2	want	want	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-228-3	PSB114	228	3	to	to	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-228-4	PSB114	228	4	play	play	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=765.78	_	_	_	_
+228-0	PSB114	228	0	#_ if	if	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=764.564	_	_	_	_
+228-1	PSB114	228	1	you	you	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+228-2	PSB114	228	2	want	want	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+228-3	PSB114	228	3	to	to	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+228-4	PSB114	228	4	play	play	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=765.78	_	_	_	_
 229-0	PSB114	229	0	invece	invece	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=767.983	_	_	_	_
 229-1	PSB114	229	1	adesso	adesso	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 229-2	PSB114	229	2	c'	c'	_	_	_	_	_	linguistic	_	ContainsVariation=No	SpaceAfter=No	_	_	_	_	_
@@ -2152,18 +2152,18 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 515-4	PSB113	515	4	kong	kong	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 515-5	PSB113	515	5	se	se	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 515-6	PSB113	515	6	no	no	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=2027.918	_	_	_	_
-516-0	PSB113	516	0	#_ xí	xí	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=2028.492	_	_	_	_
-516-1	PSB113	516	1	jìn	jìn	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-516-2	PSB113	516	2	píng	píng	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-516-3	PSB113	516	3	mi	mi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=2029.279	_	_	_	_
+516-0	PSB113	516	0	#_ xí	xí	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=2028.492	_	_	_	_
+516-1	PSB113	516	1	jìn	jìn	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+516-2	PSB113	516	2	píng	píng	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+516-3	PSB113	516	3	mi	mi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=2029.279	_	_	_	_
 517-0	PSB113	517	0	°non	non	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	Begin=2031.02	_	_	_	_
 517-1	PSB113	517	1	dovevo	dovevo	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	_	_	_	_	_
 517-2	PSB113	517	2	dire	dire	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	_	_	_	_	_
 517-3	PSB113	517	3	neanche°	neanche	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	End=2032.254	_	_	_	_
 518-0	PSB114	518	0	#_ °xxx°	xxx	_	_	_	_	_	unknown	_	ContainsVariation=Yes	Syllables=3	Begin=2032.393	_	_	_	_
-518-1	PSB114	518	1	xí	xí	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-518-2	PSB114	518	2	jìn	jìn	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-518-3	PSB114	518	3	píng?	píng	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	Intonation=Rising	End=2033.258	_	_	_	_
+518-1	PSB114	518	1	xí	xí	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+518-2	PSB114	518	2	jìn	jìn	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+518-3	PSB114	518	3	píng?	píng	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	Intonation=Rising	End=2033.258	_	_	_	_
 519-0	PSB114	519	0	°basta°	basta	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	Begin=2036.324|End=2036.922	_	_	_	_
 520-0	PSB114	520	0	°la	la	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	Begin=2040.295	_	_	_	_
 520-1	PSB114	520	1	cognata	cognata	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	_	_	_	_	_
@@ -2186,14 +2186,14 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 524-0	PSB113	524	0	mh	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2049.384|End=2049.654	_	_	_	_
 525-0	PSB113	525	0	s:h	sh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2050.585|End=2051.004	0x1	_	_	_
 526-0	PSB113	526	0	okay	okay	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	Begin=2051.147	_	_	_	_
-526-1	PSB113	526	1	#zhàng	zhàng	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-526-2	PSB113	526	2	#fū	fū	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-526-3	PSB113	526	3	#de	de	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-526-4	PSB113	526	4	#mèi	mèi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-526-5	PSB113	526	5	#mèi	mèi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=2052.537	_	_	_	_
-528-0	PSB113	528	0	#_ xiǎo	xiǎo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=2053.384	_	_	_	_
-528-1	PSB113	528	1	gū	gū	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-528-2	PSB113	528	2	zi	zi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=2054.085	_	_	_	_
+526-1	PSB113	526	1	#zhàng	zhàng	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+526-2	PSB113	526	2	#fū	fū	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+526-3	PSB113	526	3	#de	de	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+526-4	PSB113	526	4	#mèi	mèi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+526-5	PSB113	526	5	#mèi	mèi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=2052.537	_	_	_	_
+528-0	PSB113	528	0	#_ xiǎo	xiǎo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=2053.384	_	_	_	_
+528-1	PSB113	528	1	gū	gū	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+528-2	PSB113	528	2	zi	zi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=2054.085	_	_	_	_
 530-0	PSB113	530	0	questo	questo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2054.697	_	_	_	_
 530-1	PSB113	530	1	lo	lo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 530-2	PSB113	530	2	so	so	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=2055.422	_	_	_	_
@@ -2203,28 +2203,28 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 533-1	PSB114	533	1	eh	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=2061.254	_	_	_	_
 534-0	PSB113	534	0	((sospira))	((sospira))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=2063.639	_	_	_	_
 534-1	PSB113	534	1	E:H	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=high	End=2064.172	0x1	_	_	_
-535-0	PSB113	535	0	#_ dà	dà	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=2067.725	_	_	_	_
-535-1	PSB113	535	1	jiù	jiù	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-535-2	PSB113	535	2	zi	zi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=2068.451	_	_	_	_
+535-0	PSB113	535	0	#_ dà	dà	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=2067.725	_	_	_	_
+535-1	PSB113	535	1	jiù	jiù	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+535-2	PSB113	535	2	zi	zi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=2068.451	_	_	_	_
 537-0	PSB113	537	0	a::h	ah	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2070.594|End=2071.512	0x2	_	_	_
 538-0	PSB113	538	0	vediamo	vediamo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2072.351|End=2072.926	_	_	_	_
 539-0	PSB113	539	0	EH?	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising|Volume=high	Begin=2087.528|End=2087.815	_	_	_	_
-540-0	PSB113	540	0	#_ qī	qī	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=2090.114	_	_	_	_
-540-1	PSB113	540	1	zǐ	zǐ	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-540-2	PSB113	540	2	de	de	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-540-3	PSB113	540	3	fù	fù	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-540-4	PSB113	540	4	qīn	qīn	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-540-5	PSB113	540	5	no	no	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-540-6	PSB113	540	6	pèi	pèi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-540-7	PSB113	540	7	ǒu	ǒu	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-540-8	PSB113	540	8	zhī	zhī	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-540-9	PSB113	540	9	xuè	xuè	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-540-10	PSB113	540	10	qīn	qīn	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=2093.471	_	_	_	_
-542-0	PSB113	542	0	#_ xuè	xuè	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=2097.048	_	_	_	_
-542-1	PSB113	542	1	qīn	qīn	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-542-2	PSB113	542	2	zhī	zhī	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-542-3	PSB113	542	3	pèi	pèi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-542-4	PSB113	542	4	ǒu	ǒu	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=2099.044	_	_	_	_
+540-0	PSB113	540	0	#_ qī	qī	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=2090.114	_	_	_	_
+540-1	PSB113	540	1	zǐ	zǐ	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+540-2	PSB113	540	2	de	de	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+540-3	PSB113	540	3	fù	fù	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+540-4	PSB113	540	4	qīn	qīn	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+540-5	PSB113	540	5	no	no	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+540-6	PSB113	540	6	pèi	pèi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+540-7	PSB113	540	7	ǒu	ǒu	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+540-8	PSB113	540	8	zhī	zhī	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+540-9	PSB113	540	9	xuè	xuè	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+540-10	PSB113	540	10	qīn	qīn	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=2093.471	_	_	_	_
+542-0	PSB113	542	0	#_ xuè	xuè	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=2097.048	_	_	_	_
+542-1	PSB113	542	1	qīn	qīn	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+542-2	PSB113	542	2	zhī	zhī	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+542-3	PSB113	542	3	pèi	pèi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+542-4	PSB113	542	4	ǒu	ǒu	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=2099.044	_	_	_	_
 544-0	PSB113	544	0	questo	questo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2099.523	_	_	_	_
 544-1	PSB113	544	1	lo	lo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 544-2	PSB113	544	2	so:	so	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=2100.486	1x1	_	_	_
@@ -2233,20 +2233,20 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 545-2	PSB113	545	2	meno	meno	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 545-3	PSB113	545	3	lo	lo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 545-4	PSB113	545	4	so:	so	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=2102.053	1x1	_	_	_
-546-0	PSB113	546	0	#_ mǔ	mǔ	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=2102.655	_	_	_	_
-546-1	PSB113	546	1	qīn	qīn	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-546-2	PSB113	546	2	zhī	zhī	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-546-3	PSB113	546	3	jiě	jiě	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-546-4	PSB113	546	4	mèi	mèi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-546-5	PSB113	546	5	mǔ	mǔ	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-546-6	PSB113	546	6	qīn	qīn	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-546-7	PSB113	546	7	de	de	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-546-8	PSB113	546	8	jiě	jiě	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-546-9	PSB113	546	9	jiě	jiě	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+546-0	PSB113	546	0	#_ mǔ	mǔ	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=2102.655	_	_	_	_
+546-1	PSB113	546	1	qīn	qīn	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+546-2	PSB113	546	2	zhī	zhī	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+546-3	PSB113	546	3	jiě	jiě	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+546-4	PSB113	546	4	mèi	mèi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+546-5	PSB113	546	5	mǔ	mǔ	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+546-6	PSB113	546	6	qīn	qīn	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+546-7	PSB113	546	7	de	de	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+546-8	PSB113	546	8	jiě	jiě	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+546-9	PSB113	546	9	jiě	jiě	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 546-10	PSB113	546	10	°xx°	xx	_	_	_	_	_	unknown	_	ContainsVariation=Yes	Syllables=2	_	_	_	_	_
-546-11	PSB113	546	11	de	de	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-546-12	PSB113	546	12	zhàng	zhàng	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-546-13	PSB113	546	13	fū	fū	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=2106.644	_	_	_	_
+546-11	PSB113	546	11	de	de	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+546-12	PSB113	546	12	zhàng	zhàng	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+546-13	PSB113	546	13	fū	fū	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=2106.644	_	_	_	_
 548-0	PSB113	548	0	°un	un	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	Begin=2107.696	_	_	_	_
 548-1	PSB113	548	1	po'	po'	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	_	_	_	_	_
 548-2	PSB113	548	2	complicato°	complicato	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	End=2108.697	_	_	_	_
@@ -2279,16 +2279,16 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 553-0	PSB113	553	0	i	i	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	Begin=2125.401	_	_	_	_
 553-1	PSB113	553	1	fratelli	fratelli	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	PauseAfter=Yes	_	_	_	_	_
 553-2	PSB113	553	2	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=Yes	_	_	_	_	_	_
-553-3	PSB113	553	3	#dà	dà	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-553-4	PSB113	553	4	#bó	bó	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=2127.057	_	_	_	_
+553-3	PSB113	553	3	#dà	dà	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+553-4	PSB113	553	4	#bó	bó	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=2127.057	_	_	_	_
 555-0	PSB113	555	0	okay	okay	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	PauseAfter=Yes	Begin=2127.766	_	_	_	_
 555-1	PSB113	555	1	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=Yes	_	_	_	_	_	_
-555-2	PSB113	555	2	#dà	dà	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-555-3	PSB113	555	3	#bó	bó	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+555-2	PSB113	555	2	#dà	dà	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+555-3	PSB113	555	3	#bó	bó	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 555-4	PSB113	555	4	e:h	eh	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	End=2129.353	0x1	_	_	_
-557-0	PSB113	557	0	#_ (°bú	bú	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=2129.737	_	_	_	_
-557-1	PSB113	557	1	jiào	jiào	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-557-2	PSB113	557	2	shū°)	shū	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=2130.024	_	_	_	_
+557-0	PSB113	557	0	#_ (°bú	bú	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=2129.737	_	_	_	_
+557-1	PSB113	557	1	jiào	jiào	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+557-2	PSB113	557	2	shū°)	shū	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=2130.024	_	_	_	_
 558-0	???	558	0	non	non	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2129.737	_	_	_	_
 558-1	???	558	1	sono	sono	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 558-2	???	558	2	sicura	sicura	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -2312,57 +2312,57 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 560-8	PSB113	560	8	un	un	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 560-9	PSB113	560	9	po'	po'	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 560-10	PSB113	560	10	lo:	lo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=2132.266	1x1	_	_	_
-561-0	PSB113	561	0	#_ dà	dà	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=2132.954	_	_	_	_
-561-1	PSB113	561	1	gū	gū	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-561-2	PSB113	561	2	zǐ	zǐ	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-561-3	PSB113	561	3	xiǎo	xiǎo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-561-4	PSB113	561	4	gū	gū	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-561-5	PSB113	561	5	zǐ	zǐ	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=2134.365	_	_	_	_
+561-0	PSB113	561	0	#_ dà	dà	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=2132.954	_	_	_	_
+561-1	PSB113	561	1	gū	gū	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+561-2	PSB113	561	2	zǐ	zǐ	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+561-3	PSB113	561	3	xiǎo	xiǎo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+561-4	PSB113	561	4	gū	gū	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+561-5	PSB113	561	5	zǐ	zǐ	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=2134.365	_	_	_	_
 563-0	PSB113	563	0	okay	okay	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2134.401	_	_	_	_
 563-1	PSB113	563	1	sono	sono	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 563-2	PSB113	563	2	quattro	quattro	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=2135.876	_	_	_	_
-564-0	PSB113	564	0	#_ qī	qī	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=2139.549	_	_	_	_
-564-1	PSB113	564	1	zǐ	zǐ	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-564-2	PSB113	564	2	xiōng	xiōng	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-564-3	PSB113	564	3	zhǎng	zhǎng	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-564-4	PSB113	564	4	dà	dà	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-564-5	PSB113	564	5	jiù	jiù	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-564-6	PSB113	564	6	zǐ	zǐ	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-564-7	PSB113	564	7	xiǎo	xiǎo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-564-8	PSB113	564	8	jiù	jiù	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-564-9	PSB113	564	9	zǐ	zǐ	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=2142.533	_	_	_	_
-566-0	PSB113	566	0	#_ qī	qī	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=2143.999	_	_	_	_
-566-1	PSB113	566	1	zǐ	zǐ	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-566-2	PSB113	566	2	jiě	jiě	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-566-3	PSB113	566	3	mèi	mèi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=2144.843	_	_	_	_
-568-0	PSB113	568	0	#_ yí	yí	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=2145.233	_	_	_	_
-568-1	PSB113	568	1	jiě	jiě	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=2145.807	_	_	_	_
-570-0	PSB113	570	0	#_ dà	dà	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=2146.175	_	_	_	_
-570-1	PSB113	570	1	jiě	jiě	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-570-2	PSB113	570	2	yí	yí	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-570-3	PSB113	570	3	mèi	mèi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-570-4	PSB113	570	4	yí	yí	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-570-5	PSB113	570	5	xiǎo	xiǎo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-570-6	PSB113	570	6	yí	yí	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-570-7	PSB113	570	7	zǐ	zǐ	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=2149.377	_	_	_	_
-572-0	PSB113	572	0	#_ xiǎo	xiǎo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=2150.467	_	_	_	_
-572-1	PSB113	572	1	gū	gū	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-572-2	PSB113	572	2	zǐ	zǐ	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-572-3	PSB113	572	3	xiǎo	xiǎo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-572-4	PSB113	572	4	yí	yí	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-572-5	PSB113	572	5	zǐ	zǐ	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=2151.734	_	_	_	_
+564-0	PSB113	564	0	#_ qī	qī	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=2139.549	_	_	_	_
+564-1	PSB113	564	1	zǐ	zǐ	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+564-2	PSB113	564	2	xiōng	xiōng	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+564-3	PSB113	564	3	zhǎng	zhǎng	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+564-4	PSB113	564	4	dà	dà	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+564-5	PSB113	564	5	jiù	jiù	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+564-6	PSB113	564	6	zǐ	zǐ	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+564-7	PSB113	564	7	xiǎo	xiǎo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+564-8	PSB113	564	8	jiù	jiù	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+564-9	PSB113	564	9	zǐ	zǐ	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=2142.533	_	_	_	_
+566-0	PSB113	566	0	#_ qī	qī	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=2143.999	_	_	_	_
+566-1	PSB113	566	1	zǐ	zǐ	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+566-2	PSB113	566	2	jiě	jiě	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+566-3	PSB113	566	3	mèi	mèi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=2144.843	_	_	_	_
+568-0	PSB113	568	0	#_ yí	yí	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=2145.233	_	_	_	_
+568-1	PSB113	568	1	jiě	jiě	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=2145.807	_	_	_	_
+570-0	PSB113	570	0	#_ dà	dà	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=2146.175	_	_	_	_
+570-1	PSB113	570	1	jiě	jiě	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+570-2	PSB113	570	2	yí	yí	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+570-3	PSB113	570	3	mèi	mèi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+570-4	PSB113	570	4	yí	yí	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+570-5	PSB113	570	5	xiǎo	xiǎo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+570-6	PSB113	570	6	yí	yí	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+570-7	PSB113	570	7	zǐ	zǐ	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=2149.377	_	_	_	_
+572-0	PSB113	572	0	#_ xiǎo	xiǎo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=2150.467	_	_	_	_
+572-1	PSB113	572	1	gū	gū	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+572-2	PSB113	572	2	zǐ	zǐ	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+572-3	PSB113	572	3	xiǎo	xiǎo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+572-4	PSB113	572	4	yí	yí	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+572-5	PSB113	572	5	zǐ	zǐ	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=2151.734	_	_	_	_
 574-0	PSB113	574	0	esatto	esatto	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2151.749|End=2152.603	_	_	_	_
-575-0	PSB113	575	0	#_ xiōng	xiōng	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=2155.04	_	_	_	_
-575-1	PSB113	575	1	yǔ	yǔ	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-575-2	PSB113	575	2	[fū:]	fū	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	PauseAfter=Yes	_	1x1	_	_	0-2(15)
+575-0	PSB113	575	0	#_ xiōng	xiōng	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=2155.04	_	_	_	_
+575-1	PSB113	575	1	yǔ	yǔ	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+575-2	PSB113	575	2	[fū:]	fū	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	PauseAfter=Yes	_	1x1	_	_	0-2(15)
 575-3	PSB113	575	3	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=Yes	_	_	_	_	_	_
-575-4	PSB113	575	4	qī	qī	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-575-5	PSB113	575	5	yǔ	yǔ	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-575-6	PSB113	575	6	fū	fū	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-575-7	PSB113	575	7	zhī	zhī	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-575-8	PSB113	575	8	dì	dì	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=2160.098	_	_	_	_
-577-0	PSB114	577	0	#_ [shén	shén	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=2157.499	_	_	_	0-4(15)
-577-1	PSB114	577	1	me]	me	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=2158.283	_	_	_	0-2(15)
+575-4	PSB113	575	4	qī	qī	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+575-5	PSB113	575	5	yǔ	yǔ	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+575-6	PSB113	575	6	fū	fū	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+575-7	PSB113	575	7	zhī	zhī	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+575-8	PSB113	575	8	dì	dì	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=2160.098	_	_	_	_
+577-0	PSB114	577	0	#_ [shén	shén	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=2157.499	_	_	_	0-4(15)
+577-1	PSB114	577	1	me]	me	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=2158.283	_	_	_	0-2(15)
 579-0	PSB113	579	0	allora	allora	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2165.127	_	_	_	_
 579-1	PSB113	579	1	son(o)	sono	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	3-4(0)	_
 579-2	PSB113	579	2	sedici	sedici	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -2407,15 +2407,15 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 591-6	PSB114	591	6	basso	basso	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=2188.996	_	_	_	_
 592-0	PSB114	592	0	quanto?	quanto	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising	Begin=2189.225|End=2189.639	_	_	_	_
 593-0	PSB113	593	0	io	io	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	Begin=2189.655	_	_	_	_
-593-1	PSB113	593	1	#dà	dà	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-593-2	PSB113	593	2	#sǎo	sǎo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=2190.459	_	_	_	_
+593-1	PSB113	593	1	#dà	dà	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+593-2	PSB113	593	2	#sǎo	sǎo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=2190.459	_	_	_	_
 595-0	PSB113	595	0	se	se	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	Begin=2193.266	_	_	_	_
 595-1	PSB113	595	1	tu	tu	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 595-2	PSB113	595	2	hai	hai	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 595-3	PSB113	595	3	fratello	fratello	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 595-4	PSB113	595	4	maggiore	maggiore	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-595-5	PSB113	595	5	#dà	dà	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-595-6	PSB113	595	6	#sǎo	sǎo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=2194.857	_	_	_	_
+595-5	PSB113	595	5	#dà	dà	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+595-6	PSB113	595	6	#sǎo	sǎo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=2194.857	_	_	_	_
 597-0	PSB113	597	0	se	se	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2195.127	_	_	_	_
 597-1	PSB113	597	1	eh	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 597-2	PSB113	597	2	fratello	fratello	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=2196.102	_	_	_	_
@@ -2430,31 +2430,31 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 600-0	PSB114	600	0	°xxx°	xxx	_	_	_	_	_	unknown	_	ContainsVariation=No	Volume=low|Syllables=3	Begin=2200.147|End=2200.639	_	_	_	_
 601-0	PSB113	601	0	mh	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2201.057	_	_	_	_
 601-1	PSB113	601	1	no:	no	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=2201.975	1x1	_	_	_
-602-0	PSB113	602	0	#_ dì	dì	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=2204.07	_	_	_	_
-602-1	PSB113	602	1	mèi	mèi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=2204.602	_	_	_	_
-604-0	PSB113	604	0	#_ dì	dì	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=2205.446	_	_	_	_
-604-1	PSB113	604	1	mèi	mèi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=2205.979	_	_	_	_
+602-0	PSB113	602	0	#_ dì	dì	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=2204.07	_	_	_	_
+602-1	PSB113	602	1	mèi	mèi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=2204.602	_	_	_	_
+604-0	PSB113	604	0	#_ dì	dì	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=2205.446	_	_	_	_
+604-1	PSB113	604	1	mèi	mèi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=2205.979	_	_	_	_
 606-0	PSB113	606	0	m:h	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2217.549|End=2217.984	0x1	_	_	_
-607-0	PSB113	607	0	#_ dì	dì	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=2223.811	_	_	_	_
-607-1	PSB113	607	1	mèi	mèi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-607-2	PSB113	607	2	dì	dì	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-607-3	PSB113	607	3	xí	xí	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-607-4	PSB113	607	4	dì~	dì~	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	Interrupted=Yes	End=2225.865	_	_	_	_
+607-0	PSB113	607	0	#_ dì	dì	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=2223.811	_	_	_	_
+607-1	PSB113	607	1	mèi	mèi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+607-2	PSB113	607	2	dì	dì	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+607-3	PSB113	607	3	xí	xí	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+607-4	PSB113	607	4	dì~	dì~	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	Interrupted=Yes	End=2225.865	_	_	_	_
 609-0	PSB113	609	0	okay	okay	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2226.086|End=2226.562	_	_	_	_
 610-0	PSB113	610	0	allora	allora	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2227.36|End=2227.852	_	_	_	_
 611-0	PSB113	611	0	@vittorio	@vittorio	_	_	_	_	_	anonymized	_	ContainsVariation=Yes	Anonymized=Yes	Begin=2228.331	_	_	_	_
 611-1	PSB113	611	1	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 611-2	PSB113	611	2	per	per	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 611-3	PSB113	611	3	te	te	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-611-4	PSB113	611	4	#jiě	jiě	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-611-5	PSB113	611	5	#fū	fū	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=2229.913	_	_	_	_
+611-4	PSB113	611	4	#jiě	jiě	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+611-5	PSB113	611	5	#fū	fū	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=2229.913	_	_	_	_
 613-0	PSB113	613	0	e::hm	ehm	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2230.459|End=2231.336	0x2	_	_	_
 614-0	PSB113	614	0	qualcuno	qualcuno	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	Begin=2231.628	_	_	_	_
 614-1	PSB113	614	1	di	di	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 614-2	PSB113	614	2	@caterina	@caterina	_	_	_	_	_	anonymized	_	ContainsVariation=Yes	Anonymized=Yes	_	_	_	_	_
 614-3	PSB113	614	3	>sarebbe<	sarebbe	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	Fast=0-7(0)	_	_
-614-4	PSB113	614	4	#mèi	mèi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-614-5	PSB113	614	5	#fū	fū	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=2233.717	_	_	_	_
+614-4	PSB113	614	4	#mèi	mèi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+614-5	PSB113	614	5	#fū	fū	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=2233.717	_	_	_	_
 616-0	PSB113	616	0	mh	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2234.487	_	_	_	_
 616-1	PSB113	616	1	okay	okay	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=2234.95	_	_	_	_
 617-0	PSB113	617	0	sono	sono	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2235.814	_	_	_	_
@@ -2471,8 +2471,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 622-0	PSB113	622	0	fratello,	fratello	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising	Begin=2243.869|End=2244.762	_	_	_	_
 623-0	PSB113	623	0	devo	devo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	Begin=2246.512	_	_	_	_
 623-1	PSB113	623	1	dire	dire	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-623-2	PSB113	623	2	#dà	dà	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-623-3	PSB113	623	3	#sǎo	sǎo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=2248.221	_	_	_	_
+623-2	PSB113	623	2	#dà	dà	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+623-3	PSB113	623	3	#sǎo	sǎo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=2248.221	_	_	_	_
 625-0	PSB113	625	0	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2248.425	_	_	_	_
 625-1	PSB113	625	1	uguale	uguale	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=2249.36	_	_	_	_
 626-0	PSB113	626	0	mh	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2249.979	_	_	_	_
@@ -2592,8 +2592,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 649-4	PSB113	649	4	fratello	fratello	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 649-5	PSB113	649	5	maggiore	maggiore	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 649-6	PSB113	649	6	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-649-7	PSB113	649	7	#dà	dà	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-649-8	PSB113	649	8	#sǎo	sǎo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=2310.774	_	_	_	_
+649-7	PSB113	649	7	#dà	dà	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+649-8	PSB113	649	8	#sǎo	sǎo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=2310.774	_	_	_	_
 651-0	PSB113	651	0	la	la	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2311.529	_	_	_	_
 651-1	PSB113	651	1	moglie	moglie	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=2312.201	_	_	_	_
 652-0	PSB113	652	0	di	di	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2312.639	_	_	_	_
@@ -2601,8 +2601,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 652-2	PSB113	652	2	fratello	fratello	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 652-3	PSB113	652	3	piccolo	piccolo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=2314.057	_	_	_	_
 653-0	PSB113	653	0	eh	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2314.63|End=2314.864	_	_	_	_
-654-0	PSB113	654	0	#_ dì	dì	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=2315.483	_	_	_	_
-654-1	PSB113	654	1	mèi	mèi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=2315.951	_	_	_	_
+654-0	PSB113	654	0	#_ dì	dì	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=2315.483	_	_	_	_
+654-1	PSB113	654	1	mèi	mèi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=2315.951	_	_	_	_
 656-0	PSB114	656	0	okay	okay	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2316.943	_	_	_	_
 656-1	PSB114	656	1	dipende	dipende	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 656-2	PSB114	656	2	dal	dal	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -2630,15 +2630,15 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 661-1	PSB113	661	1	mia	mia	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 661-2	PSB113	661	2	sorella	sorella	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=2328.008	_	_	_	_
 662-0	PSB113	662	0	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	Begin=2328.926	_	_	_	_
-662-1	PSB113	662	1	#jiě	jiě	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-662-2	PSB113	662	2	#fū	fū	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=2329.664	_	_	_	_
+662-1	PSB113	662	1	#jiě	jiě	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+662-2	PSB113	662	2	#fū	fū	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=2329.664	_	_	_	_
 664-0	PSB113	664	0	eh	eh	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	Begin=2332.348	_	_	_	_
 664-1	PSB113	664	1	infatti	infatti	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-664-2	PSB113	664	2	#wáng	wáng	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-664-3	PSB113	664	3	#fán	fán	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+664-2	PSB113	664	2	#wáng	wáng	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+664-3	PSB113	664	3	#fán	fán	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 664-4	PSB113	664	4	chiamerà	chiamerà	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-664-5	PSB113	664	5	#jiě	jiě	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-664-6	PSB113	664	6	#fū	fū	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=2334.68	_	_	_	_
+664-5	PSB113	664	5	#jiě	jiě	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+664-6	PSB113	664	6	#fū	fū	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=2334.68	_	_	_	_
 666-0	PSB113	666	0	anche	anche	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2335.672	_	_	_	_
 666-1	PSB113	666	1	se	se	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=2336.483	_	_	_	_
 667-0	PSB114	667	0	non	non	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2337.34	_	_	_	_
@@ -2646,7 +2646,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 667-2	PSB114	667	2	sorelle	sorelle	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=2338.192	_	_	_	_
 668-0	PSB113	668	0	bisogna	bisogna	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	Begin=2340.754	_	_	_	_
 668-1	PSB113	668	1	aggiungere	aggiungere	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-668-2	PSB113	668	2	#biǎo	biǎo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=2342.36	_	_	_	_
+668-2	PSB113	668	2	#biǎo	biǎo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=2342.36	_	_	_	_
 669-0	PSB113	669	0	per	per	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2342.936	_	_	_	_
 669-1	PSB113	669	1	dire	dire	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 669-2	PSB113	669	2	cugino	cugino	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=2344.024	_	_	_	_

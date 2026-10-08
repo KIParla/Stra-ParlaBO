@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	PSB005	0	0	bene	bene	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1.6	_	_	_	_
 0-1	PSB005	0	1	ehm:	ehm	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=3.27	2x1	_	_	_
 1-0	PSB005	1	0	allora	allora	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=3.7	_	_	_	_
@@ -3790,7 +3790,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 764-17	PSB005	764	17	flipper	flipper	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1392.746	_	_	_	_
 765-0	PSB078	765	0	sì	sì	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	Begin=1392.817	_	_	_	_
 765-1	PSB078	765	1	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=Yes	_	_	_	_	_	_
-765-2	PSB078	765	2	#so[ccia	soccia	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	3-7(180)
+765-2	PSB078	765	2	#so[ccia	soccia	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	3-7(180)
 765-3	PSB078	765	3	fli]pper	flipper	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	End=1394.187	_	_	_	0-3(180)
 766-0	PSB005	766	0	[sì]	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1393.309|End=1393.785	_	_	_	0-2(180)
 767-0	PSB005	767	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=1394.311	_	_	_	_
@@ -3802,7 +3802,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 769-3	PSB078	769	3	sapevo	sapevo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 769-4	PSB078	769	4	se	se	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 769-5	PSB078	769	5	se	se	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-769-6	PSB078	769	6	#soccia	soccia	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+769-6	PSB078	769	6	#soccia	soccia	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 769-7	PSB078	769	7	si	si	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 769-8	PSB078	769	8	pot~	pot~	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	Interrupted=Yes	_	_	_	_	_
 769-9	PSB078	769	9	dovesse	dovesse	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
@@ -5830,8 +5830,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1211-0	PSB078	1211	0	inglese:	inglese	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2172.32|End=2173.188	6x1	_	_	_
 1212-0	PSB078	1212	0	si	si	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	Begin=2175.282	_	_	_	_
 1212-1	PSB078	1212	1	chiama	chiama	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-1212-2	PSB078	1212	2	#moon	moon	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-1212-3	PSB078	1212	3	#cake	cake	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+1212-2	PSB078	1212	2	#moon	moon	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+1212-3	PSB078	1212	3	#cake	cake	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 1212-4	PSB078	1212	4	mangiamo::	mangiamo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	End=2178.249	7x2	_	_	_
 1213-0	PSB078	1213	0	diciamo	diciamo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2179.06	_	_	_	_
 1213-1	PSB078	1213	1	di	di	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -5847,8 +5847,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1217-0	PSB078	1217	0	che	che	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	Begin=2191.85	_	_	_	_
 1217-1	PSB078	1217	1	si	si	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 1217-2	PSB078	1217	2	chiamano	chiamano	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-1217-3	PSB078	1217	3	#moon	moon	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-1217-4	PSB078	1217	4	#cake	cake	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+1217-3	PSB078	1217	3	#moon	moon	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+1217-4	PSB078	1217	4	#cake	cake	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 1217-5	PSB078	1217	5	eh	eh	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 1217-6	PSB078	1217	6	e:h	eh	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	End=2194.359	0x1	_	_	_
 1218-0	PSB078	1218	0	torta	torta	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2194.403	_	_	_	_
@@ -6024,8 +6024,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1249-4	PSB078	1249	4	comprare	comprare	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 1249-5	PSB078	1249	5	dai	dai	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	PauseAfter=Yes	_	_	_	_	_
 1249-6	PSB078	1249	6	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=Yes	_	_	_	_	_	_
-1249-7	PSB078	1249	7	#china	china	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-1249-8	PSB078	1249	8	#market	market	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+1249-7	PSB078	1249	7	#china	china	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+1249-8	PSB078	1249	8	#market	market	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 1249-9	PSB078	1249	9	dai	dai	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 1249-10	PSB078	1249	10	negozi	negozi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 1249-11	PSB078	1249	11	cinesi	cinesi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	End=2262.221	_	_	_	_

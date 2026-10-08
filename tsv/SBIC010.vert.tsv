@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	PSB005	0	0	°allora°	allora	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	Begin=0.4|End=0.976	_	_	_	_
 1-0	PSB005	1	0	e::hm	ehm	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1.652|End=2.157	0x2	_	_	_
 2-0	PSB005	2	0	okay	okay	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2.452	_	_	_	_
@@ -4139,7 +4139,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 858-2	PSB077	858	2	si	si	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 858-3	PSB077	858	3	dice	dice	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 858-4	PSB077	858	4	fare:::	fare	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1482.459	3x3	_	_	_
-859-0	PSB077	859	0	#guide	guide	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=1483.86|End=1484.235	_	_	_	_
+859-0	PSB077	859	0	#guide	guide	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=1483.86|End=1484.235	_	_	_	_
 860-0	PSB077	860	0	°come	come	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	Begin=1484.45	_	_	_	_
 860-1	PSB077	860	1	si	si	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	_	_	_	_	_
 860-2	PSB077	860	2	[chiama]°	chiama	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	End=1484.909	_	_	_	0-6(240)
@@ -6299,8 +6299,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1354-1	PSB077	1354	1	c'	c'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	SpaceAfter=No	_	_	_	_	_
 1354-2	PSB077	1354	2	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 1354-3	PSB077	1354	3	scritto	scritto	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-1354-4	PSB077	1354	4	#<nì>	nì	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	Slow=0-3(0)|Fast=2-3(0)	_	_
-1354-5	PSB077	1354	5	#<hao>	hao	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=2285.606	_	Slow=0-4(1)|Fast=0-1(0)	_	_
+1354-4	PSB077	1354	4	#<nì>	nì	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	Slow=0-3(0)|Fast=2-3(0)	_	_
+1354-5	PSB077	1354	5	#<hao>	hao	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=2285.606	_	Slow=0-4(1)|Fast=0-1(0)	_	_
 1355-0	PSB005	1355	0	mhmh	mhmh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2285.696|End=2286.051	_	_	_	_
 1356-0	PSB077	1356	0	poi	poi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2286.051	_	_	_	_
 1356-1	PSB077	1356	1	ci	ci	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_

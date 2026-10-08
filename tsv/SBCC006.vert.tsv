@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	PSB109	0	0	allora	allora	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=0.992	_	_	_	_
 0-1	PSB109	0	1	cosa	cosa	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 0-2	PSB109	0	2	vogliamo	vogliamo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -280,8 +280,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 47-0	PSB110	47	0	vabbè	vabbè	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	Begin=155.44	_	_	_	_
 47-1	PSB110	47	1	ho	ho	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 47-2	PSB110	47	2	capito	capito	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-47-3	PSB110	47	3	#dis	dis	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-47-4	PSB110	47	4	#an	an	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+47-3	PSB110	47	3	#dis	dis	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+47-4	PSB110	47	4	#an	an	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 47-5	PSB110	47	5	fa	fa	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	End=157.56	_	_	_	_
 49-0	PSB109	49	0	parla	parla	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=159.61	_	_	_	_
 49-1	PSB109	49	1	in	in	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_

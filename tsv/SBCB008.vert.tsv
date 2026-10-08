@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	PSB151	0	0	vediamo	vediamo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=0.596	_	_	_	_
 0-1	PSB151	0	1	se	se	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 0-2	PSB151	0	2	si	si	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -590,29 +590,29 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 119-2	PSB151	119	2	po'	po'	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 119-3	PSB151	119	3	meno	meno	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=262.205	_	_	_	_
 120-0	PSB151	120	0	importante	importante	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=263.237|End=263.838	_	_	_	_
-121-0	PSB152	121	0	#_ hello	hello	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=267.428|End=267.832	_	_	_	_
-123-0	PSB152	123	0	#_ ki	ki	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=272.535	_	_	_	_
-123-1	PSB152	123	1	kou	kou	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-123-2	PSB152	123	2	amma	amma	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-123-3	PSB152	123	3	jaan	jaan	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-123-4	PSB152	123	4	chokhe	chokhe	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-123-5	PSB152	123	5	ghum	ghum	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-123-6	PSB152	123	6	nai	nai	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=274.05	_	_	_	_
+121-0	PSB152	121	0	#_ hello	hello	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=267.428|End=267.832	_	_	_	_
+123-0	PSB152	123	0	#_ ki	ki	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=272.535	_	_	_	_
+123-1	PSB152	123	1	kou	kou	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+123-2	PSB152	123	2	amma	amma	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+123-3	PSB152	123	3	jaan	jaan	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+123-4	PSB152	123	4	chokhe	chokhe	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+123-5	PSB152	123	5	ghum	ghum	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+123-6	PSB152	123	6	nai	nai	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=274.05	_	_	_	_
 125-0	PSB152	125	0	e:h	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=276.474|End=276.999	0x1	_	_	_
-126-0	PSB152	126	0	#_ ghum	ghum	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=277.686	_	_	_	_
-126-1	PSB152	126	1	koi	koi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=278.121	_	_	_	_
-128-0	PSB152	128	0	#_ ghum	ghum	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=285.141	_	_	_	_
-128-1	PSB152	128	1	kothay	kothay	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=286.186	_	_	_	_
-130-0	PSB152	130	0	#_ ghum	ghum	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=287.464	_	_	_	_
-130-1	PSB152	130	1	kothay	kothay	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=288.282	_	_	_	_
-132-0	PSB152	132	0	#_ rakho	rakho	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=293.782	_	_	_	_
-132-1	PSB152	132	1	pore	pore	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-132-2	PSB152	132	2	phone	phone	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-132-3	PSB152	132	3	ditasi	ditasi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=295.211	_	_	_	_
+126-0	PSB152	126	0	#_ ghum	ghum	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=277.686	_	_	_	_
+126-1	PSB152	126	1	koi	koi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=278.121	_	_	_	_
+128-0	PSB152	128	0	#_ ghum	ghum	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=285.141	_	_	_	_
+128-1	PSB152	128	1	kothay	kothay	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=286.186	_	_	_	_
+130-0	PSB152	130	0	#_ ghum	ghum	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=287.464	_	_	_	_
+130-1	PSB152	130	1	kothay	kothay	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=288.282	_	_	_	_
+132-0	PSB152	132	0	#_ rakho	rakho	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=293.782	_	_	_	_
+132-1	PSB152	132	1	pore	pore	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+132-2	PSB152	132	2	phone	phone	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+132-3	PSB152	132	3	ditasi	ditasi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=295.211	_	_	_	_
 134-0	PSB152	134	0	xx	xx	_	_	_	_	_	unknown	_	ContainsVariation=No	Syllables=2	Begin=299.191|End=299.519	_	_	_	_
-135-0	PSB152	135	0	#_ pore	pore	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=310.348	_	_	_	_
-135-1	PSB152	135	1	call	call	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-135-2	PSB152	135	2	ditasi	ditasi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=311.419	_	_	_	_
+135-0	PSB152	135	0	#_ pore	pore	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=310.348	_	_	_	_
+135-1	PSB152	135	1	call	call	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+135-2	PSB152	135	2	ditasi	ditasi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=311.419	_	_	_	_
 137-0	PSB151	137	0	e:ra	era	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=318.525	0x1	_	_	_
 137-1	PSB151	137	1	t~	t~	_	_	_	_	_	linguistic	_	ContainsVariation=No	Interrupted=Yes	_	_	_	_	_
 137-2	PSB151	137	2	tua	tua	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -2155,14 +2155,14 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 427-1	PSB152	427	1	pro]prietario	proprietario	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=995.484	_	_	_	0-3(104)
 428-0	PSB151	428	0	ma	ma	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=996.128	_	_	_	_
 428-1	PSB151	428	1	veramente?	veramente	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising	End=996.731	_	_	_	_
-429-0	PSB152	429	0	#_ yes	yes	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=996.868|End=997.577	_	_	_	_
+429-0	PSB152	429	0	#_ yes	yes	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=996.868|End=997.577	_	_	_	_
 431-0	PSB151	431	0	cioè	cioè	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=999.396	_	_	_	_
 431-1	PSB151	431	1	aspetta	aspetta	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 431-2	PSB151	431	2	fammi	fammi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 431-3	PSB151	431	3	capire	capire	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 431-4	PSB151	431	4	questa	questa	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 431-5	PSB151	431	5	cosa	cosa	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1000.755	_	_	_	_
-432-0	PSB152	432	0	#yes	yes	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=1001.475	_	_	_	_
+432-0	PSB152	432	0	#yes	yes	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=1001.475	_	_	_	_
 432-1	PSB152	432	1	$[e]xtraordinario	extraordinario	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Nonce=Yes	_	End=1003.151	_	_	_	1-2(107)
 434-0	PSB151	434	0	[e~]	e~	_	_	_	_	_	linguistic	_	ContainsVariation=No	Interrupted=Yes	Begin=1002.092|End=1002.174	_	_	_	0-2(107)
 435-0	PSB151	435	0	eh	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1003.641|End=1003.76	_	_	_	_
@@ -4491,11 +4491,11 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 818-4	PSB152	818	4	fatto	fatto	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 818-5	PSB152	818	5	bianchi	bianchi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 818-6	PSB152	818	6	io	io	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-818-7	PSB152	818	7	#*ch'	ch'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unassignable|Language=NO_ISO_CODE	SpaceAfter=No	_	_	_	_	_
-818-8	PSB152	818	8	#aggia	aggia	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+818-7	PSB152	818	7	#*ch'	ch'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Unsure|Language=NO_ISO_CODE	SpaceAfter=No	_	_	_	_	_
+818-8	PSB152	818	8	#aggia	aggia	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 818-9	PSB152	818	9	ch~	ch~	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	Interrupted=Yes	_	_	_	_	_
 818-10	PSB152	818	10	$aggiala	aggiala	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Nonce=Yes	_	_	_	_	_	_
-818-11	PSB152	818	11	#*fa	fa	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unassignable|Language=NO_ISO_CODE	PauseAfter=Yes	_	_	_	_	_
+818-11	PSB152	818	11	#*fa	fa	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Unsure|Language=NO_ISO_CODE	PauseAfter=Yes	_	_	_	_	_
 818-12	PSB152	818	12	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=Yes	_	_	_	_	_	_
 818-13	PSB152	818	13	non	non	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 818-14	PSB152	818	14	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
@@ -4573,9 +4573,9 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 830-4	PSB152	830	4	fatto	fatto	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 830-5	PSB152	830	5	bianco	bianco	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 830-6	PSB152	830	6	io	io	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-830-7	PSB152	830	7	#*ch'	ch'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unassignable|Language=NO_ISO_CODE	SpaceAfter=No	_	_	_	_	_
-830-8	PSB152	830	8	#aggia	aggia	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-830-9	PSB152	830	9	#*fa	fa	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unassignable|Language=NO_ISO_CODE	_	_	_	_	_	_
+830-7	PSB152	830	7	#*ch'	ch'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Unsure|Language=NO_ISO_CODE	SpaceAfter=No	_	_	_	_	_
+830-8	PSB152	830	8	#aggia	aggia	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+830-9	PSB152	830	9	#*fa	fa	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Unsure|Language=NO_ISO_CODE	_	_	_	_	_	_
 830-10	PSB152	830	10	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 830-11	PSB152	830	11	questo	questo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 830-12	PSB152	830	12	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
@@ -5611,7 +5611,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1033-4	PSB152	1033	4	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=Yes	_	_	_	_	_	_
 1033-5	PSB152	1033	5	ca~	ca~	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	Interrupted=Yes	_	_	_	_	_
 1033-6	PSB152	1033	6	cazzi	cazzi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-1033-7	PSB152	1033	7	#sui	sui	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=2345.017	_	_	_	_
+1033-7	PSB152	1033	7	#sui	sui	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=2345.017	_	_	_	_
 1035-0	PSB151	1035	0	ma	ma	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2346.318	_	_	_	_
 1035-1	PSB151	1035	1	lei	lei	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1035-2	PSB151	1035	2	voleva	voleva	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -5631,7 +5631,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1036-1	PSB152	1036	1	cazzi	cazzi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-5(264)
 1036-2	PSB152	1036	2	s~]	s~	_	_	_	_	_	linguistic	_	ContainsVariation=No	Interrupted=Yes	End=2348.789	_	_	_	0-2(264)
 1037-0	PSB152	1037	0	[cazzi	cazzi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	Begin=2349.684	_	_	_	0-5(265)
-1037-1	PSB152	1037	1	#s]ui	sui	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=2350.285	_	_	_	0-2(265)
+1037-1	PSB152	1037	1	#s]ui	sui	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=2350.285	_	_	_	0-2(265)
 1039-0	PSB151	1039	0	vabb[è]	vabbè	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2352.142|End=2352.472	_	_	_	4-5(266)
 1040-0	PSB152	1040	0	[que]sto	questo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2352.326	_	_	_	0-3(266)
 1040-1	PSB152	1040	1	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -9946,7 +9946,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1692-12	PSB151	1692	12	lo	lo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1692-13	PSB151	1692	13	stato	stato	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1692-14	PSB151	1692	14	mhmh	mhmh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=3974.271	_	_	_	_
-1693-0	PSB151	1693	0	#cariño	cariño	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=3974.562|End=3974.976	_	_	_	_
+1693-0	PSB151	1693	0	#cariño	cariño	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=3974.562|End=3974.976	_	_	_	_
 1695-0	PSB151	1695	0	no	no	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=3976.947	_	_	_	_
 1695-1	PSB151	1695	1	no	no	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=3977.367	_	_	_	_
 1696-0	PSB152	1696	0	vai	vai	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=3977.402	_	_	_	_
@@ -9966,9 +9966,9 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1699-0	PSB152	1699	0	finito	finito	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	Begin=3981.857	_	_	_	_
 1699-1	PSB152	1699	1	contratto	contratto	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 1699-2	PSB152	1699	2	io	io	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-1699-3	PSB152	1699	3	#*ch'	ch'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unassignable|Language=NO_ISO_CODE	SpaceAfter=No	_	_	_	_	_
-1699-4	PSB152	1699	4	#aggià	aggià	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-1699-5	PSB152	1699	5	#*fa'	fa'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unassignable|Language=NO_ISO_CODE	Truncated=Yes	End=3983.437	_	_	_	_
+1699-3	PSB152	1699	3	#*ch'	ch'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Unsure|Language=NO_ISO_CODE	SpaceAfter=No	_	_	_	_	_
+1699-4	PSB152	1699	4	#aggià	aggià	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+1699-5	PSB152	1699	5	#*fa'	fa'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Unsure|Language=NO_ISO_CODE	Truncated=Yes	End=3983.437	_	_	_	_
 1701-0	PSB151	1701	0	eh	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=3984.279	_	_	_	_
 1701-1	PSB151	1701	1	sì	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1701-2	PSB151	1701	2	se	se	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -12982,7 +12982,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 2153-0	PSB152	2153	0	quello	quello	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	Begin=5103.516	_	_	_	_
 2153-1	PSB152	2153	1	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 2153-2	PSB152	2153	2	cazzi	cazzi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-2153-3	PSB152	2153	3	#tui	tui	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=5104.399	_	_	_	_
+2153-3	PSB152	2153	3	#tui	tui	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=5104.399	_	_	_	_
 2155-0	PSB151	2155	0	appunto	appunto	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=5104.842|End=5105.443	_	_	_	_
 2156-0	PSB152	2156	0	se	se	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=5106.306	_	_	_	_
 2156-1	PSB152	2156	1	vuoi:	vuoi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	3x1	_	_	_
@@ -14024,7 +14024,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 2313-2	PSB152	2313	2	libri	libri	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	PauseAfter=Yes	_	_	_	_	_
 2313-3	PSB152	2313	3	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=Yes	_	_	_	_	_	_
 2313-4	PSB152	2313	4	[il]	il	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	0-2(68)
-2313-5	PSB152	2313	5	#kuraāna	kuraāna	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+2313-5	PSB152	2313	5	#kuraāna	kuraāna	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 2313-6	PSB152	2313	6	[non	non	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	0-3(69)
 2313-7	PSB152	2313	7	ha]	ha	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	0-2(69)
 2313-8	PSB152	2313	8	cambiato	cambiato	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
@@ -14071,7 +14071,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 2323-3	PSB152	2323	3	errori	errori	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	PauseAfter=Yes	_	_	_	_	_
 2323-4	PSB152	2323	4	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=Yes	_	_	_	_	_	_
 2323-5	PSB152	2323	5	nel	nel	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-2323-6	PSB152	2323	6	#kuraāna	kuraāna	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+2323-6	PSB152	2323	6	#kuraāna	kuraāna	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 2323-7	PSB152	2323	7	ti	ti	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 2323-8	PSB152	2323	8	posso	posso	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 2323-9	PSB152	2323	9	dire	dire	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	End=5517.8	_	_	_	_
@@ -14088,7 +14088,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 2326-0	PSB152	2326	0	non	non	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	Begin=5522.98	_	_	_	_
 2326-1	PSB152	2326	1	esiste	esiste	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 2326-2	PSB152	2326	2	nel	nel	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-2326-3	PSB152	2326	3	#kuraāna	kuraāna	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=5524.67	_	_	_	_
+2326-3	PSB152	2326	3	#kuraāna	kuraāna	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=5524.67	_	_	_	_
 2328-0	PSB151	2328	0	mh	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=5524.84|End=5525.3	_	_	_	_
 2329-0	PSB152	2329	0	pure	pure	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=5526.22	_	_	_	_
 2329-1	PSB152	2329	1	an~	an~	_	_	_	_	_	linguistic	_	ContainsVariation=No	Interrupted=Yes|PauseAfter=Yes	_	_	_	_	_
@@ -14152,12 +14152,12 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 2338-2	PSB152	2338	2	e	e	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 2338-3	PSB152	2338	3	quello	quello	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 2338-4	PSB152	2338	4	di	di	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-2338-5	PSB152	2338	5	#kuraāna	kuraāna	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	PauseAfter=Yes	_	_	_	_	_
+2338-5	PSB152	2338	5	#kuraāna	kuraāna	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	PauseAfter=Yes	_	_	_	_	_
 2338-6	PSB152	2338	6	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=Yes	_	_	_	_	_	_
 2338-7	PSB152	2338	7	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 2338-8	PSB152	2338	8	scritto	scritto	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 2338-9	PSB152	2338	9	lingua	lingua	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-2338-10	PSB152	2338	10	#kuraāna	kuraāna	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=5559.97	_	_	_	_
+2338-10	PSB152	2338	10	#kuraāna	kuraāna	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=5559.97	_	_	_	_
 2340-0	PSB152	2340	0	poi	poi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=5560.75	_	_	_	_
 2340-1	PSB152	2340	1	mano	mano	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 2340-2	PSB152	2340	2	mano	mano	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -14250,7 +14250,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 2357-4	PSB152	2357	4	leggere	leggere	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 2357-5	PSB152	2357	5	lingua	lingua	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 2357-6	PSB152	2357	6	co~	co~	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	Interrupted=Yes	_	_	_	_	_
-2357-7	PSB152	2357	7	#kuraāna	kuraāna	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=5609.7	_	_	_	_
+2357-7	PSB152	2357	7	#kuraāna	kuraāna	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=5609.7	_	_	_	_
 2359-0	PSB152	2359	0	e	e	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=5611.15	_	_	_	_
 2359-1	PSB152	2359	1	se	se	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 2359-2	PSB152	2359	2	vai	vai	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -14341,7 +14341,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 2373-2	PSB152	2373	2	italia	italia	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 2373-3	PSB152	2373	3	tiene	tiene	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 2373-4	PSB152	2373	4	quello	quello	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-2373-5	PSB152	2373	5	#kuraāna	kuraāna	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+2373-5	PSB152	2373	5	#kuraāna	kuraāna	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 2373-6	PSB152	2373	6	mille	mille	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 2373-7	PSB152	2373	7	anni	anni	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 2373-8	PSB152	2373	8	fa	fa	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	End=5646.66	_	_	_	_
@@ -14631,7 +14631,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 2422-2	PSB151	2422	2	lo	lo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	0-2(92)
 2422-3	PSB151	2422	3	stesso	stesso	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	PauseAfter=Yes	_	_	_	_	0-6(92)
 2422-4	PSB151	2422	4	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=Yes	_	_	_	_	_	X(92)
-2422-5	PSB151	2422	5	#sin]e	sine	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-4(92)
+2422-5	PSB151	2422	5	#sin]e	sine	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-4(92)
 2422-6	PSB151	2422	6	che	che	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 2422-7	PSB151	2422	7	lo	lo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 2422-8	PSB151	2422	8	capisco	capisco	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
@@ -15885,7 +15885,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 2646-11	PSB151	2646	11	si	si	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 2646-12	PSB151	2646	12	chiama?	chiama	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising	End=6305.882	_	_	_	_
 2647-0	PSB151	2647	0	il	il	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	Begin=6306.128	_	_	_	_
-2647-1	PSB151	2647	1	#tahal	tahal	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=6306.794	_	_	_	_
+2647-1	PSB151	2647	1	#tahal	tahal	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=6306.794	_	_	_	_
 2648-0	PSB151	2648	0	di	di	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=6307.679	_	_	_	_
 2648-1	PSB151	2648	1	lenticchie	lenticchie	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=6308.747	_	_	_	_
 2649-0	PSB152	2649	0	lenticchie	lenticchie	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=6309.179|End=6309.84	_	_	_	_
@@ -15939,7 +15939,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 2658-10	PSB151	2658	10	pi[ace]	piace	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=6326.789	_	_	_	2-5(163)
 2659-0	PSB152	2659	0	[non]	non	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	Begin=6326.602	_	_	_	0-3(163)
 2659-1	PSB152	2659	1	mangio	mangio	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-2659-2	PSB152	2659	2	#spicy	spicy	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+2659-2	PSB152	2659	2	#spicy	spicy	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 2659-3	PSB152	2659	3	piccante	piccante	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	End=6328.518	_	_	_	_
 2661-0	PSB151	2661	0	a:h	ah	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	Begin=6328.857	0x1	_	_	_
 2661-1	PSB151	2661	1	eh	eh	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
@@ -15948,13 +15948,13 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 2661-4	PSB151	2661	4	lì	lì	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 2661-5	PSB151	2661	5	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 2661-6	PSB151	2661	6	bello	bello	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-2661-7	PSB151	2661	7	#spicy	spicy	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=6331.662	_	_	_	_
+2661-7	PSB151	2661	7	#spicy	spicy	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=6331.662	_	_	_	_
 2663-0	PSB151	2663	0	cioè	cioè	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	Begin=6331.763	_	_	_	_
 2663-1	PSB151	2663	1	come	come	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 2663-2	PSB151	2663	2	tu	tu	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 2663-3	PSB151	2663	3	non	non	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 2663-4	PSB151	2663	4	mangi	mangi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-2663-5	PSB151	2663	5	#spicy?	spicy	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	Intonation=Rising	End=6332.967	_	_	_	_
+2663-5	PSB151	2663	5	#spicy?	spicy	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	Intonation=Rising	End=6332.967	_	_	_	_
 2665-0	PSB152	2665	0	°mangio°	mangio	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	Begin=6333.416|End=6334.204	_	_	_	_
 2666-0	PSB152	2666	0	°però	però	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	Begin=6335.043	_	_	_	_
 2666-1	PSB152	2666	1	non	non	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	_	_	_	_	_
@@ -16078,7 +16078,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 2682-1	PSB151	2682	1	metti	metti	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 2682-2	PSB151	2682	2	due	due	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 2682-3	PSB151	2682	3	ore?	ore	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising	End=6386.187	_	_	_	_
-2683-0	PSB152	2683	0	#_ yes	yes	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=6386.331|End=6386.78	_	_	_	_
+2683-0	PSB152	2683	0	#_ yes	yes	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=6386.331|End=6386.78	_	_	_	_
 2685-0	PSB151	2685	0	per	per	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=6390.679	_	_	_	_
 2685-1	PSB151	2685	1	andare	andare	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 2685-2	PSB151	2685	2	e	e	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_

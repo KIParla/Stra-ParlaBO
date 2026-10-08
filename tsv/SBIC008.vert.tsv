@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	PSB005	0	0	perché	perché	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=0.01	_	_	_	_
 0-1	PSB005	0	1	tu	tu	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 0-2	PSB005	0	2	c~	c~	_	_	_	_	_	linguistic	_	ContainsVariation=No	Interrupted=Yes	_	_	_	_	_
@@ -2168,14 +2168,14 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 406-4	PSB005	406	4	tu:	tu	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1015.796	1x1	_	_	_
 407-0	PSB038	407	0	va::	va	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1016.4	1x2	_	_	_
 407-1	PSB038	407	1	[bene]	bene	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1017.191	_	_	_	0-4(82)
-408-0	PSB037	408	0	#_ nǐ	nǐ	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=1016.69	_	_	_	_
-408-1	PSB037	408	1	zài	zài	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-408-2	PSB037	408	2	gēn	gēn	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-408-3	PSB037	408	3	tā	tā	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-408-4	PSB037	408	4	liáo	liáo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-408-5	PSB037	408	5	yi	yi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-408-6	PSB037	408	6	liáo	liáo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-408-7	PSB037	408	7	ba	ba	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=1018.23	_	_	_	_
+408-0	PSB037	408	0	#_ nǐ	nǐ	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=1016.69	_	_	_	_
+408-1	PSB037	408	1	zài	zài	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+408-2	PSB037	408	2	gēn	gēn	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+408-3	PSB037	408	3	tā	tā	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+408-4	PSB037	408	4	liáo	liáo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+408-5	PSB037	408	5	yi	yi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+408-6	PSB037	408	6	liáo	liáo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+408-7	PSB037	408	7	ba	ba	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=1018.23	_	_	_	_
 410-0	PSB005	410	0	facciamo	facciamo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1021.096	_	_	_	_
 410-1	PSB005	410	1	la	la	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 410-2	PSB005	410	2	seconda	seconda	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -3665,9 +3665,9 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 581-3	PSB038	581	3	cinese	cinese	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 581-4	PSB038	581	4	si	si	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 581-5	PSB038	581	5	dice	dice	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-581-6	PSB038	581	6	#xiǎo	xiǎo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-581-7	PSB038	581	7	#hóng	hóng	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-581-8	PSB038	581	8	#shū	shū	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=1630.76	_	_	_	_
+581-6	PSB038	581	6	#xiǎo	xiǎo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+581-7	PSB038	581	7	#hóng	hóng	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+581-8	PSB038	581	8	#shū	shū	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=1630.76	_	_	_	_
 582-0	PSB038	582	0	che	che	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1630.89	_	_	_	_
 582-1	PSB038	582	1	sarebbe:::	sarebbe	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	6x3	_	_	_
 582-2	PSB038	582	2	u~	u~	_	_	_	_	_	linguistic	_	ContainsVariation=No	Interrupted=Yes	_	_	_	_	_

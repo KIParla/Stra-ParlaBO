@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	PSB054	0	0	okay	okay	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1.08|End=1.7	_	_	_	_
 1-0	PSB054	1	0	allora	allora	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2.249|End=2.631	_	_	_	_
 2-0	PSB133	2	0	dimmi	dimmi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2.655|End=2.927	_	_	_	_
@@ -677,23 +677,23 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 89-2	PSB133	89	2	sera	sera	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 89-3	PSB133	89	3	eccetera	eccetera	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 89-4	PSB133	89	4	e::h	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=192.273	0x2	_	_	_
-90-0	PSB133	90	0	# quando	quando	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	Begin=192.605	_	_	_	_
-90-1	PSB133	90	1	tor~	tor~	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	Interrupted=Yes	_	_	_	_	_
-90-2	PSB133	90	2	lavoravo	lavoravo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-90-3	PSB133	90	3	un	un	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-90-4	PSB133	90	4	po'	po'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-90-5	PSB133	90	5	lontano	lontano	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-90-6	PSB133	90	6	tornavo	tornavo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-90-7	PSB133	90	7	a	a	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-90-8	PSB133	90	8	ca~	ca~	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	Interrupted=Yes	_	_	_	_	_
-90-9	PSB133	90	9	casa	casa	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-90-10	PSB133	90	10	facevo	facevo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-90-11	PSB133	90	11	anche	anche	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-90-12	PSB133	90	12	gli	gli	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-90-13	PSB133	90	13	#shift	shift	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-90-14	PSB133	90	14	di	di	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-90-15	PSB133	90	15	notte	notte	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-90-16	PSB133	90	16	tornavo:	tornavo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	End=197.129	6x1	_	_	_
+90-0	PSB133	90	0	# quando	quando	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	Begin=192.605	_	_	_	_
+90-1	PSB133	90	1	tor~	tor~	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	Interrupted=Yes	_	_	_	_	_
+90-2	PSB133	90	2	lavoravo	lavoravo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+90-3	PSB133	90	3	un	un	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+90-4	PSB133	90	4	po'	po'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+90-5	PSB133	90	5	lontano	lontano	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+90-6	PSB133	90	6	tornavo	tornavo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+90-7	PSB133	90	7	a	a	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+90-8	PSB133	90	8	ca~	ca~	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	Interrupted=Yes	_	_	_	_	_
+90-9	PSB133	90	9	casa	casa	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+90-10	PSB133	90	10	facevo	facevo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+90-11	PSB133	90	11	anche	anche	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+90-12	PSB133	90	12	gli	gli	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+90-13	PSB133	90	13	#shift	shift	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+90-14	PSB133	90	14	di	di	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+90-15	PSB133	90	15	notte	notte	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+90-16	PSB133	90	16	tornavo:	tornavo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	End=197.129	6x1	_	_	_
 92-0	PSB133	92	0	e:h	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=197.755	0x1	_	_	_
 92-1	PSB133	92	1	la	la	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 92-2	PSB133	92	2	sera	sera	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -1982,27 +1982,27 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 257-12	PSB133	257	12	c(io)è	cioè	_	_	_	_	_	linguistic	_	ContainsVariation=No	Reduced=Yes	_	_	_	_	_
 257-13	PSB133	257	13	per	per	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 257-14	PSB133	257	14	dire	dire	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=572.18	_	_	_	_
-258-0	PSB133	258	0	# la	la	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	Begin=572.9	_	_	_	_
-258-1	PSB133	258	1	salute	salute	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-258-2	PSB133	258	2	mentale	mentale	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-258-3	PSB133	258	3	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-258-4	PSB133	258	4	all'	all'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	SpaceAfter=No	_	_	_	_	_
-258-5	PSB133	258	5	orlo	orlo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-258-6	PSB133	258	6	e	e	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-258-7	PSB133	258	7	ci	ci	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-258-8	PSB133	258	8	sono	sono	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	PauseAfter=Yes	_	_	_	_	_
+258-0	PSB133	258	0	# la	la	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	Begin=572.9	_	_	_	_
+258-1	PSB133	258	1	salute	salute	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+258-2	PSB133	258	2	mentale	mentale	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+258-3	PSB133	258	3	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+258-4	PSB133	258	4	all'	all'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	SpaceAfter=No	_	_	_	_	_
+258-5	PSB133	258	5	orlo	orlo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+258-6	PSB133	258	6	e	e	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+258-7	PSB133	258	7	ci	ci	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+258-8	PSB133	258	8	sono	sono	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	PauseAfter=Yes	_	_	_	_	_
 258-9	PSB133	258	9	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=Yes	_	_	_	_	_	_
-258-10	PSB133	258	10	come	come	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-258-11	PSB133	258	11	dire	dire	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-258-12	PSB133	258	12	i	i	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-258-13	PSB133	258	13	#mass	mass	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-258-14	PSB133	258	14	#shooting	shooting	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-258-15	PSB133	258	15	lì	lì	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-258-16	PSB133	258	16	a	a	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-258-17	PSB133	258	17	scuola	scuola	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-258-18	PSB133	258	18	c(io)è	cioè	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	Reduced=Yes	_	_	_	_	_
-258-19	PSB133	258	19	per	per	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-258-20	PSB133	258	20	dirti	dirti	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	End=578.07	_	_	_	_
+258-10	PSB133	258	10	come	come	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+258-11	PSB133	258	11	dire	dire	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+258-12	PSB133	258	12	i	i	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+258-13	PSB133	258	13	#mass	mass	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+258-14	PSB133	258	14	#shooting	shooting	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+258-15	PSB133	258	15	lì	lì	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+258-16	PSB133	258	16	a	a	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+258-17	PSB133	258	17	scuola	scuola	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+258-18	PSB133	258	18	c(io)è	cioè	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	Reduced=Yes	_	_	_	_	_
+258-19	PSB133	258	19	per	per	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+258-20	PSB133	258	20	dirti	dirti	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	End=578.07	_	_	_	_
 259-0	PSB054	259	0	sì	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=578.19	_	_	_	_
 259-1	PSB054	259	1	sì	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 259-2	PSB054	259	2	[sì]	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=578.95	_	_	_	0-2(98)
@@ -6647,21 +6647,21 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 974-15	PSB133	974	15	già	già	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1949.51	_	_	_	_
 975-0	PSB135	975	0	[xxx]	xxx	_	_	_	_	_	unknown	_	ContainsVariation=No	Syllables=3	Begin=1945.98|End=1948.23	_	_	_	0-3(347)
 976-0	PSB054	976	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=1948.45|End=1949.51	_	_	_	_
-977-0	PSB133	977	0	# sì	sì	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	Begin=1950.08	_	_	_	_
-977-1	PSB133	977	1	è:	è	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	0x1	_	_	_
-977-2	PSB133	977	2	e:h	eh	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	0x1	_	_	_
-977-3	PSB133	977	3	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-977-4	PSB133	977	4	molto	molto	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-977-5	PSB133	977	5	anche	anche	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-977-6	PSB133	977	6	come	come	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-977-7	PSB133	977	7	#black	black	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-977-8	PSB133	977	8	#hum[or	humor	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	4-6(348)
-977-9	PSB133	977	9	politicamen]te	politicamente	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	0-11(348)
-977-10	PSB133	977	10	scorretto	scorretto	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-977-11	PSB133	977	11	quindi	quindi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-977-12	PSB133	977	12	c'	c'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	SpaceAfter=No	_	_	_	_	_
-977-13	PSB133	977	13	ha	ha	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-977-14	PSB133	977	14	delle	delle	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	End=1956.21	_	_	_	_
+977-0	PSB133	977	0	# sì	sì	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	Begin=1950.08	_	_	_	_
+977-1	PSB133	977	1	è:	è	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	0x1	_	_	_
+977-2	PSB133	977	2	e:h	eh	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	0x1	_	_	_
+977-3	PSB133	977	3	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+977-4	PSB133	977	4	molto	molto	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+977-5	PSB133	977	5	anche	anche	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+977-6	PSB133	977	6	come	come	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+977-7	PSB133	977	7	#black	black	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+977-8	PSB133	977	8	#hum[or	humor	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	4-6(348)
+977-9	PSB133	977	9	politicamen]te	politicamente	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	0-11(348)
+977-10	PSB133	977	10	scorretto	scorretto	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+977-11	PSB133	977	11	quindi	quindi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+977-12	PSB133	977	12	c'	c'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	SpaceAfter=No	_	_	_	_	_
+977-13	PSB133	977	13	ha	ha	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+977-14	PSB133	977	14	delle	delle	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	End=1956.21	_	_	_	_
 978-0	PSB054	978	0	[okay]	okay	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1953.34|End=1954.11	_	_	_	0-4(348)
 979-0	PSB135	979	0	[gli	gli	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1954.97	_	_	_	0-3(349)
 979-1	PSB135	979	1	piace	piace	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-5(349)
@@ -10077,13 +10077,13 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1418-3	PSB133	1418	3	bologna	bologna	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1418-4	PSB133	1418	4	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1418-5	PSB133	1418	5	[dif~]	dif~	_	_	_	_	_	linguistic	_	ContainsVariation=No	Interrupted=Yes	End=2811.573	_	_	_	0-4(541)
-1419-0	PSB135	1419	0	[#strong	strong	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=2810.809	_	_	_	0-7(541)
-1419-1	PSB135	1419	1	#believer]	believer	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-9(541)
+1419-0	PSB135	1419	0	[#strong	strong	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=2810.809	_	_	_	0-7(541)
+1419-1	PSB135	1419	1	#believer]	believer	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-9(541)
 1419-2	PSB135	1419	2	qual	qual	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 1419-3	PSB135	1419	3	è?	è	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	Intonation=Rising	End=2812.011	_	_	_	_
 1420-0	PSB133	1420	0	eh?	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising	Begin=2812.011|End=2812.6	_	_	_	_
-1421-0	PSB135	1421	0	#strong	strong	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=2812.6	_	_	_	_
-1421-1	PSB135	1421	1	#believer	believer	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+1421-0	PSB135	1421	0	#strong	strong	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=2812.6	_	_	_	_
+1421-1	PSB135	1421	1	#believer	believer	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 1421-2	PSB135	1421	2	xx	xx	_	_	_	_	_	unknown	_	ContainsVariation=Yes	Syllables=2	End=2813.528	_	_	_	_
 1422-0	PSB133	1422	0	no	no	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2813.528	_	_	_	_
 1422-1	PSB133	1422	1	allora	allora	_	_	_	_	_	linguistic	_	ContainsVariation=No	PauseAfter=Yes	_	_	_	_	_
@@ -12186,8 +12186,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1674-2	PSB133	1674	2	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 1674-3	PSB133	1674	3	una	una	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 1674-4	PSB133	1674	4	certa	certa	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-1674-5	PSB133	1674	5	#black	black	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-1674-6	PSB133	1674	6	#humor	humor	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+1674-5	PSB133	1674	5	#black	black	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+1674-6	PSB133	1674	6	#humor	humor	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 1674-7	PSB133	1674	7	[ma	ma	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	PauseAfter=Yes	_	_	_	_	0-2(647)
 1674-8	PSB133	1674	8	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=Yes	_	_	_	_	_	X(647)
 1674-9	PSB133	1674	9	perché	perché	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	0-6(647)
@@ -12487,78 +12487,78 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1709-0	PSB133	1709	0	sì	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=3479.202	_	_	_	_
 1709-1	PSB133	1709	1	ha	ha	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1709-2	PSB133	1709	2	bisogno?	bisogno	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising	End=3480.247	_	_	_	_
-1710-0	???	1710	0	#_ (e:h	eh	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=3480.393	0x1	_	_	_
-1710-1	???	1710	1	where	where	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-1710-2	???	1710	2	reading	reading	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-1710-3	???	1710	3	xx?)	xx	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	Intonation=Rising	End=3482.798	_	_	_	_
-1712-0	PSB133	1712	0	#_ eh	eh	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=3482.977	_	_	_	_
-1712-1	PSB133	1712	1	what?	what	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	Intonation=Rising	End=3483.606	_	_	_	_
+1710-0	???	1710	0	#_ (e:h	eh	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=3480.393	0x1	_	_	_
+1710-1	???	1710	1	where	where	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+1710-2	???	1710	2	reading	reading	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+1710-3	???	1710	3	xx?)	xx	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	Intonation=Rising	End=3482.798	_	_	_	_
+1712-0	PSB133	1712	0	#_ eh	eh	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=3482.977	_	_	_	_
+1712-1	PSB133	1712	1	what?	what	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	Intonation=Rising	End=3483.606	_	_	_	_
 1713-0	PSB134	1713	0	eh	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=3482.977	_	_	_	_
 1713-1	PSB134	1713	1	cosa?	cosa	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising	End=3483.606	_	_	_	_
-1714-0	???	1714	0	#_ reading	reading	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=3483.606	_	_	_	_
-1714-1	???	1714	1	there?	there	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	Intonation=Rising	End=3484.372	_	_	_	_
-1716-0	PSB133	1716	0	#_ reading?	reading	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	Intonation=Rising	Begin=3484.606	_	_	_	_
-1716-1	PSB133	1716	1	if	if	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-1716-2	PSB133	1716	2	you	you	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-1716-3	PSB133	1716	3	want	want	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-1716-4	PSB133	1716	4	you	you	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-1716-5	PSB133	1716	5	can	can	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-1716-6	PSB133	1716	6	sit	sit	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-1716-7	PSB133	1716	7	there	there	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-1716-8	PSB133	1716	8	if	if	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-1716-9	PSB133	1716	9	you	you	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-1716-10	PSB133	1716	10	want	want	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-1716-11	PSB133	1716	11	to	to	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-1716-12	PSB133	1716	12	[read]	read	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=3487.96	_	_	_	0-4(?)
-1717-0	PSB134	1717	0	#_ leggere?	leggere	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	Intonation=Rising	Begin=3484.606	_	_	_	_
-1717-1	PSB134	1717	1	se	se	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-1717-2	PSB134	1717	2	vuoi	vuoi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-1717-3	PSB134	1717	3	puoi	puoi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-1717-4	PSB134	1717	4	sederti	sederti	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-1717-5	PSB134	1717	5	lì	lì	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-1717-6	PSB134	1717	6	se	se	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-1717-7	PSB134	1717	7	vuoi	vuoi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-1717-8	PSB134	1717	8	leggere	leggere	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=3487.505	_	_	_	_
-1718-0	???	1718	0	#_ [no]	no	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=3487.505	_	_	_	0-2(662)
-1718-1	???	1718	1	i	i	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-1718-2	???	1718	2	am	am	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-1718-3	???	1718	3	searching	searching	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-1718-4	???	1718	4	for	for	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-1718-5	???	1718	5	a	a	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-1718-6	???	1718	6	place	place	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+1714-0	???	1714	0	#_ reading	reading	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=3483.606	_	_	_	_
+1714-1	???	1714	1	there?	there	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	Intonation=Rising	End=3484.372	_	_	_	_
+1716-0	PSB133	1716	0	#_ reading?	reading	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	Intonation=Rising	Begin=3484.606	_	_	_	_
+1716-1	PSB133	1716	1	if	if	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+1716-2	PSB133	1716	2	you	you	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+1716-3	PSB133	1716	3	want	want	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+1716-4	PSB133	1716	4	you	you	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+1716-5	PSB133	1716	5	can	can	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+1716-6	PSB133	1716	6	sit	sit	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+1716-7	PSB133	1716	7	there	there	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+1716-8	PSB133	1716	8	if	if	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+1716-9	PSB133	1716	9	you	you	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+1716-10	PSB133	1716	10	want	want	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+1716-11	PSB133	1716	11	to	to	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+1716-12	PSB133	1716	12	[read]	read	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=3487.96	_	_	_	0-4(?)
+1717-0	PSB134	1717	0	#_ leggere?	leggere	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	Intonation=Rising	Begin=3484.606	_	_	_	_
+1717-1	PSB134	1717	1	se	se	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+1717-2	PSB134	1717	2	vuoi	vuoi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+1717-3	PSB134	1717	3	puoi	puoi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+1717-4	PSB134	1717	4	sederti	sederti	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+1717-5	PSB134	1717	5	lì	lì	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+1717-6	PSB134	1717	6	se	se	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+1717-7	PSB134	1717	7	vuoi	vuoi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+1717-8	PSB134	1717	8	leggere	leggere	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=3487.505	_	_	_	_
+1718-0	???	1718	0	#_ [no]	no	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=3487.505	_	_	_	0-2(662)
+1718-1	???	1718	1	i	i	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+1718-2	???	1718	2	am	am	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+1718-3	???	1718	3	searching	searching	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+1718-4	???	1718	4	for	for	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+1718-5	???	1718	5	a	a	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+1718-6	???	1718	6	place	place	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 1718-7	???	1718	7	xx	xx	_	_	_	_	_	unknown	_	ContainsVariation=Yes	Syllables=2	End=3489.797	_	_	_	_
-1720-0	PSB133	1720	0	#_ ah	ah	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=3489.797	_	_	_	_
-1720-1	PSB133	1720	1	e:h	eh	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	0x1	_	_	_
-1720-2	PSB133	1720	2	i	i	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-1720-3	PSB133	1720	3	don'	don'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	SpaceAfter=No	_	_	_	_	_
-1720-4	PSB133	1720	4	t	t	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-1720-5	PSB133	1720	5	know	know	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-1720-6	PSB133	1720	6	e:h	eh	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	0x1	_	_	_
-1720-7	PSB133	1720	7	you	you	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-1720-8	PSB133	1720	8	can	can	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-1720-9	PSB133	1720	9	w~	w~	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	Interrupted=Yes	_	_	_	_	_
-1720-10	PSB133	1720	10	see	see	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-1720-11	PSB133	1720	11	if	if	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-1720-12	PSB133	1720	12	there	there	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-1720-13	PSB133	1720	13	i~	i~	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	Interrupted=Yes	_	_	_	_	_
-1720-14	PSB133	1720	14	it'	it'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	SpaceAfter=No	_	_	_	_	_
-1720-15	PSB133	1720	15	s	s	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-1720-16	PSB133	1720	16	here	here	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-1720-17	PSB133	1720	17	i	i	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-1720-18	PSB133	1720	18	don'	don'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	SpaceAfter=No	_	_	_	_	_
-1720-19	PSB133	1720	19	t	t	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-1720-20	PSB133	1720	20	know	know	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=3495.011	_	_	_	_
-1722-0	???	1722	0	#_ [ah	ah	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=3496.977	_	_	_	0-2(663)
+1720-0	PSB133	1720	0	#_ ah	ah	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=3489.797	_	_	_	_
+1720-1	PSB133	1720	1	e:h	eh	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	0x1	_	_	_
+1720-2	PSB133	1720	2	i	i	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+1720-3	PSB133	1720	3	don'	don'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	SpaceAfter=No	_	_	_	_	_
+1720-4	PSB133	1720	4	t	t	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+1720-5	PSB133	1720	5	know	know	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+1720-6	PSB133	1720	6	e:h	eh	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	0x1	_	_	_
+1720-7	PSB133	1720	7	you	you	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+1720-8	PSB133	1720	8	can	can	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+1720-9	PSB133	1720	9	w~	w~	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	Interrupted=Yes	_	_	_	_	_
+1720-10	PSB133	1720	10	see	see	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+1720-11	PSB133	1720	11	if	if	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+1720-12	PSB133	1720	12	there	there	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+1720-13	PSB133	1720	13	i~	i~	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	Interrupted=Yes	_	_	_	_	_
+1720-14	PSB133	1720	14	it'	it'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	SpaceAfter=No	_	_	_	_	_
+1720-15	PSB133	1720	15	s	s	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+1720-16	PSB133	1720	16	here	here	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+1720-17	PSB133	1720	17	i	i	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+1720-18	PSB133	1720	18	don'	don'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	SpaceAfter=No	_	_	_	_	_
+1720-19	PSB133	1720	19	t	t	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+1720-20	PSB133	1720	20	know	know	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=3495.011	_	_	_	_
+1722-0	???	1722	0	#_ [ah	ah	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=3496.977	_	_	_	0-2(663)
 1722-1	???	1722	1	xx	xx	_	_	_	_	_	unknown	_	ContainsVariation=Yes	Syllables=2	_	_	_	_	0-2(663)
-1722-2	???	1722	2	thank]	thank	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-5(663)
-1722-3	???	1722	3	you	you	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=3498.005	_	_	_	_
+1722-2	???	1722	2	thank]	thank	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-5(663)
+1722-3	???	1722	3	you	you	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=3498.005	_	_	_	_
 1724-0	PSB133	1724	0	[°io	io	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	Begin=3497.011	_	_	_	0-2(663)
 1724-1	PSB133	1724	1	non	non	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	_	_	_	_	0-3(663)
 1724-2	PSB133	1724	2	lo	lo	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	_	_	_	_	0-2(663)
 1724-3	PSB133	1724	3	so°]	so	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	End=3497.781	_	_	_	0-2(663)
 1725-0	PSB054	1725	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=3498.0|End=3498.559	_	_	_	_
-1726-0	PSB133	1726	0	#_ ah	ah	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=3498.005	_	_	_	_
-1726-1	PSB133	1726	1	welcome	welcome	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=3498.786	_	_	_	_
+1726-0	PSB133	1726	0	#_ ah	ah	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=3498.005	_	_	_	_
+1726-1	PSB133	1726	1	welcome	welcome	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=3498.786	_	_	_	_
 1728-0	PSB133	1728	0	e:hm	ehm	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=3500.191|End=3501.213	0x1	_	_	_
 1729-0	PSB133	1729	0	cos'	cos'	_	_	_	_	_	linguistic	_	ContainsVariation=No	SpaceAfter=No	Begin=3502.0	_	_	_	_
 1729-1	PSB133	1729	1	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -15090,12 +15090,12 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 2013-1	PSB133	2013	1	fa	fa	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 2013-2	PSB133	2013	2	le	le	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 2013-3	PSB133	2013	3	e:h	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=4146.202	0x1	_	_	_
-2014-0	PSB133	2014	0	# #human	human	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=4146.617	_	_	_	_
-2014-1	PSB133	2014	1	#trafficking	trafficking	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-2014-2	PSB133	2014	2	non	non	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-2014-3	PSB133	2014	3	so	so	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-2014-4	PSB133	2014	4	come	come	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-2014-5	PSB133	2014	5	dire	dire	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	End=4148.606	_	_	_	_
+2014-0	PSB133	2014	0	# #human	human	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=4146.617	_	_	_	_
+2014-1	PSB133	2014	1	#trafficking	trafficking	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+2014-2	PSB133	2014	2	non	non	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+2014-3	PSB133	2014	3	so	so	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+2014-4	PSB133	2014	4	come	come	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+2014-5	PSB133	2014	5	dire	dire	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	End=4148.606	_	_	_	_
 2015-0	PSB135	2015	0	ma	ma	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=4148.627	_	_	_	_
 2015-1	PSB135	2015	1	quello	quello	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 2015-2	PSB135	2015	2	dicono	dicono	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -16812,8 +16812,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 2220-0	PSB135	2220	0	secondo	secondo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	Begin=4601.022	_	_	_	_
 2220-1	PSB135	2220	1	me	me	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 2220-2	PSB135	2220	2	una	una	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-2220-3	PSB135	2220	3	#strong	strong	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-2220-4	PSB135	2220	4	#believer	believer	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+2220-3	PSB135	2220	3	#strong	strong	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+2220-4	PSB135	2220	4	#believer	believer	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 2220-5	PSB135	2220	5	n~	n~	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	Interrupted=Yes|PauseAfter=Yes	_	_	_	_	_
 2220-6	PSB135	2220	6	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=Yes	_	_	_	_	_	_
 2220-7	PSB135	2220	7	al	al	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_

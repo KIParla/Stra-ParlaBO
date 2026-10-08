@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	PSB005	0	0	okay	okay	_	_	_	_	_	linguistic	_	ContainsVariation=No	PauseAfter=Yes	Begin=0.52	_	_	_	_
 0-1	PSB005	0	1	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	_	_	_
 0-2	PSB005	0	2	sono	sono	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -4838,7 +4838,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 808-0	PSB021	808	0	serviva	serviva	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	Begin=1647.53	_	_	_	_
 808-1	PSB021	808	1	per	per	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 808-2	PSB021	808	2	mettere	mettere	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-808-3	PSB021	808	3	#visa	visa	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+808-3	PSB021	808	3	#visa	visa	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 808-4	PSB021	808	4	al	al	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 808-5	PSB021	808	5	passapo[rto:]	passaporto	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	9x1	_	_	7-10(195)
 808-6	PSB021	808	6	quindi	quindi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
@@ -6645,7 +6645,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1111-15	PSB021	1111	15	esiste	esiste	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 1111-16	PSB021	1111	16	si	si	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 1111-17	PSB021	1111	17	[dice]	dice	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	0-4(261)
-1111-18	PSB021	1111	18	#xx	xx	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=2243.68	_	_	_	_
+1111-18	PSB021	1111	18	#xx	xx	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=2243.68	_	_	_	_
 1112-0	PSB005	1112	0	[mh]	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2242.49|End=2242.8	_	_	_	0-2(261)
 1113-0	PSB005	1113	0	okay	okay	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2244.19|End=2244.55	_	_	_	_
 1114-0	PSB021	1114	0	e	e	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2244.58	_	_	_	_
@@ -6793,7 +6793,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1140-4	PSB021	1140	4	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 1140-5	PSB021	1140	5	si	si	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 1140-6	PSB021	1140	6	chiama	chiama	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-1140-7	PSB021	1140	7	#biriani	biriani	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=2294.23	_	_	_	_
+1140-7	PSB021	1140	7	#biriani	biriani	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=2294.23	_	_	_	_
 1141-0	PSB021	1141	0	è:	è	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2294.71	0x1	_	_	_
 1141-1	PSB021	1141	1	tipo	tipo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1141-2	PSB021	1141	2	ci~	ci~	_	_	_	_	_	linguistic	_	ContainsVariation=No	Interrupted=Yes	_	_	_	_	_
@@ -6815,7 +6815,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1145-1	PSB021	1145	1	c'	c'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	SpaceAfter=No	_	_	_	_	_
 1145-2	PSB021	1145	2	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 1145-3	PSB021	1145	3	il	il	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-1145-4	PSB021	1145	4	#saffron	saffron	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+1145-4	PSB021	1145	4	#saffron	saffron	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 1145-5	PSB021	1145	5	come	come	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 1145-6	PSB021	1145	6	spezia	spezia	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	End=2302.96	_	_	_	_
 1146-0	PSB005	1146	0	cioè	cioè	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2302.96	_	_	_	_
@@ -6849,7 +6849,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1153-4	PSB021	1153	4	hai	hai	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1153-5	PSB021	1153	5	(dato	dato	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	0-4(0)	_
 1153-6	PSB021	1153	6	subi~)	subi~	_	_	_	_	_	linguistic	_	ContainsVariation=No	Interrupted=Yes	End=2312.94	_	_	0-5(0)	_
-1154-0	PSB021	1154	0	#(mishdti)	mishdti	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=2312.97|End=2313.57	_	_	1-8(0)	_
+1154-0	PSB021	1154	0	#(mishdti)	mishdti	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=2312.97|End=2313.57	_	_	1-8(0)	_
 1155-0	PSB021	1155	0	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2315.11	_	_	_	_
 1155-1	PSB021	1155	1	tipo	tipo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1155-2	PSB021	1155	2	piccolo	piccolo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -8069,9 +8069,9 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1374-5	PSB021	1374	5	sto	sto	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 1374-6	PSB021	1374	6	ancora:	ancora	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	5x1	_	_	_
 1374-7	PSB021	1374	7	studiando	studiando	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-1374-8	PSB021	1374	8	#present	present	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+1374-8	PSB021	1374	8	#present	present	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 1374-9	PSB021	1374	9	continuos	continuos	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	End=2715.51	_	_	_	_
-1375-0	PSB021	1375	0	#future	future	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=2715.55	_	_	_	_
+1375-0	PSB021	1375	0	#future	future	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=2715.55	_	_	_	_
 1375-1	PSB021	1375	1	[e:h]	eh	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	End=2716.37	0x1	_	_	0-2(343)
 1376-0	PSB005	1376	0	[ma]	ma	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2716.12	_	_	_	0-2(343)
 1376-1	PSB005	1376	1	perché	perché	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_

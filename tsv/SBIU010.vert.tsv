@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	PSB005	0	0	così	così	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=0.44	_	_	_	_
 0-1	PSB005	0	1	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 0-2	PSB005	0	2	sufficiente	sufficiente	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1.759	_	_	_	_
@@ -4189,9 +4189,9 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 735-7	PSB070	735	7	parlare	parlare	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 735-8	PSB070	735	8	in	in	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 735-9	PSB070	735	9	spagnolo	spagnolo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=2019.606	_	_	_	_
-736-0	PSB070	736	0	#_ nada	nada	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=2021.213	_	_	_	_
-736-1	PSB070	736	1	de	de	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-736-2	PSB070	736	2	nada	nada	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=2022.192	_	_	_	_
+736-0	PSB070	736	0	#_ nada	nada	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=2021.213	_	_	_	_
+736-1	PSB070	736	1	de	de	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+736-2	PSB070	736	2	nada	nada	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=2022.192	_	_	_	_
 738-0	PSB005	738	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=2022.202	_	_	_	_
 738-1	PSB005	738	1	certo	certo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=2023.394	_	_	_	_
 739-0	PSB005	739	0	no	no	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2023.723	_	_	_	_

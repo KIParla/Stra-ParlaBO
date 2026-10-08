@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	PSB084	0	0	eh	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1.993	_	_	_	_
 0-1	PSB084	0	1	e:h	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=2.8	0x1	_	_	_
 1-0	PSB083	1	0	praticamente	praticamente	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=6.51	_	_	_	_
@@ -131,11 +131,11 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 33-1	PSB084	33	1	fredda	fredda	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=73.59	_	_	_	_
 34-0	PSB083	34	0	mangiamo	mangiamo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=74.9|End=75.73	_	_	_	_
 35-0	PSB084	35	0	mh	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=76.19|End=76.65	_	_	_	_
-36-0	PSB084	36	0	#ʕand-ək	ʕand-ək	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=81.1	_	_	_	_
-36-1	PSB084	36	1	#twassəx	twassəx	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-36-2	PSB084	36	2	#sirwāl-ək	sirwāl-ək	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-36-3	PSB084	36	3	#b-l	b-l	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-36-4	PSB084	36	4	#b~	b~	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	Interrupted=Yes	_	_	_	_	_
+36-0	PSB084	36	0	#ʕand-ək	ʕand-ək	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=81.1	_	_	_	_
+36-1	PSB084	36	1	#twassəx	twassəx	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+36-2	PSB084	36	2	#sirwāl-ək	sirwāl-ək	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+36-3	PSB084	36	3	#b-l	b-l	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+36-4	PSB084	36	4	#b~	b~	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	Interrupted=Yes	_	_	_	_	_
 36-5	PSB084	36	5	sugo	sugo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	End=84.46	_	_	_	_
 38-0	PSB084	38	0	gli	gli	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=84.8	_	_	_	_
 38-1	PSB084	38	1	ho	ho	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -1902,7 +1902,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 402-9	PSB084	402	9	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 402-10	PSB084	402	10	quel	quel	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 402-11	PSB084	402	11	lavoro	lavoro	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-402-12	PSB084	402	12	#lé	lé	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=835.77	_	_	_	_
+402-12	PSB084	402	12	#lé	lé	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=835.77	_	_	_	_
 403-0	PSB083	403	0	stan	stan	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=836.53	_	_	_	_
 403-1	PSB083	403	1	chiamando?	chiamando	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising	End=837.51	_	_	_	_
 404-0	PSB084	404	0	no	no	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=838.18	_	_	_	_
@@ -2519,9 +2519,9 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 516-8	PSB084	516	8	marocchini:	marocchini	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1108.46	9x1	_	_	_
 517-0	PSB083	517	0	proprio	proprio	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	Begin=1108.74	_	_	_	_
 517-1	PSB083	517	1	da	da	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-517-2	PSB083	517	2	#hammam	hammam	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+517-2	PSB083	517	2	#hammam	hammam	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 517-3	PSB083	517	3	proprio	proprio	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-517-4	PSB083	517	4	[#hamman	hamman	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-7(132)
+517-4	PSB083	517	4	[#hamman	hamman	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-7(132)
 517-5	PSB083	517	5	ha	ha	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	0-2(132)
 517-6	PSB083	517	6	la	la	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	0-2(132)
 517-7	PSB083	517	7	spa]	spa	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	End=1111.93	_	_	_	0-3(132)
@@ -2537,10 +2537,10 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 519-0	PSB083	519	0	però	però	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	Begin=1114.71	_	_	_	_
 519-1	PSB083	519	1	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 519-2	PSB083	519	2	tipo	tipo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-519-3	PSB083	519	3	[#ḥammām]	ḥammām	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=1115.78	_	_	_	0-7(134)
+519-3	PSB083	519	3	[#ḥammām]	ḥammām	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=1115.78	_	_	_	0-7(134)
 520-0	PSB085	520	0	[xx]	xx	_	_	_	_	_	unknown	_	ContainsVariation=No	Syllables=2	Begin=1115.2|End=1115.79	_	_	_	0-2(134)
 521-0	PSB084	521	0	sì	sì	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	Begin=1116.94	_	_	_	_
-521-1	PSB084	521	1	#ḥammām	ḥammām	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+521-1	PSB084	521	1	#ḥammām	ḥammām	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 521-2	PSB084	521	2	da	da	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 521-3	PSB084	521	3	noi	noi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 521-4	PSB084	521	4	però	però	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
@@ -3240,15 +3240,15 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 650-5	PSB083	650	5	guerrouji	guerrouji	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 650-6	PSB083	650	6	di	di	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 650-7	PSB083	650	7	nome?	nome	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising	End=1390.22	_	_	_	_
-651-0	PSB084	651	0	#_ waḷḷāh	waḷḷāh	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=1391.26	_	_	_	_
-651-1	PSB084	651	1	ma-ʕqalt	ma-ʕqalt	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-651-2	PSB084	651	2	ma-bqā-sh	ma-bqā-sh	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-651-3	PSB084	651	3	ʕand-i	ʕand-i	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-651-4	PSB084	651	4	l-ʕqal	l-ʕqal	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=1393.23	_	_	_	_
-653-0	PSB084	653	0	#_ ma-ʕart	ma-ʕart	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=1395.61|End=1396.29	_	_	_	_
+651-0	PSB084	651	0	#_ waḷḷāh	waḷḷāh	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=1391.26	_	_	_	_
+651-1	PSB084	651	1	ma-ʕqalt	ma-ʕqalt	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+651-2	PSB084	651	2	ma-bqā-sh	ma-bqā-sh	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+651-3	PSB084	651	3	ʕand-i	ʕand-i	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+651-4	PSB084	651	4	l-ʕqal	l-ʕqal	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=1393.23	_	_	_	_
+653-0	PSB084	653	0	#_ ma-ʕart	ma-ʕart	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=1395.61|End=1396.29	_	_	_	_
 655-0	PSB083	655	0	non	non	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	Begin=1398.14	_	_	_	_
 655-1	PSB083	655	1	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-655-2	PSB083	655	2	#hmed?	hmed	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	Intonation=Rising	End=1399.26	_	_	_	_
+655-2	PSB083	655	2	#hmed?	hmed	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	Intonation=Rising	End=1399.26	_	_	_	_
 656-0	PSB084	656	0	no	no	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1399.94|End=1400.31	_	_	_	_
 657-0	PSB084	657	0	ah	ah	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1403.03	_	_	_	_
 657-1	PSB084	657	1	vai	vai	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -3583,9 +3583,9 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 725-2	PSB084	725	2	di	di	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 725-3	PSB084	725	3	jennifer	jennifer	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 725-4	PSB084	725	4	a~	a~	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	Interrupted=Yes	_	_	_	_	_
-725-5	PSB084	725	5	#l-uxra	l-uxra	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-725-6	PSB084	725	6	#lli	lli	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-725-7	PSB084	725	7	#dāyra-ha	dāyra-ha	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=1552.9	_	_	_	_
+725-5	PSB084	725	5	#l-uxra	l-uxra	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+725-6	PSB084	725	6	#lli	lli	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+725-7	PSB084	725	7	#dāyra-ha	dāyra-ha	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=1552.9	_	_	_	_
 727-0	PSB083	727	0	la	la	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1553.19	_	_	_	_
 727-1	PSB083	727	1	gi	gi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 727-2	PSB083	727	2	di	di	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -3593,7 +3593,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 728-0	PSB085	728	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=1553.34|End=1553.99	_	_	_	_
 729-0	PSB084	729	0	e::h	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1554.43|End=1555.06	0x2	_	_	_
 730-0	PSB084	730	0	no::	no	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1555.61|End=1556.44	1x2	_	_	_
-731-0	PSB084	731	0	#xxx	xxx	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=1557.25	_	_	_	_
+731-0	PSB084	731	0	#xxx	xxx	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=1557.25	_	_	_	_
 731-1	PSB084	731	1	qua	qua	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	End=1559.27	_	_	_	_
 732-0	PSB084	732	0	guerrouji	guerrouji	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1561.29|End=1562.24	_	_	_	_
 733-0	PSB083	733	0	ghe	ghe	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1563.8	_	_	_	_
@@ -3742,7 +3742,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 770-1	PSB083	770	1	forte	forte	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 770-2	PSB083	770	2	eh	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1664.89	_	_	_	_
 771-0	PSB085	771	0	[(a:h)]	ah	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1663.83|End=1664.23	0x1	_	0-2(0)	0-2(195)
-772-0	PSB084	772	0	#nawal	nawal	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=1665.53	_	_	_	_
+772-0	PSB084	772	0	#nawal	nawal	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=1665.53	_	_	_	_
 772-1	PSB084	772	1	el	el	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 772-2	PSB084	772	2	moutawakel	moutawakel	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	End=1667.02	_	_	_	_
 773-0	PSB084	773	0	anche	anche	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1667.86	_	_	_	_

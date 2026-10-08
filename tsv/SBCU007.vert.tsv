@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	PSB091	0	0	sono,	sono	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising|PauseAfter=Yes	Begin=0.64	_	_	_	_
 0-1	PSB091	0	1	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	_	_	_
 0-2	PSB091	0	2	igiene	igiene	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=3.04	_	_	_	_
@@ -238,8 +238,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 48-2	PSB036	48	2	xxxx	xxxx	_	_	_	_	_	unknown	_	ContainsVariation=No	Syllables=4	_	_	_	_	0-4(20)
 48-3	PSB036	48	3	praticamente]	praticamente	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=77.56	_	_	_	0-12(20)
 49-0	PSB129	49	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=77.553|End=78.453	_	_	_	_
-50-0	PSB128	50	0	#_ davaj	davaj	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=77.88	_	_	_	_
-50-1	PSB128	50	1	vkazivky	vkazivky	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=81.42	_	_	_	_
+50-0	PSB128	50	0	#_ davaj	davaj	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=77.88	_	_	_	_
+50-1	PSB128	50	1	vkazivky	vkazivky	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=81.42	_	_	_	_
 52-0	PSB036	52	0	[no	no	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=80.413	_	_	_	0-2(23)
 52-1	PSB036	52	1	problem]	problem	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=81.427	_	_	_	0-7(23)
 53-0	PSB128	53	0	xxxx	xxxx	_	_	_	_	_	unknown	_	ContainsVariation=No	Syllables=4	Begin=81.693|End=82.573	_	_	_	_
@@ -794,26 +794,26 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 184-4	PSB005	184	4	tiriamo	tiriamo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 184-5	PSB005	184	5	su	su	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 184-6	PSB005	184	6	così	così	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=253.6655	_	_	_	_
-185-0	PSB091	185	0	#_ èto	èto	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=253.6655	_	_	_	_
-185-1	PSB091	185	1	s	s	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-185-2	PSB091	185	2	ložkoj	ložkoj	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-185-3	PSB091	185	3	eš'	eš'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	Truncated=Yes	End=255.258	_	_	_	_
-187-0	PSB091	187	0	#_ tomu	tomu	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=255.31	_	_	_	_
-187-1	PSB091	187	1	ščo	ščo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-187-2	PSB091	187	2	zaraz	zaraz	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-187-3	PSB091	187	3	zalipyt'	zalipyt'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	SpaceAfter=No	_	_	_	_	_
-187-4	PSB091	187	4	sja	sja	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-187-5	PSB091	187	5	meni	meni	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=257.204	_	_	_	_
+185-0	PSB091	185	0	#_ èto	èto	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=253.6655	_	_	_	_
+185-1	PSB091	185	1	s	s	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+185-2	PSB091	185	2	ložkoj	ložkoj	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+185-3	PSB091	185	3	eš'	eš'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	Truncated=Yes	End=255.258	_	_	_	_
+187-0	PSB091	187	0	#_ tomu	tomu	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=255.31	_	_	_	_
+187-1	PSB091	187	1	ščo	ščo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+187-2	PSB091	187	2	zaraz	zaraz	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+187-3	PSB091	187	3	zalipyt'	zalipyt'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	SpaceAfter=No	_	_	_	_	_
+187-4	PSB091	187	4	sja	sja	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+187-5	PSB091	187	5	meni	meni	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=257.204	_	_	_	_
 189-0	PSB005	189	0	volevo	volevo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=257.27	_	_	_	_
 189-1	PSB005	189	1	solo	solo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 189-2	PSB005	189	2	metterlo	metterlo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 189-3	PSB005	189	3	contro:	contro	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=258.962	5x1	_	_	_
-190-0	PSB128	190	0	#_ ladno	ladno	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=258.36|End=259.033	_	_	_	_
+190-0	PSB128	190	0	#_ ladno	ladno	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=258.36|End=259.033	_	_	_	_
 192-0	PSB005	192	0	sì	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=259.42	_	_	_	_
 192-1	PSB005	192	1	grazie	grazie	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 192-2	PSB005	192	2	eh	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=260.63	_	_	_	_
-193-0	PSB128	193	0	#_ nel'	nel'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	SpaceAfter=No	Begin=260.73	_	_	_	_
-193-1	PSB128	193	1	zja	zja	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=261.701	_	_	_	_
+193-0	PSB128	193	0	#_ nel'	nel'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	SpaceAfter=No	Begin=260.73	_	_	_	_
+193-1	PSB128	193	1	zja	zja	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=261.701	_	_	_	_
 195-0	PSB005	195	0	il	il	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=261.21	_	_	_	_
 195-1	PSB005	195	1	gel	gel	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 195-2	PSB005	195	2	eventualmente	eventualmente	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -837,13 +837,13 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 198-6	PSB036	198	6	gel	gel	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 198-7	PSB036	198	7	ogni	ogni	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 198-8	PSB036	198	8	volta	volta	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=267.784	_	_	_	_
-199-0	PSB128	199	0	#_ kušat'	kušat'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	Truncated=Yes	Begin=271.57	_	_	_	_
-199-1	PSB128	199	1	prišla	prišla	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=272.231	_	_	_	_
-201-0	PSB128	201	0	#_ vody	vody	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=272.942	_	_	_	_
-201-1	PSB128	201	1	vody	vody	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+199-0	PSB128	199	0	#_ kušat'	kušat'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	Truncated=Yes	Begin=271.57	_	_	_	_
+199-1	PSB128	199	1	prišla	prišla	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=272.231	_	_	_	_
+201-0	PSB128	201	0	#_ vody	vody	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=272.942	_	_	_	_
+201-1	PSB128	201	1	vody	vody	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 201-2	PSB128	201	2	xxx	xxx	_	_	_	_	_	unknown	_	ContainsVariation=Yes	Syllables=3	End=274.419	_	_	_	_
-203-0	PSB086	203	0	#_ uže	uže	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=274.69	_	_	_	_
-203-1	PSB086	203	1	greetsja	greetsja	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=275.554	_	_	_	_
+203-0	PSB086	203	0	#_ uže	uže	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=274.69	_	_	_	_
+203-1	PSB086	203	1	greetsja	greetsja	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=275.554	_	_	_	_
 205-0	PSB005	205	0	quindi	quindi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=277.16	_	_	_	_
 205-1	PSB005	205	1	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 205-2	PSB005	205	2	questo	questo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -974,9 +974,9 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 230-4	PSB129	230	4	[fa	fa	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-2(80)
 230-5	PSB129	230	5	così	così	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-4(80)
 230-6	PSB129	230	6	veramente]	veramente	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=319.649	_	_	_	0-9(80)
-231-0	PSB091	231	0	#_ [(nado	nado	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=318.58	_	_	_	0-4(80)
-231-1	PSB091	231	1	čutočku	čutočku	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-7(80)
-231-2	PSB091	231	2	eščë)]	eščë	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=319.45	_	_	_	0-4(80)
+231-0	PSB091	231	0	#_ [(nado	nado	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=318.58	_	_	_	0-4(80)
+231-1	PSB091	231	1	čutočku	čutočku	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-7(80)
+231-2	PSB091	231	2	eščë)]	eščë	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=319.45	_	_	_	0-4(80)
 233-0	PSB129	233	0	soprattutto	soprattutto	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=319.72	_	_	_	_
 233-1	PSB129	233	1	al	al	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 233-2	PSB129	233	2	sud	sud	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -1003,8 +1003,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 237-3	PSB130	237	3	li	li	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 237-4	PSB130	237	4	mangiate	mangiate	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 237-5	PSB130	237	5	tipo	tipo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=326.406	_	_	_	_
-238-0	PSB091	238	0	#_ to	to	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=327.11	_	_	_	_
-238-1	PSB091	238	1	ščo	ščo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=328.288	_	_	_	_
+238-0	PSB091	238	0	#_ to	to	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=327.11	_	_	_	_
+238-1	PSB091	238	1	ščo	ščo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=328.288	_	_	_	_
 240-0	PSB130	240	0	[sem]pre?	sempre	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising	Begin=327.97|End=328.638	_	_	_	0-3(84)
 241-0	PSB130	241	0	o	o	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=328.78	_	_	_	_
 241-1	PSB130	241	1	tipo	tipo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -1042,11 +1042,11 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 247-6	PSB005	247	6	su~	su~	_	_	_	_	_	linguistic	_	ContainsVariation=No	Interrupted=Yes	_	_	_	_	_
 247-7	PSB005	247	7	super	super	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 247-8	PSB005	247	8	uovose	uovose	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=339.527	_	_	_	_
-248-0	PSB091	248	0	#_ dyvysja	dyvysja	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=339.6	_	_	_	_
-248-1	PSB091	248	1	ne	ne	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-248-2	PSB091	248	2	roblju	roblju	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-248-3	PSB091	248	3	tak	tak	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-248-4	PSB091	248	4	davaj	davaj	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=343.5	_	_	_	_
+248-0	PSB091	248	0	#_ dyvysja	dyvysja	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=339.6	_	_	_	_
+248-1	PSB091	248	1	ne	ne	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+248-2	PSB091	248	2	roblju	roblju	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+248-3	PSB091	248	3	tak	tak	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+248-4	PSB091	248	4	davaj	davaj	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=343.5	_	_	_	_
 250-0	PSB130	250	0	quindi	quindi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=343.33	_	_	_	_
 250-1	PSB130	250	1	adesso	adesso	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 250-2	PSB130	250	2	ci	ci	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -1054,9 +1054,9 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 250-4	PSB130	250	4	anche	anche	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 250-5	PSB130	250	5	a	a	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 250-6	PSB130	250	6	chiuderli?	chiuderli	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising	End=344.712	_	_	_	_
-251-0	PSB091	251	0	#_ [eščë	eščë	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=344.673	_	_	_	0-4(89)
-251-1	PSB091	251	1	eščë	eščë	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-4(89)
-251-2	PSB091	251	2	eščë]	eščë	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=347.327	_	_	_	0-4(89)
+251-0	PSB091	251	0	#_ [eščë	eščë	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=344.673	_	_	_	0-4(89)
+251-1	PSB091	251	1	eščë	eščë	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-4(89)
+251-2	PSB091	251	2	eščë]	eščë	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=347.327	_	_	_	0-4(89)
 253-0	PSB005	253	0	[>eh<	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=344.95	_	Fast=0-2(0)	_	0-2(89)
 253-1	PSB005	253	1	secondo	secondo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-7(89)
 253-2	PSB005	253	2	me	me	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-2(89)
@@ -1085,11 +1085,11 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 260-5	PSB129	260	5	a	a	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-1(597)
 260-6	PSB129	260	6	chiudere	chiudere	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-8(597)
 260-7	PSB129	260	7	xxx]	xxx	_	_	_	_	_	unknown	_	ContainsVariation=No	Syllables=3	End=355.072	_	_	_	0-3(597)
-261-0	PSB091	261	0	#_ [my	my	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=352.74	_	_	_	0-2(?)
-261-1	PSB091	261	1	často	často	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-5(?)
-261-2	PSB091	261	2	robymo	robymo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-6(?)
-261-3	PSB091	261	3	taku	taku	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-4(?)
-261-4	PSB091	261	4	posypku]	posypku	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=356.067	_	_	_	0-7(?)
+261-0	PSB091	261	0	#_ [my	my	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=352.74	_	_	_	0-2(?)
+261-1	PSB091	261	1	často	často	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-5(?)
+261-2	PSB091	261	2	robymo	robymo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-6(?)
+261-3	PSB091	261	3	taku	taku	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-4(?)
+261-4	PSB091	261	4	posypku]	posypku	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=356.067	_	_	_	0-7(?)
 263-0	PSB086	263	0	[avete	avete	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=353.433	_	_	_	0-5(597)
 263-1	PSB086	263	1	perso	perso	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-5(597)
 263-2	PSB086	263	2	un	un	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-2(597)
@@ -1272,7 +1272,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 302-0	PSB130	302	0	[quando]	quando	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=412.92|End=413.288	_	_	_	0-6(599)
 303-0	PSB127	303	0	[più	più	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=413.9	_	_	_	0-3(102)
 303-1	PSB127	303	1	grandi]	grandi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=414.459	_	_	_	0-6(102)
-304-0	PSB086	304	0	#_ zvyshneju	zvyshneju	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=416.08|End=416.444	_	_	_	_
+304-0	PSB086	304	0	#_ zvyshneju	zvyshneju	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=416.08|End=416.444	_	_	_	_
 306-0	PSB127	306	0	xxxx	xxxx	_	_	_	_	_	unknown	_	ContainsVariation=No	Syllables=4	Begin=416.55|End=417.83	_	_	_	_
 307-0	PSB091	307	0	si	si	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=417.82	_	_	_	_
 307-1	PSB091	307	1	fanno	fanno	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -1497,19 +1497,19 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 355-6	PSB130	355	6	[aneto]	aneto	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=481.784	_	_	_	0-5(126)
 356-0	PSB091	356	0	[vado	vado	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=479.84	_	_	_	0-4(125)
 356-1	PSB091	356	1	io]?	io	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising	End=480.613	_	_	_	0-2(125)
-357-0	PSB091	357	0	#_ [chočeš?	chočeš	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	Intonation=Rising	Begin=481.407	_	_	_	0-6(126)
-357-1	PSB091	357	1	na]	na	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=481.92	_	_	_	0-2(126)
-359-0	PSB091	359	0	#_ ne	ne	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=482.04	_	_	_	_
-359-1	PSB091	359	1	pytaju	pytaju	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=482.81	_	_	_	_
+357-0	PSB091	357	0	#_ [chočeš?	chočeš	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	Intonation=Rising	Begin=481.407	_	_	_	0-6(126)
+357-1	PSB091	357	1	na]	na	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=481.92	_	_	_	0-2(126)
+359-0	PSB091	359	0	#_ ne	ne	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=482.04	_	_	_	_
+359-1	PSB091	359	1	pytaju	pytaju	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=482.81	_	_	_	_
 361-0	PSB128	361	0	xx	xx	_	_	_	_	_	unknown	_	ContainsVariation=No	Syllables=2	Begin=482.83|End=483.164	_	_	_	_
-362-0	PSB091	362	0	#_ ščob	ščob	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=483.171	_	_	_	_
-362-1	PSB091	362	1	ne	ne	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-362-2	PSB091	362	2	skazaly	skazaly	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-362-3	PSB091	362	3	ščo	ščo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-362-4	PSB091	362	4	ja	ja	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=484.321	_	_	_	_
-364-0	PSB128	364	0	#_ ni,	ni	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	Intonation=WeaklyRising	Begin=484.34	_	_	_	_
-364-1	PSB128	364	1	bože	bože	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-364-2	PSB128	364	2	boron[y]	borony	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=485.833	_	_	_	5-6(127)
+362-0	PSB091	362	0	#_ ščob	ščob	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=483.171	_	_	_	_
+362-1	PSB091	362	1	ne	ne	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+362-2	PSB091	362	2	skazaly	skazaly	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+362-3	PSB091	362	3	ščo	ščo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+362-4	PSB091	362	4	ja	ja	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=484.321	_	_	_	_
+364-0	PSB128	364	0	#_ ni,	ni	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	Intonation=WeaklyRising	Begin=484.34	_	_	_	_
+364-1	PSB128	364	1	bože	bože	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+364-2	PSB128	364	2	boron[y]	borony	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=485.833	_	_	_	5-6(127)
 366-0	PSB086	366	0	[xx]	xx	_	_	_	_	_	unknown	_	ContainsVariation=No	Syllables=2	Begin=485.522	_	_	_	0-2(127)
 366-1	PSB086	366	1	salmone	salmone	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=486.496	_	_	_	_
 367-0	PSB086	367	0	solo	solo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=486.593	_	_	_	_
@@ -1538,7 +1538,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 373-0	PSB091	373	0	xxxx	xxxx	_	_	_	_	_	unknown	_	ContainsVariation=No	Syllables=4	Begin=494.98|End=496.979	_	_	_	_
 374-0	PSB129	374	0	sì	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=496.153	_	_	_	_
 374-1	PSB129	374	1	origano	origano	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=497.56	_	_	_	_
-375-0	PSB128	375	0	#_ uspokojsja	uspokojsja	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=496.979|End=498.742	_	_	_	_
+375-0	PSB128	375	0	#_ uspokojsja	uspokojsja	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=496.979|End=498.742	_	_	_	_
 377-0	PSB129	377	0	da	da	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=498.18	_	_	_	_
 377-1	PSB129	377	1	me	me	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 377-2	PSB129	377	2	giù	giù	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -1555,7 +1555,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 380-5	PSB130	380	5	l'	l'	_	_	_	_	_	linguistic	_	ContainsVariation=No	SpaceAfter=No	_	_	_	_	0-2(?)
 380-6	PSB130	380	6	aneto]	aneto	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=504.8	_	_	_	0-5(?)
 381-0	PSB128	381	0	#_ xxx	xxx	_	_	_	_	_	unknown	_	ContainsVariation=Yes	Syllables=3	Begin=503.99	_	_	_	_
-381-1	PSB128	381	1	zaškvar	zaškvar	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+381-1	PSB128	381	1	zaškvar	zaškvar	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 381-2	PSB128	381	2	xxx	xxx	_	_	_	_	_	unknown	_	ContainsVariation=Yes	Syllables=3	End=506.101	_	_	_	_
 383-0	PSB129	383	0	[l'	l'	_	_	_	_	_	linguistic	_	ContainsVariation=No	SpaceAfter=No	Begin=504.133	_	_	_	0-2(605)
 383-1	PSB129	383	1	aneto]	aneto	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-5(605)
@@ -1566,13 +1566,13 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 384-3	PSB130	384	3	cipollina	cipollina	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=506.953	_	_	_	_
 385-0	PSB129	385	0	mh	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=507.193|End=507.407	_	_	_	_
 386-0	PSB130	386	0	mh	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=507.533|End=507.893	_	_	_	_
-387-0	PSB128	387	0	#_ ja	ja	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=508.17	_	_	_	_
-387-1	PSB128	387	1	do	do	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-387-2	PSB128	387	2	vs'	vs'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	SpaceAfter=No	_	_	_	_	_
-387-3	PSB128	387	3	oho	oho	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-387-4	PSB128	387	4	normal'	normal'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	SpaceAfter=No	_	_	_	_	_
-387-5	PSB128	387	5	no	no	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-387-6	PSB128	387	6	vidnošus'	vidnošus'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	Truncated=Yes	End=509.77	_	_	_	_
+387-0	PSB128	387	0	#_ ja	ja	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=508.17	_	_	_	_
+387-1	PSB128	387	1	do	do	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+387-2	PSB128	387	2	vs'	vs'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	SpaceAfter=No	_	_	_	_	_
+387-3	PSB128	387	3	oho	oho	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+387-4	PSB128	387	4	normal'	normal'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	SpaceAfter=No	_	_	_	_	_
+387-5	PSB128	387	5	no	no	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+387-6	PSB128	387	6	vidnošus'	vidnošus'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	Truncated=Yes	End=509.77	_	_	_	_
 389-0	PSB091	389	0	xxx	xxx	_	_	_	_	_	unknown	_	ContainsVariation=No	Syllables=3	Begin=511.15|End=512.02	_	_	_	_
 390-0	PSB128	390	0	xx	xx	_	_	_	_	_	unknown	_	ContainsVariation=No	Syllables=2	Begin=512.039|End=512.4395	_	_	_	_
 391-0	PSB091	391	0	sì	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=512.4395	_	_	_	_
@@ -1849,11 +1849,11 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 451-1	PSB130	451	1	io	io	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	_	_	_	_	_
 451-2	PSB130	451	2	non°	non	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	End=592.94	_	_	_	_
 452-0	PSB091	452	0	brava	brava	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=593.82|End=594.388	_	_	_	_
-453-0	PSB128	453	0	#_ u	u	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=596.77	_	_	_	_
-453-1	PSB128	453	1	mene	mene	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-453-2	PSB128	453	2	vže	vže	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-453-3	PSB128	453	3	holova	holova	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-453-4	PSB128	453	4	syva	syva	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=599.097	_	_	_	_
+453-0	PSB128	453	0	#_ u	u	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=596.77	_	_	_	_
+453-1	PSB128	453	1	mene	mene	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+453-2	PSB128	453	2	vže	vže	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+453-3	PSB128	453	3	holova	holova	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+453-4	PSB128	453	4	syva	syva	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=599.097	_	_	_	_
 455-0	PSB091	455	0	e:h	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=599.49	0x1	_	_	_
 455-1	PSB091	455	1	cosa	cosa	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 455-2	PSB091	455	2	vuol	vuol	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -1870,14 +1870,14 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 457-0	PSB091	457	0	[non	non	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=605.37	_	_	_	0-3(608)
 457-1	PSB091	457	1	sanno	sanno	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-5(608)
 457-2	PSB091	457	2	fare]	fare	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=606.254	_	_	_	0-4(608)
-458-0	PSB128	458	0	#_ [ja	ja	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=605.4	_	_	_	0-2(608)
-458-1	PSB128	458	1	vam	vam	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-3(608)
-458-2	PSB128	458	2	rozkažu	rozkažu	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-7(608)
-458-3	PSB128	458	3	ja	ja	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-2(608)
-458-4	PSB128	458	4	vam	vam	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-3(608)
-458-5	PSB128	458	5	rozkažu	rozkažu	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-7(608)
-458-6	PSB128	458	6	odnu	odnu	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-4(608)
-458-7	PSB128	458	7	bajku]	bajku	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=608.533	_	_	_	0-5(608)
+458-0	PSB128	458	0	#_ [ja	ja	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=605.4	_	_	_	0-2(608)
+458-1	PSB128	458	1	vam	vam	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-3(608)
+458-2	PSB128	458	2	rozkažu	rozkažu	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-7(608)
+458-3	PSB128	458	3	ja	ja	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-2(608)
+458-4	PSB128	458	4	vam	vam	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-3(608)
+458-5	PSB128	458	5	rozkažu	rozkažu	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-7(608)
+458-6	PSB128	458	6	odnu	odnu	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-4(608)
+458-7	PSB128	458	7	bajku]	bajku	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=608.533	_	_	_	0-5(608)
 460-0	PSB086	460	0	[non	non	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=606.22	_	_	_	0-3(608)
 460-1	PSB086	460	1	sanno	sanno	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-5(608)
 460-2	PSB086	460	2	niente	niente	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-6(608)
@@ -2151,20 +2151,20 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 517-9	PSB129	517	9	molto	molto	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-5(610)
 517-10	PSB129	517	10	in	in	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-2(610)
 517-11	PSB129	517	11	cucina]	cucina	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=736.164	_	_	_	0-6(610)
-518-0	PSB128	518	0	#_ [chočeš	chočeš	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=732.14	_	_	_	0-6(610)
-518-1	PSB128	518	1	šče,	šče	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	Intonation=WeaklyRising	_	_	_	_	0-3(610)
-518-2	PSB128	518	2	či	či	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-2(610)
-518-3	PSB128	518	3	ne	ne	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-2(610)
-518-4	PSB128	518	4	treba?	treba	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	Intonation=Rising	_	_	_	_	0-5(610)
-518-5	PSB128	518	5	tomu	tomu	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-4(610)
-518-6	PSB128	518	6	ščo	ščo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-3(610)
-518-7	PSB128	518	7	nu	nu	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-2(610)
-518-8	PSB128	518	8	bažano	bažano	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-6(610)
-518-9	PSB128	518	9	čut'	čut'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	Truncated=Yes	_	_	_	_	0-4(610)
-518-10	PSB128	518	10	čut'	čut'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	Truncated=Yes	_	_	_	_	0-4(610)
-518-11	PSB128	518	11	ščob	ščob	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-4(610)
-518-12	PSB128	518	12	vono	vono	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-4(610)
-518-13	PSB128	518	13	vse]	vse	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=740.939	_	_	_	0-3(610)
+518-0	PSB128	518	0	#_ [chočeš	chočeš	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=732.14	_	_	_	0-6(610)
+518-1	PSB128	518	1	šče,	šče	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	Intonation=WeaklyRising	_	_	_	_	0-3(610)
+518-2	PSB128	518	2	či	či	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-2(610)
+518-3	PSB128	518	3	ne	ne	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-2(610)
+518-4	PSB128	518	4	treba?	treba	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	Intonation=Rising	_	_	_	_	0-5(610)
+518-5	PSB128	518	5	tomu	tomu	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-4(610)
+518-6	PSB128	518	6	ščo	ščo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-3(610)
+518-7	PSB128	518	7	nu	nu	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-2(610)
+518-8	PSB128	518	8	bažano	bažano	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-6(610)
+518-9	PSB128	518	9	čut'	čut'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	Truncated=Yes	_	_	_	_	0-4(610)
+518-10	PSB128	518	10	čut'	čut'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	Truncated=Yes	_	_	_	_	0-4(610)
+518-11	PSB128	518	11	ščob	ščob	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-4(610)
+518-12	PSB128	518	12	vono	vono	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-4(610)
+518-13	PSB128	518	13	vse]	vse	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=740.939	_	_	_	0-3(610)
 520-0	PSB005	520	0	[okay	okay	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=732.746	_	_	_	0-4(610)
 520-1	PSB005	520	1	ah	ah	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-2(610)
 520-2	PSB005	520	2	no]	no	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=733.739	_	_	_	0-2(610)
@@ -2351,23 +2351,23 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 561-2	PSB005	561	2	[proprio]	proprio	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=811.124	_	_	_	0-7(194)
 562-0	PSB091	562	0	[impasto	impasto	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=810.58	_	_	_	0-7(194)
 562-1	PSB091	562	1	po]vero	povero	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=811.652	_	_	_	0-2(194)
-563-0	PSB128	563	0	#_ a	a	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=814.54	_	_	_	_
-563-1	PSB128	563	1	jakščo	jakščo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-563-2	PSB128	563	2	ty	ty	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-563-3	PSB128	563	3	robyla	robyla	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-563-4	PSB128	563	4	tisto	tisto	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-563-5	PSB128	563	5	tež	tež	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-563-6	PSB128	563	6	bez	bez	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-563-7	PSB128	563	7	ničoho?	ničoho	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	Intonation=Rising	End=817.246	_	_	_	_
-565-0	PSB091	565	0	#_ tezh	tezh	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=817.63	_	_	_	_
-565-1	PSB091	565	1	bez	bez	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-565-2	PSB091	565	2	nichoho	nichoho	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=819.007	_	_	_	_
-567-0	PSB128	567	0	#_ i	i	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=820.12	_	_	_	_
-567-1	PSB128	567	1	vytjažnuju	vytjažnuju	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+563-0	PSB128	563	0	#_ a	a	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=814.54	_	_	_	_
+563-1	PSB128	563	1	jakščo	jakščo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+563-2	PSB128	563	2	ty	ty	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+563-3	PSB128	563	3	robyla	robyla	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+563-4	PSB128	563	4	tisto	tisto	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+563-5	PSB128	563	5	tež	tež	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+563-6	PSB128	563	6	bez	bez	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+563-7	PSB128	563	7	ničoho?	ničoho	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	Intonation=Rising	End=817.246	_	_	_	_
+565-0	PSB091	565	0	#_ tezh	tezh	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=817.63	_	_	_	_
+565-1	PSB091	565	1	bez	bez	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+565-2	PSB091	565	2	nichoho	nichoho	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=819.007	_	_	_	_
+567-0	PSB128	567	0	#_ i	i	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=820.12	_	_	_	_
+567-1	PSB128	567	1	vytjažnuju	vytjažnuju	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 567-2	PSB128	567	2	xx	xx	_	_	_	_	_	unknown	_	ContainsVariation=Yes	Syllables=2	_	_	_	_	_
-567-3	PSB128	567	3	tež	tež	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-567-4	PSB128	567	4	treba	treba	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-567-5	PSB128	567	5	[daty]	daty	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=823.54	_	_	_	0-4(195)
+567-3	PSB128	567	3	tež	tež	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+567-4	PSB128	567	4	treba	treba	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+567-5	PSB128	567	5	[daty]	daty	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=823.54	_	_	_	0-4(195)
 569-0	PSB036	569	0	[ma	ma	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=822.72	_	_	_	0-2(195)
 569-1	PSB036	569	1	sapete	sapete	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-6(195)
 569-2	PSB036	569	2	tutte	tutte	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-5(195)
@@ -2620,7 +2620,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 627-7	PSB127	627	7	ieri	ieri	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 627-8	PSB127	627	8	ha	ha	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 627-9	PSB127	627	9	fatto	fatto	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-627-10	PSB127	627	10	#boršč	boršč	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+627-10	PSB127	627	10	#boršč	boršč	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 627-11	PSB127	627	11	per	per	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 627-12	PSB127	627	12	marito	marito	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	End=910.2	_	_	_	_
 628-0	PSB086	628	0	dica	dica	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	Begin=905.92	_	_	_	_
@@ -2633,7 +2633,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 628-7	PSB086	628	7	ieri	ieri	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 628-8	PSB086	628	8	ha	ha	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 628-9	PSB086	628	9	fatto	fatto	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-628-10	PSB086	628	10	#boršč	boršč	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+628-10	PSB086	628	10	#boršč	boršč	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 628-11	PSB086	628	11	per	per	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 628-12	PSB086	628	12	marito	marito	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	End=910.2	_	_	_	_
 629-0	PSB086	629	0	sì	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=911.1	_	_	_	_
@@ -2870,30 +2870,30 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 687-3	PSB091	687	3	scorso	scorso	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 687-4	PSB091	687	4	ha	ha	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 687-5	PSB091	687	5	fatto	fatto	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1003.672	_	_	_	_
-688-0	PSB127	688	0	#_ jaki	jaki	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=1004.177	_	_	_	_
-688-1	PSB127	688	1	(zahrubi)	zahrubi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-688-2	PSB127	688	2	majut'	majut'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	Truncated=Yes	_	_	_	_	_
-688-3	PSB127	688	3	buty?	buty	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	Intonation=Rising	_	_	_	_	_
-688-4	PSB127	688	4	podyvys'	podyvys'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	Truncated=Yes	_	_	_	_	_
-688-5	PSB127	688	5	bud'	bud'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	Truncated=Yes	_	_	_	_	_
-688-6	PSB127	688	6	laska	laska	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=1007.63	_	_	_	_
-690-0	PSB091	690	0	#_ majut'	majut'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	Truncated=Yes	Begin=1007.69	_	_	_	_
-690-1	PSB091	690	1	buty	buty	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-690-2	PSB091	690	2	trošky	trošky	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-690-3	PSB091	690	3	hruben'	hruben'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	SpaceAfter=No	_	_	_	_	_
-690-4	PSB091	690	4	ki,	ki	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	Intonation=WeaklyRising	_	_	_	_	_
-690-5	PSB091	690	5	ščob	ščob	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-690-6	PSB091	690	6	my	my	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-690-7	PSB091	690	7	mohly	mohly	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-690-8	PSB091	690	8	jich	jich	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-690-9	PSB091	690	9	natjahuvaty	natjahuvaty	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=1010.5585	_	_	_	_
+688-0	PSB127	688	0	#_ jaki	jaki	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=1004.177	_	_	_	_
+688-1	PSB127	688	1	(zahrubi)	zahrubi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+688-2	PSB127	688	2	majut'	majut'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	Truncated=Yes	_	_	_	_	_
+688-3	PSB127	688	3	buty?	buty	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	Intonation=Rising	_	_	_	_	_
+688-4	PSB127	688	4	podyvys'	podyvys'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	Truncated=Yes	_	_	_	_	_
+688-5	PSB127	688	5	bud'	bud'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	Truncated=Yes	_	_	_	_	_
+688-6	PSB127	688	6	laska	laska	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=1007.63	_	_	_	_
+690-0	PSB091	690	0	#_ majut'	majut'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	Truncated=Yes	Begin=1007.69	_	_	_	_
+690-1	PSB091	690	1	buty	buty	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+690-2	PSB091	690	2	trošky	trošky	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+690-3	PSB091	690	3	hruben'	hruben'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	SpaceAfter=No	_	_	_	_	_
+690-4	PSB091	690	4	ki,	ki	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	Intonation=WeaklyRising	_	_	_	_	_
+690-5	PSB091	690	5	ščob	ščob	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+690-6	PSB091	690	6	my	my	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+690-7	PSB091	690	7	mohly	mohly	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+690-8	PSB091	690	8	jich	jich	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+690-9	PSB091	690	9	natjahuvaty	natjahuvaty	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=1010.5585	_	_	_	_
 692-0	PSB127	692	0	super	super	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1010.5585|End=1012.101	_	_	_	_
-693-0	PSB091	693	0	#_ otut	otut	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=1012.389	_	_	_	_
-693-1	PSB091	693	1	trošeč[ky]	trošečky	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=1013.677	_	_	_	6-8(233)
-695-0	PSB127	695	0	#_ [do]kotaty	dokotaty	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=1013.531	_	_	_	0-2(233)
-695-1	PSB127	695	1	dokotaty	dokotaty	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=1014.803	_	_	_	_
-697-0	PSB127	697	0	#_ zmoršky	zmoršky	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=1015.575	_	_	_	_
-697-1	PSB127	697	1	da?	da	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	Intonation=Rising	End=1019.505	_	_	_	_
+693-0	PSB091	693	0	#_ otut	otut	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=1012.389	_	_	_	_
+693-1	PSB091	693	1	trošeč[ky]	trošečky	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=1013.677	_	_	_	6-8(233)
+695-0	PSB127	695	0	#_ [do]kotaty	dokotaty	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=1013.531	_	_	_	0-2(233)
+695-1	PSB127	695	1	dokotaty	dokotaty	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=1014.803	_	_	_	_
+697-0	PSB127	697	0	#_ zmoršky	zmoršky	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=1015.575	_	_	_	_
+697-1	PSB127	697	1	da?	da	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	Intonation=Rising	End=1019.505	_	_	_	_
 699-0	PSB127	699	0	[xx]	xx	_	_	_	_	_	unknown	_	ContainsVariation=No	Syllables=2	Begin=1019.708|End=1020.887	_	_	_	0-2(234)
 700-0	PSB005	700	0	[ah	ah	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1019.74	_	_	_	0-2(234)
 700-1	PSB005	700	1	quindi	quindi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-6(234)
@@ -3190,12 +3190,12 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 760-6	PSB129	760	6	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	_	_	_
 760-7	PSB129	760	7	no	no	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1091.836	_	_	_	_
 761-0	PSB127	761	0	[sì],	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising	Begin=1090.009|End=1090.472	_	_	_	0-2(264)
-762-0	PSB127	762	0	#_ nam	nam	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=1091.879	_	_	_	_
-762-1	PSB127	762	1	malen'	malen'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	SpaceAfter=No	_	_	_	_	_
-762-2	PSB127	762	2	ki	ki	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-762-3	PSB127	762	3	ložečky	ložečky	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-762-4	PSB127	762	4	najty	najty	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-762-5	PSB127	762	5	da?	da	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	Intonation=Rising	End=1093.3385	_	_	_	_
+762-0	PSB127	762	0	#_ nam	nam	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=1091.879	_	_	_	_
+762-1	PSB127	762	1	malen'	malen'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	SpaceAfter=No	_	_	_	_	_
+762-2	PSB127	762	2	ki	ki	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+762-3	PSB127	762	3	ložečky	ložečky	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+762-4	PSB127	762	4	najty	najty	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+762-5	PSB127	762	5	da?	da	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	Intonation=Rising	End=1093.3385	_	_	_	_
 764-0	PSB036	764	0	faccio	faccio	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1093.3385	_	_	_	_
 764-1	PSB036	764	1	io?	io	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising	End=1093.875	_	_	_	_
 765-0	PSB091	765	0	xxxxx	xxxxx	_	_	_	_	_	unknown	_	ContainsVariation=No	Syllables=5	Begin=1093.907|End=1096.954	_	_	_	_
@@ -3337,8 +3337,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 799-0	PSB005	799	0	sì,	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising	Begin=1136.59|End=1137.142	_	_	_	_
 800-0	PSB091	800	0	°così	così	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	Begin=1137.526	_	_	_	_
 800-1	PSB091	800	1	così°	così	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	End=1138.693	_	_	_	_
-801-0	PSB128	801	0	#_ chtos'	chtos'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	Truncated=Yes	Begin=1138.93	_	_	_	_
-801-1	PSB128	801	1	vykrojuje?	vykrojuje	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	Intonation=Rising	End=1140.409	_	_	_	_
+801-0	PSB128	801	0	#_ chtos'	chtos'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	Truncated=Yes	Begin=1138.93	_	_	_	_
+801-1	PSB128	801	1	vykrojuje?	vykrojuje	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	Intonation=Rising	End=1140.409	_	_	_	_
 803-0	PSB005	803	0	°okay°	okay	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	Begin=1140.558|End=1141.015	_	_	_	_
 804-0	PSB129	804	0	okay?	okay	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising	Begin=1141.32	_	_	_	_
 804-1	PSB129	804	1	posso	posso	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -4469,8 +4469,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1073-4	PSB128	1073	4	si	si	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-2(362)
 1073-5	PSB128	1073	5	chia]ma	chiama	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1574.74	_	_	_	0-4(362)
 1074-0	PSB086	1074	0	[bile]	bile	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1573.81|End=1574.382	_	_	_	0-4(362)
-1075-0	PSB086	1075	0	#_ [žovčnyj]	žovčnyj	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=1575.5|End=1577.234	_	_	_	0-7(639)
-1077-0	PSB128	1077	0	#_ [žovč]	žovč	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=1575.51|End=1578.215	_	_	_	0-4(?)
+1075-0	PSB086	1075	0	#_ [žovčnyj]	žovčnyj	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=1575.5|End=1577.234	_	_	_	0-7(639)
+1077-0	PSB128	1077	0	#_ [žovč]	žovč	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=1575.51|End=1578.215	_	_	_	0-4(?)
 1079-0	PSB091	1079	0	[milza]	milza	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1576.97|End=1577.433	_	_	_	0-5(639)
 1080-0	PSB129	1080	0	[la	la	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1577.553	_	_	_	0-2(363)
 1080-1	PSB129	1080	1	milza]	milza	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1578.321	_	_	_	0-5(363)
@@ -4478,7 +4478,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1081-1	PSB127	1081	1	milza	milza	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1579.0	_	_	_	_
 1082-0	PSB086	1082	0	[bile	bile	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1579.01	_	_	_	0-4(?)
 1082-1	PSB086	1082	1	bile]	bile	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1580.288	_	_	_	0-4(?)
-1083-0	PSB128	1083	0	#_ [žovčnyj]	žovčnyj	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=1579.07|End=1580.149	_	_	_	0-7(364)
+1083-0	PSB128	1083	0	#_ [žovčnyj]	žovčnyj	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=1579.07|End=1580.149	_	_	_	0-7(364)
 1085-0	PSB036	1085	0	bil[e]?	bile	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising	Begin=1580.16|End=1580.616	_	_	_	3-4(?)
 1086-0	PSB129	1086	0	[ah]	ah	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1580.45	_	_	_	0-2(366)
 1086-1	PSB129	1086	1	la	la	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -7106,7 +7106,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1612-3	PSB130	1612	3	ho	ho	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	0-2(553)
 1612-4	PSB130	1612	4	messo	messo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	0-5(553)
 1612-5	PSB130	1612	5	una	una	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	0-3(553)
-1612-6	PSB130	1612	6	#balocca	balocca	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-8(553)
+1612-6	PSB130	1612	6	#balocca	balocca	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-8(553)
 1612-7	PSB130	1612	7	gigante]	gigante	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	End=2478.669	_	_	_	0-7(553)
 1613-0	PSB005	1613	0	[sì]	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2477.013|End=2477.38	_	_	_	0-2(668)
 1614-0	PSB005	1614	0	[poi	poi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2477.399	_	_	_	0-3(?)
@@ -7120,10 +7120,10 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1614-8	PSB005	1614	8	magari	magari	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-6(?)
 1614-9	PSB005	1614	9	xxxx]	xxxx	_	_	_	_	_	unknown	_	ContainsVariation=No	Syllables=4	End=2483.078	_	_	_	0-4(?)
 1615-0	PSB129	1615	0	[una	una	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	Begin=2478.712	_	_	_	0-3(554)
-1615-1	PSB129	1615	1	#balocca]?	balocca	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	Intonation=Rising	End=2479.583	_	_	_	0-8(554)
+1615-1	PSB129	1615	1	#balocca]?	balocca	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	Intonation=Rising	End=2479.583	_	_	_	0-8(554)
 1616-0	PSB130	1616	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=2479.687|End=2483.85	_	_	_	_
 1617-0	PSB129	1617	0	[una	una	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	Begin=2480.466	_	_	_	0-3(669)
-1617-1	PSB129	1617	1	#balocca	balocca	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-8(669)
+1617-1	PSB129	1617	1	#balocca	balocca	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-8(669)
 1617-2	PSB129	1617	2	non	non	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	0-3(669)
 1617-3	PSB129	1617	3	l'	l'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	SpaceAfter=No	_	_	_	_	0-2(669)
 1617-4	PSB129	1617	4	avevo	avevo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	0-5(669)
@@ -7146,7 +7146,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1619-6	PSB005	1619	6	a	a	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-1(556)
 1619-7	PSB005	1619	7	ca]sa,	casa	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising	End=2489.003	_	_	_	0-2(556)
 1620-0	PSB129	1620	0	[una	una	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	Begin=2486.483	_	_	_	0-3(556)
-1620-1	PSB129	1620	1	#balocca	balocca	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-8(556)
+1620-1	PSB129	1620	1	#balocca	balocca	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-8(556)
 1620-2	PSB129	1620	2	gigante]	gigante	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	End=2488.472	_	_	_	0-7(556)
 1621-0	PSB005	1621	0	perché	perché	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2489.127	_	_	_	_
 1621-1	PSB005	1621	1	non	non	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_

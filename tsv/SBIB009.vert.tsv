@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	PSB005	0	0	okay	okay	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=0.81|End=1.556	_	_	_	_
 1-0	PSB005	1	0	chiudiamo	chiudiamo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=4.13|End=4.71	_	_	_	_
 2-0	PSB005	2	0	allora	allora	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=5.54|End=6.18	_	_	_	_
@@ -793,7 +793,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 201-2	PSB058	201	2	s~	s~	_	_	_	_	_	linguistic	_	ContainsVariation=No	Interrupted=Yes	End=347.995	_	_	_	_
 202-0	PSB058	202	0	sott~	sott~	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	Interrupted=Yes	Begin=348.25	_	_	_	_
 202-1	PSB058	202	1	sud	sud	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-202-2	PSB058	202	2	#italy	italy	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+202-2	PSB058	202	2	#italy	italy	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 202-3	PSB058	202	3	non	non	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 202-4	PSB058	202	4	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	End=349.931	_	_	_	_
 203-0	PSB058	203	0	una	una	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=350.13	_	_	_	_
@@ -987,15 +987,15 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 247-1	PSB058	247	1	cibo	cibo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 247-2	PSB058	247	2	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 247-3	PSB058	247	3	buono	buono	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=415.104	_	_	_	_
-248-0	PSB058	248	0	#_ biryani	biryani	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=415.95|End=416.925	_	_	_	_
-249-0	PSB058	249	0	#_ dahl	dahl	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=417.58|End=418.55	_	_	_	_
+248-0	PSB058	248	0	#_ biryani	biryani	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=415.95|End=416.925	_	_	_	_
+249-0	PSB058	249	0	#_ dahl	dahl	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=417.58|End=418.55	_	_	_	_
 250-0	PSB058	250	0	riso	riso	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=418.91|End=419.68	_	_	_	_
 251-0	PSB058	251	0	pollo	pollo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=419.81|End=420.479	_	_	_	_
 252-0	PSB058	252	0	c'	c'	_	_	_	_	_	linguistic	_	ContainsVariation=No	SpaceAfter=No	Begin=420.69	_	_	_	_
 252-1	PSB058	252	1	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=420.997	_	_	_	_
 253-0	PSB005	253	0	mh	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=421.26|End=421.465	_	_	_	_
 254-0	PSB058	254	0	cucinare	cucinare	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=421.56|End=422.431	_	_	_	_
-255-0	PSB058	255	0	#_ puishak	puishak	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=422.53|End=423.095	_	_	_	_
+255-0	PSB058	255	0	#_ puishak	puishak	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=422.53|End=423.095	_	_	_	_
 256-0	PSB005	256	0	e	e	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=423.63	_	_	_	_
 256-1	PSB005	256	1	tu	tu	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 256-2	PSB005	256	2	sai	sai	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -2045,7 +2045,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 540-7	PSB058	540	7	bologna	bologna	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=910.623	_	_	_	_
 541-0	PSB005	541	0	ok[ay]	okay	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=911.04|End=911.505	_	_	_	2-4(2)
 542-0	PSB058	542	0	[pe]rò	però	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=911.3|End=911.758	_	_	_	0-2(2)
-543-0	PSB058	543	0	#italy	italy	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=911.96	_	_	_	_
+543-0	PSB058	543	0	#italy	italy	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=911.96	_	_	_	_
 543-1	PSB058	543	1	molto	molto	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 543-2	PSB058	543	2	grande	grande	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 543-3	PSB058	543	3	mia	mia	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
@@ -2085,7 +2085,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 556-0	PSB058	556	0	un	un	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	Begin=933.76	_	_	_	_
 556-1	PSB058	556	1	po'	po'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 556-2	PSB058	556	2	piccolo	piccolo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-556-3	PSB058	556	3	#italy	italy	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+556-3	PSB058	556	3	#italy	italy	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 556-4	PSB058	556	4	grande	grande	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 556-5	PSB058	556	5	io	io	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 556-6	PSB058	556	6	paese	paese	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
@@ -2093,7 +2093,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 556-8	PSB058	556	8	piccolo	piccolo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 556-9	PSB058	556	9	se	se	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 556-10	PSB058	556	10	così	così	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-556-11	PSB058	556	11	#italy	italy	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+556-11	PSB058	556	11	#italy	italy	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 556-12	PSB058	556	12	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 556-13	PSB058	556	13	molto	molto	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 556-14	PSB058	556	14	qua	qua	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	End=938.527	_	_	_	_
@@ -2539,11 +2539,11 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 677-2	PSB058	677	2	hai	hai	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 677-3	PSB058	677	3	uno	uno	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	PauseAfter=Yes	_	_	_	_	_
 677-4	PSB058	677	4	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=Yes	_	_	_	_	_	_
-677-5	PSB058	677	5	#stump	stump	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=1130.515	_	_	_	_
+677-5	PSB058	677	5	#stump	stump	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=1130.515	_	_	_	_
 678-0	PSB058	678	0	°sì	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	Begin=1131.05	_	_	_	_
 678-1	PSB058	678	1	così°	così	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	End=1131.616	_	_	_	_
 679-0	PSB005	679	0	sì?	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising	Begin=1132.07|End=1132.431	_	_	_	_
-680-0	PSB058	680	0	#_ bat	bat	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=1132.6|End=1133.158	_	_	_	_
+680-0	PSB058	680	0	#_ bat	bat	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=1132.6|End=1133.158	_	_	_	_
 682-0	PSB005	682	0	e	e	_	_	_	_	_	linguistic	_	ContainsVariation=No	PauseAfter=Yes	Begin=1134.45	_	_	_	_
 682-1	PSB005	682	1	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	_	_	_
 682-2	PSB005	682	2	quante	quante	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -2650,7 +2650,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 708-1	PSB058	708	1	non	non	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 708-2	PSB058	708	2	c'	c'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	SpaceAfter=No	_	_	_	_	_
 708-3	PSB058	708	3	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-708-4	PSB058	708	4	#italy?	italy	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	Intonation=Rising	End=1189.893	_	_	_	_
+708-4	PSB058	708	4	#italy?	italy	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	Intonation=Rising	End=1189.893	_	_	_	_
 709-0	PSB058	709	0	vai	vai	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1190.49	_	_	_	_
 709-1	PSB058	709	1	dove	dove	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 709-2	PSB058	709	2	partiti?	partiti	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising	End=1191.665	_	_	_	_
@@ -2665,7 +2665,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 710-8	PSB005	710	8	famoso	famoso	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1194.763	_	_	_	_
 711-0	PSB058	711	0	(dirigere)	dirigere	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	Begin=1194.8	_	_	0-8(0)	_
 711-1	PSB058	711	1	il	il	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-711-2	PSB058	711	2	#match	match	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=1195.673	_	_	_	_
+711-2	PSB058	711	2	#match	match	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=1195.673	_	_	_	_
 712-0	PSB005	712	0	°eh	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	Begin=1196.23	_	_	_	_
 712-1	PSB005	712	1	lo	lo	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	_	_	_	_	_
 712-2	PSB005	712	2	so°	so	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	End=1196.803	_	_	_	_
@@ -2705,7 +2705,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 716-8	PSB058	716	8	mia	mia	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 716-9	PSB058	716	9	piace	piace	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 716-10	PSB058	716	10	a	a	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-716-11	PSB058	716	11	#italy	italy	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=1209.518	_	_	_	_
+716-11	PSB058	716	11	#italy	italy	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=1209.518	_	_	_	_
 717-0	PSB058	717	0	va	va	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1213.16	_	_	_	_
 717-1	PSB058	717	1	bene?	bene	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising	End=1213.723	_	_	_	_
 718-0	PSB005	718	0	va	va	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1213.78	_	_	_	_

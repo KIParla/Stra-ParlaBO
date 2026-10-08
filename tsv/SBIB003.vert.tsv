@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	PSB005	0	0	bene	bene	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=0.7|End=1.348	_	_	_	_
 1-0	PSB005	1	0	allora	allora	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1.77|End=2.353	_	_	_	_
 2-0	PSB005	2	0	intanto,	intanto	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising	Begin=2.77|End=3.528	_	_	_	_
@@ -3405,7 +3405,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 519-6	PSB029	519	6	su::	su	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	1x2	_	_	_
 519-7	PSB029	519	7	su	su	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 519-8	PSB029	519	8	su	su	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-519-9	PSB029	519	9	#mov~	mov~	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	Interrupted=Yes	_	_	_	_	_
+519-9	PSB029	519	9	#mov~	mov~	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	Interrupted=Yes	_	_	_	_	_
 519-10	PSB029	519	10	cioè	cioè	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 519-11	PSB029	519	11	su	su	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 519-12	PSB029	519	12	film	film	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_

@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	PSB005	0	0	va	va	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=0.69	_	_	_	_
 0-1	PSB005	0	1	bene	bene	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 0-2	PSB005	0	2	okay	okay	_	_	_	_	_	linguistic	_	ContainsVariation=No	PauseAfter=Yes	_	_	_	_	_
@@ -25,7 +25,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 2-6	PSB027	2	6	si	si	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 2-7	PSB027	2	7	chiama	chiama	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	PauseAfter=Yes	_	_	_	_	_
 2-8	PSB027	2	8	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=Yes	_	_	_	_	_	_
-2-9	PSB027	2	9	#əl-jadīda	əl-jadīda	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=11.93	_	_	_	_
+2-9	PSB027	2	9	#əl-jadīda	əl-jadīda	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=11.93	_	_	_	_
 3-0	PSB005	3	0	okay	okay	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=12.39	_	_	_	_
 3-1	PSB005	3	1	[e	e	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-1(0)
 3-2	PSB005	3	2	d~]	d~	_	_	_	_	_	linguistic	_	ContainsVariation=No	Interrupted=Yes	End=13.276	_	_	_	0-2(0)
@@ -39,8 +39,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 4-7	PSB027	4	7	università	università	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 4-8	PSB027	4	8	si	si	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 4-9	PSB027	4	9	chiama	chiama	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-4-10	PSB027	4	10	#chouaib	chouaib	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-4-11	PSB027	4	11	#doukkali	doukkali	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=17.84	_	_	_	_
+4-10	PSB027	4	10	#chouaib	chouaib	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+4-11	PSB027	4	11	#doukkali	doukkali	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=17.84	_	_	_	_
 5-0	PSB005	5	0	okay	okay	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=18.2	_	_	_	_
 5-1	PSB005	5	1	e	e	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 5-2	PSB005	5	2	[dove	dove	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-4(1)
@@ -48,12 +48,12 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 5-4	PSB005	5	4	trova]?	trova	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising	End=19.492	_	_	_	0-5(1)
 6-0	PSB027	6	0	[°l'	l'	_	_	_	_	_	linguistic	_	ContainsVariation=No	SpaceAfter=No|Volume=low	Begin=18.506	_	_	_	0-2(1)
 6-1	PSB027	6	1	università°]	università	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	End=19.5	_	_	_	0-10(1)
-7-0	PSB027	7	0	#əl-jadīda	əl-jadīda	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=20.3|End=20.975	_	_	_	_
+7-0	PSB027	7	0	#əl-jadīda	əl-jadīda	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=20.3|End=20.975	_	_	_	_
 8-0	PSB027	8	0	la	la	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	Begin=21.3	_	_	_	_
 8-1	PSB027	8	1	città	città	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 8-2	PSB027	8	2	si	si	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 8-3	PSB027	8	3	chiama	chiama	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-8-4	PSB027	8	4	#əl-jadīda	əl-jadīda	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=22.379	_	_	_	_
+8-4	PSB027	8	4	#əl-jadīda	əl-jadīda	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=22.379	_	_	_	_
 9-0	PSB005	9	0	nella	nella	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=22.4	_	_	_	_
 9-1	PSB005	9	1	zona	zona	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 9-2	PSB005	9	2	del	del	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -121,7 +121,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 17-6	PSB027	17	6	si	si	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 17-7	PSB027	17	7	chiama	chiama	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	PauseAfter=Yes	_	_	_	_	_
 17-8	PSB027	17	8	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=Yes	_	_	_	_	_	_
-17-9	PSB027	17	9	#asfī	asfī	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+17-9	PSB027	17	9	#asfī	asfī	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 17-10	PSB027	17	10	e	e	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 17-11	PSB027	17	11	una	una	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 17-12	PSB027	17	12	città	città	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
@@ -257,8 +257,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 38-3	PSB027	38	3	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=Yes	_	_	_	_	_	_
 38-4	PSB027	38	4	si	si	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 38-5	PSB027	38	5	chiama	chiama	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-38-6	PSB027	38	6	#sebt	sebt	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-38-7	PSB027	38	7	#saiss	saiss	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+38-6	PSB027	38	6	#sebt	sebt	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+38-7	PSB027	38	7	#saiss	saiss	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 38-8	PSB027	38	8	la	la	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 38-9	PSB027	38	9	città	città	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	End=95.99799999999999	_	_	_	_
 39-0	PSB005	39	0	mhmh	mhmh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=95.99799999999999|End=96.409	_	_	_	_
@@ -2307,7 +2307,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 435-1	PSB027	435	1	il	il	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 435-2	PSB027	435	2	nostro:	nostro	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	5x1	_	_	_
 435-3	PSB027	435	3	libro	libro	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-435-4	PSB027	435	4	(#qurʔān)	qurʔān	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=930.602	_	_	0-7(0)	_
+435-4	PSB027	435	4	(#qurʔān)	qurʔān	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=930.602	_	_	0-7(0)	_
 436-0	PSB027	436	0	ha	ha	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=931.807	_	_	_	_
 436-1	PSB027	436	1	parlato	parlato	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 436-2	PSB027	436	2	di	di	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -5576,8 +5576,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1132-11	PSB027	1132	11	FAR	far	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=high	End=2150.43	_	_	_	_
 1133-0	PSB027	1133	0	in	in	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	Begin=2151.958	_	_	_	_
 1133-1	PSB027	1133	1	arabo	arabo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-1133-2	PSB027	1133	2	#ghaysh	ghaysh	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-1133-3	PSB027	1133	3	#al-malakī	al-malakī	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=2153.441	_	_	_	_
+1133-2	PSB027	1133	2	#ghaysh	ghaysh	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+1133-3	PSB027	1133	3	#al-malakī	al-malakī	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=2153.441	_	_	_	_
 1134-0	PSB027	1134	0	e::	e	_	_	_	_	_	linguistic	_	ContainsVariation=No	PauseAfter=Yes	Begin=2155.591	0x2	_	_	_
 1134-1	PSB027	1134	1	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	_	_	_
 1134-2	PSB027	1134	2	c'	c'	_	_	_	_	_	linguistic	_	ContainsVariation=No	SpaceAfter=No	_	_	_	_	_

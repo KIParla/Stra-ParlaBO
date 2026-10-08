@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	PSB005	0	0	però	però	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1.16	_	_	_	_
 0-1	PSB005	0	1	forse	forse	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 0-2	PSB005	0	2	tu	tu	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -2156,7 +2156,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 409-3	PSB046	409	3	hai	hai	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 409-4	PSB046	409	4	presente	presente	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 409-5	PSB046	409	5	regione	regione	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-409-6	PSB046	409	6	#zhejiang	zhejiang	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=758.35	_	_	_	_
+409-6	PSB046	409	6	#zhejiang	zhejiang	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=758.35	_	_	_	_
 410-0	PSB046	410	0	ma	ma	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=758.4	_	_	_	_
 410-1	PSB046	410	1	comunque	comunque	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 410-2	PSB046	410	2	m~	m~	_	_	_	_	_	linguistic	_	ContainsVariation=No	Interrupted=Yes	_	_	_	_	_
@@ -2169,7 +2169,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 410-9	PSB046	410	9	l:ì	lì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=761.53	0x1	_	_	_
 411-0	PSB005	411	0	o[kay]	okay	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=761.85|End=762.35	_	_	_	1-4(140)
 412-0	PSB046	412	0	[regione]	regione	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	Begin=761.98	_	_	_	0-7(140)
-412-1	PSB046	412	1	#zhejiang	zhejiang	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=763.3	_	_	_	_
+412-1	PSB046	412	1	#zhejiang	zhejiang	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=763.3	_	_	_	_
 413-0	PSB005	413	0	oka[y]	okay	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=763.615|End=763.865	_	_	_	3-4(141)
 414-0	PSB046	414	0	[p]oi	poi	_	_	_	_	_	linguistic	_	ContainsVariation=No	PauseAfter=Yes	Begin=763.8	_	_	_	0-1(141)
 414-1	PSB046	414	1	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	_	_	_
@@ -2209,7 +2209,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 421-6	PSB046	421	6	parte::	parte	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	PauseAfter=Yes	_	4x2	_	_	_
 421-7	PSB046	421	7	[(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=Yes	_	_	_	_	_	X(143)
 421-8	PSB046	421	8	regione]	regione	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	0-7(143)
-421-9	PSB046	421	9	#zhejiang.	zhejiang	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	Intonation=Falling	End=778.73	_	_	_	_
+421-9	PSB046	421	9	#zhejiang.	zhejiang	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	Intonation=Falling	End=778.73	_	_	_	_
 422-0	PSB005	422	0	[eh	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=777.57	_	_	_	0-2(143)
 422-1	PSB005	422	1	ma]	ma	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=778.09	_	_	_	0-2(143)
 423-0	PSB005	423	0	ma	ma	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=778.76	_	_	_	_

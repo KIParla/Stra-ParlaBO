@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	PSB091	0	0	<oh	oh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=4.8	_	Slow=0-2(0)	_	_
 0-1	PSB091	0	1	dio	dio	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	Slow=0-3(0)	_	_
 0-2	PSB091	0	2	mio>	mio	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=6.12	_	Slow=0-3(0)	_	_
@@ -3034,41 +3034,41 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 524-1	PSB005	524	1	vai	vai	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 524-2	PSB005	524	2	vai	vai	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1042.497	_	_	_	_
 525-0	PSB091	525	0	((sospirando))	((sospirando))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=Yes	_	Begin=1042.387	_	_	_	_
-525-1	PSB091	525	1	#da	da	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+525-1	PSB091	525	1	#da	da	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 525-2	PSB091	525	2	@sasha	@sasha	_	_	_	_	_	anonymized	_	ContainsVariation=Yes	Anonymized=Yes	_	_	_	_	_
 525-3	PSB091	525	3	((parla_al_telefono))	((parla_al_telefono))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=Yes	_	End=1043.077	_	_	_	_
-527-0	PSB091	527	0	#_ ja	ja	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=1045.524	_	_	_	_
-527-1	PSB091	527	1	doma	doma	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-527-2	PSB091	527	2	de	de	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+527-0	PSB091	527	0	#_ ja	ja	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=1045.524	_	_	_	_
+527-1	PSB091	527	1	doma	doma	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+527-2	PSB091	527	2	de	de	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 527-3	PSB091	527	3	((parla_al_telefono))	((parla_al_telefono))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=Yes	_	End=1046.265	_	_	_	_
 529-0	PSB091	529	0	((tossisce))	((tossisce))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=1046.414|End=1047.188	_	_	_	_
 530-0	PSB091	530	0	ah?	ah	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising	Begin=1051.818	_	_	_	_
 530-1	PSB091	530	1	((parla_al_telefono))	((parla_al_telefono))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	End=1052.16	_	_	_	_
-531-0	PSB091	531	0	#_ ty	ty	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=1057.713	_	_	_	_
-531-1	PSB091	531	1	kuda	kuda	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-531-2	PSB091	531	2	jdeš	jdeš	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+531-0	PSB091	531	0	#_ ty	ty	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=1057.713	_	_	_	_
+531-1	PSB091	531	1	kuda	kuda	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+531-2	PSB091	531	2	jdeš	jdeš	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 531-3	PSB091	531	3	((parla_al_telefono))	((parla_al_telefono))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=Yes	_	End=1058.21	_	_	_	_
-533-0	PSB091	533	0	#_ z	z	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=1063.812	_	_	_	_
-533-1	PSB091	533	1	jakimi	jakimi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-533-2	PSB091	533	2	chlopcami	chlopcami	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+533-0	PSB091	533	0	#_ z	z	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=1063.812	_	_	_	_
+533-1	PSB091	533	1	jakimi	jakimi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+533-2	PSB091	533	2	chlopcami	chlopcami	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 533-3	PSB091	533	3	((parla_al_telefono))	((parla_al_telefono))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=Yes	_	End=1064.845	_	_	_	_
 535-0	PSB091	535	0	@sasha	@sasha	_	_	_	_	_	anonymized	_	ContainsVariation=No	Anonymized=Yes	Begin=1068.63	_	_	_	_
 535-1	PSB091	535	1	((parla_al_telefono))	((parla_al_telefono))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	End=1069.177	_	_	_	_
-537-0	PSB091	537	0	#_ skaži	skaži	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=1084.431	_	_	_	_
-537-1	PSB091	537	1	ščo	ščo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-537-2	PSB091	537	2	dlja	dlja	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-537-3	PSB091	537	3	sebe	sebe	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-537-4	PSB091	537	4	chočeš	chočeš	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+537-0	PSB091	537	0	#_ skaži	skaži	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=1084.431	_	_	_	_
+537-1	PSB091	537	1	ščo	ščo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+537-2	PSB091	537	2	dlja	dlja	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+537-3	PSB091	537	3	sebe	sebe	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+537-4	PSB091	537	4	chočeš	chočeš	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 537-5	PSB091	537	5	((parla_al_telefono))	((parla_al_telefono))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=Yes	_	End=1085.869	_	_	_	_
-539-0	PSB091	539	0	#_ a	a	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=1087.597	_	_	_	_
-539-1	PSB091	539	1	ne	ne	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-539-2	PSB091	539	2	dlja	dlja	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-539-3	PSB091	539	3	chlopciv	chlopciv	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+539-0	PSB091	539	0	#_ a	a	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=1087.597	_	_	_	_
+539-1	PSB091	539	1	ne	ne	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+539-2	PSB091	539	2	dlja	dlja	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+539-3	PSB091	539	3	chlopciv	chlopciv	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 539-4	PSB091	539	4	((parla_al_telefono))	((parla_al_telefono))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=Yes	_	End=1088.597	_	_	_	_
 541-0	PSB091	541	0	((sospira))	((sospira))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=1091.995|End=1092.702	_	_	_	_
-542-0	PSB091	542	0	#_ dobre	dobre	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=1093.425	_	_	_	_
+542-0	PSB091	542	0	#_ dobre	dobre	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=1093.425	_	_	_	_
 542-1	PSB091	542	1	((parla_al_telefono))	((parla_al_telefono))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=Yes	_	End=1093.945	_	_	_	_
-544-0	PSB091	544	0	#_ davaj	davaj	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=1095.856	_	_	_	_
+544-0	PSB091	544	0	#_ davaj	davaj	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=1095.856	_	_	_	_
 544-1	PSB091	544	1	((parla_al_telefono))	((parla_al_telefono))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=Yes	_	End=1096.308	_	_	_	_
 546-0	PSB005	546	0	invece	invece	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1097.298	_	_	_	_
 546-1	PSB005	546	1	questa	questa	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -3151,7 +3151,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 567-1	PSB091	567	1	voi	voi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 567-2	PSB091	567	2	avevate	avevate	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 567-3	PSB091	567	3	la	la	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-567-4	PSB091	567	4	#dada	dada	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+567-4	PSB091	567	4	#dada	dada	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 567-5	PSB091	567	5	ucraina,	ucraina	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	Intonation=WeaklyRising	_	_	_	_	_
 567-6	PSB091	567	6	me	me	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 567-7	PSB091	567	7	l'	l'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	SpaceAfter=No	_	_	_	_	_
@@ -3695,7 +3695,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 655-5	PSB005	655	5	fa	fa	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-2(231)
 655-6	PSB005	655	6	esatto]	esatto	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1274.475	_	_	_	0-6(231)
 656-0	PSB091	656	0	[la	la	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	Begin=1272.674	_	_	_	0-2(231)
-656-1	PSB091	656	1	#dada	dada	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-5(231)
+656-1	PSB091	656	1	#dada	dada	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-5(231)
 656-2	PSB091	656	2	come	come	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	0-4(231)
 656-3	PSB091	656	3	dicono	dicono	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	0-6(231)
 656-4	PSB091	656	4	a	a	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	0-1(231)
@@ -4421,7 +4421,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 760-16	PSB091	760	16	con	con	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 760-17	PSB091	760	17	loro	loro	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 760-18	PSB091	760	18	la	la	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-760-19	PSB091	760	19	#dada	dada	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+760-19	PSB091	760	19	#dada	dada	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 760-20	PSB091	760	20	mi	mi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 760-21	PSB091	760	21	chiamavano	chiamavano	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	End=1500.414	_	_	_	_
 761-0	PSB005	761	0	mhmh	mhmh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1500.414|End=1500.685	_	_	_	_
@@ -4517,8 +4517,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 773-0	PSB005	773	0	[ah]	ah	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1523.18|End=1523.68	_	_	_	0-2(268)
 774-0	PSB005	774	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=1525.293|End=1527.11	_	_	_	_
 775-0	PSB091	775	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=Yes	_	Begin=1525.304	_	_	_	_
-775-1	PSB091	775	1	#dada	dada	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-775-2	PSB091	775	2	#dada	dada	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+775-1	PSB091	775	1	#dada	dada	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+775-2	PSB091	775	2	#dada	dada	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 775-3	PSB091	775	3	io	io	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 775-4	PSB091	775	4	li	li	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 775-5	PSB091	775	5	stavo	stavo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
@@ -5192,8 +5192,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 877-9	PSB091	877	9	quando	quando	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 877-10	PSB091	877	10	mi	mi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 877-11	PSB091	877	11	vedevano	vedevano	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1744.926	_	_	_	_
-878-0	PSB091	878	0	#DA:DA	dada	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	Volume=high	Begin=1745.295	1x1	_	_	_
-878-1	PSB091	878	1	#DA:DA	dada	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	Volume=high	End=1747.107	1x1	_	_	_
+878-0	PSB091	878	0	#DA:DA	dada	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	Volume=high	Begin=1745.295	1x1	_	_	_
+878-1	PSB091	878	1	#DA:DA	dada	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	Volume=high	End=1747.107	1x1	_	_	_
 879-0	PSB091	879	0	c(io)è	cioè	_	_	_	_	_	linguistic	_	ContainsVariation=No	Reduced=Yes	Begin=1747.912	_	_	_	_
 879-1	PSB091	879	1	((sospira))	((sospira))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	_	_	_	_	_
 879-2	PSB091	879	2	troppo	troppo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -7984,11 +7984,11 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1201-6	PSB005	1201	6	dopo	dopo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1201-7	PSB005	1201	7	vado	vado	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=2627.911	_	_	_	_
 1202-0	PSB091	1202	0	[sì]	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2626.341|End=2626.726	_	_	_	0-2(392)
-1203-0	PSB091	1203	0	#_ da	da	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=2628.781|End=2629.193	_	_	_	_
-1205-0	PSB091	1205	0	#_ peresilaju	peresilaju	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	PauseAfter=Yes	Begin=2630.6	_	_	_	_
+1203-0	PSB091	1203	0	#_ da	da	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=2628.781|End=2629.193	_	_	_	_
+1205-0	PSB091	1205	0	#_ peresilaju	peresilaju	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	PauseAfter=Yes	Begin=2630.6	_	_	_	_
 1205-1	PSB091	1205	1	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=Yes	_	_	_	_	_	_
-1205-2	PSB091	1205	2	peresilaju	peresilaju	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=2632.644	_	_	_	_
-1207-0	PSB091	1207	0	#_ davaj	davaj	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=2634.062|End=2634.604	_	_	_	_
+1205-2	PSB091	1205	2	peresilaju	peresilaju	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=2632.644	_	_	_	_
+1207-0	PSB091	1207	0	#_ davaj	davaj	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=2634.062|End=2634.604	_	_	_	_
 1209-0	PSB005	1209	0	no	no	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2635.555	_	_	_	_
 1209-1	PSB005	1209	1	ma	ma	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1209-2	PSB005	1209	2	adesso	adesso	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -9351,7 +9351,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1362-9	PSB091	1362	9	ho	ho	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	Volume=low	_	_	_	_	0-2(427)
 1362-10	PSB091	1362	10	fatto	fatto	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	Volume=low	_	_	_	_	0-5(427)
 1362-11	PSB091	1362	11	la	la	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	Volume=low	_	_	_	_	0-2(427)
-1362-12	PSB091	1362	12	#dada]°	dada	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	Volume=low	End=3058.72	_	_	_	0-5(427)
+1362-12	PSB091	1362	12	#dada]°	dada	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	Volume=low	End=3058.72	_	_	_	0-5(427)
 1363-0	PSB005	1363	0	[°ah	ah	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	Begin=3057.904	_	_	_	0-2(427)
 1363-1	PSB005	1363	1	okay°]	okay	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	End=3058.61	_	_	_	0-4(427)
 1364-0	PSB005	1364	0	ah	ah	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=3059.005	_	_	_	_
@@ -11479,8 +11479,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1648-19	PSB091	1648	19	lui	lui	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 1648-20	PSB091	1648	20	lui	lui	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 1648-21	PSB091	1648	21	tifava	tifava	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-1648-22	PSB091	1648	22	#shakhtar	shakhtar	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-1648-23	PSB091	1648	23	#donetsk	donetsk	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+1648-22	PSB091	1648	22	#shakhtar	shakhtar	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+1648-23	PSB091	1648	23	#donetsk	donetsk	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 1648-24	PSB091	1648	24	°che	che	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	Volume=low	_	_	_	_	_
 1648-25	PSB091	1648	25	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	Volume=low	_	_	_	_	_
 1648-26	PSB091	1648	26	una	una	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	Volume=low	_	_	_	_	_
@@ -12210,7 +12210,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1743-2	PSB005	1743	2	anche	anche	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 1743-3	PSB005	1743	3	la	la	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 1743-4	PSB005	1743	4	mia:::	mia	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	2x3	_	_	_
-1743-5	PSB005	1743	5	#dada	dada	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+1743-5	PSB005	1743	5	#dada	dada	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 1743-6	PSB005	1743	6	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 1743-7	PSB005	1743	7	venuta	venuta	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 1743-8	PSB005	1743	8	in	in	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_

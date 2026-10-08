@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	PSB014	0	0	°sì	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	Begin=0.21	_	_	_	_
 0-1	PSB014	0	1	fa	fa	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	_	_	_	_	_
 0-2	PSB014	0	2	freddo°	freddo	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	_	_	_	_	_
@@ -262,18 +262,18 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 77-9	PSB014	77	9	non	non	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 77-10	PSB014	77	10	arabo	arabo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 77-11	PSB014	77	11	tradizonale	tradizonale	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-77-12	PSB014	77	12	#fuṣḥā	fuṣḥā	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+77-12	PSB014	77	12	#fuṣḥā	fuṣḥā	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 77-13	PSB014	77	13	capito?	capito	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	Intonation=Rising	End=95.64	_	_	_	_
 78-0	PSB034	78	0	°sì°	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	Begin=95.8|End=96.187	_	_	_	_
 79-0	PSB014	79	0	no	no	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=96.187|End=96.48	_	_	_	_
-80-0	PSB034	80	0	#_ dārija	dārija	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=96.507	_	_	_	_
+80-0	PSB034	80	0	#_ dārija	dārija	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=96.507	_	_	_	_
 80-1	PSB034	80	1	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=Yes	_	End=97.28	_	_	_	_
-82-0	PSB014	82	0	#dārija	dārija	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=97.28	_	_	_	_
+82-0	PSB014	82	0	#dārija	dārija	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=97.28	_	_	_	_
 82-1	PSB014	82	1	bravo	bravo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 82-2	PSB014	82	2	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=Yes	_	End=101.12	_	_	_	_
-83-0	PSB034	83	0	#_ dārija	dārija	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=98.627	_	_	_	_
+83-0	PSB034	83	0	#_ dārija	dārija	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=98.627	_	_	_	_
 83-1	PSB034	83	1	xx	xx	_	_	_	_	_	unknown	_	ContainsVariation=Yes	Syllables=2	_	_	_	_	_
-83-2	PSB034	83	2	dārija	dārija	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+83-2	PSB034	83	2	dārija	dārija	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 83-3	PSB034	83	3	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=Yes	_	End=101.924	_	_	_	_
 84-0	PSB033	84	0	ehm::	ehm	_	_	_	_	_	linguistic	_	ContainsVariation=No	PauseAfter=Yes	Begin=101.12	2x2	_	_	_
 84-1	PSB033	84	1	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	_	_	_
@@ -670,13 +670,13 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 201-7	PSB033	201	7	quindi	quindi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 201-8	PSB033	201	8	pa~	pa~	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	Interrupted=Yes	_	_	_	_	_
 201-9	PSB033	201	9	parli	parli	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-201-10	PSB033	201	10	#dārija,	dārija	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	Intonation=WeaklyRising	_	_	_	_	_
+201-10	PSB033	201	10	#dārija,	dārija	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	Intonation=WeaklyRising	_	_	_	_	_
 201-11	PSB033	201	11	in	in	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 201-12	PSB033	201	12	dialetto?	dialetto	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	Intonation=Rising	End=258.973	_	_	_	_
 202-0	PSB034	202	0	no	no	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	Begin=259.147	_	_	_	_
 202-1	PSB034	202	1	parlo	parlo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 202-2	PSB034	202	2	in	in	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-202-3	PSB034	202	3	#dārija	dārija	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+202-3	PSB034	202	3	#dārija	dārija	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 202-4	PSB034	202	4	con,	con	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	Intonation=WeaklyRising	_	_	_	_	_
 202-5	PSB034	202	5	con	con	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 202-6	PSB034	202	6	il	il	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
@@ -730,7 +730,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 215-2	PSB034	215	2	settembre	settembre	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	PauseAfter=Yes	_	_	_	_	_
 215-3	PSB034	215	3	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=Yes	_	_	_	_	_	_
 215-4	PSB034	215	4	prossimo	prossimo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-215-5	PSB034	215	5	(#nkəmməl)	nkəmməl	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	0-8(0)	_
+215-5	PSB034	215	5	(#nkəmməl)	nkəmməl	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	0-8(0)	_
 215-6	PSB034	215	6	venti	venti	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	End=283.56	_	_	_	_
 217-0	PSB033	217	0	venti?	venti	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising	Begin=283.573	_	_	_	_
 217-1	PSB033	217	1	a:h	ah	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=284.347	0x1	_	_	_
@@ -870,11 +870,11 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 258-0	PSB033	258	0	[pizza]	pizza	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=340.347	_	_	_	0-5(64)
 258-1	PSB033	258	1	pasta,	pasta	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising	_	_	_	_	_
 258-2	PSB033	258	2	o::	o	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=341.947	0x2	_	_	_
-259-0	PSB034	259	0	#_ ṭājīn	ṭājīn	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=343.253	_	_	_	_
+259-0	PSB034	259	0	#_ ṭājīn	ṭājīn	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=343.253	_	_	_	_
 259-1	PSB034	259	1	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=Yes	_	End=344.08	_	_	_	_
-260-0	PSB033	260	0	#_ ṭāj[īn	ṭājīn	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=343.973	_	_	_	3-5(66)
-260-1	PSB033	260	1	eh]	eh	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=344.76	_	_	_	0-2(66)
-261-0	PSB014	261	0	#ṭājīn	ṭājīn	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=344.307	_	_	_	_
+260-0	PSB033	260	0	#_ ṭāj[īn	ṭājīn	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=343.973	_	_	_	3-5(66)
+260-1	PSB033	260	1	eh]	eh	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=344.76	_	_	_	0-2(66)
+261-0	PSB014	261	0	#ṭājīn	ṭājīn	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=344.307	_	_	_	_
 261-1	PSB014	261	1	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=Yes	_	_	_	_	_	_
 261-2	PSB014	261	2	e	e	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 261-3	PSB014	261	3	quindi	quindi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
@@ -882,15 +882,15 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 261-5	PSB014	261	5	quello	quello	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 261-6	PSB014	261	6	[marocchino]?	marocchino	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	Intonation=Rising	End=345.987	_	_	_	0-10(67)
 262-0	PSB033	262	0	[ta~]	ta~	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	Interrupted=Yes	Begin=345.52	_	_	_	0-3(67)
-262-1	PSB033	262	1	#ṭājīn	ṭājīn	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+262-1	PSB033	262	1	#ṭājīn	ṭājīn	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 262-2	PSB033	262	2	o	o	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 262-3	PSB033	262	3	pizza?	pizza	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	Intonation=Rising	End=346.933	_	_	_	_
-263-0	PSB033	263	0	#_ ṭāj[īn]	ṭājīn	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=346.987|End=347.76	_	_	_	3-5(68)
-264-0	PSB034	264	0	#_ [ṭājīn]	ṭājīn	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=347.32	_	_	_	0-5(68)
-264-1	PSB034	264	1	ṭājīn	ṭājīn	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+263-0	PSB033	263	0	#_ ṭāj[īn]	ṭājīn	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=346.987|End=347.76	_	_	_	3-5(68)
+264-0	PSB034	264	0	#_ [ṭājīn]	ṭājīn	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=347.32	_	_	_	0-5(68)
+264-1	PSB034	264	1	ṭājīn	ṭājīn	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 264-2	PSB034	264	2	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=Yes	_	End=349.32	_	_	_	_
 265-0	PSB033	265	0	meglio	meglio	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	Begin=347.96	_	_	_	_
-265-1	PSB033	265	1	[#ṭājīn]	ṭājīn	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-6(?)
+265-1	PSB033	265	1	[#ṭājīn]	ṭājīn	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-6(?)
 265-2	PSB033	265	2	più	più	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 265-3	PSB033	265	3	buo[no]	buono	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	End=349.387	_	_	_	3-5(?)
 266-0	PSB014	266	0	[e::h],	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising	Begin=349.173	0x2	_	_	0-2(187)
@@ -934,7 +934,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 277-3	PSB033	277	3	dove	dove	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 277-4	PSB033	277	4	mangi	mangi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 277-5	PSB033	277	5	il	il	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-277-6	PSB033	277	6	#ṭājīn?	ṭājīn	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	Intonation=Rising|PauseAfter=Yes	_	_	_	_	_
+277-6	PSB033	277	6	#ṭājīn?	ṭājīn	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	Intonation=Rising|PauseAfter=Yes	_	_	_	_	_
 277-7	PSB033	277	7	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=Yes	_	_	_	_	_	_
 277-8	PSB033	277	8	lo	lo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 277-9	PSB033	277	9	fai	fai	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
@@ -1260,20 +1260,20 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 368-1	PSB014	368	1	ghali::	ghali	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	4x2	_	_	_
 368-2	PSB014	368	2	aiuta	aiuta	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=492.867	_	_	_	_
 369-0	PSB034	369	0	°e::,	e	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	Intonation=WeaklyRising|Volume=low	Begin=492.88	0x2	_	_	_
-369-1	PSB034	369	1	#baby	baby	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	Volume=low	_	_	_	_	_
+369-1	PSB034	369	1	#baby	baby	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	Volume=low	_	_	_	_	_
 369-2	PSB034	369	2	gang°	gang	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	Volume=low	End=493.947	_	_	_	_
-370-0	PSB014	370	0	#ba[by	baby	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=493.947	_	_	_	3-5(?)
+370-0	PSB014	370	0	#ba[by	baby	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=493.947	_	_	_	3-5(?)
 370-1	PSB014	370	1	gang]	gang	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	0-4(?)
 370-2	PSB014	370	2	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=Yes	_	_	_	_	_	_
 370-3	PSB014	370	3	ecco[ci]	eccoci	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	End=496.08	_	_	_	4-6(?)
 371-0	PSB033	371	0	°ah	ah	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	Volume=low	Begin=493.96	_	_	_	_
-371-1	PSB033	371	1	#baby	baby	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	Volume=low	_	_	_	_	_
+371-1	PSB033	371	1	#baby	baby	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	Volume=low	_	_	_	_	_
 371-2	PSB033	371	2	gang°	gang	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	Volume=low	End=495.253	_	_	_	_
 372-0	PSB034	372	0	[il	il	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	Begin=494.853	_	_	_	0-2(190)
 372-1	PSB034	372	1	suo]	suo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	0-3(190)
 372-2	PSB034	372	2	cantante	cantante	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 372-3	PSB034	372	3	preferito	preferito	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-372-4	PSB034	372	4	[#baby	baby	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-5(90)
+372-4	PSB034	372	4	[#baby	baby	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-5(90)
 372-5	PSB034	372	5	gang]	gang	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	End=497.24	_	_	_	0-4(90)
 373-0	PSB014	373	0	[NON	non	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=high	Begin=496.2	_	_	_	0-3(90)
 373-1	PSB014	373	1	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-1(90)
@@ -1282,7 +1282,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 374-1	PSB033	374	1	sì],	sì	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	Intonation=WeaklyRising	_	_	_	_	0-2(?)
 374-2	PSB033	374	2	lei	lei	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 374-3	PSB033	374	3	ama	ama	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-374-4	PSB033	374	4	#baby	baby	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+374-4	PSB033	374	4	#baby	baby	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 374-5	PSB033	374	5	gang	gang	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	End=499.067	_	_	_	_
 375-0	PSB014	375	0	[non	non	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=497.24	_	_	_	0-3(92)
 375-1	PSB014	375	1	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-1(92)
@@ -1318,7 +1318,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 379-4	PSB034	379	4	>il	il	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	Fast=0-2(0)	_	_
 379-5	PSB034	379	5	marocchino<,	marocchino	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	Intonation=WeaklyRising	_	_	Fast=0-10(0)	_	_
 379-6	PSB034	379	6	[il	il	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	0-2(95)
-379-7	PSB034	379	7	#dārija]	dārija	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=509.84	_	_	_	0-7(95)
+379-7	PSB034	379	7	#dārija]	dārija	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=509.84	_	_	_	0-7(95)
 380-0	PSB014	380	0	marocchino	marocchino	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=508.547|End=509.133	_	_	_	_
 381-0	PSB014	381	0	okay,	okay	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising	Begin=509.987	_	_	_	_
 381-1	PSB014	381	1	sì	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -1335,7 +1335,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 384-4	PSB033	384	4	non	non	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 384-5	PSB033	384	5	lo	lo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 384-6	PSB033	384	6	[conosco]	conosco	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=515.32	_	_	_	0-7(97)
-385-0	PSB014	385	0	#xxx	xxx	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=514.56	_	_	_	_
+385-0	PSB014	385	0	#xxx	xxx	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=514.56	_	_	_	_
 385-1	PSB014	385	1	vuol	vuol	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 385-2	PSB014	385	2	dire	dire	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 385-3	PSB014	385	3	tipo:,	tipo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	Intonation=WeaklyRising	_	3x1	_	_	_
@@ -1749,7 +1749,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 516-7	PSB014	516	7	mare,	mare	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising	_	_	_	_	_
 516-8	PSB014	516	8	cosa	cosa	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 516-9	PSB014	516	9	preferisci?	preferisci	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising	End=688.893	_	_	_	_
-517-0	PSB034	517	0	#(xx	xx	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=689.773	_	_	1-3(0)	_
+517-0	PSB034	517	0	#(xx	xx	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=689.773	_	_	1-3(0)	_
 517-1	PSB034	517	1	xx)	xx	_	_	_	_	_	unknown	_	ContainsVariation=Yes	Syllables=2	End=690.547	_	_	0-2(0)	_
 518-0	PSB014	518	0	entrambi?	entrambi	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising	Begin=690.707|End=691.373	_	_	_	_
 519-0	PSB034	519	0	°sì°	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	Begin=691.467|End=691.853	_	_	_	_

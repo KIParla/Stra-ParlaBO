@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	PSB050	0	0	x	x	_	_	_	_	_	unknown	_	ContainsVariation=No	Syllables=1	Begin=0.0	_	_	_	_
 0-1	PSB050	0	1	e	e	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 0-2	PSB050	0	2	poi	poi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -381,7 +381,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 39-3	PSB049	39	3	suo	suo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 39-4	PSB049	39	4	papa:	papa	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	3x1	_	_	_
 39-5	PSB049	39	5	troppo	troppo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-39-6	PSB049	39	6	#offence	offence	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+39-6	PSB049	39	6	#offence	offence	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 39-7	PSB049	39	7	hai	hai	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 39-8	PSB049	39	8	capito?	capito	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	Intonation=Rising|PauseAfter=Yes	_	_	_	_	_
 39-9	PSB049	39	9	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=Yes	_	_	_	_	_	_
@@ -3565,7 +3565,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 476-1	PSB050	476	1	vai	vai	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1466.086	_	_	_	_
 477-0	PSB049	477	0	ma	ma	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1469.376	_	_	_	_
 477-1	PSB049	477	1	perché?	perché	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising	End=1470.108	_	_	_	_
-478-0	PSB049	478	0	#hello?	hello	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	Intonation=Rising	Begin=1472.209|End=1472.883	_	_	_	_
+478-0	PSB049	478	0	#hello?	hello	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	Intonation=Rising	Begin=1472.209|End=1472.883	_	_	_	_
 479-0	PSB049	479	0	((registrazione_interrotta))	((registrazione_interrotta))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=1478.04|End=1479.5	_	_	_	_
 480-0	PSB049	480	0	e:hm	ehm	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1480.057	0x1	_	_	_
 480-1	PSB049	480	1	e:h	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	0x1	_	_	_

@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	PSB005	0	0	comunque	comunque	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=0.0	_	_	_	_
 0-1	PSB005	0	1	qui	qui	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 0-2	PSB005	0	2	non	non	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -4206,12 +4206,12 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 399-33	PSB010	399	33	però	però	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1581.528	_	_	_	_
 400-0	PSB005	400	0	[mhmh]	mhmh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1579.611|End=1580.139	_	_	_	0-4(126)
 401-0	PSB010	401	0	e	e	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	Begin=1582.25	_	_	_	_
-401-1	PSB010	401	1	#kutia	kutia	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	PauseAfter=Yes	_	_	_	_	_
+401-1	PSB010	401	1	#kutia	kutia	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	PauseAfter=Yes	_	_	_	_	_
 401-2	PSB010	401	2	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=Yes	_	_	_	_	_	_
 401-3	PSB010	401	3	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 401-4	PSB010	401	4	in	in	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 401-5	PSB010	401	5	ucraino	ucraino	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-401-6	PSB010	401	6	#kutia	kutia	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=1585.208	_	_	_	_
+401-6	PSB010	401	6	#kutia	kutia	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=1585.208	_	_	_	_
 402-0	PSB005	402	0	mhmh	mhmh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1585.403|End=1585.764	_	_	_	_
 403-0	PSB010	403	0	e	e	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1586.625	_	_	_	_
 403-1	PSB010	403	1	(di)ceva	diceva	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	0-2(0)	_
@@ -9443,8 +9443,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 947-34	PSB010	947	34	noi	noi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 947-35	PSB010	947	35	eravamo	eravamo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	PauseAfter=Yes	_	_	_	_	_
 947-36	PSB010	947	36	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=Yes	_	_	_	_	_	_
-947-37	PSB010	947	37	#kievskaja	kievskaja	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-947-38	PSB010	947	38	#rus	rus	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=3579.289	_	_	_	_
+947-37	PSB010	947	37	#kievskaja	kievskaja	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+947-38	PSB010	947	38	#rus	rus	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=3579.289	_	_	_	_
 948-0	PSB010	948	0	cioè	cioè	_	_	_	_	_	linguistic	_	ContainsVariation=No	PauseAfter=Yes	Begin=3579.763	_	_	_	_
 948-1	PSB010	948	1	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	_	_	_
 948-2	PSB010	948	2	la	la	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -9508,8 +9508,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 956-2	PSB010	956	2	la	la	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 956-3	PSB010	956	3	base	base	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 956-4	PSB010	956	4	da	da	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-956-5	PSB010	956	5	#kievskaja	kievskaja	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-956-6	PSB010	956	6	#rus	rus	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	PauseAfter=Yes	_	_	_	_	_
+956-5	PSB010	956	5	#kievskaja	kievskaja	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+956-6	PSB010	956	6	#rus	rus	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	PauseAfter=Yes	_	_	_	_	_
 956-7	PSB010	956	7	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=Yes	_	_	_	_	_	_
 956-8	PSB010	956	8	loro	loro	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 956-9	PSB010	956	9	vogliono	vogliono	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_

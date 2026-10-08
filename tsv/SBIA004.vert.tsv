@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	PSB005	0	0	okay	okay	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=0.75|End=1.12	_	_	_	_
 1-0	PSB005	1	0	okay	okay	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2.302|End=2.613	_	_	_	_
 2-0	PSB005	2	0	niente	niente	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=3.255	_	_	_	_
@@ -497,7 +497,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 91-3	PSB017	91	3	verità	verità	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 91-4	PSB017	91	4	col	col	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 91-5	PSB017	91	5	gommone	gommone	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-91-6	PSB017	91	6	#xū:ya	xūya	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=169.847	1x1	_	_	_
+91-6	PSB017	91	6	#xū:ya	xūya	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=169.847	1x1	_	_	_
 93-0	PSB017	93	0	mi	mi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=170.251	_	_	_	_
 93-1	PSB017	93	1	sono	sono	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 93-2	PSB017	93	2	mi	mi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -2517,20 +2517,20 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 471-2	PSB017	471	2	tunisia,	tunisia	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising	_	_	_	_	_
 471-3	PSB017	471	3	algeria	algeria	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=825.156	_	_	_	_
 472-0	PSB017	472	0	e:h	eh	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	Begin=825.6	0x1	_	_	_
-472-1	PSB017	472	1	#_ ʔimārāt	ʔimārāt	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-472-2	PSB017	472	2	#saʕūdi(yya)	saʕūdiyya	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	7-10(0)	_
-472-3	PSB017	472	3	e	e	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-472-4	PSB017	472	4	basta	basta	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-472-5	PSB017	472	5	(sei)	sei	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	0-3(1)	_
-472-6	PSB017	472	6	paesi	paesi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-472-7	PSB017	472	7	quanta	quanta	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-472-8	PSB017	472	8	ne	ne	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-472-9	PSB017	472	9	puoi	puoi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-472-10	PSB017	472	10	incontrare	incontrare	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-472-11	PSB017	472	11	di	di	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-472-12	PSB017	472	12	quella	quella	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-472-13	PSB017	472	13	gente	gente	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-472-14	PSB017	472	14	lì	lì	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=830.256	_	_	_	_
+472-1	PSB017	472	1	#_ ʔimārāt	ʔimārāt	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+472-2	PSB017	472	2	#saʕūdi(yya)	saʕūdiyya	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	7-10(0)	_
+472-3	PSB017	472	3	e	e	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+472-4	PSB017	472	4	basta	basta	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+472-5	PSB017	472	5	(sei)	sei	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	0-3(1)	_
+472-6	PSB017	472	6	paesi	paesi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+472-7	PSB017	472	7	quanta	quanta	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+472-8	PSB017	472	8	ne	ne	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+472-9	PSB017	472	9	puoi	puoi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+472-10	PSB017	472	10	incontrare	incontrare	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+472-11	PSB017	472	11	di	di	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+472-12	PSB017	472	12	quella	quella	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+472-13	PSB017	472	13	gente	gente	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+472-14	PSB017	472	14	lì	lì	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=830.256	_	_	_	_
 474-0	PSB017	474	0	(uno	uno	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=830.497	_	_	0-3(0)	_
 474-1	PSB017	474	1	so)	so	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	0-2(0)	_
 474-2	PSB017	474	2	[con	con	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-3(124)
@@ -3954,10 +3954,10 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 742-3	PSB025	742	3	faccia	faccia	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 742-4	PSB025	742	4	hai	hai	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 742-5	PSB025	742	5	capito?	capito	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising	End=1333.437	_	_	_	_
-743-0	PSB017	743	0	#_ xallī-ni	xallī-ni	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=1333.603	_	_	_	_
-743-1	PSB017	743	1	nsāli	nsāli	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-743-2	PSB017	743	2	bāsh	bāsh	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-743-3	PSB017	743	3	nmshi	nmshi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=1334.485	_	_	_	_
+743-0	PSB017	743	0	#_ xallī-ni	xallī-ni	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=1333.603	_	_	_	_
+743-1	PSB017	743	1	nsāli	nsāli	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+743-2	PSB017	743	2	bāsh	bāsh	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+743-3	PSB017	743	3	nmshi	nmshi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=1334.485	_	_	_	_
 745-0	PSB017	745	0	dopo	dopo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1335.0	_	_	_	_
 745-1	PSB017	745	1	fai	fai	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 745-2	PSB017	745	2	l'	l'	_	_	_	_	_	linguistic	_	ContainsVariation=No	SpaceAfter=No	_	_	_	_	_
@@ -3969,14 +3969,14 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 745-8	PSB017	745	8	a	a	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 745-9	PSB017	745	9	posto?	posto	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising	End=1337.192	_	_	_	_
 746-0	PSB017	746	0	posso?	posso	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising	Begin=1337.6|End=1338.074	_	_	_	_
-747-0	PSB017	747	0	#_ shədd-na	shədd-na	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=1339.5	_	_	_	_
-747-1	PSB017	747	1	hnāya	hnāya	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-747-2	PSB017	747	2	ta-dxul	ta-dxul	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-747-3	PSB017	747	3	w-ddīr	w-ddīr	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-747-4	PSB017	747	4	l-intervista	l-intervista	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-747-5	PSB017	747	5	dyāl-ək	dyāl-ək	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-747-6	PSB017	747	6	[nta	nta	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-3(176)
-747-7	PSB017	747	7	māl(-ək)?]	māl-ək	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	Intonation=Rising	End=1341.4	_	_	_	0-6(176)
+747-0	PSB017	747	0	#_ shədd-na	shədd-na	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=1339.5	_	_	_	_
+747-1	PSB017	747	1	hnāya	hnāya	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+747-2	PSB017	747	2	ta-dxul	ta-dxul	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+747-3	PSB017	747	3	w-ddīr	w-ddīr	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+747-4	PSB017	747	4	l-intervista	l-intervista	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+747-5	PSB017	747	5	dyāl-ək	dyāl-ək	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+747-6	PSB017	747	6	[nta	nta	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-3(176)
+747-7	PSB017	747	7	māl(-ək)?]	māl-ək	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	Intonation=Rising	End=1341.4	_	_	_	0-6(176)
 749-0	PSB025	749	0	[già	già	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1341.303	_	_	_	0-3(176)
 749-1	PSB025	749	1	fa]tto	fatto	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-2(176)
 749-2	PSB025	749	2	io	io	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1341.878	_	_	_	_

@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	PSB005	0	0	allora	allora	_	_	_	_	_	linguistic	_	ContainsVariation=No	PauseAfter=Yes	Begin=0.37	_	_	_	_
 0-1	PSB005	0	1	[(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	_	_	X(0)
 0-2	PSB005	0	2	va]	va	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-2(0)
@@ -163,7 +163,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 29-8	PSB071	29	8	>dice	dice	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	Fast=0-4(0)	_	_
 29-9	PSB071	29	9	ah<	ah	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=63.68	_	Fast=0-2(0)	_	_
 30-0	PSB071	30	0	figlio	figlio	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	Begin=64.26	_	_	_	_
-30-1	PSB071	30	1	#putra	putra	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+30-1	PSB071	30	1	#putra	putra	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 30-2	PSB071	30	2	che	che	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 30-3	PSB071	30	3	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 30-4	PSB071	30	4	figlio	figlio	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	End=66.21	_	_	_	_
@@ -3076,17 +3076,17 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 599-9	PSB071	599	9	lavoro	lavoro	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1123.04	_	_	_	_
 600-0	PSB071	600	0	diciamo	diciamo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1123.39	_	_	_	_
 600-1	PSB071	600	1	da	da	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1124.269	_	_	_	_
-601-0	PSB071	601	0	#_ [che]	che	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=1124.56	_	_	_	0-3(162)
-601-1	PSB071	601	1	è:	è	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	0x1	_	_	_
-601-2	PSB071	601	2	[come	come	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-4(163)
-601-3	PSB071	601	3	si	si	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-2(163)
-601-4	PSB071	601	4	traduce]	traduce	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=1127.074	_	_	_	0-7(163)
+601-0	PSB071	601	0	#_ [che]	che	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=1124.56	_	_	_	0-3(162)
+601-1	PSB071	601	1	è:	è	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	0x1	_	_	_
+601-2	PSB071	601	2	[come	come	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-4(163)
+601-3	PSB071	601	3	si	si	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-2(163)
+601-4	PSB071	601	4	traduce]	traduce	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=1127.074	_	_	_	0-7(163)
 602-0	PSB072	602	0	[sì]	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1125.58|End=1125.962	_	_	_	0-2(162)
 603-0	PSB072	603	0	[uno	uno	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	Begin=1126.29	_	_	_	0-3(163)
 603-1	PSB072	603	1	che:]	che	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	2x1	_	_	0-3(163)
 603-2	PSB072	603	2	guida	guida	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 603-3	PSB072	603	3	il	il	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-603-4	PSB072	603	4	#rickshaw	rickshaw	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=1128.286	_	_	_	_
+603-4	PSB072	603	4	#rickshaw	rickshaw	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=1128.286	_	_	_	_
 604-0	PSB072	604	0	[che	che	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1128.37	_	_	_	0-3(164)
 604-1	PSB072	604	1	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=No	PauseAfter=Yes	_	_	_	_	0-1(164)
 604-2	PSB072	604	2	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	_	_	X(164)
@@ -3094,7 +3094,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 604-4	PSB072	604	4	tipo	tipo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-4(164)
 604-5	PSB072	604	5	di]:	di	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1130.571	1x1	_	_	0-2(164)
 605-0	PSB071	605	0	[il	il	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	Begin=1128.38	_	_	_	0-2(164)
-605-1	PSB071	605	1	#rickshaw	rickshaw	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-9(164)
+605-1	PSB071	605	1	#rickshaw	rickshaw	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-9(164)
 605-2	PSB071	605	2	che	che	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	0-3(164)
 605-3	PSB071	605	3	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	0-1(164)
 605-4	PSB071	605	4	la	la	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	0-2(164)
@@ -3980,7 +3980,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 776-2	PSB073	776	2	sì]	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1449.111	_	_	_	0-2(199)
 777-0	PSB072	777	0	eh	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1451.51	_	_	_	_
 777-1	PSB072	777	1	il	il	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1452.183	_	_	_	_
-778-0	PSB072	778	0	#coaching	coaching	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=1452.33	_	_	_	_
+778-0	PSB072	778	0	#coaching	coaching	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=1452.33	_	_	_	_
 778-1	PSB072	778	1	come	come	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 778-2	PSB072	778	2	come	come	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 778-3	PSB072	778	3	si	si	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
@@ -5157,12 +5157,12 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1018-4	PSB073	1018	4	bi	bi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1018-5	PSB073	1018	5	c~	c~	_	_	_	_	_	linguistic	_	ContainsVariation=No	Interrupted=Yes	_	_	_	_	_
 1018-6	PSB073	1018	6	tipo	tipo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1835.14	_	_	_	_
-1019-0	PSB073	1019	0	#_ a	a	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=1835.52	_	_	_	_
-1019-1	PSB073	1019	1	for	for	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-1019-2	PSB073	1019	2	apple	apple	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-1019-3	PSB073	1019	3	b	b	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-1019-4	PSB073	1019	4	for	for	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-1019-5	PSB073	1019	5	ball	ball	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=1837.19	_	_	_	_
+1019-0	PSB073	1019	0	#_ a	a	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=1835.52	_	_	_	_
+1019-1	PSB073	1019	1	for	for	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+1019-2	PSB073	1019	2	apple	apple	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+1019-3	PSB073	1019	3	b	b	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+1019-4	PSB073	1019	4	for	for	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+1019-5	PSB073	1019	5	ball	ball	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=1837.19	_	_	_	_
 1020-0	PSB073	1020	0	lo	lo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1837.358	_	_	_	_
 1020-1	PSB073	1020	1	sapeva	sapeva	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1020-2	PSB073	1020	2	scrivere,	scrivere	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising	End=1838.941	_	_	_	_
@@ -5826,7 +5826,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1139-3	PSB071	1139	3	cambia~	cambia~	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	Interrupted=Yes	_	_	_	_	_
 1139-4	PSB071	1139	4	far	far	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 1139-5	PSB071	1139	5	lo	lo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-1139-6	PSB071	1139	6	#switch	switch	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=2077.056	_	_	_	_
+1139-6	PSB071	1139	6	#switch	switch	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=2077.056	_	_	_	_
 1140-0	PSB072	1140	0	sì	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2077.69	_	_	_	_
 1140-1	PSB072	1140	1	dopo	dopo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1140-2	PSB072	1140	2	un	un	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -8140,8 +8140,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1544-22	PSB072	1544	22	festa]	festa	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=2899.367	_	_	_	0-5(383)
 1545-0	PSB071	1545	0	[parla	parla	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	Begin=2898.42	_	_	_	0-5(383)
 1545-1	PSB071	1545	1	del]	del	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	0-3(383)
-1545-2	PSB071	1545	2	#durga	durga	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-1545-3	PSB071	1545	3	#puja	puja	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+1545-2	PSB071	1545	2	#durga	durga	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+1545-3	PSB071	1545	3	#puja	puja	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 1545-4	PSB071	1545	4	quello	quello	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 1545-5	PSB071	1545	5	dei	dei	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 1545-6	PSB071	1545	6	cinque	cinque	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
@@ -8600,7 +8600,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1621-9	PSB072	1621	9	tanti	tanti	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1621-10	PSB072	1621	10	di	di	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1621-11	PSB072	1621	11	quei:	quei	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=3069.918	3x1	_	_	_
-1622-0	PSB072	1622	0	#seminar	seminar	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=3070.334	_	_	_	_
+1622-0	PSB072	1622	0	#seminar	seminar	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=3070.334	_	_	_	_
 1622-1	PSB072	1622	1	come	come	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 1622-2	PSB072	1622	2	si	si	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 1622-3	PSB072	1622	3	dice	dice	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	End=3071.515	_	_	_	_
@@ -8982,12 +8982,12 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1688-4	PSB071	1688	4	hanno[:	hanno	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	PauseAfter=Yes	_	4x1	_	_	4-5(416)
 1688-5	PSB071	1688	5	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=Yes	_	_	_	_	_	X(416)
 1688-6	PSB071	1688	6	il	il	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	0-2(416)
-1688-7	PSB071	1688	7	#sindur]	sindur	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=3216.579	_	_	_	0-7(416)
+1688-7	PSB071	1688	7	#sindur]	sindur	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=3216.579	_	_	_	0-7(416)
 1689-0	PSB073	1689	0	[è	è	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	Begin=3215.156	_	_	_	0-1(416)
 1689-1	PSB073	1689	1	il	il	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	0-2(416)
 1689-2	PSB073	1689	2	polvere	polvere	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	0-7(416)
 1689-3	PSB073	1689	3	rosso]	rosso	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	0-5(416)
-1689-4	PSB073	1689	4	#sindur	sindur	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=3217.162	_	_	_	_
+1689-4	PSB073	1689	4	#sindur	sindur	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=3217.162	_	_	_	_
 1690-0	PSB071	1690	0	e	e	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=3217.978	_	_	_	_
 1690-1	PSB071	1690	1	quindi	quindi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=3218.948	_	_	_	_
 1691-0	PSB071	1691	0	fanno	fanno	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=3219.253	_	_	_	_
@@ -11254,7 +11254,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 2125-0	PSB073	2125	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=3963.311|End=3964.388	_	_	_	_
 2126-0	PSB005	2126	0	sì	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=3964.611	_	_	_	_
 2126-1	PSB005	2126	1	[sì]	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=3965.075	_	_	_	0-2(553)
-2127-0	PSB071	2127	0	#[bong]cha	bongcha	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	PauseAfter=Yes	Begin=3964.956	_	_	_	1-5(553)
+2127-0	PSB071	2127	0	#[bong]cha	bongcha	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	PauseAfter=Yes	Begin=3964.956	_	_	_	1-5(553)
 2127-1	PSB071	2127	1	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=Yes	_	_	_	_	_	_
 2127-2	PSB071	2127	2	hanno	hanno	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 2127-3	PSB071	2127	3	sia	sia	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
@@ -11273,11 +11273,11 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 2130-0	PSB073	2130	0	[come	come	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=3969.354	_	_	_	0-4(554)
 2130-1	PSB073	2130	1	si	si	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-2(554)
 2130-2	PSB073	2130	2	chiama]?	chiama	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising	End=3970.026	_	_	_	0-6(554)
-2131-0	PSB073	2131	0	#_ [bong?]	bong	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	Intonation=Rising	Begin=3971.045|End=3971.505	_	_	_	0-4(555)
-2132-0	PSB071	2132	0	#_ [bo]ngcha	bongcha	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=3971.189|End=3971.966	_	_	_	0-2(555)
+2131-0	PSB073	2131	0	#_ [bong?]	bong	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	Intonation=Rising	Begin=3971.045|End=3971.505	_	_	_	0-4(555)
+2132-0	PSB071	2132	0	#_ [bo]ngcha	bongcha	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=3971.189|End=3971.966	_	_	_	0-2(555)
 2133-0	PSB071	2133	0	e[:h]	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=3972.352|End=3972.966	0x1	_	_	1-2(556)
-2134-0	PSB073	2134	0	#_ [°bong°]	bong	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=3972.481|End=3972.917	_	_	_	0-4(556)
-2135-0	PSB071	2135	0	#bongchanit	bongchanit	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=3973.311	_	_	_	_
+2134-0	PSB073	2134	0	#_ [°bong°]	bong	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=3972.481|End=3972.917	_	_	_	0-4(556)
+2135-0	PSB071	2135	0	#bongchanit	bongchanit	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=3973.311	_	_	_	_
 2135-1	PSB071	2135	1	qualcosa	qualcosa	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 2135-2	PSB071	2135	2	del	del	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 2135-3	PSB071	2135	3	genere	genere	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	End=3975.315	_	_	_	_
@@ -11293,13 +11293,13 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 2137-1	PSB073	2137	1	che	che	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 2137-2	PSB073	2137	2	si	si	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 2137-3	PSB073	2137	3	chiama	chiama	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-2137-4	PSB073	2137	4	#bongit	bongit	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+2137-4	PSB073	2137	4	#bongit	bongit	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 2137-5	PSB073	2137	5	penso	penso	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	End=3980.6295	_	_	_	_
 2138-0	PSB071	2138	0	eh	eh	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	Begin=3980.6295	_	_	_	_
-2138-1	PSB071	2138	1	#bongit	bongit	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=3981.602	_	_	_	_
-2139-0	PSB073	2139	0	#_ [bongit]	bongit	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=3981.734|End=3982.499	_	_	_	0-6(1062)
-2140-0	PSB072	2140	0	#_ [bongit]	bongit	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=3981.745|End=3982.51	_	_	_	0-6(1062)
-2141-0	PSB071	2141	0	#_ [bongit]	bongit	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=3981.756|End=3982.521	_	_	_	0-6(1062)
+2138-1	PSB071	2138	1	#bongit	bongit	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=3981.602	_	_	_	_
+2139-0	PSB073	2139	0	#_ [bongit]	bongit	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=3981.734|End=3982.499	_	_	_	0-6(1062)
+2140-0	PSB072	2140	0	#_ [bongit]	bongit	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=3981.745|End=3982.51	_	_	_	0-6(1062)
+2141-0	PSB071	2141	0	#_ [bongit]	bongit	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=3981.756|End=3982.521	_	_	_	0-6(1062)
 2142-0	PSB072	2142	0	l'	l'	_	_	_	_	_	linguistic	_	ContainsVariation=No	SpaceAfter=No	Begin=3983.434	_	_	_	_
 2142-1	PSB072	2142	1	ha	ha	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 2142-2	PSB072	2142	2	[usato	usato	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-5(557)
@@ -11454,7 +11454,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 2174-0	PSB071	2174	0	cioè	cioè	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	Begin=4025.723	_	_	_	_
 2174-1	PSB071	2174	1	fai	fai	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 2174-2	PSB071	2174	2	il	il	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-2174-3	PSB071	2174	3	[#bagar	bagar	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-6(1065)
+2174-3	PSB071	2174	3	[#bagar	bagar	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-6(1065)
 2174-4	PSB071	2174	4	che	che	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	0-3(1065)
 2174-5	PSB071	2174	5	è:]	è	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	End=4027.723	0x1	_	_	0-1(1065)
 2175-0	PSB072	2175	0	[sì	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=4026.267	_	_	_	0-2(1065)
@@ -11470,7 +11470,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 2177-1	PSB071	2177	1	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=Yes	_	_	_	_	_	_
 2177-2	PSB071	2177	2	chiarificato	chiarificato	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 2177-3	PSB071	2177	3	il	il	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-2177-4	PSB071	2177	4	#ghi	ghi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=4030.578	_	_	_	_
+2177-4	PSB071	2177	4	#ghi	ghi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=4030.578	_	_	_	_
 2178-0	PSB072	2178	0	lei	lei	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=4031.189	_	_	_	_
 2178-1	PSB072	2178	1	lei	lei	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 2178-2	PSB072	2178	2	si	si	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -11590,15 +11590,15 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 2196-2	PSB072	2196	2	spiega	spiega	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 2196-3	PSB072	2196	3	il	il	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 2196-4	PSB072	2196	4	piatto	piatto	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-2196-5	PSB072	2196	5	#chili	chili	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-2196-6	PSB072	2196	6	#chicken	chicken	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+2196-5	PSB072	2196	5	#chili	chili	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+2196-6	PSB072	2196	6	#chicken	chicken	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 2196-7	PSB072	2196	7	°come	come	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	Volume=low	_	_	_	_	_
 2196-8	PSB072	2196	8	si	si	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	Volume=low	_	_	_	_	_
 2196-9	PSB072	2196	9	fa°	fa	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	Volume=low	End=4081.393	_	_	_	_
 2197-0	PSB073	2197	0	no	no	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	Begin=4081.467	_	_	_	_
 2197-1	PSB073	2197	1	amo	amo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-2197-2	PSB073	2197	2	#chili	chili	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-2197-3	PSB073	2197	3	#chicken	chicken	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+2197-2	PSB073	2197	2	#chili	chili	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+2197-3	PSB073	2197	3	#chicken	chicken	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 2197-4	PSB073	2197	4	non	non	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 2197-5	PSB073	2197	5	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 2197-6	PSB073	2197	6	piatto	piatto	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
@@ -11609,34 +11609,34 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 2199-0	PSB072	2199	0	[vabbè	vabbè	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	Begin=4083.7	_	_	_	0-5(?)
 2199-1	PSB072	2199	1	allora	allora	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	0-6(?)
 2199-2	PSB072	2199	2	ba~	ba~	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	Interrupted=Yes	_	_	_	_	0-3(?)
-2199-3	PSB072	2199	3	#butter	butter	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-7(?)
-2199-4	PSB072	2199	4	#chicken	chicken	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-8(?)
-2199-5	PSB072	2199	5	#butter	butter	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-7(?)
-2199-6	PSB072	2199	6	#chicken]	chicken	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=4086.482	_	_	_	0-8(?)
+2199-3	PSB072	2199	3	#butter	butter	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-7(?)
+2199-4	PSB072	2199	4	#chicken	chicken	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-8(?)
+2199-5	PSB072	2199	5	#butter	butter	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-7(?)
+2199-6	PSB072	2199	6	#chicken]	chicken	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=4086.482	_	_	_	0-8(?)
 2200-0	PSB071	2200	0	[è	è	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=4085.156	_	_	_	0-1(1066)
 2200-1	PSB071	2200	1	ingle~]	ingle~	_	_	_	_	_	linguistic	_	ContainsVariation=No	Interrupted=Yes	End=4085.719	_	_	_	0-6(1066)
 2201-0	PSB071	2201	0	[ingle]ci~	ingleci~	_	_	_	_	_	linguistic	_	ContainsVariation=No	Interrupted=Yes	Begin=4086.062	_	_	_	0-5(573)
 2201-1	PSB071	2201	1	cioè	cioè	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 2201-2	PSB071	2201	2	occidentalizzato	occidentalizzato	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=4088.572	_	_	_	_
 2202-0	PSB073	2202	0	eh	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=4088.489|End=4088.855	_	_	_	_
-2203-0	PSB072	2203	0	#_ butter	butter	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=4088.911	_	_	_	_
-2203-1	PSB072	2203	1	chicken	chicken	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=4089.481	_	_	_	_
-2204-0	PSB073	2204	0	#butter	butter	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=4089.567	_	_	_	_
-2204-1	PSB073	2204	1	#chicken	chicken	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+2203-0	PSB072	2203	0	#_ butter	butter	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=4088.911	_	_	_	_
+2203-1	PSB072	2203	1	chicken	chicken	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=4089.481	_	_	_	_
+2204-0	PSB073	2204	0	#butter	butter	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=4089.567	_	_	_	_
+2204-1	PSB073	2204	1	#chicken	chicken	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 2204-2	PSB073	2204	2	no[n	non	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	2-3(?)
 2204-3	PSB073	2204	3	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	0-1(?)
 2204-4	PSB073	2204	4	di	di	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	0-2(?)
 2204-5	PSB073	2204	5	cal]cutta	calcutta	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	0-3(?)
 2204-6	PSB073	2204	6	amore	amore	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 2204-7	PSB073	2204	7	mio,	mio	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	Intonation=WeaklyRising	End=4092.793	_	_	_	_
-2205-0	PSB071	2205	0	#_ [chicken]	chicken	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=4090.756|End=4091.445	_	_	_	0-7(575)
+2205-0	PSB071	2205	0	#_ [chicken]	chicken	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=4090.756|End=4091.445	_	_	_	0-7(575)
 2206-0	PSB072	2206	0	[vabbè	vabbè	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=4092.078	_	_	_	0-5(?)
 2206-1	PSB072	2206	1	(chiaro)]	chiaro	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=4093.575	_	_	0-6(0)	0-6(?)
-2207-0	PSB071	2207	0	#_ [dimer	dimer	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=4092.856	_	_	_	0-5(578)
-2207-1	PSB071	2207	1	torkari]	torkari	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=4093.53	_	_	_	0-7(578)
+2207-0	PSB071	2207	0	#_ [dimer	dimer	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=4092.856	_	_	_	0-5(578)
+2207-1	PSB071	2207	1	torkari]	torkari	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=4093.53	_	_	_	0-7(578)
 2208-0	PSB073	2208	0	xxx	xxx	_	_	_	_	_	unknown	_	ContainsVariation=No	Syllables=3	Begin=4093.567|End=4094.033	_	_	_	_
-2209-0	PSB071	2209	0	#_ dimer	dimer	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=4094.123	_	_	_	_
-2209-1	PSB071	2209	1	torkari	torkari	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+2209-0	PSB071	2209	0	#_ dimer	dimer	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=4094.123	_	_	_	_
+2209-1	PSB071	2209	1	torkari	torkari	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 2209-2	PSB071	2209	2	xx	xx	_	_	_	_	_	unknown	_	ContainsVariation=Yes	Syllables=2	End=4095.561	_	_	_	_
 2210-0	PSB072	2210	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=4095.589	_	_	_	_
 2210-1	PSB072	2210	1	sì	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=4096.26	_	_	_	_
@@ -11679,12 +11679,12 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 2222-0	PSB073	2222	0	come	come	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	Begin=4108.723	_	_	_	_
 2222-1	PSB073	2222	1	si	si	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 2222-2	PSB073	2222	2	chiama	chiama	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-2222-3	PSB073	2222	3	[#*]		_	_	_	_	_	warning	_	ContainsVariation=Yes|Variety=Unassignable|Language=NO_ISO_CODE	_	End=4110.426	_	_	_	0-2(581)
+2222-3	PSB073	2222	3	[#*]		_	_	_	_	_	warning	_	ContainsVariation=Yes|Code=Unsure|Language=NO_ISO_CODE	_	End=4110.426	_	_	_	0-2(581)
 2223-0	PSB072	2223	0	[cosa]	cosa	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=4109.8|End=4110.159	_	_	_	0-4(581)
 2224-0	PSB071	2224	0	e::h	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=4110.534|End=4111.507	0x2	_	_	_
 2225-0	PSB072	2225	0	cosa?	cosa	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising	Begin=4112.078|End=4112.447	_	_	_	_
-2226-0	PSB073	2226	0	#_ turmeric	turmeric	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=4112.5	_	_	_	_
-2226-1	PSB073	2226	1	turmeric	turmeric	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=4114.212	_	_	_	_
+2226-0	PSB073	2226	0	#_ turmeric	turmeric	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=4112.5	_	_	_	_
+2226-1	PSB073	2226	1	turmeric	turmeric	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=4114.212	_	_	_	_
 2227-0	PSB072	2227	0	ah	ah	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=4114.263|End=4114.562	_	_	_	_
 2228-0	PSB072	2228	0	curcuma	curcuma	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=4114.678|End=4115.149	_	_	_	_
 2229-0	PSB071	2229	0	[curcuma]	curcuma	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=4115.211|End=4115.683	_	_	_	0-7(582)
@@ -11850,8 +11850,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 2263-4	PSB073	2263	4	come	come	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 2263-5	PSB073	2263	5	si	si	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 2263-6	PSB073	2263	6	chiama	chiama	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-2263-7	PSB073	2263	7	#jira,	jira	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	Intonation=WeaklyRising	End=4162.295	_	_	_	_
-2264-0	PSB073	2264	0	#_ cumin?	cumin	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	Intonation=Rising	Begin=4163.484|End=4164.092000000001	_	_	_	_
+2263-7	PSB073	2263	7	#jira,	jira	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	Intonation=WeaklyRising	End=4162.295	_	_	_	_
+2264-0	PSB073	2264	0	#_ cumin?	cumin	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	Intonation=Rising	Begin=4163.484|End=4164.092000000001	_	_	_	_
 2265-0	PSB071	2265	0	cumino	cumino	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=4164.092000000001	_	_	_	_
 2265-1	PSB071	2265	1	sì	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=4164.876	_	_	_	_
 2266-0	PSB073	2266	0	cumino,	cumino	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising	Begin=4164.989	_	_	_	_
@@ -11860,8 +11860,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 2267-1	PSB073	2267	1	si	si	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 2267-2	PSB073	2267	2	mette	mette	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 2267-3	PSB073	2267	3	il	il	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-2267-4	PSB073	2267	4	#cumin	cumin	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-2267-5	PSB073	2267	5	#seeds,	seeds	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	Intonation=WeaklyRising	End=4168.993	_	_	_	_
+2267-4	PSB073	2267	4	#cumin	cumin	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+2267-5	PSB073	2267	5	#seeds,	seeds	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	Intonation=WeaklyRising	End=4168.993	_	_	_	_
 2268-0	PSB072	2268	0	a	a	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=4169.004	_	_	_	_
 2268-1	PSB072	2268	1	friggere,	friggere	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising	End=4169.819	_	_	_	_
 2269-0	PSB073	2269	0	sì	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=4171.067	_	_	_	_
@@ -12005,10 +12005,10 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 2289-3	PSB073	2289	3	quelle	quelle	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 2289-4	PSB073	2289	4	spezie	spezie	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=4229.373	_	_	_	_
 2290-0	PSB073	2290	0	eh	eh	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	Begin=4229.556	_	_	_	_
-2290-1	PSB073	2290	1	#cumin,	cumin	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	Intonation=WeaklyRising	End=4230.886	_	_	_	_
+2290-1	PSB073	2290	1	#cumin,	cumin	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	Intonation=WeaklyRising	End=4230.886	_	_	_	_
 2291-0	PSB073	2291	0	e:hm	ehm	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=4231.385|End=4231.905	0x1	_	_	_
 2292-0	PSB073	2292	0	poi	poi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	Begin=4232.443	_	_	_	_
-2292-1	PSB073	2292	1	#coriander	coriander	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=4233.77	_	_	_	_
+2292-1	PSB073	2292	1	#coriander	coriander	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=4233.77	_	_	_	_
 2293-0	PSB073	2293	0	sono	sono	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=4234.036	_	_	_	_
 2293-1	PSB073	2293	1	le	le	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 2293-2	PSB073	2293	2	spezie	spezie	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -12029,7 +12029,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 2295-4	PSB005	2295	4	sì	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=4237.753	_	_	_	_
 2296-0	PSB073	2296	0	coriandolo	coriandolo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	Begin=4237.745	_	_	_	_
 2296-1	PSB073	2296	1	poi	poi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-2296-2	PSB073	2296	2	#cumin	cumin	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+2296-2	PSB073	2296	2	#cumin	cumin	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 2296-3	PSB073	2296	3	sarebbe	sarebbe	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 2296-4	PSB073	2296	4	un	un	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 2296-5	PSB073	2296	5	altro	altro	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
@@ -12052,10 +12052,10 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 2300-1	PSB073	2300	1	curcuma,	curcuma	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising	End=4247.012	_	_	_	_
 2301-0	PSB072	2301	0	[curcuma]	curcuma	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=4245.448|End=4245.921	_	_	_	0-7(606)
 2302-0	PSB073	2302	0	poi,	poi	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising	Begin=4247.2|End=4247.667	_	_	_	_
-2303-0	PSB073	2303	0	#kashmiri	kashmiri	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=4248.1	_	_	_	_
-2303-1	PSB073	2303	1	#red	red	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-2303-2	PSB073	2303	2	#chili	chili	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-2303-3	PSB073	2303	3	#powder	powder	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+2303-0	PSB073	2303	0	#kashmiri	kashmiri	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=4248.1	_	_	_	_
+2303-1	PSB073	2303	1	#red	red	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+2303-2	PSB073	2303	2	#chili	chili	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+2303-3	PSB073	2303	3	#powder	powder	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 2303-4	PSB073	2303	4	che	che	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 2303-5	PSB073	2303	5	sarebbe	sarebbe	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 2303-6	PSB073	2303	6	un	un	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
@@ -12089,10 +12089,10 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 2309-5	PSB073	2309	5	si	si	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	0-2(?)
 2309-6	PSB073	2309	6	chiama	chiama	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	0-6(?)
 2309-7	PSB073	2309	7	proprio]	proprio	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	0-7(?)
-2309-8	PSB073	2309	8	#kashmiri	kashmiri	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-2309-9	PSB073	2309	9	#red	red	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-2309-10	PSB073	2309	10	#chili	chili	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-2309-11	PSB073	2309	11	#powder	powder	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+2309-8	PSB073	2309	8	#kashmiri	kashmiri	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+2309-9	PSB073	2309	9	#red	red	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+2309-10	PSB073	2309	10	#chili	chili	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+2309-11	PSB073	2309	11	#powder	powder	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 2309-12	PSB073	2309	12	che	che	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 2309-13	PSB073	2309	13	fanno	fanno	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 2309-14	PSB073	2309	14	in	in	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	End=4262.735	_	_	_	_
@@ -12112,8 +12112,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 2315-2	PSB073	2315	2	sempre	sempre	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 2315-3	PSB073	2315	3	il	il	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 2315-4	PSB073	2315	4	il	il	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-2315-5	PSB073	2315	5	#chili	chili	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-2315-6	PSB073	2315	6	#chili	chili	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+2315-5	PSB073	2315	5	#chili	chili	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+2315-6	PSB073	2315	6	#chili	chili	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 2315-7	PSB073	2315	7	come	come	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 2315-8	PSB073	2315	8	si	si	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 2315-9	PSB073	2315	9	dice	dice	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
@@ -12198,10 +12198,10 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 2333-1	PSB073	2333	1	quel	quel	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 2333-2	PSB073	2333	2	polvere	polvere	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 2333-3	PSB073	2333	3	di	di	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-2333-4	PSB073	2333	4	#kashmiri	kashmiri	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-2333-5	PSB073	2333	5	#red	red	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-2333-6	PSB073	2333	6	#chili	chili	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-2333-7	PSB073	2333	7	#powder	powder	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+2333-4	PSB073	2333	4	#kashmiri	kashmiri	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+2333-5	PSB073	2333	5	#red	red	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+2333-6	PSB073	2333	6	#chili	chili	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+2333-7	PSB073	2333	7	#powder	powder	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 2333-8	PSB073	2333	8	perché	perché	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 2333-9	PSB073	2333	9	per	per	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 2333-10	PSB073	2333	10	dare	dare	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
@@ -13303,7 +13303,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 2539-1	PSB073	2539	1	quei	quei	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 2539-2	PSB073	2539	2	pezzi	pezzi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 2539-3	PSB073	2539	3	[sì	sì	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	0-2(698)
-2539-4	PSB073	2539	4	#fuchka]	fuchka	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=4631.615	_	_	_	0-7(698)
+2539-4	PSB073	2539	4	#fuchka]	fuchka	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=4631.615	_	_	_	0-7(698)
 2540-0	PSB072	2540	0	[sì	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=4630.823	_	_	_	0-2(698)
 2540-1	PSB072	2540	1	quello]	quello	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=4631.489	_	_	_	0-6(698)
 2541-0	PSB073	2541	0	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=4632.389	_	_	_	_
@@ -13386,7 +13386,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 2556-2	PSB071	2556	2	nostro]	nostro	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	0-6(708)
 2556-3	PSB071	2556	3	sono	sono	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 2556-4	PSB071	2556	4	i	i	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-2556-5	PSB071	2556	5	#bhorta	bhorta	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+2556-5	PSB071	2556	5	#bhorta	bhorta	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 2556-6	PSB071	2556	6	che	che	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 2556-7	PSB071	2556	7	diceva	diceva	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 2556-8	PSB071	2556	8	lui	lui	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
@@ -13460,11 +13460,11 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 2569-3	PSB071	2569	3	al~	al~	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	Interrupted=Yes	_	_	_	_	_
 2569-4	PSB071	2569	4	però	però	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 2569-5	PSB071	2569	5	il	il	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-2569-6	PSB071	2569	6	#bhorta	bhorta	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+2569-6	PSB071	2569	6	#bhorta	bhorta	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 2569-7	PSB071	2569	7	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 2569-8	PSB071	2569	8	diver[so	diverso	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	5-7(712)
 2569-9	PSB071	2569	9	il	il	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	0-2(712)
-2569-10	PSB071	2569	10	#bhorta]	bhorta	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-7(712)
+2569-10	PSB071	2569	10	#bhorta]	bhorta	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-7(712)
 2569-11	PSB071	2569	11	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 2569-12	PSB071	2569	12	un'	un'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	SpaceAfter=No	_	_	_	_	_
 2569-13	PSB071	2569	13	altra	altra	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
@@ -13477,17 +13477,17 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 2570-1	PSB072	2570	1	sì	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-2(712)
 2570-2	PSB072	2570	2	sì]	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=4678.496	_	_	_	0-2(712)
 2571-0	PSB072	2571	0	[sì	sì	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	Begin=4679.0	_	_	_	0-2(1088)
-2571-1	PSB072	2571	1	#bhorta]	bhorta	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=4679.858	_	_	_	0-7(1088)
+2571-1	PSB072	2571	1	#bhorta]	bhorta	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=4679.858	_	_	_	0-7(1088)
 2572-0	PSB073	2572	0	[ah	ah	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	Begin=4679.568	_	_	_	0-2(1088)
-2572-1	PSB073	2572	1	#bhorta	bhorta	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-7(1088)
+2572-1	PSB073	2572	1	#bhorta	bhorta	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-7(1088)
 2572-2	PSB073	2572	2	no]	no	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	0-2(1088)
-2572-3	PSB073	2572	3	[#bhorta]	bhorta	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-7(713)
+2572-3	PSB073	2572	3	[#bhorta]	bhorta	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-7(713)
 2572-4	PSB073	2572	4	[pure	pure	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	0-4(714)
 2572-5	PSB073	2572	5	c'	c'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	SpaceAfter=No	_	_	_	_	0-2(714)
 2572-6	PSB073	2572	6	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	0-1(714)
 2572-7	PSB073	2572	7	calcu][tta]	calcutta	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	End=4682.269	_	_	_	0-5(714),5-8(715)
 2573-0	PSB072	2573	0	[sì]	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=4680.546|End=4680.803	_	_	_	0-2(713)
-2574-0	PSB071	2574	0	[#bhorta:]	bhorta	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=4681.012|End=4681.877	5x1	_	_	0-7(714)
+2574-0	PSB071	2574	0	[#bhorta:]	bhorta	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=4681.012|End=4681.877	5x1	_	_	0-7(714)
 2575-0	PSB072	2575	0	[>cioè<	cioè	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=4682.0	_	Fast=0-4(0)	_	0-4(?)
 2575-1	PSB072	2575	1	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-1(?)
 2575-2	PSB072	2575	2	un	un	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-2(?)
@@ -13546,8 +13546,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 2587-0	PSB073	2587	0	[olio	olio	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	Begin=4691.845	_	_	_	0-4(1090)
 2587-1	PSB073	2587	1	eh	eh	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	0-2(1090)
 2587-2	PSB073	2587	2	il	il	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	0-2(1090)
-2587-3	PSB073	2587	3	#mustard	mustard	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-8(1090)
-2587-4	PSB073	2587	4	#oil]	oil	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=4693.426	_	_	_	0-4(1090)
+2587-3	PSB073	2587	3	#mustard	mustard	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-8(1090)
+2587-4	PSB073	2587	4	#oil]	oil	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=4693.426	_	_	_	0-4(1090)
 2588-0	PSB071	2588	0	[di	di	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=4692.578	_	_	_	0-2(1090)
 2588-1	PSB071	2588	1	mostarda]	mostarda	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=4693.54	_	_	_	0-8(1090)
 2589-0	PSB072	2589	0	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=4693.556	_	_	_	_
@@ -13559,8 +13559,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 2589-6	PSB072	2589	6	olio	olio	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 2589-7	PSB072	2589	7	di	di	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 2589-8	PSB072	2589	8	senape	senape	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=4695.858	_	_	_	_
-2590-0	PSB073	2590	0	#_ [mustard	mustard	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=4694.356	_	_	_	0-7(722)
-2590-1	PSB073	2590	1	oil]	oil	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=4694.922	_	_	_	0-3(722)
+2590-0	PSB073	2590	0	#_ [mustard	mustard	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=4694.356	_	_	_	0-7(722)
+2590-1	PSB073	2590	1	oil]	oil	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=4694.922	_	_	_	0-3(722)
 2591-0	PSB071	2591	0	[sì	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=4695.256	_	_	_	0-2(723)
 2591-1	PSB071	2591	1	se]pa~	sepa~	_	_	_	_	_	linguistic	_	ContainsVariation=No	Interrupted=Yes	_	_	_	_	0-2(723)
 2591-2	PSB071	2591	2	senape	senape	_	_	_	_	_	linguistic	_	ContainsVariation=No	PauseAfter=Yes	_	_	_	_	_
@@ -13571,8 +13571,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 2592-2	PSB072	2592	2	senape	senape	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=4698.054	_	_	_	_
 2593-0	PSB005	2593	0	[sì]	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=4697.123|End=4697.431	_	_	_	0-2(1091)
 2594-0	PSB071	2594	0	[eh]	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=4698.178|End=4698.485	_	_	_	0-2(?)
-2595-0	PSB073	2595	0	#mustard	mustard	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=4698.489	_	_	_	_
-2595-1	PSB073	2595	1	#oil	oil	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+2595-0	PSB073	2595	0	#mustard	mustard	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=4698.489	_	_	_	_
+2595-1	PSB073	2595	1	#oil	oil	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 2595-2	PSB073	2595	2	non	non	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 2595-3	PSB073	2595	3	lo	lo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 2595-4	PSB073	2595	4	s[o	so	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	1-2(724)
@@ -13649,7 +13649,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 2603-1	PSB072	2603	1	no	no	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	0-2(729)
 2603-2	PSB072	2603	2	no]	no	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	0-2(729)
 2603-3	PSB072	2603	3	no	no	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-2603-4	PSB072	2603	4	#mustard	mustard	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+2603-4	PSB072	2603	4	#mustard	mustard	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 2603-5	PSB072	2603	5	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 2603-6	PSB072	2603	6	quella	quella	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 2603-7	PSB072	2603	7	che	che	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
@@ -13847,7 +13847,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 2645-9	PSB072	2645	9	si	si	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 2645-10	PSB072	2645	10	>chiamano	chiamano	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	Fast=0-8(0)	_	_
 2645-11	PSB072	2645	11	proprio	proprio	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	Fast=0-7(0)	_	_
-2645-12	PSB072	2645	12	#mongol<,	mongol	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	Intonation=WeaklyRising	End=4772.256	_	Fast=0-7(0)	_	_
+2645-12	PSB072	2645	12	#mongol<,	mongol	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	Intonation=WeaklyRising	End=4772.256	_	Fast=0-7(0)	_	_
 2646-0	PSB072	2646	0	quando	quando	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=4772.544	_	_	_	_
 2646-1	PSB072	2646	1	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 2646-2	PSB072	2646	2	arrivato	arrivato	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -14019,7 +14019,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 2681-1	PSB073	2681	1	anche	anche	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 2681-2	PSB073	2681	2	bangladesh	bangladesh	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 2681-3	PSB073	2681	3	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-2681-4	PSB073	2681	4	#lotus?	lotus	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	Intonation=Rising	_	_	_	_	_
+2681-4	PSB073	2681	4	#lotus?	lotus	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	Intonation=Rising	_	_	_	_	_
 2681-5	PSB073	2681	5	ah	ah	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 2681-6	PSB073	2681	6	okay	okay	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	End=4816.582	_	_	_	_
 2682-0	PSB005	2682	0	[e	e	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=4817.556	_	_	_	0-1(766)
@@ -15015,7 +15015,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 2869-7	PSB071	2869	7	poll[i:	polli	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	PauseAfter=Yes	_	4x1	_	_	4-5(838)
 2869-8	PSB071	2869	8	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=Yes	_	_	_	_	_	X(838)
 2869-9	PSB071	2869	9	da:	da	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	1x1	_	_	0-2(838)
-2869-10	PSB071	2869	10	#farm	farm	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-5(838)
+2869-10	PSB071	2869	10	#farm	farm	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-5(838)
 2869-11	PSB071	2869	11	li	li	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	0-2(838)
 2869-12	PSB071	2869	12	chiamano	chiamano	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	0-8(838)
 2869-13	PSB071	2869	13	quindi	quindi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	0-6(838)
@@ -15046,7 +15046,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 2878-0	PSB071	2878	0	[cioè]	cioè	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=5132.43|End=5132.8	_	_	_	0-4(842)
 2879-0	PSB071	2879	0	li	li	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	Begin=5133.212	_	_	_	_
 2879-1	PSB071	2879	1	chiamano	chiamano	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-2879-2	PSB071	2879	2	#deshi	deshi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+2879-2	PSB071	2879	2	#deshi	deshi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 2879-3	PSB071	2879	3	[però]	però	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	End=5134.784	_	_	_	0-4(843)
 2880-0	PSB072	2880	0	[sì	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=5134.312	_	_	_	0-2(843)
 2880-1	PSB072	2880	1	sì	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-2(843)
@@ -16138,7 +16138,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 3101-3	PSB072	3101	3	come	come	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 3101-4	PSB072	3101	4	il	il	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 3101-5	PSB072	3101	5	serpente	serpente	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=5454.434	_	_	_	_
-3102-0	PSB073	3102	0	#yes	yes	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=5454.889|End=5455.446	_	_	_	_
+3102-0	PSB073	3102	0	#yes	yes	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=5454.889|End=5455.446	_	_	_	_
 3103-0	PSB005	3103	0	[io	io	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=5455.845	_	_	_	0-2(927)
 3103-1	PSB005	3103	1	io]	io	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-2(927)
 3103-2	PSB005	3103	2	sono	sono	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -16415,7 +16415,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 3155-0	PSB071	3155	0	[le]	le	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	Begin=5529.767	_	_	_	0-2(947)
 3155-1	PSB071	3155	1	le	le	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 3155-2	PSB071	3155	2	chiama[vano]	chiamavano	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	6-10(948)
-3155-3	PSB071	3155	3	#*		_	_	_	_	_	warning	_	ContainsVariation=Yes|Variety=Unassignable|Language=NO_ISO_CODE	_	_	_	_	_	_
+3155-3	PSB071	3155	3	#*		_	_	_	_	_	warning	_	ContainsVariation=Yes|Code=Unsure|Language=NO_ISO_CODE	_	_	_	_	_	_
 3155-4	PSB071	3155	4	perché	perché	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 3155-5	PSB071	3155	5	[sono]	sono	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	End=5532.185	_	_	_	0-4(949)
 3156-0	PSB072	3156	0	[le	le	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=5530.723	_	_	_	0-2(948)
@@ -16703,9 +16703,9 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 3207-12	PSB005	3207	12	bellissi[mo]	bellissimo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=5611.04	_	_	_	8-10(975)
 3208-0	PSB071	3208	0	[si]	si	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	Begin=5610.901	_	_	_	0-2(975)
 3208-1	PSB071	3208	1	chiama	chiama	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-3208-2	PSB071	3208	2	#pukur	pukur	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=5611.656	_	_	_	_
+3208-2	PSB071	3208	2	#pukur	pukur	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=5611.656	_	_	_	_
 3209-0	PSB072	3209	0	sì	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=5611.689|End=5612.0465	_	_	_	_
-3210-0	PSB071	3210	0	#_ pukur	pukur	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=5612.0465|End=5612.934	_	_	_	_
+3210-0	PSB071	3210	0	#_ pukur	pukur	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=5612.0465|End=5612.934	_	_	_	_
 3211-0	PSB073	3211	0	no	no	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=5612.967	_	_	_	_
 3211-1	PSB073	3211	1	io	io	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 3211-2	PSB073	3211	2	non	non	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_

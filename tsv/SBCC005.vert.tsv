@@ -1,5 +1,5 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
-0-0	PSB110	0	0	#ocio	ocio	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=15.31|End=15.9	_	_	_	_
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+0-0	PSB110	0	0	#ocio	ocio	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=15.31|End=15.9	_	_	_	_
 1-0	PSB109	1	0	come	come	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=17.93	_	_	_	_
 1-1	PSB109	1	1	mai	mai	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1-2	PSB109	1	2	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_

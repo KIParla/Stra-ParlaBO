@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	PSB005	0	0	così	così	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1.24|End=1.62	_	_	_	_
 1-0	PSB005	1	0	ho	ho	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2.23	_	_	_	_
 1-1	PSB005	1	1	imparato	imparato	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -183,19 +183,19 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 47-3	PSB005	47	3	puoi	puoi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 47-4	PSB005	47	4	[dirmi]	dirmi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=83.04	_	_	_	0-5(8)
 48-0	PSB009	48	0	[oh]	oh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=82.68|End=83.03	_	_	_	0-2(8)
-49-0	PSB009	49	0	#_ it'	it'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	SpaceAfter=No	Begin=83.31	_	_	_	_
-49-1	PSB009	49	1	s	s	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-49-2	PSB009	49	2	[okay]	okay	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=84.14	_	_	_	0-4(9)
+49-0	PSB009	49	0	#_ it'	it'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	SpaceAfter=No	Begin=83.31	_	_	_	_
+49-1	PSB009	49	1	s	s	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+49-2	PSB009	49	2	[okay]	okay	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=84.14	_	_	_	0-4(9)
 50-0	PSB005	50	0	[sì	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=83.54	_	_	_	0-2(9)
 50-1	PSB005	50	1	sì]	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-2(9)
 50-2	PSB005	50	2	certo	certo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=84.68	_	_	_	_
 51-0	PSB005	51	0	[sì	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=85.09	_	_	_	0-2(10)
 51-1	PSB005	51	1	sì]	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=85.71	_	_	_	0-2(10)
-52-0	PSB009	52	0	#_ [so	so	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=85.1	_	_	_	0-2(10)
-52-1	PSB009	52	1	we	we	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-2(10)
-52-2	PSB009	52	2	have]	have	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-4(10)
-52-3	PSB009	52	3	a	a	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-52-4	PSB009	52	4	group	group	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=86.177	_	_	_	_
+52-0	PSB009	52	0	#_ [so	so	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=85.1	_	_	_	0-2(10)
+52-1	PSB009	52	1	we	we	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-2(10)
+52-2	PSB009	52	2	have]	have	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-4(10)
+52-3	PSB009	52	3	a	a	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+52-4	PSB009	52	4	group	group	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=86.177	_	_	_	_
 53-0	PSB005	53	0	sì	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=86.62|End=86.81	_	_	_	_
 54-0	PSB009	54	0	e:hm	ehm	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=86.81|End=87.19	0x1	_	_	_
 55-0	PSB009	55	0	questo	questo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=87.61	_	_	_	_
@@ -276,40 +276,40 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 73-0	PSB009	73	0	tutti	tutti	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=111.39	_	_	_	_
 73-1	PSB009	73	1	sono	sono	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 73-2	PSB009	73	2	cinesi	cinesi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=112.27	_	_	_	_
-74-0	PSB009	74	0	#_ eh	eh	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	PauseAfter=Yes	Begin=112.51	_	_	_	_
+74-0	PSB009	74	0	#_ eh	eh	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	PauseAfter=Yes	Begin=112.51	_	_	_	_
 74-1	PSB009	74	1	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=Yes	_	_	_	_	_	_
-74-2	PSB009	74	2	°at	at	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-74-3	PSB009	74	3	first	first	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-74-4	PSB009	74	4	I	i	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	Volume=high	_	_	_	_	_
-74-5	PSB009	74	5	think°	think	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-74-6	PSB009	74	6	at	at	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-74-7	PSB009	74	7	first	first	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-74-8	PSB009	74	8	I	i	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	Volume=high	_	_	_	_	_
-74-9	PSB009	74	9	think	think	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-74-10	PSB009	74	10	we	we	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-74-11	PSB009	74	11	have	have	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-74-12	PSB009	74	12	seven	seven	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-74-13	PSB009	74	13	hours	hours	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-74-14	PSB009	74	14	difference	difference	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=119.1	_	_	_	_
+74-2	PSB009	74	2	°at	at	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+74-3	PSB009	74	3	first	first	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+74-4	PSB009	74	4	I	i	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	Volume=high	_	_	_	_	_
+74-5	PSB009	74	5	think°	think	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+74-6	PSB009	74	6	at	at	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+74-7	PSB009	74	7	first	first	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+74-8	PSB009	74	8	I	i	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	Volume=high	_	_	_	_	_
+74-9	PSB009	74	9	think	think	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+74-10	PSB009	74	10	we	we	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+74-11	PSB009	74	11	have	have	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+74-12	PSB009	74	12	seven	seven	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+74-13	PSB009	74	13	hours	hours	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+74-14	PSB009	74	14	difference	difference	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=119.1	_	_	_	_
 76-0	PSB005	76	0	mhmh	mhmh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=119.4|End=119.93	_	_	_	_
 77-0	PSB005	77	0	sì	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=120.44	_	_	_	_
 77-1	PSB005	77	1	[ah	ah	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-2(15)
 77-2	PSB005	77	2	giusto	giusto	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-6(15)
 77-3	PSB005	77	3	sì]	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=121.525	_	_	_	0-2(15)
-78-0	PSB009	78	0	#_ [it'	it'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	SpaceAfter=No	Begin=120.66	_	_	_	0-3(15)
-78-1	PSB009	78	1	s	s	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-1(15)
-78-2	PSB009	78	2	gonna	gonna	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-5(15)
-78-3	PSB009	78	3	be	be	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-2(15)
-78-4	PSB009	78	4	a]	a	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-1(15)
-78-5	PSB009	78	5	big	big	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-78-6	PSB009	78	6	problem	problem	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=122.15	_	_	_	_
+78-0	PSB009	78	0	#_ [it'	it'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	SpaceAfter=No	Begin=120.66	_	_	_	0-3(15)
+78-1	PSB009	78	1	s	s	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-1(15)
+78-2	PSB009	78	2	gonna	gonna	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-5(15)
+78-3	PSB009	78	3	be	be	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-2(15)
+78-4	PSB009	78	4	a]	a	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-1(15)
+78-5	PSB009	78	5	big	big	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+78-6	PSB009	78	6	problem	problem	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=122.15	_	_	_	_
 80-0	PSB005	80	0	eh	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=122.15	_	_	_	_
 80-1	PSB005	80	1	sì	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=122.59	_	_	_	_
-81-0	PSB009	81	0	#_ but	but	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=122.743	_	_	_	_
-81-1	PSB009	81	1	actually	actually	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-81-2	PSB009	81	2	not	not	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=123.503	_	_	_	_
-83-0	PSB009	83	0	#_ [actually	actually	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=124.09	_	_	_	0-8(16)
-83-1	PSB009	83	1	not]	not	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=124.7	_	_	_	0-3(16)
+81-0	PSB009	81	0	#_ but	but	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=122.743	_	_	_	_
+81-1	PSB009	81	1	actually	actually	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+81-2	PSB009	81	2	not	not	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=123.503	_	_	_	_
+83-0	PSB009	83	0	#_ [actually	actually	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=124.09	_	_	_	0-8(16)
+83-1	PSB009	83	1	not]	not	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=124.7	_	_	_	0-3(16)
 84-0	PSB005	84	0	[ah	ah	_	_	_	_	_	linguistic	_	ContainsVariation=No	PauseAfter=Yes	Begin=124.09	_	_	_	0-2(16)
 84-1	PSB005	84	1	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	_	_	X(16)
 84-2	PSB005	84	2	e]	e	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-1(16)
@@ -975,7 +975,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 223-7	PSB009	223	7	come	come	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 223-8	PSB009	223	8	un:	un	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	PauseAfter=Yes	_	1x1	_	_	_
 223-9	PSB009	223	9	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=Yes	_	_	_	_	_	_
-223-10	PSB009	223	10	#major	major	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=446.13	_	_	_	_
+223-10	PSB009	223	10	#major	major	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=446.13	_	_	_	_
 224-0	PSB005	224	0	sì	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=446.46|End=446.8	_	_	_	_
 225-0	PSB009	225	0	e:h	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=447.65|End=448.48	0x1	_	_	_
 226-0	PSB009	226	0	quando	quando	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=450.34	_	_	_	_
@@ -1591,13 +1591,13 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 366-2	PSB009	366	2	come	come	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	_	_	_	_	_
 366-3	PSB009	366	3	come	come	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	_	_	_	_	_
 366-4	PSB009	366	4	dice°	dice	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	End=762.09	_	_	_	_
-367-0	PSB009	367	0	#_ i	i	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=762.31	_	_	_	_
-367-1	PSB009	367	1	will	will	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-367-2	PSB009	367	2	try	try	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-367-3	PSB009	367	3	the:	the	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=763.7	2x1	_	_	_
-369-0	PSB009	369	0	#_ try	try	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=764.69	_	_	_	_
-369-1	PSB009	369	1	the:	the	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=765.62	2x1	_	_	_
-371-0	PSB009	371	0	#_ to	to	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=766.61|End=766.86	_	_	_	_
+367-0	PSB009	367	0	#_ i	i	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=762.31	_	_	_	_
+367-1	PSB009	367	1	will	will	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+367-2	PSB009	367	2	try	try	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+367-3	PSB009	367	3	the:	the	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=763.7	2x1	_	_	_
+369-0	PSB009	369	0	#_ try	try	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=764.69	_	_	_	_
+369-1	PSB009	369	1	the:	the	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=765.62	2x1	_	_	_
+371-0	PSB009	371	0	#_ to	to	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=766.61|End=766.86	_	_	_	_
 373-0	PSB009	373	0	c~	c~	_	_	_	_	_	linguistic	_	ContainsVariation=No	Interrupted=Yes	Begin=770.55|End=770.82	_	_	_	_
 374-0	PSB009	374	0	l'	l'	_	_	_	_	_	linguistic	_	ContainsVariation=No	SpaceAfter=No	Begin=771.01	_	_	_	_
 374-1	PSB009	374	1	esame	esame	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -1657,7 +1657,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 381-7	PSB009	381	7	la	la	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 381-8	PSB009	381	8	mia:	mia	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	PauseAfter=Yes	_	2x1	_	_	_
 381-9	PSB009	381	9	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=Yes	_	_	_	_	_	_
-381-10	PSB009	381	10	#major	major	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=800.01	_	_	_	_
+381-10	PSB009	381	10	#major	major	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=800.01	_	_	_	_
 382-0	PSB005	382	0	sì.	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	Begin=800.25|End=800.63	_	_	_	_
 383-0	PSB009	383	0	per	per	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	Begin=800.86	_	_	_	_
 383-1	PSB009	383	1	la	la	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
@@ -1665,7 +1665,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 383-3	PSB009	383	3	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 383-4	PSB009	383	4	un	un	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	PauseAfter=Yes	_	_	_	_	_
 383-5	PSB009	383	5	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=Yes	_	_	_	_	_	_
-383-6	PSB009	383	6	#major	major	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+383-6	PSB009	383	6	#major	major	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 383-7	PSB009	383	7	molto:	molto	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	PauseAfter=Yes	_	4x1	_	_	_
 383-8	PSB009	383	8	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=Yes	_	_	_	_	_	_
 383-9	PSB009	383	9	xx	xx	_	_	_	_	_	unknown	_	ContainsVariation=Yes	Syllables=2	_	_	_	_	_
@@ -1811,7 +1811,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 411-0	PSB009	411	0	[due	due	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=865.56	_	_	_	0-3(83)
 411-1	PSB009	411	1	di::]	di	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=865.91	1x2	_	_	0-2(83)
 412-0	PSB009	412	0	mh:	mh	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	Begin=869.19	1x1	_	_	_
-412-1	PSB009	412	1	#but	but	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	PauseAfter=Yes	_	_	_	_	_
+412-1	PSB009	412	1	#but	but	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	PauseAfter=Yes	_	_	_	_	_
 412-2	PSB009	412	2	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=Yes	_	_	_	_	_	_
 412-3	PSB009	412	3	forse:	forse	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	4x1	_	_	_
 412-4	PSB009	412	4	vediamo	vediamo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
@@ -4643,9 +4643,9 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1025-3	PSB009	1025	3	sì	sì	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	PauseAfter=Yes	_	_	_	_	_
 1025-4	PSB009	1025	4	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=Yes	_	_	_	_	_	_
 1025-5	PSB009	1025	5	eh	eh	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-1025-6	PSB009	1025	6	#netherland	netherland	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=2312.074	_	_	_	_
+1025-6	PSB009	1025	6	#netherland	netherland	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=2312.074	_	_	_	_
 1026-0	PSB005	1026	0	mhmh	mhmh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2312.104|End=2312.487	_	_	_	_
-1027-0	PSB009	1027	0	#netherland	netherland	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=2312.526	_	_	_	_
+1027-0	PSB009	1027	0	#netherland	netherland	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=2312.526	_	_	_	_
 1027-1	PSB009	1027	1	e	e	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 1027-2	PSB009	1027	2	questo	questo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	PauseAfter=Yes	_	_	_	_	_
 1027-3	PSB009	1027	3	[(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=Yes	_	_	_	_	_	X(217)
@@ -4660,7 +4660,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1030-0	PSB005	1030	0	vicino	vicino	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2317.523	_	_	_	_
 1030-1	PSB005	1030	1	sì	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1030-2	PSB005	1030	2	sì	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=2318.318	_	_	_	_
-1031-0	PSB009	1031	0	#switzerland	switzerland	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=2318.877|End=2319.72	_	_	_	_
+1031-0	PSB009	1031	0	#switzerland	switzerland	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=2318.877|End=2319.72	_	_	_	_
 1032-0	PSB005	1032	0	mhmh	mhmh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2319.857|End=2320.292	_	_	_	_
 1033-0	PSB009	1033	0	dan~	dan~	_	_	_	_	_	linguistic	_	ContainsVariation=No	Interrupted=Yes	Begin=2320.734	_	_	_	_
 1033-1	PSB009	1033	1	danimarca	danimarca	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=2322.307	_	_	_	_
@@ -6681,13 +6681,13 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1507-7	PSB009	1507	7	di]	di	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-2(307)
 1507-8	PSB009	1507	8	dire	dire	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=3342.153	_	_	_	_
 1508-0	PSB005	1508	0	[mhmh]	mhmh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=3341.37|End=3341.78	_	_	_	0-4(307)
-1509-0	PSB009	1509	0	#_ sik1	sik1	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=3342.354	_	_	_	_
-1509-1	PSB009	1509	1	tai2	tai2	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-1509-2	PSB009	1509	2	m4	m4	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-1509-3	PSB009	1509	3	sik1	sik1	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-1509-4	PSB009	1509	4	gaa	gaa	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=3343.286	_	_	_	_
+1509-0	PSB009	1509	0	#_ sik1	sik1	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=3342.354	_	_	_	_
+1509-1	PSB009	1509	1	tai2	tai2	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+1509-2	PSB009	1509	2	m4	m4	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+1509-3	PSB009	1509	3	sik1	sik1	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+1509-4	PSB009	1509	4	gaa	gaa	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=3343.286	_	_	_	_
 1511-0	PSB005	1511	0	mhmh?	mhmh	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising	Begin=3343.45|End=3343.93	_	_	_	_
-1512-0	PSB009	1512	0	#xx	xx	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=3343.95	_	_	_	_
+1512-0	PSB009	1512	0	#xx	xx	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=3343.95	_	_	_	_
 1512-1	PSB009	1512	1	significa:	significa	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	End=3347.28	8x1	_	_	_
 1513-0	PSB009	1513	0	le	le	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=3347.63	_	_	_	_
 1513-1	PSB009	1513	1	persone	persone	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -7184,15 +7184,15 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1642-1	PSB005	1642	1	sì]	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=3619.684	_	_	_	0-2(334)
 1643-0	PSB005	1643	0	mhmh	mhmh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=3620.98|End=3621.4	_	_	_	_
 1644-0	PSB009	1644	0	e::h	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=3621.4|End=3622.24	0x2	_	_	_
-1645-0	PSB009	1645	0	#_ god	god	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=3626.31	_	_	_	_
-1645-1	PSB009	1645	1	father?	father	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	Intonation=Rising	End=3626.87	_	_	_	_
-1646-0	PSB009	1646	0	#_ god	god	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=3627.525	_	_	_	_
-1646-1	PSB009	1646	1	father?	father	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	Intonation=Rising	End=3628.225	_	_	_	_
+1645-0	PSB009	1645	0	#_ god	god	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=3626.31	_	_	_	_
+1645-1	PSB009	1645	1	father?	father	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	Intonation=Rising	End=3626.87	_	_	_	_
+1646-0	PSB009	1646	0	#_ god	god	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=3627.525	_	_	_	_
+1646-1	PSB009	1646	1	father?	father	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	Intonation=Rising	End=3628.225	_	_	_	_
 1647-0	PSB009	1647	0	più	più	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	Begin=3628.64	_	_	_	_
 1647-1	PSB009	1647	1	o	o	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 1647-2	PSB009	1647	2	[meno	meno	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	0-4(335)
-1647-3	PSB009	1647	3	#god	god	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-4(335)
-1647-4	PSB009	1647	4	#father	father	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-7(335)
+1647-3	PSB009	1647	3	#god	god	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-4(335)
+1647-4	PSB009	1647	4	#father	father	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-7(335)
 1647-5	PSB009	1647	5	più	più	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	0-3(335)
 1647-6	PSB009	1647	6	o	o	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	0-1(335)
 1647-7	PSB009	1647	7	meno]	meno	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	End=3630.39	_	_	_	0-4(335)
@@ -7288,20 +7288,20 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1668-6	PSB009	1668	6	un'	un'	_	_	_	_	_	linguistic	_	ContainsVariation=No	SpaceAfter=No	_	_	_	_	_
 1668-7	PSB009	1668	7	amica	amica	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1668-8	PSB009	1668	8	italiana	italiana	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=3686.797	_	_	_	_
-1669-0	PSB009	1669	0	#_ you	you	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=3688.07	_	_	_	_
-1669-1	PSB009	1669	1	don'	don'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	SpaceAfter=No	_	_	_	_	_
-1669-2	PSB009	1669	2	t	t	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-1669-3	PSB009	1669	3	know	know	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-1669-4	PSB009	1669	4	how	how	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-1669-5	PSB009	1669	5	smart	smart	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-1669-6	PSB009	1669	6	i	i	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-1669-7	PSB009	1669	7	am	am	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-1669-8	PSB009	1669	8	when	when	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-1669-9	PSB009	1669	9	i	i	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-1669-10	PSB009	1669	10	speak	speak	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-1669-11	PSB009	1669	11	chinese	chinese	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=3691.587	_	_	_	_
+1669-0	PSB009	1669	0	#_ you	you	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=3688.07	_	_	_	_
+1669-1	PSB009	1669	1	don'	don'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	SpaceAfter=No	_	_	_	_	_
+1669-2	PSB009	1669	2	t	t	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+1669-3	PSB009	1669	3	know	know	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+1669-4	PSB009	1669	4	how	how	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+1669-5	PSB009	1669	5	smart	smart	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+1669-6	PSB009	1669	6	i	i	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+1669-7	PSB009	1669	7	am	am	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+1669-8	PSB009	1669	8	when	when	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+1669-9	PSB009	1669	9	i	i	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+1669-10	PSB009	1669	10	speak	speak	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+1669-11	PSB009	1669	11	chinese	chinese	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=3691.587	_	_	_	_
 1670-0	PSB009	1670	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=Yes	_	Begin=3694.26	_	_	_	_
-1670-1	PSB009	1670	1	#_ so	so	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=3695.09	_	_	_	_
+1670-1	PSB009	1670	1	#_ so	so	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=3695.09	_	_	_	_
 1671-0	PSB009	1671	0	m:h	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=3697.72	0x1	_	_	_
 1671-1	PSB009	1671	1	anche	anche	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1671-2	PSB009	1671	2	quando:	quando	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	5x1	_	_	_
@@ -7561,14 +7561,14 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1729-6	PSB009	1729	6	di	di	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1729-7	PSB009	1729	7	quindi:	quindi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=3856.72	5x1	_	_	_
 1730-0	PSB009	1730	0	questo:	questo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	Begin=3856.974	5x1	_	_	_
-1730-1	PSB009	1730	1	(#sign)	sign	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	PauseAfter=Yes	_	_	_	0-5(0)	_
+1730-1	PSB009	1730	1	(#sign)	sign	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	PauseAfter=Yes	_	_	_	0-5(0)	_
 1730-2	PSB009	1730	2	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=Yes	_	_	_	_	_	_
-1730-3	PSB009	1730	3	[(#sign)]?	sign	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	Intonation=Rising	End=3859.958	_	_	0-5(1)	0-5(350)
+1730-3	PSB009	1730	3	[(#sign)]?	sign	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	Intonation=Rising	End=3859.958	_	_	0-5(1)	0-5(350)
 1731-0	PSB005	1731	0	[mhmh]	mhmh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=3859.31	_	_	_	0-4(350)
 1731-1	PSB005	1731	1	mhmh	mhmh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=3860.52	_	_	_	_
 1732-0	PSB009	1732	0	questi:::	questi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	Begin=3860.626	5x3	_	_	_
 1732-1	PSB009	1732	1	piccoli::	piccoli	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	6x2	_	_	_
-1732-2	PSB009	1732	2	(#sign)	sign	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=3866.6375	_	_	0-5(0)	_
+1732-2	PSB009	1732	2	(#sign)	sign	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=3866.6375	_	_	0-5(0)	_
 1733-0	PSB005	1733	0	mhmh	mhmh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=3866.6375|End=3867.333	_	_	_	_
 1734-0	PSB009	1734	0	capito	capito	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=3868.174	_	_	_	_
 1734-1	PSB009	1734	1	subito	subito	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -7853,12 +7853,12 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1827-0	PSB005	1827	0	vediamo	vediamo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=4044.52|End=4045.393	_	_	_	_
 1828-0	PSB005	1828	0	quindi	quindi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=4055.38	_	_	_	_
 1828-1	PSB005	1828	1	fa	fa	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=4056.313	_	_	_	_
-1829-0	PSB009	1829	0	#_ oh	oh	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=4056.966	_	_	_	_
-1829-1	PSB009	1829	1	my	my	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-1829-2	PSB009	1829	2	god	god	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=4057.593	_	_	_	_
-1830-0	PSB009	1830	0	#_ [oh	oh	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=4058.08	_	_	_	0-2(364)
-1830-1	PSB009	1830	1	my	my	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-2(364)
-1830-2	PSB009	1830	2	god]	god	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=4059.014	_	_	_	0-3(364)
+1829-0	PSB009	1829	0	#_ oh	oh	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=4056.966	_	_	_	_
+1829-1	PSB009	1829	1	my	my	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+1829-2	PSB009	1829	2	god	god	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=4057.593	_	_	_	_
+1830-0	PSB009	1830	0	#_ [oh	oh	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=4058.08	_	_	_	0-2(364)
+1830-1	PSB009	1830	1	my	my	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-2(364)
+1830-2	PSB009	1830	2	god]	god	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=4059.014	_	_	_	0-3(364)
 1831-0	PSB005	1831	0	[è	è	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=4058.08	_	_	_	0-1(364)
 1831-1	PSB005	1831	1	questo]	questo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=4059.014	_	_	_	0-6(364)
 1832-0	PSB009	1832	0	°wow°	wow	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	Begin=4059.644|End=4060.19	_	_	_	_

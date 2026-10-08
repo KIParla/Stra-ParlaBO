@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	PSB091	0	0	scusa	scusa	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=0.42	_	_	_	_
 0-1	PSB091	0	1	che	che	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 0-2	PSB091	0	2	abbiamo	abbiamo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -2736,13 +2736,13 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 513-0	PSB005	513	0	eh	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=910.806	_	_	_	_
 513-1	PSB005	513	1	sì	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=911.211	_	_	_	_
 514-0	PSB091	514	0	pa:ne:	pane	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=911.463|End=912.065	1x1,3x1	_	_	_
-515-0	PSB091	515	0	#pâine	pâine	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=912.605|End=913.221	_	_	_	_
+515-0	PSB091	515	0	#pâine	pâine	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=912.605|End=913.221	_	_	_	_
 516-0	PSB091	516	0	la:tte	latte	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=913.705|End=914.363	1x1	_	_	_
-517-0	PSB091	517	0	#lapte	lapte	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=914.709|End=915.114	_	_	_	_
+517-0	PSB091	517	0	#lapte	lapte	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=914.709|End=915.114	_	_	_	_
 518-0	PSB091	518	0	capra	capra	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	Begin=915.366	_	_	_	_
-518-1	PSB091	518	1	#capră	capră	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+518-1	PSB091	518	1	#capră	capră	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 518-2	PSB091	518	2	carne	carne	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-518-3	PSB091	518	3	#carne	carne	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+518-3	PSB091	518	3	#carne	carne	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 518-4	PSB091	518	4	capito,	capito	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	Intonation=WeaklyRising	End=917.546	_	_	_	_
 519-0	PSB005	519	0	(ah	ah	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=917.771	_	_	0-2(0)	_
 519-1	PSB005	519	1	per)	per	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	0-3(0)	_
@@ -2752,7 +2752,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 519-5	PSB005	519	5	ta:nto	tanto	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	1x1	_	_	_
 519-6	PSB005	519	6	si[mili]	simili	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=920.24	_	_	_	2-6(156)
 520-0	PSB091	520	0	[(barca	barca	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	Begin=918.027	_	_	0-5(0)	0-5(155)
-520-1	PSB091	520	1	#barcă)]	barcă	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=918.944	_	_	0-6(0)	0-6(155)
+520-1	PSB091	520	1	#barcă)]	barcă	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=918.944	_	_	0-6(0)	0-6(155)
 521-0	PSB091	521	0	[sì	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=919.975	_	_	_	0-2(156)
 521-1	PSB091	521	1	sì]	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=920.231	_	_	_	0-2(156)
 522-0	PSB091	522	0	sì	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=920.66|End=920.993	_	_	_	_
@@ -2785,7 +2785,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 526-6	PSB005	526	6	sì	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=928.076	_	_	_	_
 527-0	PSB091	527	0	tipo	tipo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=928.442	_	_	_	_
 527-1	PSB091	527	1	lavo:ro	lavoro	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=929.079	3x1	_	_	_
-528-0	PSB091	528	0	#lucru	lucru	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=929.723	_	_	_	_
+528-0	PSB091	528	0	#lucru	lucru	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=929.723	_	_	_	_
 528-1	PSB091	528	1	capito,	capito	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	Intonation=WeaklyRising	_	_	_	_	_
 528-2	PSB091	528	2	quindi	quindi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 528-3	PSB091	528	3	una	una	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
@@ -2803,23 +2803,23 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 531-1	PSB091	531	1	c[on]	con	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=935.366	_	_	_	1-3(160)
 532-0	PSB005	532	0	[si]	si	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=935.321	_	_	_	0-2(160)
 532-1	PSB005	532	1	si	si	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=935.564	_	_	_	_
-533-0	PSB091	533	0	#_ unu	unu	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	PauseAfter=Yes	Begin=936.197	_	_	_	_
+533-0	PSB091	533	0	#_ unu	unu	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	PauseAfter=Yes	Begin=936.197	_	_	_	_
 533-1	PSB091	533	1	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=Yes	_	_	_	_	_	_
-533-2	PSB091	533	2	doi	doi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	PauseAfter=Yes	_	_	_	_	_
+533-2	PSB091	533	2	doi	doi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	PauseAfter=Yes	_	_	_	_	_
 533-3	PSB091	533	3	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=Yes	_	_	_	_	_	_
-533-4	PSB091	533	4	trei	trei	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	PauseAfter=Yes	_	_	_	_	_
+533-4	PSB091	533	4	trei	trei	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	PauseAfter=Yes	_	_	_	_	_
 533-5	PSB091	533	5	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=Yes	_	_	_	_	_	_
-533-6	PSB091	533	6	[pa]tru	patru	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=938.56	_	_	_	0-2(161)
+533-6	PSB091	533	6	[pa]tru	patru	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=938.56	_	_	_	0-2(161)
 534-0	PSB005	534	0	[mhmh]	mhmh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=938.1|End=938.422	_	_	_	0-4(161)
 535-0	PSB005	535	0	ah	ah	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=938.916|End=939.128	_	_	_	_
-536-0	PSB091	536	0	#cinci	cinci	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=939.204|End=939.536	_	_	_	_
-537-0	PSB091	537	0	#_ șase	șase	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	PauseAfter=Yes	Begin=939.923	_	_	_	_
+536-0	PSB091	536	0	#cinci	cinci	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=939.204|End=939.536	_	_	_	_
+537-0	PSB091	537	0	#_ șase	șase	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	PauseAfter=Yes	Begin=939.923	_	_	_	_
 537-1	PSB091	537	1	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=Yes	_	_	_	_	_	_
-537-2	PSB091	537	2	șapte	șapte	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=940.761	_	_	_	_
-538-0	PSB091	538	0	#opt	opt	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=941.072|End=941.304	_	_	_	_
-539-0	PSB091	539	0	#_ [nouă	nouă	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=941.557	_	_	_	0-4(162)
-539-1	PSB091	539	1	zece	zece	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-4(162)
-539-2	PSB091	539	2	ze]ce	zece	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=943.159	_	_	_	0-2(162)
+537-2	PSB091	537	2	șapte	șapte	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=940.761	_	_	_	_
+538-0	PSB091	538	0	#opt	opt	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=941.072|End=941.304	_	_	_	_
+539-0	PSB091	539	0	#_ [nouă	nouă	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=941.557	_	_	_	0-4(162)
+539-1	PSB091	539	1	zece	zece	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-4(162)
+539-2	PSB091	539	2	ze]ce	zece	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=943.159	_	_	_	0-2(162)
 540-0	PSB005	540	0	[ma	ma	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=941.574	_	_	_	0-2(162)
 540-1	PSB005	540	1	quindi	quindi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-6(162)
 540-2	PSB005	540	2	sai	sai	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-3(162)
@@ -11451,10 +11451,10 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 2272-5	PSB005	2272	5	tar[di]	tardi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	3-5(728)
 2272-6	PSB005	2272	6	devo	devo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 2272-7	PSB005	2272	7	andare	andare	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=3600.373	_	_	_	_
-2273-0	PSB091	2273	0	#_ [allo?]	allo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	Intonation=Rising	Begin=3599.406|End=3599.751	_	_	_	0-4(728)
+2273-0	PSB091	2273	0	#_ [allo?]	allo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	Intonation=Rising	Begin=3599.406|End=3599.751	_	_	_	0-4(728)
 2274-0	PSB005	2274	0	tra	tra	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=3600.557	_	_	_	_
 2274-1	PSB005	2274	1	poc[o]	poco	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=3601.015	_	_	_	3-4(729)
-2275-0	PSB091	2275	0	#_ [allo],	allo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	Intonation=WeaklyRising	Begin=3600.922|End=3601.214	_	_	_	0-4(729)
+2275-0	PSB091	2275	0	#_ [allo],	allo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	Intonation=WeaklyRising	Begin=3600.922|End=3601.214	_	_	_	0-4(729)
 2276-0	PSB091	2276	0	(non	non	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=3603.342	_	_	0-3(0)	_
 2276-1	PSB091	2276	1	c'	c'	_	_	_	_	_	linguistic	_	ContainsVariation=No	SpaceAfter=No	_	_	_	0-2(0)	_
 2276-2	PSB091	2276	2	era	era	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	0-3(0)	_

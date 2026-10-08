@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	PSB005	0	0	okay	okay	_	_	_	_	_	linguistic	_	ContainsVariation=No	PauseAfter=Yes	Begin=0.0	_	_	_	_
 0-1	PSB005	0	1	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	_	_	_
 0-2	PSB005	0	2	vado	vado	_	_	_	_	_	linguistic	_	ContainsVariation=No	PauseAfter=Yes	_	_	_	_	_
@@ -167,8 +167,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 38-0	PSB087	38	0	tu	tu	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=49.35	_	_	_	_
 38-1	PSB087	38	1	mangi?	mangi	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising	End=50.103	_	_	_	_
 39-0	PSB086	39	0	#_ @saša	@saša	_	_	_	_	_	anonymized	_	ContainsVariation=Yes	Anonymized=Yes	Begin=52.684	_	_	_	_
-39-1	PSB086	39	1	zahryzeš	zahryzeš	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-39-2	PSB086	39	2	ščos?	ščos	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	Intonation=Rising	End=53.75	_	_	_	_
+39-1	PSB086	39	1	zahryzeš	zahryzeš	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+39-2	PSB086	39	2	ščos?	ščos	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	Intonation=Rising	End=53.75	_	_	_	_
 41-0	PSB005	41	0	bisogna	bisogna	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=57.0	_	_	_	_
 41-1	PSB005	41	1	prima	prima	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 41-2	PSB005	41	2	mangiare	mangiare	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -2327,11 +2327,11 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 502-10	PSB005	502	10	le	le	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-2(143)
 502-11	PSB005	502	11	scordo	scordo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-6(143)
 502-12	PSB005	502	12	subito]	subito	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=784.706	_	_	_	0-6(143)
-503-0	PSB088	503	0	#_ ja	ja	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=787.044	_	_	_	_
-503-1	PSB088	503	1	znaju	znaju	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-503-2	PSB088	503	2	ja	ja	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-503-3	PSB088	503	3	ljuboznatel'	ljuboznatel'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	SpaceAfter=No	_	_	_	_	_
-503-4	PSB088	503	4	nyj	nyj	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=788.536	_	_	_	_
+503-0	PSB088	503	0	#_ ja	ja	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=787.044	_	_	_	_
+503-1	PSB088	503	1	znaju	znaju	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+503-2	PSB088	503	2	ja	ja	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+503-3	PSB088	503	3	ljuboznatel'	ljuboznatel'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	SpaceAfter=No	_	_	_	_	_
+503-4	PSB088	503	4	nyj	nyj	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=788.536	_	_	_	_
 505-0	PSB087	505	0	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=789.271	_	_	_	_
 505-1	PSB087	505	1	curioso	curioso	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=789.778	_	_	_	_
 506-0	PSB086	506	0	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=789.786	_	_	_	_
@@ -3200,11 +3200,11 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 721-1	PSB087	721	1	morire	morire	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 721-2	PSB087	721	2	che	che	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 721-3	PSB087	721	3	devo	devo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1130.779	_	_	_	_
-722-0	PSB088	722	0	#_ meni	meni	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	PauseAfter=Yes	Begin=1133.235	_	_	_	_
+722-0	PSB088	722	0	#_ meni	meni	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	PauseAfter=Yes	Begin=1133.235	_	_	_	_
 722-1	PSB088	722	1	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=Yes	_	_	_	_	_	_
-722-2	PSB088	722	2	kolys'	kolys'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	Truncated=Yes	_	_	_	_	_
-722-3	PSB088	722	3	odyn	odyn	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-722-4	PSB088	722	4	[čuvak]	čuvak	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=1136.468	_	_	_	0-5(188)
+722-2	PSB088	722	2	kolys'	kolys'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	Truncated=Yes	_	_	_	_	_
+722-3	PSB088	722	3	odyn	odyn	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+722-4	PSB088	722	4	[čuvak]	čuvak	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=1136.468	_	_	_	0-5(188)
 724-0	PSB086	724	0	[italiano	italiano	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1135.485	_	_	_	0-8(188)
 724-1	PSB086	724	1	italiano]	italiano	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1136.618	_	_	_	0-8(188)
 725-0	PSB086	725	0	[non	non	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1136.706	_	_	_	0-3(189)
@@ -3212,28 +3212,28 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 725-2	PSB086	725	2	niente	niente	_	_	_	_	_	linguistic	_	ContainsVariation=No	PauseAfter=Yes	_	_	_	_	0-6(189)
 725-3	PSB086	725	3	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	_	_	X(189)
 725-4	PSB086	725	4	italiano]	italiano	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1138.5	_	_	_	0-8(189)
-726-0	PSB088	726	0	[#ne	ne	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=1136.797	_	_	_	0-3(189)
-726-1	PSB088	726	1	#ne	ne	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-3(189)
+726-0	PSB088	726	0	[#ne	ne	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=1136.797	_	_	_	0-3(189)
+726-1	PSB088	726	1	#ne	ne	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-3(189)
 726-2	PSB088	726	2	prego	prego	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	0-5(189)
 726-3	PSB088	726	3	prego]	prego	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	0-5(189)
 726-4	PSB088	726	4	xxxxx	xxxxx	_	_	_	_	_	unknown	_	ContainsVariation=Yes	Syllables=5	End=1139.751	_	_	_	_
-728-0	PSB088	728	0	#_ meni	meni	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=1140.044	_	_	_	_
-728-1	PSB088	728	1	odyn	odyn	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-728-2	PSB088	728	2	čuvak	čuvak	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-728-3	PSB088	728	3	kolys'	kolys'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	Truncated=Yes	_	_	_	_	_
-728-4	PSB088	728	4	skazav	skazav	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-728-5	PSB088	728	5	ščo	ščo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-728-6	PSB088	728	6	my	my	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-728-7	PSB088	728	7	beremo	beremo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-728-8	PSB088	728	8	hroši	hroši	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-728-9	PSB088	728	9	ne	ne	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-728-10	PSB088	728	10	za	za	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-728-11	PSB088	728	11	to	to	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	PauseAfter=Yes	_	_	_	_	_
+728-0	PSB088	728	0	#_ meni	meni	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=1140.044	_	_	_	_
+728-1	PSB088	728	1	odyn	odyn	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+728-2	PSB088	728	2	čuvak	čuvak	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+728-3	PSB088	728	3	kolys'	kolys'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	Truncated=Yes	_	_	_	_	_
+728-4	PSB088	728	4	skazav	skazav	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+728-5	PSB088	728	5	ščo	ščo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+728-6	PSB088	728	6	my	my	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+728-7	PSB088	728	7	beremo	beremo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+728-8	PSB088	728	8	hroši	hroši	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+728-9	PSB088	728	9	ne	ne	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+728-10	PSB088	728	10	za	za	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+728-11	PSB088	728	11	to	to	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	PauseAfter=Yes	_	_	_	_	_
 728-12	PSB088	728	12	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=Yes	_	_	_	_	_	_
-728-13	PSB088	728	13	[ščo	ščo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-3(190)
-728-14	PSB088	728	14	vy	vy	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-2(190)
-728-15	PSB088	728	15	ne	ne	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-2(190)
-728-16	PSB088	728	16	znajete]	znajete	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=1149.164	_	_	_	0-7(190)
+728-13	PSB088	728	13	[ščo	ščo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-3(190)
+728-14	PSB088	728	14	vy	vy	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-2(190)
+728-15	PSB088	728	15	ne	ne	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-2(190)
+728-16	PSB088	728	16	znajete]	znajete	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=1149.164	_	_	_	0-7(190)
 730-0	PSB086	730	0	[dice	dice	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1147.294	_	_	_	0-4(190)
 730-1	PSB086	730	1	che:	che	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	2x1	_	_	0-3(190)
 730-2	PSB086	730	2	un	un	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-2(190)
@@ -3247,36 +3247,36 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 731-1	PSB086	731	1	prendiamo	prendiamo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 731-2	PSB086	731	2	soldi	soldi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 731-3	PSB086	731	3	per?	per	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising	End=1151.588	_	_	_	_
-732-0	PSB088	732	0	#_ ne	ne	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=1152.167	_	_	_	_
-732-1	PSB088	732	1	ščo	ščo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-732-2	PSB088	732	2	vy	vy	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-732-3	PSB088	732	3	ne	ne	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-732-4	PSB088	732	4	znajete	znajete	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-732-5	PSB088	732	5	a	a	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-732-6	PSB088	732	6	za	za	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-732-7	PSB088	732	7	to	to	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-732-8	PSB088	732	8	ščo	ščo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-732-9	PSB088	732	9	my	my	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-732-10	PSB088	732	10	ne	ne	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-732-11	PSB088	732	11	znajemo	znajemo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-732-12	PSB088	732	12	ne	ne	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-732-13	PSB088	732	13	naoborot	naoborot	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	End=1155.57	_	_	_	_
-734-0	PSB088	734	0	#_ ne	ne	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	Begin=1156.074	_	_	_	_
-734-1	PSB088	734	1	za	za	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-734-2	PSB088	734	2	to	to	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-734-3	PSB088	734	3	ščo	ščo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-734-4	PSB088	734	4	my	my	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-734-5	PSB088	734	5	znajemo,	znajemo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	Intonation=WeaklyRising	_	_	_	_	_
-734-6	PSB088	734	6	a	a	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-734-7	PSB088	734	7	za	za	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-734-8	PSB088	734	8	to	to	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-734-9	PSB088	734	9	ščo	ščo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-734-10	PSB088	734	10	vy	vy	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-734-11	PSB088	734	11	ne	ne	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-734-12	PSB088	734	12	znajete	znajete	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	PauseAfter=Yes	_	_	_	_	_
+732-0	PSB088	732	0	#_ ne	ne	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=1152.167	_	_	_	_
+732-1	PSB088	732	1	ščo	ščo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+732-2	PSB088	732	2	vy	vy	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+732-3	PSB088	732	3	ne	ne	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+732-4	PSB088	732	4	znajete	znajete	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+732-5	PSB088	732	5	a	a	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+732-6	PSB088	732	6	za	za	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+732-7	PSB088	732	7	to	to	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+732-8	PSB088	732	8	ščo	ščo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+732-9	PSB088	732	9	my	my	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+732-10	PSB088	732	10	ne	ne	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+732-11	PSB088	732	11	znajemo	znajemo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+732-12	PSB088	732	12	ne	ne	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+732-13	PSB088	732	13	naoborot	naoborot	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=1155.57	_	_	_	_
+734-0	PSB088	734	0	#_ ne	ne	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=1156.074	_	_	_	_
+734-1	PSB088	734	1	za	za	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+734-2	PSB088	734	2	to	to	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+734-3	PSB088	734	3	ščo	ščo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+734-4	PSB088	734	4	my	my	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+734-5	PSB088	734	5	znajemo,	znajemo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	Intonation=WeaklyRising	_	_	_	_	_
+734-6	PSB088	734	6	a	a	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+734-7	PSB088	734	7	za	za	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+734-8	PSB088	734	8	to	to	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+734-9	PSB088	734	9	ščo	ščo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+734-10	PSB088	734	10	vy	vy	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+734-11	PSB088	734	11	ne	ne	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+734-12	PSB088	734	12	znajete	znajete	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	PauseAfter=Yes	_	_	_	_	_
 734-13	PSB088	734	13	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=Yes	_	_	_	_	_	_
-734-14	PSB088	734	14	po	po	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-734-15	PSB088	734	15	(probujte)	probujte	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+734-14	PSB088	734	14	po	po	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+734-15	PSB088	734	15	(probujte)	probujte	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 734-16	PSB088	734	16	[xxx]	xxx	_	_	_	_	_	unknown	_	ContainsVariation=Yes	Syllables=3	End=1162.025	_	_	_	0-3(253)
 736-0	PSB087	736	0	[dice	dice	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1161.514	_	_	_	0-4(?)
 736-1	PSB087	736	1	faccia][mo	facciamo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	6-8(?)
