@@ -3,13 +3,13 @@
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
 - [Stra-ParlaBO](#stra-parlabo)
-	- [Repository organization](#repository-organization)
-	- [Metadata](#metadata)
-	- [Verticalized content](#verticalized-content)
-	- [Translations](#translations)
-	- [Data access](#data-access)
-	- [How to cite](#how-to-cite)
-	- [Changelog](#changelog)
+  - [Repository organization](#repository-organization)
+  - [Metadata](#metadata)
+  - [Verticalized content](#verticalized-content)
+  - [Translations](#translations)
+  - [Data access](#data-access)
+  - [How to cite](#how-to-cite)
+  - [Changelog](#changelog)
 
 The Stra-ParlaBO corpus is part of the larger [KIParla collection](https://www.kiparla.it),
 which can be freely queried through the [NoSketch Engine interface](https://kiparla.it/search/).
@@ -167,11 +167,11 @@ Due to GDPR restrictions, pseudo-anonymized audio files (MP3) are available unde
 
 If you use the Stra-ParlaBO module in your research, please cite the corpus:
 
-Mauri, Caterina & Ballarè, Silvia & Zucchini, Eleonora. 2026. DOI: [https://doi.org/10.60760/unibo/stra-parlabo](https://doi.org/10.60760/unibo/stra-parlabo)
+> Mauri, Caterina & Ballarè, Silvia & Zucchini, Eleonora. 2026. DOI: [https://doi.org/10.60760/unibo/stra-parlabo](https://doi.org/10.60760/unibo/stra-parlabo)
 
 For a description of the corpus, please cite:
 
-Zucchini, Eleonora & Ballarè, Silvia & Mauri, Caterina. 2025. "Parlare italiano in contesto migratorio: il corpus Stra-ParlaBO". Études romanes de Brno.
+> Zucchini, Eleonora & Ballarè, Silvia & Mauri, Caterina. 2025. "Parlare italiano in contesto migratorio: il corpus Stra-ParlaBO". Études romanes de Brno.
 
 Please also reference the version (commit/tag) of this repository you used in your data statement or appendix.
 
