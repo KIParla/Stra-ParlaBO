@@ -80,6 +80,14 @@
               "base": "boolean",
               "format": "yes|no"
             }
+          },
+          {
+            "name": "community",
+            "titles": "community",
+            "datatype": {
+              "base": "string",
+              "format": "arabic|bengali|chinese|ukrainian"
+            }
           }
         ],
         "foreignKeys": [
