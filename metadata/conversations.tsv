@@ -9,7 +9,7 @@ SBCA009	free-conversation	00:16:36	2	PSB142;PSB143	italian;other	BO	free	no	symm
 SBCA010	free-conversation	00:25:31	3	PSB161;PSB162;PSB163	italian;other	BO	free	no	symmetric	_	no
 SBCA011	free-conversation	01:03:48	2	PSB164;PSB165	italian;other	BO	free	no	symmetric	_	yes
 SBCB001	free-conversation	00:31:24	4	PSB071;PSB072;PSB073;PSB074	italian;other	BO	free	no	symmetric	_	yes
-SBCB002	free-conversation	00:49:12	4	PSB005;PSB093;PSB094;PSB095	italian;other	BO	free	no	symmetric	_	yes
+SBCB002	free-conversation	00:35:05	4	PSB005;PSB093;PSB094;PSB095	italian;other	BO	free	no	symmetric	_	yes
 SBCB003	free-conversation	00:32:40	2	PSB095;PSB118	italian;other	BO	free	no	symmetric	_	no
 SBCB004	free-conversation	01:17:46	4	PSB054;PSB133;PSB134;PSB135	italian;other	BO	free	no	symmetric	_	yes
 SBCB005	free-conversation	00:48:27	2	PSB049;PSB050	italian	BO	free	no	symmetric	_	no
