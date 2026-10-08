@@ -86,7 +86,7 @@
             "titles": "community",
             "datatype": {
               "base": "string",
-              "format": "arabic|bengali|chinese|ukrainian"
+              "format": "moroccan|bengali|chinese|ukrainian"
             }
           }
         ],
