@@ -1,0 +1,34 @@
+[
+  {
+    "tu_id": "196",
+    "speaker": "PSB035_trad",
+    "start": "292.300",
+    "end": "294.426",
+    "parent_tu_id": "_",
+    "text": "ah dialetto sì ah sì sì"
+  },
+  {
+    "tu_id": "202",
+    "speaker": "PSB035_trad",
+    "start": "296.377",
+    "end": "300.981",
+    "parent_tu_id": "_",
+    "text": "lo sta intervistando aspetta un attimo"
+  },
+  {
+    "tu_id": "259",
+    "speaker": "PSB035_trad",
+    "start": "374.954",
+    "end": "377.841",
+    "parent_tu_id": "_",
+    "text": "ah sì sì  televisione sì che qua abbiam~"
+  },
+  {
+    "tu_id": "377",
+    "speaker": "PSB035_trad",
+    "start": "550.464",
+    "end": "551.871",
+    "parent_tu_id": "_",
+    "text": "cosa?"
+  }
+]

@@ -1,0 +1,618 @@
+[
+  {
+    "tu_id": "91",
+    "speaker": "PSB102_trad",
+    "start": "201.504",
+    "end": "202.380",
+    "parent_tu_id": "90",
+    "text": "come si dice registrazione?"
+  },
+  {
+    "tu_id": "103",
+    "speaker": "PSB103_trad",
+    "start": "217.966",
+    "end": "221.167",
+    "parent_tu_id": "102",
+    "text": "ti pia~ ti piace stare qui"
+  },
+  {
+    "tu_id": "106",
+    "speaker": "PSB103_trad",
+    "start": "221.216",
+    "end": "223.291",
+    "parent_tu_id": "105",
+    "text": "no qua"
+  },
+  {
+    "tu_id": "121",
+    "speaker": "PSB102_trad",
+    "start": "278.683",
+    "end": "283.608",
+    "parent_tu_id": "120",
+    "text": "teoria?"
+  },
+  {
+    "tu_id": "213",
+    "speaker": "PSB101_trad",
+    "start": "506.216",
+    "end": "511.017",
+    "parent_tu_id": "212",
+    "text": "cioè da quando sei venuta in Italia non sei più tornata?"
+  },
+  {
+    "tu_id": "303",
+    "speaker": "PSB103_trad",
+    "start": "710.216",
+    "end": "711.407",
+    "parent_tu_id": "302",
+    "text": "stai zitta stronza"
+  },
+  {
+    "tu_id": "404",
+    "speaker": "PSB101_trad",
+    "start": "909.754",
+    "end": "911.069",
+    "parent_tu_id": "403",
+    "text": "sua mamma ha tante tartarughe"
+  },
+  {
+    "tu_id": "480",
+    "speaker": "PSB101_trad",
+    "start": "1093.730",
+    "end": "1099.925",
+    "parent_tu_id": "479",
+    "text": "qualche giorno fa quando è piovuto forte c'era qualche prooblema a casa tua？mi hai detto che a casa vostra c'era qualche problema"
+  },
+  {
+    "tu_id": "494",
+    "speaker": "PSB102_trad",
+    "start": "1121.800",
+    "end": "1122.570",
+    "parent_tu_id": "493",
+    "text": "sul soffitto"
+  },
+  {
+    "tu_id": "496",
+    "speaker": "PSB101_trad",
+    "start": "1123.375",
+    "end": "1124.225",
+    "parent_tu_id": "495",
+    "text": "a che piano sei?"
+  },
+  {
+    "tu_id": "498",
+    "speaker": "PSB101_trad",
+    "start": "1125.825",
+    "end": "1126.562",
+    "parent_tu_id": "497",
+    "text": "a che piano?"
+  },
+  {
+    "tu_id": "504",
+    "speaker": "PSB103_trad",
+    "start": "1130.186",
+    "end": "1131.025",
+    "parent_tu_id": "503",
+    "text": "terzo piano"
+  },
+  {
+    "tu_id": "553",
+    "speaker": "PSB103_trad",
+    "start": "1238.400",
+    "end": "1241.399",
+    "parent_tu_id": "552",
+    "text": "ah ah sei mai stata a chongqing?"
+  },
+  {
+    "tu_id": "600",
+    "speaker": "PSB103_trad",
+    "start": "1325.058",
+    "end": "1327.466",
+    "parent_tu_id": "599",
+    "text": "ci sono tanti americani a shanghai"
+  },
+  {
+    "tu_id": "606",
+    "speaker": "PSB103_trad",
+    "start": "1332.033",
+    "end": "1333.508",
+    "parent_tu_id": "605",
+    "text": "è giusto giusto giusto giusto giusto"
+  },
+  {
+    "tu_id": "613",
+    "speaker": "PSB103_trad",
+    "start": "1340.547",
+    "end": "1341.167",
+    "parent_tu_id": "612",
+    "text": "americani"
+  },
+  {
+    "tu_id": "627",
+    "speaker": "PSB103_trad",
+    "start": "1360.238",
+    "end": "1361.284",
+    "parent_tu_id": "626",
+    "text": "ciao ragazzi"
+  },
+  {
+    "tu_id": "629",
+    "speaker": "PSB103_trad",
+    "start": "1361.447",
+    "end": "1364.708",
+    "parent_tu_id": "628",
+    "text": "perché lo diceva sempre lo diceva sempre la professoressa yan"
+  },
+  {
+    "tu_id": "634",
+    "speaker": "PSB101_trad",
+    "start": "1368.482",
+    "end": "1368.924",
+    "parent_tu_id": "633",
+    "text": "estero"
+  },
+  {
+    "tu_id": "636",
+    "speaker": "PSB103_trad",
+    "start": "1369.287",
+    "end": "1369.837",
+    "parent_tu_id": "635",
+    "text": "io"
+  },
+  {
+    "tu_id": "638",
+    "speaker": "PSB101_trad",
+    "start": "1370.491",
+    "end": "1370.907",
+    "parent_tu_id": "637",
+    "text": "estero"
+  },
+  {
+    "tu_id": "640",
+    "speaker": "PSB103_trad",
+    "start": "1371.191",
+    "end": "1372.049",
+    "parent_tu_id": "639",
+    "text": "estero"
+  },
+  {
+    "tu_id": "642",
+    "speaker": "PSB101_trad",
+    "start": "1375.807",
+    "end": "1376.457",
+    "parent_tu_id": "641",
+    "text": "paese"
+  },
+  {
+    "tu_id": "644",
+    "speaker": "PSB103_trad",
+    "start": "1376.826",
+    "end": "1377.693",
+    "parent_tu_id": "643",
+    "text": "stranieri?"
+  },
+  {
+    "tu_id": "732",
+    "speaker": "PSB102_trad",
+    "start": "1562.570",
+    "end": "1563.740",
+    "parent_tu_id": "731",
+    "text": "che cos'e?"
+  },
+  {
+    "tu_id": "808",
+    "speaker": "PSB102_trad",
+    "start": "1690.946",
+    "end": "1692.794",
+    "parent_tu_id": "807",
+    "text": "esiste? non credo che ci sia"
+  },
+  {
+    "tu_id": "810",
+    "speaker": "PSB101_trad",
+    "start": "1693.030",
+    "end": "1693.870",
+    "parent_tu_id": "809",
+    "text": "non mi ricordo più"
+  },
+  {
+    "tu_id": "1152",
+    "speaker": "PSB102_trad",
+    "start": "2385.795",
+    "end": "2386.756",
+    "parent_tu_id": "1151",
+    "text": "stanno parlano dei tuoi coinquilini"
+  },
+  {
+    "tu_id": "1154",
+    "speaker": "PSB101_trad",
+    "start": "2386.778",
+    "end": "2391.961",
+    "parent_tu_id": "1153",
+    "text": "non è non è lei è è quel eh la studentessa straniera dell'università della california"
+  },
+  {
+    "tu_id": "1293",
+    "speaker": "PSB102_trad",
+    "start": "2657.780",
+    "end": "2658.580",
+    "parent_tu_id": "1292",
+    "text": "che? che cos'è?"
+  },
+  {
+    "tu_id": "1295",
+    "speaker": "PSB101_trad",
+    "start": "2659.460",
+    "end": "2667.000",
+    "parent_tu_id": "1294",
+    "text": "è proprio quella mochi ah si chiama mochi? mi sembra che si chiami mochi oh mochi mochi mochi"
+  },
+  {
+    "tu_id": "1298",
+    "speaker": "PSB102_trad",
+    "start": "2664.900",
+    "end": "2665.500",
+    "parent_tu_id": "1297",
+    "text": "mochi"
+  },
+  {
+    "tu_id": "1379",
+    "speaker": "PSB101_trad",
+    "start": "2794.757",
+    "end": "2796.500",
+    "parent_tu_id": "1378",
+    "text": "quale il tuo segno zodiacale? tigre"
+  },
+  {
+    "tu_id": "1381",
+    "speaker": "PSB102_trad",
+    "start": "2796.509",
+    "end": "2797.157",
+    "parent_tu_id": "1380",
+    "text": "bue"
+  },
+  {
+    "tu_id": "1383",
+    "speaker": "PSB101_trad",
+    "start": "2797.278",
+    "end": "2797.704",
+    "parent_tu_id": "1382",
+    "text": "bue"
+  },
+  {
+    "tu_id": "1395",
+    "speaker": "PSB102_trad",
+    "start": "2809.065",
+    "end": "2810.260",
+    "parent_tu_id": "1394",
+    "text": "ottanta novantotto"
+  },
+  {
+    "tu_id": "1402",
+    "speaker": "PSB101_trad",
+    "start": "2814.961",
+    "end": "2815.680",
+    "parent_tu_id": "1401",
+    "text": "in questo caso il tuo segno non era tigre?"
+  },
+  {
+    "tu_id": "1404",
+    "speaker": "PSB102_trad",
+    "start": "2815.680",
+    "end": "2818.696",
+    "parent_tu_id": "1403",
+    "text": "perché sono nata prima del capodanno"
+  },
+  {
+    "tu_id": "1406",
+    "speaker": "PSB101_trad",
+    "start": "2817.296",
+    "end": "2819.996",
+    "parent_tu_id": "1405",
+    "text": "ah dici secondo il calendario lunare"
+  },
+  {
+    "tu_id": "1411",
+    "speaker": "PSB102_trad",
+    "start": "2823.804",
+    "end": "2826.504",
+    "parent_tu_id": "1410",
+    "text": "quale il suo segno se è nato nel duemiladue?"
+  },
+  {
+    "tu_id": "1413",
+    "speaker": "PSB101_trad",
+    "start": "2827.000",
+    "end": "2828.404",
+    "parent_tu_id": "1412",
+    "text": "bue o coniglio"
+  },
+  {
+    "tu_id": "1416",
+    "speaker": "PSB101_trad",
+    "start": "2829.504",
+    "end": "2833.300",
+    "parent_tu_id": "1415",
+    "text": "drago serpente cosa ci sono dopo coniglio drago e serpente?"
+  },
+  {
+    "tu_id": "1418",
+    "speaker": "PSB102_trad",
+    "start": "2833.304",
+    "end": "2837.304",
+    "parent_tu_id": "1417",
+    "text": "tigre coniglio bue o tigre bue coniglio drago serpente cavallo"
+  },
+  {
+    "tu_id": "1420",
+    "speaker": "PSB101_trad",
+    "start": "2835.287",
+    "end": "2836.008",
+    "parent_tu_id": "1419",
+    "text": "coniglio drago e serpente"
+  },
+  {
+    "tu_id": "1422",
+    "speaker": "PSB101_trad",
+    "start": "2837.246",
+    "end": "2837.680",
+    "parent_tu_id": "1421",
+    "text": "cavallo"
+  },
+  {
+    "tu_id": "1424",
+    "speaker": "PSB102_trad",
+    "start": "2837.654",
+    "end": "2840.963",
+    "parent_tu_id": "1423",
+    "text": "cavallo pecora pecora scimmia gallo"
+  },
+  {
+    "tu_id": "1426",
+    "speaker": "PSB101_trad",
+    "start": "2838.750",
+    "end": "2840.508",
+    "parent_tu_id": "1425",
+    "text": "pecora scimmia"
+  },
+  {
+    "tu_id": "1631",
+    "speaker": "PSB101_trad",
+    "start": "3257.710",
+    "end": "3258.988",
+    "parent_tu_id": "1630",
+    "text": "sai scrivere i caratteri in cinese tradizionale?"
+  },
+  {
+    "tu_id": "1645",
+    "speaker": "PSB101_trad",
+    "start": "3273.710",
+    "end": "3275.002",
+    "parent_tu_id": "1644",
+    "text": "anche macao parla"
+  },
+  {
+    "tu_id": "1669",
+    "speaker": "PSB101_trad",
+    "start": "3303.595",
+    "end": "3305.561",
+    "parent_tu_id": "1668",
+    "text": "accento pechinese è più vicino a mandarino?"
+  },
+  {
+    "tu_id": "1672",
+    "speaker": "PSB101_trad",
+    "start": "3305.988",
+    "end": "3311.340",
+    "parent_tu_id": "1670",
+    "text": "dicono che il cinese parlato in hebei sia quello standard ho sentito che c'è un posto in hebei dove il mandarino è parlato nel modo più simile alla lingua standard"
+  },
+  {
+    "tu_id": "1674",
+    "speaker": "PSB102_trad",
+    "start": "3307.788",
+    "end": "3308.267",
+    "parent_tu_id": "1673",
+    "text": "sì"
+  },
+  {
+    "tu_id": "1677",
+    "speaker": "PSB102_trad",
+    "start": "3312.517",
+    "end": "3316.188",
+    "parent_tu_id": "1676",
+    "text": "ma ora non parliamo più molto il dialetto di pechino parliamo"
+  },
+  {
+    "tu_id": "1679",
+    "speaker": "PSB101_trad",
+    "start": "3314.674",
+    "end": "3315.395",
+    "parent_tu_id": "1678",
+    "text": "pechinese"
+  },
+  {
+    "tu_id": "1823",
+    "speaker": "PSB102_trad",
+    "start": "3613.705",
+    "end": "3616.150",
+    "parent_tu_id": "1822",
+    "text": "come si dice profondità? cioè"
+  },
+  {
+    "tu_id": "1828",
+    "speaker": "PSB102_trad",
+    "start": "3630.519",
+    "end": "3636.748",
+    "parent_tu_id": "1827",
+    "text": "eh come si dice profondità? cioè"
+  },
+  {
+    "tu_id": "1832",
+    "speaker": "PSB102_trad",
+    "start": "3641.148",
+    "end": "3655.405",
+    "parent_tu_id": "1831",
+    "text": "perché quando cerco di capire l'italiano posso trovare in cinese una traduzione corrispondente che sia relativamente più dettagliata rispetto a quella in italiano"
+  },
+  {
+    "tu_id": "1860",
+    "speaker": "PSB101_trad",
+    "start": "3705.853",
+    "end": "3706.598",
+    "parent_tu_id": "1859",
+    "text": "parli tu"
+  },
+  {
+    "tu_id": "1884",
+    "speaker": "PSB101_trad",
+    "start": "3753.201",
+    "end": "3756.807",
+    "parent_tu_id": "1883",
+    "text": "di dove sono? che parli con loro?"
+  },
+  {
+    "tu_id": "1888",
+    "speaker": "PSB101_trad",
+    "start": "3757.096",
+    "end": "3759.891",
+    "parent_tu_id": "1887",
+    "text": "parlate dialetto o mandarino?"
+  },
+  {
+    "tu_id": "1890",
+    "speaker": "PSB103_trad",
+    "start": "3759.490",
+    "end": "3761.246",
+    "parent_tu_id": "1889",
+    "text": "sono pechinesi?"
+  },
+  {
+    "tu_id": "1905",
+    "speaker": "PSB101_trad",
+    "start": "3780.985",
+    "end": "3782.346",
+    "parent_tu_id": "1904",
+    "text": "silvia è fujianese?"
+  },
+  {
+    "tu_id": "1908",
+    "speaker": "PSB102_trad",
+    "start": "3784.129",
+    "end": "3787.207",
+    "parent_tu_id": "1907",
+    "text": "secondo me sì dalla mia impressione sì"
+  },
+  {
+    "tu_id": "1928",
+    "speaker": "PSB102_trad",
+    "start": "3822.196",
+    "end": "3824.491",
+    "parent_tu_id": "1927",
+    "text": "non sono molto sicura"
+  },
+  {
+    "tu_id": "1994",
+    "speaker": "PSB101_trad",
+    "start": "3931.183",
+    "end": "3934.489",
+    "parent_tu_id": "1993",
+    "text": "dicono che la zona sopra huáng hé o cháng jiāng non è abitabile?"
+  },
+  {
+    "tu_id": "1996",
+    "speaker": "PSB102_trad",
+    "start": "3934.500",
+    "end": "3936.994",
+    "parent_tu_id": "1995",
+    "text": "esiste questo modo di dire?"
+  },
+  {
+    "tu_id": "1998",
+    "speaker": "PSB101_trad",
+    "start": "3936.259",
+    "end": "3936.718",
+    "parent_tu_id": "1997",
+    "text": "esiste"
+  },
+  {
+    "tu_id": "2002",
+    "speaker": "PSB101_trad",
+    "start": "3939.587",
+    "end": "3940.994",
+    "parent_tu_id": "2001",
+    "text": "secondo me è il fiume giallo"
+  },
+  {
+    "tu_id": "2006",
+    "speaker": "PSB101_trad",
+    "start": "3947.859",
+    "end": "3949.981",
+    "parent_tu_id": "2005",
+    "text": "da voi ci sono tempeste di sabbia in inverno vero?"
+  },
+  {
+    "tu_id": "2012",
+    "speaker": "PSB101_trad",
+    "start": "3956.812",
+    "end": "3959.006",
+    "parent_tu_id": "2011",
+    "text": "quelle tempeste di sabbia"
+  },
+  {
+    "tu_id": "2014",
+    "speaker": "PSB102_trad",
+    "start": "3958.094",
+    "end": "3959.400",
+    "parent_tu_id": "2013",
+    "text": "mongolia"
+  },
+  {
+    "tu_id": "2024",
+    "speaker": "PSB101_trad",
+    "start": "3971.153",
+    "end": "3971.859",
+    "parent_tu_id": "2023",
+    "text": "sei mai stata a mongolia?"
+  },
+  {
+    "tu_id": "2026",
+    "speaker": "PSB103_trad",
+    "start": "3971.159",
+    "end": "3972.306",
+    "parent_tu_id": "2025",
+    "text": "sei mai stata a mongolia"
+  },
+  {
+    "tu_id": "2028",
+    "speaker": "PSB102_trad",
+    "start": "3972.747",
+    "end": "3974.250",
+    "parent_tu_id": "2027",
+    "text": "sono stata a mongolia interna"
+  },
+  {
+    "tu_id": "2062",
+    "speaker": "PSB101_trad",
+    "start": "4030.864",
+    "end": "4034.994",
+    "parent_tu_id": "2061",
+    "text": "la distanza da pechino allo xinjiang richiede quante ore? in aereo circa otto ore credo mi sembra che il volo più lungo impieghi"
+  },
+  {
+    "tu_id": "2064",
+    "speaker": "PSB102_trad",
+    "start": "4034.989",
+    "end": "4036.724",
+    "parent_tu_id": "2063",
+    "text": "non sono molto sicura"
+  },
+  {
+    "tu_id": "2066",
+    "speaker": "PSB101_trad",
+    "start": "4036.730",
+    "end": "4037.706",
+    "parent_tu_id": "2065",
+    "text": "doveva essere otto ore"
+  }
+]

@@ -1,0 +1,354 @@
+[
+  {
+    "tu_id": "393",
+    "speaker": "PSB001_trad",
+    "start": "564.480",
+    "end": "565.510",
+    "parent_tu_id": "392",
+    "text": "come si dice astronomia?"
+  },
+  {
+    "tu_id": "959",
+    "speaker": "PSB001_trad",
+    "start": "1335.740",
+    "end": "1336.480",
+    "parent_tu_id": "958",
+    "text": "quella geografica"
+  },
+  {
+    "tu_id": "961",
+    "speaker": "PSB001_trad",
+    "start": "1336.580",
+    "end": "1337.070",
+    "parent_tu_id": "960",
+    "text": "l'indirizzo"
+  },
+  {
+    "tu_id": "975",
+    "speaker": "PSB001_trad",
+    "start": "1348.670",
+    "end": "1349.720",
+    "parent_tu_id": "974",
+    "text": "rete ha una rete"
+  },
+  {
+    "tu_id": "978",
+    "speaker": "PSB001_trad",
+    "start": "1350.360",
+    "end": "1351.040",
+    "parent_tu_id": "977",
+    "text": "ragnatela"
+  },
+  {
+    "tu_id": "993",
+    "speaker": "PSB001_trad",
+    "start": "1365.100",
+    "end": "1367.150",
+    "parent_tu_id": "992",
+    "text": "un circo a cerchio"
+  },
+  {
+    "tu_id": "996",
+    "speaker": "PSB002_trad",
+    "start": "1368.950",
+    "end": "1369.700",
+    "parent_tu_id": "995",
+    "text": "cosa a cerchio?"
+  },
+  {
+    "tu_id": "998",
+    "speaker": "PSB001_trad",
+    "start": "1369.970",
+    "end": "1371.110",
+    "parent_tu_id": "997",
+    "text": "un cerchio di fiume e poi un altro cerchio"
+  },
+  {
+    "tu_id": "1001",
+    "speaker": "PSB002_trad",
+    "start": "1371.580",
+    "end": "1372.450",
+    "parent_tu_id": "999",
+    "text": "un cerchio di fiume?"
+  },
+  {
+    "tu_id": "1003",
+    "speaker": "PSB001_trad",
+    "start": "1372.960",
+    "end": "1374.020",
+    "parent_tu_id": "1002",
+    "text": "non so come si dice"
+  },
+  {
+    "tu_id": "1005",
+    "speaker": "PSB001_trad",
+    "start": "1374.130",
+    "end": "1375.990",
+    "parent_tu_id": "1004",
+    "text": "cioè la ragnatela"
+  },
+  {
+    "tu_id": "1010",
+    "speaker": "PSB002_trad",
+    "start": "1377.650",
+    "end": "1378.110",
+    "parent_tu_id": "1009",
+    "text": "parla parla"
+  },
+  {
+    "tu_id": "1012",
+    "speaker": "PSB001_trad",
+    "start": "1378.900",
+    "end": "1380.160",
+    "parent_tu_id": "1011",
+    "text": "cioè cioè"
+  },
+  {
+    "tu_id": "1014",
+    "speaker": "PSB001_trad",
+    "start": "1380.600",
+    "end": "1382.690",
+    "parent_tu_id": "1013",
+    "text": "cioè terra e poi intorno c'è un cerchio di fiume"
+  },
+  {
+    "tu_id": "1017",
+    "speaker": "PSB001_trad",
+    "start": "1383.320",
+    "end": "1384.270",
+    "parent_tu_id": "1016",
+    "text": "poi c'è un altro anello di terra seguito da un altro anello di fiume"
+  },
+  {
+    "tu_id": "1278",
+    "speaker": "PSB001_trad",
+    "start": "1703.580",
+    "end": "1705.370",
+    "parent_tu_id": "1277",
+    "text": "si conta? otto modi di fare"
+  },
+  {
+    "tu_id": "1280",
+    "speaker": "PSB002_trad",
+    "start": "1705.360",
+    "end": "1706.710",
+    "parent_tu_id": "1279",
+    "text": "ah otto tipi? pensavo che stessi parlando di"
+  },
+  {
+    "tu_id": "1282",
+    "speaker": "PSB002_trad",
+    "start": "1706.760",
+    "end": "1707.260",
+    "parent_tu_id": "1281",
+    "text": "cucine"
+  },
+  {
+    "tu_id": "1284",
+    "speaker": "PSB001_trad",
+    "start": "1707.300",
+    "end": "1709.760",
+    "parent_tu_id": "1283",
+    "text": "giusto voglio dire cucina ma non so come tradurlo"
+  },
+  {
+    "tu_id": "1286",
+    "speaker": "PSB002_trad",
+    "start": "1708.020",
+    "end": "1708.590",
+    "parent_tu_id": "1285",
+    "text": "sì"
+  },
+  {
+    "tu_id": "1290",
+    "speaker": "PSB001_trad",
+    "start": "1711.560",
+    "end": "1713.690",
+    "parent_tu_id": "1289",
+    "text": "otto modi di fare le cose probabilmente non sono nemmeno modi di fare"
+  },
+  {
+    "tu_id": "1370",
+    "speaker": "PSB001_trad",
+    "start": "1803.450",
+    "end": "1804.200",
+    "parent_tu_id": "1369",
+    "text": "testa di pesce con peperoncino tritato"
+  },
+  {
+    "tu_id": "1376",
+    "speaker": "PSB002_trad",
+    "start": "1805.193",
+    "end": "1806.090",
+    "parent_tu_id": "1375",
+    "text": "sì testa di pesce con peperoncino tritato sì"
+  },
+  {
+    "tu_id": "1435",
+    "speaker": "PSB001_trad",
+    "start": "1875.420",
+    "end": "1876.260",
+    "parent_tu_id": "1434",
+    "text": "sì ingredienti"
+  },
+  {
+    "tu_id": "1621",
+    "speaker": "PSB001_trad",
+    "start": "2114.800",
+    "end": "2116.740",
+    "parent_tu_id": "1620",
+    "text": "no esa~ dove cioè"
+  },
+  {
+    "tu_id": "1630",
+    "speaker": "PSB001_trad",
+    "start": "2126.050",
+    "end": "2127.340",
+    "parent_tu_id": "1629",
+    "text": "come si dice est?"
+  },
+  {
+    "tu_id": "1649",
+    "speaker": "PSB002_trad",
+    "start": "2143.090",
+    "end": "2144.490",
+    "parent_tu_id": "1648",
+    "text": "sud e e est est est"
+  },
+  {
+    "tu_id": "1651",
+    "speaker": "PSB002_trad",
+    "start": "2144.880",
+    "end": "2145.760",
+    "parent_tu_id": "1650",
+    "text": "no cioè"
+  },
+  {
+    "tu_id": "1653",
+    "speaker": "PSB001_trad",
+    "start": "2145.270",
+    "end": "2146.130",
+    "parent_tu_id": "1652",
+    "text": "no cioè"
+  },
+  {
+    "tu_id": "1655",
+    "speaker": "PSB001_trad",
+    "start": "2146.390",
+    "end": "2149.300",
+    "parent_tu_id": "1654",
+    "text": "è proprio in centro sai dov'era jasmine prima?"
+  },
+  {
+    "tu_id": "1657",
+    "speaker": "PSB002_trad",
+    "start": "2149.340",
+    "end": "2149.770",
+    "parent_tu_id": "1656",
+    "text": "non lo so"
+  },
+  {
+    "tu_id": "1659",
+    "speaker": "PSB001_trad",
+    "start": "2150.030",
+    "end": "2151.460",
+    "parent_tu_id": "1658",
+    "text": "adesso è già fallita"
+  },
+  {
+    "tu_id": "1661",
+    "speaker": "PSB002_trad",
+    "start": "2150.930",
+    "end": "2152.670",
+    "parent_tu_id": "1660",
+    "text": "non conosco questo jasmine"
+  },
+  {
+    "tu_id": "1664",
+    "speaker": "PSB001_trad",
+    "start": "2152.970",
+    "end": "2153.830",
+    "parent_tu_id": "1663",
+    "text": "ah qua qua"
+  },
+  {
+    "tu_id": "1753",
+    "speaker": "PSB002_trad",
+    "start": "2260.180",
+    "end": "2261.020",
+    "parent_tu_id": "1752",
+    "text": "inzuppato"
+  },
+  {
+    "tu_id": "2291",
+    "speaker": "PSB001_trad",
+    "start": "2979.160",
+    "end": "2981.840",
+    "parent_tu_id": "2290",
+    "text": "capo posso dire quello"
+  },
+  {
+    "tu_id": "2293",
+    "speaker": "PSB001_trad",
+    "start": "2982.540",
+    "end": "2983.290",
+    "parent_tu_id": "2292",
+    "text": "di hunan"
+  },
+  {
+    "tu_id": "2295",
+    "speaker": "PSB001_trad",
+    "start": "2983.870",
+    "end": "2984.940",
+    "parent_tu_id": "2294",
+    "text": "capoluogo"
+  },
+  {
+    "tu_id": "2363",
+    "speaker": "PSB001_trad",
+    "start": "3057.850",
+    "end": "3058.540",
+    "parent_tu_id": "2362",
+    "text": "cioè liaison"
+  },
+  {
+    "tu_id": "2366",
+    "speaker": "PSB002_trad",
+    "start": "3059.280",
+    "end": "3060.130",
+    "parent_tu_id": "2365",
+    "text": "liaison?"
+  },
+  {
+    "tu_id": "2368",
+    "speaker": "PSB001_trad",
+    "start": "3060.180",
+    "end": "3062.550",
+    "parent_tu_id": "2367",
+    "text": "cioè quando pronunciano due parole velocemente non si capisce niente"
+  },
+  {
+    "tu_id": "2482",
+    "speaker": "PSB002_trad",
+    "start": "3210.820",
+    "end": "3212.760",
+    "parent_tu_id": "2481",
+    "text": "leggere i giornali o telegiornali"
+  },
+  {
+    "tu_id": "2484",
+    "speaker": "PSB001_trad",
+    "start": "3212.760",
+    "end": "3213.550",
+    "parent_tu_id": "2483",
+    "text": "sembra"
+  },
+  {
+    "tu_id": "2684",
+    "speaker": "PSB001_trad",
+    "start": "3489.940",
+    "end": "3492.360",
+    "parent_tu_id": "2683",
+    "text": "è imbarazzante imbarazzante"
+  }
+]

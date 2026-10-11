@@ -1,0 +1,234 @@
+[
+  {
+    "tu_id": "527",
+    "speaker": "PSB113_trad",
+    "start": "2051.147",
+    "end": "2052.537",
+    "parent_tu_id": "526",
+    "text": "okay la sorella del marito"
+  },
+  {
+    "tu_id": "529",
+    "speaker": "PSB113_trad",
+    "start": "2053.384",
+    "end": "2054.085",
+    "parent_tu_id": "528",
+    "text": "cognata"
+  },
+  {
+    "tu_id": "536",
+    "speaker": "PSB113_trad",
+    "start": "2067.725",
+    "end": "2068.451",
+    "parent_tu_id": "535",
+    "text": "cognato"
+  },
+  {
+    "tu_id": "541",
+    "speaker": "PSB113_trad",
+    "start": "2090.114",
+    "end": "2093.471",
+    "parent_tu_id": "540",
+    "text": "il padre della moglie no parenti di sangue del coniuge"
+  },
+  {
+    "tu_id": "543",
+    "speaker": "PSB113_trad",
+    "start": "2097.048",
+    "end": "2099.044",
+    "parent_tu_id": "542",
+    "text": "coniuge di un consanguineo"
+  },
+  {
+    "tu_id": "547",
+    "speaker": "PSB113_trad",
+    "start": "2102.655",
+    "end": "2106.644",
+    "parent_tu_id": "546",
+    "text": "la sorella della madre il xx marito della sorella della madre"
+  },
+  {
+    "tu_id": "554",
+    "speaker": "PSB113_trad",
+    "start": "2125.401",
+    "end": "2127.057",
+    "parent_tu_id": "553",
+    "text": "i fratelli zio"
+  },
+  {
+    "tu_id": "556",
+    "speaker": "PSB113_trad",
+    "start": "2127.766",
+    "end": "2129.353",
+    "parent_tu_id": "555",
+    "text": "okay zio"
+  },
+  {
+    "tu_id": "559",
+    "speaker": "PSB113_trad",
+    "start": "2129.737",
+    "end": "2130.024",
+    "parent_tu_id": "557",
+    "text": "non si chiama zio"
+  },
+  {
+    "tu_id": "562",
+    "speaker": "PSB113_trad",
+    "start": "2132.954",
+    "end": "2134.365",
+    "parent_tu_id": "561",
+    "text": "cognata grande cognata piccola"
+  },
+  {
+    "tu_id": "565",
+    "speaker": "PSB113_trad",
+    "start": "2139.549",
+    "end": "2142.533",
+    "parent_tu_id": "564",
+    "text": "fratello della moglie cognato maggiore cognato minore"
+  },
+  {
+    "tu_id": "567",
+    "speaker": "PSB113_trad",
+    "start": "2143.999",
+    "end": "2144.843",
+    "parent_tu_id": "566",
+    "text": "sorelle della moglie"
+  },
+  {
+    "tu_id": "569",
+    "speaker": "PSB113_trad",
+    "start": "2145.233",
+    "end": "2145.807",
+    "parent_tu_id": "568",
+    "text": "zia"
+  },
+  {
+    "tu_id": "571",
+    "speaker": "PSB113_trad",
+    "start": "2146.175",
+    "end": "2149.377",
+    "parent_tu_id": "570",
+    "text": "sorella maggiore zia zia minore"
+  },
+  {
+    "tu_id": "573",
+    "speaker": "PSB113_trad",
+    "start": "2150.467",
+    "end": "2151.734",
+    "parent_tu_id": "572",
+    "text": "cognata"
+  },
+  {
+    "tu_id": "576",
+    "speaker": "PSB113_trad",
+    "start": "2155.040",
+    "end": "2160.098",
+    "parent_tu_id": "575",
+    "text": "fratello maggiore e il marito fratelli della moglie e marito"
+  },
+  {
+    "tu_id": "578",
+    "speaker": "PSB114_trad",
+    "start": "2157.499",
+    "end": "2158.283",
+    "parent_tu_id": "577",
+    "text": "cosa"
+  },
+  {
+    "tu_id": "594",
+    "speaker": "PSB113_trad",
+    "start": "2189.655",
+    "end": "2190.459",
+    "parent_tu_id": "593",
+    "text": "io cognata"
+  },
+  {
+    "tu_id": "596",
+    "speaker": "PSB113_trad",
+    "start": "2193.266",
+    "end": "2194.857",
+    "parent_tu_id": "595",
+    "text": "se tu hai fratello maggiore cognata"
+  },
+  {
+    "tu_id": "603",
+    "speaker": "PSB113_trad",
+    "start": "2204.070",
+    "end": "2204.602",
+    "parent_tu_id": "602",
+    "text": "cognata"
+  },
+  {
+    "tu_id": "605",
+    "speaker": "PSB113_trad",
+    "start": "2205.446",
+    "end": "2205.979",
+    "parent_tu_id": "604",
+    "text": "cognata"
+  },
+  {
+    "tu_id": "608",
+    "speaker": "PSB113_trad",
+    "start": "2223.811",
+    "end": "2225.865",
+    "parent_tu_id": "607",
+    "text": "cognata cognata fratello piccolo"
+  },
+  {
+    "tu_id": "612",
+    "speaker": "PSB113_trad",
+    "start": "2228.331",
+    "end": "2229.913",
+    "parent_tu_id": "611",
+    "text": "@vittorio è per te cognato"
+  },
+  {
+    "tu_id": "615",
+    "speaker": "PSB113_trad",
+    "start": "2231.628",
+    "end": "2233.717",
+    "parent_tu_id": "614",
+    "text": "qualcuno di @caterina sarebbe cognato"
+  },
+  {
+    "tu_id": "624",
+    "speaker": "PSB113_trad",
+    "start": "2246.512",
+    "end": "2248.221",
+    "parent_tu_id": "623",
+    "text": "devo dire cognata"
+  },
+  {
+    "tu_id": "650",
+    "speaker": "PSB113_trad",
+    "start": "2308.270",
+    "end": "2310.774",
+    "parent_tu_id": "649",
+    "text": "a moglie di mio fratello maggiore è cognata"
+  },
+  {
+    "tu_id": "655",
+    "speaker": "PSB113_trad",
+    "start": "2315.483",
+    "end": "2315.951",
+    "parent_tu_id": "654",
+    "text": "cognata"
+  },
+  {
+    "tu_id": "663",
+    "speaker": "PSB113_trad",
+    "start": "2328.926",
+    "end": "2329.664",
+    "parent_tu_id": "662",
+    "text": "è cognato"
+  },
+  {
+    "tu_id": "665",
+    "speaker": "PSB113_trad",
+    "start": "2332.348",
+    "end": "2334.680",
+    "parent_tu_id": "664",
+    "text": "infatti cognato chiamerà cognato"
+  }
+]

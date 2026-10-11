@@ -1,0 +1,50 @@
+[
+  {
+    "tu_id": "215",
+    "speaker": "PSB008_trad",
+    "start": "521.920",
+    "end": "527.228",
+    "parent_tu_id": "214",
+    "text": "soprattutto quando hai un pregiudizio oppure pregiudizio già"
+  },
+  {
+    "tu_id": "228",
+    "speaker": "PSB008_trad",
+    "start": "551.054",
+    "end": "552.329",
+    "parent_tu_id": "227",
+    "text": "locale locali"
+  },
+  {
+    "tu_id": "339",
+    "speaker": "PSB008_trad",
+    "start": "811.586",
+    "end": "815.038",
+    "parent_tu_id": "338",
+    "text": "è un po' come ereditario ereditario"
+  },
+  {
+    "tu_id": "754",
+    "speaker": "PSB008_trad",
+    "start": "1554.116",
+    "end": "1556.815",
+    "parent_tu_id": "753",
+    "text": "come si dice quello calamaro"
+  },
+  {
+    "tu_id": "941",
+    "speaker": "PSB008_trad",
+    "start": "1856.407",
+    "end": "1857.080",
+    "parent_tu_id": "940",
+    "text": "voglia"
+  },
+  {
+    "tu_id": "1563",
+    "speaker": "PSB008_trad",
+    "start": "3032.398",
+    "end": "3035.526",
+    "parent_tu_id": "1562",
+    "text": "in cinese si dice in sintonia"
+  }
+]

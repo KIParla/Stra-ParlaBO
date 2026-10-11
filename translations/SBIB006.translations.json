@@ -1,0 +1,66 @@
+[
+  {
+    "tu_id": "294",
+    "speaker": "PSB050_trad",
+    "start": "879.431",
+    "end": "881.385",
+    "parent_tu_id": "293",
+    "text": "ah sì striscione il"
+  },
+  {
+    "tu_id": "344",
+    "speaker": "PSB049_trad",
+    "start": "1025.692",
+    "end": "1034.092",
+    "parent_tu_id": "343",
+    "text": "quello che ti ho fatto vedere è questo è la striscione solo per mettere al muro che il giorno di otto quando facciamo noi"
+  },
+  {
+    "tu_id": "451",
+    "speaker": "PSB050_trad",
+    "start": "1418.769",
+    "end": "1421.031",
+    "parent_tu_id": "450",
+    "text": "che grande insomma quindi sei un organizzatore di feste"
+  },
+  {
+    "tu_id": "454",
+    "speaker": "PSB050_trad",
+    "start": "1421.600",
+    "end": "1423.032",
+    "parent_tu_id": "453",
+    "text": "sei un organizzatore di feste"
+  },
+  {
+    "tu_id": "803",
+    "speaker": "PSB049_trad",
+    "start": "2830.420",
+    "end": "2832.218",
+    "parent_tu_id": "802",
+    "text": "no c'è anche induisti"
+  },
+  {
+    "tu_id": "818",
+    "speaker": "PSB049_trad",
+    "start": "2884.435",
+    "end": "2891.913",
+    "parent_tu_id": "817",
+    "text": "però in bangladesh per religione per induista musulmana questi cose non abbiamo niente di"
+  },
+  {
+    "tu_id": "821",
+    "speaker": "PSB049_trad",
+    "start": "2898.189",
+    "end": "2901.218",
+    "parent_tu_id": "820",
+    "text": "per anche mio un amico induista"
+  },
+  {
+    "tu_id": "824",
+    "speaker": "PSB049_trad",
+    "start": "2904.218",
+    "end": "2909.478",
+    "parent_tu_id": "823",
+    "text": "e lui induista però l'induista non manda mangia carne di mucca"
+  }
+]

@@ -1,0 +1,178 @@
+[
+  {
+    "tu_id": "357",
+    "speaker": "PSB128_trad",
+    "start": "651.440",
+    "end": "653.213",
+    "parent_tu_id": "356",
+    "text": "da noi si chiama anche skatilka"
+  },
+  {
+    "tu_id": "361",
+    "speaker": "PSB128_trad",
+    "start": "657.920",
+    "end": "660.947",
+    "parent_tu_id": "360",
+    "text": "comunque ho dimenticato come si chiama da noi"
+  },
+  {
+    "tu_id": "365",
+    "speaker": "PSB128_trad",
+    "start": "665.480",
+    "end": "666.866",
+    "parent_tu_id": "364",
+    "text": "ho dimenticato come si chiama"
+  },
+  {
+    "tu_id": "368",
+    "speaker": "PSB086_trad",
+    "start": "667.820",
+    "end": "668.391",
+    "parent_tu_id": "367",
+    "text": "mattarello"
+  },
+  {
+    "tu_id": "371",
+    "speaker": "PSB091_trad",
+    "start": "668.820",
+    "end": "671.329",
+    "parent_tu_id": "370",
+    "text": "mattarello mattarello"
+  },
+  {
+    "tu_id": "374",
+    "speaker": "PSB128_trad",
+    "start": "671.700",
+    "end": "673.181",
+    "parent_tu_id": "373",
+    "text": "mattarello mattarello"
+  },
+  {
+    "tu_id": "520",
+    "speaker": "PSB128_trad",
+    "start": "896.820",
+    "end": "901.140",
+    "parent_tu_id": "519",
+    "text": "e da voi qualcuno fa con la forma di orecchio?"
+  },
+  {
+    "tu_id": "545",
+    "speaker": "PSB127_trad",
+    "start": "945.663",
+    "end": "947.657",
+    "parent_tu_id": "544",
+    "text": "e cosa metteva la sua conoscente?"
+  },
+  {
+    "tu_id": "547",
+    "speaker": "PSB127_trad",
+    "start": "948.551",
+    "end": "950.493",
+    "parent_tu_id": "546",
+    "text": "c'era qualcosa però non mi ricordo"
+  },
+  {
+    "tu_id": "549",
+    "speaker": "PSB091_trad",
+    "start": "950.507",
+    "end": "951.513",
+    "parent_tu_id": "548",
+    "text": "io non c'ero lì"
+  },
+  {
+    "tu_id": "551",
+    "speaker": "PSB127_trad",
+    "start": "951.520",
+    "end": "952.253",
+    "parent_tu_id": "550",
+    "text": "quindi tu non c'eri?"
+  },
+  {
+    "tu_id": "593",
+    "speaker": "PSB091_trad",
+    "start": "1050.157",
+    "end": "1053.420",
+    "parent_tu_id": "592",
+    "text": "che vuoi? ti mancano le (lumache)? dimmi pure"
+  },
+  {
+    "tu_id": "595",
+    "speaker": "PSB127_trad",
+    "start": "1053.775",
+    "end": "1060.043",
+    "parent_tu_id": "594",
+    "text": "e adesso il marzapane è diventato un piatto?"
+  },
+  {
+    "tu_id": "1015",
+    "speaker": "PSB127_trad",
+    "start": "1695.510",
+    "end": "1697.921",
+    "parent_tu_id": "1014",
+    "text": "andavamo in tempo passato come si dice?"
+  },
+  {
+    "tu_id": "1021",
+    "speaker": "PSB127_trad",
+    "start": "1701.215",
+    "end": "1702.701",
+    "parent_tu_id": "1020",
+    "text": "siamo anda~ andavamo"
+  },
+  {
+    "tu_id": "1281",
+    "speaker": "PSB128_trad",
+    "start": "2110.761",
+    "end": "2113.540",
+    "parent_tu_id": "1280",
+    "text": "scusami hai messo il sale nell'acqua?"
+  },
+  {
+    "tu_id": "1283",
+    "speaker": "PSB091_trad",
+    "start": "2113.816",
+    "end": "2114.278",
+    "parent_tu_id": "1282",
+    "text": "sì l'ho messo"
+  },
+  {
+    "tu_id": "1489",
+    "speaker": "PSB091_trad",
+    "start": "2477.037",
+    "end": "2477.915",
+    "parent_tu_id": "1488",
+    "text": "ricotta ucraina xx"
+  },
+  {
+    "tu_id": "1555",
+    "speaker": "PSB127_trad",
+    "start": "2571.373",
+    "end": "2572.520",
+    "parent_tu_id": "1554",
+    "text": "i ravioli già?"
+  },
+  {
+    "tu_id": "1559",
+    "speaker": "PSB128_trad",
+    "start": "2577.957",
+    "end": "2579.447",
+    "parent_tu_id": "1558",
+    "text": "sì vieni ad assaggiarlo"
+  },
+  {
+    "tu_id": "1567",
+    "speaker": "PSB091_trad",
+    "start": "2586.718",
+    "end": "2590.459",
+    "parent_tu_id": "1566",
+    "text": "assaggia"
+  },
+  {
+    "tu_id": "1640",
+    "speaker": "PSB127_trad",
+    "start": "2749.797",
+    "end": "2751.692",
+    "parent_tu_id": "1639",
+    "text": "xx dove hai detto che si trovano i bicchieri di vetro"
+  }
+]

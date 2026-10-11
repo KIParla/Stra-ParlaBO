@@ -1,0 +1,66 @@
+[
+  {
+    "tu_id": "55",
+    "speaker": "PSB136_trad",
+    "start": "128.120",
+    "end": "129.620",
+    "parent_tu_id": "54",
+    "text": "vabbè è il classico appuntamento combinato"
+  },
+  {
+    "tu_id": "162",
+    "speaker": "PSB137_trad",
+    "start": "411.950",
+    "end": "417.330",
+    "parent_tu_id": "161",
+    "text": "e poi cioè dà molto fastidio che ci sia questo equivoco perché tipo lei"
+  },
+  {
+    "tu_id": "227",
+    "speaker": "PSB136_trad",
+    "start": "555.460",
+    "end": "556.210",
+    "parent_tu_id": "226",
+    "text": "fratellone pan"
+  },
+  {
+    "tu_id": "237",
+    "speaker": "PSB136_trad",
+    "start": "571.430",
+    "end": "573.844",
+    "parent_tu_id": "236",
+    "text": "esatto lei è piccolo grasso perché è piccolina"
+  },
+  {
+    "tu_id": "250",
+    "speaker": "PSB136_trad",
+    "start": "591.340",
+    "end": "592.590",
+    "parent_tu_id": "249",
+    "text": "e lui è fratellino pan"
+  },
+  {
+    "tu_id": "267",
+    "speaker": "PSB136_trad",
+    "start": "619.990",
+    "end": "622.100",
+    "parent_tu_id": "266",
+    "text": "e poi c'è lei che invece è sorellona pan"
+  },
+  {
+    "tu_id": "332",
+    "speaker": "PSB136_trad",
+    "start": "774.990",
+    "end": "778.800",
+    "parent_tu_id": "331",
+    "text": "no che carino è il pesce com'è che si chiama tipo"
+  },
+  {
+    "tu_id": "768",
+    "speaker": "PSB137_trad",
+    "start": "2093.850",
+    "end": "2095.620",
+    "parent_tu_id": "767",
+    "text": "e quindi era molto tipo da appuntamento no?"
+  }
+]

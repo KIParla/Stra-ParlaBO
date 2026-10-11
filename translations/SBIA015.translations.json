@@ -1,0 +1,74 @@
+[
+  {
+    "tu_id": "458",
+    "speaker": "PSB144_trad",
+    "start": "762.160",
+    "end": "763.310",
+    "parent_tu_id": "457",
+    "text": "cosa ti piaceva fare?"
+  },
+  {
+    "tu_id": "602",
+    "speaker": "PSB144_trad",
+    "start": "997.980",
+    "end": "999.500",
+    "parent_tu_id": "601",
+    "text": "ma (è) in marocco il caftano (marocchino)"
+  },
+  {
+    "tu_id": "604",
+    "speaker": "PSB144_trad",
+    "start": "999.910",
+    "end": "1001.130",
+    "parent_tu_id": "603",
+    "text": "lei cono]sca il caftano"
+  },
+  {
+    "tu_id": "608",
+    "speaker": "PSB144_trad",
+    "start": "1002.900",
+    "end": "1006.940",
+    "parent_tu_id": "607",
+    "text": ""
+  },
+  {
+    "tu_id": "1523",
+    "speaker": "PSB144_trad",
+    "start": "2373.505",
+    "end": "2376.910",
+    "parent_tu_id": "1522",
+    "text": ""
+  },
+  {
+    "tu_id": "1686",
+    "speaker": "PSB145_trad",
+    "start": "2607.480",
+    "end": "2608.375",
+    "parent_tu_id": "1685",
+    "text": "ciliegia"
+  },
+  {
+    "tu_id": "1691",
+    "speaker": "PSB145_trad",
+    "start": "2612.450",
+    "end": "2613.720",
+    "parent_tu_id": "1690",
+    "text": "si chiama ciliegia"
+  },
+  {
+    "tu_id": "1695",
+    "speaker": "PSB145_trad",
+    "start": "2615.080",
+    "end": "2616.050",
+    "parent_tu_id": "1694",
+    "text": "ciliegia"
+  },
+  {
+    "tu_id": "1697",
+    "speaker": "PSB144_trad",
+    "start": "2616.030",
+    "end": "2616.920",
+    "parent_tu_id": "1696",
+    "text": "ciliegia"
+  }
+]

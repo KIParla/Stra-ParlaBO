@@ -1,0 +1,298 @@
+[
+  {
+    "tu_id": "51",
+    "speaker": "PSB128_trad",
+    "start": "77.880",
+    "end": "81.420",
+    "parent_tu_id": "50",
+    "text": "dai le istruzioni"
+  },
+  {
+    "tu_id": "186",
+    "speaker": "PSB091_trad",
+    "start": "253.660",
+    "end": "255.258",
+    "parent_tu_id": "185",
+    "text": "questo si mangia con il cucchiaio"
+  },
+  {
+    "tu_id": "188",
+    "speaker": "PSB091_trad",
+    "start": "255.310",
+    "end": "257.204",
+    "parent_tu_id": "187",
+    "text": "perché altrimenti si attacca tutto"
+  },
+  {
+    "tu_id": "191",
+    "speaker": "PSB128_trad",
+    "start": "258.360",
+    "end": "259.033",
+    "parent_tu_id": "190",
+    "text": "bene"
+  },
+  {
+    "tu_id": "194",
+    "speaker": "PSB128_trad",
+    "start": "260.730",
+    "end": "261.701",
+    "parent_tu_id": "193",
+    "text": "non si può"
+  },
+  {
+    "tu_id": "200",
+    "speaker": "PSB128_trad",
+    "start": "271.570",
+    "end": "272.231",
+    "parent_tu_id": "199",
+    "text": "arrivata per mangiare"
+  },
+  {
+    "tu_id": "202",
+    "speaker": "PSB128_trad",
+    "start": "272.942",
+    "end": "274.419",
+    "parent_tu_id": "201",
+    "text": "l'acqua l'acqua si sta già scaldando"
+  },
+  {
+    "tu_id": "204",
+    "speaker": "PSB086_trad",
+    "start": "274.690",
+    "end": "275.554",
+    "parent_tu_id": "203",
+    "text": "già scaldando"
+  },
+  {
+    "tu_id": "232",
+    "speaker": "PSB091_trad",
+    "start": "318.580",
+    "end": "319.450",
+    "parent_tu_id": "231",
+    "text": "bisogna aggiungere un pochino"
+  },
+  {
+    "tu_id": "239",
+    "speaker": "PSB091_trad",
+    "start": "327.110",
+    "end": "328.288",
+    "parent_tu_id": "238",
+    "text": "quello lì"
+  },
+  {
+    "tu_id": "249",
+    "speaker": "PSB091_trad",
+    "start": "339.600",
+    "end": "343.500",
+    "parent_tu_id": "248",
+    "text": "guarda non faccio così vai"
+  },
+  {
+    "tu_id": "252",
+    "speaker": "PSB091_trad",
+    "start": "344.673",
+    "end": "347.327",
+    "parent_tu_id": "251",
+    "text": "ancora ancora ancora"
+  },
+  {
+    "tu_id": "262",
+    "speaker": "PSB091_trad",
+    "start": "352.740",
+    "end": "356.067",
+    "parent_tu_id": "261",
+    "text": "noi facciamo molto spesso questo condimento"
+  },
+  {
+    "tu_id": "305",
+    "speaker": "PSB086_trad",
+    "start": "416.080",
+    "end": "416.444",
+    "parent_tu_id": "304",
+    "text": "con amarena"
+  },
+  {
+    "tu_id": "358",
+    "speaker": "PSB091_trad",
+    "start": "481.407",
+    "end": "481.920",
+    "parent_tu_id": "357",
+    "text": "lo vuoi? tieni"
+  },
+  {
+    "tu_id": "360",
+    "speaker": "PSB091_trad",
+    "start": "482.040",
+    "end": "482.810",
+    "parent_tu_id": "359",
+    "text": "no chiedo"
+  },
+  {
+    "tu_id": "363",
+    "speaker": "PSB091_trad",
+    "start": "483.171",
+    "end": "484.321",
+    "parent_tu_id": "362",
+    "text": "non voglio che qualcuno dica che sono stata io"
+  },
+  {
+    "tu_id": "365",
+    "speaker": "PSB128_trad",
+    "start": "484.340",
+    "end": "485.833",
+    "parent_tu_id": "364",
+    "text": "no per carità"
+  },
+  {
+    "tu_id": "376",
+    "speaker": "PSB128_trad",
+    "start": "496.979",
+    "end": "498.742",
+    "parent_tu_id": "375",
+    "text": "calmati"
+  },
+  {
+    "tu_id": "382",
+    "speaker": "PSB128_trad",
+    "start": "503.990",
+    "end": "506.101",
+    "parent_tu_id": "381",
+    "text": "xx cavolo xx"
+  },
+  {
+    "tu_id": "388",
+    "speaker": "PSB128_trad",
+    "start": "508.170",
+    "end": "509.770",
+    "parent_tu_id": "387",
+    "text": "ho un atteggiamento positivo verso tutto"
+  },
+  {
+    "tu_id": "454",
+    "speaker": "PSB128_trad",
+    "start": "596.770",
+    "end": "599.097",
+    "parent_tu_id": "453",
+    "text": "ho già i capelli bianchi"
+  },
+  {
+    "tu_id": "459",
+    "speaker": "PSB128_trad",
+    "start": "605.400",
+    "end": "608.533",
+    "parent_tu_id": "458",
+    "text": "vi racconterò vi racconterò una favola"
+  },
+  {
+    "tu_id": "519",
+    "speaker": "PSB128_trad",
+    "start": "732.140",
+    "end": "740.939",
+    "parent_tu_id": "518",
+    "text": "vuoi ancora o no? perché insomma sarebbe meglio un pochino così è tutto"
+  },
+  {
+    "tu_id": "564",
+    "speaker": "PSB128_trad",
+    "start": "814.540",
+    "end": "817.246",
+    "parent_tu_id": "563",
+    "text": "e se anche tu hai fatto la pasta senza niente?"
+  },
+  {
+    "tu_id": "566",
+    "speaker": "PSB091_trad",
+    "start": "817.630",
+    "end": "819.007",
+    "parent_tu_id": "565",
+    "text": "senza niente"
+  },
+  {
+    "tu_id": "568",
+    "speaker": "PSB128_trad",
+    "start": "820.120",
+    "end": "823.540",
+    "parent_tu_id": "567",
+    "text": "e xxx va data anche quella"
+  },
+  {
+    "tu_id": "689",
+    "speaker": "PSB127_trad",
+    "start": "1004.177",
+    "end": "1007.630",
+    "parent_tu_id": "688",
+    "text": "quali xx devono essere? dai un'occhiata per favore @ala"
+  },
+  {
+    "tu_id": "691",
+    "speaker": "PSB091_trad",
+    "start": "1007.690",
+    "end": "1010.586",
+    "parent_tu_id": "690",
+    "text": "devono essere un po' spessi per poterli stendere bene"
+  },
+  {
+    "tu_id": "694",
+    "speaker": "PSB091_trad",
+    "start": "1012.389",
+    "end": "1013.677",
+    "parent_tu_id": "693",
+    "text": "qui un po'"
+  },
+  {
+    "tu_id": "696",
+    "speaker": "PSB127_trad",
+    "start": "1013.531",
+    "end": "1014.803",
+    "parent_tu_id": "695",
+    "text": "stendere stendere"
+  },
+  {
+    "tu_id": "698",
+    "speaker": "PSB127_trad",
+    "start": "1015.575",
+    "end": "1019.505",
+    "parent_tu_id": "697",
+    "text": "pieghe sì?"
+  },
+  {
+    "tu_id": "763",
+    "speaker": "PSB127_trad",
+    "start": "1091.879",
+    "end": "1093.354",
+    "parent_tu_id": "762",
+    "text": "dobbiamo trovare i cucchiaini piccoli si?"
+  },
+  {
+    "tu_id": "802",
+    "speaker": "PSB128_trad",
+    "start": "1138.930",
+    "end": "1140.409",
+    "parent_tu_id": "801",
+    "text": "qualcuno taglia?"
+  },
+  {
+    "tu_id": "1076",
+    "speaker": "PSB086_trad",
+    "start": "1575.500",
+    "end": "1577.234",
+    "parent_tu_id": "1075",
+    "text": "cistifellea"
+  },
+  {
+    "tu_id": "1078",
+    "speaker": "PSB128_trad",
+    "start": "1575.510",
+    "end": "1578.215",
+    "parent_tu_id": "1077",
+    "text": "bile"
+  },
+  {
+    "tu_id": "1084",
+    "speaker": "PSB128_trad",
+    "start": "1579.070",
+    "end": "1580.149",
+    "parent_tu_id": "1083",
+    "text": "cistifellea"
+  }
+]

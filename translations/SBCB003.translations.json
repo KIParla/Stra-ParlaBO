@@ -1,0 +1,290 @@
+[
+  {
+    "tu_id": "1",
+    "speaker": "PSB118_trad",
+    "start": "1.200",
+    "end": "2.350",
+    "parent_tu_id": "0",
+    "text": "amo questo nuovo maglione"
+  },
+  {
+    "tu_id": "3",
+    "speaker": "PSB118_trad",
+    "start": "3.610",
+    "end": "4.430",
+    "parent_tu_id": "2",
+    "text": "questo vestito"
+  },
+  {
+    "tu_id": "126",
+    "speaker": "PSB095_trad",
+    "start": "376.770",
+    "end": "377.470",
+    "parent_tu_id": "125",
+    "text": "costoso"
+  },
+  {
+    "tu_id": "190",
+    "speaker": "PSB118_trad",
+    "start": "553.680",
+    "end": "554.820",
+    "parent_tu_id": "189",
+    "text": "facevi questi fermagli per capelli"
+  },
+  {
+    "tu_id": "217",
+    "speaker": "PSB118_trad",
+    "start": "616.050",
+    "end": "616.850",
+    "parent_tu_id": "216",
+    "text": "molto rilassato"
+  },
+  {
+    "tu_id": "249",
+    "speaker": "PSB118_trad",
+    "start": "686.580",
+    "end": "687.840",
+    "parent_tu_id": "248",
+    "text": "laurea a breve"
+  },
+  {
+    "tu_id": "375",
+    "speaker": "PSB118_trad",
+    "start": "977.800",
+    "end": "978.630",
+    "parent_tu_id": "374",
+    "text": "passaporto"
+  },
+  {
+    "tu_id": "378",
+    "speaker": "PSB118_trad",
+    "start": "979.420",
+    "end": "981.100",
+    "parent_tu_id": "377",
+    "text": "ovviamente il passaporto"
+  },
+  {
+    "tu_id": "395",
+    "speaker": "PSB118_trad",
+    "start": "1014.740",
+    "end": "1015.950",
+    "parent_tu_id": "394",
+    "text": "bene quello fallimento"
+  },
+  {
+    "tu_id": "410",
+    "speaker": "PSB118_trad",
+    "start": "1041.020",
+    "end": "1042.950",
+    "parent_tu_id": "409",
+    "text": "infatti sono in una posizione molto grato"
+  },
+  {
+    "tu_id": "440",
+    "speaker": "PSB118_trad",
+    "start": "1104.200",
+    "end": "1107.050",
+    "parent_tu_id": "439",
+    "text": "???"
+  },
+  {
+    "tu_id": "471",
+    "speaker": "PSB095_trad",
+    "start": "1192.930",
+    "end": "1196.990",
+    "parent_tu_id": "470",
+    "text": "perché mi sento in imbarazzo a non saper typare"
+  },
+  {
+    "tu_id": "479",
+    "speaker": "PSB118_trad",
+    "start": "1209.980",
+    "end": "1212.210",
+    "parent_tu_id": "478",
+    "text": "perché a volte tipo con giada esce fuori questo argomento"
+  },
+  {
+    "tu_id": "504",
+    "speaker": "PSB118_trad",
+    "start": "1258.920",
+    "end": "1260.870",
+    "parent_tu_id": "503",
+    "text": "io apple ( ) ad ogni costo"
+  },
+  {
+    "tu_id": "522",
+    "speaker": "PSB118_trad",
+    "start": "1301.700",
+    "end": "1304.720",
+    "parent_tu_id": "521",
+    "text": "io le ho detto aspetta un secondo fammici pensare"
+  },
+  {
+    "tu_id": "524",
+    "speaker": "PSB095_trad",
+    "start": "1302.860",
+    "end": "1303.470",
+    "parent_tu_id": "523",
+    "text": "aspetta"
+  },
+  {
+    "tu_id": "574",
+    "speaker": "PSB118_trad",
+    "start": "1416.650",
+    "end": "1421.730",
+    "parent_tu_id": "573",
+    "text": "no è un po' più l'ambiente ecco l'ambiente t d l"
+  },
+  {
+    "tu_id": "578",
+    "speaker": "PSB095_trad",
+    "start": "1426.940",
+    "end": "1429.440",
+    "parent_tu_id": "577",
+    "text": "però imbarazzante veramente perché tipo lei"
+  },
+  {
+    "tu_id": "590",
+    "speaker": "PSB095_trad",
+    "start": "1457.940",
+    "end": "1460.607",
+    "parent_tu_id": "589",
+    "text": "okay ti hanno fatto il lavaggio del cervello ma non a questo punto cioè"
+  },
+  {
+    "tu_id": "615",
+    "speaker": "PSB095_trad",
+    "start": "1519.910",
+    "end": "1521.020",
+    "parent_tu_id": "614",
+    "text": "no mega imbarazzante"
+  },
+  {
+    "tu_id": "626",
+    "speaker": "PSB118_trad",
+    "start": "1547.150",
+    "end": "1547.890",
+    "parent_tu_id": "625",
+    "text": "sono solo un ragazzo"
+  },
+  {
+    "tu_id": "628",
+    "speaker": "PSB095_trad",
+    "start": "1547.920",
+    "end": "1548.820",
+    "parent_tu_id": "627",
+    "text": "sono solo una ragazza"
+  },
+  {
+    "tu_id": "687",
+    "speaker": "PSB095_trad",
+    "start": "1694.510",
+    "end": "1695.980",
+    "parent_tu_id": "686",
+    "text": "imbarazzante"
+  },
+  {
+    "tu_id": "702",
+    "speaker": "PSB118_trad",
+    "start": "1727.190",
+    "end": "1728.180",
+    "parent_tu_id": "701",
+    "text": "vuoi delle patatine?"
+  },
+  {
+    "tu_id": "705",
+    "speaker": "PSB118_trad",
+    "start": "1728.960",
+    "end": "1729.770",
+    "parent_tu_id": "704",
+    "text": "delle patatine"
+  },
+  {
+    "tu_id": "707",
+    "speaker": "PSB095_trad",
+    "start": "1730.670",
+    "end": "1732.020",
+    "parent_tu_id": "706",
+    "text": "vuoi delle patatine?"
+  },
+  {
+    "tu_id": "709",
+    "speaker": "PSB095_trad",
+    "start": "1732.280",
+    "end": "1734.590",
+    "parent_tu_id": "708",
+    "text": "oh grazie"
+  },
+  {
+    "tu_id": "712",
+    "speaker": "PSB095_trad",
+    "start": "1735.890",
+    "end": "1737.410",
+    "parent_tu_id": "711",
+    "text": "perché sei così carina"
+  },
+  {
+    "tu_id": "714",
+    "speaker": "PSB095_trad",
+    "start": "1737.810",
+    "end": "1739.520",
+    "parent_tu_id": "713",
+    "text": "oh sei americana?"
+  },
+  {
+    "tu_id": "719",
+    "speaker": "PSB118_trad",
+    "start": "1744.750",
+    "end": "1745.730",
+    "parent_tu_id": "718",
+    "text": "sì"
+  },
+  {
+    "tu_id": "722",
+    "speaker": "PSB118_trad",
+    "start": "1746.910",
+    "end": "1747.900",
+    "parent_tu_id": "721",
+    "text": "sei americana?"
+  },
+  {
+    "tu_id": "725",
+    "speaker": "PSB118_trad",
+    "start": "1749.080",
+    "end": "1750.240",
+    "parent_tu_id": "724",
+    "text": "intelligentona"
+  },
+  {
+    "tu_id": "733",
+    "speaker": "PSB118_trad",
+    "start": "1757.320",
+    "end": "1764.320",
+    "parent_tu_id": "732",
+    "text": "un commento più spinto no non più spinto però tipo uno erano i primi giorni ad anversa che ero andato in un festival musicale"
+  },
+  {
+    "tu_id": "757",
+    "speaker": "PSB118_trad",
+    "start": "1799.690",
+    "end": "1802.520",
+    "parent_tu_id": "756",
+    "text": "no poi è vero che molte persone del sud sembrano"
+  },
+  {
+    "tu_id": "768",
+    "speaker": "PSB118_trad",
+    "start": "1818.370",
+    "end": "1819.950",
+    "parent_tu_id": "767",
+    "text": "orgoglioso di essere xxx"
+  },
+  {
+    "tu_id": "819",
+    "speaker": "PSB118_trad",
+    "start": "1942.550",
+    "end": "1943.340",
+    "parent_tu_id": "818",
+    "text": "cavolo sta bene"
+  }
+]

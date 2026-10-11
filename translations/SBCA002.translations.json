@@ -1,0 +1,34 @@
+[
+  {
+    "tu_id": "37",
+    "speaker": "PSB084_trad",
+    "start": "81.100",
+    "end": "84.460",
+    "parent_tu_id": "36",
+    "text": "attento a non sporcarti i pantaloni con il sugo"
+  },
+  {
+    "tu_id": "652",
+    "speaker": "PSB084_trad",
+    "start": "1391.260",
+    "end": "1393.230",
+    "parent_tu_id": "651",
+    "text": "ti giuro che non me lo ricordo non ricordo più bene"
+  },
+  {
+    "tu_id": "654",
+    "speaker": "PSB084_trad",
+    "start": "1395.610",
+    "end": "1396.290",
+    "parent_tu_id": "653",
+    "text": "non lo so"
+  },
+  {
+    "tu_id": "726",
+    "speaker": "PSB084_trad",
+    "start": "1549.760",
+    "end": "1552.900",
+    "parent_tu_id": "725",
+    "text": "la je di jennifer a~ quell'altra che ce l'ha"
+  }
+]

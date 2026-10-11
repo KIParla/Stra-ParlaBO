@@ -1,0 +1,58 @@
+[
+  {
+    "tu_id": "91",
+    "speaker": "PSB133_trad",
+    "start": "192.605",
+    "end": "197.129",
+    "parent_tu_id": "90",
+    "text": "quando lavoravo un po' lontano tornavo a casa facevo anche i turni di notte tornavo"
+  },
+  {
+    "tu_id": "1711",
+    "speaker": "???_trad",
+    "start": "3480.393",
+    "end": "3482.798",
+    "parent_tu_id": "1710",
+    "text": "dove leggere xx?"
+  },
+  {
+    "tu_id": "1715",
+    "speaker": "???_trad",
+    "start": "3483.606",
+    "end": "3484.372",
+    "parent_tu_id": "1714",
+    "text": "leggere lì?"
+  },
+  {
+    "tu_id": "1719",
+    "speaker": "???_trad",
+    "start": "3487.505",
+    "end": "3489.797",
+    "parent_tu_id": "1718",
+    "text": "no sto cercando un posto xx"
+  },
+  {
+    "tu_id": "1721",
+    "speaker": "PSB133_trad",
+    "start": "3489.797",
+    "end": "3495.011",
+    "parent_tu_id": "1720",
+    "text": "ah non lo so puoi vedere se è qui non so"
+  },
+  {
+    "tu_id": "1723",
+    "speaker": "???_trad",
+    "start": "3496.977",
+    "end": "3498.005",
+    "parent_tu_id": "1722",
+    "text": "ah grazie"
+  },
+  {
+    "tu_id": "1727",
+    "speaker": "PSB133_trad",
+    "start": "3498.005",
+    "end": "3498.786",
+    "parent_tu_id": "1726",
+    "text": "ah prego"
+  }
+]

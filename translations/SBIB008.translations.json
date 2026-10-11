@@ -1,0 +1,18 @@
+[
+  {
+    "tu_id": "169",
+    "speaker": "???_trad",
+    "start": "258.314",
+    "end": "259.039",
+    "parent_tu_id": "168",
+    "text": "salve"
+  },
+  {
+    "tu_id": "171",
+    "speaker": "PSB057_trad",
+    "start": "261.000",
+    "end": "265.039",
+    "parent_tu_id": "170",
+    "text": "gli studenti dell'amica di mia madre sono venuti a fare l'intervista"
+  }
+]

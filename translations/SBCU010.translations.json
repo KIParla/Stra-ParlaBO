@@ -1,0 +1,90 @@
+[
+  {
+    "tu_id": "42",
+    "speaker": "PSB150_trad",
+    "start": "101.950",
+    "end": "103.410",
+    "parent_tu_id": "41",
+    "text": "ho una faccia tonda"
+  },
+  {
+    "tu_id": "45",
+    "speaker": "PSB149_trad",
+    "start": "106.533",
+    "end": "108.870",
+    "parent_tu_id": "44",
+    "text": "come un kolobok"
+  },
+  {
+    "tu_id": "61",
+    "speaker": "PSB150_trad",
+    "start": "134.200",
+    "end": "136.270",
+    "parent_tu_id": "60",
+    "text": "allora puoi non mangiarlo xx"
+  },
+  {
+    "tu_id": "67",
+    "speaker": "PSB150_trad",
+    "start": "147.050",
+    "end": "148.430",
+    "parent_tu_id": "66",
+    "text": "prendi il tonno"
+  },
+  {
+    "tu_id": "130",
+    "speaker": "PSB150_trad",
+    "start": "338.590",
+    "end": "341.360",
+    "parent_tu_id": "129",
+    "text": "bere un teuccio xx tu vai direttamente lì"
+  },
+  {
+    "tu_id": "284",
+    "speaker": "PSB150_trad",
+    "start": "714.100",
+    "end": "721.890",
+    "parent_tu_id": "283",
+    "text": "dove io andavo a scuola da noi menavano ti facevano saltare i denti e nasi altro che prenderti in giro a parole"
+  },
+  {
+    "tu_id": "370",
+    "speaker": "PSB150_trad",
+    "start": "922.610",
+    "end": "925.470",
+    "parent_tu_id": "369",
+    "text": "appena apri bocca già fai paura a tutti"
+  },
+  {
+    "tu_id": "407",
+    "speaker": "PSB150_trad",
+    "start": "1016.000",
+    "end": "1020.790",
+    "parent_tu_id": "406",
+    "text": "possiamo andare tu non bevi l'acqua? portami la bottiglia che si trova in camera tua"
+  },
+  {
+    "tu_id": "411",
+    "speaker": "PSB150_trad",
+    "start": "1035.600",
+    "end": "1036.740",
+    "parent_tu_id": "410",
+    "text": "metti un po' di crema"
+  },
+  {
+    "tu_id": "420",
+    "speaker": "PSB150_trad",
+    "start": "1074.730",
+    "end": "1075.860",
+    "parent_tu_id": "419",
+    "text": "dai mettiamo un po' di crema"
+  },
+  {
+    "tu_id": "428",
+    "speaker": "PSB150_trad",
+    "start": "1094.860",
+    "end": "1096.100",
+    "parent_tu_id": "427",
+    "text": "metti per un mese"
+  }
+]
