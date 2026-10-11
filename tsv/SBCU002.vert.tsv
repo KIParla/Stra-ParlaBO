@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code_variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	PSB005	0	0	okay	okay	_	_	_	_	_	linguistic	_	ContainsVariation=No	PauseAfter=Yes	Begin=0.0	_	_	_	_
 0-1	PSB005	0	1	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	_	_	_
 0-2	PSB005	0	2	vado	vado	_	_	_	_	_	linguistic	_	ContainsVariation=No	PauseAfter=Yes	_	_	_	_	_
@@ -1347,7 +1347,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 292-1	PSB088	292	1	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	_	_	_
 292-2	PSB088	292	2	e:h	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=453.311	0x1	_	_	_
 293-0	PSB087	293	0	[è	è	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=453.735	_	_	_	0-1(87)
-293-1	PSB087	293	1	MO:RTO]	morto	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=high	End=454.558	1x1	_	_	0-5(87)
+293-1	PSB087	293	1	MO:RTO]	morto	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=High	End=454.558	1x1	_	_	0-5(87)
 294-0	PSB088	294	0	[que(llo)	quello	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=453.735	_	_	3-6(0)	0-6(87)
 294-1	PSB088	294	1	libro]	libro	_	_	_	_	_	linguistic	_	ContainsVariation=No	PauseAfter=Yes	_	_	_	_	0-5(87)
 294-2	PSB088	294	2	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	_	_	_
@@ -2726,7 +2726,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 606-1	PSB088	606	1	euro	euro	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 606-2	PSB088	606	2	eh	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 606-3	PSB088	606	3	mille:	mille	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=954.64	4x1	_	_	_
-607-0	PSB005	607	0	°spicci°	spicci	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	Begin=955.551|End=956.198	_	_	_	_
+607-0	PSB005	607	0	°spicci°	spicci	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	Begin=955.551|End=956.198	_	_	_	_
 608-0	PSB088	608	0	spic~	spic~	_	_	_	_	_	linguistic	_	ContainsVariation=No	Interrupted=Yes	Begin=956.499	_	_	_	_
 608-1	PSB088	608	1	ehm	ehm	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 608-2	PSB088	608	2	mille	mille	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -2935,8 +2935,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 664-1	PSB088	664	1	e:h	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	0x1	_	_	_
 664-2	PSB088	664	2	un	un	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 664-3	PSB088	664	3	[com~]	com~	_	_	_	_	_	linguistic	_	ContainsVariation=No	Interrupted=Yes	End=1046.081	_	_	_	0-4(176)
-665-0	PSB087	665	0	[CHE]	che	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=high	Begin=1045.926	_	_	_	0-3(176)
-665-1	PSB087	665	1	VUOI?	vuoi	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising|Volume=high	End=1046.449	_	_	_	_
+665-0	PSB087	665	0	[CHE]	che	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=High	Begin=1045.926	_	_	_	0-3(176)
+665-1	PSB087	665	1	VUOI?	vuoi	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising|Volume=High	End=1046.449	_	_	_	_
 666-0	PSB088	666	0	un	un	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1046.75	_	_	_	_
 666-1	PSB088	666	1	compagnone	compagnone	_	_	_	_	_	linguistic	_	ContainsVariation=No	PauseAfter=Yes	_	_	_	_	_
 666-2	PSB088	666	2	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	_	_	_
@@ -3428,9 +3428,9 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 767-0	PSB088	767	0	non	non	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1204.301	_	_	_	_
 767-1	PSB088	767	1	lo	lo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 767-2	PSB088	767	2	so	so	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1204.9625	_	_	_	_
-768-0	PSB087	768	0	°cinquant'	cinquant'	_	_	_	_	_	linguistic	_	ContainsVariation=No	SpaceAfter=No|Volume=low	Begin=1204.9625	_	_	_	_
-768-1	PSB087	768	1	anni	anni	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	_	_	_	_	_
-768-2	PSB087	768	2	fa:°	fa	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	End=1205.793	1x1	_	_	_
+768-0	PSB087	768	0	°cinquant'	cinquant'	_	_	_	_	_	linguistic	_	ContainsVariation=No	SpaceAfter=No|Volume=Low	Begin=1204.9625	_	_	_	_
+768-1	PSB087	768	1	anni	anni	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	_	_	_	_	_
+768-2	PSB087	768	2	fa:°	fa	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	End=1205.793	1x1	_	_	_
 769-0	PSB086	769	0	ah	ah	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1206.101	_	_	_	_
 769-1	PSB086	769	1	si	si	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 769-2	PSB086	769	2	guadagna	guadagna	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -3677,9 +3677,9 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 832-1	PSB005	832	1	da	da	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-2(219)
 832-2	PSB005	832	2	ques]ti	questi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-4(219)
 832-3	PSB005	832	3	svi[luppi]	sviluppi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1301.853	_	_	_	3-8(220)
-833-0	PSB088	833	0	[°vabbè	vabbè	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	Begin=1299.742	_	_	_	0-5(219)
-833-1	PSB088	833	1	ma	ma	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	_	_	_	_	0-2(219)
-833-2	PSB088	833	2	tutti°]	tutti	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	End=1301.007	_	_	_	0-5(219)
+833-0	PSB088	833	0	[°vabbè	vabbè	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	Begin=1299.742	_	_	_	0-5(219)
+833-1	PSB088	833	1	ma	ma	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	_	_	_	_	0-2(219)
+833-2	PSB088	833	2	tutti°]	tutti	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	End=1301.007	_	_	_	0-5(219)
 834-0	PSB088	834	0	[e	e	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1301.309	_	_	_	0-1(220)
 834-1	PSB088	834	1	poi]	poi	_	_	_	_	_	linguistic	_	ContainsVariation=No	PauseAfter=Yes	_	_	_	_	0-3(220)
 834-2	PSB088	834	2	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	_	_	_

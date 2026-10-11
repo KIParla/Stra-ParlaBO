@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code_variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	PSB162	0	0	#_ hādi	hādi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=1.08|End=1.58	_	_	_	_
 2-0	PSB161	2	0	ah	ah	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1.78|End=2.195	_	_	_	_
 3-0	PSB162	3	0	#kānət	kānət	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=2.2	_	_	_	_
@@ -120,8 +120,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 32-4	PSB162	32	4	posto	posto	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 32-5	PSB162	32	5	[lì]	lì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=48.03	_	_	_	0-2(10)
 33-0	PSB161	33	0	[eh	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=47.77	_	_	_	0-2(10)
-33-1	PSB161	33	1	L'	l'	_	_	_	_	_	linguistic	_	ContainsVariation=No	SpaceAfter=No|Volume=high	_	_	_	_	0-2(10)
-33-2	PSB161	33	2	A]LTRO	altro	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=high	_	_	_	_	0-1(10)
+33-1	PSB161	33	1	L'	l'	_	_	_	_	_	linguistic	_	ContainsVariation=No	SpaceAfter=No|Volume=High	_	_	_	_	0-2(10)
+33-2	PSB161	33	2	A]LTRO	altro	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=High	_	_	_	_	0-1(10)
 33-3	PSB161	33	3	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 33-4	PSB161	33	4	quello	quello	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 33-5	PSB161	33	5	dove::	dove	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=49.52	3x2	_	_	_
@@ -533,8 +533,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 97-7	PSB161	97	7	solo	solo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 97-8	PSB161	97	8	il	il	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 97-9	PSB161	97	9	telefono	telefono	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	End=166.41	_	_	_	_
-98-0	PSB162	98	0	°xx	xx	_	_	_	_	_	unknown	_	ContainsVariation=No	Volume=low|Syllables=2	Begin=166.812	_	_	_	_
-98-1	PSB162	98	1	xxxx°	xxxx	_	_	_	_	_	unknown	_	ContainsVariation=No	Volume=low|Syllables=4	End=168.273	_	_	_	_
+98-0	PSB162	98	0	°xx	xx	_	_	_	_	_	unknown	_	ContainsVariation=No	Volume=Low|Syllables=2	Begin=166.812	_	_	_	_
+98-1	PSB162	98	1	xxxx°	xxxx	_	_	_	_	_	unknown	_	ContainsVariation=No	Volume=Low|Syllables=4	End=168.273	_	_	_	_
 99-0	PSB162	99	0	ci	ci	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=168.57	_	_	_	_
 99-1	PSB162	99	1	sono	sono	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 99-2	PSB162	99	2	chiavi?	chiavi	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising	End=169.38	_	_	_	_
@@ -1655,7 +1655,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 292-20	PSB161	292	20	è?	è	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising	End=539.695	_	_	_	_
 293-0	PSB161	293	0	lui	lui	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=539.87	_	_	_	_
 293-1	PSB161	293	1	fa	fa	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
-293-2	PSB161	293	2	EH	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=high	_	_	_	_	_
+293-2	PSB161	293	2	EH	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=High	_	_	_	_	_
 293-3	PSB161	293	3	questo	questo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 293-4	PSB161	293	4	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 293-5	PSB161	293	5	quello	quello	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -3713,7 +3713,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 633-4	PSB162	633	4	frena	frena	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 633-5	PSB162	633	5	un	un	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 633-6	PSB162	633	6	attimo	attimo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
-633-7	PSB162	633	7	PRIMA	prima	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=high	_	_	_	_	_
+633-7	PSB162	633	7	PRIMA	prima	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=High	_	_	_	_	_
 633-8	PSB162	633	8	del	del	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 633-9	PSB162	633	9	trattore	trattore	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1119.714	_	_	_	_
 634-0	PSB161	634	0	sì	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1119.721	_	_	_	_
@@ -4651,7 +4651,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 753-17	PSB162	753	17	era	era	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 753-18	PSB162	753	18	i[nverno]	inverno	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1363.37	_	_	_	0-6(248)
 754-0	PSB163	754	0	[cioè:]	cioè	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1363.007|End=1363.584	3x1	_	_	0-4(?)
-755-0	PSB161	755	0	[BRA]VO	bravo	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=high	Begin=1363.461|End=1363.968	_	_	_	0-3(249)
+755-0	PSB161	755	0	[BRA]VO	bravo	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=High	Begin=1363.461|End=1363.968	_	_	_	0-3(249)
 756-0	PSB162	756	0	no	no	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1364.955	_	_	_	_
 756-1	PSB162	756	1	non	non	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 756-2	PSB162	756	2	hai	hai	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_

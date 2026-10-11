@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code_variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	PSB091	0	0	allora	allora	_	_	_	_	_	linguistic	_	ContainsVariation=No	PauseAfter=Yes	Begin=0.64	_	_	_	_
 0-1	PSB091	0	1	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	_	_	_
 0-2	PSB091	0	2	noi	noi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -18,8 +18,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 2-5	PSB091	2	5	ventiquattromila	ventiquattromila	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 2-6	PSB091	2	6	euro	euro	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=12.839	_	_	_	_
 3-0	PSB091	3	0	poi	poi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=17.72|End=18.22	_	_	_	_
-4-0	PSB091	4	0	°non	non	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	Begin=22.32	_	_	_	_
-4-1	PSB091	4	1	so°	so	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	End=22.85	_	_	_	_
+4-0	PSB091	4	0	°non	non	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	Begin=22.32	_	_	_	_
+4-1	PSB091	4	1	so°	so	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	End=22.85	_	_	_	_
 5-0	PSB091	5	0	però	però	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=32.6	_	_	_	_
 5-1	PSB091	5	1	bella	bella	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 5-2	PSB091	5	2	quella	quella	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -387,8 +387,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 52-4	PSB091	52	4	bisogna:	bisogna	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=186.0	6x1	_	_	_
 53-0	PSB092	53	0	vai	vai	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=188.57	_	_	_	_
 53-1	PSB092	53	1	vai	vai	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=189.43	_	_	_	_
-54-0	PSB091	54	0	°ah	ah	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	Begin=192.15	_	_	_	_
-54-1	PSB091	54	1	dio°	dio	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	End=193.12	_	_	_	_
+54-0	PSB091	54	0	°ah	ah	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	Begin=192.15	_	_	_	_
+54-1	PSB091	54	1	dio°	dio	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	End=193.12	_	_	_	_
 55-0	PSB091	55	0	e	e	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=193.82	_	_	_	_
 55-1	PSB091	55	1	voglio,	voglio	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising	End=194.78	_	_	_	_
 56-0	PSB091	56	0	se	se	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=196.81	_	_	_	_
@@ -440,7 +440,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 64-10	PSB091	64	10	vedere	vedere	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 64-11	PSB091	64	11	la	la	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 64-12	PSB091	64	12	casa	casa	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
-64-13	PSB091	64	13	°credo°	credo	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	End=211.63	_	_	_	_
+64-13	PSB091	64	13	°credo°	credo	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	End=211.63	_	_	_	_
 65-0	PSB091	65	0	vado	vado	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=211.85	_	_	_	_
 65-1	PSB091	65	1	con	con	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 65-2	PSB091	65	2	@vikto[ria]	@viktoria	_	_	_	_	_	anonymized	_	ContainsVariation=No	Anonymized=Yes	End=213.04	_	_	_	6-9(9)
@@ -662,10 +662,10 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 112-2	PSB091	112	2	pensavo	pensavo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 112-3	PSB091	112	3	dall'	dall'	_	_	_	_	_	linguistic	_	ContainsVariation=No	SpaceAfter=No	_	_	_	_	_
 112-4	PSB091	112	4	ospedale	ospedale	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
-112-5	PSB091	112	5	°(tua	tua	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	_	_	_	0-3(0)	_
-112-6	PSB091	112	6	madre)se	madrese	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	_	_	_	0-5(0)	_
-112-7	PSB091	112	7	mi	mi	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	_	_	_	_	_
-112-8	PSB091	112	8	chiamano°	chiamano	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	End=342.89	_	_	_	_
+112-5	PSB091	112	5	°(tua	tua	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	_	_	_	0-3(0)	_
+112-6	PSB091	112	6	madre)se	madrese	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	_	_	_	0-5(0)	_
+112-7	PSB091	112	7	mi	mi	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	_	_	_	_	_
+112-8	PSB091	112	8	chiamano°	chiamano	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	End=342.89	_	_	_	_
 113-0	PSB092	113	0	eh	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=344.83	_	_	_	_
 113-1	PSB092	113	1	dico:	dico	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	3x1	_	_	_
 113-2	PSB092	113	2	da	da	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -900,10 +900,10 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 151-3	PSB092	151	3	casi	casi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 151-4	PSB092	151	4	((sbadiglia))	((sbadiglia))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	End=470.03	_	_	_	_
 152-0	PSB092	152	0	davanti	davanti	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=470.94|End=471.92	_	_	_	_
-153-0	PSB091	153	0	°ah	ah	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	Begin=486.02	_	_	_	_
-153-1	PSB091	153	1	dio	dio	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	_	_	_	_	_
-153-2	PSB091	153	2	dio	dio	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	_	_	_	_	_
-153-3	PSB091	153	3	dio°	dio	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	End=487.272	_	_	_	_
+153-0	PSB091	153	0	°ah	ah	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	Begin=486.02	_	_	_	_
+153-1	PSB091	153	1	dio	dio	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	_	_	_	_	_
+153-2	PSB091	153	2	dio	dio	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	_	_	_	_	_
+153-3	PSB091	153	3	dio°	dio	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	End=487.272	_	_	_	_
 154-0	PSB091	154	0	tempo	tempo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=507.02	_	_	_	_
 154-1	PSB091	154	1	pure	pure	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 154-2	PSB091	154	2	strano	strano	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=508.72	_	_	_	_

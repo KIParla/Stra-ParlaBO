@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code_variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	PSB149	0	0	inizio	inizio	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=5.89	_	_	_	_
 0-1	PSB149	0	1	a	a	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 0-2	PSB149	0	2	registrare	registrare	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -130,7 +130,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 29-6	PSB149	29	6	campane	campane	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=76.85	_	_	_	_
 30-0	PSB149	30	0	bello	bello	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=78.76	_	_	_	_
 30-1	PSB149	30	1	bello	bello	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=79.32	_	_	_	_
-31-0	PSB149	31	0	Il	il	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=high	Begin=80.3	_	_	_	_
+31-0	PSB149	31	0	Il	il	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=High	Begin=80.3	_	_	_	_
 31-1	PSB149	31	1	tempo	tempo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 31-2	PSB149	31	2	che	che	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 31-3	PSB149	31	3	sono	sono	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -565,8 +565,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 133-8	PSB149	133	8	magari	magari	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=347.98	_	_	_	_
 134-0	PSB150	134	0	[xxx]	xxx	_	_	_	_	_	unknown	_	ContainsVariation=No	Syllables=3	Begin=345.81|End=346.44	_	_	_	0-3(30)
 135-0	PSB150	135	0	m:h	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=348.12|End=348.79	0x1	_	_	_
-136-0	PSB150	136	0	°mhmh	mhmh	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	Begin=349.9	_	_	_	_
-136-1	PSB150	136	1	sì°	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	End=351.9	_	_	_	_
+136-0	PSB150	136	0	°mhmh	mhmh	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	Begin=349.9	_	_	_	_
+136-1	PSB150	136	1	sì°	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	End=351.9	_	_	_	_
 137-0	PSB150	137	0	volevo	volevo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=351.99	_	_	_	_
 137-1	PSB150	137	1	andare	andare	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 137-2	PSB150	137	2	al	al	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -728,7 +728,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 165-8	PSB150	165	8	di	di	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 165-9	PSB150	165	9	man[giare]	mangiare	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=432.767	_	_	_	3-8(38)
 166-0	PSB149	166	0	[mhmh]	mhmh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=432.2|End=432.77	_	_	_	0-4(38)
-167-0	PSB150	167	0	°assolutamente°	assolutamente	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	Begin=434.25|End=435.64	_	_	_	_
+167-0	PSB150	167	0	°assolutamente°	assolutamente	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	Begin=434.25|End=435.64	_	_	_	_
 168-0	PSB150	168	0	e	e	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=437.26	_	_	_	_
 168-1	PSB150	168	1	se	se	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 168-2	PSB150	168	2	io	io	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -1999,14 +1999,14 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 376-0	PSB149	376	0	eh	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=937.88	_	_	_	_
 376-1	PSB149	376	1	sì	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 376-2	PSB149	376	2	eh	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=938.89	_	_	_	_
-377-0	PSB150	377	0	°l'	l'	_	_	_	_	_	linguistic	_	ContainsVariation=No	SpaceAfter=No|Volume=low	Begin=941.59	_	_	_	_
-377-1	PSB150	377	1	han	han	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	_	_	_	_	_
-377-2	PSB150	377	2	passato	passato	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	_	_	_	_	_
-377-3	PSB150	377	3	tutti	tutti	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	_	_	_	_	_
-377-4	PSB150	377	4	non	non	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	_	_	_	_	_
-377-5	PSB150	377	5	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	_	_	_	_	_
-377-6	PSB150	377	6	che	che	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	_	_	_	_	_
-377-7	PSB150	377	7	adesso°	adesso	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	End=944.52	_	_	_	_
+377-0	PSB150	377	0	°l'	l'	_	_	_	_	_	linguistic	_	ContainsVariation=No	SpaceAfter=No|Volume=Low	Begin=941.59	_	_	_	_
+377-1	PSB150	377	1	han	han	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	_	_	_	_	_
+377-2	PSB150	377	2	passato	passato	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	_	_	_	_	_
+377-3	PSB150	377	3	tutti	tutti	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	_	_	_	_	_
+377-4	PSB150	377	4	non	non	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	_	_	_	_	_
+377-5	PSB150	377	5	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	_	_	_	_	_
+377-6	PSB150	377	6	che	che	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	_	_	_	_	_
+377-7	PSB150	377	7	adesso°	adesso	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	End=944.52	_	_	_	_
 378-0	PSB149	378	0	cioè	cioè	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=945.31	_	_	_	_
 378-1	PSB149	378	1	tu	tu	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 378-2	PSB149	378	2	sei	sei	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -2045,7 +2045,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 385-1	PSB150	385	1	voglio	voglio	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 385-2	PSB150	385	2	tanto	tanto	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 385-3	PSB150	385	3	bene	bene	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
-385-4	PSB150	385	4	°dice°	dice	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	_	_	_	_	_
+385-4	PSB150	385	4	°dice°	dice	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	_	_	_	_	_
 385-5	PSB150	385	5	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	End=974.72	_	_	_	_
 386-0	PSB150	386	0	ah?	ah	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising	Begin=976.3|End=976.55	_	_	_	_
 387-0	PSB149	387	0	continua	continua	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=976.82	_	_	_	_

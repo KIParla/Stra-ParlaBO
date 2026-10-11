@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code_variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	PSB005	0	0	okay	okay	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=0.75|End=1.12	_	_	_	_
 1-0	PSB005	1	0	okay	okay	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2.302|End=2.613	_	_	_	_
 2-0	PSB005	2	0	niente	niente	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=3.255	_	_	_	_
@@ -11,7 +11,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 4-0	PSB017	4	0	provincia	provincia	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=5.856	_	_	_	_
 4-1	PSB017	4	1	di	di	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 4-2	PSB017	4	2	boogna	boogna	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
-4-3	PSB017	4	3	[(°sì°)]	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	End=6.856	_	_	0-2(0)	0-2(0)
+4-3	PSB017	4	3	[(°sì°)]	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	End=6.856	_	_	0-2(0)	0-2(0)
 5-0	PSB005	5	0	[e	e	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=6.706	_	_	_	0-1(0)
 5-1	PSB005	5	1	co]me:::	come	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	3x3	_	_	0-2(0)
 5-2	PSB005	5	2	i-	i-	_	_	_	_	_	linguistic	_	ContainsVariation=No	Interrupted=Yes	_	_	_	_	_
@@ -44,7 +44,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 10-0	PSB005	10	0	a:::h	ah	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=19.155	0x3	_	_	_
 10-1	PSB005	10	1	okay	okay	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 10-2	PSB005	10	2	[ok]ay	okay	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=20.155	_	_	_	0-2(3)
-11-0	PSB017	11	0	[°sì°]	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	Begin=19.856|End=20.066	_	_	_	0-2(3)
+11-0	PSB017	11	0	[°sì°]	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	Begin=19.856|End=20.066	_	_	_	0-2(3)
 12-0	PSB005	12	0	ehm:	ehm	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=20.559|End=21.235	2x1	_	_	_
 13-0	PSB005	13	0	come	come	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=21.356	_	_	_	_
 13-1	PSB005	13	1	ti	ti	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -384,8 +384,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 67-10	PSB017	67	10	[paese	paese	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-5(14)
 67-11	PSB017	67	11	che	che	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-3(14)
 67-12	PSB017	67	12	se]mbra	sembra	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=140.098	_	_	_	0-2(14)
-68-0	PSB005	68	0	[(°meno	meno	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	Begin=139.201	_	_	0-4(0)	0-4(14)
-68-1	PSB005	68	1	male°)]	male	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	End=139.8	_	_	0-4(0)	0-4(14)
+68-0	PSB005	68	0	[(°meno	meno	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	Begin=139.201	_	_	0-4(0)	0-4(14)
+68-1	PSB005	68	1	male°)]	male	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	End=139.8	_	_	0-4(0)	0-4(14)
 69-0	PSB017	69	0	lontananza	lontananza	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=140.402	_	_	_	_
 69-1	PSB017	69	1	di	di	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 69-2	PSB017	69	2	sette	sette	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -489,8 +489,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 88-7	PSB017	88	7	col	col	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 88-8	PSB017	88	8	gommone	gommone	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=167.309	_	_	_	_
 89-0	PSB005	89	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=165.399|End=165.712	_	_	_	_
-90-0	PSB025	90	0	°ah	ah	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	Begin=167.601	_	_	_	_
-90-1	PSB025	90	1	bravo°	bravo	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	End=167.82	_	_	_	_
+90-0	PSB025	90	0	°ah	ah	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	Begin=167.601	_	_	_	_
+90-1	PSB025	90	1	bravo°	bravo	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	End=167.82	_	_	_	_
 91-0	PSB017	91	0	a	a	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	Begin=167.849	_	_	_	_
 91-1	PSB017	91	1	dirti	dirti	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 91-2	PSB017	91	2	la	la	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
@@ -686,7 +686,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 126-14	PSB005	126	14	questo	questo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 126-15	PSB005	126	15	dell[a:]	della	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=225.759	4x1	_	_	4-5(29)
 127-0	PSB017	127	0	[sì	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=221.902	_	_	_	0-2(30)
-127-1	PSB017	127	1	°sì°]	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	End=222.281	_	_	_	0-2(30)
+127-1	PSB017	127	1	°sì°]	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	End=222.281	_	_	_	0-2(30)
 128-0	PSB017	128	0	[sì]	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=225.451|End=225.76	_	_	_	0-2(29)
 129-0	PSB017	129	0	del	del	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=225.997	_	_	_	_
 129-1	PSB017	129	1	[e::h]	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=226.574	0x2	_	_	0-2(31)
@@ -882,9 +882,9 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 163-11	PSB017	163	11	i	i	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 163-12	PSB017	163	12	suoi	suoi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 163-13	PSB017	163	13	amici	amici	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=293.085	_	_	_	_
-164-0	PSB005	164	0	[°ne-	ne-	_	_	_	_	_	linguistic	_	ContainsVariation=No	Interrupted=Yes|Volume=low	Begin=288.148	_	_	_	0-3(40)
-164-1	PSB005	164	1	nella	nella	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	_	_	_	_	0-5(40)
-164-2	PSB005	164	2	scuola°]	scuola	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	End=289.338	_	_	_	0-6(40)
+164-0	PSB005	164	0	[°ne-	ne-	_	_	_	_	_	linguistic	_	ContainsVariation=No	Interrupted=Yes|Volume=Low	Begin=288.148	_	_	_	0-3(40)
+164-1	PSB005	164	1	nella	nella	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	_	_	_	_	0-5(40)
+164-2	PSB005	164	2	scuola°]	scuola	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	End=289.338	_	_	_	0-6(40)
 165-0	PSB017	165	0	per:	per	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=293.148|End=293.938	2x1	_	_	_
 166-0	PSB017	166	0	scambiare:::	scambiare	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=294.95|End=296.649	8x3	_	_	_
 167-0	PSB017	167	0	per	per	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=296.953	_	_	_	_
@@ -1138,8 +1138,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 213-6	PSB017	213	6	giorn[i]	giorni	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=373.707	_	_	_	4-6(60)
 214-0	PSB005	214	0	[mi	mi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=371.701	_	_	_	0-2(59)
 214-1	PSB005	214	1	sa	sa	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-2(59)
-214-2	PSB005	214	2	°che	che	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	_	_	_	_	0-3(59)
-214-3	PSB005	214	3	non°]	non	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	End=372.453	_	_	_	0-3(59)
+214-2	PSB005	214	2	°che	che	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	_	_	_	_	0-3(59)
+214-3	PSB005	214	3	non°]	non	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	End=372.453	_	_	_	0-3(59)
 215-0	PSB005	215	0	[mi	mi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=373.352	_	_	_	0-2(60)
 215-1	PSB005	215	1	sa]	sa	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-2(60)
 215-2	PSB005	215	2	che	che	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -1574,7 +1574,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 304-8	PSB005	304	8	imparare	imparare	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 304-9	PSB005	304	9	la	la	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 304-10	PSB005	304	10	lingua	lingua	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=511.803	_	_	_	_
-305-0	PSB017	305	0	[(°che°)]	che	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	Begin=509.7|End=510.012	_	_	0-3(0)	0-3(90)
+305-0	PSB017	305	0	[(°che°)]	che	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	Begin=509.7|End=510.012	_	_	0-3(0)	0-3(90)
 306-0	PSB017	306	0	bo:::h	boh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=512.701	1x3	_	_	_
 306-1	PSB017	306	1	e:::h	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	0x3	_	_	_
 306-2	PSB017	306	2	m:::h	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=516.042	0x3	_	_	_
@@ -1914,7 +1914,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 357-3	PSB005	357	3	io]	io	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-2(97)
 357-4	PSB005	357	4	questa	questa	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 357-5	PSB005	357	5	cosa	cosa	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
-357-6	PSB005	357	6	(°non°)	non	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	End=626.397	_	_	0-3(0)	_
+357-6	PSB005	357	6	(°non°)	non	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	End=626.397	_	_	0-3(0)	_
 358-0	PSB017	358	0	no	no	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=626.451	_	_	_	_
 358-1	PSB017	358	1	per	per	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 358-2	PSB017	358	2	cercare	cercare	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -1987,7 +1987,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 375-4	PSB017	375	4	qua	qua	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 375-5	PSB017	375	5	di	di	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 375-6	PSB017	375	6	riconoscimento	riconoscimento	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
-375-7	PSB017	375	7	[servo°no°]	servono	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	End=650.857	_	_	_	0-7(105)
+375-7	PSB017	375	7	[servo°no°]	servono	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	End=650.857	_	_	_	0-7(105)
 376-0	PSB005	376	0	[sì]	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=650.654	_	_	_	0-2(105)
 376-1	PSB005	376	1	lo	lo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 376-2	PSB005	376	2	chiedono	chiedono	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -2062,7 +2062,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 392-2	PSB017	392	2	parlo	parlo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 392-3	PSB017	392	3	raffinato	raffinato	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 392-4	PSB017	392	4	perfetto	perfetto	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
-392-5	PSB017	392	5	per[°ò°]	però	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	End=676.157	_	_	_	3-4(110)
+392-5	PSB017	392	5	per[°ò°]	però	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	End=676.157	_	_	_	3-4(110)
 393-0	PSB005	393	0	[no]	no	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=676.057	_	_	_	0-2(110)
 393-1	PSB005	393	1	ma	ma	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 393-2	PSB005	393	2	invece	invece	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=676.954	_	_	_	_
@@ -2215,7 +2215,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 421-3	PSB017	421	3	straniere	straniere	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 421-4	PSB017	421	4	ma	ma	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=721.955	_	_	_	_
 422-0	PSB017	422	0	proprio	proprio	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=722.4	_	_	_	_
-422-1	PSB017	422	1	NESSUNO	nessuno	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=high	_	_	_	_	_
+422-1	PSB017	422	1	NESSUNO	nessuno	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=High	_	_	_	_	_
 422-2	PSB017	422	2	parla	parla	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 422-3	PSB017	422	3	l'	l'	_	_	_	_	_	linguistic	_	ContainsVariation=No	SpaceAfter=No	_	_	_	_	_
 422-4	PSB017	422	4	inglese	inglese	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=724.401	_	_	_	_
@@ -2309,8 +2309,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 432-9	PSB017	432	9	cartelli	cartelli	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 432-10	PSB017	432	10	per	per	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 432-11	PSB017	432	11	strada	strada	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
-432-12	PSB017	432	12	°bisogna	bisogna	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	_	_	_	_	_
-432-13	PSB017	432	13	[legge]re°	leggere	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	_	_	_	_	0-5(121)
+432-12	PSB017	432	12	°bisogna	bisogna	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	_	_	_	_	_
+432-13	PSB017	432	13	[legge]re°	leggere	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	_	_	_	_	0-5(121)
 432-14	PSB017	432	14	per	per	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 432-15	PSB017	432	15	imparare	imparare	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=753.635	_	_	_	_
 433-0	PSB005	433	0	[mhmh	mhmh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=752.347	_	_	_	0-4(121)
@@ -2663,8 +2663,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 497-3	PSB005	497	3	sì	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 497-4	PSB005	497	4	sì	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=881.786	_	_	_	_
 498-0	PSB005	498	0	ehm:	ehm	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=882.547|End=883.2	2x1	_	_	_
-499-0	PSB005	499	0	°va	va	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	Begin=887.4	_	_	_	_
-499-1	PSB005	499	1	bene°	bene	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	End=887.876	_	_	_	_
+499-0	PSB005	499	0	°va	va	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	Begin=887.4	_	_	_	_
+499-1	PSB005	499	1	bene°	bene	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	End=887.876	_	_	_	_
 500-0	PSB005	500	0	e	e	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=888.7	_	_	_	_
 500-1	PSB005	500	1	di	di	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 500-2	PSB005	500	2	lavoro	lavoro	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -2707,8 +2707,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 506-10	PSB017	506	10	fuori	fuori	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 506-11	PSB017	506	11	bologna	bologna	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=905.75	_	_	_	_
 507-0	PSB005	507	0	mhmh	mhmh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=906.047|End=906.4	_	_	_	_
-508-0	PSB017	508	0	°ma	ma	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	Begin=906.4	_	_	_	_
-508-1	PSB017	508	1	se:°	se	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	_	1x1	_	_	_
+508-0	PSB017	508	0	°ma	ma	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	Begin=906.4	_	_	_	_
+508-1	PSB017	508	1	se:°	se	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	_	1x1	_	_	_
 508-2	PSB017	508	2	fatto	fatto	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 508-3	PSB017	508	3	sempre	sempre	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 508-4	PSB017	508	4	questa	questa	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -3023,7 +3023,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 572-2	PSB017	572	2	in	in	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 572-3	PSB017	572	3	italia	italia	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 572-4	PSB017	572	4	e:::h	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1028.057	0x3	_	_	_
-573-0	PSB017	573	0	°questo°	questo	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	Begin=1028.346|End=1028.71	_	_	_	_
+573-0	PSB017	573	0	°questo°	questo	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	Begin=1028.346|End=1028.71	_	_	_	_
 574-0	PSB017	574	0	c'	c'	_	_	_	_	_	linguistic	_	ContainsVariation=No	SpaceAfter=No	Begin=1029.243	_	_	_	_
 574-1	PSB017	574	1	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 574-2	PSB017	574	2	la	la	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -3231,8 +3231,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 612-2	PSB017	612	2	no]	no	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-2(141)
 612-3	PSB017	612	3	ancora	ancora	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 612-4	PSB017	612	4	no	no	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1105.246	_	_	_	_
-613-0	PSB005	613	0	[°okay	okay	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	Begin=1104.453	_	_	_	0-4(141)
-613-1	PSB005	613	1	sì°]	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	End=1104.823	_	_	_	0-2(141)
+613-0	PSB005	613	0	[°okay	okay	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	Begin=1104.453	_	_	_	0-4(141)
+613-1	PSB005	613	1	sì°]	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	End=1104.823	_	_	_	0-2(141)
 614-0	PSB005	614	0	secondo	secondo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1105.297	_	_	_	_
 614-1	PSB005	614	1	te:::	te	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	1x3	_	_	_
 614-2	PSB005	614	2	quanto	quanto	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -3261,8 +3261,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 618-1	PSB017	618	1	ho	ho	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-2(143)
 618-2	PSB017	618	2	fatto]	fatto	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-5(143)
 618-3	PSB017	618	3	si	si	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
-618-4	PSB017	618	4	°ho	ho	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	_	_	_	_	_
-618-5	PSB017	618	5	fatta°	fatta	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	End=1114.149	_	_	_	_
+618-4	PSB017	618	4	°ho	ho	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	_	_	_	_	_
+618-5	PSB017	618	5	fatta°	fatta	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	End=1114.149	_	_	_	_
 619-0	PSB005	619	0	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1114.146	_	_	_	_
 619-1	PSB005	619	1	difficile?	difficile	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising	End=1115.03	_	_	_	_
 620-0	PSB017	620	0	molto	molto	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1115.297|End=1115.61	_	_	_	_

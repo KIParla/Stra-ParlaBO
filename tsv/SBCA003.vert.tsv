@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code_variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	PSB100	0	0	ah	ah	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=0.06	_	_	_	_
 0-1	PSB100	0	1	oh	oh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 0-2	PSB100	0	2	che	che	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -12,7 +12,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1-2	PSB099	1	2	finisce	finisce	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1-3	PSB099	1	3	a	a	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1-4	PSB099	1	4	mezzanotte	mezzanotte	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=5.28	_	_	_	_
-2-0	PSB100	2	0	AH	ah	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=high	Begin=5.28	_	_	_	_
+2-0	PSB100	2	0	AH	ah	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=High	Begin=5.28	_	_	_	_
 2-1	PSB100	2	1	okay	okay	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 2-2	PSB100	2	2	allora	allora	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 2-3	PSB100	2	3	davvero	davvero	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -154,7 +154,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 26-5	PSB099	26	5	sempre	sempre	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 26-6	PSB099	26	6	alla	alla	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 26-7	PSB099	26	7	sera	sera	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=57.48	_	_	_	_
-27-0	PSB100	27	0	SÌ:[:]	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=high	Begin=58.01|End=58.95	1x2	_	_	_
+27-0	PSB100	27	0	SÌ:[:]	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=High	Begin=58.01|End=58.95	1x2	_	_	_
 28-0	PSB099	28	0	[se	se	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=58.51	_	_	_	0-2(7)
 28-1	PSB099	28	1	la	la	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-2(7)
 28-2	PSB099	28	2	gen]te	gente	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-3(7)
@@ -262,7 +262,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 43-0	PSB100	43	0	ho	ho	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=100.21	_	_	_	_
 43-1	PSB100	43	1	già	già	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 43-2	PSB100	43	2	capito	capito	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
-43-3	PSB100	43	3	NO	no	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=high	End=101.51	_	_	_	_
+43-3	PSB100	43	3	NO	no	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=High	End=101.51	_	_	_	_
 44-0	PSB099	44	0	no	no	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=101.53	_	_	_	_
 44-1	PSB099	44	1	ma	ma	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 44-2	PSB099	44	2	[io	io	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-2(10)
@@ -270,7 +270,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 44-4	PSB099	44	4	andare	andare	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 44-5	PSB099	44	5	a	a	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 44-6	PSB099	44	6	cuba	cuba	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=102.86	_	_	_	_
-45-0	PSB100	45	0	[NO]	no	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=high	Begin=101.91|End=102.19	_	_	_	0-2(10)
+45-0	PSB100	45	0	[NO]	no	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=High	Begin=101.91|End=102.19	_	_	_	0-2(10)
 46-0	PSB100	46	0	ma	ma	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=103.78	_	_	_	_
 46-1	PSB100	46	1	tu	tu	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 46-2	PSB100	46	2	mi	mi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -310,7 +310,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 52-0	PSB099	52	0	[ma	ma	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=114.89	_	_	_	0-2(14)
 52-1	PSB099	52	1	mi	mi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-2(14)
 52-2	PSB099	52	2	a~]	a~	_	_	_	_	_	linguistic	_	ContainsVariation=No	Interrupted=Yes	End=115.39	_	_	_	0-2(14)
-53-0	PSB099	53	0	NO	no	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=high	Begin=115.42	_	_	_	_
+53-0	PSB099	53	0	NO	no	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=High	Begin=115.42	_	_	_	_
 53-1	PSB099	53	1	non	non	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 53-2	PSB099	53	2	volevo	volevo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 53-3	PSB099	53	3	partire	partire	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -1590,7 +1590,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 232-2	PSB099	232	2	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 232-3	PSB099	232	3	bellissima	bellissima	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=541.45	_	_	_	_
 233-0	PSB100	233	0	a	a	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=541.55	_	_	_	_
-233-1	PSB100	233	1	CARTAGENA?	cartagena	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising|PauseAfter=Yes|Volume=high	_	_	_	_	_
+233-1	PSB100	233	1	CARTAGENA?	cartagena	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising|PauseAfter=Yes|Volume=High	_	_	_	_	_
 233-2	PSB100	233	2	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	_	_	_
 233-3	PSB100	233	3	ma	ma	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 233-4	PSB100	233	4	te	te	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -2030,7 +2030,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 306-1	PSB100	306	1	so]	so	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-2(90)
 306-2	PSB100	306	2	però	però	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 306-3	PSB100	306	3	evide~	evide~	_	_	_	_	_	linguistic	_	ContainsVariation=No	Interrupted=Yes	_	_	_	_	_
-306-4	PSB100	306	4	MA	ma	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=high	_	_	_	_	_
+306-4	PSB100	306	4	MA	ma	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=High	_	_	_	_	_
 306-5	PSB100	306	5	per	per	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 306-6	PSB100	306	6	i	i	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 306-7	PSB100	306	7	voli	voli	_	_	_	_	_	linguistic	_	ContainsVariation=No	PauseAfter=Yes	_	_	_	_	_
