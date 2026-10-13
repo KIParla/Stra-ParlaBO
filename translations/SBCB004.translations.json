@@ -9,7 +9,7 @@
   },
   {
     "tu_id": "1711",
-    "speaker": "???_trad",
+    "speaker": "??_trad",
     "start": "3480.393",
     "end": "3482.798",
     "parent_tu_id": "1710",
@@ -17,7 +17,7 @@
   },
   {
     "tu_id": "1715",
-    "speaker": "???_trad",
+    "speaker": "??_trad",
     "start": "3483.606",
     "end": "3484.372",
     "parent_tu_id": "1714",
@@ -25,7 +25,7 @@
   },
   {
     "tu_id": "1719",
-    "speaker": "???_trad",
+    "speaker": "??_trad",
     "start": "3487.505",
     "end": "3489.797",
     "parent_tu_id": "1718",
@@ -41,7 +41,7 @@
   },
   {
     "tu_id": "1723",
-    "speaker": "???_trad",
+    "speaker": "??_trad",
     "start": "3496.977",
     "end": "3498.005",
     "parent_tu_id": "1722",

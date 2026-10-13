@@ -8452,7 +8452,7 @@
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
     </TIER>
-    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="???">
+    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="??">
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a72"
                 TIME_SLOT_REF1="ts141" TIME_SLOT_REF2="ts142">
@@ -8478,7 +8478,7 @@
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
     </TIER>
-    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="??">
+    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="???">
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a75"
                 TIME_SLOT_REF1="ts146" TIME_SLOT_REF2="ts147">
@@ -8616,7 +8616,7 @@
             </REF_ANNOTATION>
         </ANNOTATION>
     </TIER>
-    <TIER LINGUISTIC_TYPE_REF="traduzione" PARENT_REF="??" TIER_ID="??_trad">
+    <TIER LINGUISTIC_TYPE_REF="traduzione" PARENT_REF="???" TIER_ID="???_trad">
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1073" ANNOTATION_REF="a76">
                 <ANNOTATION_VALUE>la porta era aperta io ero andato a prendere</ANNOTATION_VALUE>

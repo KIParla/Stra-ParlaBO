@@ -2190,7 +2190,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 677-0	PSB001	677	0	°molto	molto	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	Begin=939.79	_	_	_	_
 677-1	PSB001	677	1	sì	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	_	_	_	_	_
 677-2	PSB001	677	2	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	Volume=Low	_	_	_	_	_
-677-3	PSB001	677	3	°		_	_	_	_	_	error	_	ContainsVariation=No	_	End=941.09	_	_	_	_
+677-3	PSB001	677	3	°	_	_	_	_	_	_	error	_	ContainsVariation=No	_	End=941.09	_	_	_	_
 678-0	PSB005	678	0	e:hm:	ehm	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=941.17|End=942.05	0x1,2x1	_	_	_
 679-0	PSB005	679	0	quando,	quando	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising	Begin=942.58	_	_	_	_
 679-1	PSB005	679	1	eh,	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising	_	_	_	_	_
