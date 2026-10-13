@@ -1491,9 +1491,9 @@ PSB153	per me sono p- eh
 PSB147	ma fa tutto
 PSB147	tanti
 PSB153	per me solo mangiare
-???	xxx
+??	xxx
 PSB146	va bene adesso possono veni-
-???	x
+??	x
 PSB153	no no grazie
 PSB146	sì sì ma non c 'è proble-
 PSB153	eh continuare

@@ -1,7 +1,7 @@
 [
   {
     "tu_id": "157",
-    "speaker": "???_trad",
+    "speaker": "??_trad",
     "start": "353.398",
     "end": "354.611",
     "parent_tu_id": "156",
@@ -17,7 +17,7 @@
   },
   {
     "tu_id": "168",
-    "speaker": "???_trad",
+    "speaker": "??_trad",
     "start": "381.000",
     "end": "381.772",
     "parent_tu_id": "167",
@@ -65,7 +65,7 @@
   },
   {
     "tu_id": "632",
-    "speaker": "???_trad",
+    "speaker": "??_trad",
     "start": "1442.794",
     "end": "1444.914",
     "parent_tu_id": "631",

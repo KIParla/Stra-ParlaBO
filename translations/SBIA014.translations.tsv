@@ -1,7 +1,7 @@
 tu_id	speaker	start	end	parent_tu_id	text
 94	PSB079_trad	177.390	178.013	93	volgari
 142	PSB067_trad	242.349	244.191	141	ciao xxx
-144	???_trad	245.233	247.291	143	tutto bene tutto bene
+144	??_trad	245.233	247.291	143	tutto bene tutto bene
 276	PSB080_trad	432.175	433.260	275	le amiche
 280	PSB079_trad	433.351	435.818	279	ai tuoi figli piace quello come si chiama
 664	PSB067_trad	1039.890	1041.008	663	asfi dove si trova in marocco
@@ -64,7 +64,7 @@ tu_id	speaker	start	end	parent_tu_id	text
 1968	PSB080_trad	3399.525	3400.541	1967	è morta la bambina
 1972	PSB079_trad	3404.689	3405.500	1971	quando la picchiata?
 1974	PSB080_trad	3405.623	3406.615	1973	l'ha picchiata alla testa
-1983	???_trad	3415.328	3416.246	1982	questo è un crimine
+1983	??_trad	3415.328	3416.246	1982	questo è un crimine
 1985	PSB067_trad	3416.447	3417.967	1984	si vede oddio è troppo
 1987	PSB080_trad	3418.453	3421.287	1986	da lì basta non mi è più piaciuta la scuola
 1989	PSB079_trad	3421.374	3422.554	1988	ti era venuta una fobia
@@ -84,8 +84,8 @@ tu_id	speaker	start	end	parent_tu_id	text
 2238	PSB080_trad	3813.656	3815.648	2237	però ci sono le ragazze che fanno l'henné qua
 2294	PSB080_trad	3902.803	3903.451	2293	ourika
 2296	PSB080_trad	3903.631	3904.328	2295	è tutto bello
-2300	???_trad	3912.836	3914.057	2299	stanno sentendo
-2304	???_trad	3918.648	3919.852	2303	voglio che ascolti? il vestito tipico berbero
+2300	??_trad	3912.836	3914.057	2299	stanno sentendo
+2304	??_trad	3918.648	3919.852	2303	voglio che ascolti? il vestito tipico berbero
 2306	PSB079_trad	3919.721	3923.705	2305	sì ho visto si chiama lebsa shelḥawiya il vestito per i berberi
 2315	PSB080_trad	3937.615	3938.795	2314	ne indossa tre
 2330	PSB067_trad	3958.803	3960.689	2329	non erano quattro i dialetti berberi

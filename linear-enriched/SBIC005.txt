@@ -1650,10 +1650,10 @@ PSB005	[mh]mh
 PSB009	mh sì
 PSB005	è difficile
 PSB009	difficile ma
-???	allo[ra porto via] i vuoti
+??	allo[ra porto via] i vuoti
 PSB009	[e::hm]
 PSB005	grazie
-???	l'acqua te la lascio?
+??	l'acqua te la lascio?
 PSB005	mhmh
 PSB009	è difficile ma
 PSB009	eh ho guardato il testo in cinese
