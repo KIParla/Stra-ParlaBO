@@ -284,7 +284,7 @@ PSB147	le macchine esatto
 PSB146	mhmh okay i macchinari
 PSB147	#machine
 PSB147	sì i macchinari dal eh
-PSB147	eh non so come si chiama #_ dyāl xyāṭa machine _ dyāl xyāṭa
+PSB147	eh non so come si chiama #_ dyāl xyāṭa machine dyāl xyāṭa
 PSB153	mhmh
 PSB147	#_ dyāl xyāṭa
 PSB153	#ma-ʕrəft-sh non lo so
