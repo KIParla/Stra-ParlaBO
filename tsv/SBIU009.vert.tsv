@@ -1227,8 +1227,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 274-0	PSB005	274	0	<è	è	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=542.1	_	Slow=0-1(0)	_	_
 274-1	PSB005	274	1	famosa	famosa	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	Slow=0-6(0)	_	_
 274-2	PSB005	274	2	solo	solo	_	_	_	_	_	linguistic	_	ContainsVariation=No	PauseAfter=Yes	_	_	Slow=0-4(0)	_	_
-274-3	PSB005	274	3	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	_	_	_
-274-4	PSB005	274	4	>	_	_	_	_	_	_	error	_	ContainsVariation=No	_	_	_	_	_	_
+274-14	PSB005	274	3	>		_	_	_	_	_	error	_	ContainsVariation=No	PauseAfter=Yes	_	_	_	_	_
+274-3	PSB005	274	4	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	_	_	_
 274-5	PSB005	274	5	da	da	_	_	_	_	_	linguistic	_	ContainsVariation=No	PauseAfter=Yes	_	_	_	_	_
 274-6	PSB005	274	6	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	_	_	_
 274-7	PSB005	274	7	l'	l'	_	_	_	_	_	linguistic	_	ContainsVariation=No	SpaceAfter=No	_	_	_	_	_

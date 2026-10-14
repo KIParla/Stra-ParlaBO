@@ -674,7 +674,7 @@ PSB001	sì, certo [sì]
 PSB005	>[vivere] qui<,
 PSB001	mhmh
 PSB005	okay
-PSB001	°molto sì ((ride)) °
+PSB001	°molto sì ° ((ride))
 PSB005	e:hm:
 PSB005	quando, eh, hai studiato, italiano solo: a firenze
 PSB001	mhmh
@@ -972,7 +972,7 @@ PSB005	mhmh
 PSB001	$nete, #yǒu #wǎng
 PSB002	ah °[bene],°
 PSB001	#_ [zhī zhū wǎng]
-PSB002	ragnatel,- come si: ra:
+PSB002	ragnatel-, come si: ra:
 PSB005	okay, [ho ca~] forse ho capito, rete,
 PSB002	°[x]°
 PSB005	forse [vuoi dire], [sì]
@@ -1046,7 +1046,7 @@ PSB001	[laure~,]
 PSB005	[mhmh]
 PSB001	[sì:]
 PSB001	laureo,
-PSB001	a ma,- ma~ a: marzo,
+PSB001	a ma-, ma~ a: marzo,
 PSB005	sì
 PSB002	ah
 PSB001	ma adesso,
@@ -1054,7 +1054,7 @@ PSB001	ancora, mi sono: m:h manca,
 PSB001	manca [un, esame], [sì:]
 PSB002	[ti manca]?
 PSB005	[okay]
-PSB001	anche u,- anche no ancora no finito:, la tesi,
+PSB001	anche u-, anche no ancora no finito:, la tesi,
 PSB005	sì
 PSB001	quindi, devo: mh
 PSB001	fino, fino a:
@@ -2170,7 +2170,7 @@ PSB005	((ride))
 PSB002	sì
 PSB005	>e [ti pia]ceva parlare:<,
 PSB002	[e:h]
-PSB005	c(io)è, l'hai imparato facilmente ve,- [o:] no,
+PSB005	c(io)è, l'hai imparato facilmente ve-, [o:] no,
 PSB002	[sì]
 PSB002	[sì] sì,
 PSB005	[sì]
@@ -2188,7 +2188,7 @@ PSB005	[situazione]
 PSB005	[okay]
 PSB001	[quindi], sì, d~ della casa,
 PSB001	di solito:, sì parliam~ ehm sì parliamo:,
-PSB001	dia~ [dialogo, il] dia,-
+PSB001	dia~ [dialogo, il] dia-,
 PSB002	°[dialetto]°
 PSB002	dia[letto],
 PSB001	[sì dia]l~ ah sì dia[letto] ((ride))
@@ -2318,7 +2318,7 @@ PSB001	[sì]: [coniuga]re:,
 PSB002	[sì sì sì]
 PSB001	anche c'è,
 PSB001	m:h e poi, secondo è,
-PSB001	coniuga,- collegato. per du~ due, due, parole
+PSB001	coniuga-, collegato. per du~ due, due, parole
 PSB001	colleg[a],
 PSB005	[mh]mh
 PSB001	>come si dice<
