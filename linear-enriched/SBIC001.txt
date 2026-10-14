@@ -674,7 +674,7 @@ PSB001	sì, certo [sì]
 PSB005	>[vivere] qui<,
 PSB001	mhmh
 PSB005	okay
-PSB001	°molto sì ° ((ride))
+PSB001	°molto sì° ((ride))
 PSB005	e:hm:
 PSB005	quando, eh, hai studiato, italiano solo: a firenze
 PSB001	mhmh
