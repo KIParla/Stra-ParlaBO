@@ -1121,7 +1121,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 185-16	PSB027	185	16	aper[te]	aperte	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=442.6	_	_	_	3-6(37)
 186-0	PSB005	186	0	[mh]	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=442.309|End=442.734	_	_	_	0-2(37)
 187-0	PSB027	187	0	°>hai	hai	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	Begin=442.812	_	Fast=0-3(0)	_	_
-187-1	PSB027	187	1	ca[pito]?<°	capito	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising|Volume=Low	End=443.39	_	Fast=0-6(0)	_	2-6(38)
+187-1	PSB027	187	1	ca[pito?]<°	capito	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising|Volume=Low	End=443.39	_	Fast=0-6(0)	_	2-6(38)
 188-0	PSB005	188	0	[mhmh]	mhmh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=443.05|End=443.443	_	_	_	0-4(38)
 189-0	PSB027	189	0	e	e	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=443.694	_	_	_	_
 189-1	PSB027	189	1	c'	c'	_	_	_	_	_	linguistic	_	ContainsVariation=No	SpaceAfter=No	_	_	_	_	_

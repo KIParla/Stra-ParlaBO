@@ -1084,7 +1084,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 183-4	PSB071	183	4	era	era	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	Fast=0-3(0)	_	_
 183-5	PSB071	183	5	fatto	fatto	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	Fast=0-5(0)	_	_
 183-6	PSB071	183	6	[sulla	sulla	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	Fast=0-5(0)	_	0-5(68)
-183-7	PSB071	183	7	c~]?<	c~	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising|Interrupted=Yes|PauseAfter=Yes	_	_	Fast=0-2(0)	_	0-2(68)
+183-7	PSB071	183	7	c~?]<	c~	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising|Interrupted=Yes|PauseAfter=Yes	_	_	Fast=0-2(0)	_	0-2(68)
 183-8	PSB071	183	8	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	_	_	_
 183-9	PSB071	183	9	[ale]	ale	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-3(410)
 183-10	PSB071	183	10	si	si	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_

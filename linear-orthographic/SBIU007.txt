@@ -361,7 +361,7 @@ PSB031	mi piace fare tutto mi piace anche camminare mi piace ehm visitare nuovi
 PSB030	posti
 PSB031	pu~
 PSB031	posti
-PSB031	mi piace cucinare mi piace guardare ehm adesso e h noi guardiamo mh film italiani
+PSB031	mi piace cucinare mi piace guardare ehm adesso eh noi guardiamo mh film italiani
 PSB005	mhmh
 PSB031	ehm per studiare
 PSB030	come moderna o più vecchia

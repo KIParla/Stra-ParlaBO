@@ -1640,7 +1640,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 378-5	PSB009	378	5	due~	due~	_	_	_	_	_	linguistic	_	ContainsVariation=No	Interrupted=Yes	_	_	_	_	_
 378-6	PSB009	378	6	duemila~	duemila~	_	_	_	_	_	linguistic	_	ContainsVariation=No	Interrupted=Yes	_	_	_	_	_
 378-7	PSB009	378	7	duemilaventitré	duemilaventitré	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
-378-8	PSB009	378	8	(n.ove	n.ove	_	_	_	_	_	error	_	ContainsVariation=No	_	_	_	_	_	_
+378-8	PSB009	378	8	(nove	nove	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 378-9	PSB009	378	9	lavoro	lavoro	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 378-10	PSB009	378	10	[solo	solo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-4(76)
 378-11	PSB009	378	11	lavoro]	lavoro	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=792.01	_	_	_	0-6(76)

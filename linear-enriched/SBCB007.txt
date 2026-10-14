@@ -110,7 +110,7 @@ PSB005	quindi eri in buone mani okay
 PSB093	((ride))
 PSB005	((ride)) okay
 PSB005	tuo marito anche è de~ è del bangladesh sì?
-PSB093	°sì mio mari[to è del ba]ngladesh pe[rò po]veretto: ° ((porzione_rimossa_per_privacy))
+PSB093	°sì mio mari[to è del ba]ngladesh pe[rò po]veretto:° ((porzione_rimossa_per_privacy))
 PSB005	[okay]
 PSB005	[okay]
 PSB005	oh no:
