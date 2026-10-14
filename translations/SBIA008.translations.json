@@ -4,7 +4,7 @@
     "speaker": "PSB042_trad",
     "start": "1772.575",
     "end": "1778.964",
-    "parent_tu_id": "_",
+    "parent_tu_id": "796",
     "text": "halal = lecito (consentito dalla legge islamica)"
   },
   {
@@ -12,7 +12,7 @@
     "speaker": "PSB042_trad",
     "start": "2474.977",
     "end": "2475.347",
-    "parent_tu_id": "_",
+    "parent_tu_id": "1150",
     "text": "pecora"
   }
 ]

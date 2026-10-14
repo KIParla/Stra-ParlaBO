@@ -4,7 +4,7 @@
     "speaker": "PSB035_trad",
     "start": "292.300",
     "end": "294.426",
-    "parent_tu_id": "_",
+    "parent_tu_id": "195",
     "text": "ah dialetto sì ah sì sì"
   },
   {
@@ -20,7 +20,7 @@
     "speaker": "PSB035_trad",
     "start": "374.954",
     "end": "377.841",
-    "parent_tu_id": "_",
+    "parent_tu_id": "258",
     "text": "ah sì sì  televisione sì che qua abbiam~"
   },
   {
@@ -28,7 +28,7 @@
     "speaker": "PSB035_trad",
     "start": "550.464",
     "end": "551.871",
-    "parent_tu_id": "_",
+    "parent_tu_id": "376",
     "text": "cosa?"
   }
 ]
