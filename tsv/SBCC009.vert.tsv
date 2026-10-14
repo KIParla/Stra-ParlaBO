@@ -13375,9 +13375,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 2963-6	PSB104	2963	6	non	non	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 2963-7	PSB104	2963	7	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 2963-8	PSB104	2963	8	tipo:	tipo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	3x1	_	_	_
-2963-9	PSB104	2963	9	m:	m	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	0x1	_	_	_
-2963-10	PSB104	2963	10	h	h	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-2963-11	PSB104	2963	11	faccia?	faccia	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	Intonation=Rising	End=5027.026	_	_	_	_
+2963-9	PSB104	2963	9	m:h	mh	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	0x1	_	_	_
+2963-11	PSB104	2963	10	faccia?	faccia	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	Intonation=Rising	End=5027.026	_	_	_	_
 2964-0	PSB105	2964	0	sì	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=5027.071	_	_	_	_
 2964-1	PSB105	2964	1	sì	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 2964-2	PSB105	2964	2	sì	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_

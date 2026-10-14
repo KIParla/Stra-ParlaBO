@@ -1,7 +1,7 @@
 [
   {
     "tu_id": "31",
-    "speaker": "PSB0067_trad",
+    "speaker": "PSB067_trad",
     "start": "84.700",
     "end": "87.150",
     "parent_tu_id": "30",
@@ -9,7 +9,7 @@
   },
   {
     "tu_id": "33",
-    "speaker": "PSB0067_trad",
+    "speaker": "PSB067_trad",
     "start": "88.000",
     "end": "88.930",
     "parent_tu_id": "32",
@@ -17,7 +17,7 @@
   },
   {
     "tu_id": "51",
-    "speaker": "PSB0067_trad",
+    "speaker": "PSB067_trad",
     "start": "119.350",
     "end": "121.047",
     "parent_tu_id": "50",
@@ -33,7 +33,7 @@
   },
   {
     "tu_id": "167",
-    "speaker": "PSB0067_trad",
+    "speaker": "PSB067_trad",
     "start": "292.170",
     "end": "293.510",
     "parent_tu_id": "166",
@@ -49,7 +49,7 @@
   },
   {
     "tu_id": "199",
-    "speaker": "PSB0067_trad",
+    "speaker": "PSB067_trad",
     "start": "346.790",
     "end": "350.298",
     "parent_tu_id": "198",
@@ -57,7 +57,7 @@
   },
   {
     "tu_id": "201",
-    "speaker": "PSB0067_trad",
+    "speaker": "PSB067_trad",
     "start": "350.350",
     "end": "351.570",
     "parent_tu_id": "200",
@@ -65,7 +65,7 @@
   },
   {
     "tu_id": "210",
-    "speaker": "PSB0067_trad",
+    "speaker": "PSB067_trad",
     "start": "364.390",
     "end": "365.710",
     "parent_tu_id": "209",
@@ -73,7 +73,7 @@
   },
   {
     "tu_id": "215",
-    "speaker": "PSB0067_trad",
+    "speaker": "PSB067_trad",
     "start": "368.250",
     "end": "370.134",
     "parent_tu_id": "214",
@@ -81,7 +81,7 @@
   },
   {
     "tu_id": "226",
-    "speaker": "PSB0067_trad",
+    "speaker": "PSB067_trad",
     "start": "381.070",
     "end": "382.580",
     "parent_tu_id": "225",
@@ -97,7 +97,7 @@
   },
   {
     "tu_id": "233",
-    "speaker": "PSB0067_trad",
+    "speaker": "PSB067_trad",
     "start": "386.611",
     "end": "391.810",
     "parent_tu_id": "232",
@@ -105,7 +105,7 @@
   },
   {
     "tu_id": "238",
-    "speaker": "PSB0067_trad",
+    "speaker": "PSB067_trad",
     "start": "395.430",
     "end": "399.030",
     "parent_tu_id": "237",
@@ -121,7 +121,7 @@
   },
   {
     "tu_id": "247",
-    "speaker": "PSB0067_trad",
+    "speaker": "PSB067_trad",
     "start": "404.630",
     "end": "405.650",
     "parent_tu_id": "246",
@@ -137,7 +137,7 @@
   },
   {
     "tu_id": "286",
-    "speaker": "PSB0067_trad",
+    "speaker": "PSB067_trad",
     "start": "450.650",
     "end": "451.589",
     "parent_tu_id": "285",
@@ -193,7 +193,7 @@
   },
   {
     "tu_id": "346",
-    "speaker": "PSB0067_trad",
+    "speaker": "PSB067_trad",
     "start": "517.000",
     "end": "517.900",
     "parent_tu_id": "345",
@@ -225,7 +225,7 @@
   },
   {
     "tu_id": "367",
-    "speaker": "PSB0067_trad",
+    "speaker": "PSB067_trad",
     "start": "535.900",
     "end": "537.130",
     "parent_tu_id": "366",
@@ -249,7 +249,7 @@
   },
   {
     "tu_id": "406",
-    "speaker": "PSB0067_trad",
+    "speaker": "PSB067_trad",
     "start": "568.630",
     "end": "569.800",
     "parent_tu_id": "405",
@@ -281,7 +281,7 @@
   },
   {
     "tu_id": "432",
-    "speaker": "PSB0067_trad",
+    "speaker": "PSB067_trad",
     "start": "603.850",
     "end": "605.919",
     "parent_tu_id": "431",
@@ -297,7 +297,7 @@
   },
   {
     "tu_id": "460",
-    "speaker": "PSB0067_trad",
+    "speaker": "PSB067_trad",
     "start": "652.640",
     "end": "657.630",
     "parent_tu_id": "459",
@@ -361,7 +361,7 @@
   },
   {
     "tu_id": "740",
-    "speaker": "PSB0067_trad",
+    "speaker": "PSB067_trad",
     "start": "1099.150",
     "end": "1100.744",
     "parent_tu_id": "739",
@@ -377,7 +377,7 @@
   },
   {
     "tu_id": "760",
-    "speaker": "PSB0067_trad",
+    "speaker": "PSB067_trad",
     "start": "1122.550",
     "end": "1122.930",
     "parent_tu_id": "759",
@@ -385,7 +385,7 @@
   },
   {
     "tu_id": "767",
-    "speaker": "PSB0067_trad",
+    "speaker": "PSB067_trad",
     "start": "1127.690",
     "end": "1128.377",
     "parent_tu_id": "766",
@@ -393,7 +393,7 @@
   },
   {
     "tu_id": "772",
-    "speaker": "PSB0067_trad",
+    "speaker": "PSB067_trad",
     "start": "1130.450",
     "end": "1130.928",
     "parent_tu_id": "770",
@@ -401,7 +401,7 @@
   },
   {
     "tu_id": "802",
-    "speaker": "PSB0067_trad",
+    "speaker": "PSB067_trad",
     "start": "1165.090",
     "end": "1166.180",
     "parent_tu_id": "801",
@@ -417,7 +417,7 @@
   },
   {
     "tu_id": "827",
-    "speaker": "PSB0067_trad",
+    "speaker": "PSB067_trad",
     "start": "1193.160",
     "end": "1193.840",
     "parent_tu_id": "826",
@@ -441,7 +441,7 @@
   },
   {
     "tu_id": "891",
-    "speaker": "PSB0067_trad",
+    "speaker": "PSB067_trad",
     "start": "1270.810",
     "end": "1271.330",
     "parent_tu_id": "890",
@@ -465,7 +465,7 @@
   },
   {
     "tu_id": "925",
-    "speaker": "PSB0067_trad",
+    "speaker": "PSB067_trad",
     "start": "1302.510",
     "end": "1303.330",
     "parent_tu_id": "924",
@@ -473,7 +473,7 @@
   },
   {
     "tu_id": "929",
-    "speaker": "PSB0067_trad",
+    "speaker": "PSB067_trad",
     "start": "1304.560",
     "end": "1309.600",
     "parent_tu_id": "928",
@@ -497,7 +497,7 @@
   },
   {
     "tu_id": "935",
-    "speaker": "PSB0067_trad",
+    "speaker": "PSB067_trad",
     "start": "1310.060",
     "end": "1312.030",
     "parent_tu_id": "934",
@@ -513,7 +513,7 @@
   },
   {
     "tu_id": "942",
-    "speaker": "PSB0067_trad",
+    "speaker": "PSB067_trad",
     "start": "1315.910",
     "end": "1318.814",
     "parent_tu_id": "941",
@@ -521,7 +521,7 @@
   },
   {
     "tu_id": "944",
-    "speaker": "PSB0067_trad",
+    "speaker": "PSB067_trad",
     "start": "1320.280",
     "end": "1321.766",
     "parent_tu_id": "943",
@@ -593,7 +593,7 @@
   },
   {
     "tu_id": "997",
-    "speaker": "PSB0067_trad",
+    "speaker": "PSB067_trad",
     "start": "1386.870",
     "end": "1387.280",
     "parent_tu_id": "996",
@@ -609,7 +609,7 @@
   },
   {
     "tu_id": "1002",
-    "speaker": "PSB0067_trad",
+    "speaker": "PSB067_trad",
     "start": "1388.806",
     "end": "1391.236",
     "parent_tu_id": "1001",
@@ -617,7 +617,7 @@
   },
   {
     "tu_id": "1005",
-    "speaker": "PSB0067_trad",
+    "speaker": "PSB067_trad",
     "start": "1392.300",
     "end": "1393.510",
     "parent_tu_id": "1004",
@@ -641,7 +641,7 @@
   },
   {
     "tu_id": "1076",
-    "speaker": "PSB0067_trad",
+    "speaker": "PSB067_trad",
     "start": "1498.700",
     "end": "1499.750",
     "parent_tu_id": "1075",
@@ -673,7 +673,7 @@
   },
   {
     "tu_id": "1090",
-    "speaker": "PSB0067_trad",
+    "speaker": "PSB067_trad",
     "start": "1508.480",
     "end": "1511.010",
     "parent_tu_id": "1089",
@@ -705,7 +705,7 @@
   },
   {
     "tu_id": "1154",
-    "speaker": "PSB0067_trad",
+    "speaker": "PSB067_trad",
     "start": "1592.270",
     "end": "1595.420",
     "parent_tu_id": "1153",
@@ -721,7 +721,7 @@
   },
   {
     "tu_id": "1159",
-    "speaker": "PSB0067_trad",
+    "speaker": "PSB067_trad",
     "start": "1597.140",
     "end": "1598.860",
     "parent_tu_id": "1158",
@@ -729,7 +729,7 @@
   },
   {
     "tu_id": "1164",
-    "speaker": "PSB0067_trad",
+    "speaker": "PSB067_trad",
     "start": "1601.720",
     "end": "1602.500",
     "parent_tu_id": "1163",
@@ -745,7 +745,7 @@
   },
   {
     "tu_id": "1170",
-    "speaker": "PSB0067_trad",
+    "speaker": "PSB067_trad",
     "start": "1608.440",
     "end": "1609.290",
     "parent_tu_id": "1169",
@@ -753,7 +753,7 @@
   },
   {
     "tu_id": "1172",
-    "speaker": "PSB0067_trad",
+    "speaker": "PSB067_trad",
     "start": "1609.940",
     "end": "1610.880",
     "parent_tu_id": "1171",
@@ -777,7 +777,7 @@
   },
   {
     "tu_id": "1198",
-    "speaker": "PSB0067_trad",
+    "speaker": "PSB067_trad",
     "start": "1635.060",
     "end": "1636.220",
     "parent_tu_id": "1197",
@@ -825,7 +825,7 @@
   },
   {
     "tu_id": "1218",
-    "speaker": "PSB0067_trad",
+    "speaker": "PSB067_trad",
     "start": "1653.060",
     "end": "1653.880",
     "parent_tu_id": "1217",
@@ -833,7 +833,7 @@
   },
   {
     "tu_id": "1220",
-    "speaker": "PSB0067_trad",
+    "speaker": "PSB067_trad",
     "start": "1654.090",
     "end": "1657.740",
     "parent_tu_id": "1219",
@@ -841,7 +841,7 @@
   },
   {
     "tu_id": "1227",
-    "speaker": "PSB0067_trad",
+    "speaker": "PSB067_trad",
     "start": "1660.580",
     "end": "1662.200",
     "parent_tu_id": "1226",
@@ -857,7 +857,7 @@
   },
   {
     "tu_id": "1236",
-    "speaker": "PSB0067_trad",
+    "speaker": "PSB067_trad",
     "start": "1667.960",
     "end": "1670.340",
     "parent_tu_id": "1235",
@@ -865,7 +865,7 @@
   },
   {
     "tu_id": "1247",
-    "speaker": "PSB0067_trad",
+    "speaker": "PSB067_trad",
     "start": "1682.611",
     "end": "1684.493",
     "parent_tu_id": "1246",
@@ -889,7 +889,7 @@
   },
   {
     "tu_id": "1256",
-    "speaker": "PSB0067_trad",
+    "speaker": "PSB067_trad",
     "start": "1690.422",
     "end": "1691.800",
     "parent_tu_id": "1255",
@@ -905,7 +905,7 @@
   },
   {
     "tu_id": "1278",
-    "speaker": "PSB0067_trad",
+    "speaker": "PSB067_trad",
     "start": "1716.130",
     "end": "1716.970",
     "parent_tu_id": "1277",
@@ -913,7 +913,7 @@
   },
   {
     "tu_id": "1281",
-    "speaker": "PSB0067_trad",
+    "speaker": "PSB067_trad",
     "start": "1721.450",
     "end": "1722.930",
     "parent_tu_id": "1280",
@@ -929,7 +929,7 @@
   },
   {
     "tu_id": "1326",
-    "speaker": "PSB0067_trad",
+    "speaker": "PSB067_trad",
     "start": "1774.840",
     "end": "1776.180",
     "parent_tu_id": "1325",
@@ -953,7 +953,7 @@
   },
   {
     "tu_id": "1332",
-    "speaker": "PSB0067_trad",
+    "speaker": "PSB067_trad",
     "start": "1777.060",
     "end": "1777.840",
     "parent_tu_id": "1331",
@@ -977,7 +977,7 @@
   },
   {
     "tu_id": "1338",
-    "speaker": "PSB0067_trad",
+    "speaker": "PSB067_trad",
     "start": "1778.970",
     "end": "1780.950",
     "parent_tu_id": "1337",
@@ -993,7 +993,7 @@
   },
   {
     "tu_id": "1370",
-    "speaker": "PSB0067_trad",
+    "speaker": "PSB067_trad",
     "start": "1813.880",
     "end": "1815.620",
     "parent_tu_id": "1369",
@@ -1001,7 +1001,7 @@
   },
   {
     "tu_id": "1376",
-    "speaker": "PSB0067_trad",
+    "speaker": "PSB067_trad",
     "start": "1819.540",
     "end": "1820.711",
     "parent_tu_id": "1375",
@@ -1009,7 +1009,7 @@
   },
   {
     "tu_id": "1381",
-    "speaker": "PSB0067_trad",
+    "speaker": "PSB067_trad",
     "start": "1822.160",
     "end": "1826.789",
     "parent_tu_id": "1380",
@@ -1033,7 +1033,7 @@
   },
   {
     "tu_id": "1474",
-    "speaker": "PSB0067_trad",
+    "speaker": "PSB067_trad",
     "start": "1955.220",
     "end": "1959.270",
     "parent_tu_id": "1473",
@@ -1057,7 +1057,7 @@
   },
   {
     "tu_id": "1489",
-    "speaker": "PSB0067_trad",
+    "speaker": "PSB067_trad",
     "start": "1976.160",
     "end": "1977.320",
     "parent_tu_id": "1488",
@@ -1065,7 +1065,7 @@
   },
   {
     "tu_id": "1513",
-    "speaker": "PSB0067_trad",
+    "speaker": "PSB067_trad",
     "start": "2021.920",
     "end": "2025.833",
     "parent_tu_id": "1512",
@@ -1073,7 +1073,7 @@
   },
   {
     "tu_id": "1515",
-    "speaker": "PSB0067_trad",
+    "speaker": "PSB067_trad",
     "start": "2026.860",
     "end": "2028.011",
     "parent_tu_id": "1514",
@@ -1089,7 +1089,7 @@
   },
   {
     "tu_id": "1535",
-    "speaker": "PSB0067_trad",
+    "speaker": "PSB067_trad",
     "start": "2059.060",
     "end": "2061.500",
     "parent_tu_id": "1534",
@@ -1097,7 +1097,7 @@
   },
   {
     "tu_id": "1558",
-    "speaker": "PSB0067_trad",
+    "speaker": "PSB067_trad",
     "start": "2104.040",
     "end": "2107.260",
     "parent_tu_id": "1557",
@@ -1105,7 +1105,7 @@
   },
   {
     "tu_id": "1564",
-    "speaker": "PSB0067_trad",
+    "speaker": "PSB067_trad",
     "start": "2112.700",
     "end": "2114.860",
     "parent_tu_id": "1563",
@@ -1113,7 +1113,7 @@
   },
   {
     "tu_id": "1631",
-    "speaker": "PSB0067_trad",
+    "speaker": "PSB067_trad",
     "start": "2226.750",
     "end": "2229.690",
     "parent_tu_id": "1630",
@@ -1121,7 +1121,7 @@
   },
   {
     "tu_id": "1635",
-    "speaker": "PSB0067_trad",
+    "speaker": "PSB067_trad",
     "start": "2232.110",
     "end": "2233.200",
     "parent_tu_id": "1634",
@@ -1137,7 +1137,7 @@
   },
   {
     "tu_id": "1671",
-    "speaker": "PSB0067_trad",
+    "speaker": "PSB067_trad",
     "start": "2285.408",
     "end": "2290.199",
     "parent_tu_id": "1670",
@@ -1145,7 +1145,7 @@
   },
   {
     "tu_id": "1675",
-    "speaker": "PSB0067_trad",
+    "speaker": "PSB067_trad",
     "start": "2290.389",
     "end": "2291.758",
     "parent_tu_id": "1674",
@@ -1153,7 +1153,7 @@
   },
   {
     "tu_id": "1678",
-    "speaker": "PSB0067_trad",
+    "speaker": "PSB067_trad",
     "start": "2292.589",
     "end": "2293.961",
     "parent_tu_id": "1677",
@@ -1177,7 +1177,7 @@
   },
   {
     "tu_id": "1719",
-    "speaker": "PSB0067_trad",
+    "speaker": "PSB067_trad",
     "start": "2340.981",
     "end": "2344.233",
     "parent_tu_id": "1718",
@@ -1217,7 +1217,7 @@
   },
   {
     "tu_id": "1810",
-    "speaker": "PSB0067_trad",
+    "speaker": "PSB067_trad",
     "start": "2457.600",
     "end": "2459.189",
     "parent_tu_id": "1809",
@@ -1225,7 +1225,7 @@
   },
   {
     "tu_id": "1814",
-    "speaker": "PSB0067_trad",
+    "speaker": "PSB067_trad",
     "start": "2460.189",
     "end": "2460.811",
     "parent_tu_id": "1813",
@@ -1241,7 +1241,7 @@
   },
   {
     "tu_id": "1825",
-    "speaker": "PSB0067_trad",
+    "speaker": "PSB067_trad",
     "start": "2471.011",
     "end": "2471.822",
     "parent_tu_id": "1824",
@@ -1257,7 +1257,7 @@
   },
   {
     "tu_id": "1836",
-    "speaker": "PSB0067_trad",
+    "speaker": "PSB067_trad",
     "start": "2486.189",
     "end": "2487.611",
     "parent_tu_id": "1835",
@@ -1313,7 +1313,7 @@
   },
   {
     "tu_id": "1897",
-    "speaker": "PSB0067_trad",
+    "speaker": "PSB067_trad",
     "start": "2551.597",
     "end": "2553.823",
     "parent_tu_id": "1896",
@@ -1345,7 +1345,7 @@
   },
   {
     "tu_id": "1905",
-    "speaker": "PSB0067_trad",
+    "speaker": "PSB067_trad",
     "start": "2557.787",
     "end": "2558.756",
     "parent_tu_id": "1904",
@@ -1369,7 +1369,7 @@
   },
   {
     "tu_id": "1931",
-    "speaker": "PSB0067_trad",
+    "speaker": "PSB067_trad",
     "start": "2601.787",
     "end": "2603.175",
     "parent_tu_id": "1930",
@@ -1417,7 +1417,7 @@
   },
   {
     "tu_id": "2082",
-    "speaker": "PSB0067_trad",
+    "speaker": "PSB067_trad",
     "start": "2853.223",
     "end": "2855.172",
     "parent_tu_id": "2081",
@@ -1433,7 +1433,7 @@
   },
   {
     "tu_id": "2224",
-    "speaker": "PSB0067_trad",
+    "speaker": "PSB067_trad",
     "start": "3116.228",
     "end": "3121.038",
     "parent_tu_id": "2223",
@@ -1441,7 +1441,7 @@
   },
   {
     "tu_id": "2255",
-    "speaker": "PSB0067_trad",
+    "speaker": "PSB067_trad",
     "start": "3147.436",
     "end": "3148.905",
     "parent_tu_id": "2254",
@@ -1457,7 +1457,7 @@
   },
   {
     "tu_id": "2271",
-    "speaker": "PSB0067_trad",
+    "speaker": "PSB067_trad",
     "start": "3170.632",
     "end": "3173.975",
     "parent_tu_id": "2270",
@@ -1473,7 +1473,7 @@
   },
   {
     "tu_id": "2365",
-    "speaker": "PSB0067_trad",
+    "speaker": "PSB067_trad",
     "start": "3320.240",
     "end": "3320.787",
     "parent_tu_id": "2364",
@@ -1481,7 +1481,7 @@
   },
   {
     "tu_id": "2368",
-    "speaker": "PSB0067_trad",
+    "speaker": "PSB067_trad",
     "start": "3321.417",
     "end": "3322.632",
     "parent_tu_id": "2367",
@@ -1521,7 +1521,7 @@
   },
   {
     "tu_id": "2437",
-    "speaker": "PSB0067_trad",
+    "speaker": "PSB067_trad",
     "start": "3390.520",
     "end": "3394.870",
     "parent_tu_id": "2436",
@@ -1529,7 +1529,7 @@
   },
   {
     "tu_id": "2463",
-    "speaker": "PSB0067_trad",
+    "speaker": "PSB067_trad",
     "start": "3439.240",
     "end": "3443.987",
     "parent_tu_id": "2462",
@@ -1537,7 +1537,7 @@
   },
   {
     "tu_id": "2474",
-    "speaker": "PSB0067_trad",
+    "speaker": "PSB067_trad",
     "start": "3465.410",
     "end": "3467.201",
     "parent_tu_id": "2473",
@@ -1553,7 +1553,7 @@
   },
   {
     "tu_id": "2751",
-    "speaker": "PSB0067_trad",
+    "speaker": "PSB067_trad",
     "start": "3951.610",
     "end": "3952.578",
     "parent_tu_id": "2750",

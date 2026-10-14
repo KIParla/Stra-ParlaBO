@@ -626,7 +626,7 @@ PSB066	[sì]
 PSB065	è vicino sasso marcon(i) e casalecchio, (.) che tante cose qua
 PSB005	e vi piace di più: ferrara, bologna,
 PSB066	((sospira)) (.) per me bologn[a]
-PSB065	((sospira_,ride))
+PSB065	((sospira_ride))
 PSB065	[anch'io]
 PSB066	[°sì°]
 PSB066	eh [perché bologna c'è (sole) ma:] non so perché io sì
@@ -891,7 +891,7 @@ PSB065	[io]
 PSB066	[io]
 PSB066	xx dai ((ride))
 PSB065	NO NO VAI DA:I XX
-PSB066	((ride_,sospira)) è di casablanca conosce casablanca?
+PSB066	((ride_sospira)) è di casablanca conosce casablanca?
 PSB005	[okay]
 PSB005	e:h (.) non ci sono stata però: [di nome sì]
 PSB066	[casabla]nca sì: sì:

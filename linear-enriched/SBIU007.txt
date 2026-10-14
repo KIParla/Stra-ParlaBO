@@ -363,7 +363,7 @@ PSB031	mi piace fare tutto mi piace anche camminare, mi piace (.) e:hm visitare 
 PSB030	pos[ti]
 PSB031	[pu~]
 PSB031	posti
-PSB031	mi piace cucinare, mi piace guardare: ehm adesso: e: h noi guardiamo m:h film italiani
+PSB031	mi piace cucinare, mi piace guardare: ehm adesso: e:h noi guardiamo m:h film italiani
 PSB005	mhmh
 PSB031	e:hm per (.) studiare ((ride))
 PSB030	come moderna o: [più vec]chi(a)?

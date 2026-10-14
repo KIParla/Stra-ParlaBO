@@ -574,9 +574,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 113-4	PSB093	113	4	del	del	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	_	_	_	_	0-3(33)
 113-5	PSB093	113	5	ba]ngladesh	bangladesh	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	_	_	_	_	0-2(33)
 113-6	PSB093	113	6	pe[rò	però	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	_	_	_	_	2-4(34)
-113-7	PSB093	113	7	po]veretto:	poveretto	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	_	8x1	_	_	0-2(34)
-113-8	PSB093	113	8	°	_	_	_	_	_	_	error	_	ContainsVariation=No	_	_	_	_	_	_
-113-9	PSB093	113	9	((porzione_rimossa_per_privacy))	((porzione_rimossa_per_privacy))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	End=261.01	_	_	_	_
+113-7	PSB093	113	7	po]veretto:°	poveretto	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	_	8x1	_	_	0-2(34)
+113-9	PSB093	113	8	((porzione_rimossa_per_privacy))	((porzione_rimossa_per_privacy))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	End=261.01	_	_	_	_
 114-0	PSB005	114	0	[okay]	okay	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=256.184|End=256.601	_	_	_	0-4(33)
 115-0	PSB005	115	0	[okay]	okay	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=257.378|End=257.733	_	_	_	0-4(34)
 116-0	PSB005	116	0	oh	oh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=261.01	_	_	_	_

@@ -2484,7 +2484,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 635-2	PSB066	635	2	per	per	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 635-3	PSB066	635	3	me	me	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 635-4	PSB066	635	4	bologn[a]	bologna	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=785.845	_	_	_	6-7(240)
-636-0	PSB065	636	0	((sospira_,ride))	((sospira_,ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=784.083|End=784.701	_	_	_	_
+636-0	PSB065	636	0	((sospira_ride))	((sospira_ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=784.083|End=784.701	_	_	_	_
 637-0	PSB065	637	0	[anch'	anch'	_	_	_	_	_	linguistic	_	ContainsVariation=No	SpaceAfter=No	Begin=785.804	_	_	_	0-5(242)
 637-1	PSB065	637	1	io]	io	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=786.434	_	_	_	0-2(242)
 638-0	PSB066	638	0	[°sì°]	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	Begin=785.916|End=786.287	_	_	_	0-2(242)
@@ -3561,7 +3561,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 910-2	PSB065	910	2	VAI	vai	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=High	_	_	_	_	_
 910-3	PSB065	910	3	DA:I	dai	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=High	_	1x1	_	_	_
 910-4	PSB065	910	4	XX	xx	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=High	End=1100.867	_	_	_	_
-911-0	PSB066	911	0	((ride_,sospira))	((ride_,sospira))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=1100.867	_	_	_	_
+911-0	PSB066	911	0	((ride_sospira))	((ride_sospira))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=1100.867	_	_	_	_
 911-1	PSB066	911	1	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 911-2	PSB066	911	2	di	di	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 911-3	PSB066	911	3	casablanca	casablanca	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_

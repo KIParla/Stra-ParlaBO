@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<ANNOTATION_DOCUMENT AUTHOR="automatic_pipeline" DATE="2026-10-02T02:11:50+02:00" VERSION="2.8" FORMAT="2.8" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
+<ANNOTATION_DOCUMENT AUTHOR="automatic_pipeline" DATE="2026-10-14T15:26:32+02:00" VERSION="2.8" FORMAT="2.8" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
 	<HEADER>
 		<MEDIA_DESCRIPTOR MEDIA_URL="SBIA013.mp3" RELATIVE_MEDIA_URL="SBIA013.mp3" MIME_TYPE="audio/mpeg" />
 		<PROPERTY NAME="lastUsedAnnotation">0</PROPERTY>
@@ -18223,7 +18223,7 @@
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		</TIER>
-	<TIER TIER_ID="PSB0067_trad" LINGUISTIC_TYPE_REF="traduzione" PARENT_REF="PSB067">
+	<TIER TIER_ID="PSB067_trad" LINGUISTIC_TYPE_REF="traduzione" PARENT_REF="PSB067">
 		<ANNOTATION>
 			<REF_ANNOTATION ANNOTATION_ID="a2603" ANNOTATION_REF="a32">
 				<ANNOTATION_VALUE>come ti chiami?</ANNOTATION_VALUE>
