@@ -2801,8 +2801,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 360-13	PSB007	360	13	una	una	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 360-14	PSB007	360	14	persona,	persona	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising	End=1291.474	_	_	_	_
 361-0	PSB007	361	0	che	che	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1291.588	_	_	_	_
-361-1	PSB007	361	1	<PARLA	parla	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=High	_	_	Slow=0-5(0)	_	_
-361-17	PSB007	361	2	>		_	_	_	_	_	error	_	ContainsVariation=No	_	_	_	_	_	_
+361-1	PSB007	361	1	<PARLA>	parla	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=High	_	_	Slow=0-5(0)	_	_
 361-2	PSB007	361	3	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	_	_	Slow=0-4(0)	_	_
 361-4	PSB007	361	4	ITALIANO	italiano	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=High	_	_	_	_	_
 361-5	PSB007	361	5	SUPER	super	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=High	_	_	_	_	_
