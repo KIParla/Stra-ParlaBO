@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<ANNOTATION_DOCUMENT AUTHOR="kiparla-tools" DATE="2026-10-14T19:18:34+00:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+<ANNOTATION_DOCUMENT AUTHOR="kiparla-tools" DATE="2026-10-14T20:21:49+00:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
         <MEDIA_DESCRIPTOR MEDIA_URL="SBIC001.mp3" MIME_TYPE="audio/mpeg" RELATIVE_MEDIA_URL="SBIC001.mp3" />
     </HEADER>
@@ -14398,7 +14398,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a4381" ANNOTATION_REF="a4380">
-                <ANNOTATION_VALUE>c(io)è, l'hai imparato facilmente ve,- [o:] no,</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>c(io)è, l'hai imparato facilmente ve-, [o:] no,</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -22589,7 +22589,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1355" ANNOTATION_REF="a1354">
-                <ANNOTATION_VALUE>°molto sì ((ride)) °</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>°molto sì ° ((ride))</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -23439,7 +23439,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a2113" ANNOTATION_REF="a2112">
-                <ANNOTATION_VALUE>a ma,- ma~ a: marzo,</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>a ma-, ma~ a: marzo,</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -23459,7 +23459,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a2129" ANNOTATION_REF="a2128">
-                <ANNOTATION_VALUE>anche u,- anche no ancora no finito:, la tesi,</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>anche u-, anche no ancora no finito:, la tesi,</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -25394,7 +25394,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a4417" ANNOTATION_REF="a4416">
-                <ANNOTATION_VALUE>dia~ [dialogo, il] dia,-</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>dia~ [dialogo, il] dia-,</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -25774,7 +25774,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a4680" ANNOTATION_REF="a4679">
-                <ANNOTATION_VALUE>coniuga,- collegato. per du~ due, due, parole</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>coniuga-, collegato. per du~ due, due, parole</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -30325,7 +30325,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1955" ANNOTATION_REF="a1954">
-                <ANNOTATION_VALUE>ragnatel,- come si: ra:</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>ragnatel-, come si: ra:</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
