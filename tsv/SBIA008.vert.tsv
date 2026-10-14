@@ -2947,7 +2947,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 573-1	PSB042	573	1	rumeno.	rumeno	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	_	_	_	_	_
 573-2	PSB042	573	2	ma	ma	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 573-3	PSB042	573	3	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
-573-4	PSB042	573	4	fue.-	fue.-	_	_	_	_	_	error	_	ContainsVariation=No	_	_	_	_	_	_
+573-4	PSB042	573	4	fue-.	fue-	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling|Interrupted=Yes	_	_	_	_	_
 573-5	PSB042	573	5	normale.	normale	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	End=1268.094	_	_	_	_
 574-0	PSB042	574	0	[s]:e	se	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1268.647	0x1	_	_	0-1(148)
 574-1	PSB042	574	1	la	la	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -4244,7 +4244,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 813-3	PSB042	813	3	eh.	eh	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	Intonation=Falling	_	_	_	_	_
 813-4	PSB042	813	4	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 813-5	PSB042	813	5	mangiato	mangiato	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-813-6	PSB042	813	6	a.-	a.-	_	_	_	_	_	error	_	ContainsVariation=Yes	PauseAfter=Yes	_	_	_	_	_
+813-6	PSB042	813	6	a-.	a-	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	Intonation=Falling|Interrupted=Yes|PauseAfter=Yes	_	_	_	_	_
 813-7	PSB042	813	7	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=Yes	_	_	_	_	_	_
 813-8	PSB042	813	8	#déjà	déjà	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 813-9	PSB042	813	9	visito	visito	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
@@ -5862,7 +5862,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1162-2	PSB042	1162	2	per	per	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1162-3	PSB042	1162	3	mio	mio	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1162-4	PSB042	1162	4	figlio	figlio	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
-1162-5	PSB042	1162	5	anda:.-	anda:.-	_	_	_	_	_	error	_	ContainsVariation=No	_	_	_	_	_	_
+1162-5	PSB042	1162	5	anda:-.	anda-	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling|Interrupted=Yes	_	3x1	_	_	_
 1162-6	PSB042	1162	6	col	col	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1162-7	PSB042	1162	7	papà	papà	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1162-8	PSB042	1162	8	de	de	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
