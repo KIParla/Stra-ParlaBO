@@ -10,7 +10,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 0-8	PSB142	0	8	po'	po'	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 0-9	PSB142	0	9	di	di	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 0-10	PSB142	0	10	fame	fame	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-0-11	PSB142	0	11	infa[tti]	infatti	_	_	_	_	_	linguistic	_	_	_	End=11.98	_	_	_	3-7(0)
+0-11	PSB142	0	11	infa[tti]	infatti	_	_	_	_	_	linguistic	_	_	_	End=11.98	_	_	_	4-7(0)
 1-0	PSB143	1	0	[ma	ma	_	_	_	_	_	linguistic	_	_	_	Begin=11.47	_	_	_	0-2(0)
 1-1	PSB143	1	1	fi]gurati	figurati	_	_	_	_	_	linguistic	_	_	_	End=12.86	_	_	_	0-2(0)
 2-0	PSB143	2	0	e:h	eh	_	_	_	_	_	linguistic	_	_	_	Begin=13.8	0x1	_	_	_
@@ -2032,8 +2032,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 308-10	PSB142	308	10	a	a	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 308-11	PSB142	308	11	casa	casa	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 308-12	PSB142	308	12	a	a	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-308-13	PSB142	308	13	stu[diare	studiare	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	1-8(58)
-308-14	PSB142	308	14	si]nceramente	sinceramente	_	_	_	_	_	linguistic	_	_	_	End=774.1	_	_	_	0-1(58)
+308-13	PSB142	308	13	stu[diare	studiare	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	3-8(58)
+308-14	PSB142	308	14	si]nceramente	sinceramente	_	_	_	_	_	linguistic	_	_	_	End=774.1	_	_	_	0-2(58)
 309-0	PSB143	309	0	[mhmh]	mhmh	_	_	_	_	_	linguistic	_	_	_	Begin=772.57|End=773.02	_	_	_	0-4(58)
 310-0	PSB143	310	0	sì	sì	_	_	_	_	_	linguistic	_	_	_	Begin=774.13|End=774.5	_	_	_	_
 311-0	PSB142	311	0	cioè	cioè	_	_	_	_	_	linguistic	_	_	_	Begin=774.51	_	_	_	_

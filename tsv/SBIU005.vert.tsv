@@ -127,8 +127,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 22-5	PSB019	22	5	all'	all'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 22-6	PSB019	22	6	univ~	univ~	_	_	_	_	_	linguistic	_	_	Interrupted=Yes	_	_	_	_	_
 22-7	PSB019	22	7	c(io)è	cioè	_	_	_	_	_	linguistic	_	_	Reduced=Yes	_	_	_	_	_
-22-8	PSB019	22	8	all'	all'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	Slow=3-4(0)	_	_
-22-9	PSB019	22	9	<università>	università	_	_	_	_	_	linguistic	_	_	_	_	_	Slow=0-9(0)	_	_
+22-8	PSB019	22	8	all'	all'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
+22-9	PSB019	22	9	<università>	università	_	_	_	_	_	linguistic	_	_	_	_	_	Slow=0-10(0)	_	_
 22-10	PSB019	22	10	quando	quando	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 22-11	PSB019	22	11	ho	ho	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 22-12	PSB019	22	12	fatto	fatto	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -917,8 +917,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 93-14	PSB019	93	14	s~	s~	_	_	_	_	_	linguistic	_	_	Interrupted=Yes	_	_	_	_	_
 93-15	PSB019	93	15	dall'	dall'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 93-16	PSB019	93	16	iran	iran	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-93-17	PSB019	93	17	ci	ci	_	_	_	_	_	linguistic	_	_	_	_	_	Slow=1-2(0)	_	_
-93-18	PSB019	93	18	<hanno>	hanno	_	_	_	_	_	linguistic	_	_	_	_	_	Slow=0-4(0)	_	_
+93-17	PSB019	93	17	ci	ci	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+93-18	PSB019	93	18	<hanno>	hanno	_	_	_	_	_	linguistic	_	_	_	_	_	Slow=0-5(0)	_	_
 93-19	PSB019	93	19	cacciato	cacciato	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 93-20	PSB019	93	20	che	che	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 93-21	PSB019	93	21	devo	devo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -1778,7 +1778,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 208-21	PSB019	208	21	accettato	accettato	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-9(0)	_	_
 208-22	PSB019	208	22	e	e	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-1(0)	_	_
 208-23	PSB019	208	23	così	così	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-4(0)	_	_
-208-24	PSB019	208	24	iniziato<	iniziato	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-6(0)	_	_
+208-24	PSB019	208	24	iniziato<	iniziato	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-8(0)	_	_
 208-25	PSB019	208	25	e	e	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 208-26	PSB019	208	26	ho	ho	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 208-27	PSB019	208	27	scoperto,	scoperto	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=630.657	_	_	_	_
@@ -2418,7 +2418,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 292-8	PSB005	292	8	in~	in~	_	_	_	_	_	linguistic	_	_	Interrupted=Yes	_	_	_	_	_
 292-9	PSB005	292	9	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 292-10	PSB005	292	10	interprete	interprete	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-292-11	PSB005	292	11	più	più	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	2-3(74)
+292-11	PSB005	292	11	più	più	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 292-12	PSB005	292	12	[che:]	che	_	_	_	_	_	linguistic	_	_	_	_	2x1	_	_	0-3(74)
 292-13	PSB005	292	13	la	la	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 292-14	PSB005	292	14	traduttrice	traduttrice	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -3162,7 +3162,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 394-4	PSB019	394	4	calabrese	calabrese	_	_	_	_	_	linguistic	_	_	_	End=1094.62	_	_	_	_
 395-0	PSB019	395	0	tra	tra	_	_	_	_	_	linguistic	_	_	_	Begin=1094.792	_	_	_	_
 395-1	PSB019	395	1	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
-395-2	PSB019	395	2	altr[o]	altro	_	_	_	_	_	linguistic	_	_	_	End=1095.301	_	_	_	3-5(109)
+395-2	PSB019	395	2	altr[o]	altro	_	_	_	_	_	linguistic	_	_	_	End=1095.301	_	_	_	4-5(109)
 396-0	PSB005	396	0	[e]	e	_	_	_	_	_	linguistic	_	_	_	Begin=1095.233	_	_	_	0-1(109)
 396-1	PSB005	396	1	ci~	ci~	_	_	_	_	_	linguistic	_	_	Interrupted=Yes	_	_	_	_	_
 396-2	PSB005	396	2	c(io)è	cioè	_	_	_	_	_	linguistic	_	_	Reduced=Yes	_	_	_	_	_
@@ -4015,7 +4015,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 511-4	PSB005	511	4	una	una	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 511-5	PSB005	511	5	scuola:	scuola	_	_	_	_	_	linguistic	_	_	_	_	5x1	_	_	_
 511-6	PSB005	511	6	in	in	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-511-7	PSB005	511	7	cala[bria]	calabria	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	3-8(139)
+511-7	PSB005	511	7	cala[bria]	calabria	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	4-8(139)
 511-8	PSB005	511	8	senza	senza	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 511-9	PSB005	511	9	parlare	parlare	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 511-10	PSB005	511	10	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
@@ -4863,8 +4863,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 624-12	PSB005	624	12	corso	corso	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 624-13	PSB005	624	13	di	di	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 624-14	PSB005	624	14	italiano	italiano	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-624-15	PSB005	624	15	p[er	per	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(145)
-624-16	PSB005	624	16	stranieri]?	stranieri	_	_	_	_	_	linguistic	_	_	Intonation=Rising	End=1678.039	_	_	_	0-8(145)
+624-15	PSB005	624	15	p[er	per	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	1-3(145)
+624-16	PSB005	624	16	stranieri]?	stranieri	_	_	_	_	_	linguistic	_	_	Intonation=Rising	End=1678.039	_	_	_	0-9(145)
 625-0	PSB019	625	0	[n:o]	no	_	_	_	_	_	linguistic	_	_	_	Begin=1677.442	0x1	_	_	0-2(145)
 625-1	PSB019	625	1	non	non	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 625-2	PSB019	625	2	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
@@ -5451,7 +5451,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 696-10	PSB019	696	10	ha	ha	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 696-11	PSB019	696	11	sposato	sposato	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 696-12	PSB019	696	12	un	un	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-696-13	PSB019	696	13	ravennat(e)	ravennate	_	_	_	_	_	linguistic	_	_	_	_	_	_	7-9(0)	_
+696-13	PSB019	696	13	ravennat(e)	ravennate	_	_	_	_	_	linguistic	_	_	_	_	_	_	8-9(0)	_
 696-14	PSB019	696	14	si	si	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 696-15	PSB019	696	15	son	son	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 696-16	PSB019	696	16	traferiti	traferiti	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -5567,7 +5567,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 707-11	PSB019	707	11	la	la	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 707-12	PSB019	707	12	capitale	capitale	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 707-13	PSB019	707	13	dell'	dell'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
-707-14	PSB019	707	14	i[mpero	impero	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-6(148)
+707-14	PSB019	707	14	i[mpero	impero	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	1-6(148)
 707-15	PSB019	707	15	romano]	romano	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-6(148)
 707-16	PSB019	707	16	sì	sì	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 707-17	PSB019	707	17	perché	perché	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -6373,8 +6373,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 810-19	PSB019	810	19	vabbè	vabbè	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	_	_	_	_	_
 810-20	PSB019	810	20	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	_
 810-21	PSB019	810	21	meglio	meglio	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-810-22	PSB019	810	22	che	che	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	2-3(163)
-810-23	PSB019	810	23	[torno]	torno	_	_	_	_	_	linguistic	_	_	_	End=2201.602	_	_	_	0-4(163)
+810-22	PSB019	810	22	che	che	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+810-23	PSB019	810	23	[torno]	torno	_	_	_	_	_	linguistic	_	_	_	End=2201.602	_	_	_	0-5(163)
 811-0	PSB005	811	0	[terribile]	terribile	_	_	_	_	_	linguistic	_	_	_	Begin=2201.092	_	_	_	0-9(163)
 811-1	PSB005	811	1	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	_	_	_	_	_	_	_
 811-2	PSB005	811	2	[è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-1(164)
@@ -6793,7 +6793,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 864-5	PSB005	864	5	legati:	legati	_	_	_	_	_	linguistic	_	_	_	_	5x1	_	_	_
 864-6	PSB005	864	6	diciamo	diciamo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 864-7	PSB005	864	7	all'	all'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
-864-8	PSB005	864	8	affitt[o	affitto	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	5-7(172)
+864-8	PSB005	864	8	affitt[o	affitto	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	6-7(172)
 864-9	PSB005	864	9	a:]	a	_	_	_	_	_	linguistic	_	_	_	End=2343.546	0x1	_	_	0-1(172)
 865-0	PSB019	865	0	[m:h]	mh	_	_	_	_	_	linguistic	_	_	_	Begin=2343.068	0x1	_	_	0-2(172)
 865-1	PSB019	865	1	no	no	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -7254,7 +7254,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 909-4	PSB019	909	4	hanno:	hanno	_	_	_	_	_	linguistic	_	_	_	_	4x1	_	_	_
 909-5	PSB019	909	5	dato	dato	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 909-6	PSB019	909	6	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
-909-7	PSB019	909	7	inde[terminato]	indeterminato	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	3-13(178)
+909-7	PSB019	909	7	inde[terminato]	indeterminato	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	4-13(178)
 909-8	PSB019	909	8	a	a	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 909-9	PSB019	909	9	lavoro	lavoro	_	_	_	_	_	linguistic	_	_	_	End=2482.964	_	_	_	_
 910-0	PSB005	910	0	[mhmh]	mhmh	_	_	_	_	_	linguistic	_	_	_	Begin=2481.921|End=2482.504	_	_	_	0-4(178)
@@ -7487,7 +7487,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 946-9	PSB019	946	9	ho	ho	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 946-10	PSB019	946	10	f~	f~	_	_	_	_	_	linguistic	_	_	Interrupted=Yes	_	_	_	_	_
 946-11	PSB019	946	11	sempre	sempre	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-946-12	PSB019	946	12	fa[tto	fatto	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	1-5(189)
+946-12	PSB019	946	12	fa[tto	fatto	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	2-5(189)
 946-13	PSB019	946	13	quindi:]	quindi	_	_	_	_	_	linguistic	_	_	_	_	5x1	_	_	0-6(189)
 946-14	PSB019	946	14	per	per	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 946-15	PSB019	946	15	me	me	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -8652,7 +8652,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1085-0	PSB019	1085	0	e:hm	ehm	_	_	_	_	_	linguistic	_	_	_	Begin=2911.784|End=2912.727	0x1	_	_	_
 1086-0	PSB019	1086	0	°parliamo	parliamo	_	_	_	_	_	linguistic	_	_	Volume=Low	Begin=2912.83	_	_	_	_
 1086-1	PSB019	1086	1	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No|Volume=Low	_	_	_	_	_
-1086-2	PSB019	1086	2	ucrain[o]°	ucraino	_	_	_	_	_	linguistic	_	_	Volume=Low	End=2914.074	_	_	_	5-7(22)
+1086-2	PSB019	1086	2	ucrain[o]°	ucraino	_	_	_	_	_	linguistic	_	_	Volume=Low	End=2914.074	_	_	_	6-7(22)
 1087-0	PSB005	1087	0	°[mh]mh°	mhmh	_	_	_	_	_	linguistic	_	_	Volume=Low	Begin=2913.912|End=2914.257	_	_	_	0-2(22)
 1088-0	PSB019	1088	0	°quindi	quindi	_	_	_	_	_	linguistic	_	_	Volume=Low	Begin=2914.36	_	_	_	_
 1088-1	PSB019	1088	1	un	un	_	_	_	_	_	linguistic	_	_	Volume=Low	_	_	_	_	_
@@ -9193,12 +9193,12 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1154-1	PSB019	1154	1	hanno	hanno	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1154-2	PSB019	1154	2	fatto	fatto	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1154-3	PSB019	1154	3	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
-1154-4	PSB019	1154	4	intervento	intervento	_	_	_	_	_	linguistic	_	_	_	_	_	Slow=9-10(0)	_	_
+1154-4	PSB019	1154	4	intervento	intervento	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1154-5	PSB019	1154	5	<lo	lo	_	_	_	_	_	linguistic	_	_	_	_	_	Slow=0-2(0)	_	_
 1154-6	PSB019	1154	6	volevano	volevano	_	_	_	_	_	linguistic	_	_	_	_	_	Slow=0-8(0)	_	_
 1154-7	PSB019	1154	7	mandare	mandare	_	_	_	_	_	linguistic	_	_	_	_	_	Slow=0-7(0)	_	_
 1154-8	PSB019	1154	8	di	di	_	_	_	_	_	linguistic	_	_	_	_	_	Slow=0-2(0)	_	_
-1154-9	PSB019	1154	9	nuovo>	nuovo	_	_	_	_	_	linguistic	_	_	_	End=3100.956	_	Slow=0-4(0)	_	_
+1154-9	PSB019	1154	9	nuovo>	nuovo	_	_	_	_	_	linguistic	_	_	_	End=3100.956	_	Slow=0-5(0)	_	_
 1155-0	PSB019	1155	0	ma	ma	_	_	_	_	_	linguistic	_	_	_	Begin=3101.263	_	_	_	_
 1155-1	PSB019	1155	1	una	una	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1155-2	PSB019	1155	2	cugina	cugina	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -9720,7 +9720,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1223-7	PSB005	1223	7	comunque	comunque	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1223-8	PSB005	1223	8	molta	molta	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1223-9	PSB005	1223	9	occupazione	occupazione	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-1223-10	PSB005	1223	10	tedesc[a:]	tedesca	_	_	_	_	_	linguistic	_	_	_	_	6x1	_	_	5-7(?)
+1223-10	PSB005	1223	10	tedesc[a:]	tedesca	_	_	_	_	_	linguistic	_	_	_	_	6x1	_	_	6-7(?)
 1223-11	PSB005	1223	11	[quindi]	quindi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-6(?)
 1223-12	PSB005	1223	12	hanno	hanno	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1223-13	PSB005	1223	13	tutte	tutte	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -9772,7 +9772,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1233-5	PSB005	1233	5	presa:	presa	_	_	_	_	_	linguistic	_	_	_	_	4x1	_	_	_
 1233-6	PSB005	1233	6	tipo	tipo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1233-7	PSB005	1233	7	al	al	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-1233-8	PSB005	1233	8	gattil[e]:?	gattile	_	_	_	_	_	linguistic	_	_	Intonation=Rising	End=3298.179	6x1	_	_	5-7(53)
+1233-8	PSB005	1233	8	gattil[e]:?	gattile	_	_	_	_	_	linguistic	_	_	Intonation=Rising	End=3298.179	6x1	_	_	6-7(53)
 1234-0	PSB019	1234	0	[no]	no	_	_	_	_	_	linguistic	_	_	_	Begin=3297.694	_	_	_	0-2(53)
 1234-1	PSB019	1234	1	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 1234-2	PSB019	1234	2	hanno	hanno	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -10369,7 +10369,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1312-6	PSB005	1312	6	industria	industria	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1312-7	PSB005	1312	7	molto:	molto	_	_	_	_	_	linguistic	_	_	_	_	4x1	_	_	_
 1312-8	PSB005	1312	8	intensiva	intensiva	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-1312-9	PSB005	1312	9	mas[siccia]	massiccia	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	2-9(72)
+1312-9	PSB005	1312	9	mas[siccia]	massiccia	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	3-9(72)
 1312-10	PSB005	1312	10	no?	no	_	_	_	_	_	linguistic	_	_	Intonation=Rising	End=3492.062	_	_	_	_
 1313-0	PSB019	1313	0	[mh]	mh	_	_	_	_	_	linguistic	_	_	_	Begin=3491.374|End=3491.879	_	_	_	0-2(72)
 1314-0	PSB005	1314	0	però	però	_	_	_	_	_	linguistic	_	_	_	Begin=3492.616	_	_	_	_

@@ -68,7 +68,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 16-2	PSB054	16	2	rimane	rimane	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 16-3	PSB054	16	3	[all'	all'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	0-4(3)
 16-4	PSB054	16	4	unive]rsità	università	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-5(3)
-16-5	PSB054	16	5	ec[co]	ecco	_	_	_	_	_	linguistic	_	_	_	End=36.222	_	_	_	1-4(4)
+16-5	PSB054	16	5	ec[co]	ecco	_	_	_	_	_	linguistic	_	_	_	End=36.222	_	_	_	2-4(4)
 17-0	PSB051	17	0	[okay]	okay	_	_	_	_	_	linguistic	_	_	_	Begin=34.993|End=35.367	_	_	_	0-4(3)
 18-0	PSB051	18	0	[oka]y	okay	_	_	_	_	_	linguistic	_	_	_	Begin=36.013	_	_	_	0-3(4)
 18-1	PSB051	18	1	okay	okay	_	_	_	_	_	linguistic	_	_	_	End=36.653	_	_	_	_
@@ -546,7 +546,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 138-8	PSB028	138	8	piacerebbe	piacerebbe	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 138-9	PSB028	138	9	anda:re	andare	_	_	_	_	_	linguistic	_	_	_	_	3x1	_	_	_
 138-10	PSB028	138	10	o:	o	_	_	_	_	_	linguistic	_	_	_	_	0x1	_	_	_
-138-11	PSB028	138	11	per	per	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	2-3(26)
+138-11	PSB028	138	11	per	per	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 138-12	PSB028	138	12	[ora:]	ora	_	_	_	_	_	linguistic	_	_	_	End=262.733	2x1	_	_	0-3(26)
 139-0	PSB051	139	0	[m:h]	mh	_	_	_	_	_	linguistic	_	_	_	Begin=261.841	0x1	_	_	0-2(26)
 139-1	PSB051	139	1	no	no	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -1742,7 +1742,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 471-5	PSB051	471	5	università	università	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 471-6	PSB051	471	6	come	come	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 471-7	PSB051	471	7	sant'	sant'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
-471-8	PSB051	471	8	or[sola]	orsola	_	_	_	_	_	linguistic	_	_	_	End=889.787	_	_	_	1-6(114)
+471-8	PSB051	471	8	or[sola]	orsola	_	_	_	_	_	linguistic	_	_	_	End=889.787	_	_	_	2-6(114)
 472-0	PSB054	472	0	[okay]	okay	_	_	_	_	_	linguistic	_	_	_	Begin=885.453|End=886.16	_	_	_	0-4(112)
 473-0	PSB054	473	0	[mhmh]	mhmh	_	_	_	_	_	linguistic	_	_	_	Begin=886.567|End=887.333	_	_	_	0-4(113)
 474-0	PSB054	474	0	[sì]	sì	_	_	_	_	_	linguistic	_	_	_	Begin=889.543	_	_	_	0-2(114)
@@ -2223,7 +2223,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 579-1	PSB028	579	1	no	no	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 579-2	PSB028	579	2	c'	c'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 579-3	PSB028	579	3	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-579-4	PSB028	579	4	anch[e:]	anche	_	_	_	_	_	linguistic	_	_	_	End=1142.47	4x1	_	_	3-5(137)
+579-4	PSB028	579	4	anch[e:]	anche	_	_	_	_	_	linguistic	_	_	_	End=1142.47	4x1	_	_	4-5(137)
 580-0	PSB054	580	0	[c'	c'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	Begin=1142.186	_	_	_	0-2(137)
 580-1	PSB054	580	1	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-1(137)
 580-2	PSB054	580	2	il]	il	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(137)

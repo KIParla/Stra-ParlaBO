@@ -201,7 +201,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 29-13	PSB136	29	13	visto	visto	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-5(4)
 29-14	PSB136	29	14	che	che	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(4)
 29-15	PSB136	29	15	c'	c'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	0-2(4)
-29-16	PSB136	29	16	era]	era	_	_	_	_	_	linguistic	_	_	_	End=70.785	_	_	_	0-2(4)
+29-16	PSB136	29	16	era]	era	_	_	_	_	_	linguistic	_	_	_	End=70.785	_	_	_	0-3(4)
 30-0	PSB137	30	0	[l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	Begin=69.899	_	_	_	0-2(4)
 30-1	PSB137	30	1	altra:]	altra	_	_	_	_	_	linguistic	_	_	_	_	4x1	_	_	0-5(4)
 30-2	PSB137	30	2	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -293,7 +293,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 43-13	PSB137	43	13	di	di	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 43-14	PSB137	43	14	una	una	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	_	_	_	_	_
 43-15	PSB137	43	15	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	_
-43-16	PSB137	43	16	[fi]glia	figlia	_	_	_	_	_	linguistic	_	_	_	End=108.142	_	_	_	0-1(6)
+43-16	PSB137	43	16	[fi]glia	figlia	_	_	_	_	_	linguistic	_	_	_	End=108.142	_	_	_	0-2(6)
 44-0	PSB136	44	0	[mh]	mh	_	_	_	_	_	linguistic	_	_	_	Begin=107.53|End=107.83	_	_	_	0-2(6)
 45-0	PSB136	45	0	a:h	ah	_	_	_	_	_	linguistic	_	_	_	Begin=108.557	0x1	_	_	_
 45-1	PSB136	45	1	okay	okay	_	_	_	_	_	linguistic	_	_	_	End=109.227	_	_	_	_
@@ -304,8 +304,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 48-1	PSB137	48	1	c'	c'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 48-2	PSB137	48	2	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 48-3	PSB137	48	3	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
-48-4	PSB137	48	4	evoluzione	evoluzione	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=9-10(0)	_	_
-48-5	PSB137	48	5	>diciamo<	diciamo	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-6(0)	_	_
+48-4	PSB137	48	4	evoluzione	evoluzione	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+48-5	PSB137	48	5	>diciamo<	diciamo	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-7(0)	_	_
 48-6	PSB137	48	6	della	della	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 48-7	PSB137	48	7	storia	storia	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 48-8	PSB137	48	8	d'	d'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
@@ -459,7 +459,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 67-6	PSB136	67	6	storia	storia	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 67-7	PSB136	67	7	tipo	tipo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 67-8	PSB136	67	8	di	di	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-67-9	PSB136	67	9	innamoram[ento]?	innamoramento	_	_	_	_	_	linguistic	_	_	Intonation=Rising	End=155.63	_	_	_	8-13(11)
+67-9	PSB136	67	9	innamoram[ento]?	innamoramento	_	_	_	_	_	linguistic	_	_	Intonation=Rising	End=155.63	_	_	_	9-13(11)
 68-0	PSB137	68	0	[sì]	sì	_	_	_	_	_	linguistic	_	_	_	Begin=155.25|End=155.59	_	_	_	0-2(11)
 69-0	PSB136	69	0	okay	okay	_	_	_	_	_	linguistic	_	_	_	Begin=155.81|End=156.27	_	_	_	_
 70-0	PSB137	70	0	sì	sì	_	_	_	_	_	linguistic	_	_	_	Begin=156.85	_	_	_	_
@@ -2643,7 +2643,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 392-11	PSB137	392	11	molto	molto	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 392-12	PSB137	392	12	piccola	piccola	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 392-13	PSB137	392	13	cioè	cioè	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-392-14	PSB137	392	14	tipo[::]	tipo	_	_	_	_	_	linguistic	_	_	_	End=951.14	3x2	_	_	3-4(57)
+392-14	PSB137	392	14	tipo[::]	tipo	_	_	_	_	_	linguistic	_	_	_	End=951.14	3x2	_	_	_
 393-0	PSB136	393	0	[pu]re	pure	_	_	_	_	_	linguistic	_	_	_	Begin=950.91|End=951.36	_	_	_	0-2(57)
 394-0	PSB137	394	0	tipo	tipo	_	_	_	_	_	linguistic	_	_	_	Begin=952.3	_	_	_	_
 394-1	PSB137	394	1	grande	grande	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -4304,7 +4304,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 586-16	PSB137	586	16	appesa	appesa	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	_	_	_	_	_
 586-17	PSB137	586	17	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	_
 586-18	PSB137	586	18	alla	alla	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-586-19	PSB137	586	19	bottigliet[ta]	bottiglietta	_	_	_	_	_	linguistic	_	_	_	End=1520.88	_	_	_	8-11(87)
+586-19	PSB137	586	19	bottigliet[ta]	bottiglietta	_	_	_	_	_	linguistic	_	_	_	End=1520.88	_	_	_	10-12(87)
 587-0	PSB136	587	0	[o]kay	okay	_	_	_	_	_	linguistic	_	_	_	Begin=1520.73|End=1521.3	_	_	_	0-1(87)
 588-0	PSB137	588	0	e	e	_	_	_	_	_	linguistic	_	_	_	Begin=1521.92	_	_	_	_
 588-1	PSB137	588	1	quindi	quindi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -4851,7 +4851,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 653-6	PSB137	653	6	c'	c'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 653-7	PSB137	653	7	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 653-8	PSB137	653	8	avocado	avocado	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-653-9	PSB137	653	9	salmone[:]	salmone	_	_	_	_	_	linguistic	_	_	_	End=1713.84	6x1	_	_	5-7(98)
+653-9	PSB137	653	9	salmone[:]	salmone	_	_	_	_	_	linguistic	_	_	_	End=1713.84	6x1	_	_	_
 654-0	PSB136	654	0	[ah	ah	_	_	_	_	_	linguistic	_	_	_	Begin=1713.57	_	_	_	0-2(98)
 654-1	PSB136	654	1	o]kay	okay	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-1(98)
 654-2	PSB136	654	2	quindi	quindi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -5096,14 +5096,14 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 673-5	PSB136	673	5	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 673-6	PSB136	673	6	la	la	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 673-7	PSB136	673	7	goccia	goccia	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-673-8	PSB136	673	8	d'	d'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	1-2(101)
+673-8	PSB136	673	8	d'	d'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 673-9	PSB136	673	9	[acqua	acqua	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-5(101)
 673-10	PSB136	673	10	che	che	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(101)
 673-11	PSB136	673	11	non	non	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(101)
 673-12	PSB136	673	12	sai	sai	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(101)
 673-13	PSB136	673	13	perché	perché	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-6(101)
 673-14	PSB136	673	14	ci	ci	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(101)
-673-15	PSB136	673	15	sia]	sia	_	_	_	_	_	linguistic	_	_	_	End=1794.12	_	_	_	0-2(101)
+673-15	PSB136	673	15	sia]	sia	_	_	_	_	_	linguistic	_	_	_	End=1794.12	_	_	_	0-3(101)
 674-0	PSB137	674	0	[è	è	_	_	_	_	_	linguistic	_	_	_	Begin=1792.73	_	_	_	0-1(101)
 674-1	PSB137	674	1	macchiato	macchiato	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-9(101)
 674-2	PSB137	674	2	di	di	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(101)
@@ -5149,7 +5149,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 677-17	PSB137	677	17	il	il	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 677-18	PSB137	677	18	servizio	servizio	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 677-19	PSB137	677	19	buono	buono	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-677-20	PSB137	677	20	ecce[tera]	eccetera	_	_	_	_	_	linguistic	_	_	_	End=1807.91	_	_	_	3-8(103)
+677-20	PSB137	677	20	ecce[tera]	eccetera	_	_	_	_	_	linguistic	_	_	_	End=1807.91	_	_	_	4-8(103)
 678-0	PSB136	678	0	[te	te	_	_	_	_	_	linguistic	_	_	_	Begin=1807.52	_	_	_	0-2(103)
 678-1	PSB136	678	1	lo]	lo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(103)
 678-2	PSB136	678	2	fanno	fanno	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -5943,7 +5943,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 760-12	PSB137	760	12	ristorante	ristorante	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 760-13	PSB137	760	13	molto	molto	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 760-14	PSB137	760	14	#fancy	fancy	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-760-15	PSB137	760	15	dicia[mo]	diciamo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	End=2075.46	_	_	_	4-7(122)
+760-15	PSB137	760	15	dicia[mo]	diciamo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	End=2075.46	_	_	_	5-7(122)
 761-0	PSB136	761	0	[ah]	ah	_	_	_	_	_	linguistic	_	_	_	Begin=2074.86|End=2075.22	_	_	_	0-2(122)
 762-0	PSB137	762	0	tipo	tipo	_	_	_	_	_	linguistic	_	_	_	Begin=2075.97	_	_	_	_
 762-1	PSB137	762	1	che	che	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_

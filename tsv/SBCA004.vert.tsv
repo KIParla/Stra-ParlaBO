@@ -116,10 +116,10 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 17-12	PSB100	17	12	detto	detto	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	_	_	_	_	_
 17-13	PSB100	17	13	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	_
 17-14	PSB100	17	14	sto	sto	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-17-15	PSB100	17	15	sparando	sparando	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	7-8(5)
+17-15	PSB100	17	15	sparando	sparando	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 17-16	PSB100	17	16	[soltanto	soltanto	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-8(5)
 17-17	PSB100	17	17	delle	delle	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-5(5)
-17-18	PSB100	17	18	gra~]	gra~	_	_	_	_	_	linguistic	_	_	Interrupted=Yes	End=50.53	_	_	_	0-3(5)
+17-18	PSB100	17	18	gra~]	gra~	_	_	_	_	_	linguistic	_	_	Interrupted=Yes	End=50.53	_	_	_	0-4(5)
 18-0	PSB099	18	0	[tu	tu	_	_	_	_	_	linguistic	_	_	_	Begin=49.25	_	_	_	0-2(5)
 18-1	PSB099	18	1	ti	ti	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(5)
 18-2	PSB099	18	2	devi	devi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-4(5)
@@ -731,7 +731,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 81-14	PSB099	81	14	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	0-2(24)
 81-15	PSB099	81	15	ho	ho	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(24)
 81-16	PSB099	81	16	detto	detto	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-5(24)
-81-17	PSB099	81	17	io]	io	_	_	_	_	_	linguistic	_	_	_	End=240.68	_	_	_	0-1(24)
+81-17	PSB099	81	17	io]	io	_	_	_	_	_	linguistic	_	_	_	End=240.68	_	_	_	0-2(24)
 82-0	PSB100	82	0	[aspetta]	aspetta	_	_	_	_	_	linguistic	_	_	_	Begin=237.4|End=237.9	_	_	_	0-7(22)
 83-0	PSB100	83	0	[mh]	mh	_	_	_	_	_	linguistic	_	_	_	Begin=238.31|End=238.68	_	_	_	0-2(23)
 84-0	PSB100	84	0	[sì	sì	_	_	_	_	_	linguistic	_	_	_	Begin=239.34	_	_	_	0-2(24)
@@ -1413,8 +1413,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 143-17	PSB099	143	17	ho	ho	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 143-18	PSB099	143	18	una	una	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 143-19	PSB099	143	19	bella	bella	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-143-20	PSB099	143	20	perso[nalità	personalità	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	3-11(40)
-143-21	PSB099	143	21	che]	che	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	_	_	_	_	0-2(40)
+143-20	PSB099	143	20	perso[nalità	personalità	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	5-11(40)
+143-21	PSB099	143	21	che]	che	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	_	_	_	_	0-3(40)
 143-22	PSB099	143	22	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	_
 143-23	PSB099	143	23	cioè	cioè	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 143-24	PSB099	143	24	mi	mi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -2054,15 +2054,15 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 212-13	PSB100	212	13	c'	c'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	0-2(62)
 212-14	PSB100	212	14	ho	ho	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(62)
 212-15	PSB100	212	15	mica	mica	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-4(62)
-212-16	PSB100	212	16	ques]ta	questa	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(62)
+212-16	PSB100	212	16	ques]ta	questa	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-4(62)
 212-17	PSB100	212	17	fortuna	fortuna	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 212-18	PSB100	212	18	come	come	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 212-19	PSB100	212	19	te	te	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 212-20	PSB100	212	20	che	che	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 212-21	PSB100	212	21	sai	sai	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 212-22	PSB100	212	22	molte	molte	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-212-23	PSB100	212	23	lingue	lingue	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	5-6(63)
-212-24	PSB100	212	24	[io]	io	_	_	_	_	_	linguistic	_	_	_	End=630.19	_	_	_	0-1(63)
+212-23	PSB100	212	23	lingue	lingue	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+212-24	PSB100	212	24	[io]	io	_	_	_	_	_	linguistic	_	_	_	End=630.19	_	_	_	0-2(63)
 213-0	PSB099	213	0	#_ [je	je	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=623.9	_	_	_	0-2(62)
 213-1	PSB099	213	1	suis	suis	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-4(62)
 213-2	PSB099	213	2	désolée	désolée	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	PauseAfter=Yes	_	_	_	_	0-7(62)
@@ -2203,7 +2203,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 231-4	PSB099	231	4	lo	lo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 231-5	PSB099	231	5	impari	impari	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 231-6	PSB099	231	6	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
-231-7	PSB099	231	7	ingl[ese]	inglese	_	_	_	_	_	linguistic	_	_	_	End=664.55	_	_	_	3-7(71)
+231-7	PSB099	231	7	ingl[ese]	inglese	_	_	_	_	_	linguistic	_	_	_	End=664.55	_	_	_	4-7(71)
 232-0	PSB100	232	0	[s]ì	sì	_	_	_	_	_	linguistic	_	_	_	Begin=664.37	_	_	_	0-1(71)
 232-1	PSB100	232	1	ma	ma	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 232-2	PSB100	232	2	anche	anche	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -2478,7 +2478,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 269-5	PSB100	269	5	campo	campo	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	_	_	_	_	_
 269-6	PSB100	269	6	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	_
 269-7	PSB100	269	7	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
-269-8	PSB100	269	8	ingegne[ria]	ingegneria	_	_	_	_	_	linguistic	_	_	_	End=751.95	_	_	_	6-10(82)
+269-8	PSB100	269	8	ingegne[ria]	ingegneria	_	_	_	_	_	linguistic	_	_	_	End=751.95	_	_	_	7-10(82)
 270-0	PSB099	270	0	[ma]	ma	_	_	_	_	_	linguistic	_	_	_	Begin=751.68	_	_	_	0-2(82)
 270-1	PSB099	270	1	va	va	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 270-2	PSB099	270	2	là	là	_	_	_	_	_	linguistic	_	_	_	End=752.587	_	_	_	_
@@ -3257,7 +3257,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 375-12	PSB099	375	12	quest'	quest'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	0-6(109)
 375-13	PSB099	375	13	anno	anno	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-4(109)
 375-14	PSB099	375	14	anche	anche	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-5(109)
-375-15	PSB099	375	15	se]	se	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-1(109)
+375-15	PSB099	375	15	se]	se	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(109)
 375-16	PSB099	375	16	dura:	dura	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	_	3x1	_	_	_
 375-17	PSB099	375	17	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	_
 375-18	PSB099	375	18	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -3494,7 +3494,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 410-15	PSB099	410	15	bl~	bl~	_	_	_	_	_	linguistic	_	_	Interrupted=Yes	_	_	_	_	_
 410-16	PSB099	410	16	non	non	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 410-17	PSB099	410	17	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-410-18	PSB099	410	18	ar[rivato]	arrivato	_	_	_	_	_	linguistic	_	_	_	End=1108.82	_	_	_	1-8(121)
+410-18	PSB099	410	18	ar[rivato]	arrivato	_	_	_	_	_	linguistic	_	_	_	End=1108.82	_	_	_	2-8(121)
 411-0	PSB100	411	0	[non	non	_	_	_	_	_	linguistic	_	_	_	Begin=1104.47	_	_	_	0-3(120)
 411-1	PSB100	411	1	ho	ho	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(120)
 411-2	PSB100	411	2	il	il	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(120)
@@ -3608,8 +3608,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 426-9	PSB100	426	9	abisso	abisso	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 426-10	PSB100	426	10	eh	eh	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 426-11	PSB100	426	11	tra	tra	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-426-12	PSB100	426	12	i	i	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-1(130)
-426-13	PSB100	426	13	[due]	due	_	_	_	_	_	linguistic	_	_	_	End=1135.61	_	_	_	0-2(130)
+426-12	PSB100	426	12	i	i	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+426-13	PSB100	426	13	[due]	due	_	_	_	_	_	linguistic	_	_	_	End=1135.61	_	_	_	0-3(130)
 427-0	PSB099	427	0	[con	con	_	_	_	_	_	linguistic	_	_	_	Begin=1135.34	_	_	_	0-3(130)
 427-1	PSB099	427	1	i]	i	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-1(130)
 427-2	PSB099	427	2	duemila	duemila	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -3843,7 +3843,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 460-19	PSB099	460	19	faccio	faccio	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 460-20	PSB099	460	20	cioè	cioè	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 460-21	PSB099	460	21	oppure	oppure	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-460-22	PSB099	460	22	fac[cio	faccio	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	2-6(145)
+460-22	PSB099	460	22	fac[cio	faccio	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	3-6(145)
 460-23	PSB099	460	23	i	i	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-1(145)
 460-24	PSB099	460	24	viaggi	viaggi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-6(145)
 460-25	PSB099	460	25	piccoli	piccoli	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-7(145)
@@ -3880,7 +3880,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 464-13	PSB099	464	13	euro	euro	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 464-14	PSB099	464	14	per	per	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 464-15	PSB099	464	15	un	un	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-464-16	PSB099	464	16	viag[gio]	viaggio	_	_	_	_	_	linguistic	_	_	_	End=1211.42	_	_	_	3-7(147)
+464-16	PSB099	464	16	viag[gio]	viaggio	_	_	_	_	_	linguistic	_	_	_	End=1211.42	_	_	_	4-7(147)
 465-0	PSB100	465	0	[no]	no	_	_	_	_	_	linguistic	_	_	_	Begin=1211.3	_	_	_	0-2(147)
 465-1	PSB100	465	1	no	no	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 465-2	PSB100	465	2	ma	ma	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -5706,7 +5706,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 660-7	PSB099	660	7	tuoi	tuoi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 660-8	PSB099	660	8	anche	anche	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 660-9	PSB099	660	9	se	se	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-660-10	PSB099	660	10	aves[si	avessi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	3-6(197)
+660-10	PSB099	660	10	aves[si	avessi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	4-6(197)
 660-11	PSB099	660	11	quattordici	quattordici	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-11(197)
 660-12	PSB099	660	12	cioè	cioè	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-4(197)
 660-13	PSB099	660	13	non	non	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(197)
@@ -5908,7 +5908,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 678-16	PSB099	678	16	al	al	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 678-17	PSB099	678	17	posto	posto	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 678-18	PSB099	678	18	di	di	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-678-19	PSB099	678	19	sar[a]	sara	_	_	_	_	_	linguistic	_	_	_	End=1745.73	_	_	_	2-4(200)
+678-19	PSB099	678	19	sar[a]	sara	_	_	_	_	_	linguistic	_	_	_	End=1745.73	_	_	_	3-4(200)
 679-0	PSB100	679	0	[ah	ah	_	_	_	_	_	linguistic	_	_	_	Begin=1743.91	_	_	_	0-2(201)
 679-1	PSB100	679	1	beh]	beh	_	_	_	_	_	linguistic	_	_	_	End=1744.35	_	_	_	0-3(201)
 680-0	PSB100	680	0	[ah]	ah	_	_	_	_	_	linguistic	_	_	_	Begin=1745.59|End=1745.86	_	_	_	0-2(200)

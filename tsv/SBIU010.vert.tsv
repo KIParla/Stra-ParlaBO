@@ -1874,7 +1874,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 306-0	PSB070	306	0	all'	all'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	Begin=881.245	_	_	_	_
 306-1	PSB070	306	1	epoca	epoca	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 306-2	PSB070	306	2	era	era	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-306-3	PSB070	306	3	tranquil[lissima]	tranquillissima	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	7-15(81)
+306-3	PSB070	306	3	tranquil[lissima]	tranquillissima	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	8-15(81)
 306-4	PSB070	306	4	c(io)è	cioè	_	_	_	_	_	linguistic	_	_	Reduced=Yes	_	_	_	_	_
 306-5	PSB070	306	5	anche	anche	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 306-6	PSB070	306	6	alle	alle	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -2947,7 +2947,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 507-12	PSB070	507	12	carabineri	carabineri	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 507-13	PSB070	507	13	o	o	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 507-14	PSB070	507	14	della	della	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-507-15	PSB070	507	15	poli[zia	polizia	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	3-7(140)
+507-15	PSB070	507	15	poli[zia	polizia	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	4-7(140)
 507-16	PSB070	507	16	di	di	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(140)
 507-17	PSB070	507	17	sta]to	stato	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(140)
 507-18	PSB070	507	18	(i)nsomma	insomma	_	_	_	_	_	linguistic	_	_	_	End=1412.781	_	_	0-1(0)	_
@@ -3335,7 +3335,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 573-8	PSB070	573	8	e	e	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 573-9	PSB070	573	9	della	della	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 573-10	PSB070	573	10	pubblica	pubblica	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-573-11	PSB070	573	11	assisten[za]	assistenza	_	_	_	_	_	linguistic	_	_	_	End=1601.702	_	_	_	7-10(150)
+573-11	PSB070	573	11	assisten[za]	assistenza	_	_	_	_	_	linguistic	_	_	_	End=1601.702	_	_	_	8-10(150)
 574-0	PSB005	574	0	[mhmh]	mhmh	_	_	_	_	_	linguistic	_	_	_	Begin=1599.989|End=1600.365	_	_	_	0-4(149)
 575-0	PSB005	575	0	[mh]mhmh	mhmhmh	_	_	_	_	_	linguistic	_	_	_	Begin=1601.38|End=1602.013	_	_	_	0-2(150)
 576-0	PSB005	576	0	sì	sì	_	_	_	_	_	linguistic	_	_	_	Begin=1602.81	_	_	_	_
@@ -4086,14 +4086,14 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 717-11	PSB005	717	11	in	in	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 717-12	PSB005	717	12	difficoltà	difficoltà	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 717-13	PSB005	717	13	>all'	all'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	Fast=0-4(0)	_	_
-717-14	PSB005	717	14	inizio<	inizio	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-5(0)	_	_
+717-14	PSB005	717	14	inizio<	inizio	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-6(0)	_	_
 717-15	PSB005	717	15	capisco	capisco	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 717-16	PSB005	717	16	che	che	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 717-17	PSB005	717	17	devi	devi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 717-18	PSB005	717	18	pensare	pensare	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 717-19	PSB005	717	19	molto:	molto	_	_	_	_	_	linguistic	_	_	_	_	4x1	_	_	_
-717-20	PSB005	717	20	indietro	indietro	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	7-8(168)
-717-21	PSB005	717	21	[però]	però	_	_	_	_	_	linguistic	_	_	_	End=1982.809	_	_	_	0-3(168)
+717-20	PSB005	717	20	indietro	indietro	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+717-21	PSB005	717	21	[però]	però	_	_	_	_	_	linguistic	_	_	_	End=1982.809	_	_	_	0-4(168)
 718-0	PSB070	718	0	[la	la	_	_	_	_	_	linguistic	_	_	_	Begin=1982.298	_	_	_	0-2(168)
 718-1	PSB070	718	1	mia	mia	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(168)
 718-2	PSB070	718	2	fortu]na	fortuna	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-5(168)
@@ -4829,7 +4829,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 846-0	PSB070	846	0	durante	durante	_	_	_	_	_	linguistic	_	_	_	Begin=2317.192	_	_	_	_
 846-1	PSB070	846	1	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 846-2	PSB070	846	2	epoca	epoca	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-846-3	PSB070	846	3	sovie[tica]	sovietica	_	_	_	_	_	linguistic	_	_	_	End=2319.053	_	_	_	4-9(184)
+846-3	PSB070	846	3	sovie[tica]	sovietica	_	_	_	_	_	linguistic	_	_	_	End=2319.053	_	_	_	5-9(184)
 847-0	PSB005	847	0	[certo]	certo	_	_	_	_	_	linguistic	_	_	_	Begin=2318.596	_	_	_	0-5(184)
 847-1	PSB005	847	1	sì	sì	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 847-2	PSB005	847	2	s[ì]	sì	_	_	_	_	_	linguistic	_	_	_	End=2319.532	_	_	_	1-2(185)
@@ -4846,7 +4846,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 850-0	PSB070	850	0	all'	all'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	Begin=2323.117	_	_	_	_
 850-1	PSB070	850	1	ovest	ovest	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 850-2	PSB070	850	2	dell'	dell'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
-850-3	PSB070	850	3	ucra[ina]	ucraina	_	_	_	_	_	linguistic	_	_	_	End=2324.287	_	_	_	2-6(187)
+850-3	PSB070	850	3	ucra[ina]	ucraina	_	_	_	_	_	linguistic	_	_	_	End=2324.287	_	_	_	4-7(187)
 851-0	PSB005	851	0	[sì	sì	_	_	_	_	_	linguistic	_	_	_	Begin=2323.904	_	_	_	0-2(187)
 851-1	PSB005	851	1	sì]	sì	_	_	_	_	_	linguistic	_	_	_	End=2324.266	_	_	_	0-2(187)
 852-0	PSB070	852	0	i	i	_	_	_	_	_	linguistic	_	_	_	Begin=2324.585	_	_	_	_
@@ -5296,9 +5296,9 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 945-5	PSB005	945	5	comunità	comunità	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 945-6	PSB005	945	6	italiana:	italiana	_	_	_	_	_	linguistic	_	_	_	_	7x1	_	_	_
 945-7	PSB005	945	7	nell'	nell'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
-945-8	PSB005	945	8	ov[est	ovest	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-5(205)
+945-8	PSB005	945	8	ov[est	ovest	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	2-5(205)
 945-9	PSB005	945	9	dell'	dell'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	0-5(205)
-945-10	PSB005	945	10	ucrai]na	ucraina	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(205)
+945-10	PSB005	945	10	ucrai]na	ucraina	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-5(205)
 945-11	PSB005	945	11	sì	sì	_	_	_	_	_	linguistic	_	_	_	End=2521.798	_	_	_	_
 946-0	PSB070	946	0	[in	in	_	_	_	_	_	linguistic	_	_	_	Begin=2520.628	_	_	_	0-2(205)
 946-1	PSB070	946	1	ucraina]	ucraina	_	_	_	_	_	linguistic	_	_	_	End=2521.287	_	_	_	0-7(205)
@@ -5917,7 +5917,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1068-4	PSB070	1068	4	emilia:	emilia	_	_	_	_	_	linguistic	_	_	_	_	5x1	_	_	_
 1068-5	PSB070	1068	5	pone~	pone~	_	_	_	_	_	linguistic	_	_	Interrupted=Yes	_	_	_	_	_
 1068-6	PSB070	1068	6	via	via	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-1068-7	PSB070	1068	7	e[milia	emilia	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-6(9)
+1068-7	PSB070	1068	7	e[milia	emilia	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	1-6(9)
 1068-8	PSB070	1068	8	pone]nte:	ponente	_	_	_	_	_	linguistic	_	_	_	_	6x1	_	_	0-4(9)
 1068-9	PSB070	1068	9	così	così	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1068-10	PSB070	1068	10	insomma	insomma	_	_	_	_	_	linguistic	_	_	_	End=2831.617	_	_	_	_
@@ -6147,7 +6147,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1105-7	PSB005	1105	7	parti	parti	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1105-8	PSB005	1105	8	c'	c'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 1105-9	PSB005	1105	9	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-1105-10	PSB005	1105	10	molt[a:	molta	_	_	_	_	_	linguistic	_	_	_	_	4x1	_	_	3-5(22)
+1105-10	PSB005	1105	10	molt[a:	molta	_	_	_	_	_	linguistic	_	_	_	_	4x1	_	_	4-5(22)
 1105-11	PSB005	1105	11	disagio]?	disagio	_	_	_	_	_	linguistic	_	_	Intonation=Rising	End=2902.809	_	_	_	0-7(22)
 1106-0	PSB070	1106	0	[ci	ci	_	_	_	_	_	linguistic	_	_	_	Begin=2901.787	_	_	_	0-2(22)
 1106-1	PSB070	1106	1	siamo	siamo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-5(22)
@@ -6155,7 +6155,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1107-0	PSB005	1107	0	c'	c'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	Begin=2903.011	_	_	_	_
 1107-1	PSB005	1107	1	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1107-2	PSB005	1107	2	molto	molto	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-1107-3	PSB005	1107	3	di[sagio]?	disagio	_	_	_	_	_	linguistic	_	_	Intonation=Rising	End=2904.011	_	_	_	1-7(23)
+1107-3	PSB005	1107	3	di[sagio]?	disagio	_	_	_	_	_	linguistic	_	_	Intonation=Rising	End=2904.011	_	_	_	2-7(23)
 1108-0	PSB070	1108	0	[ci	ci	_	_	_	_	_	linguistic	_	_	_	Begin=2903.415	_	_	_	0-2(23)
 1108-1	PSB070	1108	1	siamo	siamo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-5(23)
 1108-2	PSB070	1108	2	abitua]ti	abituati	_	_	_	_	_	linguistic	_	_	_	End=2904.402	_	_	_	0-6(23)
@@ -6197,7 +6197,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1117-4	PSB005	1117	4	atra	atra	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1117-5	PSB005	1117	5	zona	zona	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1117-6	PSB005	1117	6	che	che	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-1117-7	PSB005	1117	7	pre[feriresti]	preferiresti	_	_	_	_	_	linguistic	_	_	_	End=2919.809	_	_	_	1-11(27)
+1117-7	PSB005	1117	7	pre[feriresti]	preferiresti	_	_	_	_	_	linguistic	_	_	_	End=2919.809	_	_	_	3-12(27)
 1118-0	PSB070	1118	0	[allora	allora	_	_	_	_	_	linguistic	_	_	_	Begin=2919.021	_	_	_	0-6(27)
 1118-1	PSB070	1118	1	io]	io	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(27)
 1118-2	PSB070	1118	2	eh	eh	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -6795,7 +6795,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1217-6	PSB070	1217	6	metto	metto	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1217-7	PSB070	1217	7	quasi	quasi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1217-8	PSB070	1217	8	un'	un'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
-1217-9	PSB070	1217	9	o[ra]	ora	_	_	_	_	_	linguistic	_	_	_	End=3170.415	_	_	_	0-3(48)
+1217-9	PSB070	1217	9	o[ra]	ora	_	_	_	_	_	linguistic	_	_	_	End=3170.415	_	_	_	1-3(48)
 1218-0	PSB005	1218	0	[eh]	eh	_	_	_	_	_	linguistic	_	_	_	Begin=3170.17	_	_	_	0-2(48)
 1218-1	PSB005	1218	1	sì	sì	_	_	_	_	_	linguistic	_	_	_	End=3170.809	_	_	_	_
 1219-0	PSB070	1219	0	tra:	tra	_	_	_	_	_	linguistic	_	_	_	Begin=3171.607|End=3172.255	2x1	_	_	_
@@ -7100,7 +7100,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1263-10	PSB005	1263	10	ci	ci	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1263-11	PSB005	1263	11	vuole	vuole	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1263-12	PSB005	1263	12	[un'	un'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	0-3(63)
-1263-13	PSB005	1263	13	o]ra	ora	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+1263-13	PSB005	1263	13	o]ra	ora	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-1(63)
 1263-14	PSB005	1263	14	sì	sì	_	_	_	_	_	linguistic	_	_	_	End=3283.681	_	_	_	_
 1264-0	PSB070	1264	0	[sì]	sì	_	_	_	_	_	linguistic	_	_	_	Begin=3283.0|End=3283.307	_	_	_	0-2(63)
 1265-0	PSB070	1265	0	per	per	_	_	_	_	_	linguistic	_	_	_	Begin=3283.681	_	_	_	_
@@ -7932,7 +7932,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1399-18	PSB005	1399	18	messa	messa	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1399-19	PSB005	1399	19	la	la	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1399-20	PSB005	1399	20	domenica	domenica	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-1399-21	PSB005	1399	21	com[e:]	come	_	_	_	_	_	linguistic	_	_	_	End=3617.394	3x1	_	_	1-4(99)
+1399-21	PSB005	1399	21	com[e:]	come	_	_	_	_	_	linguistic	_	_	_	End=3617.394	3x1	_	_	3-4(99)
 1400-0	PSB070	1400	0	[ma]:	ma	_	_	_	_	_	linguistic	_	_	_	Begin=3617.224	1x1	_	_	0-2(99)
 1400-1	PSB070	1400	1	sì	sì	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1400-2	PSB070	1400	2	anche	anche	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -7962,7 +7962,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1400-26	PSB070	1400	26	e	e	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1400-27	PSB070	1400	27	una	una	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1400-28	PSB070	1400	28	alle	alle	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-1400-29	PSB070	1400	29	quattordi[ci]	quattordici	_	_	_	_	_	linguistic	_	_	_	End=3625.213	_	_	_	8-11(100)
+1400-29	PSB070	1400	29	quattordi[ci]	quattordici	_	_	_	_	_	linguistic	_	_	_	End=3625.213	_	_	_	9-11(100)
 1401-0	PSB005	1401	0	[mh]mh	mhmh	_	_	_	_	_	linguistic	_	_	_	Begin=3624.979|End=3625.381	_	_	_	0-2(100)
 1402-0	PSB005	1402	0	e	e	_	_	_	_	_	linguistic	_	_	_	Begin=3625.99	_	_	_	_
 1402-1	PSB005	1402	1	ci	ci	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -8182,7 +8182,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1437-2	PSB005	1437	2	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1437-3	PSB005	1437	3	attività	attività	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1437-4	PSB005	1437	4	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-1437-5	PSB005	1437	5	u[n:]	un	_	_	_	_	_	linguistic	_	_	_	End=3704.575	1x1	_	_	0-2(117)
+1437-5	PSB005	1437	5	u[n:]	un	_	_	_	_	_	linguistic	_	_	_	End=3704.575	1x1	_	_	1-2(117)
 1438-0	PSB070	1438	0	[però]	però	_	_	_	_	_	linguistic	_	_	_	Begin=3704.394	_	_	_	0-4(117)
 1438-1	PSB070	1438	1	quella	quella	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1438-2	PSB070	1438	2	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_

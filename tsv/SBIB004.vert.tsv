@@ -2337,9 +2337,9 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 647-8	PSB041	647	8	c'	c'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 647-9	PSB041	647	9	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 647-10	PSB041	647	10	aria	aria	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-647-11	PSB041	647	11	condizionata,	condizionata	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	_	_	_	_	11-12(147)
-647-12	PSB041	647	12	[c'	c'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	0-1(147)
-647-13	PSB041	647	13	è]	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+647-11	PSB041	647	11	condizionata,	condizionata	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	_	_	_	_	_
+647-12	PSB041	647	12	[c'	c'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	0-2(147)
+647-13	PSB041	647	13	è]	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-1(147)
 647-14	PSB041	647	14	ventola	ventola	_	_	_	_	_	linguistic	_	_	_	End=1000.057	_	_	_	_
 648-0	PSB005	648	0	[mhmh]	mhmh	_	_	_	_	_	linguistic	_	_	_	Begin=998.68|End=999.166	_	_	_	0-4(147)
 649-0	PSB005	649	0	mhmh	mhmh	_	_	_	_	_	linguistic	_	_	_	Begin=1000.057|End=1000.567	_	_	_	_
@@ -2459,7 +2459,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 676-3	PSB041	676	3	ho	ho	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 676-4	PSB041	676	4	(con)	con	_	_	_	_	_	linguistic	_	_	_	_	_	_	0-3(0)	_
 676-5	PSB041	676	5	fratello	fratello	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-676-6	PSB041	676	6	qu[a,	qua	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	_	_	_	_	1-3(154)
+676-6	PSB041	676	6	qu[a,	qua	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	_	_	_	_	2-3(154)
 676-7	PSB041	676	7	zio],	zio	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	_	_	_	_	0-3(154)
 676-8	PSB041	676	8	zia	zia	_	_	_	_	_	linguistic	_	_	_	End=1048.493	_	_	_	_
 677-0	PSB005	677	0	[mh]	mh	_	_	_	_	_	linguistic	_	_	_	Begin=1047.14|End=1047.473	_	_	_	0-2(154)

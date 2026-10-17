@@ -1724,7 +1724,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 252-2	PSB104	252	2	passando	passando	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 252-3	PSB104	252	3	dall'	dall'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	SpaceAfter=No	_	_	_	_	_
 252-4	PSB104	252	4	inglese	inglese	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-252-5	PSB104	252	5	#[excit]ed	excited	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	PauseAfter=Yes	_	_	_	_	0-6(81)
+252-5	PSB104	252	5	#[excit]ed	excited	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	PauseAfter=Yes	_	_	_	_	1-6(81)
 252-6	PSB104	252	6	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=Yes	_	_	_	_	_	_
 252-7	PSB104	252	7	cioè	cioè	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 252-8	PSB104	252	8	viene	viene	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
@@ -4340,7 +4340,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 591-0	PSB104	591	0	perché	perché	_	_	_	_	_	linguistic	_	_	_	Begin=1670.808	_	_	_	_
 591-1	PSB104	591	1	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 591-2	PSB104	591	2	avevano	avevano	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-591-3	PSB104	591	3	picchia[to]	picchiato	_	_	_	_	_	linguistic	_	_	_	End=1671.984	_	_	_	6-9(166)
+591-3	PSB104	591	3	picchia[to]	picchiato	_	_	_	_	_	linguistic	_	_	_	End=1671.984	_	_	_	7-9(166)
 592-0	PSB105	592	0	[sì]	sì	_	_	_	_	_	linguistic	_	_	_	Begin=1671.724	_	_	_	0-2(166)
 592-1	PSB105	592	1	sì	sì	_	_	_	_	_	linguistic	_	_	_	End=1672.234	_	_	_	_
 593-0	PSB105	593	0	con	con	_	_	_	_	_	linguistic	_	_	_	Begin=1672.959	_	_	_	_
@@ -4889,16 +4889,16 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 672-8	PSB104	672	8	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 672-9	PSB104	672	9	avevano	avevano	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 672-10	PSB104	672	10	tolta	tolta	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-672-11	PSB104	672	11	vero	vero	_	_	_	_	_	linguistic	_	_	_	_	_	Slow=2-4(0)	_	_
+672-11	PSB104	672	11	vero	vero	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 672-12	PSB104	672	12	<la	la	_	_	_	_	_	linguistic	_	_	_	_	_	Slow=0-2(0)	_	_
 672-13	PSB104	672	13	legge	legge	_	_	_	_	_	linguistic	_	_	_	_	_	Slow=0-5(0)	_	_
-672-14	PSB104	672	14	contro>	contro	_	_	_	_	_	linguistic	_	_	_	_	_	Slow=0-4(0)|Fast=5-6(0)	_	_
+672-14	PSB104	672	14	contro>	contro	_	_	_	_	_	linguistic	_	_	_	_	_	Slow=0-6(0)	_	_
 672-15	PSB104	672	15	>l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	Fast=0-2(0)	_	_
-672-16	PSB104	672	16	omosessualità<	omosessualità	_	_	_	_	_	linguistic	_	_	Volume=Low	_	_	Fast=0-10(0)	_	_
+672-16	PSB104	672	16	omosessualità<	omosessualità	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-13(0)	_	_
 672-17	PSB104	672	17	°l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No|Volume=Low	_	_	_	_	_
 672-18	PSB104	672	18	han	han	_	_	_	_	_	linguistic	_	_	Volume=Low	_	_	_	_	_
 672-19	PSB104	672	19	tolta	tolta	_	_	_	_	_	linguistic	_	_	Volume=Low	_	_	_	_	_
-672-20	PSB104	672	20	sì°	sì	_	_	_	_	_	linguistic	_	_	_	End=1875.051	_	_	_	_
+672-20	PSB104	672	20	sì°	sì	_	_	_	_	_	linguistic	_	_	Volume=Low	End=1875.051	_	_	_	_
 673-0	PSB105	673	0	eh	eh	_	_	_	_	_	linguistic	_	_	_	Begin=1875.446	_	_	_	_
 673-1	PSB105	673	1	non	non	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 673-2	PSB105	673	2	hanno	hanno	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -4907,7 +4907,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 674-1	PSB104	674	1	non	non	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 674-2	PSB104	674	2	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 674-3	PSB104	674	3	hanno	hanno	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-674-4	PSB104	674	4	tolt[a]?	tolta	_	_	_	_	_	linguistic	_	_	Intonation=Rising	End=1877.695	_	_	_	3-5(187)
+674-4	PSB104	674	4	tolt[a]?	tolta	_	_	_	_	_	linguistic	_	_	Intonation=Rising	End=1877.695	_	_	_	4-5(187)
 675-0	PSB105	675	0	[n]:on	non	_	_	_	_	_	linguistic	_	_	_	Begin=1877.601	0x1	_	_	0-1(187)
 675-1	PSB105	675	1	non	non	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 675-2	PSB105	675	2	si	si	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	_	_	_	_	_
@@ -6600,7 +6600,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 957-22	PSB104	957	22	di	di	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 957-23	PSB104	957	23	tutti	tutti	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 957-24	PSB104	957	24	i	i	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-957-25	PSB104	957	25	giorn[i]	giorni	_	_	_	_	_	linguistic	_	_	_	End=2587.406	_	_	_	4-6(232)
+957-25	PSB104	957	25	giorn[i]	giorni	_	_	_	_	_	linguistic	_	_	_	End=2587.406	_	_	_	5-6(232)
 958-0	PSB105	958	0	[sì]:	sì	_	_	_	_	_	linguistic	_	_	_	Begin=2587.203|End=2587.581	1x1	_	_	0-2(232)
 959-0	PSB105	959	0	hanno	hanno	_	_	_	_	_	linguistic	_	_	_	Begin=2587.794	_	_	_	_
 959-1	PSB105	959	1	meno	meno	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -6667,7 +6667,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 965-7	PSB104	965	7	possibilità	possibilità	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 965-8	PSB104	965	8	di	di	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 965-9	PSB104	965	9	denunciare	denunciare	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-965-10	PSB104	965	10	sostanzi[alme]nte	sostanzialmente	_	_	_	_	_	linguistic	_	_	_	End=2607.505	_	_	_	7-12(234)
+965-10	PSB104	965	10	sostanzi[alme]nte	sostanzialmente	_	_	_	_	_	linguistic	_	_	_	End=2607.505	_	_	_	8-12(234)
 966-0	PSB105	966	0	[no:]	no	_	_	_	_	_	linguistic	_	_	_	Begin=2607.039|End=2607.419	1x1	_	_	0-2(234)
 967-0	PSB104	967	0	c(io)è	cioè	_	_	_	_	_	linguistic	_	_	Reduced=Yes	Begin=2607.893	_	_	_	_
 967-1	PSB104	967	1	cos'	cos'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
@@ -10194,7 +10194,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1647-5	PSB104	1647	5	più	più	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1647-6	PSB104	1647	6	possibilità	possibilità	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1647-7	PSB104	1647	7	di	di	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-1647-8	PSB104	1647	8	lavorar[e]	lavorare	_	_	_	_	_	linguistic	_	_	_	End=3964.537	_	_	_	6-8(343)
+1647-8	PSB104	1647	8	lavorar[e]	lavorare	_	_	_	_	_	linguistic	_	_	_	End=3964.537	_	_	_	7-8(343)
 1648-0	PSB105	1648	0	[mh]mh	mhmh	_	_	_	_	_	linguistic	_	_	_	Begin=3964.444|End=3964.805	_	_	_	0-2(343)
 1649-0	PSB104	1649	0	quindi:	quindi	_	_	_	_	_	linguistic	_	_	_	Begin=3964.834|End=3965.519	5x1	_	_	_
 1650-0	PSB104	1650	0	e::h	eh	_	_	_	_	_	linguistic	_	_	_	Begin=3965.756	0x2	_	_	_

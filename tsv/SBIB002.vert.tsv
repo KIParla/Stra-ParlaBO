@@ -2225,7 +2225,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 562-2	PSB026	562	2	altro]	altro	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-5(193)
 562-3	PSB026	562	3	polizia	polizia	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 562-4	PSB026	562	4	anche	anche	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-562-5	PSB026	562	5	lo[ro	loro	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	1-4(194)
+562-5	PSB026	562	5	lo[ro	loro	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	2-4(194)
 562-6	PSB026	562	6	ladro]	ladro	_	_	_	_	_	linguistic	_	_	_	End=727.19	_	_	_	0-5(194)
 563-0	PSB005	563	0	[mhmh]	mhmh	_	_	_	_	_	linguistic	_	_	_	Begin=726.84|End=727.23	_	_	_	0-4(194)
 564-0	PSB026	564	0	numero	numero	_	_	_	_	_	linguistic	_	_	_	Begin=727.3	_	_	_	_
@@ -2692,10 +2692,10 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 692-2	PSB028	692	2	c'	c'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 692-3	PSB028	692	3	era	era	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 692-4	PSB028	692	4	una	una	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-692-5	PSB028	692	5	fes[ta?	festa	_	_	_	_	_	linguistic	_	_	Intonation=Rising	_	_	_	_	2-5(233)
+692-5	PSB028	692	5	fes[ta?	festa	_	_	_	_	_	linguistic	_	_	Intonation=Rising	_	_	_	_	3-5(233)
 692-6	PSB028	692	6	c'	c'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	0-2(233)
 692-7	PSB028	692	7	era	era	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(233)
-692-8	PSB028	692	8	qualcosa]?	qualcosa	_	_	_	_	_	linguistic	_	_	Intonation=Rising	End=890.06	_	_	_	0-7(233)
+692-8	PSB028	692	8	qualcosa]?	qualcosa	_	_	_	_	_	linguistic	_	_	Intonation=Rising	End=890.06	_	_	_	0-8(233)
 693-0	PSB026	693	0	[no	no	_	_	_	_	_	linguistic	_	_	_	Begin=889.08	_	_	_	0-2(233)
 693-1	PSB026	693	1	nono	nono	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-4(233)
 693-2	PSB026	693	2	tutti]	tutti	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-5(233)
@@ -2715,7 +2715,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 694-11	PSB005	694	11	[c'	c'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	0-2(234)
 694-12	PSB005	694	12	era	era	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(234)
 694-13	PSB005	694	13	molto	molto	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-5(234)
-694-14	PSB005	694	14	traffico]?	traffico	_	_	_	_	_	linguistic	_	_	Intonation=Rising	End=895.91	_	_	_	0-7(234)
+694-14	PSB005	694	14	traffico]?	traffico	_	_	_	_	_	linguistic	_	_	Intonation=Rising	End=895.91	_	_	_	0-8(234)
 695-0	PSB028	695	0	[a:h	ah	_	_	_	_	_	linguistic	_	_	_	Begin=891.32	0x1	_	_	0-2(235)
 695-1	PSB028	695	1	okay]	okay	_	_	_	_	_	linguistic	_	_	_	End=892.35	_	_	_	0-4(235)
 696-0	PSB026	696	0	[sì	sì	_	_	_	_	_	linguistic	_	_	_	Begin=894.42	_	_	_	0-2(234)
@@ -3153,7 +3153,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 798-0	PSB005	798	0	non	non	_	_	_	_	_	linguistic	_	_	_	Begin=1036.66	_	_	_	_
 798-1	PSB005	798	1	c'	c'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 798-2	PSB005	798	2	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-798-3	PSB005	798	3	sicu[rezza]?	sicurezza	_	_	_	_	_	linguistic	_	_	Intonation=Rising	End=1037.74	_	_	_	3-9(280)
+798-3	PSB005	798	3	sicu[rezza]?	sicurezza	_	_	_	_	_	linguistic	_	_	Intonation=Rising	End=1037.74	_	_	_	4-9(280)
 799-0	PSB026	799	0	[°non	non	_	_	_	_	_	linguistic	_	_	Volume=Low	Begin=1037.34	_	_	_	0-3(280)
 799-1	PSB026	799	1	c'	c'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No|Volume=Low	_	_	_	_	0-2(280)
 799-2	PSB026	799	2	è]	è	_	_	_	_	_	linguistic	_	_	Volume=Low	_	_	_	_	0-1(280)
@@ -3817,7 +3817,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 965-0	PSB026	965	0	lingua	lingua	_	_	_	_	_	linguistic	_	_	_	Begin=1266.8|End=1267.54	_	_	_	_
 966-0	PSB005	966	0	c'	c'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	Begin=1267.56	_	_	_	_
 966-1	PSB005	966	1	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-966-2	PSB005	966	2	u[na:]	una	_	_	_	_	_	linguistic	_	_	_	End=1268.46	2x1	_	_	0-3(343)
+966-2	PSB005	966	2	u[na:]	una	_	_	_	_	_	linguistic	_	_	_	End=1268.46	2x1	_	_	1-3(343)
 967-0	??	967	0	[buonasera:]	buonasera	_	_	_	_	_	linguistic	_	_	_	Begin=1268.15|End=1268.87	8x1	_	_	0-9(?)
 968-0	PSB026	968	0	[buona]sera:	buonasera	_	_	_	_	_	linguistic	_	_	_	Begin=1268.56|End=1269.35	8x1	_	_	0-5(344)
 969-0	PSB026	969	0	tutto	tutto	_	_	_	_	_	linguistic	_	_	_	Begin=1270.9	_	_	_	_
@@ -4538,7 +4538,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1143-0	PSB005	1143	0	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	Begin=1510.94	_	_	_	_
 1143-1	PSB005	1143	1	hai	hai	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1143-2	PSB005	1143	2	avuto	avuto	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-1143-3	PSB005	1143	3	anch[e	anche	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	3-5(414)
+1143-3	PSB005	1143	3	anch[e	anche	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	4-5(414)
 1143-4	PSB005	1143	4	tu]?	tu	_	_	_	_	_	linguistic	_	_	Intonation=Rising	End=1512.07	_	_	_	0-2(414)
 1144-0	PSB028	1144	0	[e:h	eh	_	_	_	_	_	linguistic	_	_	_	Begin=1511.79	0x1	_	_	0-2(?)
 1144-1	PSB028	1144	1	anche]	anche	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-5(?)
@@ -4924,7 +4924,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1244-2	PSB026	1244	2	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1244-3	PSB026	1244	3	molto	molto	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1244-4	PSB026	1244	4	anche	anche	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-1244-5	PSB026	1244	5	li[bero	libero	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	_	_	_	_	1-6(441)
+1244-5	PSB026	1244	5	li[bero	libero	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	_	_	_	_	2-6(441)
 1244-6	PSB026	1244	6	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	X(441)
 1244-7	PSB026	1244	7	però	però	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-4(441)
 1244-8	PSB026	1244	8	lavoro	lavoro	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-6(441)
@@ -4957,11 +4957,11 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1251-0	PSB028	1251	0	[non	non	_	_	_	_	_	linguistic	_	_	_	Begin=1655.11	_	_	_	0-3(445)
 1251-1	PSB028	1251	1	c'	c'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	0-2(445)
 1251-2	PSB028	1251	2	è]	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-1(445)
-1251-3	PSB028	1251	3	tem[po]	tempo	_	_	_	_	_	linguistic	_	_	_	End=1655.94	_	_	_	2-5(446)
+1251-3	PSB028	1251	3	tem[po]	tempo	_	_	_	_	_	linguistic	_	_	_	End=1655.94	_	_	_	3-5(446)
 1252-0	PSB026	1252	0	[no]n	non	_	_	_	_	_	linguistic	_	_	_	Begin=1655.61	_	_	_	0-2(446)
 1252-1	PSB026	1252	1	c'	c'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 1252-2	PSB026	1252	2	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-1252-3	PSB026	1252	3	tem[po]	tempo	_	_	_	_	_	linguistic	_	_	_	End=1656.58	_	_	_	2-5(447)
+1252-3	PSB026	1252	3	tem[po]	tempo	_	_	_	_	_	linguistic	_	_	_	End=1656.58	_	_	_	3-5(447)
 1253-0	PSB005	1253	0	[guardi]	guardi	_	_	_	_	_	linguistic	_	_	_	Begin=1656.27	_	_	_	0-6(447)
 1253-1	PSB005	1253	1	la	la	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1253-2	PSB005	1253	2	televisione:	televisione	_	_	_	_	_	linguistic	_	_	_	_	10x1	_	_	_
@@ -5046,7 +5046,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1273-3	PSB028	1273	3	italiana	italiana	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1273-4	PSB028	1273	4	come:?	come	_	_	_	_	_	linguistic	_	_	Intonation=Rising	End=1682.78	3x1	_	_	_
 1274-0	PSB028	1274	0	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	Begin=1683.21	_	_	_	_
-1274-1	PSB028	1274	1	i[taliana	italiana	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-8(459)
+1274-1	PSB028	1274	1	i[taliana	italiana	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	1-8(459)
 1274-2	PSB028	1274	2	la]	la	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(459)
 1274-3	PSB028	1274	3	lingua	lingua	_	_	_	_	_	linguistic	_	_	_	End=1684.07	_	_	_	_
 1275-0	PSB026	1275	0	[sì]	sì	_	_	_	_	_	linguistic	_	_	_	Begin=1683.4|End=1683.79	_	_	_	0-2(459)
@@ -5116,7 +5116,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1293-3	PSB026	1293	3	tempo	tempo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1293-4	PSB026	1293	4	[prima	prima	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-5(468)
 1293-5	PSB026	1293	5	qua]ndo	quando	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(468)
-1293-6	PSB026	1293	6	venu[to	venuto	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	3-6(466)
+1293-6	PSB026	1293	6	venu[to	venuto	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	4-6(466)
 1293-7	PSB026	1293	7	qua]	qua	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(466)
 1293-8	PSB026	1293	8	non	non	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1293-9	PSB026	1293	9	c'	c'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
@@ -5937,7 +5937,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1505-2	PSB026	1505	2	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1505-3	PSB026	1505	3	soldi	soldi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1505-4	PSB026	1505	4	loro	loro	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-1505-5	PSB026	1505	5	com[prare]	comprare	_	_	_	_	_	linguistic	_	_	_	End=1978.44	_	_	_	2-8(532)
+1505-5	PSB026	1505	5	com[prare]	comprare	_	_	_	_	_	linguistic	_	_	_	End=1978.44	_	_	_	3-8(532)
 1506-0	PSB028	1506	0	[e::h]	eh	_	_	_	_	_	linguistic	_	_	_	Begin=1978.18	0x2	_	_	_
 1506-1	PSB028	1506	1	i	i	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1506-2	PSB028	1506	2	soldi	soldi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_

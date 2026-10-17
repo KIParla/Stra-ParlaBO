@@ -1124,7 +1124,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 303-2	PSB140	303	2	ce	ce	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 303-3	PSB140	303	3	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 303-4	PSB140	303	4	hai	hai	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-303-5	PSB140	303	5	pi[ù:]?	più	_	_	_	_	_	linguistic	_	_	Intonation=Rising	End=690.0	2x1	_	_	1-3(101)
+303-5	PSB140	303	5	pi[ù:]?	più	_	_	_	_	_	linguistic	_	_	Intonation=Rising	End=690.0	2x1	_	_	2-3(101)
 304-0	PSB141	304	0	[ah]	ah	_	_	_	_	_	linguistic	_	_	_	Begin=689.588	_	_	_	0-2(101)
 304-1	PSB141	304	1	non	non	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 304-2	PSB141	304	2	mi	mi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_

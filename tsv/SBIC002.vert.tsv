@@ -1374,7 +1374,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 221-11	PSB003	221	11	ravioli	ravioli	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 221-12	PSB003	221	12	no	no	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 221-13	PSB003	221	13	i	i	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-221-14	PSB003	221	14	tortellin[i]	tortellini	_	_	_	_	_	linguistic	_	_	_	End=634.114	_	_	_	8-10(46)
+221-14	PSB003	221	14	tortellin[i]	tortellini	_	_	_	_	_	linguistic	_	_	_	End=634.114	_	_	_	9-10(46)
 222-0	PSB005	222	0	[s]ì	sì	_	_	_	_	_	linguistic	_	_	_	Begin=634.013|End=634.329	_	_	_	0-1(46)
 223-0	PSB003	223	0	e:hm	ehm	_	_	_	_	_	linguistic	_	_	_	Begin=634.937|End=636.19	0x1	_	_	_
 224-0	PSB003	224	0	sì	sì	_	_	_	_	_	linguistic	_	_	_	Begin=637.101	_	_	_	_
@@ -2282,7 +2282,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 364-5	PSB004	364	5	più	più	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 364-6	PSB004	364	6	frutta	frutta	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 364-7	PSB004	364	7	e	e	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-364-8	PSB004	364	8	mangian[o	mangiano	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	6-8(82)
+364-8	PSB004	364	8	mangian[o	mangiano	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	7-8(82)
 364-9	PSB004	364	9	a]bbastanza	abbastanza	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-1(82)
 364-10	PSB004	364	10	leggera	leggera	_	_	_	_	_	linguistic	_	_	_	End=1061.79	_	_	_	_
 365-0	PSB005	365	0	[°mh°]	mh	_	_	_	_	_	linguistic	_	_	Volume=Low	Begin=1060.231|End=1060.488	_	_	_	0-2(82)
@@ -3121,7 +3121,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 489-8	PSB003	489	8	all'	all'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 489-9	PSB003	489	9	europa	europa	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 489-10	PSB003	489	10	oppure	oppure	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-489-11	PSB003	489	11	a[:	a	_	_	_	_	_	linguistic	_	_	_	_	0x1	_	_	0-1(111)
+489-11	PSB003	489	11	a[:	a	_	_	_	_	_	linguistic	_	_	_	_	0x1	_	_	_
 489-12	PSB003	489	12	r]oma	roma	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-1(111)
 489-13	PSB003	489	13	italia	italia	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 489-14	PSB003	489	14	oppure	oppure	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -3375,7 +3375,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 518-5	PSB004	518	5	tante	tante	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 518-6	PSB004	518	6	difficoltà	difficoltà	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 518-7	PSB004	518	7	co'	co'	_	_	_	_	_	linguistic	_	_	Truncated=Yes	_	_	_	_	_
-518-8	PSB004	518	8	itali[ano]	italiano	_	_	_	_	_	linguistic	_	_	_	End=1593.138	_	_	_	4-8(118)
+518-8	PSB004	518	8	itali[ano]	italiano	_	_	_	_	_	linguistic	_	_	_	End=1593.138	_	_	_	5-8(118)
 519-0	PSB005	519	0	[mhmh]	mhmh	_	_	_	_	_	linguistic	_	_	_	Begin=1592.603|End=1593.138	_	_	_	0-4(118)
 520-0	PSB004	520	0	perché	perché	_	_	_	_	_	linguistic	_	_	_	Begin=1593.517	_	_	_	_
 520-1	PSB004	520	1	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -3670,7 +3670,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 552-6	PSB004	552	6	anzi	anzi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 552-7	PSB004	552	7	già	già	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 552-8	PSB004	552	8	per	per	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-552-9	PSB004	552	9	ent[rare	entrare	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	2-7(126)
+552-9	PSB004	552	9	ent[rare	entrare	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	3-7(126)
 552-10	PSB004	552	10	a	a	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-1(126)
 552-11	PSB004	552	11	LIC]EO	liceo	_	_	_	_	_	linguistic	_	_	Volume=High	End=1752.345	_	_	_	0-3(126)
 553-0	PSB003	553	0	[e:h	eh	_	_	_	_	_	linguistic	_	_	_	Begin=1750.672	0x1	_	_	0-2(126)
@@ -5898,7 +5898,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 931-17	PSB003	931	17	però	però	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 931-18	PSB003	931	18	si	si	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 931-19	PSB003	931	19	mangia	mangia	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-931-20	PSB003	931	20	be[ne]	bene	_	_	_	_	_	linguistic	_	_	_	End=2741.118	_	_	_	1-4(220)
+931-20	PSB003	931	20	be[ne]	bene	_	_	_	_	_	linguistic	_	_	_	End=2741.118	_	_	_	2-4(220)
 932-0	PSB005	932	0	[trat]toria?	trattoria	_	_	_	_	_	linguistic	_	_	Intonation=Rising	Begin=2740.855|End=2741.539	_	_	_	0-4(220)
 933-0	PSB003	933	0	sardo	sardo	_	_	_	_	_	linguistic	_	_	_	Begin=2741.802|End=2742.433	_	_	_	_
 934-0	PSB005	934	0	ah	ah	_	_	_	_	_	linguistic	_	_	_	Begin=2742.855	_	_	_	_
@@ -6873,7 +6873,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1093-0	PSB004	1093	0	°mh	mh	_	_	_	_	_	linguistic	_	_	Volume=Low	Begin=3155.436	_	_	_	_
 1093-1	PSB004	1093	1	[sì[°	sì	_	_	_	_	_	linguistic	_	_	Volume=Low	End=3156.242	_	_	_	_
 1094-0	PSB005	1094	0	[l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	Begin=3155.807	_	_	_	0-2(259)
-1094-1	PSB005	1094	1	asco]lt[o]	ascolto	_	_	_	_	_	linguistic	_	_	_	End=3156.796	_	_	_	0-4(259),5-7(260)
+1094-1	PSB005	1094	1	asco]lt[o]	ascolto	_	_	_	_	_	linguistic	_	_	_	End=3156.796	_	_	_	0-4(259),6-7(260)
 1095-0	PSB003	1095	0	[mh]mh	mhmh	_	_	_	_	_	linguistic	_	_	_	Begin=3156.694|End=3157.242	_	_	_	0-2(260)
 1096-0	PSB005	1096	0	anche	anche	_	_	_	_	_	linguistic	_	_	_	Begin=3157.645	_	_	_	_
 1096-1	PSB005	1096	1	se	se	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -6931,7 +6931,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1100-4	PSB004	1100	4	a	a	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1100-5	PSB004	1100	5	parlare	parlare	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1100-6	PSB004	1100	6	all'	all'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
-1100-7	PSB004	1100	7	ini[zio]	inizio	_	_	_	_	_	linguistic	_	_	_	End=3179.613	_	_	_	2-6(261)
+1100-7	PSB004	1100	7	ini[zio]	inizio	_	_	_	_	_	linguistic	_	_	_	End=3179.613	_	_	_	3-6(261)
 1101-0	PSB005	1101	0	[mh]mh	mhmh	_	_	_	_	_	linguistic	_	_	_	Begin=3179.339|End=3179.79	_	_	_	0-2(261)
 1102-0	PSB004	1102	0	p[erché	perché	_	_	_	_	_	linguistic	_	_	_	Begin=3180.661	_	_	_	1-6(262)
 1102-1	PSB004	1102	1	all'	all'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	0-4(262)
@@ -7024,7 +7024,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1116-26	PSB003	1116	26	inglese	inglese	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1116-27	PSB003	1116	27	la	la	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1116-28	PSB003	1116	28	lingua	lingua	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-1116-29	PSB003	1116	29	ingl[ese]	inglese	_	_	_	_	_	linguistic	_	_	_	End=3224.613	_	_	_	3-7(263)
+1116-29	PSB003	1116	29	ingl[ese]	inglese	_	_	_	_	_	linguistic	_	_	_	End=3224.613	_	_	_	4-7(263)
 1117-0	PSB005	1117	0	[mhmh]	mhmh	_	_	_	_	_	linguistic	_	_	_	Begin=3224.21|End=3224.629	_	_	_	0-4(263)
 1118-0	PSB003	1118	0	e	e	_	_	_	_	_	linguistic	_	_	_	Begin=3224.855	_	_	_	_
 1118-1	PSB003	1118	1	poi	poi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -7087,7 +7087,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1129-1	PSB003	1129	1	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-1(267)
 1129-2	PSB003	1129	2	la	la	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(267)
 1129-3	PSB003	1129	3	vi]ta	vita	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(267)
-1129-4	PSB003	1129	4	c[(io)è	cioè	_	_	_	_	_	linguistic	_	_	_	_	_	_	1-3(0)	0-4(268)
+1129-4	PSB003	1129	4	c[(io)è	cioè	_	_	_	_	_	linguistic	_	_	_	_	_	_	1-3(0)	1-4(268)
 1129-5	PSB003	1129	5	tipo	tipo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-4(268)
 1129-6	PSB003	1129	6	di	di	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(268)
 1129-7	PSB003	1129	7	vita]	vita	_	_	_	_	_	linguistic	_	_	_	End=3256.274	_	_	_	0-4(268)
@@ -7582,7 +7582,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1211-14	PSB004	1211	14	sono]	sono	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-4(289)
 1211-15	PSB004	1211	15	tanti	tanti	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1211-16	PSB004	1211	16	lavoratori	lavoratori	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-1211-17	PSB004	1211	17	immigra[ti]	immigrati	_	_	_	_	_	linguistic	_	_	_	End=3462.742	_	_	_	6-9(290)
+1211-17	PSB004	1211	17	immigra[ti]	immigrati	_	_	_	_	_	linguistic	_	_	_	End=3462.742	_	_	_	7-9(290)
 1212-0	PSB005	1212	0	[mhmh]	mhmh	_	_	_	_	_	linguistic	_	_	_	Begin=3457.452|End=3457.871	_	_	_	0-4(289)
 1213-0	PSB003	1213	0	[sì	sì	_	_	_	_	_	linguistic	_	_	_	Begin=3460.032	_	_	_	0-2(290)
 1213-1	PSB003	1213	1	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-1(290)
@@ -8042,7 +8042,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1286-11	PSB005	1286	11	il	il	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1286-12	PSB005	1286	12	friulano	friulano	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1286-13	PSB005	1286	13	il	il	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-1286-14	PSB005	1286	14	friu[lano	friulano	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	3-8(310)
+1286-14	PSB005	1286	14	friu[lano	friulano	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	4-8(310)
 1286-15	PSB005	1286	15	è]	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-1(310)
 1286-16	PSB005	1286	16	proprio	proprio	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1286-17	PSB005	1286	17	diverso	diverso	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -8058,7 +8058,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1286-27	PSB005	1286	27	diale~	diale~	_	_	_	_	_	linguistic	_	_	Interrupted=Yes	_	_	_	_	_
 1286-28	PSB005	1286	28	dialetto	dialetto	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1286-29	PSB005	1286	29	di	di	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-1286-30	PSB005	1286	30	vene[zia]	venezia	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	3-7(309)
+1286-30	PSB005	1286	30	vene[zia]	venezia	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	4-7(309)
 1286-31	PSB005	1286	31	insomm	insomm	_	_	_	_	_	linguistic	_	_	_	End=3646.334	_	_	_	_
 1287-0	PSB004	1287	0	[°mhmh°]	mhmh	_	_	_	_	_	linguistic	_	_	Volume=Low	Begin=3639.456|End=3639.8	_	_	_	0-4(310)
 1288-0	PSB004	1288	0	[°mh°]	mh	_	_	_	_	_	linguistic	_	_	Volume=Low	Begin=3645.489|End=3645.745	_	_	_	0-2(309)

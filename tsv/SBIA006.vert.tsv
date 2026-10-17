@@ -107,14 +107,14 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 28-2	PSB014	28	2	imparato	imparato	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 28-3	PSB014	28	3	in	in	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 28-4	PSB014	28	4	marocco?	marocco	_	_	_	_	_	linguistic	_	_	Intonation=Rising	_	_	_	_	_
-28-5	PSB014	28	5	oppu[re]	oppure	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	3-6(3)
+28-5	PSB014	28	5	oppu[re]	oppure	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	4-6(3)
 28-6	PSB014	28	6	sei	sei	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 28-7	PSB014	28	7	venuto	venuto	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 28-8	PSB014	28	8	qua	qua	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 28-9	PSB014	28	9	e	e	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 28-10	PSB014	28	10	hai	hai	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 28-11	PSB014	28	11	imparato	imparato	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-28-12	PSB014	28	12	ita[liano]?	italiano	_	_	_	_	_	linguistic	_	_	Intonation=Rising	End=40.532	_	_	_	2-8(4)
+28-12	PSB014	28	12	ita[liano]?	italiano	_	_	_	_	_	linguistic	_	_	Intonation=Rising	End=40.532	_	_	_	3-8(4)
 29-0	PSB034	29	0	°sì°	sì	_	_	_	_	_	linguistic	_	_	Volume=Low	Begin=39.0|End=39.149	_	_	_	_
 30-0	PSB034	30	0	[sì	sì	_	_	_	_	_	linguistic	_	_	_	Begin=39.755	_	_	_	0-2(4)
 30-1	PSB034	30	1	sì]	sì	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(4)
@@ -370,7 +370,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 112-16	PSB033	112	16	fai::	fai	_	_	_	_	_	linguistic	_	_	_	End=140.64	2x2	_	_	_
 113-0	PSB033	113	0	c'	c'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	Begin=142.667	_	_	_	_
 113-1	PSB033	113	1	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-113-2	PSB033	113	2	qual[cos]a	qualcosa	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	3-7(27)
+113-2	PSB033	113	2	qual[cos]a	qualcosa	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	4-7(27)
 113-3	PSB033	113	3	che	che	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 113-4	PSB033	113	4	ti	ti	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 113-5	PSB033	113	5	piace	piace	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -1037,7 +1037,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 302-5	PSB014	302	5	quindi?	quindi	_	_	_	_	_	linguistic	_	_	Intonation=Rising	End=395.507	_	_	_	_
 303-0	PSB034	303	0	sì	sì	_	_	_	_	_	linguistic	_	_	_	Begin=395.547	_	_	_	_
 303-1	PSB034	303	1	un'	un'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
-303-2	PSB034	303	2	al[tra	altra	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	1-5(77)
+303-2	PSB034	303	2	al[tra	altra	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	2-5(77)
 303-3	PSB034	303	3	°scuola°]	scuola	_	_	_	_	_	linguistic	_	_	Volume=Low	End=396.547	_	_	_	0-6(77)
 304-0	PSB014	304	0	[a::h]	ah	_	_	_	_	_	linguistic	_	_	_	Begin=395.987|End=396.547	0x2	_	_	0-2(77)
 305-0	PSB033	305	0	e	e	_	_	_	_	_	linguistic	_	_	_	Begin=396.6	_	_	_	_

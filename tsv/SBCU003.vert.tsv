@@ -465,7 +465,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 70-3	PSB091	70	3	vedere	vedere	_	_	_	_	_	linguistic	_	_	_	End=222.59	_	_	_	_
 71-0	PSB091	71	0	com'	com'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	Begin=223.45	_	_	_	_
 71-1	PSB091	71	1	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-71-2	PSB091	71	2	den[tro]	dentro	_	_	_	_	_	linguistic	_	_	_	End=224.4	_	_	_	2-6(13)
+71-2	PSB091	71	2	den[tro]	dentro	_	_	_	_	_	linguistic	_	_	_	End=224.4	_	_	_	3-6(13)
 72-0	PSB092	72	0	[dentr]o	dentro	_	_	_	_	_	linguistic	_	_	_	Begin=224.14	_	_	_	0-5(13)
 72-1	PSB092	72	1	non	non	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 72-2	PSB092	72	2	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_

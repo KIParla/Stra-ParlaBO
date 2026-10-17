@@ -940,7 +940,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 172-2	PSB078	172	2	cina:	cina	_	_	_	_	_	linguistic	_	_	_	End=369.221	3x1	_	_	_
 173-0	PSB078	173	0	c'	c'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	Begin=369.483	_	_	_	_
 173-1	PSB078	173	1	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-173-2	PSB078	173	2	perch[é:	perché	_	_	_	_	_	linguistic	_	_	_	_	5x1	_	_	4-6(31)
+173-2	PSB078	173	2	perch[é:	perché	_	_	_	_	_	linguistic	_	_	_	_	5x1	_	_	5-6(31)
 173-3	PSB078	173	3	e:hm]	ehm	_	_	_	_	_	linguistic	_	_	_	End=371.357	0x1	_	_	0-3(31)
 174-0	PSB005	174	0	[>sì	sì	_	_	_	_	_	linguistic	_	_	_	Begin=370.674	_	Fast=0-2(0)	_	0-2(31)
 174-1	PSB005	174	1	sì	sì	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-2(0)	_	0-2(31)
@@ -2116,7 +2116,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 421-8	PSB005	421	8	curiosa	curiosa	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 421-9	PSB005	421	9	[perché	perché	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-6(92)
 421-10	PSB005	421	10	ci	ci	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(92)
-421-11	PSB005	421	11	son(o)	sono	_	_	_	_	_	linguistic	_	_	_	_	_	_	2-4(0)	0-4(92)
+421-11	PSB005	421	11	son(o)	sono	_	_	_	_	_	linguistic	_	_	_	_	_	_	3-4(0)	0-4(92)
 421-12	PSB005	421	12	stata]	stata	_	_	_	_	_	linguistic	_	_	_	End=807.326	_	_	_	0-5(92)
 422-0	PSB078	422	0	[ah	ah	_	_	_	_	_	linguistic	_	_	_	Begin=806.171	_	_	_	0-2(92)
 422-1	PSB078	422	1	vivere	vivere	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-6(92)
@@ -2269,7 +2269,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 454-6	PSB005	454	6	[sono	sono	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-4(97)
 454-7	PSB005	454	7	abbastanza	abbastanza	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-10(97)
 454-8	PSB005	454	8	d'	d'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	0-2(97)
-454-9	PSB005	454	9	accor~]	accor~	_	_	_	_	_	linguistic	_	_	Interrupted=Yes	End=864.928	_	_	_	0-5(97)
+454-9	PSB005	454	9	accor~]	accor~	_	_	_	_	_	linguistic	_	_	Interrupted=Yes	End=864.928	_	_	_	0-6(97)
 455-0	PSB078	455	0	[almeno	almeno	_	_	_	_	_	linguistic	_	_	_	Begin=863.569	_	_	_	0-6(97)
 455-1	PSB078	455	1	dal	dal	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(97)
 455-2	PSB078	455	2	mio	mio	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(97)
@@ -3455,7 +3455,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 696-8	PSB005	696	8	c'	c'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	0-2(160)
 696-9	PSB005	696	9	è]	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-1(160)
 696-10	PSB005	696	10	un	un	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-696-11	PSB005	696	11	tor[neo	torneo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	2-6(161)
+696-11	PSB005	696	11	tor[neo	torneo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	3-6(161)
 696-12	PSB005	696	12	di	di	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(161)
 696-13	PSB005	696	13	solito]	solito	_	_	_	_	_	linguistic	_	_	_	End=1285.486	_	_	_	0-6(161)
 697-0	PSB078	697	0	[tanti	tanti	_	_	_	_	_	linguistic	_	_	_	Begin=1282.536	_	_	_	0-5(159)
@@ -4770,7 +4770,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 962-15	PSB078	962	15	m:h	mh	_	_	_	_	_	linguistic	_	_	_	_	0x1	_	_	_
 962-16	PSB078	962	16	non	non	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 962-17	PSB078	962	17	c'	c'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
-962-18	PSB078	962	18	era(no)	erano	_	_	_	_	_	linguistic	_	_	_	_	_	_	2-5(0)	_
+962-18	PSB078	962	18	era(no)	erano	_	_	_	_	_	linguistic	_	_	_	_	_	_	3-5(0)	_
 962-19	PSB078	962	19	una	una	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 962-20	PSB078	962	20	volta	volta	_	_	_	_	_	linguistic	_	_	_	End=1747.005	_	_	_	_
 963-0	PSB005	963	0	[eh	eh	_	_	_	_	_	linguistic	_	_	_	Begin=1744.909	_	_	_	0-2(241)
@@ -6157,7 +6157,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1270-1	PSB005	1270	1	c'	c'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 1270-2	PSB005	1270	2	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1270-3	PSB005	1270	3	il	il	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-1270-4	PSB005	1270	4	capod[anno	capodanno	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	4-9(301)
+1270-4	PSB005	1270	4	capod[anno	capodanno	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	5-9(301)
 1270-5	PSB005	1270	5	giusto]?	giusto	_	_	_	_	_	linguistic	_	_	Intonation=Rising	End=2301.904	_	_	_	0-6(301)
 1271-0	PSB078	1271	0	[sì	sì	_	_	_	_	_	linguistic	_	_	_	Begin=2301.312	_	_	_	0-2(301)
 1271-1	PSB078	1271	1	c'	c'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	0-2(301)
@@ -6220,7 +6220,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1279-4	PSB005	1279	4	i	i	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1279-5	PSB005	1279	5	fuochi	fuochi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1279-6	PSB005	1279	6	d'	d'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
-1279-7	PSB005	1279	7	artifici[o:]	artificio	_	_	_	_	_	linguistic	_	_	_	End=2319.462	8x1	_	_	7-9(304)
+1279-7	PSB005	1279	7	artifici[o:]	artificio	_	_	_	_	_	linguistic	_	_	_	End=2319.462	8x1	_	_	8-9(304)
 1280-0	PSB078	1280	0	[in	in	_	_	_	_	_	linguistic	_	_	_	Begin=2319.221	_	_	_	0-2(304)
 1280-1	PSB078	1280	1	ci]o~	cio~	_	_	_	_	_	linguistic	_	_	Interrupted=Yes	_	_	_	_	0-2(304)
 1280-2	PSB078	1280	2	[sì	sì	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(305)

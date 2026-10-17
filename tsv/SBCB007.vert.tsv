@@ -157,7 +157,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 36-2	PSB005	36	2	all'	all'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 36-3	PSB005	36	3	ospedale	ospedale	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 36-4	PSB005	36	4	normale	normale	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-36-5	PSB005	36	5	di[ciamo	diciamo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	1-7(7)
+36-5	PSB005	36	5	di[ciamo	diciamo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	2-7(7)
 36-6	PSB005	36	6	sì]	sì	_	_	_	_	_	linguistic	_	_	_	End=88.173	_	_	_	0-2(7)
 37-0	PSB093	37	0	[ospedale	ospedale	_	_	_	_	_	linguistic	_	_	_	Begin=87.592	_	_	_	0-8(7)
 37-1	PSB093	37	1	ma]ggior[e	maggiore	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(7),7-8(8)
@@ -321,7 +321,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 66-9	PSB093	66	9	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	_
 66-10	PSB093	66	10	eh	eh	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 66-11	PSB093	66	11	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
-66-12	PSB093	66	12	esenzio[ne]	esenzione	_	_	_	_	_	linguistic	_	_	_	End=157.592	_	_	_	6-9(20)
+66-12	PSB093	66	12	esenzio[ne]	esenzione	_	_	_	_	_	linguistic	_	_	_	End=157.592	_	_	_	7-9(20)
 67-0	PSB005	67	0	[ah	ah	_	_	_	_	_	linguistic	_	_	_	Begin=153.602	_	_	_	0-2(19)
 67-1	PSB005	67	1	non	non	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(19)
 67-2	PSB005	67	2	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-1(19)
@@ -1009,7 +1009,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 216-6	PSB005	216	6	scuola	scuola	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 216-7	PSB005	216	7	o	o	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 216-8	PSB005	216	8	gliel'	gliel'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
-216-9	PSB005	216	9	av[ete	avete	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	1-5(69)
+216-9	PSB005	216	9	av[ete	avete	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	2-5(69)
 216-10	PSB005	216	10	insegnato	insegnato	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-9(69)
 216-11	PSB005	216	11	vo]i?	voi	_	_	_	_	_	linguistic	_	_	Intonation=Rising	End=467.184	_	_	_	0-2(69)
 217-0	PSB093	217	0	[no:]	no	_	_	_	_	_	linguistic	_	_	_	Begin=466.163|End=466.867	1x1	_	_	0-2(69)
@@ -1426,7 +1426,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 329-7	???	329	7	ho	ho	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	_	_	_	_	_
 329-8	???	329	8	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	_
 329-9	???	329	9	[sì	sì	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(109)
-329-10	???	329	10	sì]	sì	_	_	_	_	_	linguistic	_	_	_	End=651.784	_	_	_	0-1(109)
+329-10	???	329	10	sì]	sì	_	_	_	_	_	linguistic	_	_	_	End=651.784	_	_	_	0-2(109)
 330-0	PSB093	330	0	[ce	ce	_	_	_	_	_	linguistic	_	_	_	Begin=651.02	_	_	_	0-2(109)
 330-1	PSB093	330	1	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	0-2(109)
 330-2	PSB093	330	2	ho	ho	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(109)
@@ -2080,7 +2080,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 463-3	??	463	3	era?	era	_	_	_	_	_	linguistic	_	_	Intonation=Rising	End=899.633	_	_	_	_
 464-0	??	464	0	magari	magari	_	_	_	_	_	linguistic	_	_	_	Begin=901.378	_	_	_	_
 464-1	??	464	1	c'	c'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
-464-2	??	464	2	era[vamo	eravamo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	2-7(309)
+464-2	??	464	2	era[vamo	eravamo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	3-7(309)
 464-3	??	464	3	salvate	salvate	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-7(309)
 464-4	??	464	4	qualcosa	qualcosa	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-8(309)
 464-5	??	464	5	noi]	noi	_	_	_	_	_	linguistic	_	_	_	End=903.99	_	_	_	0-3(309)
@@ -3305,7 +3305,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 735-4	PSB093	735	4	che	che	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 735-5	PSB093	735	5	vi:	vi	_	_	_	_	_	linguistic	_	_	_	_	1x1	_	_	_
 735-6	PSB093	735	6	aiuta	aiuta	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-735-7	PSB093	735	7	que[sto	questo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	2-6(248)
+735-7	PSB093	735	7	que[sto	questo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	3-6(248)
 735-8	PSB093	735	8	xx]	xx	_	_	_	_	_	unknown	_	_	Syllables=2	End=1413.204	_	_	_	0-2(248)
 736-0	PSB005	736	0	[arrivo	arrivo	_	_	_	_	_	linguistic	_	_	_	Begin=1412.714	_	_	_	0-6(248)
 736-1	PSB005	736	1	su]bito	subito	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(248)
@@ -3480,7 +3480,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 773-8	PSB005	773	8	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 773-9	PSB005	773	9	avevo	avevo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 773-10	PSB005	773	10	detto	detto	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-773-11	PSB005	773	11	for[se	forse	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	2-5(262)
+773-11	PSB005	773	11	for[se	forse	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	3-5(262)
 773-12	PSB005	773	12	ho	ho	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(262)
 773-13	PSB005	773	13	fatto	fatto	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-5(262)
 773-14	PSB005	773	14	un	un	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(262)
@@ -3835,7 +3835,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 867-3	PSB005	867	3	proprio	proprio	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 867-4	PSB005	867	4	nell'	nell'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 867-5	PSB005	867	5	orario	orario	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-867-6	PSB005	867	6	scolasti[co]?	scolastico	_	_	_	_	_	linguistic	_	_	Intonation=Rising	End=1658.98	_	_	_	7-10(291)
+867-6	PSB005	867	6	scolasti[co]?	scolastico	_	_	_	_	_	linguistic	_	_	Intonation=Rising	End=1658.98	_	_	_	8-10(291)
 868-0	PSB093	868	0	[sì]	sì	_	_	_	_	_	linguistic	_	_	_	Begin=1658.816	_	_	_	0-2(291)
 868-1	PSB093	868	1	sì	sì	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 868-2	PSB093	868	2	[sì	sì	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(292)

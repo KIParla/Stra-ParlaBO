@@ -934,9 +934,9 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 193-8	PSB063	193	8	arabo:	arabo	_	_	_	_	_	linguistic	_	_	_	_	4x1	_	_	_
 193-9	PSB063	193	9	che	che	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 193-10	PSB063	193	10	si	si	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-193-11	PSB063	193	11	parla	parla	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	4-5(23)
+193-11	PSB063	193	11	parla	parla	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 193-12	PSB063	193	12	[in	in	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(23)
-193-13	PSB063	193	13	egit]to?	egitto	_	_	_	_	_	linguistic	_	_	Intonation=Rising	End=440.25	_	_	_	0-3(23)
+193-13	PSB063	193	13	egit]to?	egitto	_	_	_	_	_	linguistic	_	_	Intonation=Rising	End=440.25	_	_	_	0-4(23)
 194-0	PSB064	194	0	[sì	sì	_	_	_	_	_	linguistic	_	_	_	Begin=439.46	_	_	_	0-2(23)
 194-1	PSB064	194	1	eh]	eh	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	_	_	_	_	0-2(23)
 194-2	PSB064	194	2	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	_
@@ -1224,7 +1224,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 247-1	PSB064	247	1	parla[no]	parlano	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	5-7(31)
 247-2	PSB064	247	2	più	più	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 247-3	PSB064	247	3	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
-247-4	PSB064	247	4	ara[bo]	arabo	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	_	_	_	_	2-5(32)
+247-4	PSB064	247	4	ara[bo]	arabo	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	_	_	_	_	3-5(32)
 247-5	PSB064	247	5	[(.)]	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	X(33)
 247-6	PSB064	247	6	e	e	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 247-7	PSB064	247	7	un	un	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -1321,7 +1321,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 259-13	PSB005	259	13	altra	altra	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 259-14	PSB005	259	14	persona	persona	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	_	_	_	_	_
 259-15	PSB005	259	15	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	_
-259-16	PSB005	259	16	conoscer[lo]?	conoscerlo	_	_	_	_	_	linguistic	_	_	Intonation=Rising	End=598.59	_	_	_	7-10(37)
+259-16	PSB005	259	16	conoscer[lo]?	conoscerlo	_	_	_	_	_	linguistic	_	_	Intonation=Rising	End=598.59	_	_	_	8-10(37)
 260-0	PSB064	260	0	[sì]	sì	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	Begin=598.55	_	_	_	0-2(37)
 260-1	PSB064	260	1	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	_
 260-2	PSB064	260	2	anche	anche	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	_	_	_	_	_
@@ -2968,7 +2968,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 606-0	PSB064	606	0	e	e	_	_	_	_	_	linguistic	_	_	_	Begin=1258.89	_	_	_	_
 606-1	PSB064	606	1	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 606-2	PSB064	606	2	estate	estate	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-606-3	PSB064	606	3	scor[sa].	scorsa	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=1260.03	_	_	_	3-6(82)
+606-3	PSB064	606	3	scor[sa].	scorsa	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=1260.03	_	_	_	4-6(82)
 607-0	PSB005	607	0	[ah]	ah	_	_	_	_	_	linguistic	_	_	_	Begin=1259.79	_	_	_	0-2(82)
 607-1	PSB005	607	1	okay.	okay	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=1260.4	_	_	_	_
 608-0	PSB005	608	0	okay.	okay	_	_	_	_	_	linguistic	_	_	Intonation=Falling	Begin=1260.48|End=1260.93	_	_	_	_
@@ -3139,7 +3139,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 647-2	PSB005	647	2	musica	musica	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 647-3	PSB005	647	3	dal	dal	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 647-4	PSB005	647	4	vivo	vivo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-647-5	PSB005	647	5	co[sì]?	così	_	_	_	_	_	linguistic	_	_	Intonation=Rising	End=1348.8	_	_	_	1-4(90)
+647-5	PSB005	647	5	co[sì]?	così	_	_	_	_	_	linguistic	_	_	Intonation=Rising	End=1348.8	_	_	_	2-4(90)
 648-0	PSB063	648	0	[come]	come	_	_	_	_	_	linguistic	_	_	_	Begin=1348.47	_	_	_	0-4(90)
 648-1	PSB063	648	1	si	si	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 648-2	PSB063	648	2	chiama	chiama	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -3346,7 +3346,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 689-8	PSB005	689	8	volte	volte	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 689-9	PSB005	689	9	fanno	fanno	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 689-10	PSB005	689	10	delle	delle	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-689-11	PSB005	689	11	co[se]?	cose	_	_	_	_	_	linguistic	_	_	Intonation=Rising	End=1438.89	_	_	_	1-4(100)
+689-11	PSB005	689	11	co[se]?	cose	_	_	_	_	_	linguistic	_	_	Intonation=Rising	End=1438.89	_	_	_	2-4(100)
 690-0	PSB064	690	0	[una]	una	_	_	_	_	_	linguistic	_	_	_	Begin=1438.75	_	_	_	0-3(100)
 690-1	PSB064	690	1	volta	volta	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 690-2	PSB064	690	2	ero	ero	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -3367,7 +3367,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 692-6	PSB064	692	6	di	di	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 692-7	PSB064	692	7	musica.	musica	_	_	_	_	_	linguistic	_	_	Intonation=Falling	_	_	_	_	_
 692-8	PSB064	692	8	(°e	e	_	_	_	_	_	linguistic	_	_	Volume=Low	_	_	_	0-1(0)	_
-692-9	PSB064	692	9	ba[sta]°)	basta	_	_	_	_	_	linguistic	_	_	Volume=Low	End=1446.9	_	_	0-5(0)	1-5(101)
+692-9	PSB064	692	9	ba[sta]°)	basta	_	_	_	_	_	linguistic	_	_	Volume=Low	End=1446.9	_	_	0-5(0)	2-5(101)
 693-0	PSB005	693	0	[oke~]	oke~	_	_	_	_	_	linguistic	_	_	Interrupted=Yes|PauseAfter=Yes	Begin=1446.49	_	_	_	0-4(101)
 693-1	PSB005	693	1	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	_
 693-2	PSB005	693	2	basta	basta	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	_	_	_	_	_
@@ -4532,13 +4532,13 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 952-1	PSB063	952	1	è]	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-1(151)
 952-2	PSB063	952	2	tutto	tutto	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 952-3	PSB063	952	3	un	un	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-952-4	PSB063	952	4	procedimen[to].	procedimento	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=1898.8	_	_	_	9-12(152)
+952-4	PSB063	952	4	procedimen[to].	procedimento	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=1898.8	_	_	_	10-12(152)
 953-0	PSB064	953	0	[ah]	ah	_	_	_	_	_	linguistic	_	_	_	Begin=1898.62	_	_	_	0-2(152)
 953-1	PSB064	953	1	[e:h]	eh	_	_	_	_	_	linguistic	_	_	_	_	0x1	_	_	0-2(153)
 953-2	PSB064	953	2	c'	c'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 953-3	PSB064	953	3	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 953-4	PSB064	953	4	un	un	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-953-5	PSB064	953	5	procedime:n[to],	procedimento	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=1900.4	8x1	_	_	9-12(154)
+953-5	PSB064	953	5	procedime:n[to],	procedimento	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=1900.4	8x1	_	_	10-12(154)
 954-0	PSB005	954	0	[sì]	sì	_	_	_	_	_	linguistic	_	_	_	Begin=1898.842|End=1899.25	_	_	_	0-2(153)
 955-0	PSB005	955	0	[ma]	ma	_	_	_	_	_	linguistic	_	_	_	Begin=1900.16	_	_	_	0-2(154)
 955-1	PSB005	955	1	lo	lo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -4584,7 +4584,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 962-10	PSB064	962	10	con	con	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	_	_	_	_	_
 962-11	PSB064	962	11	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	_
 962-12	PSB064	962	12	il	il	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-962-13	PSB064	962	13	ba[r].	bar	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=1914.42	_	_	_	1-3(156)
+962-13	PSB064	962	13	ba[r].	bar	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=1914.42	_	_	_	2-3(156)
 963-0	PSB063	963	0	[fo]rse	forse	_	_	_	_	_	linguistic	_	_	_	Begin=1914.32	_	_	_	0-2(156)
 963-1	PSB063	963	1	sì.	sì	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=1914.93	_	_	_	_
 964-0	PSB063	964	0	non	non	_	_	_	_	_	linguistic	_	_	_	Begin=1914.98	_	_	_	_
@@ -4607,11 +4607,11 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 967-4	PSB005	967	4	bar	bar	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 967-5	PSB005	967	5	giust~	giust~	_	_	_	_	_	linguistic	_	_	Interrupted=Yes	_	_	_	_	_
 967-6	PSB005	967	6	c'	c'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
-967-7	PSB005	967	7	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-1(158)
+967-7	PSB005	967	7	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 967-8	PSB005	967	8	[la	la	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(158)
-967-9	PSB005	967	9	sera]ta	serata	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(158)
+967-9	PSB005	967	9	sera]ta	serata	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-4(158)
 967-10	PSB005	967	10	qui?	qui	_	_	_	_	_	linguistic	_	_	Intonation=Rising	_	_	_	_	_
-967-11	PSB005	967	11	[sì].	sì	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=1921.8	_	_	_	0-1(159)
+967-11	PSB005	967	11	[sì].	sì	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=1921.8	_	_	_	0-2(159)
 968-0	PSB063	968	0	[sì].	sì	_	_	_	_	_	linguistic	_	_	Intonation=Falling	Begin=1920.73|End=1921.1	_	_	_	0-2(158)
 969-0	PSB063	969	0	[c'	c'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	Begin=1921.52	_	_	_	0-2(159)
 969-1	PSB063	969	1	è]	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-1(159)

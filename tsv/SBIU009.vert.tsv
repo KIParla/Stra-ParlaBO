@@ -870,7 +870,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 196-6	PSB005	196	6	dell'	dell'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 196-7	PSB005	196	7	ucraina::	ucraina	_	_	_	_	_	linguistic	_	_	_	_	6x2	_	_	_
 196-8	PSB005	196	8	sei	sei	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-196-9	PSB005	196	9	°t[u]°?	tu	_	_	_	_	_	linguistic	_	_	Intonation=Rising|Volume=Low	End=389.51	_	_	_	0-2(50)
+196-9	PSB005	196	9	°t[u]°?	tu	_	_	_	_	_	linguistic	_	_	Intonation=Rising|Volume=Low	End=389.51	_	_	_	1-2(50)
 197-0	PSB039	197	0	[eh]:m	ehm	_	_	_	_	_	linguistic	_	_	_	Begin=389.24	1x1	_	_	0-2(50)
 197-1	PSB039	197	1	est	est	_	_	_	_	_	linguistic	_	_	_	End=390.11	_	_	_	_
 198-0	PSB005	198	0	okay	okay	_	_	_	_	_	linguistic	_	_	_	Begin=391.7|End=392.26	_	_	_	_
@@ -1156,8 +1156,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 254-7	PSB005	254	7	[son	son	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(59)
 254-8	PSB005	254	8	dei	dei	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(59)
 254-9	PSB005	254	9	can]tanti	cantanti	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(59)
-254-10	PSB005	254	10	ucra[ini]:,	ucraini	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	_	6x1	_	_	3-7(57)
-254-11	PSB005	254	11	°s[ì]°	sì	_	_	_	_	_	linguistic	_	_	Volume=Low	End=514.559	_	_	_	0-2(58)
+254-10	PSB005	254	10	ucra[ini]:,	ucraini	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	_	6x1	_	_	4-7(57)
+254-11	PSB005	254	11	°s[ì]°	sì	_	_	_	_	_	linguistic	_	_	Volume=Low	End=514.559	_	_	_	1-2(58)
 255-0	PSB039	255	0	[sì]	sì	_	_	_	_	_	linguistic	_	_	_	Begin=512.28|End=512.799	_	_	_	0-2(59)
 256-0	PSB039	256	0	[sì]	sì	_	_	_	_	_	linguistic	_	_	_	Begin=513.429|End=513.727	_	_	_	0-2(57)
 257-0	PSB039	257	0	[s]ì	sì	_	_	_	_	_	linguistic	_	_	_	Begin=514.03|End=514.58	_	_	_	0-1(58)
@@ -1235,7 +1235,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 274-9	PSB005	274	9	scors~	scors~	_	_	_	_	_	linguistic	_	_	Interrupted=Yes	_	_	_	_	_
 274-10	PSB005	274	10	due	due	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 274-11	PSB005	274	11	anni	anni	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-274-12	PSB005	274	12	tr[e	tre	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	1-3(61)
+274-12	PSB005	274	12	tr[e	tre	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	2-3(61)
 274-13	PSB005	274	13	anni]	anni	_	_	_	_	_	linguistic	_	_	_	End=546.94	_	_	_	0-4(61)
 275-0	PSB039	275	0	[mhmh]	mhmh	_	_	_	_	_	linguistic	_	_	_	Begin=546.51|End=546.94	_	_	_	0-4(61)
 276-0	PSB005	276	0	poco	poco	_	_	_	_	_	linguistic	_	_	_	Begin=547.01	_	_	_	_
@@ -1794,7 +1794,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 377-19	PSB005	377	19	sta	sta	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 377-20	PSB005	377	20	piacendo:	piacendo	_	_	_	_	_	linguistic	_	_	_	_	7x1	_	_	_
 377-21	PSB005	377	21	stare	stare	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-377-22	PSB005	377	22	qu[i]?	qui	_	_	_	_	_	linguistic	_	_	Intonation=Rising	End=774.38	_	_	_	1-3(84)
+377-22	PSB005	377	22	qu[i]?	qui	_	_	_	_	_	linguistic	_	_	Intonation=Rising	End=774.38	_	_	_	2-3(84)
 378-0	PSB039	378	0	[mi	mi	_	_	_	_	_	linguistic	_	_	_	Begin=774.11	_	_	_	0-2(84)
 378-1	PSB039	378	1	piace]	piace	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-5(84)
 378-2	PSB039	378	2	di	di	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -3016,7 +3016,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 596-2	PSB005	596	2	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 596-3	PSB005	596	3	italiano	italiano	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 596-4	PSB005	596	4	come	come	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-596-5	PSB005	596	5	funzi[ona:]	funziona	_	_	_	_	_	linguistic	_	_	_	End=1316.67	7x1	_	_	4-8(27)
+596-5	PSB005	596	5	funzi[ona:]	funziona	_	_	_	_	_	linguistic	_	_	_	End=1316.67	7x1	_	_	5-8(27)
 597-0	PSB039	597	0	[mhmh]	mhmh	_	_	_	_	_	linguistic	_	_	_	Begin=1316.36|End=1316.77	_	_	_	0-4(27)
 598-0	PSB039	598	0	mh[mh]	mhmh	_	_	_	_	_	linguistic	_	_	_	Begin=1317.12|End=1317.45	_	_	_	2-4(29)
 599-0	PSB005	599	0	[pe]rché	perché	_	_	_	_	_	linguistic	_	_	_	Begin=1317.35	_	_	_	0-2(29)
@@ -3091,7 +3091,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 615-6	PSB005	615	6	c'	c'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 615-7	PSB005	615	7	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 615-8	PSB005	615	8	questo	questo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-615-9	PSB005	615	9	proble[ma]	problema	_	_	_	_	_	linguistic	_	_	_	End=1348.649	_	_	_	5-8(34)
+615-9	PSB005	615	9	proble[ma]	problema	_	_	_	_	_	linguistic	_	_	_	End=1348.649	_	_	_	6-8(34)
 616-0	PSB039	616	0	[mhmh]	mhmh	_	_	_	_	_	linguistic	_	_	_	Begin=1348.365|End=1348.702	_	_	_	0-4(34)
 617-0	PSB005	617	0	e::hm	ehm	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	Begin=1349.197	0x2	_	_	_
 617-1	PSB005	617	1	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	_

@@ -97,7 +97,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 22-4	PSB114	22	4	altro:	altro	_	_	_	_	_	linguistic	_	_	_	End=97.46	4x1	_	_	_
 23-0	PSB113	23	0	un'	un'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	Begin=97.876	_	_	_	_
 23-1	PSB113	23	1	altra	altra	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-23-2	PSB113	23	2	per[sona]	persona	_	_	_	_	_	linguistic	_	_	_	End=98.841	_	_	_	2-7(5)
+23-2	PSB113	23	2	per[sona]	persona	_	_	_	_	_	linguistic	_	_	_	End=98.841	_	_	_	3-7(5)
 24-0	PSB114	24	0	[un'	un'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	Begin=98.531	_	_	_	0-3(5)
 24-1	PSB114	24	1	altra]	altra	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-5(5)
 24-2	PSB114	24	2	persona	persona	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -1129,8 +1129,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 269-0	PSB113	269	0	poi	poi	_	_	_	_	_	linguistic	_	_	_	Begin=926.833	_	_	_	_
 269-1	PSB113	269	1	c'	c'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 269-2	PSB113	269	2	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-269-3	PSB113	269	3	un'	un'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	2-3(0)	_
-269-4	PSB113	269	4	(altra)	altra	_	_	_	_	_	linguistic	_	_	_	_	_	_	0-4(0)	_
+269-3	PSB113	269	3	un'	un'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
+269-4	PSB113	269	4	(altra)	altra	_	_	_	_	_	linguistic	_	_	_	_	_	_	0-5(0)	_
 269-5	PSB113	269	5	ipotesi	ipotesi	_	_	_	_	_	linguistic	_	_	_	End=928.325	_	_	_	_
 270-0	PSB114	270	0	mhmh	mhmh	_	_	_	_	_	linguistic	_	_	_	Begin=928.878|End=929.281	_	_	_	_
 271-0	PSB113	271	0	che	che	_	_	_	_	_	linguistic	_	_	_	Begin=929.348|End=929.724	_	_	_	_
@@ -1223,8 +1223,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 290-6	PSB113	290	6	scorso	scorso	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 290-7	PSB113	290	7	doveva	doveva	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 290-8	PSB113	290	8	v~	v~	_	_	_	_	_	linguistic	_	_	Interrupted=Yes	_	_	_	_	_
-290-9	PSB113	290	9	vincere	vincere	_	_	_	_	_	linguistic	_	_	_	_	_	_	6-7(0)	_
-290-10	PSB113	290	10	(rodri)	rodri	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	_	_	_	0-4(0)	_
+290-9	PSB113	290	9	vincere	vincere	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+290-10	PSB113	290	10	(rodri)	rodri	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	_	_	_	0-5(0)	_
 290-11	PSB113	290	11	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	_
 290-12	PSB113	290	12	invece	invece	_	_	_	_	_	linguistic	_	_	_	End=1017.629	_	_	_	_
 291-0	PSB113	291	0	è	è	_	_	_	_	_	linguistic	_	_	_	Begin=1018.646	_	_	_	_
@@ -1574,7 +1574,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 359-6	PSB114	359	6	come	come	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 359-7	PSB114	359	7	(l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	0-2(0)	_
 359-8	PSB114	359	8	hanno	hanno	_	_	_	_	_	linguistic	_	_	_	_	_	_	0-5(0)	_
-359-9	PSB114	359	9	annunciato)	annunciato	_	_	_	_	_	linguistic	_	_	_	_	_	_	0-9(0)	_
+359-9	PSB114	359	9	annunciato)	annunciato	_	_	_	_	_	linguistic	_	_	_	_	_	_	0-10(0)	_
 359-10	PSB114	359	10	eh?	eh	_	_	_	_	_	linguistic	_	_	Intonation=Rising	End=1275.99	_	_	_	_
 360-0	PSB114	360	0	°xxx	xxx	_	_	_	_	_	unknown	_	_	Volume=Low|Syllables=3	Begin=1276.476	_	_	_	_
 360-1	PSB114	360	1	normale°	normale	_	_	_	_	_	linguistic	_	_	Volume=Low	End=1277.515	_	_	_	_
