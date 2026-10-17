@@ -867,7 +867,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 182-6	PSB005	182	6	c'	c'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 182-7	PSB005	182	7	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 182-8	PSB005	182	8	il	il	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-182-9	PSB005	182	9	mar[e::	mare	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	_	3x2	_	_	2-4(31)
+182-9	PSB005	182	9	mar[e::	mare	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	_	3x2	_	_	3-4(31)
 182-10	PSB005	182	10	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	X(31)
 182-11	PSB005	182	11	ci	ci	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(31)
 182-12	PSB005	182	12	son~]	son~	_	_	_	_	_	linguistic	_	_	Interrupted=Yes	End=368.27	_	_	_	0-4(31)
@@ -1976,7 +1976,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 394-6	PSB005	394	6	san	san	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 394-7	PSB005	394	7	pietro	pietro	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 394-8	PSB005	394	8	in	in	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-394-9	PSB005	394	9	cas[ale]?	casale	_	_	_	_	_	linguistic	_	_	Intonation=Rising	End=866.066	_	_	_	2-6(74)
+394-9	PSB005	394	9	cas[ale]?	casale	_	_	_	_	_	linguistic	_	_	Intonation=Rising	End=866.066	_	_	_	3-6(74)
 395-0	PSB059	395	0	[sì]	sì	_	_	_	_	_	linguistic	_	_	_	Begin=865.779|End=866.066	_	_	_	0-2(74)
 396-0	PSB005	396	0	quanto	quanto	_	_	_	_	_	linguistic	_	_	_	Begin=867.551	_	_	_	_
 396-1	PSB005	396	1	spesso	spesso	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -2305,7 +2305,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 472-1	PSB005	472	1	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 472-2	PSB005	472	2	molto	molto	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 472-3	PSB005	472	3	tempo	tempo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-472-4	PSB005	472	4	an[cora:]	ancora	_	_	_	_	_	linguistic	_	_	_	End=1005.03	5x1	_	_	1-6(88)
+472-4	PSB005	472	4	an[cora:]	ancora	_	_	_	_	_	linguistic	_	_	_	End=1005.03	5x1	_	_	2-6(88)
 473-0	PSB059	473	0	[sì:]	sì	_	_	_	_	_	linguistic	_	_	_	Begin=1004.533|End=1004.946	1x1	_	_	0-2(88)
 474-0	PSB059	474	0	[ancora]	ancora	_	_	_	_	_	linguistic	_	_	_	Begin=1005.234	_	_	_	0-6(89)
 474-1	PSB059	474	1	sono	sono	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -3031,7 +3031,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 653-7	PSB059	653	7	bologna	bologna	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 653-8	PSB059	653	8	c'	c'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 653-9	PSB059	653	9	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-653-10	PSB059	653	10	tantiss[imo]	tantissimo	_	_	_	_	_	linguistic	_	_	_	End=1318.44	_	_	_	5-9(115)
+653-10	PSB059	653	10	tantiss[imo]	tantissimo	_	_	_	_	_	linguistic	_	_	_	End=1318.44	_	_	_	7-10(115)
 654-0	PSB005	654	0	[mhmh]	mhmh	_	_	_	_	_	linguistic	_	_	_	Begin=1318.17|End=1318.66	_	_	_	0-4(115)
 655-0	PSB005	655	0	beh	beh	_	_	_	_	_	linguistic	_	_	_	Begin=1319.45	_	_	_	_
 655-1	PSB005	655	1	sì	sì	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_

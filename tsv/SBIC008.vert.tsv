@@ -731,8 +731,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 128-7	PSB037	128	7	è-	è-	_	_	_	_	_	linguistic	_	_	Interrupted=Yes	_	_	_	_	_
 128-8	PSB037	128	8	c'	c'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 128-9	PSB037	128	9	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-128-10	PSB037	128	10	una	una	_	_	_	_	_	linguistic	_	_	_	_	_	Slow=2-3(0)	_	_
-128-11	PSB037	128	11	<@bianchi>	@bianchi	_	_	_	_	_	anonymized	_	_	Anonymized=Yes	End=322.91	_	Slow=0-7(0)	_	_
+128-10	PSB037	128	10	una	una	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+128-11	PSB037	128	11	<@bianchi>	@bianchi	_	_	_	_	_	anonymized	_	_	Anonymized=Yes	End=322.91	_	Slow=0-8(0)	_	_
 129-0	PSB005	129	0	no	no	_	_	_	_	_	linguistic	_	_	_	Begin=319.31|End=319.6	_	_	_	_
 130-0	PSB005	130	0	okay	okay	_	_	_	_	_	linguistic	_	_	_	Begin=323.42|End=323.99	_	_	_	_
 131-0	PSB005	131	0	perché	perché	_	_	_	_	_	linguistic	_	_	_	Begin=325.12	_	_	_	_
@@ -1271,7 +1271,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 232-6	PSB037	232	6	univers~	univers~	_	_	_	_	_	linguistic	_	_	Interrupted=Yes	_	_	_	_	_
 232-7	PSB037	232	7	università	università	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 232-8	PSB037	232	8	MOLTO	molto	_	_	_	_	_	linguistic	_	_	Volume=High	_	_	_	_	_
-232-9	PSB037	232	9	famos(e)	famose	_	_	_	_	_	linguistic	_	_	_	End=581.69	_	_	4-6(0)	_
+232-9	PSB037	232	9	famos(e)	famose	_	_	_	_	_	linguistic	_	_	_	End=581.69	_	_	5-6(0)	_
 233-0	PSB037	233	0	pechino	pechino	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	Begin=581.99	_	_	_	_
 233-1	PSB037	233	1	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	_
 233-2	PSB037	233	2	xinhua	xinhua	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	_	_	_	_	_
@@ -4323,7 +4323,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 656-16	PSB038	656	16	suonare	suonare	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 656-17	PSB038	656	17	il	il	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 656-18	PSB038	656	18	flauto	flauto	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-656-19	PSB038	656	19	tra[verso]	traverso	_	_	_	_	_	linguistic	_	_	_	End=1904.805	_	_	_	2-8(52)
+656-19	PSB038	656	19	tra[verso]	traverso	_	_	_	_	_	linguistic	_	_	_	End=1904.805	_	_	_	3-8(52)
 657-0	PSB005	657	0	[a:]:h	ah	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	Begin=1904.18	0x2	_	_	0-1(52)
 657-1	PSB005	657	1	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	_
 657-2	PSB005	657	2	<bello>	bello	_	_	_	_	_	linguistic	_	_	_	End=1906.44	_	Slow=0-5(0)	_	_
@@ -4604,7 +4604,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 689-24	PSB005	689	24	con	con	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 689-25	PSB005	689	25	eh	eh	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 689-26	PSB005	689	26	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
-689-27	PSB005	689	27	univer[sità]	università	_	_	_	_	_	linguistic	_	_	_	End=2018.38	_	_	_	2-7(62)
+689-27	PSB005	689	27	univer[sità]	università	_	_	_	_	_	linguistic	_	_	_	End=2018.38	_	_	_	6-10(62)
 690-0	PSB036	690	0	[°ci	ci	_	_	_	_	_	linguistic	_	_	Volume=Low	Begin=2018.0	_	_	_	0-2(62)
 690-1	PSB036	690	1	sta°]	sta	_	_	_	_	_	linguistic	_	_	Volume=Low	End=2018.353	_	_	_	0-3(62)
 691-0	PSB005	691	0	non	non	_	_	_	_	_	linguistic	_	_	_	Begin=2019.1	_	_	_	_

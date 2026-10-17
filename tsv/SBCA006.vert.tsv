@@ -405,7 +405,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 81-8	PSB125	81	8	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 81-9	PSB125	81	9	niente	niente	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 81-10	PSB125	81	10	da	da	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-81-11	PSB125	81	11	vede[re]	vedere	_	_	_	_	_	linguistic	_	_	_	End=150.966	_	_	_	3-6(28)
+81-11	PSB125	81	11	vede[re]	vedere	_	_	_	_	_	linguistic	_	_	_	End=150.966	_	_	_	4-6(28)
 82-0	PSB126	82	0	[ma]	ma	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	Begin=150.78	_	_	_	0-2(28)
 82-1	PSB126	82	1	sei	sei	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 82-2	PSB126	82	2	una	una	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
@@ -752,7 +752,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 127-1	PSB125	127	1	avevi	avevi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 127-2	PSB125	127	2	preso:	preso	_	_	_	_	_	linguistic	_	_	_	_	4x1	_	_	_
 127-3	PSB125	127	3	dal	dal	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-127-4	PSB125	127	4	maroc[co]?	marocco	_	_	_	_	_	linguistic	_	_	Intonation=Rising	End=259.157	_	_	_	4-7(45)
+127-4	PSB125	127	4	maroc[co]?	marocco	_	_	_	_	_	linguistic	_	_	Intonation=Rising	End=259.157	_	_	_	5-7(45)
 128-0	PSB126	128	0	[eh]	eh	_	_	_	_	_	linguistic	_	_	_	Begin=258.81	_	_	_	0-2(45)
 128-1	PSB126	128	1	eh	eh	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 128-2	PSB126	128	2	marocco	marocco	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -1421,7 +1421,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 287-8	PSB125	287	8	te:	te	_	_	_	_	_	linguistic	_	_	_	_	1x1	_	_	_
 287-9	PSB125	287	9	@fatima	@fatima	_	_	_	_	_	anonymized	_	_	Anonymized=Yes	_	_	_	_	_
 287-10	PSB125	287	10	e	e	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-287-11	PSB125	287	11	@zi[neb]	@zineb	_	_	_	_	_	anonymized	_	_	Anonymized=Yes	End=561.36	_	_	_	2-6(76)
+287-11	PSB125	287	11	@zi[neb]	@zineb	_	_	_	_	_	anonymized	_	_	Anonymized=Yes	End=561.36	_	_	_	3-6(76)
 288-0	PSB126	288	0	[@samira	@samira	_	_	_	_	_	anonymized	_	_	Anonymized=Yes	Begin=560.98	_	_	_	0-7(76)
 288-1	PSB126	288	1	pa]rla	parla	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(76)
 288-2	PSB126	288	2	anche	anche	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -2005,7 +2005,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 408-14	PSB125	408	14	[crescono]	crescono	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-8(101)
 408-15	PSB125	408	15	e	e	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 408-16	PSB125	408	16	s'	s'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
-408-17	PSB125	408	17	aggius[tano	aggiustano	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	5-10(102)
+408-17	PSB125	408	17	aggius[tano	aggiustano	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	6-10(102)
 408-18	PSB125	408	18	va	va	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(102)
 408-19	PSB125	408	19	bene]	bene	_	_	_	_	_	linguistic	_	_	_	End=818.185	_	_	_	0-4(102)
 410-0	PSB126	410	0	[no]	no	_	_	_	_	_	linguistic	_	_	_	Begin=816.13|End=816.637	_	_	_	0-2(101)
@@ -2132,7 +2132,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 437-3	PSB125	437	3	quella	quella	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 437-4	PSB125	437	4	vestita	vestita	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 437-5	PSB125	437	5	con	con	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-437-6	PSB125	437	6	e::h[m	ehm	_	_	_	_	_	linguistic	_	_	_	_	0x2	_	_	1-3(109)
+437-6	PSB125	437	6	e::h[m	ehm	_	_	_	_	_	linguistic	_	_	_	_	0x2	_	_	2-3(109)
 437-7	PSB125	437	7	il	il	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(109)
 437-8	PSB125	437	8	gilet]?	gilet	_	_	_	_	_	linguistic	_	_	Intonation=Rising	End=866.937	_	_	_	0-5(109)
 438-0	PSB126	438	0	#_ [kānt	kānt	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=865.73	_	_	_	0-4(109)
@@ -2370,7 +2370,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 482-22	PSB125	482	22	aquilino	aquilino	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 482-23	PSB125	482	23	cioè	cioè	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 482-24	PSB125	482	24	la	la	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-482-25	PSB125	482	25	go[bba]	gobba	_	_	_	_	_	linguistic	_	_	_	End=952.3	_	_	_	1-5(123)
+482-25	PSB125	482	25	go[bba]	gobba	_	_	_	_	_	linguistic	_	_	_	End=952.3	_	_	_	2-5(123)
 483-0	PSB126	483	0	[mh	mh	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	Begin=951.75	_	_	_	0-2(123)
 483-1	PSB126	483	1	(.)]	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	X(123)
 483-2	PSB126	483	2	mh	mh	_	_	_	_	_	linguistic	_	_	_	End=952.63	_	_	_	_
@@ -2627,7 +2627,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 518-14	PSB125	518	14	tu	tu	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 518-15	PSB125	518	15	capisci	capisci	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 518-16	PSB125	518	16	subito	subito	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-518-17	PSB125	518	17	qua[l	qual	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	2-4(134)
+518-17	PSB125	518	17	qua[l	qual	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	3-4(134)
 518-18	PSB125	518	18	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-1(134)
 518-19	PSB125	518	19	quella	quella	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-6(134)
 518-20	PSB125	518	20	marocchina]	marocchina	_	_	_	_	_	linguistic	_	_	_	End=1048.223	_	_	_	0-10(134)
@@ -2832,7 +2832,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 554-4	PSB125	554	4	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	X(146)
 554-5	PSB125	554	5	t'	t'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	0-2(146)
 554-6	PSB125	554	6	ha	ha	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(146)
-554-7	PSB125	554	7	visto]	visto	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-4(146)
+554-7	PSB125	554	7	visto]	visto	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-5(146)
 554-8	PSB125	554	8	che	che	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 554-9	PSB125	554	9	c'	c'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 554-10	PSB125	554	10	hai:	hai	_	_	_	_	_	linguistic	_	_	_	_	2x1	_	_	_
@@ -2840,9 +2840,9 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 554-12	PSB125	554	12	avevi	avevi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 554-13	PSB125	554	13	il	il	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 554-14	PSB125	554	14	velo	velo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-554-15	PSB125	554	15	quindi	quindi	_	_	_	_	_	linguistic	_	_	Volume=Low	_	_	_	_	3-6(147)
+554-15	PSB125	554	15	quindi	quindi	_	_	_	_	_	linguistic	_	_	Volume=Low	_	_	_	_	_
 554-16	PSB125	554	16	[°ha	ha	_	_	_	_	_	linguistic	_	_	Volume=Low	_	_	_	_	0-2(147)
-554-17	PSB125	554	17	pensato°]	pensato	_	_	_	_	_	linguistic	_	_	Volume=Low	End=1114.962	_	_	_	0-5(147)
+554-17	PSB125	554	17	pensato°]	pensato	_	_	_	_	_	linguistic	_	_	Volume=Low	End=1114.962	_	_	_	0-7(147)
 555-0	PSB126	555	0	[sì	sì	_	_	_	_	_	linguistic	_	_	_	Begin=1114.21	_	_	_	0-2(147)
 555-1	PSB126	555	1	eh]	eh	_	_	_	_	_	linguistic	_	_	_	End=1115.087	_	_	_	0-2(147)
 556-0	PSB126	556	0	i~	i~	_	_	_	_	_	linguistic	_	_	Interrupted=Yes	Begin=1115.93	_	_	_	_
@@ -3236,7 +3236,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 629-3	PSB126	629	3	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 629-4	PSB126	629	4	ha	ha	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 629-5	PSB126	629	5	gli	gli	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-629-6	PSB126	629	6	occh[i	occhi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	3-5(164)
+629-6	PSB126	629	6	occh[i	occhi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	4-5(164)
 629-7	PSB126	629	7	grandi]	grandi	_	_	_	_	_	linguistic	_	_	_	End=1256.697	_	_	_	0-6(164)
 631-0	PSB125	631	0	[no	no	_	_	_	_	_	linguistic	_	_	_	Begin=1255.9	_	_	_	0-2(?)
 631-1	PSB125	631	1	non	non	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(?)
@@ -3453,7 +3453,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 671-7	PSB125	671	7	era	era	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(175)
 671-8	PSB125	671	8	sconta]to	scontato	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-6(175)
 671-9	PSB125	671	9	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-671-10	PSB125	671	10	ov[vio	ovvio	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	1-5(176)
+671-10	PSB125	671	10	ov[vio	ovvio	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	2-5(176)
 671-11	PSB125	671	11	c(io)è:]	cioè	_	_	_	_	_	linguistic	_	_	Reduced=Yes	_	3x1	_	_	0-4(176)
 671-12	PSB125	671	12	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 671-13	PSB125	671	13	ovvio	ovvio	_	_	_	_	_	linguistic	_	_	_	End=1345.434	_	_	_	_
@@ -3692,8 +3692,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 734-13	PSB125	734	13	tuo	tuo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 734-14	PSB125	734	14	rapporto	rapporto	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 734-15	PSB125	734	15	con	con	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-734-16	PSB125	734	16	lei	lei	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	1-3(185)
-734-17	PSB125	734	17	[crescendo]	crescendo	_	_	_	_	_	linguistic	_	_	_	End=1477.633	_	_	_	0-7(185)
+734-16	PSB125	734	16	lei	lei	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+734-17	PSB125	734	17	[crescendo]	crescendo	_	_	_	_	_	linguistic	_	_	_	End=1477.633	_	_	_	0-9(185)
 735-0	PSB126	735	0	#_ [məzy]a::n	məzyan	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=1476.8|End=1477.812	4x2	_	_	0-4(185)
 737-0	PSB125	737	0	ah	ah	_	_	_	_	_	linguistic	_	_	_	Begin=1478.22	_	_	_	_
 737-1	PSB125	737	1	[sì]?	sì	_	_	_	_	_	linguistic	_	_	Intonation=Rising	End=1478.701	_	_	_	0-2(186)

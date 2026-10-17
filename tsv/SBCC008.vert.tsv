@@ -4493,7 +4493,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 856-5	PSB119	856	5	uomo	uomo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 856-6	PSB119	856	6	piace	piace	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	_	_	_	_	_
 856-7	PSB119	856	7	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	_
-856-8	PSB119	856	8	co[sì]	così	_	_	_	_	_	linguistic	_	_	_	End=1720.99	_	_	_	1-4(170)
+856-8	PSB119	856	8	co[sì]	così	_	_	_	_	_	linguistic	_	_	_	End=1720.99	_	_	_	2-4(170)
 857-0	PSB105	857	0	[co]sì	così	_	_	_	_	_	linguistic	_	_	_	Begin=1720.81|End=1721.24	_	_	_	0-2(170)
 858-0	PSB104	858	0	[c(io)è]	cioè	_	_	_	_	_	linguistic	_	_	Reduced=Yes	Begin=1721.89	_	_	_	0-4(171)
 858-1	PSB104	858	1	una	una	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -10121,8 +10121,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 2011-18	PSB104	2011	18	allora	allora	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 2011-19	PSB104	2011	19	c'	c'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 2011-20	PSB104	2011	20	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-2011-21	PSB104	2011	21	proprio	proprio	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	6-7(?)
-2011-22	PSB104	2011	22	[questo]	questo	_	_	_	_	_	linguistic	_	_	_	End=3995.466	_	_	_	0-5(?)
+2011-21	PSB104	2011	21	proprio	proprio	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+2011-22	PSB104	2011	22	[questo]	questo	_	_	_	_	_	linguistic	_	_	_	End=3995.466	_	_	_	0-6(?)
 2012-0	PSB104	2012	0	ponte	ponte	_	_	_	_	_	linguistic	_	_	_	Begin=3995.679	_	_	_	_
 2012-1	PSB104	2012	1	di	di	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 2012-2	PSB104	2012	2	corvi	corvi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -12689,7 +12689,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 2502-11	PSB104	2502	11	e	e	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 2502-12	PSB104	2502	12	basta	basta	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 2502-13	PSB104	2502	13	[nell'	nell'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	0-5(476)
-2502-14	PSB104	2502	14	università]?	università	_	_	_	_	_	linguistic	_	_	Intonation=Rising	End=5097.83	_	_	_	0-9(476)
+2502-14	PSB104	2502	14	università]?	università	_	_	_	_	_	linguistic	_	_	Intonation=Rising	End=5097.83	_	_	_	0-10(476)
 2503-0	PSB105	2503	0	[sì]	sì	_	_	_	_	_	linguistic	_	_	_	Begin=5097.67|End=5098.11	_	_	_	0-2(476)
 2504-0	PSB104	2504	0	che	che	_	_	_	_	_	linguistic	_	_	_	Begin=5099.41	_	_	_	_
 2504-1	PSB104	2504	1	poi	poi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_

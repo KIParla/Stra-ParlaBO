@@ -1230,7 +1230,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 232-13	PSB042	232	13	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 232-14	PSB042	232	14	parte	parte	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 232-15	PSB042	232	15	#old	old	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-232-16	PSB042	232	16	#mad[ina].	madina	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	Intonation=Falling	End=536.795	_	_	_	2-6(45)
+232-16	PSB042	232	16	#mad[ina].	madina	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	Intonation=Falling	End=536.795	_	_	_	4-7(45)
 233-0	PSB005	233	0	[mh]mh.	mhmh	_	_	_	_	_	linguistic	_	_	Intonation=Falling	Begin=536.472|End=537.002	_	_	_	0-2(45)
 234-0	PSB005	234	0	e	e	_	_	_	_	_	linguistic	_	_	_	Begin=537.261	_	_	_	_
 234-1	PSB005	234	1	in	in	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -1331,8 +1331,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 249-6	PSB042	249	6	rabat,	rabat	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	Intonation=WeaklyRising	_	_	_	_	_
 249-7	PSB042	249	7	c'	c'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	SpaceAfter=No	_	_	_	_	_
 249-8	PSB042	249	8	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-249-9	PSB042	249	9	vicino	vicino	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	5-6(0)	_
-249-10	PSB042	249	10	(a)	a	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
+249-9	PSB042	249	9	vicino	vicino	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
+249-10	PSB042	249	10	(a)	a	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	0-1(0)	_
 249-11	PSB042	249	11	rabat	rabat	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 249-12	PSB042	249	12	altri	altri	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 249-13	PSB042	249	13	#place.	place	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	Intonation=Falling	_	_	_	_	_
@@ -1936,8 +1936,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 365-5	PSB042	365	5	bambino,	bambino	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	Intonation=WeaklyRising	_	_	_	_	_
 365-6	PSB042	365	6	c'	c'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	SpaceAfter=No	_	_	_	_	_
 365-7	PSB042	365	7	è:	è	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	0x1	_	_	_
-365-8	PSB042	365	8	#*de	de	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Unsure|Language=NO_ISO_CODE	_	_	_	_	3-4(0)	_
-365-9	PSB042	365	9	(fare).	fare	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	Intonation=Falling	_	_	_	0-3(0)	_
+365-8	PSB042	365	8	#*de	de	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Unsure|Language=NO_ISO_CODE	_	_	_	_	_	_
+365-9	PSB042	365	9	(fare).	fare	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	Intonation=Falling	_	_	_	0-4(0)	_
 365-10	PSB042	365	10	e	e	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 365-11	PSB042	365	11	qua	qua	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 365-12	PSB042	365	12	loro?	loro	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	Intonation=Rising	End=846.618	_	_	_	_
@@ -2226,7 +2226,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 415-5	PSB005	415	5	a	a	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 415-6	PSB005	415	6	scuola	scuola	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 415-7	PSB005	415	7	il	il	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-415-8	PSB005	415	8	fr[ancese].	francese	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=974.927	_	_	_	1-8(85)
+415-8	PSB005	415	8	fr[ancese].	francese	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=974.927	_	_	_	2-8(85)
 416-0	PSB042	416	0	[s:ì]:.	sì	_	_	_	_	_	linguistic	_	_	Intonation=Falling	Begin=974.438	0x1,1x1	_	_	0-2(85)
 416-1	PSB042	416	1	s~	s~	_	_	_	_	_	linguistic	_	_	Interrupted=Yes	End=975.331	_	_	_	_
 417-0	PSB042	417	0	e	e	_	_	_	_	_	linguistic	_	_	_	Begin=975.978	_	_	_	_
@@ -2239,10 +2239,10 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 418-5	PSB005	418	5	hai	hai	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 418-6	PSB005	418	6	studiato	studiato	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 418-7	PSB005	418	7	a	a	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-418-8	PSB005	418	8	scu[ola	scuola	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	2-6(86)
+418-8	PSB005	418	8	scu[ola	scuola	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	3-6(86)
 418-9	PSB005	418	9	anche	anche	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-5(86)
 418-10	PSB005	418	10	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	0-2(86)
-418-11	PSB005	418	11	inglese]?	inglese	_	_	_	_	_	linguistic	_	_	Intonation=Rising	End=979.849	_	_	_	0-6(86)
+418-11	PSB005	418	11	inglese]?	inglese	_	_	_	_	_	linguistic	_	_	Intonation=Rising	End=979.849	_	_	_	0-7(86)
 419-0	PSB042	419	0	[<sì>]	sì	_	_	_	_	_	linguistic	_	_	_	Begin=978.714|End=979.849	_	Slow=0-2(0)	_	0-2(86)
 420-0	PSB005	420	0	sì.	sì	_	_	_	_	_	linguistic	_	_	Intonation=Falling	Begin=979.956|End=980.478	_	_	_	_
 421-0	PSB042	421	0	ma	ma	_	_	_	_	_	linguistic	_	_	_	Begin=980.756	_	_	_	_
@@ -2548,7 +2548,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 484-8	PSB042	484	8	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 484-9	PSB042	484	9	#important	important	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 484-10	PSB042	484	10	la	la	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-484-11	PSB042	484	11	li[ngua].	lingua	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	Intonation=Falling	End=1106.343	_	_	_	0-5(113)
+484-11	PSB042	484	11	li[ngua].	lingua	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	Intonation=Falling	End=1106.343	_	_	_	2-6(113)
 485-0	PSB005	485	0	[no]:	no	_	_	_	_	_	linguistic	_	_	_	Begin=1106.048|End=1106.478	1x1	_	_	0-2(113)
 486-0	PSB005	486	0	per	per	_	_	_	_	_	linguistic	_	_	_	Begin=1107.028	_	_	_	_
 486-1	PSB005	486	1	nessuno	nessuno	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -2558,7 +2558,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 487-2	PSB042	487	2	internazionale	internazionale	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 487-3	PSB042	487	3	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 487-4	PSB042	487	4	inglese	inglese	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-487-5	PSB042	487	5	ad[e°sso.°]	adesso	_	_	_	_	_	linguistic	_	_	Intonation=Falling|Volume=Low	End=1111.218	_	_	_	1-6(114)
+487-5	PSB042	487	5	ad[e°sso.°]	adesso	_	_	_	_	_	linguistic	_	_	Intonation=Falling|Volume=Low	End=1111.218	_	_	_	2-6(114)
 488-0	PSB005	488	0	[eh	eh	_	_	_	_	_	linguistic	_	_	_	Begin=1110.398	_	_	_	0-2(114)
 488-1	PSB005	488	1	sì]	sì	_	_	_	_	_	linguistic	_	_	_	End=1110.868	_	_	_	0-2(114)
 489-0	PSB005	489	0	[anche	anche	_	_	_	_	_	linguistic	_	_	_	Begin=1111.518	_	_	_	0-5(115)
@@ -2573,7 +2573,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 490-2	PSB042	490	2	arabo	arabo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-5(115)
 490-3	PSB042	490	3	anche	anche	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-5(115)
 490-4	PSB042	490	4	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	0-2(115)
-490-5	PSB042	490	5	ar]abo	arabo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-1(115)
+490-5	PSB042	490	5	ar]abo	arabo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(115)
 490-6	PSB042	490	6	niente.	niente	_	_	_	_	_	linguistic	_	_	Intonation=Falling	_	_	_	_	_
 490-7	PSB042	490	7	solo	solo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 490-8	PSB042	490	8	mia	mia	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -2784,7 +2784,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 539-7	PSB042	539	7	e	e	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 539-8	PSB042	539	8	parlare	parlare	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 539-9	PSB042	539	9	l'	l'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	SpaceAfter=No	_	_	_	_	_
-539-10	PSB042	539	10	ara[bo].	arabo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	Intonation=Falling	End=1206.718	_	_	_	2-5(130)
+539-10	PSB042	539	10	ara[bo].	arabo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	Intonation=Falling	End=1206.718	_	_	_	3-5(130)
 540-0	PSB005	540	0	[mh]mh.	mhmh	_	_	_	_	_	linguistic	_	_	Intonation=Falling	Begin=1206.618	_	_	_	0-2(130)
 540-1	PSB005	540	1	mhmh.	mhmh	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=1207.418	_	_	_	_
 541-0	PSB005	541	0	[e	e	_	_	_	_	_	linguistic	_	_	_	Begin=1208.058	_	_	_	0-1(131)
@@ -3375,7 +3375,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 666-1	PSB005	666	1	però,	però	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	_	_	_	_	_
 666-2	PSB005	666	2	c'	c'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 666-3	PSB005	666	3	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-666-4	PSB005	666	4	bi[sogno	bisogno	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	1-7(175)
+666-4	PSB005	666	4	bi[sogno	bisogno	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	2-7(175)
 666-5	PSB005	666	5	di	di	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(175)
 666-6	PSB005	666	6	un	un	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(175)
 666-7	PSB005	666	7	po'	po'	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(175)
@@ -3412,7 +3412,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 671-5	PSB042	671	5	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	_
 671-6	PSB042	671	6	tardi.	tardi	_	_	_	_	_	linguistic	_	_	Intonation=Falling	_	_	_	_	_
 671-7	PSB042	671	7	sette,	sette	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	_	_	_	_	_
-671-8	PSB042	671	8	ot[to],	otto	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=1476.067	_	_	_	0-3(177)
+671-8	PSB042	671	8	ot[to],	otto	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=1476.067	_	_	_	2-4(177)
 672-0	PSB005	672	0	[mh].	mh	_	_	_	_	_	linguistic	_	_	Intonation=Falling	Begin=1475.718|End=1476.068	_	_	_	0-2(177)
 673-0	PSB042	673	0	cerco	cerco	_	_	_	_	_	linguistic	_	_	_	Begin=1476.453	_	_	_	_
 673-1	PSB042	673	1	ma	ma	_	_	_	_	_	linguistic	_	_	_	End=1477.393	_	_	_	_
@@ -4040,7 +4040,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 781-4	PSB042	781	4	no	no	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 781-5	PSB042	781	5	c'	c'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 781-6	PSB042	781	6	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-781-7	PSB042	781	7	problem[a].	problema	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=1733.864	_	_	_	6-8(210)
+781-7	PSB042	781	7	problem[a].	problema	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=1733.864	_	_	_	7-8(210)
 782-0	PSB005	782	0	[mh]	mh	_	_	_	_	_	linguistic	_	_	_	Begin=1733.687	_	_	_	0-2(210)
 782-1	PSB005	782	1	mh.	mh	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=1734.076	_	_	_	_
 783-0	PSB042	783	0	spesa,	spesa	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	Intonation=WeaklyRising	Begin=1734.265	_	_	_	_
@@ -4109,7 +4109,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 794-4	PSB042	794	4	$marscindese	marscindese	_	_	_	_	_	linguistic	_	Nonce=Yes	_	_	_	_	_	_
 794-5	PSB042	794	5	che	che	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 794-6	PSB042	794	6	di	di	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-794-7	PSB042	794	7	maro[cchine].	marocchine	_	_	_	_	_	linguistic	_	_	Intonation=Falling	_	_	_	_	3-10(212)
+794-7	PSB042	794	7	maro[cchine].	marocchine	_	_	_	_	_	linguistic	_	_	Intonation=Falling	_	_	_	_	4-10(212)
 794-8	PSB042	794	8	de	de	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 794-9	PSB042	794	9	arabo.	arabo	_	_	_	_	_	linguistic	_	_	Intonation=Falling	_	_	_	_	_
 794-10	PSB042	794	10	c'	c'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
@@ -4124,11 +4124,11 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 796-5	PSB042	796	5	carni	carni	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 796-6	PSB042	796	6	#hala:l	halal	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	3x1	_	_	_
 796-7	PSB042	796	7	[c'	c'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	SpaceAfter=No	_	_	_	_	0-2(213)
-796-8	PSB042	796	8	è]:.	è	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	Intonation=Falling	_	0x1	_	_	_
+796-8	PSB042	796	8	è]:.	è	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	Intonation=Falling	_	0x1	_	_	0-1(213)
 796-9	PSB042	796	9	pollo	pollo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-796-10	PSB042	796	10	#hala:l	halal	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	3x1	_	_	5-6(214)
+796-10	PSB042	796	10	#hala:l	halal	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	3x1	_	_	_
 796-11	PSB042	796	11	[c'	c'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	SpaceAfter=No	_	_	_	_	0-2(214)
-796-12	PSB042	796	12	è]	è	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
+796-12	PSB042	796	12	è]	è	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	0-1(214)
 796-13	PSB042	796	13	anch°e°	anche	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	Volume=Low	_	_	_	_	_
 796-14	PSB042	796	14	#les	les	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 796-15	PSB042	796	15	#épices	épices	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
@@ -5399,7 +5399,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1058-10	PSB005	1058	10	le	le	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1058-11	PSB005	1058	11	ragazze	ragazze	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1058-12	PSB005	1058	12	che	che	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-1058-13	PSB005	1058	13	chiacchie[ravano:],	chiacchieravano	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=2297.153	14x1	_	_	8-15(285)
+1058-13	PSB005	1058	13	chiacchie[ravano:],	chiacchieravano	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=2297.153	14x1	_	_	9-15(285)
 1059-0	PSB042	1059	0	[s:ì	sì	_	_	_	_	_	linguistic	_	_	_	Begin=2296.142	0x1	_	_	0-2(285)
 1059-1	PSB042	1059	1	sì].	sì	_	_	_	_	_	linguistic	_	_	Intonation=Falling|PauseAfter=Yes	_	_	_	_	0-2(285)
 1059-2	PSB042	1059	2	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	_
@@ -5414,7 +5414,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1060-7	PSB005	1060	7	le:,	le	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising|PauseAfter=Yes	_	1x1	_	_	_
 1060-8	PSB005	1060	8	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	_
 1060-9	PSB005	1060	9	loro	loro	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-1060-10	PSB005	1060	10	bi[mbe],	bimbe	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=2301.502	_	_	_	1-5(286)
+1060-10	PSB005	1060	10	bi[mbe],	bimbe	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=2301.502	_	_	_	2-5(286)
 1061-0	PSB042	1061	0	[fa]re	fare	_	_	_	_	_	linguistic	_	_	_	Begin=2301.275	_	_	_	0-2(286)
 1061-1	PSB042	1061	1	la	la	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1061-2	PSB042	1061	2	pelle	pelle	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -5427,7 +5427,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1063-2	PSB005	1063	2	non	non	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1063-3	PSB005	1063	3	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 1063-4	PSB005	1063	4	ho	ho	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-1063-5	PSB005	1063	5	fat[to	fatto	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	2-5(288)
+1063-5	PSB005	1063	5	fat[to	fatto	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	3-5(288)
 1063-6	PSB005	1063	6	no].	no	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=2305.225	_	_	_	0-2(288)
 1064-0	PSB042	1064	0	[s:]erve	serve	_	_	_	_	_	linguistic	_	_	_	Begin=2305.18	0x1	_	_	0-1(288)
 1064-1	PSB042	1064	1	provare.	provare	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=2306.169	_	_	_	_
@@ -6162,7 +6162,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1230-3	PSB042	1230	3	la	la	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1230-4	PSB042	1230	4	festa	festa	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1230-5	PSB042	1230	5	[da]	da	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(329)
-1230-6	PSB042	1230	6	pecor[a].	pecora	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=2651.777	_	_	_	4-6(328)
+1230-6	PSB042	1230	6	pecor[a].	pecora	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=2651.777	_	_	_	5-6(328)
 1231-0	PSB005	1231	0	[eh].	eh	_	_	_	_	_	linguistic	_	_	Intonation=Falling	Begin=2650.937|End=2651.217	_	_	_	0-2(329)
 1232-0	PSB005	1232	0	[sì].	sì	_	_	_	_	_	linguistic	_	_	Intonation=Falling	Begin=2651.627	_	_	_	0-2(328)
 1232-1	PSB005	1232	1	es[att]o	esatto	_	_	_	_	_	linguistic	_	_	_	End=2652.687	_	_	_	2-5(330)

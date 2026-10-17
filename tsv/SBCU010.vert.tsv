@@ -604,7 +604,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 144-3	PSB150	144	3	finché	finché	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 144-4	PSB150	144	4	c'	c'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 144-5	PSB150	144	5	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-144-6	PSB150	144	6	sol[e	sole	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	2-4(33)
+144-6	PSB150	144	6	sol[e	sole	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	3-4(33)
 144-7	PSB150	144	7	non	non	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(33)
 144-8	PSB150	144	8	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-1(33)
 144-9	PSB150	144	9	che	che	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(33)
@@ -1045,7 +1045,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 222-6	PSB149	222	6	lu~]	lu~	_	_	_	_	_	linguistic	_	_	Interrupted=Yes	_	_	_	_	0-3(51)
 222-7	PSB149	222	7	lui	lui	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 222-8	PSB149	222	8	potrebbe	potrebbe	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-222-9	PSB149	222	9	ves[xxxx]	vesxxxx	_	_	_	_	_	linguistic	_	_	_	End=567.8	_	_	_	2-7(50)
+222-9	PSB149	222	9	ves[xxxx]	vesxxxx	_	_	_	_	_	linguistic	_	_	_	End=567.8	_	_	_	3-7(50)
 223-0	PSB150	223	0	[con:]	con	_	_	_	_	_	linguistic	_	_	_	Begin=565.03|End=565.85	2x1	_	_	0-3(51)
 224-0	PSB150	224	0	[sentire	sentire	_	_	_	_	_	linguistic	_	_	_	Begin=566.67	_	_	_	0-7(50)
 224-1	PSB150	224	1	fre]ddo	freddo	_	_	_	_	_	linguistic	_	_	_	End=568.31	_	_	_	0-3(50)
@@ -1461,8 +1461,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 290-12	PSB149	290	12	c'	c'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 290-13	PSB149	290	13	erano	erano	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 290-14	PSB149	290	14	tutte	tutte	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-290-15	PSB149	290	15	queste	queste	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	5-6(9)
-290-16	PSB149	290	16	[cose]	cose	_	_	_	_	_	linguistic	_	_	_	End=733.08	_	_	_	0-3(9)
+290-15	PSB149	290	15	queste	queste	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+290-16	PSB149	290	16	[cose]	cose	_	_	_	_	_	linguistic	_	_	_	End=733.08	_	_	_	0-4(9)
 291-0	PSB150	291	0	[ma	ma	_	_	_	_	_	linguistic	_	_	_	Begin=732.62	_	_	_	0-2(9)
 291-1	PSB150	291	1	cer]to	certo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(9)
 291-2	PSB150	291	2	[che	che	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(10)

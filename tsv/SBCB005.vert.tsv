@@ -687,7 +687,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 77-3	PSB050	77	3	altra	altra	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 77-4	PSB050	77	4	volta	volta	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 77-5	PSB050	77	5	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-77-6	PSB050	77	6	sta[to:],	stato	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=269.145	4x1	_	_	2-5(18)
+77-6	PSB050	77	6	sta[to:],	stato	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=269.145	4x1	_	_	3-5(18)
 78-0	PSB049	78	0	[sì]	sì	_	_	_	_	_	linguistic	_	_	_	Begin=268.752	_	_	_	0-2(18)
 78-1	PSB049	78	1	sì	sì	_	_	_	_	_	linguistic	_	_	_	End=269.33	_	_	_	_
 79-0	PSB050	79	0	e	e	_	_	_	_	_	linguistic	_	_	_	Begin=269.453	_	_	_	_
@@ -1570,7 +1570,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 173-16	PSB050	173	16	detto	detto	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 173-17	PSB050	173	17	adesso	adesso	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 173-18	PSB050	173	18	che	che	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-173-19	PSB050	173	19	no[n:]	non	_	_	_	_	_	linguistic	_	_	_	End=600.012	2x1	_	_	1-3(40)
+173-19	PSB050	173	19	no[n:]	non	_	_	_	_	_	linguistic	_	_	_	End=600.012	2x1	_	_	2-3(40)
 174-0	PSB049	174	0	[non	non	_	_	_	_	_	linguistic	_	_	_	Begin=599.515	_	_	_	0-3(40)
 174-1	PSB049	174	1	è]	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-1(40)
 174-2	PSB049	174	2	che	che	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -3295,8 +3295,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 433-22	PSB049	433	22	comunità	comunità	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 433-23	PSB049	433	23	e	e	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 433-24	PSB049	433	24	poi	poi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-433-25	PSB049	433	25	dopo	dopo	_	_	_	_	_	linguistic	_	_	_	_	_	_	2-4(0)	_
-433-26	PSB049	433	26	($sepobizia)	sepobizia	_	_	_	_	_	linguistic	_	Nonce=Yes	_	End=1347.673	_	_	0-8(0)	_
+433-25	PSB049	433	25	dopo	dopo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+433-26	PSB049	433	26	($sepobizia)	sepobizia	_	_	_	_	_	linguistic	_	Nonce=Yes	_	End=1347.673	_	_	0-10(0)	_
 434-0	PSB049	434	0	quindi:	quindi	_	_	_	_	_	linguistic	_	_	_	Begin=1348.253	5x1	_	_	_
 434-1	PSB049	434	1	hanno:	hanno	_	_	_	_	_	linguistic	_	_	_	_	4x1	_	_	_
 434-2	PSB049	434	2	e:	e	_	_	_	_	_	linguistic	_	_	_	_	0x1	_	_	_
@@ -3509,7 +3509,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 462-5	PSB050	462	5	denuncia	denuncia	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 462-6	PSB050	462	6	°non	non	_	_	_	_	_	linguistic	_	_	Volume=Low	_	_	_	_	_
 462-7	PSB050	462	7	ho	ho	_	_	_	_	_	linguistic	_	_	Volume=Low	_	_	_	_	_
-462-8	PSB050	462	8	ca[pito]°	capito	_	_	_	_	_	linguistic	_	_	Volume=Low	End=1447.285	_	_	_	1-6(99)
+462-8	PSB050	462	8	ca[pito]°	capito	_	_	_	_	_	linguistic	_	_	Volume=Low	End=1447.285	_	_	_	2-6(99)
 463-0	PSB049	463	0	[quello]	quello	_	_	_	_	_	linguistic	_	_	_	Begin=1447.028	_	_	_	0-6(99)
 463-1	PSB049	463	1	governo	governo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 463-2	PSB049	463	2	che	che	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -4462,8 +4462,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 620-2	PSB049	620	2	febbraio	febbraio	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 620-3	PSB049	620	3	io	io	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 620-4	PSB049	620	4	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
-620-5	PSB049	620	5	ho	ho	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	1-2(137)
-620-6	PSB049	620	6	[scrit]to	scritto	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-4(137)
+620-5	PSB049	620	5	ho	ho	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+620-6	PSB049	620	6	[scrit]to	scritto	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-5(137)
 620-7	PSB049	620	7	in	in	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	_	_	_	_	_
 620-8	PSB049	620	8	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	_
 620-9	PSB049	620	9	otto	otto	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -4599,7 +4599,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 644-0	PSB050	644	0	un'	un'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	Begin=1933.25	_	_	_	_
 644-1	PSB050	644	1	inie~	inie~	_	_	_	_	_	linguistic	_	_	Interrupted=Yes	_	_	_	_	_
 644-2	PSB050	644	2	delle	delle	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-644-3	PSB050	644	3	iniezi[oni:]	iniezioni	_	_	_	_	_	linguistic	_	_	_	End=1935.26	8x1	_	_	5-9(142)
+644-3	PSB050	644	3	iniezi[oni:]	iniezioni	_	_	_	_	_	linguistic	_	_	_	End=1935.26	8x1	_	_	6-9(142)
 645-0	PSB049	645	0	[sì]	sì	_	_	_	_	_	linguistic	_	_	_	Begin=1934.61|End=1935.1	_	_	_	0-2(142)
 646-0	PSB049	646	0	così	così	_	_	_	_	_	linguistic	_	_	_	Begin=1935.76	_	_	_	_
 646-1	PSB049	646	1	iniezione	iniezione	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -6091,7 +6091,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 862-8	PSB050	862	8	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 862-9	PSB050	862	9	tutto	tutto	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 862-10	PSB050	862	10	normale	normale	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-862-11	PSB050	862	11	gi[usto]?	giusto	_	_	_	_	_	linguistic	_	_	Intonation=Rising	End=2601.06	_	_	_	1-6(190)
+862-11	PSB050	862	11	gi[usto]?	giusto	_	_	_	_	_	linguistic	_	_	Intonation=Rising	End=2601.06	_	_	_	2-6(190)
 863-0	PSB049	863	0	[eh]	eh	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	Begin=2600.678	_	_	_	0-2(190)
 863-1	PSB049	863	1	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	_
 863-2	PSB049	863	2	sì	sì	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -6417,7 +6417,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 907-12	PSB050	907	12	c'	c'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	0-2(204)
 907-13	PSB050	907	13	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-1(204)
 907-14	PSB050	907	14	roma	roma	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-4(204)
-907-15	PSB050	907	15	mi]lano	milano	_	_	_	_	_	linguistic	_	_	_	End=2724.305	_	_	_	0-1(204)
+907-15	PSB050	907	15	mi]lano	milano	_	_	_	_	_	linguistic	_	_	_	End=2724.305	_	_	_	0-2(204)
 908-0	PSB049	908	0	[roma	roma	_	_	_	_	_	linguistic	_	_	_	Begin=2723.111	_	_	_	0-4(204)
 908-1	PSB049	908	1	milano]	milano	_	_	_	_	_	linguistic	_	_	_	End=2723.941	_	_	_	0-6(204)
 909-0	PSB049	909	0	°sì	sì	_	_	_	_	_	linguistic	_	_	Volume=Low	Begin=2724.433	_	_	_	_
@@ -6852,7 +6852,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 972-11	PSB050	972	11	che	che	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 972-12	PSB050	972	12	compra	compra	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 972-13	PSB050	972	13	delle	delle	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-972-14	PSB050	972	14	cos[e:]	cose	_	_	_	_	_	linguistic	_	_	_	End=2895.475	3x1	_	_	2-4(219)
+972-14	PSB050	972	14	cos[e:]	cose	_	_	_	_	_	linguistic	_	_	_	End=2895.475	3x1	_	_	3-4(219)
 973-0	PSB049	973	0	[sì]	sì	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	Begin=2894.729	_	_	_	0-2(219)
 973-1	PSB049	973	1	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	_
 973-2	PSB049	973	2	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_

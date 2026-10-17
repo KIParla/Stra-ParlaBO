@@ -342,7 +342,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 86-9	PSB085	86	9	sai	sai	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 86-10	PSB085	86	10	della	della	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 86-11	PSB085	86	11	scorsa	scorsa	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-86-12	PSB085	86	12	volt[a:]	volta	_	_	_	_	_	linguistic	_	_	_	End=176.73	4x1	_	_	3-5(19)
+86-12	PSB085	86	12	volt[a:]	volta	_	_	_	_	_	linguistic	_	_	_	End=176.73	4x1	_	_	4-5(19)
 87-0	PSB084	87	0	[xx]	xx	_	_	_	_	_	unknown	_	_	Syllables=2	Begin=176.44	_	_	_	0-2(19)
 87-1	PSB084	87	1	scorsa	scorsa	_	_	_	_	_	linguistic	_	_	_	End=177.5	_	_	_	_
 88-0	PSB085	88	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	_	_	Begin=177.58|End=178.215	_	_	_	_
@@ -1006,7 +1006,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 231-4	PSB085	231	4	gliel'	gliel'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 231-5	PSB085	231	5	ho	ho	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 231-6	PSB085	231	6	pagata	pagata	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-231-7	PSB085	231	7	pe[rò	però	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	1-4(57)
+231-7	PSB085	231	7	pe[rò	però	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	2-4(57)
 231-8	PSB085	231	8	non]	non	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(57)
 231-9	PSB085	231	9	sapevo	sapevo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 231-10	PSB085	231	10	che	che	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -2125,7 +2125,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 444-3	PSB084	444	3	belle	belle	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 444-4	PSB084	444	4	un	un	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 444-5	PSB084	444	5	bell'	bell'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
-444-6	PSB084	444	6	apparta[mento:]	appartamento	_	_	_	_	_	linguistic	_	_	_	End=948.4	11x1	_	_	6-12(106)
+444-6	PSB084	444	6	apparta[mento:]	appartamento	_	_	_	_	_	linguistic	_	_	_	End=948.4	11x1	_	_	7-12(106)
 445-0	PSB085	445	0	[mhmh]	mhmh	_	_	_	_	_	linguistic	_	_	_	Begin=947.92|End=948.39	_	_	_	0-4(106)
 446-0	PSB085	446	0	eh	eh	_	_	_	_	_	linguistic	_	_	_	Begin=948.68	_	_	_	_
 446-1	PSB085	446	1	sai	sai	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -2281,8 +2281,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 469-3	PSB084	469	3	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 469-4	PSB084	469	4	acqua:	acqua	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	_	4x1	_	_	_
 469-5	PSB084	469	5	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	_
-469-6	PSB084	469	6	bel[la	bella	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	1-5(116)
-469-7	PSB084	469	7	là]	là	_	_	_	_	_	linguistic	_	_	_	End=1009.05	_	_	_	0-1(116)
+469-6	PSB084	469	6	bel[la	bella	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	3-5(116)
+469-7	PSB084	469	7	là]	là	_	_	_	_	_	linguistic	_	_	_	End=1009.05	_	_	_	0-2(116)
 470-0	PSB085	470	0	[mhmh]	mhmh	_	_	_	_	_	linguistic	_	_	_	Begin=1008.62|End=1009.04	_	_	_	0-4(116)
 471-0	PSB084	471	0	(beh	beh	_	_	_	_	_	linguistic	_	_	_	Begin=1018.4	_	_	0-3(0)	_
 471-1	PSB084	471	1	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	0-2(0)	_
@@ -2392,7 +2392,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 490-4	PSB084	490	4	giorni:	giorni	_	_	_	_	_	linguistic	_	_	_	End=1057.01	5x1	_	_	_
 491-0	PSB085	491	0	c'	c'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	Begin=1057.01	_	_	_	_
 491-1	PSB085	491	1	era	era	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-491-2	PSB085	491	2	brut[to]	brutto	_	_	_	_	_	linguistic	_	_	_	End=1057.86	_	_	_	3-6(122)
+491-2	PSB085	491	2	brut[to]	brutto	_	_	_	_	_	linguistic	_	_	_	End=1057.86	_	_	_	4-6(122)
 492-0	PSB084	492	0	[eh]	eh	_	_	_	_	_	linguistic	_	_	_	Begin=1057.56	_	_	_	0-2(122)
 492-1	PSB084	492	1	avevan~	avevan~	_	_	_	_	_	linguistic	_	_	Interrupted=Yes	End=1058.69	_	_	_	_
 493-0	PSB084	493	0	prenotato:	prenotato	_	_	_	_	_	linguistic	_	_	_	Begin=1059.17	8x1	_	_	_
@@ -2919,7 +2919,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 584-10	PSB084	584	10	me	me	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 584-11	PSB084	584	11	son	son	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 584-12	PSB084	584	12	sei	sei	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-584-13	PSB084	584	13	me[si	mesi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	1-4(155)
+584-13	PSB084	584	13	me[si	mesi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	2-4(155)
 584-14	PSB084	584	14	eh]	eh	_	_	_	_	_	linguistic	_	_	_	End=1250.12	_	_	_	0-2(155)
 585-0	PSB083	585	0	[no:]:::	no	_	_	_	_	_	linguistic	_	_	_	Begin=1249.71	1x4	_	_	0-2(155)
 585-1	PSB083	585	1	a	a	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -3865,7 +3865,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 795-0	PSB084	795	0	dio	dio	_	_	_	_	_	linguistic	_	_	_	Begin=1714.0	_	_	_	_
 795-1	PSB084	795	1	bono	bono	_	_	_	_	_	linguistic	_	_	_	End=1715.0	_	_	_	_
 796-0	PSB084	796	0	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	Begin=1716.84	_	_	_	_
-796-1	PSB084	796	1	au[tista	autista	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	1-7(202)
+796-1	PSB084	796	1	au[tista	autista	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	2-7(202)
 796-2	PSB084	796	2	xx]	xx	_	_	_	_	_	unknown	_	_	Syllables=2	End=1717.93	_	_	_	0-2(202)
 797-0	PSB085	797	0	[lo	lo	_	_	_	_	_	linguistic	_	_	_	Begin=1717.08	_	_	_	0-2(202)
 797-1	PSB085	797	1	faceva	faceva	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-6(202)
@@ -4521,7 +4521,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 917-8	PSB084	917	8	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	_
 917-9	PSB084	917	9	perché	perché	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 917-10	PSB084	917	10	col	col	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-917-11	PSB084	917	11	terre[moto]	terremoto	_	_	_	_	_	linguistic	_	_	_	End=1942.32	_	_	_	4-9(246)
+917-11	PSB084	917	11	terre[moto]	terremoto	_	_	_	_	_	linguistic	_	_	_	End=1942.32	_	_	_	5-9(246)
 918-0	PSB083	918	0	[era	era	_	_	_	_	_	linguistic	_	_	_	Begin=1941.83	_	_	_	0-3(246)
 918-1	PSB083	918	1	di~]	di~	_	_	_	_	_	linguistic	_	_	Interrupted=Yes	_	_	_	_	0-3(246)
 918-2	PSB083	918	2	era	era	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -4534,7 +4534,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 918-9	PSB083	918	9	giù	giù	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(247)
 918-10	PSB083	918	10	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	0-2(247)
 918-11	PSB083	918	11	hann	hann	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-4(247)
-918-12	PSB083	918	12	demolita]	demolita	_	_	_	_	_	linguistic	_	_	_	End=1945.3	_	_	_	0-7(247)
+918-12	PSB083	918	12	demolita]	demolita	_	_	_	_	_	linguistic	_	_	_	End=1945.3	_	_	_	0-8(247)
 919-0	PSB084	919	0	[erano	erano	_	_	_	_	_	linguistic	_	_	_	Begin=1943.35	_	_	_	0-5(247)
 919-1	PSB084	919	1	quasi	quasi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-5(247)
 919-2	PSB084	919	2	ci~	ci~	_	_	_	_	_	linguistic	_	_	Interrupted=Yes	_	_	_	_	0-3(247)
@@ -4788,7 +4788,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 961-4	PSB084	961	4	che	che	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 961-5	PSB084	961	5	facevate::	facevate	_	_	_	_	_	linguistic	_	_	_	End=2029.92	7x2	_	_	_
 962-0	PSB083	962	0	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	Begin=2029.95	_	_	_	_
-962-1	PSB083	962	1	in[verno]	inverno	_	_	_	_	_	linguistic	_	_	_	End=2030.8	_	_	_	1-7(260)
+962-1	PSB083	962	1	in[verno]	inverno	_	_	_	_	_	linguistic	_	_	_	End=2030.8	_	_	_	2-7(260)
 963-0	PSB084	963	0	[l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	Begin=2030.3	_	_	_	0-2(260)
 963-1	PSB084	963	1	allena]mento	allenamento	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-6(260)
 963-2	PSB084	963	2	[eh	eh	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(261)
@@ -5085,7 +5085,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1010-7	PSB084	1010	7	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 1010-8	PSB084	1010	8	anno	anno	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1010-9	PSB084	1010	9	che:	che	_	_	_	_	_	linguistic	_	_	_	_	2x1	_	_	_
-1010-10	PSB084	1010	10	do[po	dopo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	1-4(278)
+1010-10	PSB084	1010	10	do[po	dopo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	2-4(278)
 1010-11	PSB084	1010	11	avevo]	avevo	_	_	_	_	_	linguistic	_	_	_	End=2142.47	_	_	_	0-5(278)
 1011-0	PSB083	1011	0	[kara]té	karaté	_	_	_	_	_	linguistic	_	_	_	Begin=2142.114	_	_	_	0-4(278)
 1011-1	PSB083	1011	1	karaté	karaté	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -5203,10 +5203,10 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1028-4	PSB084	1028	4	anno	anno	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1028-5	PSB084	1028	5	tutto	tutto	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1028-6	PSB084	1028	6	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
-1028-7	PSB084	1028	7	an[no	anno	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	1-4(286)
+1028-7	PSB084	1028	7	an[no	anno	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	2-4(286)
 1028-8	PSB084	1028	8	poi	poi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(286)
 1028-9	PSB084	1028	9	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	0-2(286)
-1028-10	PSB084	1028	10	ultimo]	ultimo	_	_	_	_	_	linguistic	_	_	_	End=2191.85	_	_	_	0-5(286)
+1028-10	PSB084	1028	10	ultimo]	ultimo	_	_	_	_	_	linguistic	_	_	_	End=2191.85	_	_	_	0-6(286)
 1029-0	PSB083	1029	0	((parla_al_telefono))	((parla_al_telefono))	_	_	_	_	_	nonverbalbehavior	_	_	_	Begin=2187.85	_	_	_	_
 1029-1	PSB083	1029	1	[pronto]	pronto	_	_	_	_	_	linguistic	_	_	_	End=2188.31	_	_	_	0-6(402)
 1030-0	PSB085	1030	0	[xx]	xx	_	_	_	_	_	unknown	_	_	Syllables=2	Begin=2188.29|End=2188.65	_	_	_	0-2(402)
@@ -5236,12 +5236,12 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1037-2	PSB083	1037	2	sì]	sì	_	_	_	_	_	linguistic	_	_	_	End=2197.67	_	_	_	0-2(290)
 1038-0	PSB084	1038	0	era	era	_	_	_	_	_	linguistic	_	_	_	Begin=2198.31	_	_	_	_
 1038-1	PSB084	1038	1	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
-1038-2	PSB084	1038	2	ulti[mo	ultimo	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	_	_	_	_	3-6(291)
+1038-2	PSB084	1038	2	ulti[mo	ultimo	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	_	_	_	_	4-6(291)
 1038-3	PSB084	1038	3	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	X(291)
 1038-4	PSB084	1038	4	corso	corso	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-5(291)
 1038-5	PSB084	1038	5	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	0-2(291)
 1038-6	PSB084	1038	6	ho	ho	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(291)
-1038-7	PSB084	1038	7	paga]to	pagato	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(291)
+1038-7	PSB084	1038	7	paga]to	pagato	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-4(291)
 1038-8	PSB084	1038	8	non	non	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1038-9	PSB084	1038	9	sono	sono	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1038-10	PSB084	1038	10	andati	andati	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_

@@ -1053,7 +1053,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 334-5	PSB030	334	5	italia	italia	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	_	_	_	_	0-6(77)
 334-6	PSB030	334	6	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	X(77)
 334-7	PSB030	334	7	c'	c'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	0-2(77)
-334-8	PSB030	334	8	è]	è	_	_	_	_	_	linguistic	_	_	_	End=613.959	_	_	_	_
+334-8	PSB030	334	8	è]	è	_	_	_	_	_	linguistic	_	_	_	End=613.959	_	_	_	0-1(77)
 335-0	PSB005	335	0	[cioè	cioè	_	_	_	_	_	linguistic	_	_	_	Begin=612.191	_	_	_	0-4(77)
 335-1	PSB005	335	1	forse	forse	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-5(77)
 335-2	PSB005	335	2	sono	sono	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-4(77)
@@ -2821,7 +2821,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 851-4	PSB005	851	4	bene]?	bene	_	_	_	_	_	linguistic	_	_	Intonation=Rising	End=1581.209	_	_	_	0-4(177)
 852-0	PSB030	852	0	[necessa]rio	necessario	_	_	_	_	_	linguistic	_	_	_	Begin=1580.605|End=1581.419	_	_	_	0-7(177)
 853-0	PSB005	853	0	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	Begin=1581.616	_	_	_	_
-853-1	PSB005	853	1	esa[me]	esame	_	_	_	_	_	linguistic	_	_	_	End=1582.209	_	_	_	2-5(178)
+853-1	PSB005	853	1	esa[me]	esame	_	_	_	_	_	linguistic	_	_	_	End=1582.209	_	_	_	3-5(178)
 854-0	PSB030	854	0	[e]h	eh	_	_	_	_	_	linguistic	_	_	_	Begin=1582.0	_	_	_	0-1(178)
 854-1	PSB030	854	1	d~	d~	_	_	_	_	_	linguistic	_	_	Interrupted=Yes	_	_	_	_	_
 854-2	PSB030	854	2	ehm	ehm	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_

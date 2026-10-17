@@ -1018,7 +1018,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 162-1	PSB110	162	1	mh	mh	_	_	_	_	_	linguistic	_	_	_	End=671.35	_	_	_	_
 163-0	PSB109	163	0	film	film	_	_	_	_	_	linguistic	_	_	_	Begin=672.45	_	_	_	_
 163-1	PSB109	163	1	dell'	dell'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
-163-2	PSB109	163	2	or[rore]?	orrore	_	_	_	_	_	linguistic	_	_	Intonation=Rising	End=674.18	_	_	_	1-6(35)
+163-2	PSB109	163	2	or[rore]?	orrore	_	_	_	_	_	linguistic	_	_	Intonation=Rising	End=674.18	_	_	_	2-6(35)
 164-0	PSB110	164	0	[oppure	oppure	_	_	_	_	_	linguistic	_	_	_	Begin=673.87	_	_	_	0-6(35)
 164-1	PSB110	164	1	cioè]	cioè	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-4(35)
 164-2	PSB110	164	2	tipo	tipo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -1110,7 +1110,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 183-7	PSB109	183	7	il	il	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(38)
 183-8	PSB109	183	8	cane	cane	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-4(38)
 183-9	PSB109	183	9	che	che	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(38)
-183-10	PSB109	183	10	parla]	parla	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-4(38)
+183-10	PSB109	183	10	parla]	parla	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-5(38)
 183-11	PSB109	183	11	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	_	_	End=737.49	_	_	_	_
 184-0	PSB110	184	0	[dai	dai	_	_	_	_	_	linguistic	_	_	_	Begin=735.78	_	_	_	0-3(38)
 184-1	PSB110	184	1	su]	su	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	_	_	_	_	0-2(38)
@@ -3059,9 +3059,9 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 490-11	PSB110	490	11	firenze	firenze	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 490-12	PSB110	490	12	che	che	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 490-13	PSB110	490	13	cazzo	cazzo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-490-14	PSB110	490	14	pensi	pensi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	4-5(89)
+490-14	PSB110	490	14	pensi	pensi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 490-15	PSB110	490	15	[che	che	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(89)
-490-16	PSB110	490	16	sia]?	sia	_	_	_	_	_	linguistic	_	_	Intonation=Rising	End=2188.92	_	_	_	0-2(89)
+490-16	PSB110	490	16	sia]?	sia	_	_	_	_	_	linguistic	_	_	Intonation=Rising	End=2188.92	_	_	_	0-3(89)
 491-0	PSB109	491	0	[ah	ah	_	_	_	_	_	linguistic	_	_	_	Begin=2188.38	_	_	_	0-2(89)
 491-1	PSB109	491	1	sarà]:	sarà	_	_	_	_	_	linguistic	_	_	_	_	3x1	_	_	0-4(89)
 491-2	PSB109	491	2	[peggio]	peggio	_	_	_	_	_	linguistic	_	_	_	End=2190.37	_	_	_	0-6(90)

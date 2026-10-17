@@ -607,7 +607,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 144-2	PSB005	144	2	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 144-3	PSB005	144	3	urdu	urdu	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 144-4	PSB005	144	4	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-144-5	PSB005	144	5	diffici[le]?	difficile	_	_	_	_	_	linguistic	_	_	Intonation=Rising	End=266.123	_	_	_	6-9(37)
+144-5	PSB005	144	5	diffici[le]?	difficile	_	_	_	_	_	linguistic	_	_	Intonation=Rising	End=266.123	_	_	_	7-9(37)
 145-0	PSB058	145	0	[eh]	eh	_	_	_	_	_	linguistic	_	_	_	Begin=266.07	_	_	_	0-2(37)
 145-1	PSB058	145	1	sì	sì	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 145-2	PSB058	145	2	urdu	urdu	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_

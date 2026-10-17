@@ -232,7 +232,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 58-3	PSB054	58	3	villa	villa	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 58-4	PSB054	58	4	cassarini	cassarini	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 58-5	PSB054	58	5	quel	quel	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-58-6	PSB054	58	6	parch[etto	parchetto	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	4-9(24)
+58-6	PSB054	58	6	parch[etto	parchetto	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	5-9(24)
 58-7	PSB054	58	7	piccolo]	piccolo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-7(24)
 58-8	PSB054	58	8	lì	lì	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 58-9	PSB054	58	9	ci	ci	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -258,7 +258,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 58-29	PSB054	58	29	n'	n'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	0-2(25)
 58-30	PSB054	58	30	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-1(25)
 58-31	PSB054	58	31	un'	un'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	0-3(25)
-58-32	PSB054	58	32	altra]	altra	_	_	_	_	_	linguistic	_	_	_	End=90.14	_	_	_	0-3(25)
+58-32	PSB054	58	32	altra]	altra	_	_	_	_	_	linguistic	_	_	_	End=90.14	_	_	_	0-5(25)
 59-0	PSB028	59	0	[ah	ah	_	_	_	_	_	linguistic	_	_	_	Begin=83.392	_	_	_	0-2(24)
 59-1	PSB028	59	1	sì]	sì	_	_	_	_	_	linguistic	_	_	_	End=84.314	_	_	_	0-2(24)
 60-0	PSB057	60	0	[dietro	dietro	_	_	_	_	_	linguistic	_	_	_	Begin=89.1	_	_	_	0-6(25)
@@ -453,7 +453,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 101-5	PSB028	101	5	tanti	tanti	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 101-6	PSB028	101	6	quelli	quelli	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 101-7	PSB028	101	7	dell'	dell'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
-101-8	PSB028	101	8	er[asmus]	erasmus	_	_	_	_	_	linguistic	_	_	_	End=157.99	_	_	_	1-7(39)
+101-8	PSB028	101	8	er[asmus]	erasmus	_	_	_	_	_	linguistic	_	_	_	End=157.99	_	_	_	2-7(39)
 102-0	PSB057	102	0	[sì	sì	_	_	_	_	_	linguistic	_	_	_	Begin=157.35	_	_	_	0-2(39)
 102-1	PSB057	102	1	sì	sì	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(39)
 102-2	PSB057	102	2	sì]	sì	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(39)
@@ -601,9 +601,9 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 136-2	PSB054	136	2	undi~	undi~	_	_	_	_	_	linguistic	_	_	Interrupted=Yes	_	_	_	_	_
 136-3	PSB054	136	3	o	o	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 136-4	PSB054	136	4	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
-136-5	PSB054	136	5	undici	undici	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	5-6(52)
+136-5	PSB054	136	5	undici	undici	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 136-6	PSB054	136	6	[molto:	molto	_	_	_	_	_	linguistic	_	_	_	_	4x1	_	_	0-5(52)
-136-7	PSB054	136	7	sì]	sì	_	_	_	_	_	linguistic	_	_	_	End=213.235	_	_	_	0-1(52)
+136-7	PSB054	136	7	sì]	sì	_	_	_	_	_	linguistic	_	_	_	End=213.235	_	_	_	0-2(52)
 137-0	PSB057	137	0	[molto	molto	_	_	_	_	_	linguistic	_	_	_	Begin=211.647	_	_	_	0-5(52)
 137-1	PSB057	137	1	comodo	comodo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-6(52)
 137-2	PSB057	137	2	perché]:	perché	_	_	_	_	_	linguistic	_	_	_	_	5x1	_	_	0-6(52)
@@ -854,7 +854,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 192-3	PSB054	192	3	un	un	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(70)
 192-4	PSB054	192	4	po']	po'	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(70)
 192-5	PSB054	192	5	di	di	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-192-6	PSB054	192	6	verde[:	verde	_	_	_	_	_	linguistic	_	_	_	_	4x1	_	_	4-5(71)
+192-6	PSB054	192	6	verde[:	verde	_	_	_	_	_	linguistic	_	_	_	_	4x1	_	_	_
 192-7	PSB054	192	7	un	un	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(71)
 192-8	PSB054	192	8	po'	po'	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(71)
 192-9	PSB054	192	9	di	di	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(71)
@@ -878,7 +878,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 196-5	PSB028	196	5	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 196-6	PSB028	196	6	anche	anche	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 196-7	PSB028	196	7	il	il	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-196-8	PSB028	196	8	supermerc[ato	supermercato	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	8-12(472)
+196-8	PSB028	196	8	supermerc[ato	supermercato	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	9-12(472)
 196-9	PSB028	196	9	vicino]	vicino	_	_	_	_	_	linguistic	_	_	_	End=305.49	_	_	_	0-6(472)
 197-0	PSB057	197	0	[sì	sì	_	_	_	_	_	linguistic	_	_	_	Begin=304.412	_	_	_	0-2(472)
 197-1	PSB057	197	1	sì	sì	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(472)
@@ -2400,7 +2400,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 573-0	PSB057	573	0	[mh	mh	_	_	_	_	_	linguistic	_	_	_	Begin=889.85	_	_	_	0-2(179)
 573-1	PSB057	573	1	okay]	okay	_	_	_	_	_	linguistic	_	_	_	End=890.413	_	_	_	0-4(179)
 574-0	PSB028	574	0	un'	un'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	Begin=890.536	_	_	_	_
-574-1	PSB028	574	1	associazione[:]	associazione	_	_	_	_	_	linguistic	_	_	_	End=891.839	11x1	_	_	11-12(180)
+574-1	PSB028	574	1	associazione[:]	associazione	_	_	_	_	_	linguistic	_	_	_	End=891.839	11x1	_	_	_
 575-0	PSB054	575	0	[sì]	sì	_	_	_	_	_	linguistic	_	_	_	Begin=891.571	_	_	_	0-2(180)
 575-1	PSB054	575	1	[un'	un'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	0-3(181)
 575-2	PSB054	575	2	associaz]ione:	associazione	_	_	_	_	_	linguistic	_	_	_	End=893.375	11x1	_	_	0-8(181)
@@ -2433,7 +2433,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 583-3	PSB054	583	3	la	la	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 583-4	PSB054	583	4	fermata	fermata	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 583-5	PSB054	583	5	qui	qui	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-583-6	PSB054	583	6	vi[cino],	vicino	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=911.946	_	_	_	1-6(182)
+583-6	PSB054	583	6	vi[cino],	vicino	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=911.946	_	_	_	2-6(182)
 584-0	PSB057	584	0	[sì	sì	_	_	_	_	_	linguistic	_	_	_	Begin=911.571	_	_	_	0-2(182)
 584-1	PSB057	584	1	sì]	sì	_	_	_	_	_	linguistic	_	_	_	End=911.955	_	_	_	0-2(182)
 585-0	PSB054	585	0	e:	e	_	_	_	_	_	linguistic	_	_	_	Begin=912.327	0x1	_	_	_
@@ -2823,7 +2823,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 663-15	PSB054	663	15	voglio]	voglio	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-6(211)
 663-16	PSB054	663	16	farmi	farmi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 663-17	PSB054	663	17	una	una	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-663-18	PSB054	663	18	gior[nata	giornata	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	3-8(212)
+663-18	PSB054	663	18	gior[nata	giornata	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	4-8(212)
 663-19	PSB054	663	19	al	al	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(212)
 663-20	PSB054	663	20	mare]	mare	_	_	_	_	_	linguistic	_	_	_	End=1042.598	_	_	_	0-4(212)
 664-0	PSB028	664	0	[eh]	eh	_	_	_	_	_	linguistic	_	_	_	Begin=1038.863|End=1039.314	_	_	_	0-2(210)
@@ -3181,7 +3181,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 759-11	PSB054	759	11	qui	qui	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 759-12	PSB054	759	12	a	a	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 759-13	PSB054	759	13	bologna,	bologna	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	_	_	_	_	_
-759-14	PSB054	759	14	o[::]	o	_	_	_	_	_	linguistic	_	_	_	End=1173.334	0x2	_	_	0-1(251)
+759-14	PSB054	759	14	o[::]	o	_	_	_	_	_	linguistic	_	_	_	End=1173.334	0x2	_	_	_
 760-0	PSB057	760	0	[ho	ho	_	_	_	_	_	linguistic	_	_	_	Begin=1172.981	_	_	_	0-2(251)
 760-1	PSB057	760	1	fatto]	fatto	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-5(251)
 760-2	PSB057	760	2	un	un	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -4119,8 +4119,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 967-7	PSB054	967	7	c'	c'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 967-8	PSB054	967	8	è:	è	_	_	_	_	_	linguistic	_	_	_	_	0x1	_	_	_
 967-9	PSB054	967	9	c'	c'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
-967-10	PSB054	967	10	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-1(327)
-967-11	PSB054	967	11	[sem]pre	sempre	_	_	_	_	_	linguistic	_	_	_	End=1522.935	_	_	_	0-2(327)
+967-10	PSB054	967	10	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+967-11	PSB054	967	11	[sem]pre	sempre	_	_	_	_	_	linguistic	_	_	_	End=1522.935	_	_	_	0-3(327)
 968-0	PSB028	968	0	[sì]	sì	_	_	_	_	_	linguistic	_	_	_	Begin=1522.446|End=1522.783	_	_	_	0-2(327)
 969-0	PSB028	969	0	e	e	_	_	_	_	_	linguistic	_	_	_	Begin=1523.816	_	_	_	_
 969-1	PSB028	969	1	n~	n~	_	_	_	_	_	linguistic	_	_	Interrupted=Yes	_	_	_	_	_
@@ -4261,7 +4261,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 996-5	PSB054	996	5	una	una	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 996-6	PSB054	996	6	rosticceria	rosticceria	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 996-7	PSB054	996	7	cinese	cinese	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-996-8	PSB054	996	8	in[vece],	invece	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=1575.25	_	_	_	1-6(337)
+996-8	PSB054	996	8	in[vece],	invece	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=1575.25	_	_	_	2-6(337)
 997-0	PSB028	997	0	[ah]	ah	_	_	_	_	_	linguistic	_	_	_	Begin=1574.642|End=1575.011	_	_	_	0-2(337)
 998-0	PSB054	998	0	[eh	eh	_	_	_	_	_	linguistic	_	_	_	Begin=1575.627	_	_	_	0-2(338)
 998-1	PSB054	998	1	sono	sono	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-4(338)
@@ -4545,7 +4545,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1051-4	PSB028	1051	4	quindi	quindi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1051-5	PSB028	1051	5	te	te	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1051-6	PSB028	1051	6	lo	lo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-1051-7	PSB028	1051	7	por[tano:]	portano	_	_	_	_	_	linguistic	_	_	_	End=1653.37	6x1	_	_	2-7(360)
+1051-7	PSB028	1051	7	por[tano:]	portano	_	_	_	_	_	linguistic	_	_	_	End=1653.37	6x1	_	_	3-7(360)
 1052-0	PSB054	1052	0	[sì]	sì	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	Begin=1652.794	_	_	_	0-2(360)
 1052-1	PSB054	1052	1	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	_
 1052-2	PSB054	1052	2	sì	sì	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -4903,7 +4903,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1150-6	PSB028	1150	6	anche	anche	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1150-7	PSB028	1150	7	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1150-8	PSB028	1150	8	abbastanza	abbastanza	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-1150-9	PSB028	1150	9	diffi[cile	difficile	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	4-9(395)
+1150-9	PSB028	1150	9	diffi[cile	difficile	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	5-9(395)
 1150-10	PSB028	1150	10	quindi]	quindi	_	_	_	_	_	linguistic	_	_	_	End=1812.207	_	_	_	0-6(395)
 1151-0	PSB057	1151	0	[xx	xx	_	_	_	_	_	unknown	_	_	Syllables=2	Begin=1808.373	_	_	_	0-2(396)
 1151-1	PSB057	1151	1	sì	sì	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(396)

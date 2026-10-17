@@ -136,7 +136,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 33-15	PSB093	33	15	che	che	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 33-16	PSB093	33	16	viene	viene	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 33-17	PSB093	33	17	da:ll'	dall'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	1x1	_	_	_
-33-18	PSB093	33	18	es[tero]	estero	_	_	_	_	_	linguistic	_	_	_	End=64.76	_	_	_	1-6(12)
+33-18	PSB093	33	18	es[tero]	estero	_	_	_	_	_	linguistic	_	_	_	End=64.76	_	_	_	2-6(12)
 34-0	PSB005	34	0	[mhmh]	mhmh	_	_	_	_	_	linguistic	_	_	_	Begin=57.17|End=57.65	_	_	_	0-4(9)
 35-0	PSB005	35	0	[ok~	ok~	_	_	_	_	_	linguistic	_	_	Interrupted=Yes	Begin=58.991	_	_	_	0-3(10)
 35-1	PSB005	35	1	okay]	okay	_	_	_	_	_	linguistic	_	_	_	End=59.824	_	_	_	0-4(10)
@@ -474,7 +474,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 103-21	PSB093	103	21	vogliamo	vogliamo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 103-22	PSB093	103	22	fare	fare	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 103-23	PSB093	103	23	in	in	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-103-24	PSB093	103	24	ital[ia:]	italia	_	_	_	_	_	linguistic	_	_	_	End=194.5	5x1	_	_	3-6(38)
+103-24	PSB093	103	24	ital[ia:]	italia	_	_	_	_	_	linguistic	_	_	_	End=194.5	5x1	_	_	4-6(38)
 104-0	PSB005	104	0	[°sì°]	sì	_	_	_	_	_	linguistic	_	_	Volume=Low	Begin=187.434|End=187.647	_	_	_	0-2(36)
 105-0	PSB005	105	0	[okay]	okay	_	_	_	_	_	linguistic	_	_	_	Begin=188.706|End=189.176	_	_	_	0-4(37)
 106-0	PSB005	106	0	[s:ì]	sì	_	_	_	_	_	linguistic	_	_	_	Begin=194.346|End=194.669	0x1	_	_	0-2(38)
@@ -518,7 +518,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 110-8	PSB093	110	8	faccia]mo,	facciamo	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	_	_	_	_	0-6(41)
 110-9	PSB093	110	9	come	come	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 110-10	PSB093	110	10	anche	anche	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-110-11	PSB093	110	11	vol[ontaria]to:	volontariato	_	_	_	_	_	linguistic	_	_	_	End=212.14	11x1	_	_	2-10(40)
+110-11	PSB093	110	11	vol[ontaria]to:	volontariato	_	_	_	_	_	linguistic	_	_	_	End=212.14	11x1	_	_	3-10(40)
 111-0	PSB005	111	0	[mhmhmh]	mhmhmh	_	_	_	_	_	linguistic	_	_	_	Begin=209.493|End=209.919	_	_	_	0-6(41)
 112-0	PSB005	112	0	[mhmh]	mhmh	_	_	_	_	_	linguistic	_	_	_	Begin=211.265|End=211.706	_	_	_	0-4(40)
 113-0	PSB093	113	0	e	e	_	_	_	_	_	linguistic	_	_	_	Begin=212.71	_	_	_	_
@@ -1454,7 +1454,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 314-11	PSB093	314	11	c(io)è	cioè	_	_	_	_	_	linguistic	_	_	Reduced=Yes	_	_	_	_	_
 314-12	PSB093	314	12	un	un	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 314-13	PSB093	314	13	po'	po'	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-314-14	PSB093	314	14	gon[fio],	gonfio	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	_	_	_	_	2-6(116)
+314-14	PSB093	314	14	gon[fio],	gonfio	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	_	_	_	_	3-6(116)
 314-15	PSB093	314	15	però,	però	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	_	_	_	_	_
 314-16	PSB093	314	16	m:h,	mh	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	_	0x1	_	_	_
 314-17	PSB093	314	17	non	non	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -1509,7 +1509,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 323-21	PSB093	323	21	tutto:,	tutto	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	_	4x1	_	_	_
 323-22	PSB093	323	22	[lasciato	lasciato	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-8(121)
 323-23	PSB093	323	23	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	0-2(121)
-323-24	PSB093	323	24	a]cqua:,	acqua	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	_	4x1	_	_	_
+323-24	PSB093	323	24	a]cqua:,	acqua	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	_	4x1	_	_	0-1(121)
 323-25	PSB093	323	25	m:h,	mh	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	_	0x1	_	_	_
 323-26	PSB093	323	26	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 323-27	PSB093	323	27	asciugamano:,	asciugamano	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	_	10x1	_	_	_
@@ -1769,7 +1769,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 395-7	PSB094	395	7	anni>	anni	_	_	_	_	_	linguistic	_	_	_	_	_	Slow=0-4(0)	_	_
 395-8	PSB094	395	8	sulla	sulla	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 395-9	PSB094	395	9	carta	carta	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-395-10	PSB094	395	10	d[i::]	di	_	_	_	_	_	linguistic	_	_	_	End=719.959	1x2	_	_	0-2(142)
+395-10	PSB094	395	10	d[i::]	di	_	_	_	_	_	linguistic	_	_	_	End=719.959	1x2	_	_	1-2(142)
 396-0	PSB093	396	0	[allora]	allora	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	Begin=719.439	_	_	_	0-6(142)
 396-1	PSB093	396	1	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	_
 396-2	PSB093	396	2	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -2024,7 +2024,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 447-26	PSB094	447	26	attrice,	attrice	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	_	_	_	_	_
 447-27	PSB094	447	27	[non	non	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(163)
 447-28	PSB094	447	28	dico	dico	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-4(163)
-447-29	PSB094	447	29	chi]	chi	_	_	_	_	_	linguistic	_	_	_	End=831.663	_	_	_	0-2(163)
+447-29	PSB094	447	29	chi]	chi	_	_	_	_	_	linguistic	_	_	_	End=831.663	_	_	_	0-3(163)
 448-0	PSB005	448	0	[no	no	_	_	_	_	_	linguistic	_	_	_	Begin=822.796	_	_	_	0-2(160)
 448-1	PSB005	448	1	ma	ma	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(160)
 448-2	PSB005	448	2	lo	lo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(160)
@@ -2276,7 +2276,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 482-12	PSB005	482	12	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	0-2(181)
 482-13	PSB005	482	13	@iliaria:	@iliaria	_	_	_	_	_	anonymized	_	_	Anonymized=Yes	_	7x1	_	_	0-8(181)
 482-14	PSB005	482	14	@ro]sso,	@rosso	_	_	_	_	_	anonymized	_	_	Intonation=WeaklyRising|Anonymized=Yes	_	_	_	_	0-3(181)
-482-15	PSB005	482	15	@ro[ssi]	@rossi	_	_	_	_	_	anonymized	_	_	Anonymized=Yes	End=892.49	_	_	_	2-6(182)
+482-15	PSB005	482	15	@ro[ssi]	@rossi	_	_	_	_	_	anonymized	_	_	Anonymized=Yes	End=892.49	_	_	_	3-6(182)
 483-0	PSB093	483	0	[novantacinque]	novantacinque	_	_	_	_	_	linguistic	_	_	_	Begin=889.265|End=891.153	_	_	_	0-13(181)
 484-0	PSB094	484	0	[°ecco°]	ecco	_	_	_	_	_	linguistic	_	_	Volume=Low	Begin=892.255|End=892.49	_	_	_	0-4(182)
 485-0	PSB093	485	0	rossi::?	rossi	_	_	_	_	_	linguistic	_	_	Intonation=Rising	Begin=892.49|End=893.143	4x2	_	_	_
@@ -3202,7 +3202,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 637-0	PSB093	637	0	fare:	fare	_	_	_	_	_	linguistic	_	_	_	Begin=1279.782	3x1	_	_	_
 637-1	PSB093	637	1	carta	carta	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 637-2	PSB093	637	2	d'	d'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
-637-3	PSB093	637	3	identi[tà]	identità	_	_	_	_	_	linguistic	_	_	_	End=1281.359	_	_	_	5-8(241)
+637-3	PSB093	637	3	identi[tà]	identità	_	_	_	_	_	linguistic	_	_	_	End=1281.359	_	_	_	6-8(241)
 638-0	PSB005	638	0	>[sì]	sì	_	_	_	_	_	linguistic	_	_	_	Begin=1281.128	_	Fast=0-2(0)	_	0-2(241)
 638-1	PSB005	638	1	sì<	sì	_	_	_	_	_	linguistic	_	_	_	End=1281.795	_	Fast=0-2(0)	_	_
 639-0	PSB093	639	0	perché	perché	_	_	_	_	_	linguistic	_	_	_	Begin=1282.192	_	_	_	_
@@ -3211,7 +3211,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 639-3	PSB093	639	3	identità	identità	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 639-4	PSB093	639	4	adesso	adesso	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 639-5	PSB093	639	5	[l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	0-2(242)
-639-6	PSB093	639	6	o]bbligo	obbligo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+639-6	PSB093	639	6	o]bbligo	obbligo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-1(242)
 639-7	PSB093	639	7	di	di	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 639-8	PSB093	639	8	farlo	farlo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 639-9	PSB093	639	9	quando	quando	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -3257,7 +3257,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 652-5	PSB093	652	5	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 652-6	PSB093	652	6	obbligo	obbligo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 652-7	PSB093	652	7	che	che	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-652-8	PSB093	652	8	de[vi	devi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	1-4(248)
+652-8	PSB093	652	8	de[vi	devi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	2-4(248)
 652-9	PSB093	652	9	ave]re:,	avere	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	_	4x1	_	_	0-3(248)
 652-10	PSB093	652	10	questo	questo	_	_	_	_	_	linguistic	_	_	_	End=1302.392	_	_	_	_
 653-0	PSB005	653	0	[>°mhmh°<]	mhmh	_	_	_	_	_	linguistic	_	_	Volume=Low	Begin=1300.936|End=1301.321	_	Fast=0-4(0)	_	0-4(248)
@@ -3486,7 +3486,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 691-8	PSB093	691	8	andare	andare	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 691-9	PSB093	691	9	in	in	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 691-10	PSB093	691	10	medio	medio	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-691-11	PSB093	691	11	orient[e:],	oriente	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	_	6x1	_	_	5-7(272)
+691-11	PSB093	691	11	orient[e:],	oriente	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	_	6x1	_	_	6-7(272)
 691-12	PSB093	691	12	e	e	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 691-13	PSB093	691	13	lì:,	lì	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	_	1x1	_	_	_
 691-14	PSB093	691	14	se	se	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -3737,7 +3737,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 742-12	PSB093	742	12	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	_
 742-13	PSB093	742	13	carta	carta	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 742-14	PSB093	742	14	[d'	d'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	0-2(299)
-742-15	PSB093	742	15	ide]ntità:	identità	_	_	_	_	_	linguistic	_	_	_	End=1450.667	7x1	_	_	0-2(299)
+742-15	PSB093	742	15	ide]ntità:	identità	_	_	_	_	_	linguistic	_	_	_	End=1450.667	7x1	_	_	0-3(299)
 743-0	PSB005	743	0	[°sì°]	sì	_	_	_	_	_	linguistic	_	_	Volume=Low	Begin=1446.18|End=1446.449	_	_	_	0-2(300)
 744-0	PSB005	744	0	[eh]	eh	_	_	_	_	_	linguistic	_	_	_	Begin=1449.551|End=1449.872	_	_	_	0-2(299)
 745-0	PSB093	745	0	puoi	puoi	_	_	_	_	_	linguistic	_	_	_	Begin=1452.12	_	_	_	_
@@ -4041,8 +4041,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 785-4	PSB093	785	4	mani,	mani	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	_	_	_	_	_
 785-5	PSB093	785	5	tutto	tutto	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 785-6	PSB093	785	6	questo	questo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-785-7	PSB093	785	7	dell'	dell'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	4-5(324)
-785-8	PSB093	785	8	[oggi]	oggi	_	_	_	_	_	linguistic	_	_	_	End=1536.346	_	_	_	0-3(324)
+785-7	PSB093	785	7	dell'	dell'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
+785-8	PSB093	785	8	[oggi]	oggi	_	_	_	_	_	linguistic	_	_	_	End=1536.346	_	_	_	0-4(324)
 786-0	PSB094	786	0	[quindi]	quindi	_	_	_	_	_	linguistic	_	_	_	Begin=1535.962	_	_	_	0-6(324)
 786-1	PSB094	786	1	lei	lei	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 786-2	PSB094	786	2	si	si	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -4533,7 +4533,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 861-8	PSB005	861	8	c'	c'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	0-2(357)
 861-9	PSB005	861	9	era	era	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(357)
 861-10	PSB005	861	10	troppa	troppa	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-6(357)
-861-11	PSB005	861	11	ge]nte	gente	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-1(357)
+861-11	PSB005	861	11	ge]nte	gente	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(357)
 861-12	PSB005	861	12	oggi:	oggi	_	_	_	_	_	linguistic	_	_	_	_	3x1	_	_	_
 861-13	PSB005	861	13	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	_	_	End=1698.487	_	_	_	_
 862-0	PSB094	862	0	>sì	sì	_	_	_	_	_	linguistic	_	_	_	Begin=1696.808	_	Fast=0-2(0)	_	_
@@ -4685,7 +4685,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 885-12	PSB094	885	12	scuola	scuola	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 885-13	PSB094	885	13	facevamo	facevamo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 885-14	PSB094	885	14	il	il	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-885-15	PSB094	885	15	prog[etto]	progetto	_	_	_	_	_	linguistic	_	_	_	End=1739.048	_	_	_	3-8(373)
+885-15	PSB094	885	15	prog[etto]	progetto	_	_	_	_	_	linguistic	_	_	_	End=1739.048	_	_	_	4-8(373)
 886-0	PSB093	886	0	[un	un	_	_	_	_	_	linguistic	_	_	_	Begin=1738.628	_	_	_	0-2(373)
 886-1	PSB093	886	1	al]tro,	altro	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	_	_	_	_	0-2(373)
 886-2	PSB093	886	2	un	un	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -4832,9 +4832,9 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 913-16	PSB094	913	16	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 913-17	PSB094	913	17	alfabeto:	alfabeto	_	_	_	_	_	linguistic	_	_	_	_	7x1	_	_	_
 913-18	PSB094	913	18	un	un	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-913-19	PSB094	913	19	po':[:,	po'	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	_	1x2	_	_	1-3(388)
+913-19	PSB094	913	19	po':[:,	po'	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	_	1x2	_	_	_
 913-20	PSB094	913	20	i	i	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-1(388)
-913-21	PSB094	913	21	numeri:]	numeri	_	_	_	_	_	linguistic	_	_	_	End=1787.18	5x1	_	_	0-5(388)
+913-21	PSB094	913	21	numeri:]	numeri	_	_	_	_	_	linguistic	_	_	_	End=1787.18	5x1	_	_	0-6(388)
 914-0	PSB005	914	0	[ma	ma	_	_	_	_	_	linguistic	_	_	_	Begin=1785.731	_	_	_	0-2(388)
 914-1	PSB005	914	1	oggi	oggi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-4(388)
 914-2	PSB005	914	2	erano	erano	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-5(388)
@@ -4861,7 +4861,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 916-5	PSB005	916	5	ho	ho	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(390)
 916-6	PSB005	916	6	fa]tto	fatto	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(390)
 916-7	PSB005	916	7	disegnare	disegnare	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-916-8	PSB005	916	8	perch[é:	perché	_	_	_	_	_	linguistic	_	_	_	_	5x1	_	_	4-6(391)
+916-8	PSB005	916	8	perch[é:	perché	_	_	_	_	_	linguistic	_	_	_	_	5x1	_	_	5-6(391)
 916-9	PSB005	916	9	°e:°	e	_	_	_	_	_	linguistic	_	_	Volume=Low	_	0x1	_	_	0-1(391)
 916-10	PSB005	916	10	almeno	almeno	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-6(391)
 916-11	PSB005	916	11	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-1(391)
@@ -4975,7 +4975,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 938-1	PSB005	938	1	era	era	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(404)
 938-2	PSB005	938	2	un'	un'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	0-3(404)
 938-3	PSB005	938	3	altra	altra	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-5(404)
-938-4	PSB005	938	4	bravissi]ma	bravissima	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-7(404)
+938-4	PSB005	938	4	bravissi]ma	bravissima	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-8(404)
 938-5	PSB005	938	5	oggi:	oggi	_	_	_	_	_	linguistic	_	_	_	End=1818.115	3x1	_	_	_
 939-0	PSB094	939	0	°eh	eh	_	_	_	_	_	linguistic	_	_	Volume=Low	Begin=1818.846	_	_	_	_
 939-1	PSB094	939	1	e::h	eh	_	_	_	_	_	linguistic	_	_	Volume=Low	_	0x2	_	_	_
@@ -5436,7 +5436,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1020-0	PSB094	1020	0	[sì	sì	_	_	_	_	_	linguistic	_	_	_	Begin=1990.09	_	_	_	0-2(436)
 1020-1	PSB094	1020	1	quest'	quest'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	0-6(436)
 1020-2	PSB094	1020	2	esta]te	estate	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-4(436)
-1020-3	PSB094	1020	3	son[o::	sono	_	_	_	_	_	linguistic	_	_	_	_	3x2	_	_	2-4(437)
+1020-3	PSB094	1020	3	son[o::	sono	_	_	_	_	_	linguistic	_	_	_	_	3x2	_	_	3-4(437)
 1020-4	PSB094	1020	4	hanno	hanno	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-5(437)
 1020-5	PSB094	1020	5	iniziato]	iniziato	_	_	_	_	_	linguistic	_	_	_	End=1992.692	_	_	_	0-8(437)
 1021-0	PSB093	1021	0	[sì:,	sì	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	Begin=1991.18	1x1	_	_	0-2(437)

@@ -893,7 +893,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 148-8	PSB121	148	8	sempre:	sempre	_	_	_	_	_	linguistic	_	_	_	_	5x1	_	_	_
 148-9	PSB121	148	9	ci	ci	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 148-10	PSB121	148	10	sono	sono	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-148-11	PSB121	148	11	gras[si].	grassi	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=678.52	_	_	_	3-6(31)
+148-11	PSB121	148	11	gras[si].	grassi	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=678.52	_	_	_	4-6(31)
 149-0	PSB122	149	0	[ma	ma	_	_	_	_	_	linguistic	_	_	_	Begin=678.18	_	_	_	0-2(31)
 149-1	PSB122	149	1	s:ì]	sì	_	_	_	_	_	linguistic	_	_	_	_	0x1	_	_	0-2(31)
 149-2	PSB122	149	2	xx	xx	_	_	_	_	_	unknown	_	_	Syllables=2	End=679.39	_	_	_	_
@@ -1209,7 +1209,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 197-3	PSB121	197	3	intestini?	intestini	_	_	_	_	_	linguistic	_	_	Intonation=Rising	End=868.47	_	_	_	_
 198-0	PSB122	198	0	sì	sì	_	_	_	_	_	linguistic	_	_	_	Begin=868.5	_	_	_	_
 198-1	PSB122	198	1	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
-198-2	PSB122	198	2	intestin[o:]::	intestino	_	_	_	_	_	linguistic	_	_	_	End=870.72	8x3	_	_	7-9(48)
+198-2	PSB122	198	2	intestin[o:]::	intestino	_	_	_	_	_	linguistic	_	_	_	End=870.72	8x3	_	_	8-9(48)
 199-0	PSB121	199	0	[mhmh]	mhmh	_	_	_	_	_	linguistic	_	_	_	Begin=869.51|End=870.03	_	_	_	0-4(48)
 200-0	PSB122	200	0	non	non	_	_	_	_	_	linguistic	_	_	_	Begin=870.76	_	_	_	_
 200-1	PSB122	200	1	non	non	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -3512,7 +3512,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 586-16	PSB121	586	16	qualcosa	qualcosa	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 586-17	PSB121	586	17	di	di	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	_	_	_	_	_
 586-18	PSB121	586	18	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	_
-586-19	PSB121	586	19	<superfluo>	superfluo	_	_	_	_	_	linguistic	_	_	_	End=2546.79	_	Slow=0-8(0)	_	_
+586-19	PSB121	586	19	<superfluo>	superfluo	_	_	_	_	_	linguistic	_	_	_	End=2546.79	_	Slow=0-9(0)	_	_
 587-0	PSB121	587	0	su~	su~	_	_	_	_	_	linguistic	_	_	Interrupted=Yes	Begin=2546.87	_	_	_	_
 587-1	PSB121	587	1	(xx)	xx	_	_	_	_	_	unknown	_	_	Syllables=2	End=2548.66	_	_	0-2(0)	_
 588-0	PSB121	588	0	tipo	tipo	_	_	_	_	_	linguistic	_	_	_	Begin=2550.04	_	_	_	_
