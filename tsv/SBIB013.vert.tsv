@@ -10190,10 +10190,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 2193-4	PSB076	2193	4	fa	fa	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(609)
 2193-5	PSB076	2193	5	la	la	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(609)
 2193-6	PSB076	2193	6	(separata)]	separata	_	_	_	_	_	linguistic	_	_	_	End=3193.465	_	_	0-8(0)	0-8(609)
-2194-0	PSB076	2194	0	[#]	_	_	_	_	_	_	warning	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=3194.214	_	_	_	0-1(610)
-2194-1	PSB076	2194	1	#	_	_	_	_	_	_	warning	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-2194-2	PSB076	2194	2	tante	tante	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-2194-3	PSB076	2194	3	[cose]	cose	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	End=3195.911	_	_	_	0-4(611)
+2194-2	PSB076	2194	0	tante	tante	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	Begin=3194.214	_	_	_	_
+2194-3	PSB076	2194	1	[cose]	cose	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	End=3195.911	_	_	_	0-4(611)
 2195-0	PSB075	2195	0	[ah	ah	_	_	_	_	_	linguistic	_	_	_	Begin=3195.556	_	_	_	0-2(611)
 2195-1	PSB075	2195	1	sì]	sì	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(611)
 2195-2	PSB075	2195	2	sì	sì	_	_	_	_	_	linguistic	_	_	_	End=3196.112	_	_	_	_
