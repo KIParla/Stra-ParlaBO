@@ -2010,7 +2010,7 @@ PSB105	ah lei è pisana?
 PSB104	lei è pisana
 PSB119	((ride))
 PSB120	pisana?
-PSB105	#_ [bǐ sà rén e:h ]
+PSB105	#_ [bǐ sà rén e:h]
 PSB104	[è una nostra questa nostra amica]
 PSB105	#_ bǐ sà de
 PSB119	#_ bǐ sà rén

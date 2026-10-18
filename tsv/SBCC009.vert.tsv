@@ -9826,8 +9826,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 2256-0	PSB105	2256	0	#_ [bǐ	bǐ	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=3735.275	_	_	_	0-2(407)
 2256-1	PSB105	2256	1	sà	sà	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-2(407)
 2256-2	PSB105	2256	2	rén	rén	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-3(407)
-2256-3	PSB105	2256	3	e:h	eh	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	0x1	_	_	0-2(407)
-2256-4	PSB105	2256	4	]	_	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=3736.72	_	_	_	_
+2256-3	PSB105	2256	3	e:h]	eh	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=3736.72	0x1	_	_	0-2(407)
 2257-0	PSB104	2257	0	[è	è	_	_	_	_	_	linguistic	_	_	_	Begin=3735.275	_	_	_	0-1(407)
 2257-1	PSB104	2257	1	una	una	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(407)
 2257-2	PSB104	2257	2	nostra	nostra	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-6(407)
