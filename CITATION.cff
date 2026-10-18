@@ -12,12 +12,12 @@ authors:
 - family-names: "Zucchini"
   given-names: "Eleonora"
   orcid: "https://orcid.org/0000-0001-6497-7310"
-version: 1.1.0
+version: 2.0.0
 identifiers:
   - description: "The concept DOI of the work"
     type: doi
     value: 10.60760/unibo/stra-parlabo
-date-released: 2026-10-15
+date-released: 2026-10-18
 repository-code: "https://github.com/KIParla/Stra-ParlaBO"
 license: CC-BY-NC-SA-4.0
 references:
