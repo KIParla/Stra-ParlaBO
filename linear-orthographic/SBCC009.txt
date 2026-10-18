@@ -1753,7 +1753,6 @@ PSB120	c'è anche pim~ pimpa quella cane
 PSB104	la pimpa
 PSB104	sì quella con le macchie
 PSB119	sì
-PSB105	#_
 PSB120	#_ shà
 PSB120	#_ a
 PSB120	#_ zhè shì shén me
@@ -1867,7 +1866,6 @@ PSB119	#_ bǐ sà , bǐ sà shén me
 PSB119	#_ zěn me le , ō , zhī dào le
 PSB119	mi sembra un'ottima idea
 PSB119	pensavo era un aggettivo
-PSB105	#_
 PSB105	#_ wǒ gāng gāng shuō nà gè fó luó lún sà rén bú shì hěn...
 PSB105	#_ běn dì rén bú shì hěn nice
 PSB119	ah

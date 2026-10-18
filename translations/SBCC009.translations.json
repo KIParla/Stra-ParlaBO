@@ -1744,14 +1744,6 @@
     "text": ""
   },
   {
-    "tu_id": "2115",
-    "speaker": "PSB105_trad",
-    "start": "3528.390",
-    "end": "3529.080",
-    "parent_tu_id": "2114",
-    "text": ""
-  },
-  {
     "tu_id": "2117",
     "speaker": "PSB120_trad",
     "start": "3530.420",
@@ -1949,14 +1941,6 @@
     "start": "3741.426",
     "end": "3742.413",
     "parent_tu_id": "2266",
-    "text": ""
-  },
-  {
-    "tu_id": "2271",
-    "speaker": "PSB105_trad",
-    "start": "3744.310",
-    "end": "3744.725",
-    "parent_tu_id": "2270",
     "text": ""
   },
   {
