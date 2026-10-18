@@ -443,7 +443,7 @@ PSB120	posso:
 PSB120	posso mh posso:
 PSB120	posso
 PSB120	#_ kǎo yī dào tí
-PSB120	#_ [] bǐ rú shuō
+PSB120	#_ bǐ rú shuō
 PSB119	[a:h]
 PSB119	fare solo una doman[da xx]xx
 PSB120	[sì]
@@ -929,7 +929,7 @@ PSB105	quella è uguale
 PSB105	#_ tóng yàng de
 PSB104	tóng yàng de okay #yí yàng, yí yàng de
 PSB104	e::h
-PSB104	#_ hú tòng de ( bù tóng de )
+PSB104	#_ hú tòng de (bù tóng de)
 PSB105	#_ xiāng tóng de , xiāng tóng de , xiāng tóng de
 PSB104	#_ nà xiāng tóng de , xiāng tóng de
 PSB104	aspetta fammi vedere
@@ -946,7 +946,7 @@ PSB105	commettere
 PSB104	e:h no, non mi ricordo quello dopo
 PSB104	e:h no non me lo dire non me lo dire
 PSB104	e:h #_ cuò
-PSB104	#_ cuò jiù ( cuò wù )
+PSB104	#_ cuò jiù (cuò wù)
 PSB105	#_ cuò wù
 PSB104	#_ cuò wù cosa vuol dire?
 PSB105	#_ cuò wù , cuò wù errore
@@ -1712,7 +1712,7 @@ PSB120	#_ dà lián
 PSB104	#dà tú shā è massacro?
 PSB105	°bra:va° ((applaude))
 PSB120	u:::h
-PSB104	raga cioè voi avete detto quattrocento parole e io ho capito tú shā però sono contenta che siate così felici per me
+PSB104	raga cioè voi avete detto quattrocento parole e io ho capito #tú #shā però sono contenta che siate così felici per me
 PSB119	hai un vocabolario molto professionale
 PSB105	((ride))
 PSB104	è per la mh il massacro delle balene
@@ -1784,8 +1784,8 @@ PSB104	perché io
 PSB104	a me piace tantissimo
 PSB104	eh un cartone cine:se
 PSB104	che si chiama (.) ehm: #sister #seven
-PSB104	che non mi ricordo: che sar~ che sarebbe wǔ liù qī
-PSB104	che sarebbe: wǔ liù qī cinque sei sette
+PSB104	che non mi ricordo: che sar~ che sarebbe #wǔ #liù #qī
+PSB104	che sarebbe: #wǔ #liù qī cinque sei sette
 PSB104	e:h sì no cercalo eh io ho guardato tutte le stagioni è tipo il mio preferito in cinese l'ho guardato sempre
 PSB105	come si chiama?
 PSB104	#sister #seven tipo:
@@ -2677,7 +2677,7 @@ PSB120	#_ nán de dōu ài miàn zi
 PSB120	#_ miàn zi zěn me shuō a
 PSB104	è la faccia no #miàn zi?
 PSB105	[sì]
-PSB104	>infatti< méi yǒu miàn zi non è tipo: m:h faccia?
+PSB104	>infatti< #méi #yǒu #miàn #zi non è tipo: m:h faccia?
 PSB105	sì sì sì sì
 PSB104	tipo è senza vergogna
 PSB119	come si dice in italia per dire faccia?

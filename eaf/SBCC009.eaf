@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<ANNOTATION_DOCUMENT AUTHOR="kiparla-tools" DATE="2026-10-14T19:18:29+00:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+<ANNOTATION_DOCUMENT AUTHOR="kiparla-tools" DATE="2026-10-18T15:27:41+00:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
         <MEDIA_DESCRIPTOR MEDIA_URL="SBCC009.mp3" MIME_TYPE="audio/mpeg" RELATIVE_MEDIA_URL="SBCC009.mp3" />
     </HEADER>
@@ -11759,7 +11759,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1886" ANNOTATION_REF="a1885">
-                <ANNOTATION_VALUE>#_ hú tòng de ( bù tóng de )</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>#_ hú tòng de (bù tóng de)</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -11824,7 +11824,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1921" ANNOTATION_REF="a1920">
-                <ANNOTATION_VALUE>#_ cuò jiù ( cuò wù )</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>#_ cuò jiù (cuò wù)</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -13224,7 +13224,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a3473" ANNOTATION_REF="a3472">
-                <ANNOTATION_VALUE>raga cioè voi avete detto quattrocento parole e io ho capito # tú shā però sono contenta che siate così felici per me</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>raga cioè voi avete detto quattrocento parole e io ho capito #tú #shā però sono contenta che siate così felici per me</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -13414,12 +13414,12 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a3617" ANNOTATION_REF="a3616">
-                <ANNOTATION_VALUE>che non mi ricordo: che sar~ che sarebbe # wǔ liù qī</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>che non mi ricordo: che sar~ che sarebbe #wǔ #liù #qī</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a3619" ANNOTATION_REF="a3618">
-                <ANNOTATION_VALUE>che sarebbe: # wǔ liù qī cinque sei sette</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>che sarebbe: #wǔ #liù qī cinque sei sette</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -14869,7 +14869,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a5409" ANNOTATION_REF="a5408">
-                <ANNOTATION_VALUE>&gt;infatti&lt; # méi yǒu miàn zi non è tipo: m:h faccia?</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>&gt;infatti&lt; #méi #yǒu #miàn #zi non è tipo: m:h faccia?</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -21810,7 +21810,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a4540" ANNOTATION_REF="a4539">
-                <ANNOTATION_VALUE>tipo: #</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>tipo:</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -30987,7 +30987,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a898" ANNOTATION_REF="a897">
-                <ANNOTATION_VALUE>#_ [] bǐ rú shuō</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>#_ bǐ rú shuō</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -31557,7 +31557,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a2014" ANNOTATION_REF="a2013">
-                <ANNOTATION_VALUE>macro #</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>macro</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>

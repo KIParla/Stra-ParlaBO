@@ -2387,7 +2387,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 488-8	PSB005	488	8	differenze?	differenze	_	_	_	_	_	linguistic	_	_	Intonation=Rising	End=1037.47	_	_	_	_
 489-0	PSB039	489	0	sì	sì	_	_	_	_	_	linguistic	_	_	_	Begin=1038.24|End=1038.76	_	_	_	_
 490-0	PSB039	490	0	e:hm	ehm	_	_	_	_	_	linguistic	_	_	_	Begin=1039.24|End=1040.06	0x1	_	_	_
-491-0	PSB039	491	0	# e:hm	ehm	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	PauseAfter=Yes	Begin=1040.359	0x1	_	_	_
+491-0	PSB039	491	0	e:hm	ehm	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	PauseAfter=Yes	Begin=1040.359	0x1	_	_	_
 491-1	PSB039	491	1	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=Yes	_	_	_	_	_	_
 491-2	PSB039	491	2	da	da	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
 491-3	PSB039	491	3	voi	voi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
@@ -2398,15 +2398,14 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 491-8	PSB039	491	8	#food	food	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 491-9	PSB039	491	9	#how	how	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 491-10	PSB039	491	10	#did	did	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-491-11	PSB039	491	11	#	_	_	_	_	_	_	warning	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-491-12	PSB039	491	12	you:	you	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	2x1	_	_	_
-491-13	PSB039	491	13	#how	how	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-491-14	PSB039	491	14	#did	did	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-491-15	PSB039	491	15	#you	you	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-491-16	PSB039	491	16	#eat	eat	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-491-17	PSB039	491	17	#today	today	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-491-18	PSB039	491	18	#and	and	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-491-19	PSB039	491	19	#stuff	stuff	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=1048.06	_	_	_	_
+491-11	PSB039	491	11	#you:	you	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	2x1	_	_	_
+491-13	PSB039	491	12	#how	how	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+491-14	PSB039	491	13	#did	did	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+491-15	PSB039	491	14	#you	you	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+491-16	PSB039	491	15	#eat	eat	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+491-17	PSB039	491	16	#today	today	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+491-18	PSB039	491	17	#and	and	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+491-19	PSB039	491	18	#stuff	stuff	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=1048.06	_	_	_	_
 493-0	PSB039	493	0	# noi:	noi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	PauseAfter=Yes	Begin=1048.6	2x1	_	_	_
 493-1	PSB039	493	1	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=Yes	_	_	_	_	_	_
 493-2	PSB039	493	2	m:h	mh	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	0x1	_	_	_

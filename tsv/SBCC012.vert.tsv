@@ -2175,8 +2175,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 331-8	PSB136	331	8	che	che	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 331-9	PSB136	331	9	si	si	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
 331-10	PSB136	331	10	chiama	chiama	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	_	_	_	_	_
-331-11	PSB136	331	11	[#	_	_	_	_	_	_	warning	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	0-1(49)
-331-12	PSB136	331	12	ti]po	tipo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	End=778.8	_	_	_	0-2(49)
+331-11	PSB136	331	11	[ti]po	tipo	_	_	_	_	_	linguistic	_	Language=NO_ISO_CODE	_	End=778.8	_	_	_	0-2(49)
 333-0	PSB137	333	0	[sì::]	sì	_	_	_	_	_	linguistic	_	_	_	Begin=777.66|End=778.57	1x2	_	_	0-2(49)
 334-0	PSB137	334	0	aspetta:	aspetta	_	_	_	_	_	linguistic	_	_	_	Begin=778.88	6x1	_	_	_
 334-1	PSB137	334	1	dovrebbe	dovrebbe	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_

@@ -1330,10 +1330,9 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 298-6	PSB147	298	6	#_ dyāl	dyāl	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
 298-7	PSB147	298	7	xyāṭa?	xyāṭa	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	Intonation=Rising|PauseAfter=Yes	_	_	_	_	_
 298-8	PSB147	298	8	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=Yes	_	_	_	_	_	_
-298-9	PSB147	298	9	#machine	machine	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-298-10	PSB147	298	10	#_	_	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-298-11	PSB147	298	11	dyāl	dyāl	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
-298-12	PSB147	298	12	xyāṭa?	xyāṭa	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	Intonation=Rising	End=420.854	_	_	_	_
+298-9	PSB147	298	9	machine	machine	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+298-11	PSB147	298	10	dyāl	dyāl	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	_	_	_
+298-12	PSB147	298	11	xyāṭa?	xyāṭa	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	Intonation=Rising	End=420.854	_	_	_	_
 300-0	PSB153	300	0	mhmh	mhmh	_	_	_	_	_	linguistic	_	_	_	Begin=420.992|End=421.41549999999995	_	_	_	_
 301-0	PSB147	301	0	#_ dyāl	dyāl	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	Begin=421.41549999999995	_	_	_	_
 301-1	PSB147	301	1	xyāṭa	xyāṭa	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	End=422.319	_	_	_	_
@@ -5173,10 +5172,9 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1278-0	PSB147	1278	0	[ci]	ci	_	_	_	_	_	linguistic	_	_	_	Begin=1675.774|End=1676.102	_	_	_	0-2(425)
 1279-0	PSB146	1279	0	[chimi]ca?	chimica	_	_	_	_	_	linguistic	_	_	Intonation=Rising	Begin=1676.284|End=1676.732	_	_	_	0-5(426)
 1280-0	PSB147	1280	0	chimica	chimica	_	_	_	_	_	linguistic	_	ContainsVariation=Yes	_	Begin=1676.873	_	_	_	_
-1280-1	PSB147	1280	1	>	_	_	_	_	_	_	error	_	ContainsVariation=Yes	_	_	_	_	_	_
-1280-2	PSB147	1280	2	#_ sciences	sciences	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	Fast=0-8(0)	_	_
-1280-3	PSB147	1280	3	chimiques<	chimiques	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	Fast=0-9(0)	_	_
-1280-4	PSB147	1280	4	[$simica]	simica	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE|Nonce=Yes	_	End=1678.745	_	_	_	0-7(427)
+1280-1	PSB147	1280	1	>#sciences	sciences	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	Fast=0-9(0)	_	_
+1280-2	PSB147	1280	2	#chimiques<	chimiques	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE	_	_	_	Fast=0-10(0)	_	_
+1280-4	PSB147	1280	3	[$simica]	simica	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Other|Language=NO_ISO_CODE|Nonce=Yes	_	End=1678.745	_	_	_	0-7(427)
 1281-0	PSB153	1281	0	[sì	sì	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	Begin=1677.996	_	_	_	0-2(427)
 1281-1	PSB153	1281	1	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	X(427)
 1281-2	PSB153	1281	2	chi]mic[a]	chimica	_	_	_	_	_	linguistic	_	_	_	End=1679.226	_	_	_	0-3(427),6-7(428)

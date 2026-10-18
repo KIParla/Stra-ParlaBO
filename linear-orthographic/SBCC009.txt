@@ -1587,7 +1587,7 @@ PSB120	#_ dà lián
 PSB104	#dà tú shā è massacro
 PSB105	brava
 PSB120	uh
-PSB104	raga cioè voi avete detto quattrocento parole e io ho capito tú shā però sono contenta che siate così felici per me
+PSB104	raga cioè voi avete detto quattrocento parole e io ho capito #tú #shā però sono contenta che siate così felici per me
 PSB119	hai un vocabolario molto professionale
 PSB104	è per la mh il massacro delle balene
 PSB105	ah sì sì sì
@@ -1653,8 +1653,8 @@ PSB104	perché io
 PSB104	a me piace tantissimo
 PSB104	eh un cartone cinese
 PSB104	che si chiama ehm #sister #seven
-PSB104	che non mi ricordo che sar~ che sarebbe wǔ liù qī
-PSB104	che sarebbe wǔ liù qī cinque sei sette
+PSB104	che non mi ricordo che sar~ che sarebbe #wǔ #liù #qī
+PSB104	che sarebbe #wǔ #liù qī cinque sei sette
 PSB104	eh sì no cercalo eh io ho guardato tutte le stagioni è tipo il mio preferito in cinese l'ho guardato sempre
 PSB105	come si chiama
 PSB104	#sister #seven tipo
@@ -2486,7 +2486,7 @@ PSB120	#_ nán de dōu ài miàn zi
 PSB120	#_ miàn zi zěn me shuō a
 PSB104	è la faccia no #miàn zi
 PSB105	sì
-PSB104	infatti méi yǒu miàn zi non è tipo mh faccia
+PSB104	infatti #méi #yǒu #miàn #zi non è tipo mh faccia
 PSB105	sì sì sì sì
 PSB104	tipo è senza vergogna
 PSB119	come si dice in italia per dire faccia
